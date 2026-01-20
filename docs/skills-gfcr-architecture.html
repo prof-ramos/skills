@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skills GFCR Architecture</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Source+Serif+4:wght@400;600&display=swap");
+
+    :root {
+      --ink: #0f172a;
+      --muted: #475569;
+      --bg: #f6f4f0;
+      --panel: #ffffff;
+      --data: #2b6cb0;
+      --process: #ed8936;
+      --ai: #6b7280;
+      --success: #2f855a;
+      --accent: #b45309;
+      --stroke: #e2e8f0;
+      --shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Space Grotesk", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at top left, #fef3c7 0%, var(--bg) 45%, #e2e8f0 100%);
+    }
+
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    header {
+      background: linear-gradient(135deg, #111827 0%, #1f2937 60%, #374151 100%);
+      color: #f9fafb;
+      padding: 32px;
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+    }
+
+    header h1 {
+      margin: 0 0 8px;
+      font-size: clamp(28px, 3vw, 38px);
+      letter-spacing: -0.5px;
+    }
+
+    header p {
+      margin: 0;
+      color: #e5e7eb;
+      max-width: 700px;
+    }
+
+    .section {
+      margin-top: 32px;
+      background: var(--panel);
+      border-radius: 18px;
+      padding: 28px;
+      border: 1px solid var(--stroke);
+      box-shadow: var(--shadow);
+    }
+
+    .section h2 {
+      margin: 0 0 16px;
+      font-size: 22px;
+    }
+
+    .grid {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .card {
+      padding: 16px;
+      border-radius: 14px;
+      background: #f8fafc;
+      border: 1px solid var(--stroke);
+    }
+
+    .label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .two-col {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+
+    svg {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      background: #fef3c7;
+      color: #92400e;
+      font-weight: 600;
+    }
+
+    .stack {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .stack .layer {
+      padding: 12px 16px;
+      border-radius: 12px;
+      border: 1px solid var(--stroke);
+      background: #f9fafb;
+    }
+
+    .layer strong {
+      display: block;
+      margin-bottom: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Skills GFCR Architecture Overview</h1>
+      <p>
+        Repository for custom Claude skills and MCP servers. Focused on structured skill packaging,
+        reusable scripts, and operational tooling for GitHub automation.
+      </p>
+    </header>
+
+    <section class="section">
+      <h2>Business Context</h2>
+      <div class="grid">
+        <div class="card">
+          <div class="label">Objectives</div>
+          <p>Centralize curated Claude skills and MCP tooling with consistent packaging.</p>
+        </div>
+        <div class="card">
+          <div class="label">Primary Users</div>
+          <p>Developers and operators who manage skills and GitHub automation workflows.</p>
+        </div>
+        <div class="card">
+          <div class="label">Value</div>
+          <p>Repeatable skill onboarding, faster reuse, and safer repo operations.</p>
+        </div>
+        <div class="card">
+          <div class="label">Success Metrics</div>
+          <p>Installed skills, automation run time, and GitHub API task completion.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Data Flow</h2>
+      <div class="two-col">
+        <div>
+          <p class="pill">Sources to Outcomes</p>
+          <p>Skills and documentation are loaded into the agent runtime, which drives tooling and outputs.</p>
+        </div>
+        <div></div>
+      </div>
+      <svg viewBox="0 0 900 220" role="img" aria-label="Data flow">
+        <defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#6b7280"></path>
+          </marker>
+        </defs>
+        <rect x="30" y="70" width="180" height="80" rx="12" fill="var(--data)" opacity="0.9" />
+        <text x="120" y="105" fill="#fff" text-anchor="middle" font-size="14">Skills + Docs</text>
+        <text x="120" y="126" fill="#e2e8f0" text-anchor="middle" font-size="12">skills/, docs/</text>
+        <rect x="360" y="70" width="180" height="80" rx="12" fill="var(--process)" opacity="0.9" />
+        <text x="450" y="105" fill="#1f2937" text-anchor="middle" font-size="14">Runtime + MCP</text>
+        <text x="450" y="126" fill="#4b5563" text-anchor="middle" font-size="12">Claude + supergithub</text>
+        <rect x="690" y="70" width="180" height="80" rx="12" fill="var(--success)" opacity="0.9" />
+        <text x="780" y="105" fill="#fff" text-anchor="middle" font-size="14">Outputs</text>
+        <text x="780" y="126" fill="#d1fae5" text-anchor="middle" font-size="12">CLI actions, zips</text>
+        <path d="M210,110 L360,110" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)" />
+        <path d="M540,110 L690,110" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)" />
+      </svg>
+    </section>
+
+    <section class="section">
+      <h2>Processing Pipeline</h2>
+      <svg viewBox="0 0 900 180" role="img" aria-label="Processing pipeline">
+        <rect x="30" y="50" width="190" height="70" rx="12" fill="#e0f2fe" stroke="var(--data)" />
+        <text x="125" y="88" text-anchor="middle" fill="#0f172a" font-size="13">Ingest skills</text>
+        <text x="125" y="108" text-anchor="middle" fill="#475569" font-size="11">SKILL.md + refs</text>
+        <rect x="255" y="50" width="190" height="70" rx="12" fill="#fff7ed" stroke="var(--process)" />
+        <text x="350" y="88" text-anchor="middle" fill="#0f172a" font-size="13">Index assets</text>
+        <text x="350" y="108" text-anchor="middle" fill="#475569" font-size="11">scripts + assets</text>
+        <rect x="480" y="50" width="190" height="70" rx="12" fill="#f3f4f6" stroke="var(--ai)" />
+        <text x="575" y="88" text-anchor="middle" fill="#0f172a" font-size="13">Execute</text>
+        <text x="575" y="108" text-anchor="middle" fill="#475569" font-size="11">tooling + MCP</text>
+        <rect x="705" y="50" width="190" height="70" rx="12" fill="#ecfdf3" stroke="var(--success)" />
+        <text x="800" y="88" text-anchor="middle" fill="#0f172a" font-size="13">Package</text>
+        <text x="800" y="108" text-anchor="middle" fill="#475569" font-size="11">dist artifacts</text>
+        <path d="M220,85 L255,85" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)" />
+        <path d="M445,85 L480,85" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)" />
+        <path d="M670,85 L705,85" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)" />
+      </svg>
+    </section>
+
+    <section class="section">
+      <h2>System Architecture</h2>
+      <div class="two-col">
+        <div class="stack">
+          <div class="layer">
+            <strong>Data Layer</strong>
+            skills/, docs/, reference templates, skill zip artifacts
+          </div>
+          <div class="layer">
+            <strong>Processing Layer</strong>
+            skill scripts, validation, packaging, local helpers
+          </div>
+          <div class="layer">
+            <strong>Service Layer</strong>
+            MCP server (supergithub) for GitHub API operations
+          </div>
+          <div class="layer">
+            <strong>Output Layer</strong>
+            CLI actions, repo updates, packaged skill distributions
+          </div>
+        </div>
+        <div class="stack">
+          <div class="layer">
+            <strong>Key Modules</strong>
+            skills/ (ui-ux-pro-max, brazilian-official-docs, social-ads-creator)
+          </div>
+          <div class="layer">
+            <strong>Automation</strong>
+            gh_cli.py and github_repo_manager.py for repo lifecycle tasks
+          </div>
+          <div class="layer">
+            <strong>Documentation</strong>
+            README.md, implementation_plan.md, and official skill references
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Features</h2>
+      <div class="grid">
+        <div class="card">
+          <div class="label">Functional</div>
+          <p>Skill authoring, validation, and packaging for local Claude usage.</p>
+        </div>
+        <div class="card">
+          <div class="label">Functional</div>
+          <p>GitHub repository lifecycle actions: list, archive, delete, topics, create.</p>
+        </div>
+        <div class="card">
+          <div class="label">Functional</div>
+          <p>Brazilian official document templates and validation scripts.</p>
+        </div>
+        <div class="card">
+          <div class="label">Non-Functional</div>
+          <p>Security-conscious CLI with confirmations and token validation.</p>
+        </div>
+        <div class="card">
+          <div class="label">Non-Functional</div>
+          <p>Portability via documented structure and asset bundling.</p>
+        </div>
+        <div class="card">
+          <div class="label">Non-Functional</div>
+          <p>Extensible skill catalog aligned with Anthropic conventions.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Deployment</h2>
+      <div class="two-col">
+        <div class="card">
+          <div class="label">Local Setup</div>
+          <p>Clone repo, install dependencies for servers, and set GH_TOKEN.</p>
+          <p>Run CLI tools from servers/supergithub or load skills/ into Claude.</p>
+        </div>
+        <div class="card">
+          <div class="label">Workflow</div>
+          <p>Author or update skills, validate scripts, then package into dist/ for reuse.</p>
+          <p>Use MCP server to automate GitHub maintenance at scale.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>

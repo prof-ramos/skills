@@ -1,18 +1,40 @@
+# macOS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
 __pycache__/
 *.pyc
 venv/
 .venv/
 env/
+*.egg-info/
+
+# Node.js
 node_modules/
+
+# IDEs
 .idea/
 .vscode/
+*.swp
+*.swo
+
+# Logs
 *.log
+
 # Distribution / Build
 dist/
 build/
-*.egg-info/
+
 # Ignorar zips genéricos, mas manter a pasta de skills
 **/*.zip
 **/*.skill
 !skills/
+
+# Cache interno
+.hive/
