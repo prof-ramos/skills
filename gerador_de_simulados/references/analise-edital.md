@@ -4,8 +4,6 @@ description: Metodologia detalhada para extração de informações de editais d
 type: reference
 ---
 
-# Guia de Análise de Editais
-
 Metodologia detalhada para extração de informações de editais de concursos públicos.
 
 ## Estrutura Típica de um Edital
