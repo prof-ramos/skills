@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloudflare Workers"
+  short_description: "Build and deploy edge apps on Cloudflare"
+  default_prompt: "Use $cloudflare-workers to scaffold, configure bindings, and deploy a production-ready Cloudflare Worker."
