@@ -1,0 +1,35 @@
+flowchart TB
+    A["Solicitação do teste"] --> B{"Autorização escrita e escopo definidos?"}
+    B -->|"Não"| C["Interromper processo e orientar regularização"]
+    B -->|"Sim"| P1
+
+    subgraph PESQUISA["Pesquisa"]
+        direction TB
+        P1["Levantamento OSINT"] --> P2["Mapeamento de domínio e IP"]
+        P2 --> P3["Descoberta de subdomínios, portas e serviços"]
+        P3 --> P4["Definição do plano de execução"]
+    end
+
+    subgraph USO["Uso"]
+        direction TB
+        U1["Recon com scripts/recon.py"] --> U2["Scanner com scripts/scanner.py"]
+        U2 --> U3["Análise com scripts/analyzer.py"]
+        U3 --> U4["Consolidação técnica dos achados"]
+    end
+
+    subgraph RELATORIO["Relatório"]
+        direction TB
+        R1["Classificação de risco e impacto"] --> R2["Resumo executivo"]
+        R2 --> R3["Relatório técnico detalhado"]
+        R3 --> R4["Hash de integridade e artefatos finais"]
+        R4 --> R5["Entrega responsável ao cliente"]
+    end
+
+    P4 --> U1
+    U4 --> R1
+
+    style PESQUISA fill:#1f3348,stroke:#64b5f6,stroke-width:2px,color:#ffffff
+    style USO fill:#243b2a,stroke:#81c784,stroke-width:2px,color:#ffffff
+    style RELATORIO fill:#4a3722,stroke:#ffb74d,stroke-width:2px,color:#ffffff
+    style B fill:#5c2b29,stroke:#ef5350,stroke-width:2px,color:#ffffff
+    style C fill:#6d1b1b,stroke:#ff8a80,stroke-width:2px,color:#ffffff

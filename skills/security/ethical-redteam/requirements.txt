@@ -1,0 +1,34 @@
+# Ethical Red Team Skill - Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Core
+dnspython>=2.6.0
+requests>=2.31.0
+rich>=13.7.0
+
+# Security Tools
+python-nmap>=0.7.1
+shodan>=1.31.0
+ipwhois>=1.3.0
+
+# OSINT — Username / Social Media
+sherlock-project>=0.15.0   # pip install sherlock-project | github.com/sherlock-project/sherlock
+# blackbird: git clone https://github.com/p1ngul1n0/blackbird.git (não disponível via pip)
+
+# Subdomain Enumeration (Python fallback — preferir subfinder via Go)
+sublist3r>=1.1              # pip install sublist3r | alternativa a subfinder quando Go não disponível
+
+# Report Generation
+markdown2>=2.4.13
+jinja2>=3.1.4
+reportlab>=4.1.0
+
+# Utilities
+beautifulsoup4>=4.12.0
+pyfiglet>=1.0.2
+cryptography>=42.0.0
+
+# Burp Suite MCP Integration (Community Edition)
+# Protocolo MCP SSE implementado com requests (já incluso acima)
+# Extensão Burp: https://github.com/portswigger/mcp-server
+# Build: ./gradlew embedProxyJar → carregue o JAR em Extensions → Add → Java

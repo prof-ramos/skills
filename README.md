@@ -12,11 +12,17 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 │   │   ├── cyberduck-expert/
 │   │   ├── n8n-skills-2.1.1/
 │   │   └── shopee-affiliate-automation/
+│   ├── compliance/          # Conformidade jurídica e técnica
+│   │   └── lgpd-checklist/
 │   ├── content/             # Documentação e conteúdo
 │   │   ├── brazilian-official-docs/
 │   │   └── social-ads-creator/
-│   └── design/              # UI/UX e design
-│       └── ui-ux-pro-max/
+│   ├── design/              # UI/UX e design
+│   │   └── ui-ux-pro-max/
+│   └── security/            # Red teaming e segurança ofensiva
+│       ├── ethical-redteam/
+│       ├── vuln-discovery/
+│       └── vuln-hunt/
 ├── servers/                 # Servidores MCP
 │   └── supergithub/         # Gerenciador de repositórios GitHub
 ├── docs/                    # Documentação e referências
@@ -47,6 +53,20 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 | Skill | Descrição |
 |-------|-----------|
 | **UI/UX Pro Max** | Design system com 50 estilos, paletas, tipografia |
+
+### Segurança
+
+| Skill | Descrição |
+|-------|-----------|
+| **Ethical Red Team** | Red Team e Bug Bounty autorizado para agentes de IA |
+| **Vuln Discovery** | Pipeline autônomo de descoberta de vulnerabilidades em 8 fases |
+| **Vuln Hunt** | Automação de varreduras de segurança e caça a falhas |
+
+### Compliance / Legal
+
+| Skill | Descrição |
+|-------|-----------|
+| **LGPD Checklist** | Checklist e base legal em conformidade com a LGPD |
 
 ## 🛠️ Servidores MCP
 

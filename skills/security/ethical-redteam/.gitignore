@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv-redteam/
+venv/
+
+# Output directories
+recon_output/
+scan_output/
+analysis/
+reports/
+saida/
+e2e_output/
+e2e/
+logs/
+
+# External tools (large binaries, user-installed)
+tools/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# OMC
+.omc/
+
+# Local agent/tool state
+.omx/
+.claude/skills/
+.claude/worktrees/
+
+# Skill distribution artifacts
+*.zip

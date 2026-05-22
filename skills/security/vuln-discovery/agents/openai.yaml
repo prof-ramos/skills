@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vuln Discovery"
+  short_description: "8-phase vulnerability discovery and security audit pipeline"
+  default_prompt: "Use $vuln-discovery to find vulnerabilities in this codebase"

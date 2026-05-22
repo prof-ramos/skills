@@ -1,0 +1,177 @@
+# Ethical Red Team & Bug Bounty Skill
+
+Professional security testing skill for conducting authorized penetration tests with OSINT reconnaissance, port scanning, vulnerability analysis, and OWASP/NIST-compliant report generation.
+
+## Project Purpose
+
+This is a Claude Code skill (compatible with skills.sh) that provides ethical red teaming and bug bounty capabilities. It is designed exclusively for **authorized security testing** on controlled environments.
+
+## Tech Stack
+
+- **Python 3.11+** - Main implementation language
+- **nmap** - Port scanning (via Homebrew)
+- **TOR** - MANDATORY for all operations (anonymity)
+- **python-nmap** - Nmap integration
+- **dnspython** - DNS operations
+- **ipwhois** - WHOIS queries
+- **requests** - HTTP requests
+- **rich** - Terminal UI
+- **jinja2** - Report template engine
+- **macOS 13+** / Apple Silicon M3 optimized
+
+## Directory Structure
+
+```
+redteamramos/
+├── scripts/                    # Python security modules
+│   ├── recon.py              # OSINT/DNS reconnaissance
+│   ├── scanner.py            # Nmap port scanning (quick/standard/deep profiles)
+│   ├── analyzer.py           # CVSS scoring & vulnerability analysis
+│   ├── reporter.py           # MD+PDF report generation
+│   ├── utils.py              # Shared utilities & logging
+│   └── install.sh            # Automated installer
+├── references/                # Documentation & compliance
+│   ├── ethics-guide.md       # Legal compliance guide
+│   ├── owasp-checklist.md    # OWASP/NIST methodology
+│   ├── examples/             # Sample reports & templates
+│   └── AGENTS.md             # References documentation
+├── SKILL.md                   # Skill metadata for skills.sh
+├── README.md                  # Full project documentation
+├── AGENTS.md                  # Main project AGENTS.md
+├── check-deps.sh              # Dependency verification script
+└── .gitignore                 # Python/macOS exclusions
+```
+
+## Core Workflow
+
+```
+Recon → Scanner → Analyzer → Reporter
+```
+
+1. **Reconnaissance** (`recon.py`) - Passive/active OSINT, DNS, WHOIS, subdomain enumeration
+2. **Scanning** (`scanner.py`) - Three profiles: quick (top 100 ports), standard (top 1000), deep (all ports)
+3. **Analysis** (`analyzer.py`) - CVSS scoring, vulnerability categorization
+4. **Reporting** (`reporter.py`) - Professional MD+PDF reports with integrity hashes
+
+## Usage Example
+
+```bash
+# 0. Check dependencies (MANDATORY - verifies TOR is running)
+./check-deps.sh
+
+# 1. Activate environment
+source .venv-redteam/bin/activate
+
+# 2. Passive reconnaissance
+python scripts/recon.py --target example.com --mode passive --output recon_output/
+
+# 3. Port scanning (standard profile)
+python scripts/scanner.py --target 192.168.1.1 --profile standard --output scan_output/
+
+# 4. Analyze findings with CVSS scoring
+python scripts/analyzer.py --scan scan_output/example_scan_*.json --output analysis/
+
+# 5. Generate professional reports
+python scripts/reporter.py --analysis analysis/example_analysis_*.json --target "Example Corp" --tester "Security Team" --output reports/
+```
+
+## Critical Ethical Requirements
+
+| Principle | Description |
+|-----------|-------------|
+| **Authorization First** | NEVER test without written permission |
+| **Scope Adherence** | Stay within authorized targets only |
+| **Minimum Impact** | Prefer passive recon, avoid DoS |
+| **Documentation** | Log all actions for audit trail |
+| **Responsible Disclosure** | Report findings privately, allow remediation |
+| **TOR Required** | All network operations MUST use TOR for anonymity |
+
+## TOR Requirement (MANDATORY)
+
+All operations require TOR to be running:
+
+```bash
+# Install TOR
+brew install tor
+
+# Start TOR service
+brew services start tor
+
+# Verify TOR connection
+curl --socks5 127.0.0.1:9050 https://check.torproject.org
+
+# Run dependency check (includes TOR verification)
+./check-deps.sh
+```
+
+**Scripts will NOT execute unless:**
+1. All dependencies are installed
+2. TOR daemon is running
+3. SOCKS5 connection is working
+
+## Installation
+
+```bash
+npx skills add prof-ramos/ethical-redteam-skill
+```
+
+Or manually:
+```bash
+# Install system dependencies
+brew install nmap tor
+
+# Create and activate virtual environment
+python3.11 -m venv .venv-redteam
+source .venv-redteam/bin/activate
+
+# Install Python dependencies
+pip install python-nmap dnspython ipwhois requests rich jinja2
+
+# Verify all dependencies (including TOR)
+./check-deps.sh
+```
+
+## Module Reference
+
+| Module | Input | Output | Time | TOR |
+|--------|-------|--------|------|-----|
+| recon.py | domain/IP | JSON with DNS, WHOIS, subdomains | 1-5 min | ✓ |
+| scanner.py | IP/CIDR | JSON with open ports, services | 2-15 min | ✓ |
+| analyzer.py | scan JSON | JSON with CVSS-scored findings | <1 min | - |
+| reporter.py | analysis JSON | MD + PDF reports | <1 min | - |
+
+## Compliance
+
+- **OWASP Top 10** coverage mapping included
+- **NIST SP 800-115** technical assessment compliance
+- Report templates include integrity hashes for non-repudiation
+- All network operations routed through TOR for researcher anonymity
+
+## Testing Environments
+
+| Environment | Use Case | Example Targets |
+|-------------|----------|-----------------|
+| Local Lab | Learning, tool testing | localhost, VMs |
+| Bug Bounty | Authorized programs | HackerOne, Intigriti |
+| Contractual | Client engagements | Contract-specified |
+| Online Labs | Practice | HackTheBox, TryHackMe |
+
+## For AI Agents Working on This Project
+
+- **CRITICAL**: This skill is exclusively for **authorized** security testing
+- **TOR is MANDATORY**: Always verify TOR is running before executing network operations
+- Always validate written authorization before executing modules
+- All Python scripts require Python 3.11+
+- Output uses timestamped directories for traceability
+- Memory-optimized for max 4GB RAM usage (Apple Silicon M3)
+
+## Contributing
+
+- Follow PEP 8 for Python code
+- Use ShellCheck for bash scripts
+- Conventional Commits format: `feat:`, `fix:`, `docs:`
+- PR process: fork → branch → commit → push → PR
+
+## Version
+
+Current: 1.0.0 (Semantic Versioning)
