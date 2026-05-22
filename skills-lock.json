@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "file-organization": {
+      "source": "SC-Airu/skills-template",
+      "sourceType": "github",
+      "skillPath": ".agent-skills/utilities/file-organization/SKILL.md",
+      "computedHash": "d60010596c986bdbe563af0d23cef1d899b515186486b53ad97e5a349ed54fcb"
+    }
+  }
+}
