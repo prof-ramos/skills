@@ -1,16 +1,6 @@
 ---
 name: brazilian-official-docs
-description: Create and validate Brazilian official documents (ofícios, memorandos, pareceres, notas técnicas) following Brazilian government standards (Manual da Presidência, Manual do Itamaraty, ABNT). Use when creating formal government documents, validating document compliance with Brazilian norms, or needing reference material on Brazilian official writing standards. Includes LaTeX templates, Python generators, validators, and comprehensive reference documentation on Brazilian official communication standards.
-language: pt
-tags:
-  - documentation
-  - government
-  - brazil
-  - latex
-  - validation
-  - official-documents
-  - abnt
-version: 1.0.0
+description: "Use SEMPRE que o usuário precisar criar ou validar documentos oficiais brasileiros — ofícios, memorandos, pareceres, notas técnicas, despachos. Gatilhos: redigir ofício, escrever memorando, documento oficial, Manual da Presidência, Manual do Itamaraty, ABNT, pronome de tratamento, fecho padrão, nota técnica. Inclui templates LaTeX, gerador Python e validador automático."
 ---
 
 # Brazilian Official Documents

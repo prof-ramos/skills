@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1779164592860,
+  "projectRoot": "/Users/gabrielramos/skills-gfcr",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "cd /Users/gabrielramos/projetos/ASOF/intranet && npx tsc --noEmit 2>&1 | head -30",
+    "testCommand": "cd /Users/gabrielramos/projetos/ASOF/intranet && npx vitest run src/lib/associates/ 2>&1 | tail -8",
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "cloudflare-workers": {
+      "path": "cloudflare-workers",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1779164592815,
+      "keyFiles": [
+        "SKILL.md"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1779164592816,
+      "keyFiles": [
+        "skills-gfcr-architecture.html"
+      ]
+    },
+    "gerador_de_simulados": {
+      "path": "gerador_de_simulados",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1779164592817,
+      "keyFiles": [
+        "README.md",
+        "SKILL.md"
+      ]
+    },
+    "servers": {
+      "path": "servers",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779164592820,
+      "keyFiles": []
+    },
+    "skills": {
+      "path": "skills",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779164592820,
+      "keyFiles": []
+    },
+    "cloudflare-workers/scripts": {
+      "path": "cloudflare-workers/scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1779164592821,
+      "keyFiles": [
+        "scaffold-worker.sh"
+      ]
+    },
+    "gerador_de_simulados/assets": {
+      "path": "gerador_de_simulados/assets",
+      "purpose": "Static assets",
+      "fileCount": 1,
+      "lastAccessed": 1779164592821,
+      "keyFiles": [
+        "template_simulado.md"
+      ]
+    },
+    "gerador_de_simulados/examples": {
+      "path": "gerador_de_simulados/examples",
+      "purpose": "Example code",
+      "fileCount": 2,
+      "lastAccessed": 1779164592822,
+      "keyFiles": [
+        "discursivas.pdf",
+        "edital_policial_legislativo.md"
+      ]
+    },
+    "gerador_de_simulados/scripts": {
+      "path": "gerador_de_simulados/scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1779164592823,
+      "keyFiles": [
+        "gerar_simulado_pdf.py"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

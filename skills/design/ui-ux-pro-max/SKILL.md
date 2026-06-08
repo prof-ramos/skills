@@ -1,22 +1,6 @@
 ---
 name: ui-ux-pro-max
-description: "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient."
-language: en
-tags:
-  - ui/ux
-  - design
-  - frontend
-  - accessibility
-  - react
-  - nextjs
-  - vue
-  - svelte
-  - swiftui
-  - flutter
-  - tailwind
-  - color-palettes
-  - typography
-version: 1.0.0
+description: "Always use when the user asks to design, build, create, improve, or review any UI/UX — websites, landing pages, dashboards, admin panels, e-commerce, SaaS, mobile apps, or individual components. Trigger on: 'make it look better', 'design a landing page', 'build a dashboard', 'UI for my app', 'color palette', 'font pairing', 'glassmorphism', 'dark mode', 'improve my UI', 'add animations', 'responsive design'. Supports 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind), 50 styles, 21 palettes, 50 font pairings, 20 chart types. Includes pre-delivery checklist for professional-quality output."
 ---
 
 # UI/UX Pro Max - Design Intelligence

@@ -1,19 +1,10 @@
 ---
 name: n8n-skills
-description: "n8n workflow automation knowledge base. Provides n8n node information, node functionality details, workflow patterns, and configuration examples. Covers triggers, data transformation, data input/output, AI integration, covering 10 nodes. Keywords: n8n, workflow, automation, node, trigger, webhook, http request, database, ai agent."
+description: "Always use when the user asks about n8n, wants to build automation workflows, needs help with n8n nodes (HTTP Request, Webhook, Set, IF, AI Agent, Postgres, etc.), wants to integrate APIs, trigger workflows, or automate data pipelines. Trigger on: 'build n8n workflow', 'n8n node', 'automate with n8n', 'webhook trigger', 'n8n integration'."
 license: MIT
 metadata:
   author: Frank Chen
   version: "2.1.1"
-language: en
-tags:
-  - n8n
-  - workflow-automation
-  - low-code
-  - integration
-  - webhooks
-  - api
-  - data-transformation
 ---
 
 # n8n Workflow Automation Skill Pack

@@ -1,6 +1,6 @@
 ---
 name: cyberduck-expert
-description: Expert guidance for CyberDuck and duck CLI for file transfer operations. Use this skill when working with FTP, SFTP, S3, Google Drive, Dropbox, Azure, or other cloud storage protocols. Handles upload, download, synchronization, and management of remote files and directories using both the GUI application and command-line interface.
+description: "Always use when the user asks about the duck CLI, needs to transfer files via SFTP/FTP/S3/WebDAV, wants to automate uploads or sync to cloud storage (Google Drive, Dropbox, Azure, Backblaze B2), or asks about CyberDuck configuration, bookmarks, or profiles. Trigger on: 'duck upload', 'sync to S3', 'SFTP transfer', 'CyberDuck', 'automate file transfer', 'cloud storage CLI'."
 ---
 
 # CyberDuck Expert
@@ -8,18 +8,6 @@ description: Expert guidance for CyberDuck and duck CLI for file transfer operat
 ## Overview
 
 Provide expert assistance with CyberDuck (GUI) and duck CLI for file transfer and cloud storage operations. Cover all major protocols (FTP, SFTP, S3, WebDAV, Google Drive, Dropbox, Azure, Backblaze B2) and operations (upload, download, sync, list, delete, permissions).
-
-## When to Use This Skill
-
-Trigger this skill when the user needs to:
-- Transfer files to/from remote servers or cloud storage
-- Work with FTP, SFTP, FTPS, or WebDAV protocols
-- Manage S3, Google Cloud Storage, Azure Blob, or Backblaze B2 buckets
-- Synchronize local and remote directories
-- Automate file transfer operations via CLI
-- Configure connection profiles or bookmarks
-- Handle batch operations on remote files
-- Work with CDN configurations (CloudFront, Akamai, Fastly)
 
 ## Core Concepts
 

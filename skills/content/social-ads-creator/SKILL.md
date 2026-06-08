@@ -1,18 +1,6 @@
 ---
 name: social-ads-creator
-description: Framework estratégico para criação de conteúdo orgânico de alta conversão em redes sociais (Instagram/Facebook/TikTok/LinkedIn). Use quando o usuário pedir para criar posts, copies para redes sociais, carrosséis, legendas, conteúdo para stories, ou qualquer publicação orgânica. Especializado em conteúdo "scroll stopper" para profissionais (professores, psicólogos, advogados), empresas, influencers e criadores de conteúdo. Baseado em frameworks psicológicos (PAS, AIDA, prova social, autoridade, storytelling).
-language: pt
-tags:
-  - social-media
-  - marketing
-  - content-creation
-  - copywriting
-  - instagram
-  - facebook
-  - tiktok
-  - linkedin
-  - organic-growth
-version: 1.0.0
+description: "Use SEMPRE que o usuário pedir para criar conteúdo para redes sociais, escrever copy, fazer post para Instagram, criar carrossel, escrever legenda para TikTok/Reels, hook para vídeo, ou qualquer publicação orgânica. Gatilhos: criar conteúdo para redes sociais, fazer post para Instagram, escrever copy, criar carrossel, hook para reel, legenda para TikTok, stories, conteúdo orgânico. Framework estratégico baseado em PAS, AIDA, prova social, autoridade e storytelling para Instagram, Facebook, TikTok e LinkedIn."
 ---
 
 # Social Ads Creator
