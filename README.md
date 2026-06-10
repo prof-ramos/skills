@@ -17,6 +17,8 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 │   ├── content/             # Documentação e conteúdo
 │   │   ├── brazilian-official-docs/
 │   │   └── social-ads-creator/
+│   ├── agent-workflows/     # Workflows e automação de agentes
+│   │   └── skill-cleaner/
 │   ├── design/              # UI/UX e design
 │   │   └── ui-ux-pro-max/
 │   └── security/            # Red teaming e segurança ofensiva
@@ -47,6 +49,12 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 |-------|-----------|
 | **Brazilian Official Docs** | Documentos oficiais seguindo normas brasileiras |
 | **Social Ads Creator** | Criação de anúncios para redes sociais |
+
+### Agent Workflows
+
+| Skill | Descrição |
+|-------|-----------|
+| **Skill Cleaner** | Auditoria e otimização do budget de skills no prompt de agentes AI |
 
 ### Design
 
