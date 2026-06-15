@@ -18,9 +18,9 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 │   ├── content/
 │   │   ├── brazilian-official-docs/
 │   │   └── social-ads-creator/
-│   ├── agent-workflows/     # Workflows e automação de agentes
+│   ├── agent-workflows/     # Workflows e automação de agentes (adicionado no main)
 │   │   └── skill-cleaner/
-│   ├── design/              # UI/UX e design
+│   ├── design/
 │   │   └── ui-ux-pro-max/
 │   ├── security/
 │   │   ├── ethical-redteam/
