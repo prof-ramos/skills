@@ -481,61 +481,16 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
             json.dump(state, f, indent=2)
         print(f" [KHAOS] State saved to {STATE_FILE}")
 
-        # --- QUERY LOOP ---
-        print()
-        print(" [KHAOS] Entering query loop. Type your queries or /exit to quit.")
-        print(" [KHAOS]   Commands: /exit, /save, /context, /help")
-        print()
-
-        # Fixed context: system prompt + prefill + activation exchange
-        fixed_messages = activation_messages
-        # Rolling history: activation response + recent turns
-        history = [{"role": "assistant", "content": reply}]
-
-        while True:
-            try:
-                query = input("> ").strip()
-            except (EOFError, KeyboardInterrupt):
-                print()
-                print(" [KHAOS] Shutting down.")
-                break
-
-            if not query:
-                continue
-            if query.lower() == "/exit":
-                print(" [KHAOS] Shutting down.")
-                break
-            if query.lower() == "/save":
-                if session:
-                    honcho_save_memory(honcho, session, agent_peer, history[-5:])
-                    print(" [KHAOS] Recent messages saved to Honcho.")
-                continue
-            if query.lower() == "/context":
-                ctx = honcho_get_context(honcho, session, agent_peer)
-                if ctx:
-                    print(f" [KHAOS] Context recovered ({len(ctx.messages or [])} messages)")
-                else:
-                    print(" [KHAOS] No prior context found.")
-                continue
-            if query.lower() == "/help":
-                print(" [KHAOS] Commands: /exit, /save, /context, /help")
-                continue
-
-            history.append({"role": "user", "content": query})
-
-            try:
-                resp = client.chat.completions.create(
-                    model=model_name,
-                    messages=fixed_messages + history[-MAX_HISTORY_TURNS*2:],
-                    max_tokens=2000,
-                    temperature=0.85,
-                    timeout=120,
-                )
-                reply_text = resp.choices[0].message.content
-                print(f"\nKHAOS> {reply_text}\n")
-                history.append({"role": "assistant", "content": reply_text})
-            except Exception as e:
-                print(f" [KHAOS] API error: {e}")
+        run_query_loop(
+            client=client,
+            model_name=model_name,
+            system_prompt=system_prompt,
+            prefill=prefill,
+            reply=reply,
+            honcho=honcho,
+            session=session,
+            agent_peer=agent_peer,
+        )
 
     except Exception as e:
         print(f" [KHAOS] Activation failed: {e}")
@@ -544,6 +499,81 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
         print("     - Check model name (use --list-models to see available)")
         print("     - For Ollama Cloud, names do NOT have -cloud suffix")
         print("     - Try --dry-run first to validate config")
+
+
+def run_query_loop(client, model_name, system_prompt, prefill, reply,
+                   honcho=None, session=None, agent_peer=None):
+    """Interative query loop after a successful KHAOS activation.
+
+    Args:
+        client: OpenAI-compatible client instance.
+        model_name: Model ID to use for completions.
+        system_prompt: The active jailbreak system prompt.
+        prefill: List of prefill messages (priming).
+        reply: The activation response from the model.
+        honcho: Optional Honcho client for memory persistence.
+        session: Optional Honcho session.
+        agent_peer: Optional Honcho agent peer for saving messages.
+    """
+    print()
+    print(" [KHAOS] Entering query loop. Type your queries or /exit to quit.")
+    print(" [KHAOS]   Commands: /exit, /save, /context, /help")
+    print()
+
+    fixed_messages = [
+        {"role": "system", "content": system_prompt},
+        *prefill,
+    ]
+    history = [{"role": "assistant", "content": reply}]
+
+    while True:
+        try:
+            query = input("> ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print()
+            print(" [KHAOS] Shutting down.")
+            break
+
+        if not query:
+            continue
+
+        if query.lower() == "/exit":
+            print(" [KHAOS] Shutting down.")
+            break
+
+        if query.lower() == "/save":
+            if session:
+                honcho_save_memory(honcho, session, agent_peer, history[-5:])
+                print(" [KHAOS] Recent messages saved to Honcho.")
+            continue
+
+        if query.lower() == "/context":
+            ctx = honcho_get_context(honcho, session, agent_peer)
+            if ctx:
+                print(f" [KHAOS] Context recovered ({len(ctx.messages or [])} messages)")
+            else:
+                print(" [KHAOS] No prior context found.")
+            continue
+
+        if query.lower() == "/help":
+            print(" [KHAOS] Commands: /exit, /save, /context, /help")
+            continue
+
+        history.append({"role": "user", "content": query})
+
+        try:
+            resp = client.chat.completions.create(
+                model=model_name,
+                messages=fixed_messages + history[-MAX_HISTORY_TURNS*2:],
+                max_tokens=2000,
+                temperature=0.85,
+                timeout=120,
+            )
+            reply_text = resp.choices[0].message.content
+            print(f"\nKHAOS> {reply_text}\n")
+            history.append({"role": "assistant", "content": reply_text})
+        except Exception as e:
+            print(f" [KHAOS] API error: {e}")
 
 
 def list_models(provider):
