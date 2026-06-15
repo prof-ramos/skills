@@ -32,6 +32,12 @@ except ImportError:
 
 OLLAMA_CLOUD_MODELS = [
     # FAST TIER (1-10) — smaller/faster cloud models
+    # ⚠️ ATENCAO: A API REAL USA NOMES SEM sufixo `-cloud`!
+    #    A lista abaixo usa `-cloud` como placeholder para atualizacao.
+    #    Para obter nomes reais, execute no runtime:
+    #        list_ollama_models(client)  # retorna model.id
+    #    Ou via CLI:
+    #        python3 -c "from openai import OpenAI; c=OpenAI(api_key='$OLLAMA_API_KEY', base_url='https://ollama.com/v1'); [print(m.id) for m in c.models.list().data]"
     'gpt-oss:20b-cloud',
     'qwen3:8b-cloud',
     'gemma3:4b-cloud',
@@ -92,6 +98,7 @@ OLLAMA_CLOUD_MODELS = [
     'glm-5:2t-cloud',
     'llama4-maverick:2t-cloud',
 ]
+
 
 TIER_SIZES = {'fast': 10, 'standard': 24, 'smart': 38, 'power': 49, 'ultra': 55}
 
