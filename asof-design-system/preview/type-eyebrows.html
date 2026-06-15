@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Type — Eyebrows & badges</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 22px 24px; gap: 14px; display: flex; flex-direction: column; }
+  .eb-large { font-family: var(--font-sans); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--fg-4); }
+  .eb-small { font-family: var(--font-sans); font-size: 11px; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: var(--fg-2); }
+  .eb-mini  { font-family: var(--font-sans); font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--fg-3); }
+  .label { font-size: 10px; color: var(--fg-4); margin-top: 4px; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 28px; }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div>
+      <div class="eb-large">Sala de operações · 19 de maio de 2026</div>
+      <div class="label">Eyebrow · 11 / 400 · 0.18em</div>
+    </div>
+    <div>
+      <div class="eb-small">A fazer</div>
+      <div class="label">Status label · 11 / 700 · 0.10em</div>
+    </div>
+    <div>
+      <div class="eb-mini">Urgente</div>
+      <div class="label">Priority tag · 10 / 700 · 0.06em</div>
+    </div>
+    <div>
+      <div class="eb-small" style="color: var(--secondary);">Em andamento</div>
+      <div class="label">Status accent — sky blue</div>
+    </div>
+  </div>
+</body>
+</html>

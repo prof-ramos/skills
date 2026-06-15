@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Components — Buttons</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 22px 24px; }
+  .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .row + .row { margin-top: 14px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: var(--font-sans); font-size: 13px; font-weight: 600;
+    height: 40px; padding: 0 20px; border-radius: 8px; border: 0;
+    cursor: pointer; line-height: 1; transition: background-color 150ms ease;
+  }
+  .btn.primary   { background: #040920; color: #fff; }
+  .btn.primary:hover { background: #0d3260; }
+  .btn.secondary { background: #fff; color: #040920; border: 1px solid rgba(4,9,32,0.15); padding: 0 16px; }
+  .btn.secondary:hover { background: rgba(4,9,32,0.04); }
+  .btn.success { background: #15803d; color: #fff; height: 36px; padding: 0 14px; }
+  .btn.warning { background: #a16207; color: #fff; height: 36px; padding: 0 14px; }
+  .btn.error   { background: #b91c1c; color: #fff; height: 36px; padding: 0 14px; }
+  .btn .plus   { font-weight: 700; font-size: 16px; }
+  .label { font-size: 10px; color: var(--fg-4); letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; margin-right: 6px; }
+</style>
+</head>
+<body>
+  <p class="eyebrow">Buttons · primary navy + outline + semantic actions</p>
+  <div class="row">
+    <span class="label">Primary</span>
+    <button class="btn primary"><span class="plus">+</span> Nova atividade</button>
+    <button class="btn secondary">Esta semana</button>
+    <button class="btn secondary">Cancelar</button>
+  </div>
+  <div class="row">
+    <span class="label">Semantic</span>
+    <button class="btn success">Aprovar</button>
+    <button class="btn warning">Marcar aguardando</button>
+    <button class="btn error">Cancelar consulta</button>
+  </div>
+</body>
+</html>

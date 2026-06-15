@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Colors — Text</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 22px 24px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 26px; }
+  .item { display: flex; align-items: baseline; gap: 12px; padding: 6px 0; border-bottom: 1px solid var(--border-hairline); }
+  .item:last-child, .item:nth-last-child(2) { border-bottom: none; }
+  .sample { font-size: 14px; font-weight: 500; flex: 1; }
+  .meta { font-size: 10px; color: var(--fg-4); letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; }
+</style>
+</head>
+<body>
+  <p class="eyebrow">Text scale — on surface</p>
+  <div class="row">
+    <div class="item"><div class="sample" style="color:#040920;">fg-1 — Titles & primary</div><div class="meta">#040920</div></div>
+    <div class="item"><div class="sample" style="color:#0d1f3c;">fg-2 — Body default</div><div class="meta">#0d1f3c</div></div>
+    <div class="item"><div class="sample" style="color:rgba(13,31,60,0.70);">fg-3 — Secondary</div><div class="meta">70% nav</div></div>
+    <div class="item"><div class="sample" style="color:rgba(13,31,60,0.55);">fg-4 — Eyebrow / muted</div><div class="meta">55% nav</div></div>
+    <div class="item"><div class="sample" style="color:rgba(13,31,60,0.40);">fg-5 — Faint / placeholder</div><div class="meta">40% nav</div></div>
+    <div class="item" style="background:#06284f; padding: 6px 10px; border-radius: 6px;"><div class="sample" style="color:#ffffff;">on-dark — White</div><div class="meta" style="color:rgba(255,255,255,0.55);">#ffffff</div></div>
+  </div>
+</body>
+</html>

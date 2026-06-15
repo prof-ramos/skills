@@ -1,0 +1,61 @@
+/* Shared preview card styles. Pages set their own dimensions; this
+   keeps the body chromeless so the Design System tab can render each
+   card cleanly without extra framing. */
+
+@import url("../colors_and_type.css");
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--surface);
+  color: var(--on-surface);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  padding: 18px 20px;
+  box-sizing: border-box;
+}
+
+.row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.col { display: flex; flex-direction: column; }
+.stack { display: flex; flex-direction: column; gap: 10px; }
+.between { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--fg-4);
+  line-height: 1.2;
+  margin: 0 0 6px;
+}
+
+.swatch {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 0;
+}
+.swatch .chip {
+  height: 64px;
+  border-radius: 10px;
+  border: 1px solid var(--border-hairline);
+}
+.swatch .name {
+  margin-top: 8px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--fg-2);
+  line-height: 1.2;
+}
+.swatch .hex {
+  font-size: 10px;
+  color: var(--fg-4);
+  font-variant-numeric: tabular-nums;
+  margin-top: 2px;
+  letter-spacing: 0.02em;
+}

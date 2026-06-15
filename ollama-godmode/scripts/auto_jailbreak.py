@@ -8,7 +8,18 @@ finds what works, and provides the winning configuration.
 Usage via load_godmode.py:
     exec(open("skills/ollama-godmode/scripts/load_godmode.py").read())
     result = auto_jailbreak_ollama()  # Uses default Ollama endpoint
-    result = auto_jailbreak_ollama(model="gpt-oss:120b-cloud")
+    result = auto_jailbreak_ollama(model="gpt-oss:120b")  # SEM sufixo -cloud!
+
+⚠️ IMPORTANTE: a API real do Ollama Cloud NÃO usa sufixo `-cloud`.
+   Nomes reais: `gpt-oss:120b`, `gemma4:31b`, `deepseek-v4-flash`, etc.
+   Para listar modelos reais: `client.models.list()`
+   O cache local (ollama_cloud_models_cache.json) pode ter nomes diferentes.
+
+⚠️ A funcao _get_api_key() nao busca OLLAMA_API_KEY automaticamente!
+   A funcao original do Hermes so procura OPENROUTER_API_KEY, ANTHROPIC_API_KEY
+   ou OPENAI_API_KEY. Para Ollama Cloud, SEMPRE passe:
+   api_key=os.getenv("OLLAMA_API_KEY")
+   Ou faca o trick: os.environ["OPENROUTER_API_KEY"] = os.getenv("OLLAMA_API_KEY")
 """
 
 import os
@@ -328,9 +339,11 @@ def auto_jailbreak_ollama(model=None, base_url=None, api_key=None,
     4. Reports the winning combo
 
     Args:
-        model: Model ID (e.g. "gpt-oss:120b-cloud"). Auto-detected if None.
+        model: Model ID (e.g. "gpt-oss:120b"). Auto-detected if None.
         base_url: Ollama API base URL. Defaults to http://localhost:11434/v1.
         api_key: Ollama API key. Defaults to "ollama" or OLLAMA_API_KEY env var.
+                 ⚠️ Esta funcao NAO busca OLLAMA_API_KEY no _get_api_key()!
+                 Se estiver usando ollama.com, passe api_key=os.getenv("OLLAMA_API_KEY")
         canary: Custom canary query to test with. Uses default if None.
         dry_run: If True (default), don't write config files — just report.
         verbose: Print progress.
@@ -348,7 +361,7 @@ def auto_jailbreak_ollama(model=None, base_url=None, api_key=None,
     if not api_key:
         api_key = os.getenv("OLLAMA_API_KEY", "ollama")
     if not model:
-        model = os.getenv("OLLAMA_MODEL", "gpt-oss:120b-cloud")
+        model = os.getenv("OLLAMA_MODEL", "gemma4:31b")  # ⚠️ Nome real, sem -cloud!
     if not api_key:
         return {"success": False, "error": "No API key found"}
 

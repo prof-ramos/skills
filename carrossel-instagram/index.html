@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ASOF Comunica — Carrossel Instagram</title>
+  <!-- Lucide Icons for premium visual cues -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    /* ---------- Fonts Local Import ---------- */
+    @font-face {
+      font-family: "Google Sans";
+      src: url("./fonts/GoogleSans-Variable.woff2") format("woff2-variations"),
+           url("./fonts/GoogleSans-Variable.woff2") format("woff2");
+      font-weight: 400 700;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Playfair Display";
+      src: url("./fonts/Playfair-Variable.woff2") format("woff2-variations"),
+           url("./fonts/Playfair-Variable.woff2") format("woff2");
+      font-weight: 600 800;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    :root {
+      --stage-bg: #040920; /* Mapeado para o marinho quase-preto do ASOF Design System */
+      --asof-navy: #040920;
+      --asof-navy-medium: #06284f;
+      --asof-gold: #C8A84E; /* Dourado do BrandKit */
+      --asof-ice: #D0D8E8;
+      --asof-grey-blue: #8899AA;
+      --asof-dark-grey: #1A1A1A;
+      --asof-light-grey: #F4F4F4;
+
+      /* Typography from ASOF Design System */
+      --font-serif: "Playfair Display", Georgia, serif;
+      --font-sans: "Google Sans", system-ui, -apple-system, sans-serif;
+      --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(ellipse 80% 50% at 50% -10%, rgba(200, 168, 78, 0.08), transparent 70%),
+        var(--stage-bg);
+      color: var(--asof-light-grey);
+      font-family: var(--font-sans);
+      padding: 60px 24px 80px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .stage {
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+
+    /* Header styling matching ASOF BrandKit */
+    .stage-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+
+    .stage-head .title-area {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .stage-head h1 {
+      margin: 0;
+      font-family: var(--font-serif);
+      font-size: 36px;
+      font-weight: 700;
+      color: #ffffff;
+      line-height: 1.08;
+    }
+
+    .stage-head .eyebrow {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--asof-grey-blue);
+      margin-bottom: 4px;
+    }
+
+    /* ASOF Exclusive Header elements */
+    .asof-header-divider {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 12px;
+      margin-bottom: 16px;
+    }
+
+    .asof-header-divider .line {
+      width: 50px;
+      height: 2px;
+      background-color: var(--asof-gold);
+    }
+
+    .asof-header-divider .diamond {
+      width: 8px;
+      height: 8px;
+      background-color: var(--asof-gold);
+      transform: rotate(45deg);
+    }
+
+    .stage-head .description {
+      margin: 0;
+      font-family: var(--font-sans);
+      font-size: 14px;
+      line-height: 1.5;
+      color: var(--asof-grey-blue);
+      max-width: 75ch;
+    }
+
+    .stage-head .badge {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      padding: 8px 12px;
+      border: 1px solid rgba(200, 168, 78, 0.4);
+      color: var(--asof-gold);
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      border-radius: 4px;
+    }
+
+    /* Carousel Grid Row */
+    .row {
+      display: flex;
+      gap: 24px;
+      justify-content: center;
+      align-items: stretch;
+      flex-wrap: wrap;
+    }
+
+    /* Card styling */
+    .card {
+      width: clamp(280px, 30vw, 380px);
+      aspect-ratio: 1 / 1;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
+      position: relative;
+      overflow: hidden;
+      color: #ffffff;
+      transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 40px 80px rgba(200, 168, 78, 0.15);
+      border-color: rgba(200, 168, 78, 0.3);
+    }
+
+    .card .scrim {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(12, 26, 46, 0.1) 30%, rgba(12, 26, 46, 0.85) 100%);
+      pointer-events: none;
+      z-index: 2;
+    }
+
+    .card .top-strip {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      right: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      z-index: 3;
+    }
+
+    .card .brand-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      background: rgba(4, 9, 32, 0.6);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 999px;
+    }
+
+    .card .brand-chip .brand-logo {
+      height: 12px;
+      filter: brightness(0) invert(1);
+      opacity: 0.95;
+      display: block;
+    }
+
+    .card .counter-badge {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--asof-ice);
+      letter-spacing: 0.10em;
+      padding: 6px 10px;
+      background: rgba(4, 9, 32, 0.6);
+      backdrop-filter: blur(8px);
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+
+    /* Headline Lockup matching skill requirements (serif display) */
+    .card .headline-lockup {
+      position: absolute;
+      left: 24px;
+      right: 24px;
+      bottom: 84px;
+      z-index: 3;
+    }
+
+    .card .headline-lockup h2 {
+      margin: 0;
+      font-family: var(--font-serif);
+      font-size: 44px;
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -0.01em;
+      color: #ffffff;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    .card .headline-lockup h2 em {
+      font-style: italic;
+      color: var(--asof-gold);
+      font-weight: 400;
+    }
+
+    /* Footer area */
+    .card .card-footer {
+      position: absolute;
+      left: 24px;
+      right: 24px;
+      bottom: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 3;
+    }
+
+    .card .card-footer .caption-wrapper {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      max-width: 72%;
+    }
+
+    .card .card-footer .caption-icon {
+      width: 15px;
+      height: 15px;
+      stroke: var(--asof-ice);
+      stroke-width: 2px;
+      flex-shrink: 0;
+    }
+
+    .card .card-footer .caption {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      color: var(--asof-ice);
+      text-transform: uppercase;
+      line-height: 1.4;
+      letter-spacing: 0.05em;
+    }
+
+    .card .card-footer .stamp {
+      font-family: var(--font-sans);
+      font-size: 10px;
+      font-weight: 700;
+      padding: 5px 8px;
+      border: 1px solid rgba(208, 216, 232, 0.4);
+      border-radius: 4px;
+      color: var(--asof-ice);
+      letter-spacing: 0.10em;
+      white-space: nowrap;
+      flex-shrink: 0;
+      text-transform: uppercase;
+    }
+
+    /* Abstraction figures to suggest cinematic frames */
+    .card .silhouette {
+      position: absolute;
+      pointer-events: none;
+      opacity: 0.45;
+      z-index: 1;
+      transition: transform 0.5s ease;
+    }
+
+    .card:hover .silhouette {
+      transform: scale(1.05) translate(-50%, -2%);
+    }
+
+    /* Card 1: Presença (dawn colors & figure walking) */
+    .card.c1 {
+      background:
+        radial-gradient(circle at 80% 20%, rgba(200, 168, 78, 0.35) 0%, transparent 65%),
+        linear-gradient(180deg, #0C1A2E 0%, #0c213d 50%, #153866 100%);
+    }
+
+    .card.c1 .silhouette {
+      left: 50%;
+      bottom: 10%;
+      width: 70px;
+      height: 160px;
+      transform: translateX(-50%);
+      background:
+        radial-gradient(ellipse 26px 12px at 50% 25%, #060b14 0%, #060b14 60%, transparent 70%),
+        linear-gradient(180deg, #060b14 0%, #0c1524 40%, transparent 100%);
+      clip-path: polygon(35% 0%, 65% 0%, 75% 25%, 68% 60%, 65% 100%, 35% 100%, 32% 60%, 25% 25%);
+      filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.5));
+    }
+
+    /* Card 2: Cidadão (world/network & supporting figure) */
+    .card.c2 {
+      background:
+        radial-gradient(circle at 20% 80%, rgba(208, 216, 232, 0.25) 0%, transparent 60%),
+        linear-gradient(180deg, #0F2240 0%, #173563 55%, #1e4580 100%);
+    }
+
+    .card.c2 .silhouette {
+      left: 52%;
+      bottom: 12%;
+      width: 60px;
+      height: 140px;
+      transform: translateX(-50%);
+      background: linear-gradient(180deg, #060b14 0%, #0e1b2e 100%);
+      clip-path: polygon(40% 0%, 60% 0%, 70% 20%, 70% 55%, 63% 100%, 37% 100%, 30% 55%, 30% 20%);
+      filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.5));
+    }
+
+    /* Card 3: Carreira (skyline/horizon & looking ahead) */
+    .card.c3 {
+      background:
+        radial-gradient(circle at 50% 100%, rgba(136, 153, 170, 0.25) 0%, transparent 60%),
+        linear-gradient(180deg, #0C1A2E 0%, #0F2240 60%, #152438 100%);
+    }
+
+    .card.c3 .ridge {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, transparent 60%, rgba(12, 26, 46, 0.5) 80%, rgba(6, 13, 23, 0.8) 100%);
+      z-index: 1;
+    }
+
+    .card.c3 .ridge::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 15%;
+      height: 25%;
+      background: linear-gradient(180deg, #162a45 0%, #0c1a2e 100%);
+      clip-path: polygon(0% 60%, 15% 35%, 28% 50%, 42% 20%, 55% 42%, 68% 25%, 78% 45%, 90% 28%, 100% 48%, 100% 100%, 0% 100%);
+    }
+
+    .card.c3 .silhouette {
+      right: 20%;
+      bottom: 8%;
+      width: 26px;
+      height: 50px;
+      background: #060b14;
+      clip-path: polygon(35% 0%, 65% 0%, 75% 30%, 60% 100%, 40% 100%, 25% 30%);
+      filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 1100px) {
+      .row {
+        flex-direction: column;
+        align-items: center;
+        gap: 32px;
+      }
+      .card {
+        width: min(90vw, 420px);
+      }
+      .stage-head {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+      }
+      .stage-head .badge {
+        align-self: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="stage" data-od-id="stage">
+    
+    <header class="stage-head">
+      <div class="title-area">
+        <span class="eyebrow">Sala de Operações · Instagram</span>
+        <h1 data-od-id="page-title">ASOF Comunica</h1>
+        <div class="asof-header-divider">
+          <div class="line"></div>
+          <div class="diamond"></div>
+          <div class="line"></div>
+        </div>
+        <p class="description">1080×1080 · carrossel institucional · ASOF. O trabalho dos Oficiais de Chancelaria no Serviço Exterior Brasileiro.</p>
+      </div>
+      <span class="badge">SERIES · 01 → 03</span>
+    </header>
+
+    <main class="row" data-od-id="cards">
+
+      <!-- Slide 1 -->
+      <article class="card c1" data-od-id="card-1">
+        <div class="silhouette"></div>
+        <div class="scrim"></div>
+        <div class="top-strip">
+          <div class="brand-chip">
+            <img src="./assets/asof-logo-lockup.svg" alt="ASOF" class="brand-logo" />
+          </div>
+          <div class="counter-badge">OFCHAN · 01/03</div>
+        </div>
+        <div class="headline-lockup">
+          <h2 data-od-id="headline-1">servir ao <em>brasil.</em></h2>
+        </div>
+        <div class="card-footer">
+          <div class="caption-wrapper">
+            <i data-lucide="globe" class="caption-icon"></i>
+            <div class="caption">presença e representação diplomática.</div>
+          </div>
+          <div class="stamp">ASOF · 2026</div>
+        </div>
+      </article>
+
+      <!-- Slide 2 -->
+      <article class="card c2" data-od-id="card-2">
+        <div class="silhouette"></div>
+        <div class="scrim"></div>
+        <div class="top-strip">
+          <div class="brand-chip">
+            <img src="./assets/asof-logo-lockup.svg" alt="ASOF" class="brand-logo" />
+          </div>
+          <div class="counter-badge">OFCHAN · 02/03</div>
+        </div>
+        <div class="headline-lockup">
+          <h2 data-od-id="headline-2">apoiar o <em>cidadão.</em></h2>
+        </div>
+        <div class="card-footer">
+          <div class="caption-wrapper">
+            <i data-lucide="hand-helping" class="caption-icon"></i>
+            <div class="caption">assistência consular ativa no mundo.</div>
+          </div>
+          <div class="stamp">ASOF · 2026</div>
+        </div>
+      </article>
+
+      <!-- Slide 3 -->
+      <article class="card c3" data-od-id="card-3">
+        <div class="ridge"></div>
+        <div class="silhouette"></div>
+        <div class="scrim"></div>
+        <div class="top-strip">
+          <div class="brand-chip">
+            <img src="./assets/asof-logo-lockup.svg" alt="ASOF" class="brand-logo" />
+          </div>
+          <div class="counter-badge">OFCHAN · 03/03</div>
+        </div>
+        <div class="headline-lockup">
+          <h2 data-od-id="headline-3">fortalecer a <em>carreira.</em></h2>
+        </div>
+        <div class="card-footer">
+          <div class="caption-wrapper">
+            <i data-lucide="shield" class="caption-icon"></i>
+            <div class="caption">valorização dos oficiais de chancelaria.</div>
+          </div>
+          <div class="stamp">ASOF · 2026</div>
+        </div>
+      </article>
+
+    </main>
+
+  </div>
+
+  <!-- Lucide Icons Initialization script -->
+  <script>
+    lucide.createIcons();
+  </script>
+</body>
+</html>
