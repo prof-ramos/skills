@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Quem são os Oficiais de Chancelaria — ASOF</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600&display=swap">
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css">
+
+  <style>
+    :root {
+      --card-w: 1080px; --card-h: 1350px; --card-ratio: 4 / 5;
+      --preview-w: clamp(540px, (100vw - 96px) / 2.15, 669.6px);
+      --safe-top: 80px; --safe-side: 72px; --safe-bottom: 112px;
+      --s1:8px; --s2:16px; --s3:24px; --s4:32px; --s5:40px;
+      --s6:48px; --s7:56px; --s8:64px; --s9:80px; --s10:96px;
+      --header-h: 120px; --gap-h-c: 48px;
+      --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+      --navy: #0d1b3e; --navy-deep: #091331; --navy-mid: #122450; --navy-soft: #1a2f63;
+      --gold: #d4af63; --gold-bright: #e8c87d; --gold-deep: #b08f48;
+      --white: #f4f1ea;
+      --ink: rgba(244,241,234,0.94); --ink-muted: rgba(244,241,234,0.62); --ink-faint: rgba(244,241,234,0.20);
+      --gold-soft: rgba(212,175,99,0.10); --gold-border: rgba(212,175,99,0.38); --gold-line: rgba(212,175,99,0.22);
+
+      --t-display: 100px; --t-title: 64px; --t-body: 43px; --t-lede: 40px;
+      --t-ref: 28px; --t-label: 22px; --t-index: 22px; --t-cta: 140px; --t-cta-sub: 28px;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-text-size-adjust: 100%; overflow-x: clip; }
+    :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+    body {
+      font-family: 'Montserrat', 'Segoe UI', sans-serif;
+      background: #050a18; color: var(--white);
+      min-height: 100vh; min-height: 100dvh;
+      padding: max(var(--s8), env(safe-area-inset-top,0px)) max(var(--s4), env(safe-area-inset-right,0px))
+               max(var(--s9), env(safe-area-inset-bottom,0px)) max(var(--s4), env(safe-area-inset-left,0px));
+    }
+    .preview { max-width: 1480px; margin: 0 auto; overflow-x: clip; }
+    .preview-header { margin-bottom: var(--s8); padding-bottom: var(--s4);
+      border-bottom: 1px solid var(--gold-line); animation: fade-rise 0.6s var(--ease-out) both; }
+    .preview-title { font-family: 'Montserrat', sans-serif; font-size: 1.3rem; font-weight: 800; letter-spacing: 0.02em; }
+    .preview-count { font-size: 0.6875rem; font-weight: 600; letter-spacing: 0.12em;
+      text-transform: uppercase; color: var(--gold); margin-top: var(--s1); }
+
+    .slides { display: grid; grid-template-columns: repeat(2, var(--preview-w));
+      gap: var(--s5); justify-content: center; max-width: 100%; min-width: 0; }
+
+    .slide-wrap { width: var(--preview-w); aspect-ratio: var(--card-ratio); overflow: hidden;
+      position: relative; container-type: inline-size; min-width: 0;
+      animation: fade-rise 0.75s var(--ease-out) both; }
+    .slide-wrap:nth-child(1){animation-delay:.04s} .slide-wrap:nth-child(2){animation-delay:.09s}
+    .slide-wrap:nth-child(3){animation-delay:.14s} .slide-wrap:nth-child(4){animation-delay:.19s}
+    .slide-wrap:nth-child(5){animation-delay:.24s} .slide-wrap:nth-child(6){animation-delay:.29s}
+    .slide-wrap:hover .slide { box-shadow: 0 0 0 3px var(--gold-border), 0 32px 80px rgba(0,0,0,0.55);
+      transition: box-shadow 0.25s var(--ease-out); }
+
+    .slide { width: var(--card-w); height: var(--card-h); background: var(--navy-deep);
+      position: absolute; top: 0; left: 0; overflow: hidden; display: flex; flex-direction: column;
+      padding: var(--safe-top) var(--safe-side) var(--safe-bottom);
+      transform: scale(calc(100cqw / var(--card-w))); transform-origin: top left; }
+    .slide::after { content: ''; position: absolute; inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+      opacity: 0.03; pointer-events: none; mix-blend-mode: overlay; z-index: 10; }
+    .slide::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 5px;
+      background: var(--gold); z-index: 5; }
+
+    .slide-index { position: absolute; top: var(--safe-top); right: var(--safe-side);
+      font-family: 'Montserrat', sans-serif; font-size: var(--t-index); font-weight: 600;
+      letter-spacing: 0.1em; color: var(--gold); line-height: 1; font-variant-numeric: tabular-nums; z-index: 6; }
+
+    .slide-header { height: var(--header-h); flex-shrink: 0; display: flex; flex-direction: column;
+      align-items: center; justify-content: flex-start; }
+    .brand { display: flex; flex-direction: column; align-items: center; gap: var(--s1); padding: 0 20px; }
+    .brand-mark { font-family: 'Montserrat', sans-serif; font-weight: 900; font-size: 56px;
+      letter-spacing: 0.16em; line-height: 1; text-transform: uppercase; color: var(--white); }
+    .brand-tagline { font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: var(--t-label);
+      letter-spacing: 0.2em; line-height: 1.2; text-align: center; text-transform: uppercase; color: var(--gold); }
+    .brand-rule { width: 88px; height: 3px; background: linear-gradient(90deg, transparent, var(--gold), transparent);
+      margin: var(--s2) auto 0; }
+
+    .slide-body { flex: 1; min-height: 0; display: flex; flex-direction: column;
+      justify-content: flex-start; margin-top: var(--gap-h-c); }
+
+    .title { font-family: 'Montserrat', sans-serif; font-weight: 900; color: var(--white);
+      overflow-wrap: break-word; hyphens: auto; margin: 0; line-height: 1.12; letter-spacing: -0.02em; }
+    .title .em { color: var(--gold); }
+    .lede { font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: var(--t-lede);
+      line-height: 1.4; color: var(--ink); }
+    .copy { font-family: 'Montserrat', sans-serif; font-weight: 400; font-size: var(--t-body);
+      line-height: 1.45; color: var(--ink); }
+    .ref { font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: var(--t-ref);
+      letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); }
+    .icon { font-size: 64px; color: var(--gold); line-height: 1; margin-bottom: var(--s3); display: inline-block; }
+
+    .copy-panel { margin-top: var(--s4); padding: var(--s4) var(--s5);
+      border: 1px solid var(--gold-line); border-left: 3px solid var(--gold);
+      background: rgba(244,241,234,0.04); }
+    .list { list-style: none; }
+    .list li { position: relative; padding-left: var(--s4); margin-bottom: var(--s3);
+      font-size: var(--t-body); font-weight: 400; line-height: 1.4; color: var(--ink); }
+    .list li:last-child { margin-bottom: 0; }
+    .list li::before { content: ''; position: absolute; left: 0; top: 0.55em; width: 12px; height: 12px;
+      background: var(--gold); transform: rotate(45deg); }
+
+    .slide--cover { background:
+      radial-gradient(ellipse 90% 60% at 80% 8%, rgba(212,175,99,0.10) 0%, transparent 55%),
+      radial-gradient(ellipse 80% 60% at 10% 100%, rgba(18,36,80,0.7) 0%, transparent 60%),
+      linear-gradient(165deg, var(--navy) 0%, var(--navy-deep) 100%); }
+    .slide--cover .bg-pattern { position: absolute; inset: 0;
+      background-image: repeating-linear-gradient(-45deg, transparent, transparent 48px,
+        rgba(212,175,99,0.02) 48px, rgba(212,175,99,0.02) 49px); pointer-events: none; }
+    .slide--cover::before { background: linear-gradient(90deg, var(--gold) 0%, rgba(212,175,99,0.3) 100%); height: 6px; }
+    .slide--cover .title { font-size: var(--t-display); letter-spacing: -0.03em; max-width: 94%; }
+    .slide--cover .lede { margin-top: var(--s5); padding: var(--s3) var(--s4);
+      border-left: 3px solid var(--gold); background: var(--gold-soft); max-width: 92%; }
+    .slide--cover .ref { margin-top: var(--s6); }
+
+    .slide--content { background:
+      radial-gradient(ellipse 120% 50% at 50% 100%, rgba(18,36,80,0.6) 0%, transparent 70%),
+      linear-gradient(165deg, var(--navy) 0%, var(--navy-deep) 100%); }
+    .slide--content .bg-pattern { position: absolute; inset: 0;
+      background-image: radial-gradient(circle, rgba(212,175,99,0.05) 1px, transparent 1px);
+      background-size: 48px 48px; background-position: 24px 24px; pointer-events: none; }
+    .slide--content::before { background: linear-gradient(90deg, var(--gold) 0%, var(--gold-deep) 100%); height: 4px; }
+    .slide--content .title { font-size: var(--t-title); }
+
+    .slide--cta { background:
+      radial-gradient(ellipse 100% 70% at 50% 100%, rgba(212,175,99,0.14) 0%, transparent 65%),
+      linear-gradient(180deg, var(--navy-deep) 0%, var(--navy) 60%, var(--navy-mid) 100%); }
+    .slide--cta .bg-pattern { position: absolute; inset: 0;
+      background-image: repeating-linear-gradient(-45deg, transparent, transparent 48px,
+        rgba(212,175,99,0.015) 48px, rgba(212,175,99,0.015) 49px); pointer-events: none; }
+    .slide--cta .bg-glow { position: absolute; bottom: 0; left: 0; right: 0; height: 400px;
+      background: radial-gradient(ellipse 80% 100% at 50% 100%, rgba(212,175,99,0.18) 0%, transparent 70%);
+      pointer-events: none; }
+    .slide--cta::before { background: linear-gradient(90deg, var(--gold) 0%, rgba(212,175,99,0.4) 100%); height: 6px; }
+    .slide--cta .title { font-size: var(--t-title); }
+    .slide--cta .copy { margin-top: var(--s3); }
+    .slide--cta .slide-body { justify-content: space-between; }
+    .cta-block { width: 100%; padding: var(--s6) var(--s5); border: 1px solid var(--gold-border);
+      background: var(--gold-soft); text-align: center; position: relative; z-index: 2; }
+    .cta-block::before { content: ''; position: absolute; top: 0; left: var(--s5); right: var(--s5);
+      height: 1px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
+    .cta-icon { font-size: 72px; color: var(--gold); line-height: 1; margin-bottom: var(--s2); }
+    .cta-handle { font-family: 'Montserrat', sans-serif; font-weight: 900; font-size: 72px;
+      color: var(--white); letter-spacing: 0.02em; line-height: 1.1; }
+    .cta-sub { font-family: 'Montserrat', sans-serif; font-size: var(--t-cta-sub); font-weight: 600;
+      letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin-top: var(--s2); }
+
+    @keyframes fade-rise { from { opacity: 0; translate: 0 16px; } to { opacity: 1; translate: 0 0; } }
+
+    @media (max-width: 1119px) { :root { --preview-w: 100%; }
+      .slides { grid-template-columns: minmax(0, 1fr); width: 100%; } .slide-wrap { width: 100%; } }
+    @media (max-width: 768px) { body { padding: max(var(--s6), env(safe-area-inset-top,0px))
+      max(var(--s2), env(safe-area-inset-right,0px)) max(var(--s7), env(safe-area-inset-bottom,0px))
+      max(var(--s2), env(safe-area-inset-left,0px)); } }
+    @media (min-width: 1400px) { :root { --preview-w: 669.6px; } }
+    @media (prefers-reduced-motion: reduce) { .preview-header, .slide-wrap { animation: none; opacity: 1; translate: none; } }
+  </style>
+</head>
+<body>
+  <div class="preview">
+    <header class="preview-header">
+      <h1 class="preview-title">Quem são os Oficiais de Chancelaria</h1>
+      <p class="preview-count">ASOF · 6 PUBLICAÇÕES</p>
+    </header>
+
+    <main class="slides" aria-label="Carrossel ASOF: Quem são os Oficiais de Chancelaria">
+
+      <!-- 01 — COVER -->
+      <div class="slide-wrap">
+        <article class="slide slide--cover" aria-label="Publicação 1 de 6, capa">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">01 / 06</div>
+          <header class="slide-header">
+            <div class="brand">
+              <div class="brand-mark">ASOF</div>
+              <div class="brand-tagline">Oficiais de Chancelaria</div>
+            </div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <h2 class="title">Quem são os <span class="em">Oficiais de Chancelaria</span></h2>
+            <p class="lede">A coluna técnica e administrativa que sustenta o Serviço Exterior Brasileiro.</p>
+            <p class="ref">Série Institucional · Itamaraty</p>
+          </div>
+        </article>
+      </div>
+
+      <!-- 02 — CONTENT -->
+      <div class="slide-wrap">
+        <article class="slide slide--content" aria-label="Publicação 2 de 6">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">02 / 06</div>
+          <header class="slide-header">
+            <div class="brand"><div class="brand-mark">ASOF</div></div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <i class="icon ti ti-building-bank" aria-hidden="true"></i>
+            <h2 class="title">A base do Itamaraty</h2>
+            <div class="copy-panel">
+              <p class="copy">Servidores de carreira que garantem o funcionamento administrativo, financeiro e consular das missões diplomáticas do Brasil no exterior.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <!-- 03 — CONTENT -->
+      <div class="slide-wrap">
+        <article class="slide slide--content" aria-label="Publicação 3 de 6">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">03 / 06</div>
+          <header class="slide-header">
+            <div class="brand"><div class="brand-mark">ASOF</div></div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <i class="icon ti ti-checklist" aria-hidden="true"></i>
+            <h2 class="title">O que fazem</h2>
+            <div class="copy-panel">
+              <ul class="list">
+                <li>Gestão administrativa e financeira de postos.</li>
+                <li>Atendimento e serviços consulares ao cidadão.</li>
+                <li>Apoio técnico à atividade diplomática.</li>
+                <li>Logística e patrimônio das representações.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <!-- 04 — CONTENT -->
+      <div class="slide-wrap">
+        <article class="slide slide--content" aria-label="Publicação 4 de 6">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">04 / 06</div>
+          <header class="slide-header">
+            <div class="brand"><div class="brand-mark">ASOF</div></div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <i class="icon ti ti-world" aria-hidden="true"></i>
+            <h2 class="title">Presença global</h2>
+            <div class="copy-panel">
+              <p class="copy">Atuam em embaixadas, consulados e missões em todos os continentes, sustentando a presença permanente do Brasil no mundo.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <!-- 05 — CONTENT -->
+      <div class="slide-wrap">
+        <article class="slide slide--content" aria-label="Publicação 5 de 6">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">05 / 06</div>
+          <header class="slide-header">
+            <div class="brand"><div class="brand-mark">ASOF</div></div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <i class="icon ti ti-shield-check" aria-hidden="true"></i>
+            <h2 class="title">O papel da ASOF</h2>
+            <div class="copy-panel">
+              <p class="copy">A ASOF representa, defende e valoriza a carreira dos Oficiais de Chancelaria, fortalecendo a categoria e o Serviço Exterior Brasileiro.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <!-- 06 — CTA -->
+      <div class="slide-wrap">
+        <article class="slide slide--cta" aria-label="Publicação 6 de 6, chamada para ação">
+          <div class="bg-pattern" aria-hidden="true"></div>
+          <div class="bg-glow" aria-hidden="true"></div>
+          <div class="slide-index" aria-hidden="true">06 / 06</div>
+          <header class="slide-header">
+            <div class="brand">
+              <div class="brand-mark">ASOF</div>
+              <div class="brand-tagline">Oficiais de Chancelaria</div>
+            </div>
+            <div class="brand-rule" aria-hidden="true"></div>
+          </header>
+          <div class="slide-body">
+            <div>
+              <h2 class="title">Acompanhe a <span class="em">ASOF</span></h2>
+              <p class="copy">Conteúdo institucional sobre a carreira, a categoria e o Serviço Exterior Brasileiro.</p>
+            </div>
+            <div class="cta-block">
+              <i class="cta-icon ti ti-brand-instagram" aria-hidden="true"></i>
+              <div class="cta-handle">@asof.oficial</div>
+              <p class="cta-sub">Siga · Curta · Compartilhe</p>
+            </div>
+          </div>
+        </article>
+      </div>
+
+    </main>
+  </div>
+</body>
+</html>

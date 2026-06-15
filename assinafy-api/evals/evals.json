@@ -1,0 +1,26 @@
+{
+  "skill_name": "assinafy-api",
+  "evals": [
+    {
+      "id": 1,
+      "name": "webhook-handler",
+      "prompt": "Preciso criar um endpoint de webhook no meu app Next.js para receber eventos da Assinafy quando um documento for assinado ou certificado. Já tenho ASSINAFY_WEBHOOK_SECRET no .env.",
+      "expected_output": "Route handler com validação de secret, tipos de evento, mapeamento de status e ack 200 idempotente",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "upload-and-assign",
+      "prompt": "Quero integrar a Assinafy no backend: fazer upload de um PDF, criar um signatário com email e solicitar assinatura virtual. Estou em desenvolvimento.",
+      "expected_output": "Fluxo sandbox com client HTTP, upload multipart, createSigner e createAssignment com method virtual",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "collect-method",
+      "prompt": "O documento precisa de campos de assinatura e data posicionados no PDF antes de enviar pro signatário. Como faço isso na API da Assinafy?",
+      "expected_output": "Orientação para field definitions + assignment collect com items posicionados, referenciando docs corretas",
+      "files": []
+    }
+  ]
+}

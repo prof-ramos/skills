@@ -1,4 +1,38 @@
-# macOS
+# ============================================
+# CRITICAL SECURITY: Local state, caches, secrets
+# These MUST stay out of the repository.
+# ============================================
+
+# === OMC / Grok / Agent local runtime & state ===
+# Contains machine-specific paths, session histories, project memory,
+# checkpoints, HUD state, and locally cached/installed skills.
+# NEVER commit these — they are not portable and may leak paths or notes.
+.omc/
+.grok/
+.agents/
+.hive/
+
+# === Real environment files and secrets (STRICT) ===
+# Only .env*.example and .env.example are allowed (and tracked).
+.env
+.env.*
+!.env*.example
+!.env.example
+!.env.local.example
+
+# === Secrets / credentials / keys (defense in depth) ===
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*secret*
+*credential*
+*.token
+
+# ============================================
+# macOS / OS artifacts
+# ============================================
 .DS_Store
 .DS_Store?
 ._*
@@ -6,35 +40,110 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+**/.DS_Store
 
+# ============================================
 # Python
+# ============================================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 venv/
 .venv/
 env/
+ENV/
+env.bak/
+*.egg
 *.egg-info/
+dist/
+sdist/
+wheels/
+*.manifest
+*.spec
 
-# Node.js
+# ============================================
+# Node.js / Frontend
+# ============================================
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/*.patch
+.yarn/*.zip
 
-# IDEs
+# ============================================
+# IDEs / Editors
+# ============================================
 .idea/
 .vscode/
 *.swp
 *.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-*
 
-# Logs
+# ============================================
+# Logs, caches, temp
+# ============================================
 *.log
+logs/
+*.log.*
+.cache/
+.turbo/
+.parcel-cache/
+.eslintcache
 
-# Distribution / Build
+# ============================================
+# Build / Distribution / Generated
+# ============================================
 dist/
 build/
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+*.tsbuildinfo
+*.js.map
+*.css.map
 
-# Ignorar zips genéricos, mas manter a pasta de skills
-**/*.zip
-**/*.skill
-!skills/
+# ============================================
+# Archives, dumps, backups, large binaries (security + size)
+# Only sanitized examples should ever be considered.
+# ============================================
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.rar
+*.7z
+*.bz2
+*.xz
+*.sql
+*.dump
+*.bak
+*.sqlite
+*.sqlite3
+*.db
+*.bak.*
 
-# Cache interno
-.hive/
+# ============================================
+# Misc project-specific
+# ============================================
+# Keep skills-lock.json (it is tracked — it's metadata for skills)
+# ready-to/.omo/ is transient
+ready-to/.omo/
+
+# End of .gitignore — review before every major commit / format prep.

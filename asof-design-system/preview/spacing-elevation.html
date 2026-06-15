@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Spacing — elevation</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 24px 22px; background: #f8fafc; }
+  .row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+  .box { background: #ffffff; height: 70px; border-radius: 12px; }
+  .item { display: flex; flex-direction: column; gap: 8px; }
+  .name { font-size: 11px; font-weight: 600; color: var(--fg-2); margin-top: 2px; }
+  .val { font-size: 10px; color: var(--fg-4); }
+</style>
+</head>
+<body>
+  <p class="eyebrow">Elevation — hairlines do the work</p>
+  <div class="row">
+    <div class="item">
+      <div class="box" style="border: 1px solid rgba(4,9,32,0.05);"></div>
+      <div class="name">card · hairline</div>
+      <div class="val">1px solid 5% navy</div>
+    </div>
+    <div class="item">
+      <div class="box" style="box-shadow: 0 8px 20px rgba(4,9,32,0.08);"></div>
+      <div class="name">popover</div>
+      <div class="val">0 8 20 / 8%</div>
+    </div>
+    <div class="item">
+      <div class="box" style="box-shadow: -12px 0 30px rgba(4,9,32,0.12);"></div>
+      <div class="name">drawer</div>
+      <div class="val">-12 0 30 / 12%</div>
+    </div>
+    <div class="item">
+      <div class="box" style="box-shadow: 0 24px 60px rgba(4,9,32,0.25);"></div>
+      <div class="name">modal</div>
+      <div class="val">0 24 60 / 25%</div>
+    </div>
+  </div>
+</body>
+</html>

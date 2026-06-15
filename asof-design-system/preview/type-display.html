@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Type — Display & Headlines</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 22px 24px; }
+  .display { font-family: var(--font-serif); font-weight: 700; color: var(--primary); letter-spacing: 0; line-height: 1; }
+  .row-spec { display: grid; grid-template-columns: 1fr 96px; align-items: baseline; gap: 16px; padding: 10px 0; border-bottom: 1px solid var(--border-hairline); }
+  .row-spec:last-child { border-bottom: none; }
+  .spec { font-size: 10px; color: var(--fg-4); font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; text-align: right; }
+</style>
+</head>
+<body>
+  <p class="eyebrow">Playfair Display · 700 · –1% tracking</p>
+  <div class="row-spec">
+    <div class="display" style="font-size:56px;">Painel administrativo</div>
+    <div class="spec">56 / 56</div>
+  </div>
+  <div class="row-spec">
+    <div class="display" style="font-size:40px;">Quadro associativo</div>
+    <div class="spec">40 / 42</div>
+  </div>
+  <div class="row-spec">
+    <div class="display" style="font-size:22px;">Atividades em curso</div>
+    <div class="spec">22 / 26</div>
+  </div>
+</body>
+</html>

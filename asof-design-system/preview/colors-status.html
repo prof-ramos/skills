@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Colors — Operational status</title>
+<link rel="stylesheet" href="_card.css" />
+<style>
+  body { padding: 22px 24px; }
+  .row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .item { display: flex; flex-direction: column; gap: 10px; padding: 14px; background: var(--surface-container); border-radius: 12px; }
+  .top { display: flex; align-items: center; gap: 8px; }
+  .dot { width: 10px; height: 10px; border-radius: 2px; }
+  .label { font-size: 10px; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: var(--fg-2); }
+  .count { margin-left: auto; font-size: 11px; font-weight: 600; color: var(--fg-4); }
+  .hex { font-size: 10px; color: var(--fg-4); font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+  <p class="eyebrow">Kanban status — dot + uppercase label</p>
+  <div class="row">
+    <div class="item">
+      <div class="top"><span class="dot" style="background:#94a3b8;"></span><span class="label">A fazer</span><span class="count">12</span></div>
+      <div class="hex">status-todo · #94a3b8</div>
+    </div>
+    <div class="item">
+      <div class="top"><span class="dot" style="background:#76aeea;"></span><span class="label">Em andamento</span><span class="count">8</span></div>
+      <div class="hex">status-progress · #76aeea</div>
+    </div>
+    <div class="item">
+      <div class="top"><span class="dot" style="background:#e7c16b;"></span><span class="label">Aguardando</span><span class="count">3</span></div>
+      <div class="hex">status-waiting · #e7c16b</div>
+    </div>
+    <div class="item">
+      <div class="top"><span class="dot" style="background:#86efac;"></span><span class="label">Concluído</span><span class="count">24</span></div>
+      <div class="hex">status-done · #86efac</div>
+    </div>
+  </div>
+</body>
+</html>

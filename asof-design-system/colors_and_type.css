@@ -1,0 +1,312 @@
+/* ============================================================
+   ASOF Intranet — Colors & Type
+   Institutional design system for the ASOF — Associação dos
+   Oficiais de Chancelaria do Serviço Exterior Brasileiro.
+   Tone: diplomatic restraint × administrative density.
+   ============================================================ */
+
+/* ---------- Fonts ---------- */
+@font-face {
+  font-family: "Google Sans";
+  src: url("./fonts/GoogleSans-Variable.woff2") format("woff2-variations"),
+       url("./fonts/GoogleSans-Variable.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  src: url("./fonts/Playfair-Variable.woff2") format("woff2-variations"),
+       url("./fonts/Playfair-Variable.woff2") format("woff2");
+  font-weight: 600 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* ============================================================
+     Color tokens
+     ============================================================ */
+
+  /* Primary — almost-black navy. Page titles, primary actions,
+     avatars, progress fills, strongest text emphasis. */
+  --primary:                 #040920;
+  --on-primary:              #ffffff;
+  --primary-container:       #06284f; /* Sidebar / institutional panels */
+  --primary-container-hover: #0d3260;
+  --primary-container-active:#123d73;
+
+  /* Secondary — sky blue. Use sparingly: active-nav accent,
+     progress, focus ring, operational highlights. */
+  --secondary:    #76aeea;
+  --on-secondary: #040920;
+
+  /* Tertiary — amber. Waiting states, legal/cautionary context. */
+  --tertiary:     #e7c16b;
+  --on-tertiary:  #4f3308;
+
+  /* Surfaces & background */
+  --background:                 #f8fafc; /* page canvas (pale blue-gray) */
+  --on-background:              #0d1f3c;
+  --surface:                    #ffffff;
+  --surface-container-low:      #f8fafc;
+  --surface-container:          #eef1f6; /* Kanban column bg */
+  --surface-container-high:     #e7edf4;
+  --surface-container-highest:  #dde3ec;
+
+  --on-surface:          #0d1f3c;
+  --on-surface-variant:  #59677a; /* slate text */
+  --outline:             #c9d2df;
+  --outline-variant:     #dde3ec;
+  --inverse-surface:     #0d1f3c;
+  --inverse-on-surface:  #ffffff;
+
+  /* Semantic colors */
+  --success:           #15803d;
+  --on-success:        #ffffff;
+  --success-container: #dcfce7;
+  --success-accent:    #86efac;
+
+  --warning:           #a16207;
+  --on-warning:        #ffffff;
+  --warning-container: #f4ddb1;
+  --warning-accent:    #e7c16b;
+
+  --error:             #b91c1c;
+  --on-error:          #ffffff;
+  --error-container:   #fee2e2;
+
+  --information:       #76aeea;
+
+  /* Operational status (kanban / activities) */
+  --status-todo:     #94a3b8;
+  --status-progress: #76aeea;
+  --status-waiting:  #e7c16b;
+  --status-done:     #86efac;
+
+  /* Priority (semantic text-only tokens) */
+  --priority-low:    rgba(13, 31, 60, 0.50);
+  --priority-normal: rgba(13, 31, 60, 0.70);
+  --priority-high:   #a16207;
+  --priority-urgent: #b91c1c;
+
+  /* Foreground rosary (text on light surface) */
+  --fg-1:      #040920;            /* strongest — titles, primary text */
+  --fg-2:      #0d1f3c;            /* default body */
+  --fg-3:      rgba(13, 31, 60, 0.70); /* secondary text, labels */
+  --fg-4:      rgba(13, 31, 60, 0.55); /* muted, eyebrows */
+  --fg-5:      rgba(13, 31, 60, 0.40); /* faint, placeholders */
+  --fg-on-dark:#ffffff;
+  --fg-on-dark-soft: rgba(255, 255, 255, 0.70);
+
+  /* Borders */
+  --border-hairline: rgba(4, 9, 32, 0.05);
+  --border-soft:     #dde3ec;
+  --border-muted:    #c9d2df;
+  --border-subtle:   rgba(4, 9, 32, 0.15);
+
+  /* ============================================================
+     Typography tokens
+     ============================================================ */
+  --font-serif: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-sans:  "Google Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono:  ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  /* Headings — serif, editorial, official */
+  --display-font: var(--font-serif);
+  --display-size: 56px;
+  --display-weight: 700;
+  --display-lh: 1;
+
+  --headline-lg-size: 48px;
+  --headline-lg-lh: 1.05;
+  --headline-md-size: 36px;
+  --headline-md-lh: 1.08;
+  --title-lg-size: 22px;
+  --title-md-size: 20px;
+  --title-weight: 700;
+
+  /* Body & UI — Google Sans */
+  --body-lg-size: 16px;
+  --body-md-size: 14px;
+  --body-sm-size: 12px;
+
+  --label-md-size: 13px;
+  --label-md-weight: 600;
+  --label-sm-size: 11px;
+  --label-sm-weight: 700;
+  --label-sm-tracking: 0.10em;
+
+  --eyebrow-size: 11px;
+  --eyebrow-tracking: 0.18em;
+
+  --metric-lg-size: 30px;
+  --metric-lg-weight: 700;
+
+  /* ============================================================
+     Spacing — 4px base rhythm
+     ============================================================ */
+  --space-unit: 4px;
+  --space-xs:   4px;
+  --space-sm:   8px;
+  --space-md:   12px;
+  --space-lg:   16px;
+  --space-xl:   20px;
+  --space-2xl:  24px;
+  --space-3xl:  28px;  /* section gap */
+  --space-4xl:  32px;
+  --space-5xl:  40px;
+
+  --page-x-mobile:  20px;
+  --page-x-tablet:  32px;
+  --page-x-desktop: 40px;
+  --section-gap:    28px;
+  --card-padding:   20px;
+  --form-card-padding: 28px;
+  --sidebar-width:  288px;
+  --nav-item-height: 58px;
+
+  /* ============================================================
+     Radii — soft, administrative
+     ============================================================ */
+  --r-none: 0;
+  --r-xs:   2px;
+  --r-sm:   4px;
+  --r-md:   8px;   /* default control / button radius */
+  --r-lg:   10px;  /* compact card / input */
+  --r-xl:   12px;
+  --r-box:  16px;  /* standard card / panel */
+  --r-full: 9999px;
+
+  /* ============================================================
+     Elevation — restrained, navy-tinted
+     ============================================================ */
+  --elev-flat:     0 0 0 transparent;
+  --elev-hairline: 0 1px 0 rgba(4, 9, 32, 0.05);
+  --elev-popover:  0 8px 20px rgba(4, 9, 32, 0.08);
+  --elev-card:     0 12px 30px rgba(4, 9, 32, 0.08);
+  --elev-button:   0 4px 0 rgba(4, 9, 32, 0.12);
+  --elev-drawer:   -12px 0 30px rgba(4, 9, 32, 0.12);
+  --elev-modal:    0 24px 60px rgba(4, 9, 32, 0.25);
+
+  /* Cards mostly use a 1px hairline, not a shadow */
+  --card-border: 1px solid var(--border-hairline);
+
+  /* ============================================================
+     Motion — quick, ease
+     ============================================================ */
+  --dur-fast: 120ms;
+  --dur-base: 150ms;
+  --dur-slow: 220ms;
+  --ease-standard:    ease;
+  --ease-emphasized:  cubic-bezier(0.2, 0, 0, 1);
+}
+
+/* ============================================================
+   Semantic element styles
+   ============================================================ */
+
+html, body {
+  background: var(--background);
+  color: var(--on-background);
+  font-family: var(--font-sans);
+  font-size: var(--body-md-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, .h1, .display {
+  font-family: var(--display-font);
+  font-size: var(--display-size);
+  font-weight: var(--display-weight);
+  line-height: var(--display-lh);
+  letter-spacing: 0;
+  color: var(--primary);
+  margin: 0;
+}
+
+h2, .h2 {
+  font-family: var(--font-serif);
+  font-size: var(--headline-lg-size);
+  font-weight: 700;
+  line-height: var(--headline-lg-lh);
+  color: var(--on-surface);
+  margin: 0;
+}
+
+h3, .h3 {
+  font-family: var(--font-serif);
+  font-size: var(--headline-md-size);
+  font-weight: 700;
+  line-height: var(--headline-md-lh);
+  color: var(--on-surface);
+  margin: 0;
+}
+
+h4, .title-lg {
+  font-family: var(--font-serif);
+  font-size: var(--title-lg-size);
+  font-weight: var(--title-weight);
+  line-height: 1.2;
+  color: var(--on-surface);
+  margin: 0;
+}
+
+h5, .title-md {
+  font-family: var(--font-serif);
+  font-size: var(--title-md-size);
+  font-weight: var(--title-weight);
+  line-height: 1.25;
+  color: var(--on-surface);
+  margin: 0;
+}
+
+p, .body-md {
+  font-family: var(--font-sans);
+  font-size: var(--body-md-size);
+  line-height: 1.5;
+  color: var(--on-surface);
+  margin: 0;
+}
+
+.body-lg { font-family: var(--font-sans); font-size: var(--body-lg-size); line-height: 1.55; }
+.body-sm { font-family: var(--font-sans); font-size: var(--body-sm-size); line-height: 1.45; color: var(--fg-3); }
+
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: var(--eyebrow-size);
+  font-weight: 400;
+  letter-spacing: var(--eyebrow-tracking);
+  text-transform: uppercase;
+  color: var(--fg-4);
+  line-height: 1.2;
+}
+
+.label-md {
+  font-family: var(--font-sans);
+  font-size: var(--label-md-size);
+  font-weight: var(--label-md-weight);
+  line-height: 1.2;
+}
+
+.label-sm {
+  font-family: var(--font-sans);
+  font-size: var(--label-sm-size);
+  font-weight: var(--label-sm-weight);
+  letter-spacing: var(--label-sm-tracking);
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.metric-lg {
+  font-family: var(--font-sans);
+  font-size: var(--metric-lg-size);
+  font-weight: var(--metric-lg-weight);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: var(--primary);
+}
+
+code, kbd, samp, pre { font-family: var(--font-mono); }
