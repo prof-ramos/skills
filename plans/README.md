@@ -12,7 +12,7 @@ Gerado pelo "improve" skill em 2026-06-15 para o repositório `prof-ramos/skills
 
 | Plan | Title | Priority | Effort | Depends on | Status |
 |------|-------|----------|--------|------------|--------|
-| 001 | Substituir `args` globais por parâmetros | P1 | S | — | TODO |
+| 001 | Substituir `args` globais por parâmetros | P1 | S | — | DONE |
 | 002 | Adicionar smoke tests (pytest) | P1 | S | 001 | TODO |
 | 003 | Limitar query loop (sliding window) | P1 | S | 001 | TODO |
 | 004 | Extrair query loop para `run_query_loop()` | P2 | M | 001, 002, 003 | TODO |

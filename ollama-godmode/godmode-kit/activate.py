@@ -343,7 +343,8 @@ KNOWN_MODELS = {
 # ── Main activation ─────────────────────────────────────────────────
 
 def activate_khaos(provider, model, api_key, base_url, strategy,
-                   dry_run, interactive, honcho_key, honcho_workspace):
+                   dry_run, interactive, honcho_key, honcho_workspace,
+                   run_list_models=False, prefill_path=None):
     """The main event -- bring KHAOS to life."""
 
     banner = f"""
@@ -362,7 +363,7 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
         return interactive_mode()
 
     # List models
-    if args.list_models:
+    if run_list_models:
         return list_models(provider)
 
     # Resolve Honcho config (check CLI, env, and .khos.env/KHAOS_*)
@@ -388,7 +389,7 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
     client, model_name, base, key = create_client(provider, model, api_key, base_url)
 
     # Load prefill
-    prefill = load_prefill(args.prefill)
+    prefill = load_prefill(prefill_path)
 
     # Select system prompt template
     system_prompt = TEMPLATES.get(strategy, TEMPLATES["refusal_inversion"])
@@ -604,7 +605,8 @@ def interactive_mode():
 
     print()
     return activate_khaos(provider, model, key, None, strategy,
-                          False, False, honcho_key, honcho_ws)
+                          False, False, honcho_key, honcho_ws,
+                          run_list_models=False, prefill_path=None)
 
 
 # ── CLI ─────────────────────────────────────────────────────────────
@@ -654,4 +656,5 @@ Examples:
     args = parser.parse_args()
     activate_khaos(args.provider, args.model, args.api_key, args.base_url,
                    args.strategy, args.dry_run, args.interactive,
-                   args.honcho_api_key, args.honcho_workspace)
+                   args.honcho_api_key, args.honcho_workspace,
+                   run_list_models=args.list_models, prefill_path=args.prefill)
