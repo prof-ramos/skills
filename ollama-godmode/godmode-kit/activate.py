@@ -47,6 +47,22 @@ STATE_FILE = KIT_DIR / ".khos_state.json"
 
 VERSION = "1.0.0"
 
+# ── Auto-load .khos.env ────────────────────────────
+
+KHOS_ENV_FILE = KIT_DIR / ".khos.env"
+if KHOS_ENV_FILE.exists():
+    with open(KHOS_ENV_FILE) as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _k, _v = _line.split("=", 1)
+                _k = _k.strip()
+                _v = _v.strip()
+                _v = _v.strip('"').strip("'")
+                # Only set if not already an env var
+                if _k not in os.environ:
+                    os.environ[_k] = _v
+
 # ── GODMODE System Prompt Templates ────────────────────────────────
 
 TEMPLATES = {
@@ -126,8 +142,8 @@ def init_honcho(api_key=None, workspace_id=None, base_url=None):
     """Initialize Honcho client for persistent memory.
 
     Args:
-        api_key: Honcho API key (production). If None, tries $HONCHO_API_KEY.
-        workspace_id: Honcho workspace ID. If None, tries $HONCHO_WORKSPACE_ID.
+        api_key: Honcho API key (production). If None, tries $HONCHO_API_KEY then $KHAOS_HONCHO_KEY.
+        workspace_id: Honcho workspace ID. If None, tries $HONCHO_WORKSPACE_ID then $KHAOS_HONCHO_WORKSPACE.
         base_url: Custom API URL. If None, tries $HONCHO_BASE_URL.
 
     Without a production API key, Honcho defaults to the demo server
@@ -135,8 +151,8 @@ def init_honcho(api_key=None, workspace_id=None, base_url=None):
     """
     global HONCHO_AVAILABLE, HONCHO_WARNED
 
-    resolved_key = api_key or os.getenv("HONCHO_API_KEY")
-    resolved_workspace = workspace_id or os.getenv("HONCHO_WORKSPACE_ID", "khaos-default")
+    resolved_key = api_key or os.getenv("HONCHO_API_KEY") or os.getenv("KHAOS_HONCHO_KEY")
+    resolved_workspace = workspace_id or os.getenv("HONCHO_WORKSPACE_ID") or os.getenv("KHAOS_HONCHO_WORKSPACE", "khaos-default")
     resolved_base = base_url or os.getenv("HONCHO_BASE_URL")
 
     try:
@@ -349,9 +365,9 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
     if args.list_models:
         return list_models(provider)
 
-    # Resolve Honcho config
-    honcho_api_key = honcho_key or os.getenv("HONCHO_API_KEY")
-    honcho_ws = honcho_workspace or os.getenv("HONCHO_WORKSPACE_ID", "khaos")
+    # Resolve Honcho config (check CLI, env, and .khos.env/KHAOS_*)
+    honcho_api_key = honcho_key or os.getenv("HONCHO_API_KEY") or os.getenv("KHAOS_HONCHO_KEY")
+    honcho_ws = honcho_workspace or os.getenv("HONCHO_WORKSPACE_ID") or os.getenv("KHAOS_HONCHO_WORKSPACE", "khaos")
 
     # Init Honcho
     honcho = init_honcho(api_key=honcho_api_key, workspace_id=honcho_ws)
@@ -624,9 +640,9 @@ Examples:
 
     # Honcho (memory persistence)
     parser.add_argument("--honcho-api-key", default=None,
-                       help="Honcho API key for persistent memory (or $HONCHO_API_KEY)")
+                       help="Honcho API key for persistent memory (or $HONCHO_API_KEY or $KHAOS_HONCHO_KEY)")
     parser.add_argument("--honcho-workspace", default=None,
-                       help="Honcho workspace ID (or $HONCHO_WORKSPACE_ID, default: khaos)")
+                       help="Honcho workspace ID (or $HONCHO_WORKSPACE_ID or $KHAOS_HONCHO_WORKSPACE, default: khaos)")
 
     parser.add_argument("--dry-run", action="store_true",
                        help="Validate config without making API calls")
