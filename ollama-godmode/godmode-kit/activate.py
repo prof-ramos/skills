@@ -47,6 +47,9 @@ STATE_FILE = KIT_DIR / ".khos_state.json"
 
 VERSION = "1.0.0"
 
+# ── Query loop config ────────────────────────────
+MAX_HISTORY_TURNS = 20  # max conversation turns kept in context window
+
 # ── Auto-load .khos.env ────────────────────────────
 
 KHOS_ENV_FILE = KIT_DIR / ".khos.env"
@@ -484,7 +487,10 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
         print(" [KHAOS]   Commands: /exit, /save, /context, /help")
         print()
 
-        messages = activation_messages + [{"role": "assistant", "content": reply}]
+        # Fixed context: system prompt + prefill + activation exchange
+        fixed_messages = activation_messages
+        # Rolling history: activation response + recent turns
+        history = [{"role": "assistant", "content": reply}]
 
         while True:
             try:
@@ -501,7 +507,7 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
                 break
             if query.lower() == "/save":
                 if session:
-                    honcho_save_memory(honcho, session, agent_peer, messages[-5:])
+                    honcho_save_memory(honcho, session, agent_peer, history[-5:])
                     print(" [KHAOS] Recent messages saved to Honcho.")
                 continue
             if query.lower() == "/context":
@@ -515,19 +521,19 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
                 print(" [KHAOS] Commands: /exit, /save, /context, /help")
                 continue
 
-            messages.append({"role": "user", "content": query})
+            history.append({"role": "user", "content": query})
 
             try:
                 resp = client.chat.completions.create(
                     model=model_name,
-                    messages=messages,
+                    messages=fixed_messages + history[-MAX_HISTORY_TURNS*2:],
                     max_tokens=2000,
                     temperature=0.85,
                     timeout=120,
                 )
                 reply_text = resp.choices[0].message.content
                 print(f"\nKHAOS> {reply_text}\n")
-                messages.append({"role": "assistant", "content": reply_text})
+                history.append({"role": "assistant", "content": reply_text})
             except Exception as e:
                 print(f" [KHAOS] API error: {e}")
 
