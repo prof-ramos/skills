@@ -70,17 +70,17 @@ O subagent:
 {
   "findings": [
     {
-      "title": "Off-by-one no loop de paginação",
-      "body": "activate.py:512 itera até page < total_pages mas total_pages é 1-based; a última página é pulada quando total_pages == 1. Confirmado lendo o caller fetch_page(page).",
+      "title": "Off-by-one in pagination loop",
+      "body": "activate.py:512 iterates while page < total_pages but total_pages is 1-based; the last page is skipped when total_pages == 1. Confirmed by reading the caller fetch_page(page).",
       "priority": "P1",
       "confidence": 0.9,
       "category": "bug",
       "code_location": { "file_path": "ollama-godmode/godmode-kit/activate.py", "line": 512, "end_line": 514, "function": "paginate" },
-      "suggested_fix": "Trocar `page < total_pages` por `page <= total_pages` no boundary de paginação."
+      "suggested_fix": "Change `page < total_pages` to `page <= total_pages` in the pagination boundary."
     }
   ],
   "overall_correctness": "patch is incorrect",
-  "overall_explanation": "Bug P1 de off-by-one na paginação introduzido pelo diff; sem outros findings aceitos.",
+  "overall_explanation": "P1 off-by-one bug in pagination introduced by the diff; no other accepted findings.",
   "overall_confidence": 0.9
 }
 ```
@@ -122,7 +122,28 @@ bash .claude/skills/autoreview/scripts/diff-bundle.sh --mode commit --commit HEA
   autor`) quando não houver PR rastreável.
 - **`Bash` restrito por instrução**: o `tools` field lista `Bash`, mas o prompt do
   subagent proíbe comandos de mutação. Para enforcement mais forte, combine com
-  hooks `PreToolUse` em `settings.json` (não incluídos — revisão sob demanda).
+  hooks `PreToolUse` em `settings.json` — exemplo:
+
+  ```json
+  {
+    "hooks": {
+      "PreToolUse": [
+        {
+          "matcher": "Bash",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash -c 'echo $CLAUDE_TOOL_INPUT | jq -r \".command\" | grep -vE \"^(git (diff|show|log|status|rev-parse|merge-base|ls-files)|gh (pr view|pr diff)|bash .claude/skills/autoreview/scripts/diff-bundle.sh)\" && exit 1 || exit 0'"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  ```
+
+  Isso bloqueia qualquer Bash command que não seja read-only git/gh ou o helper.
+  (Hook não incluído por padrão — revise e ajuste para o seu ambiente.)
 - **`diff-bundle.sh`** não faz `git fetch` automático; se a base do PR não estiver
   resolvida localmente, falha fechado (exit 3) com instruções.
 
