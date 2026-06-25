@@ -33,8 +33,14 @@ case "$FORMATO" in
   json)
     FORMATO_INSTRUCAO='Entregue APENAS JSON válido com o schema: {"metadata":{"nome_concurso":"","banca":"","ano":"","orgao":""},"itens":[{"id":"","cargo":"","bloco":"","disciplina":"","area_eixo":"","assunto":"","topico":"","subtopico":"","texto_original":"","pagina_fonte":"","prioridade":"A verificar","status":"Não iniciado","observacoes":""}],"alertas":[]}'
     ;;
-  md|*)
+  md|markdown)
+    FORMATO="md"
     FORMATO_INSTRUCAO="Entregue o resultado em tabela Markdown."
+    ;;
+  *)
+    echo "Erro: formato não suportado: $FORMATO" >&2
+    echo "Formatos aceitos: md, csv, json" >&2
+    exit 2
     ;;
 esac
 
