@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autoreview.local/findings.schema.json",
+  "title": "Autoreview findings bundle",
+  "description": "Structured output contract for the autoreview reviewer. The reviewer MUST return exactly one object matching this schema and nothing else (no Markdown, no prose wrapper).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "findings",
+    "overall_correctness",
+    "overall_explanation",
+    "overall_confidence"
+  ],
+  "properties": {
+    "findings": {
+      "type": "array",
+      "description": "Actionable defects only. Empty array means clean review. Do not pad with generic or stylistic noise.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "body",
+          "priority",
+          "confidence",
+          "category",
+          "code_location",
+          "suggested_fix"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 140,
+            "description": "One-line summary of the defect."
+          },
+          "body": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000,
+            "description": "Concrete explanation: what is wrong, why it matters, the evidence path the reviewer followed, and the ownership boundary. No speculation."
+          },
+          "priority": {
+            "type": "string",
+            "enum": ["P0", "P1", "P2", "P3"],
+            "description": "P0 = blocker (data loss, crash, security exposure, broken install/upgrade). P1 = should fix before merge. P2 = worth fixing. P3 = minor/nit."
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Reviewer confidence that the finding is real and actionable, grounded in the read code."
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "bug",
+              "security",
+              "regression",
+              "test_gap",
+              "maintainability",
+              "style",
+              "documentation"
+            ],
+            "description": "bug = logic/correctness defect; security = concrete actionable risk or removed safety check; regression = behavior change vs prior contract; test_gap = missing or insufficient coverage for the change; maintainability = real maintainability risk; style = actionable inconsistency with repo conventions; documentation = missing/incorrect docs or contracts for the changed surface."
+          },
+          "code_location": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["file_path", "line"],
+            "properties": {
+              "file_path": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Repo-relative path as it appears in the diff."
+              },
+              "line": {
+                "type": "integer",
+                "minimum": 1,
+                "description": "First line of the defect in the new version of the file."
+              },
+              "end_line": {
+                "type": "integer",
+                "minimum": 1,
+                "$comment": "Must be >= line. Single-line findings have end_line == line.",
+                "description": "Optional last line of the affected range."
+              },
+              "function": {
+                "type": "string",
+                "description": "Optional enclosing function/symbol for disambiguation."
+              }
+            }
+          },
+          "suggested_fix": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000,
+            "description": "Objective, actionable fix scoped to the smallest ownership boundary. State the change, not a broad rewrite. May be rejected if a fix would over-complicate the codebase."
+          }
+        }
+      }
+    },
+    "overall_correctness": {
+      "type": "string",
+      "enum": ["patch is correct", "patch is incorrect"],
+      "description": "Verdict for the reviewed change bundle as a whole."
+    },
+    "overall_explanation": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 3000,
+      "description": "Short rationale for the overall verdict, referencing the highest-priority findings."
+    },
+    "overall_confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence in the overall verdict."
+    }
+  }
+}

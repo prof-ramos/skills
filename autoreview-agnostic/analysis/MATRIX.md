@@ -1,0 +1,17 @@
+# Matriz comparativa: OpenClaw × OpenCode × Claude Code
+
+Baseada na documentação consultada no Context7 (ver `ANALYSIS.md`).
+
+| Aspecto | OpenClaw (original) | OpenCode | Claude Code |
+|---|---|---|---|
+| **Local esperado dos arquivos** | `.agents/skills/<name>/SKILL.md` (+ `scripts/`) | `.opencode/agent/<name>.md`, `.opencode/command/<name>.md`, `.opencode/skills/<name>/SKILL.md`, `AGENTS.md`; config em `opencode.json` na raiz (ou `OPENCODE_CONFIG_DIR`) | `.claude/agents/<name>.md`, `.claude/commands/<name>.md`, `.claude/skills/<name>/SKILL.md`; globais em `~/.claude/...` |
+| **Formato de configuração** | Markdown (`SKILL.md` com frontmatter `name`/`description`) + scripts executáveis | Markdown com frontmatter (agent/command/skill) + `opencode.json` (`$schema: https://opencode.ai/config.json`) | Markdown com frontmatter YAML (agent/command/skill) |
+| **Forma de invocação** | Helper CLI: `.agents/skills/autoreview/scripts/autoreview --mode ... --engine ...` | Subagent via seletor de agente; command `/autoreview $ARGUMENTS`; skill descoberto automaticamente em `skills.paths` | Subagent via ferramenta de agentes (`@autoreview`); slash command `/autoreview [args]`; skill descoberto em `.claude/skills/` |
+| **Escopo do agente/skill** | Skill = playbook; helper externo faz orquestração e validação | Agente define `mode` (`primary`/`subagent`), `model`, `prompt`, `permission`, `description`; skill = conhecimento sob demanda | Subagent define `tools`, `model`, `description`; skill = conhecimento sob demanda com `SKILL.md` + `scripts/`/`references/` |
+| **Suporte a comandos** | Scripts shell/Python com flags CLI | `/command` com `$ARGUMENTS`, `$1`/`$2`; pode rodar com `agent:` específico e `model:` override | `/command` com `$ARGUMENTS`, `$1`/`$2`, `@file`, `` !`cmd` ``; `allowed-tools` restringe ferramentas |
+| **Suporte a hooks** | Não no skill em si (orquestra engines externas) | Hooks não são o mecanismo aqui; agente/skill/command cobrem o caso | Hooks em `settings.json` (PreToolUse/PostToolUse etc.) — não usados nesta porta (revisão sob demanda) |
+| **Persistência/contexto** | Helper stateless por run; `gitcrawl` cache portátil | `AGENTS.md` carregado como instruções de sistema; compação automática; skills lazy-loaded | `CLAUDE.md`/`AGENTS.md` como instruções; skills carregados sob demanda por relevância |
+| **Engine de revisão** | CLI externo: `codex` (default), `claude`, `droid`, `copilot` | O **próprio agente OpenCode** (model nativo configurado) | O **próprio subagent Claude Code** (model configurado) |
+| **Validação de saída** | `--output-schema`/`--json-schema` no CLI + validação Python do helper | Saída estruturada via instrução de prompt + schema em `references/` | Saída estruturada via instrução de prompt + schema em `references/` |
+| **Permissões / segurança** | Resolve binários só de `PATH` absoluto; sandbox read-only Codex; tools/web search on por default | `permission: { edit: "deny", bash: { "git *": "ask" } }` por agente | `tools: [Read, Grep, Glob, Bash(git:*), ...]` restringe a read-only |
+| **Limitações relevantes** | Acoplado a engines CLI externos e pathos `steipete/agent-scripts`; `gitcrawl` para proveniência; até 30 min por bundle | Sem validação de schema nativa no nível do agente (feita por instrução + JSON no prompt); sem engine "externo" — o agente é o engine | Sem "invocar subagent direto de command" como sintaxe dedicada — command instrui o agente principal a delegar; skills não executam código automaticamente |

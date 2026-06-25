@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["AGENTS.md"],
+  "skills": {
+    "paths": [".opencode/skills"]
+  },
+  "command": {
+    "autoreview": {
+      "description": "Run the autoreview closeout reviewer on a change bundle (local | branch | commit).",
+      "agent": "autoreview",
+      "template": "Run the autoreview closeout review now.\n\nTarget mode: $ARGUMENTS (if empty, use `auto` — dirty local changes first, else current PR base via `gh pr view`, else `origin/main`). Accepts `local`/`uncommitted`, `branch [base]`, `commit [ref]`, or `auto`.\n\nSteps:\n1. Generate the change bundle with `bash .opencode/skills/autoreview/scripts/diff-bundle.sh --mode <mode> [--base <ref>] [--commit <ref>]` and read it fully.\n2. Apply the rubric in `.opencode/skills/autoreview/references/rubric.md` and the schema in `.opencode/skills/autoreview/references/schema.json`.\n3. Verify every finding by reading the real code path and adjacent files; read dependency docs/source/types when a finding depends on external behavior.\n4. Return exactly one JSON object matching the schema and nothing else (no Markdown wrapper).\n5. After the JSON, print a short human summary: command used, findings accepted/rejected with one-line reasons, and the clean/incorrect verdict.\n\nNever edit, write, commit, push, or run anything destructive. If you encounter a secret/credential in the bundle, flag the risk in a `security` finding and do not reproduce the secret value."
+    }
+  }
+}
