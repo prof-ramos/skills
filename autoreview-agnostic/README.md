@@ -18,6 +18,12 @@ do ecossistema OpenClaw/steipete.
 | `shared/` | Arquivos compartilhados entre as duas versões (schema, rubric, helper) |
 | `README.md` | Este índice |
 
+> **Sync note:** `shared/` is the single source of truth. After editing any shared file
+> (schema.json, rubric.md, diff-bundle.sh), copy it to both platform copies:
+> `opencode/skills/autoreview/` and `claude-code/.claude/skills/autoreview/`. There is
+> no automated sync — changes must be propagated manually to keep the three copies
+> identical. A future `Makefile` or CI check could automate this.
+
 ## Árvore final
 
 ```
@@ -133,12 +139,15 @@ bash -n shared/diff-bundle.sh && bash shared/diff-bundle.sh --mode commit --comm
   multi-reviewer" exigem múltiplos agentes configurados manualmente.
 - **Proveniência de regressão** sem `gitcrawl`: usa blame/commit do git.
 - **`diff-bundle.sh` não faz `git fetch`**: se a base do PR não estiver resolvida
-  localmente, falha fechado (exit 3) com instruções.
+  localmente, falha fechado (exit 3) com instruções. Também falha com exit 1 se
+  executado fora de um repositório git.
 - **Incerteza OpenCode** sobre campos de frontmatter de agente-arquivo (fallback
-  documentado via `opencode.json`).
+  documentado via `opencode.json`; se `mode: subagent` não for reconhecido no
+  frontmatter do `.md`, defina o agente em `opencode.json` com
+  `prompt: "{file:./.opencode/agent/autoreview.md}"`).
 - **Claude Code**: `Bash` é restrito por instrução no prompt do subagent (não por
-  enforcement de harness); para enforcement mais forte, combine com hooks
-  `PreToolUse` em `settings.json` (não incluídos — revisão sob demanda).
+  enforcement de harness); para enforcement mais forte, veja o exemplo de hook
+  `PreToolUse` em `claude-code/README.md`.
 
 ## Checklist final de conformidade
 

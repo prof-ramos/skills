@@ -86,7 +86,7 @@ Non-blocking findings are follow-ups for `main`.
 
 ## Pick target
 
-Use `shared/diff-bundle.sh` (read-only) to gather the bundle:
+Use `scripts/diff-bundle.sh` (read-only) to gather the bundle:
 
 ```bash
 bash .opencode/skills/autoreview/scripts/diff-bundle.sh --mode local

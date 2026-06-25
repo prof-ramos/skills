@@ -82,6 +82,7 @@
               "end_line": {
                 "type": "integer",
                 "minimum": 1,
+                "$comment": "Must be >= line. Single-line findings have end_line == line.",
                 "description": "Optional last line of the affected range."
               },
               "function": {

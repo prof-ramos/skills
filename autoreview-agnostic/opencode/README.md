@@ -27,12 +27,12 @@ opencode/
 
 ## Como instalar
 
-1. Copie a pasta `opencode/` para a raiz do seu projeto (ou mescle os arquivos nos
-   diretórios `.opencode/` já existentes — OpenCode procura agentes em
-   `.opencode/agent/`, comandos em `.opencode/command/` e skills em
-   `.opencode/skills/`). O agente `autoreview` é definido como **subagent
-   standalone** em `.opencode/agent/autoreview.md` (com frontmatter `mode:
-   subagent`, `permission.edit: deny` e allowlist de bash read-only).
+1. Copie o conteúdo de `opencode/` para os diretórios `.opencode/` na raiz do seu projeto:
+   - `opencode/agent/autoreview.md` → `.opencode/agent/autoreview.md`
+   - `opencode/command/autoreview.md` → `.opencode/command/autoreview.md`
+   - `opencode/skills/autoreview/` → `.opencode/skills/autoreview/`
+   - `opencode/AGENTS.md` → anexe ao `AGENTS.md` existente na raiz
+   - Mescle as chaves de `opencode/opencode.json` no `opencode.json` existente (ou copie se não existir).
 2. Se você já tem um `opencode.json`, **mescle** as chaves `command.autoreview`,
    `skills.paths` e `instructions` em vez de sobrescrever.
 3. Garanta permissão de execução ao helper:
@@ -40,14 +40,17 @@ opencode/
 4. (Opcional) ajuste o campo `model` em `.opencode/agent/autoreview.md` para o
    modelo da sua conta; o default é `anthropic/claude-sonnet-4-6`.
 
-> Nota de incerteza: a documentação OpenCode confirma o caminho
+> **Nota de incerteza:** a documentação OpenCode confirma o caminho
 > `.opencode/agent/<name>.md` e o padrão *frontmatter + body* para arquivos de
 > agente, mas não enumera explicitamente os campos do frontmatter de agente
 > (apenas os equivalentes em `opencode.json`). Adotamos os mesmos campos usados em
 > `opencode.json` (`description`, `mode`, `model`, `permission`); se a sua versão do
-> OpenCode exigir nomes diferentes, defina o agente pela chave `agent.autoreview`
-> em `opencode.json` (campos confirmados) e aponte `prompt:
-> "{file:./.opencode/agent/autoreview.md}"`.
+> OpenCode exigir nomes diferentes ou não reconhecer `mode: subagent` no frontmatter
+> do arquivo `.md`, defina o agente pela chave `agent.autoreview` em
+> `opencode.json` (campos confirmados) e aponte o prompt com:
+> `prompt: "{file:./.opencode/agent/autoreview.md}"`. Isso garante que o agente
+> rode como subagent mesmo que o frontmatter do arquivo `.md` não seja totalmente
+> suportado.
 
 > Para um diretório de configuração alternativo, defina
 > `OPENCODE_CONFIG_DIR=/path/to/config` (documentação OpenCode).
@@ -83,17 +86,17 @@ O subagent:
 {
   "findings": [
     {
-      "title": "Off-by-one no loop de paginação",
-      "body": "activate.py:512 itera até page < total_pages mas total_pages é 1-based; a última página é pulada quando total_pages == 1. Confirmado lendo o caller fetch_page(page).",
+      "title": "Off-by-one in pagination loop",
+      "body": "activate.py:512 iterates while page < total_pages but total_pages is 1-based; the last page is skipped when total_pages == 1. Confirmed by reading the caller fetch_page(page).",
       "priority": "P1",
       "confidence": 0.9,
       "category": "bug",
       "code_location": { "file_path": "ollama-godmode/godmode-kit/activate.py", "line": 512, "end_line": 514, "function": "paginate" },
-      "suggested_fix": "Trocar `page < total_pages` por `page <= total_pages` no boundary de paginação."
+      "suggested_fix": "Change `page < total_pages` to `page <= total_pages` in the pagination boundary."
     }
   ],
   "overall_correctness": "patch is incorrect",
-  "overall_explanation": "Bug P1 de off-by-one na paginação introduzido pelo diff; sem outros findings aceitos.",
+  "overall_explanation": "P1 off-by-one bug in pagination introduced by the diff; no other accepted findings.",
   "overall_confidence": 0.9
 }
 ```

@@ -8,12 +8,13 @@
 #   diff-bundle.sh --mode uncommitted        # alias for --mode local
 #   diff-bundle.sh --mode branch --base origin/main
 #   diff-bundle.sh --mode commit --commit HEAD
+#   diff-bundle.sh --mode auto               # auto-resolve (default)
 #
 # Output: a single text bundle on stdout, containing metadata, status, stat, the
 # patch, and untracked file contents. Redirect to a file or pipe to the reviewer.
 #
 # Safety: read-only. No git mutations. Fails closed on unknown mode or missing ref.
-set -euo pipefail
+set -eo pipefail
 
 mode="auto"
 base=""
@@ -22,6 +23,7 @@ commit="HEAD"
 usage() {
   cat <<'EOF'
 diff-bundle.sh [--mode auto|local|uncommitted|branch|commit] [--base REF] [--commit REF]
+  --mode auto                 auto-resolve: dirty local first, else PR base, else origin/main
   --mode local|uncommitted   dirty worktree (unstaged + staged + untracked)
   --mode branch --base REF   diff of current branch vs base ref
   --mode commit --commit REF diff of a single commit (default HEAD)
@@ -30,13 +32,30 @@ EOF
 
 while [ $# -gt 0 ]; do
   case "$1" in
-    --mode) mode="$2"; shift 2 ;;
-    --base) base="$2"; shift 2 ;;
-    --commit) commit="$2"; shift 2 ;;
+    --mode)
+      if [ $# -lt 2 ] || [ -z "${2:-}" ]; then
+        echo "diff-bundle: --mode requires an argument (auto|local|uncommitted|branch|commit)" >&2; exit 2
+      fi
+      mode="$2"; shift 2 ;;
+    --base)
+      if [ $# -lt 2 ] || [ -z "${2:-}" ]; then
+        echo "diff-bundle: --base requires an argument" >&2; exit 2
+      fi
+      base="$2"; shift 2 ;;
+    --commit)
+      if [ $# -lt 2 ] || [ -z "${2:-}" ]; then
+        echo "diff-bundle: --commit requires an argument" >&2; exit 2
+      fi
+      commit="$2"; shift 2 ;;
     -h|--help) usage; exit 0 ;;
     *) echo "diff-bundle: unknown argument: $1" >&2; usage >&2; exit 2 ;;
   esac
 done
+
+# Guard: must be inside a git repository
+if ! git rev-parse --git-dir >/dev/null 2>&1; then
+  echo "diff-bundle: not a git repository" >&2; exit 1
+fi
 
 # Resolve mode=auto: dirty first, else current PR base if available, else origin/main.
 resolve_auto() {
@@ -63,6 +82,21 @@ esac
 
 repo_root="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
 current_branch="$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo '(detached)')"
+
+# Validate refs before emitting any output
+case "$mode" in
+  branch)
+    if ! git rev-parse --verify "$base" >/dev/null 2>&1; then
+      echo "diff-bundle: base ref '$base' not resolvable locally. Run: git fetch origin && git rev-parse --verify '$base'" >&2
+      exit 3
+    fi
+    ;;
+  commit)
+    if ! git rev-parse --verify "$commit" >/dev/null 2>&1; then
+      echo "diff-bundle: commit ref '$commit' not resolvable" >&2; exit 3
+    fi
+    ;;
+esac
 
 print_meta() {
   echo "# autoreview change bundle"
@@ -91,13 +125,8 @@ case "$mode" in
     done
     ;;
   branch)
-    # Ensure base ref is resolvable; do not fetch silently if missing — fail closed.
-    if ! git rev-parse --verify "$base" >/dev/null 2>&1; then
-      echo "diff-bundle: base ref '$base' not resolvable locally. Run: git fetch origin && git rev-parse --verify $base" >&2
-      exit 3
-    fi
     echo "## status (porcelain vs $base)"; git status --porcelain=v1 --untracked-files=all || true; echo
-    echo "## stat vs $base"; git diff --stat "$base..."HEAD -- || true; echo
+    echo "## stat vs $base"; git diff --stat "$base"...HEAD -- || true; echo
     echo "## patch vs $base (merge-base..HEAD)"; git diff "$(git merge-base "$base" HEAD)"..HEAD -- || true; echo
     echo "## untracked files (full contents)"
     git ls-files --others --exclude-standard -z | while IFS= read -r -d '' f; do
@@ -108,9 +137,6 @@ case "$mode" in
     done
     ;;
   commit)
-    if ! git rev-parse --verify "$commit" >/dev/null 2>&1; then
-      echo "diff-bundle: commit ref '$commit' not resolvable" >&2; exit 3
-    fi
     echo "## stat ($commit)"; git show --stat --format=oneline "$commit" -- || true; echo
     echo "## patch ($commit)"; git show "$commit" -- || true; echo
     ;;
