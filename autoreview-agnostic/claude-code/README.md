@@ -133,7 +133,7 @@ bash .claude/skills/autoreview/scripts/diff-bundle.sh --mode commit --commit HEA
           "hooks": [
             {
               "type": "command",
-              "command": "bash -c 'echo $CLAUDE_TOOL_INPUT | jq -r \".command\" | grep -vE \"^(git (diff|show|log|status|rev-parse|merge-base|ls-files)|gh (pr view|pr diff)|bash .claude/skills/autoreview/scripts/diff-bundle.sh)\" && exit 1 || exit 0'"
+              "command": "bash -c 'cmd=$(cat | jq -r \".tool_input.command\"); echo \"$cmd\" | grep -qE \"^(git (diff|show|log|status|rev-parse|merge-base|ls-files)|gh (pr view|pr diff)|bash .claude/skills/autoreview/scripts/diff-bundle.sh)$\" || { echo \"Bash command not allowed by autoreview read-only policy: $cmd\" >&2; exit 1; }'"
             }
           ]
         }
@@ -143,7 +143,9 @@ bash .claude/skills/autoreview/scripts/diff-bundle.sh --mode commit --commit HEA
   ```
 
   Isso bloqueia qualquer Bash command que não seja read-only git/gh ou o helper.
-  (Hook não incluído por padrão — revise e ajuste para o seu ambiente.)
+  Command hooks recebem o input como JSON em stdin; o campo do comando Bash está em
+  `.tool_input.command`. (Hook não incluído por padrão — revise e ajuste para o
+  seu ambiente.)
 - **`diff-bundle.sh`** não faz `git fetch` automático; se a base do PR não estiver
   resolvida localmente, falha fechado (exit 3) com instruções.
 

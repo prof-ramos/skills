@@ -123,8 +123,15 @@ for p in ["claude-code/.claude/agents/autoreview.md","claude-code/.claude/comman
 for p in ["opencode/opencode.json","shared/schema.json"]:
     json.load(open(p)); print("JSON OK", p)
 PY
-# helper
-bash -n shared/diff-bundle.sh && bash shared/diff-bundle.sh --mode commit --commit HEAD | head
+
+# helper + smoke tests
+bash -n shared/diff-bundle.sh
+bash shared/test-diff-bundle.sh
+bash shared/diff-bundle.sh --mode commit --commit HEAD | head
+
+# sync check (run after editing shared/*)
+bash shared/sync-shared.sh
+
 # dentro de cada ferramenta, no projeto alvo:
 #   OpenCode:     /autoreview commit HEAD
 #   Claude Code:  /autoreview commit HEAD
