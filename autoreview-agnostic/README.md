@@ -18,6 +18,12 @@ do ecossistema OpenClaw/steipete.
 | `shared/` | Arquivos compartilhados entre as duas versões (schema, rubric, helper) |
 | `README.md` | Este índice |
 
+> **Scope/historical note:** This directory ships the `autoreview-agnostic` port. The
+> repository's `main` branch also contains the unrelated `edital-verticalizado` skill,
+> which landed in the same merge window. Separating it now would require rewriting
+> `main` history, so it stays as a conscious scope debt; future unrelated features
+> should always land in independent PRs/branches.
+>
 > **Sync note:** `shared/` is the single source of truth. After editing any shared file
 > (schema.json, rubric.md, diff-bundle.sh), copy it to both platform copies:
 > `opencode/skills/autoreview/` and `claude-code/.claude/skills/autoreview/`. There is
