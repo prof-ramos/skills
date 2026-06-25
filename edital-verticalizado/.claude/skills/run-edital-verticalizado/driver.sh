@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Driver: edital-verticalizado
-# Uso: ./driver.sh <arquivo_edital> [formato: md|csv|json] [cargo]
+# Uso: ./driver.sh <arquivo_edital> [formato: md|markdown|csv|json] [cargo]
 # Caminhos relativos ao root do projeto (edital-verticalizado/)
 
 set -euo pipefail
@@ -14,7 +14,7 @@ CARGO="${3:-}"
 
 if [[ ! -f "$EDITAL_FILE" ]]; then
   echo "Erro: arquivo não encontrado: $EDITAL_FILE" >&2
-  echo "Uso: $0 <arquivo_edital> [md|csv|json] [cargo]" >&2
+  echo "Uso: $0 <arquivo_edital> [md|markdown|csv|json] [cargo]" >&2
   exit 1
 fi
 
@@ -39,7 +39,7 @@ case "$FORMATO" in
     ;;
   *)
     echo "Erro: formato não suportado: $FORMATO" >&2
-    echo "Formatos aceitos: md, csv, json" >&2
+    echo "Formatos aceitos: md, markdown, csv, json" >&2
     exit 2
     ;;
 esac

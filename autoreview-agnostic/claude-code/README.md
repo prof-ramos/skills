@@ -133,7 +133,7 @@ bash .claude/skills/autoreview/scripts/diff-bundle.sh --mode commit --commit HEA
           "hooks": [
             {
               "type": "command",
-              "command": "bash -c 'cmd=$(cat | jq -r \".tool_input.command\"); echo \"$cmd\" | grep -qE \"^(git (diff|show|log|status|rev-parse|merge-base|ls-files)( |$)|gh (pr view|pr diff)( |$)|bash .claude/skills/autoreview/scripts/diff-bundle.sh( |$))\" || { echo \"Bash command not allowed by autoreview read-only policy: $cmd\" >&2; exit 1; }'"
+              "command": "bash -c 'cmd=$(cat | jq -r \".tool_input.command\"); echo \"$cmd\" | grep -qE \"^(git (diff|show|log|status|rev-parse|merge-base|ls-files)( |$| .*$)|gh (pr view|pr diff)( |$| .*$)|bash .claude/skills/autoreview/scripts/diff-bundle.sh( |$| .*$))\" || { echo \"Bash command not allowed by autoreview read-only policy: $cmd\" >&2; exit 1; }'"
             }
           ]
         }
