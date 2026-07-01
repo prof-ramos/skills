@@ -1,1 +1,5 @@
 .khos.env
+.khos_state.json
+logs/
+scan_output/
+*.log

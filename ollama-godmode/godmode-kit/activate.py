@@ -257,14 +257,15 @@ def honcho_get_context(honcho, session, agent):
 
 # ── Client setup ────────────────────────────────────────────────────
 
-def create_client(provider, model, api_key=None, base_url=None):
-    """Create an OpenAI-compatible client for the selected provider."""
-    try:
-        from openai import OpenAI
-    except ImportError:
-        print(" [KHAOS] openai package not installed. Run: pip install openai")
-        sys.exit(1)
+def _mask_secret(value):
+    """Return a non-reversible display marker for a configured secret."""
+    if not value:
+        return "<missing>"
+    return "<set>"
 
+
+def resolve_client_config(provider, model, api_key=None, base_url=None):
+    """Resolve provider defaults without constructing an API client."""
     prov = DEFAULT_PROVIDERS.get(provider, {})
 
     if not base_url:
@@ -288,9 +289,22 @@ def create_client(provider, model, api_key=None, base_url=None):
         print(f" [KHAOS]   Or use --api-key")
         sys.exit(1)
 
+    return model, base_url, api_key
+
+
+def create_client(provider, model, api_key=None, base_url=None):
+    """Create an OpenAI-compatible client for the selected provider."""
+    try:
+        from openai import OpenAI
+    except ImportError:
+        print(" [KHAOS] openai package not installed. Run: pip install openai")
+        sys.exit(1)
+
+    model, base_url, api_key = resolve_client_config(provider, model, api_key, base_url)
+
     print(f" [KHAOS] Connecting: {provider} -> {model}")
     print(f" [KHAOS]   Base URL: {base_url}")
-    print(f" [KHAOS]   API Key: {api_key[:12]}...{api_key[-4:]}")
+    print(f" [KHAOS]   API Key: {_mask_secret(api_key)}")
 
     client = OpenAI(api_key=api_key, base_url=base_url)
     return client, model, base_url, api_key
@@ -373,7 +387,32 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
     honcho_api_key = honcho_key or os.getenv("HONCHO_API_KEY") or os.getenv("KHAOS_HONCHO_KEY")
     honcho_ws = honcho_workspace or os.getenv("HONCHO_WORKSPACE_ID") or os.getenv("KHAOS_HONCHO_WORKSPACE", "khaos")
 
-    # Init Honcho
+    # Load prefill
+    prefill = load_prefill(prefill_path)
+
+    # Select system prompt template
+    system_prompt = TEMPLATES.get(strategy, TEMPLATES["refusal_inversion"])
+    print(f" [KHAOS] Strategy: {strategy}")
+    print()
+
+    model_name, base, key = resolve_client_config(provider, model, api_key, base_url)
+
+    if dry_run:
+        print(" [KHAOS] DRY RUN -- Summary of what WOULD happen:")
+        print(f"   Provider:   {provider}")
+        print(f"   Model:      {model_name}")
+        print(f"   Base URL:   {base}")
+        print(f"   API Key:    {_mask_secret(key)}")
+        print(f"   Strategy:   {strategy}")
+        print(f"   Prefill:    {len(prefill)} messages")
+        print(f"   System:     {len(system_prompt)} chars")
+        print(f"   Honcho:     {'production' if honcho_api_key else 'demo'} workspace={honcho_ws}")
+        print()
+        print(" [KHAOS] Dry run complete. No API call made.")
+        print(" [KHAOS] To activate for real, remove --dry-run")
+        return
+
+    # Init Honcho only for non-dry runs so dry-run stays offline.
     honcho = init_honcho(api_key=honcho_api_key, workspace_id=honcho_ws)
 
     # Initialize workspace if Honcho is available
@@ -389,29 +428,7 @@ def activate_khaos(provider, model, api_key, base_url, strategy,
     print()
 
     # Create LLM client
-    client, model_name, base, key = create_client(provider, model, api_key, base_url)
-
-    # Load prefill
-    prefill = load_prefill(prefill_path)
-
-    # Select system prompt template
-    system_prompt = TEMPLATES.get(strategy, TEMPLATES["refusal_inversion"])
-    print(f" [KHAOS] Strategy: {strategy}")
-    print()
-
-    if dry_run:
-        print(" [KHAOS] DRY RUN -- Summary of what WOULD happen:")
-        print(f"   Provider:   {provider}")
-        print(f"   Model:      {model_name}")
-        print(f"   Base URL:   {base}")
-        print(f"   Strategy:   {strategy}")
-        print(f"   Prefill:    {len(prefill)} messages")
-        print(f"   System:     {len(system_prompt)} chars")
-        print(f"   Honcho:     {'production' if honcho_api_key else 'demo'} workspace={honcho_ws}")
-        print()
-        print(" [KHAOS] Dry run complete. No API call made.")
-        print(" [KHAOS] To activate for real, remove --dry-run")
-        return
+    client, model_name, base, key = create_client(provider, model_name, key, base)
 
     # --- ACTIVATION QUERY ---
     print(" [KHAOS] Sending activation sequence...")

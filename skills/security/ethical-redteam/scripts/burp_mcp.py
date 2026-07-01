@@ -160,12 +160,49 @@ SENSITIVE_PATTERNS = [
      "HTTP Basic Auth detectado", 5.3, "CWE-522"),
 ]
 
+REDACTED = "[REDACTED]"
+SENSITIVE_QUERY_KEYS = {
+    "password", "passwd", "pwd", "secret", "token", "api_key", "apikey",
+    "auth", "access_token", "session", "sessid", "phpsessid", "jsessionid",
+}
+
 # Cookies com atributos de segurança ausentes
 COOKIE_CHECKS = {
     "httponly": ("Cookie sem HttpOnly — acessível via JavaScript (XSS)", 5.3, "CWE-1004"),
     "secure": ("Cookie sem Secure — transmitido em HTTP não criptografado", 5.3, "CWE-614"),
     "samesite": ("Cookie sem SameSite — vulnerável a CSRF", 4.3, "CWE-352"),
 }
+
+
+def _redact_sensitive_text(value: str) -> str:
+    """Remove credential-like values before evidence is saved to disk."""
+    value = re.sub(
+        r"(?i)(Authorization:\s*(?:Bearer|Basic)\s+)[^\s\r\n]+",
+        rf"\1{REDACTED}",
+        value,
+    )
+    value = re.sub(
+        r"(?i)(Cookie:\s*)([^\r\n]+)",
+        rf"\1{REDACTED}",
+        value,
+    )
+    value = re.sub(
+        r"(?i)(Set-Cookie:\s*[^=;\s]+)=([^;\r\n]*)",
+        rf"\1={REDACTED}",
+        value,
+    )
+    for key in SENSITIVE_QUERY_KEYS:
+        value = re.sub(
+            rf"(?i)([?&]{re.escape(key)}=)[^&#\s]+",
+            rf"\1{REDACTED}",
+            value,
+        )
+    return value
+
+
+def _redact_url(value: str) -> str:
+    """Redact sensitive query parameter values while preserving the URL shape."""
+    return _redact_sensitive_text(value)
 
 
 # ── Cliente MCP SSE ─────────────────────────────────────────────────────────────
@@ -480,7 +517,7 @@ class WebAppAnalyzer:
                     achados.append({
                         "tipo": "header_ausente",
                         "descricao": info["descricao"],
-                        "url": url_completa,
+                        "url": _redact_url(url_completa),
                         "evidencia": f"Header '{header_nome}' ausente na resposta",
                         "cvss": info["cvss"],
                         "severidade": calcular_severidade_cvss(info["cvss"]),
@@ -494,7 +531,7 @@ class WebAppAnalyzer:
             achados.append({
                 "tipo": "server_disclosure",
                 "descricao": f"Versão do servidor exposta: {server}",
-                "url": url_completa,
+                "url": _redact_url(url_completa),
                 "evidencia": f"Server: {server}",
                 "cvss": 5.3,
                 "severidade": "Média",
@@ -511,8 +548,8 @@ class WebAppAnalyzer:
                     achados.append({
                         "tipo": "cookie_inseguro",
                         "descricao": desc,
-                        "url": url_completa,
-                        "evidencia": f"Set-Cookie: {set_cookie[:100]}",
+                        "url": _redact_url(url_completa),
+                        "evidencia": _redact_sensitive_text(f"Set-Cookie: {set_cookie[:100]}"),
                         "cvss": cvss,
                         "severidade": calcular_severidade_cvss(cvss),
                         "cwe": cwe,
@@ -525,7 +562,7 @@ class WebAppAnalyzer:
                 achados.append({
                     "tipo": "dado_sensivel",
                     "descricao": desc,
-                    "url": url_completa,
+                    "url": _redact_url(url_completa),
                     "evidencia": f"Padrão detectado: {pattern[:50]}",
                     "cvss": cvss,
                     "severidade": calcular_severidade_cvss(cvss),
@@ -539,7 +576,7 @@ class WebAppAnalyzer:
             achados.append({
                 "tipo": "http_sem_criptografia",
                 "descricao": "Aplicação acessível via HTTP não criptografado",
-                "url": url_completa,
+                "url": _redact_url(url_completa),
                 "evidencia": "Requisição trafegando em HTTP claro",
                 "cvss": 5.9,
                 "severidade": "Média",
@@ -553,7 +590,7 @@ class WebAppAnalyzer:
             achados.append({
                 "tipo": "cors_permissivo",
                 "descricao": "CORS wildcard (*) permite requisições de qualquer origem",
-                "url": url_completa,
+                "url": _redact_url(url_completa),
                 "evidencia": "Access-Control-Allow-Origin: *",
                 "cvss": 6.5,
                 "severidade": calcular_severidade_cvss(6.5),

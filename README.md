@@ -24,6 +24,7 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 │   │   └── ui-ux-pro-max/
 │   ├── security/
 │   │   ├── ethical-redteam/
+│   │   ├── temp-mail-pentest/
 │   │   ├── vuln-discovery/
 │   │   └── vuln-hunt/
 │   └── Instagram-Carousel/        # Exemplos de carrosséis HTML prontos
@@ -34,10 +35,14 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 ├── gerador_de_simulados/          # Geração de simulados/discursivas (Python)
 ├── cloudflare-workers/            # Referências e patterns para Cloudflare Workers
 ├── ready-to/                      # Skill de checklist pré-deploy
+├── autoreview-agnostic/           # Autoreview para Claude Code e OpenCode
+├── edital-verticalizado/          # Verticalização de editais de concursos
 ├── servers/                       # Servidores MCP
 │   └── supergithub/               # Gerenciador avançado de repositórios GitHub
+├── scripts/                       # Verificadores locais do repositório
 ├── docs/                          # Documentação e referências
 │   └── reference/
+├── Makefile                       # make check para validação local
 ├── .env.example                   # Template de variáveis de ambiente (sempre usar!)
 ├── .gitignore                     # Reforçado para segurança (nunca versiona .env real, estado local, etc.)
 ├── skills-lock.json
@@ -45,7 +50,6 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 ```
 
 > **Nota importante:** Diretórios `.omc/`, `.grok/`, `.agents/`, `node_modules/`, `.venv/`, `*.zip`, `*.log`, builds e `.env` reais **NÃO** são versionados (veja `.gitignore` atualizado e seção de Retomada).
-```
 
 ## 🧠 Habilidades Disponíveis
 
@@ -92,6 +96,7 @@ Repositório centralizado para **Agent Skills** customizadas e servidores **Mode
 | Skill | Descrição |
 |-------|-----------|
 | **Ethical Red Team** | Red Team e Bug Bounty autorizado para agentes de IA |
+| **Temp Mail Pentest** | E-mails temporários para fluxos autorizados de pentest |
 | **Vuln Discovery** | Pipeline autônomo de descoberta de vulnerabilidades em 8 fases |
 | **Vuln Hunt** | Automação de varreduras de segurança e caça a falhas |
 
@@ -189,8 +194,14 @@ Este repositório foi preparado para que você possa **formatar o computador e r
    - `servers/supergithub`: siga `QUICKSTART.md` ou `README.md` (export GH_TOKEN primeiro).
    - `carrossel-instagram`: rode o `index.html` diretamente ou use `export.js` + Puppeteer conforme o skill.
    - `ollama-godmode`: scripts Python auto-contidos (veja `SKILL.md`).
-   8. **Rodar testes**
-   - `servers/supergithub`: `python -m pytest` ou `python test_github_manager.py` (requer GH_TOKEN válido).
+
+8. **Rodar testes**
+   - Validação local sem rede/tokens:
+     ```bash
+     make check
+     ```
+   - `carrossel-instagram`: `npm test` valida a sintaxe do exportador.
+   - `servers/supergithub`: `python test_github_manager.py` executa smoke tests reais contra a API e requer `GH_TOKEN`.
    - Outras skills: verifique dentro do `SKILL.md` ou pasta (muitas são prompt-driven, sem testes automatizados tradicionais).
 
 9. **Build / Geração de artefatos**

@@ -5,17 +5,20 @@ All tests run via dry_run=True — no real provider is contacted.
 
 import sys
 import os
+import contextlib
+import io
+import unittest
 from pathlib import Path
 
+sys.dont_write_bytecode = True
 _KIT_DIR = Path(__file__).resolve().parent.parent
 if str(_KIT_DIR) not in sys.path:
     sys.path.insert(0, str(_KIT_DIR))
 
-import pytest
 from activate import activate_khaos, DEFAULT_PROVIDERS, TEMPLATES
 
 
-class TestCLIProviderDefaults:
+class TestCLIProviderDefaults(unittest.TestCase):
     def test_known_providers(self):
         assert "ollama-cloud" in DEFAULT_PROVIDERS
         assert "openai" in DEFAULT_PROVIDERS
@@ -40,7 +43,7 @@ class TestCLIProviderDefaults:
         assert p["api_key_env"] is None
 
 
-class TestStrategyTemplates:
+class TestStrategyTemplates(unittest.TestCase):
     def test_all_strategies_present(self):
         required = {"refusal_inversion", "og_godmode", "direct_godmode", "pliny_love"}
         assert required.issubset(set(TEMPLATES.keys()))
@@ -50,29 +53,35 @@ class TestStrategyTemplates:
             assert len(prompt) > 50, f"Strategy '{name}' is too short ({len(prompt)} chars)"
 
 
-class TestDryRun:
-    @pytest.fixture(autouse=True)
-    def _ensure_api_key(self):
+class TestDryRun(unittest.TestCase):
+    def setUp(self):
         if not os.getenv("OLLAMA_API_KEY"):
             os.environ["OLLAMA_API_KEY"] = "test-dummy-key"
-        yield
 
-    def test_dry_run_ollama_cloud(self, capsys):
-        result = activate_khaos(
-            provider="ollama-cloud",
-            model="gemma4:31b",
-            api_key=None,
-            base_url=None,
-            strategy="refusal_inversion",
-            dry_run=True,
-            interactive=False,
-            honcho_key=None,
-            honcho_workspace=None,
-        )
+    def test_dry_run_ollama_cloud(self):
+        output = io.StringIO()
+        with contextlib.redirect_stdout(output):
+            result = activate_khaos(
+                provider="ollama-cloud",
+                model="gemma4:31b",
+                api_key=None,
+                base_url=None,
+                strategy="refusal_inversion",
+                dry_run=True,
+                interactive=False,
+                honcho_key=None,
+                honcho_workspace=None,
+            )
         assert result is None
 
-    def test_dry_run_output_contains_message(self, capsys):
-        activate_khaos(
+    def _capture_dry_run(self, **kwargs):
+        output = io.StringIO()
+        with contextlib.redirect_stdout(output):
+            activate_khaos(**kwargs)
+        return output.getvalue()
+
+    def test_dry_run_output_contains_message(self):
+        output = self._capture_dry_run(
             provider="ollama-cloud",
             model="gemma4:31b",
             api_key=None,
@@ -83,11 +92,11 @@ class TestDryRun:
             honcho_key=None,
             honcho_workspace=None,
         )
-        captured = capsys.readouterr()
-        assert "Dry run complete" in captured.out
+        assert "Dry run complete" in output
+        assert "test-dummy-key" not in output
 
-    def test_dry_run_openai(self, capsys):
-        activate_khaos(
+    def test_dry_run_openai(self):
+        output = self._capture_dry_run(
             provider="openai",
             model="gpt-4o",
             api_key="sk-test-fake",
@@ -98,11 +107,11 @@ class TestDryRun:
             honcho_key=None,
             honcho_workspace=None,
         )
-        captured = capsys.readouterr()
-        assert "Dry run complete" in captured.out
+        assert "Dry run complete" in output
+        assert "sk-test-fake" not in output
 
-    def test_dry_run_honcho_demo(self, capsys):
-        activate_khaos(
+    def test_dry_run_honcho_demo(self):
+        output = self._capture_dry_run(
             provider="ollama-cloud",
             model="gemma4:31b",
             api_key=None,
@@ -113,5 +122,8 @@ class TestDryRun:
             honcho_key="",
             honcho_workspace="khaos",
         )
-        captured = capsys.readouterr()
-        assert "Dry run complete" in captured.out
+        assert "Dry run complete" in output
+
+
+if __name__ == "__main__":
+    unittest.main()

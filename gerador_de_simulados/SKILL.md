@@ -1,5 +1,5 @@
 ---
-name: Gerador de Simulados
+name: gerador-de-simulados
 version: 1.1.0
 description: Gera simulados personalizados para concursos públicos com base no edital fornecido, utilizando questões reais de provas anteriores da mesma banca examinadora.
 tags:

@@ -21,6 +21,7 @@ THROTTLE="${THROTTLE:-0}"  # 0 = no limit, otherwise bytes/sec
 
 # Load custom config if provided
 if [ $# -ge 1 ] && [ -f "$1" ]; then
+    # shellcheck source=/dev/null
     source "$1"
 fi
 
@@ -62,23 +63,34 @@ fi
 REMOTE_PATH="${REMOTE_URL%/}/${DATE_DIR}/"
 
 # Build duck command
-DUCK_CMD="duck --upload \"$REMOTE_PATH\" \"$SOURCE_DIR\""
-DUCK_CMD="$DUCK_CMD --verbose"
-DUCK_CMD="$DUCK_CMD --parallel $PARALLEL"
-DUCK_CMD="$DUCK_CMD --retry 3"
-DUCK_CMD="$DUCK_CMD --retry-delay 5"
-DUCK_CMD="$DUCK_CMD --preserve"
+DUCK_CMD=(
+    duck
+    --upload "$REMOTE_PATH" "$SOURCE_DIR"
+    --verbose
+    --parallel "$PARALLEL"
+    --retry 3
+    --retry-delay 5
+    --preserve
+)
 
 # Add storage class for S3
 if [[ $REMOTE_URL == s3://* ]]; then
-    DUCK_CMD="$DUCK_CMD --storage-class $STORAGE_CLASS"
+    DUCK_CMD+=(--storage-class "$STORAGE_CLASS")
 fi
 
 # Add throttle if specified
 if [ "$THROTTLE" -gt 0 ]; then
-    DUCK_CMD="$DUCK_CMD --throttle $THROTTLE"
+    DUCK_CMD+=(--throttle "$THROTTLE")
     log "Bandwidth limit: $THROTTLE bytes/sec"
 fi
+
+cutoff_date() {
+    if date -v-"$RETENTION_DAYS"d +%Y%m%d >/dev/null 2>&1; then
+        date -v-"$RETENTION_DAYS"d +%Y%m%d
+    else
+        date -d "$RETENTION_DAYS days ago" +%Y%m%d
+    fi
+}
 
 # Compression (create tar.gz first if enabled)
 if [ "$COMPRESSION" = true ]; then
@@ -95,14 +107,22 @@ if [ "$COMPRESSION" = true ]; then
         # Upload archive
         log "Uploading archive..."
         REMOTE_ARCHIVE="${REMOTE_PATH%/}/$ARCHIVE_NAME"
-        
-        eval duck --upload "$REMOTE_ARCHIVE" "$TEMP_ARCHIVE" \
-            --verbose \
-            --retry 3 \
-            --retry-delay 5 \
-            $([ "$THROTTLE" -gt 0 ] && echo "--throttle $THROTTLE") \
-            $([ "$REMOTE_URL" == s3://* ] && echo "--storage-class $STORAGE_CLASS") \
-            2>&1 | tee -a "$LOG_FILE"
+
+        ARCHIVE_UPLOAD_CMD=(
+            duck
+            --upload "$REMOTE_ARCHIVE" "$TEMP_ARCHIVE"
+            --verbose
+            --retry 3
+            --retry-delay 5
+        )
+        if [ "$THROTTLE" -gt 0 ]; then
+            ARCHIVE_UPLOAD_CMD+=(--throttle "$THROTTLE")
+        fi
+        if [[ $REMOTE_URL == s3://* ]]; then
+            ARCHIVE_UPLOAD_CMD+=(--storage-class "$STORAGE_CLASS")
+        fi
+
+        "${ARCHIVE_UPLOAD_CMD[@]}" 2>&1 | tee -a "$LOG_FILE"
         
         UPLOAD_STATUS=${PIPESTATUS[0]}
         
@@ -115,7 +135,7 @@ if [ "$COMPRESSION" = true ]; then
 else
     # Direct upload without compression
     log "Uploading files..."
-    eval $DUCK_CMD 2>&1 | tee -a "$LOG_FILE"
+    "${DUCK_CMD[@]}" 2>&1 | tee -a "$LOG_FILE"
     UPLOAD_STATUS=${PIPESTATUS[0]}
 fi
 
@@ -131,7 +151,7 @@ if [ "$RETENTION_DAYS" -gt 0 ]; then
     log "Cleaning up backups older than $RETENTION_DAYS days..."
     
     # Calculate cutoff date
-    CUTOFF_DATE=$(date -d "$RETENTION_DAYS days ago" +%Y%m%d)
+    CUTOFF_DATE=$(cutoff_date)
     
     # List all backup directories
     log "Listing remote backups..."
