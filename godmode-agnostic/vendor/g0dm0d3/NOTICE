@@ -1,0 +1,26 @@
+G0DM0D3 upstream material (AGPL-3.0)
+====================================
+
+Source: https://github.com/elder-plinius/G0DM0D3
+License: GNU Affero General Public License v3.0 (see LICENSE in this directory)
+
+Vendored files (verbatim or 1:1 extracted constants):
+- src/lib/godmode-prompt.ts
+- src/lib/libertas.ts
+- godmode-pipeline.ts — DEPTH_DIRECTIVE + applyGodmodeBoost extracted from
+  api/lib/ultraplinian.ts and re-exporting the modules above
+- godmode_bundle.json — machine-readable dump of the same constants for the
+  skill runners (not a reimplementation of novel prompt logic)
+
+Rebuild / drift-check the JSON from the TypeScript sources (repo root):
+
+  python3 scripts/export_bundle.py           # rewrite godmode_bundle.json
+  python3 scripts/export_bundle.py --check   # exit 0 if JSON matches TS
+
+This skill does not invent a parallel GODMODE pipeline. It runs the upstream
+GODMODE constants and wiring described in G0DM0D3's api/routes/chat.ts
+(runPipeline): system prompt + DEPTH_DIRECTIVE, optional Hall of Fame combo
+from libertas.ts, and applyGodmodeBoost on sampling params.
+
+If you distribute a modified version of these files as a network service, AGPL
+source-offer obligations may apply — read LICENSE.

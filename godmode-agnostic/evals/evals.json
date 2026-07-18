@@ -1,0 +1,26 @@
+{
+  "skill_name": "godmode-agnostic",
+  "evals": [
+    {
+      "id": 1,
+      "name": "detect-then-run-upstream",
+      "prompt": "Detect the API model for this environment (OpenCode configs if present). Then run the real G0DM0D3 GODMODE for that model via scripts/run_godmode.py — do not invent a custom system prompt. Report mode (hall-of-fame vs default-pipeline), combo id if any, and show that messages come from vendor/g0dm0d3.",
+      "expected_output": "Detected model_id; payload with source github.com/elder-plinius/G0DM0D3; system content matching godmode_bundle / libertas or GODMODE_SYSTEM_PROMPT; no homemade pack text.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "smoke-and-persist-recheck",
+      "prompt": "Run scripts/smoke_and_persist.py offline for model verboo/deepseek-v4-flash, then --recheck, and explain how the user verifies GODMODE still works after this session ends.",
+      "expected_output": "state.json and last_payload.json written; recheck loads model/mode; instructions for live env vars and post-session recheck.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "recommend-opencode-config",
+      "prompt": "For model verboo/deepseek-v4-flash on OpenCode+Verboo provider, recommend configuration to keep GODMODE after the session. Use scripts/recommend_config.py. Do not apply files unless asked.",
+      "expected_output": "Recommendation JSON with OpenCode agent prompt file path, opencode.json snippet, reload steps, system_prompt from upstream default-pipeline.",
+      "files": []
+    }
+  ]
+}

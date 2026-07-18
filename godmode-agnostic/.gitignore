@@ -1,0 +1,7 @@
+.godmode-agnostic/
+.venv/
+scripts/__pycache__/
+**/__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/

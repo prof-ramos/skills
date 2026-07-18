@@ -1,0 +1,8 @@
+This package vendors G0DM0D3 materials under AGPL-3.0 in vendor/g0dm0d3/.
+See vendor/g0dm0d3/LICENSE and vendor/g0dm0d3/NOTICE.
+
+Skill code under scripts/, SKILL.md, references/, and tests/ is licensed under
+the MIT License (see LICENSE at the package root). The MIT grant does not
+cover or relicense the vendored AGPL-3.0 files.
+
+Upstream: https://github.com/elder-plinius/G0DM0D3
