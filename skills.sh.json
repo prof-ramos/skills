@@ -1,0 +1,62 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Automation & Integrations",
+      "description": "Skills for file transfer automation, workflow engines, Cloudflare Workers, and digital signature APIs.",
+      "skills": [
+        "cyberduck-expert",
+        "n8n-skills",
+        "file-organization",
+        "assinafy-api",
+        "cloudflare-workers",
+        "resend-api"
+      ]
+    },
+    {
+      "title": "Agent Workflows & Developer Tools",
+      "description": "Skills for prompt budget optimization, pre-deploy diagnostics, code reviews, GitHub CLI, and repository management.",
+      "skills": [
+        "skill-cleaner",
+        "ready-to",
+        "autoreview",
+        "gh-cli",
+        "supergithub"
+      ]
+    },
+    {
+      "title": "Design & Content Creation",
+      "description": "Skills for UI/UX design systems, social media carousels, ad content creation, and official Brazilian document standards.",
+      "skills": [
+        "ui-ux-pro-max",
+        "social-carousel",
+        "social-ads-creator",
+        "brazilian-official-docs"
+      ]
+    },
+    {
+      "title": "Security & Offensive AI",
+      "description": "Skills for ethical red teaming, vulnerability discovery pipelines, temp email pentest, and security auditing.",
+      "skills": [
+        "ethical-redteam",
+        "temp-mail-pentest",
+        "vuln-discovery",
+        "supabase-security",
+        "vuln-discovery-pipeline",
+        "ollama-godmode",
+        "godmode-agnostic"
+      ]
+    },
+    {
+      "title": "Compliance, Education & Public Contests",
+      "description": "Skills for LGPD compliance, mock exam generation, and syllabus verticalization for public service exams.",
+      "skills": [
+        "lgpd-checklist",
+        "gerador-de-simulados",
+        "edital-verticalizado",
+        "run-edital-verticalizado"
+      ]
+    }
+  ]
+}

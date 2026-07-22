@@ -1,5 +1,5 @@
 ---
-name: ethical-redteam-bugbounty
+name: ethical-redteam
 description: Conducts authorized ethical security tests (Red Team / Bug Bounty) covering OSINT reconnaissance, subdomain enumeration, social media username investigation (Sherlock, Blackbird), port/service scanning, vulnerability analysis, and professional OWASP/NIST report generation. Use when the user asks for "penetration testing", "pentest", "vulnerability scan", "OSINT", "bug bounty", "security report", "port scan", "network analysis", "red team", "recon on target", "subdomain enumeration", "username search", or "social media OSINT". Requires written authorization before any active test. Outputs executive and technical reports in Markdown and PDF.
 license: MIT
 metadata:

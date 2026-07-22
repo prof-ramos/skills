@@ -9,14 +9,39 @@ import sys
 from pathlib import Path
 
 
+import json
+
 NAME_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
 ALLOWED_DIRECTORY_NAME_MISMATCHES = {
     # Historical/consumer-facing skill names that intentionally differ from
     # storage directory names.
     "carrossel-instagram/SKILL.md",
-    "skills/automation/n8n-skills-2.1.1/SKILL.md",
-    "skills/security/ethical-redteam/SKILL.md",
 }
+
+
+def validate_skills_sh_json(root: Path) -> list[str]:
+    cfg_path = root / "skills.sh.json"
+    if not cfg_path.exists():
+        return ["skills.sh.json: missing root configuration file"]
+
+    try:
+        data = json.loads(cfg_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        return [f"skills.sh.json: invalid JSON - {exc}"]
+
+    errors = []
+    if "$schema" not in data:
+        errors.append("skills.sh.json: missing '$schema' field")
+    if "groupings" not in data or not isinstance(data["groupings"], list):
+        errors.append("skills.sh.json: missing or invalid 'groupings' array")
+    else:
+        for idx, group in enumerate(data["groupings"]):
+            if "title" not in group:
+                errors.append(f"skills.sh.json: grouping[{idx}] missing 'title'")
+            if "skills" not in group or not isinstance(group["skills"], list):
+                errors.append(f"skills.sh.json: grouping[{idx}] missing 'skills' list")
+
+    return errors
 
 
 def tracked_skill_files() -> list[Path]:
@@ -74,6 +99,9 @@ def parse_frontmatter(path: Path) -> tuple[dict[str, str], list[str]]:
 def main() -> int:
     failures: list[str] = []
     warnings: list[str] = []
+    root = Path(__file__).resolve().parents[1]
+    failures.extend(validate_skills_sh_json(root))
+
     files = tracked_skill_files()
 
     for path in files:
@@ -113,7 +141,7 @@ def main() -> int:
             print(f"  {failure}", file=sys.stderr)
         return 1
 
-    print(f"Skill frontmatter OK ({len(files)} files, {len(warnings)} warnings)")
+    print(f"Skill frontmatter & skills.sh.json OK ({len(files)} files, {len(warnings)} warnings)")
     return 0
 
 

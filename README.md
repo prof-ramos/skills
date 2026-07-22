@@ -1,241 +1,257 @@
 # 🚀 Agentic Skills & MCP Repository
 
-Repositório centralizado para **Agent Skills** customizadas e servidores **Model Context Protocol
-(MCP)**. Segue a [especificação oficial Agent Skills](https://agentskills.io/specification).
+<div align="center">
+
+[![skills.sh](https://skills.sh/b/prof-ramos/skills)](https://skills.sh/prof-ramos/skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Agent Skills Spec](https://img.shields.io/badge/Agent%20Skills-Specification-blue)](https://agentskills.io/specification)
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Node.js Version](https://img.shields.io/badge/Node.js-20%2B-green?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Validation Status](https://img.shields.io/badge/Validation-make%20check%20%E2%9C%93-brightgreen)](Makefile)
+
+**Repositório centralizado para Agent Skills customizadas e servidores Model Context Protocol (MCP).**  
+Compatível com o ecossistema [skills.sh](https://skills.sh), Claude Code, Cursor, Windsurf, OpenCode, e a especificação oficial [Agent Skills Specification](https://agentskills.io/specification).
+
+[Instalação Rápida](#-como-usar) • [Habilidades Disponíveis](#-habilidades-disponíveis) • [Servidores MCP](#%EF%B8%8F-servidores-mcp-1) • [Estrutura](#-estrutura-do-projeto) • [Retomada & Setup](#-retomada-após-formatação)
+
+</div>
+
+---
+
+## 📌 Índice
+
+- [✨ Visão Geral](#-visão-geral)
+- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+- [🧠 Habilidades Disponíveis](#-habilidades-disponíveis)
+  - [⚡ Automação & Integrações](#-automação--integrações)
+  - [🛠️ Agent Workflows & Dev Tools](#%EF%B8%8F-agent-workflows--dev-tools)
+  - [🎨 Design & Conteúdo](#-design--conteúdo)
+  - [🛡️ Segurança & Offensive AI](#%EF%B8%8F-segurança--offensive-ai)
+  - [📜 Compliance, Educação & Concursos](#-compliance-educação--concursos)
+- [🛠️ Servidores MCP](#%EF%B8%8F-servidores-mcp-1)
+- [🚀 Como Usar](#-como-usar)
+  - [1. Instalação via CLI skills.sh (Recomendado)](#1-instalação-direta-via-cli-skillssh-recomendado)
+  - [2. Instalação Local (Git Clone)](#2-uso-local--clonando-o-repositório)
+- [🧪 Testes & Validação](#-testes--validação)
+- [🔄 Retomada após Formatação](#-retomada-após-formatação)
+- [📝 Contribuindo & Licença](#-contribuindo)
+
+---
+
+## ✨ Visão Geral
+
+Este repositório reúne um catálogo completo de habilidades modulares (**Skills**) e servidores de protocolo de contexto (**MCP**) desenhados para expandir os recursos de agentes autônomos de IA. Cada skill contém instruções determinísticas (`SKILL.md`), scripts operacionais, templates e referências técnicas.
+
+> [!NOTE]
+> Todas as skills deste repositório possuem validação sintática automatizada via `make check` e estão indexadas no arquivo [`skills.sh.json`](skills.sh.json).
+
+---
 
 ## 📁 Estrutura do Projeto
 
 ```text
 .
-├── skills/                        # Skills organizadas por categoria (principal)
-│   ├── automation/                # Automação, integrações, utilitários
+├── skills.sh.json                 # Configuração de categorias e agrupamentos do ecossistema skills.sh
+├── skills/                        # Coleção principal de Agent Skills por categoria
+│   ├── automation/                # Transferências de arquivos, N8N, utilitários
 │   │   ├── cyberduck-expert/
-│   │   ├── n8n-skills-2.1.1/
-│   │   ├── shopee-affiliate-automation/
-│   │   └── file-organization/     # (promovido em backup)
+│   │   ├── n8n-skills/
+│   │   ├── file-organization/
+│   │   └── resend-api/
 │   ├── compliance/
 │   │   └── lgpd-checklist/
 │   ├── content/
 │   │   ├── brazilian-official-docs/
 │   │   └── social-ads-creator/
-│   ├── agent-workflows/     # Workflows e automação de agentes (adicionado no main)
+│   ├── agent-workflows/           # Otimização de prompts, auditoria de budget de tokens
 │   │   └── skill-cleaner/
 │   ├── design/
 │   │   └── ui-ux-pro-max/
-│   ├── security/
+│   ├── security/                  # Red Team, auditoria Supabase, RLS, pentest
 │   │   ├── ethical-redteam/
 │   │   ├── temp-mail-pentest/
 │   │   ├── vuln-discovery/
+│   │   ├── supabase-security/
 │   │   └── vuln-hunt/
-│   └── Instagram-Carousel/        # Exemplos de carrosséis HTML prontos
+│   └── gh-cli/
 ├── assinafy/                      # Documentação oficial da API Assinafy (local)
 ├── assinafy-api/                  # Skill especialista na API Assinafy + references/evals
-├── carrossel-instagram/           # Gerador de carrosséis (HTML + Puppeteer + export)
-├── ollama-godmode/                # Técnicas de jailbreak para Ollama Cloud
+├── carrossel-instagram/           # Gerador de carrosséis (HTML + Puppeteer + export + exemplos)
+├── ollama-godmode/                # Técnicas de jailbreak e testes para Ollama Cloud
 ├── gerador_de_simulados/          # Geração de simulados/discursivas (Python)
 ├── cloudflare-workers/            # Referências e patterns para Cloudflare Workers
 ├── ready-to/                      # Skill de checklist pré-deploy
 ├── autoreview-agnostic/           # Autoreview para Claude Code e OpenCode
-├── edital-verticalizado/          # Verticalização de editais de concursos
-├── servers/                       # Servidores MCP
-│   └── supergithub/               # Gerenciador avançado de repositórios GitHub
-├── scripts/                       # Verificadores locais do repositório
-├── docs/                          # Documentação e referências
+├── edital-verticalizado/          # Verticalização de editais de concursos públicos
+├── servers/                       # Servidores MCP (Model Context Protocol)
+│   └── supergithub/               # Gerenciador avançado de repositórios GitHub via API
+├── scripts/                       # Scripts de validação local e sintaxe (Python/Shell/Node)
+├── docs/                          # Documentação geral e guias de referência
 │   └── reference/
-├── Makefile                       # make check para validação local
-├── .env.example                   # Template de variáveis de ambiente (sempre usar!)
-├── .gitignore                     # Reforçado para segurança (nunca versiona .env real, estado local, etc.)
-├── skills-lock.json
+├── Makefile                       # Suíte de automação (make check)
+├── .env.example                   # Template de variáveis de ambiente
+├── .gitignore                     # Filtros de segurança e arquivos locais
+├── skills-lock.json               # Lockfile de dependências de skills
 └── README.md
 ```
 
-> **Nota importante:** Diretórios `.omc/`, `.grok/`, `.agents/`, `node_modules/`, `.venv/`, `*.zip`, `*.log`, builds e `.env` reais **NÃO** são versionados (veja `.gitignore` atualizado e seção de Retomada).
+---
 
 ## 🧠 Habilidades Disponíveis
 
-### Adicionais / Em desenvolvimento (preservados no backup)
+### ⚡ Automação & Integrações
 
-- **Instagram Carousel** — Exemplos prontos de carrosséis HTML para Instagram (ASOF).
-- **Ready-to** — Skill de checklist diagnóstico pré-deploy / format.
-- **Gerador de Simulados** — Geração de provas discursivas e PDFs a partir de editais.
-- **Ollama Godmode** — Jailbreaks e técnicas avançadas para modelos Ollama Cloud.
-- **Cloudflare Workers** — Patterns, references e scaffold para Workers.
+| Skill | Status | Descrição |
+|-------|--------|-----------|
+| **[Cyberduck Expert](skills/automation/cyberduck-expert/SKILL.md)** | `Stable` | Automação e gestão de transferências FTP/SFTP/S3/WebDAV via duck CLI |
+| **[N8N Skills](skills/automation/n8n-skills/SKILL.md)** | `Stable` | Construção e otimização de workflows automatizados no N8N |
+| **[File Organization](skills/automation/file-organization/SKILL.md)** | `Stable` | Organização inteligente de arquivos e estruturas de diretórios |
+| **[Assinafy API](assinafy-api/SKILL.md)** | `Stable` | Especialista na API de assinatura digital Assinafy (upload, signers, webhooks, templates) |
+| **[Cloudflare Workers](cloudflare-workers/SKILL.md)** | `Stable` | Patterns, scaffolds e operações para aplicações serverless em Cloudflare Workers |
+| **[Resend API](skills/automation/resend-api/SKILL.md)** | `Stable` | Automação especialista na API Resend para e-mails transacionais, gestão de domínios, chaves de API, webhooks, templates e contatos. |
 
-### Automação
+### 🛠️ Agent Workflows & Dev Tools
 
-| Skill | Descrição |
-|-------|-----------|
-| **Cyberduck Expert** | Automação e gestão de transferências FTP/SFTP/S3 |
-| **N8N Skills** | Workflows e automação com N8N |
-| **Shopee Affiliate** | Automação para programa de afiliados Shopee |
-| **File Organization** | Organização de arquivos e pastas (utilitário) |
-| **Assinafy API** | Especialista na API de assinatura digital Assinafy (upload, signers, webhooks, templates) |
+| Skill | Status | Descrição |
+|-------|--------|-----------|
+| **[Skill Cleaner](skills/agent-workflows/skill-cleaner/SKILL.md)** | `Stable` | Auditoria e otimização do budget de tokens de skills no prompt do agente |
+| **[Ready-to](ready-to/SKILL.md)** | `Stable` | Checklist diagnóstico pré-deploy e validações da codebase |
+| **[Autoreview Agnostic](autoreview-agnostic/opencode/skills/autoreview/SKILL.md)** | `Stable` | Code review estruturado para Claude Code, OpenCode e agentes CLI |
+| **[GitHub CLI Expert](skills/gh-cli/SKILL.md)** | `Stable` | Automação de operações no GitHub via `gh` CLI |
 
-### Conteúdo
+### 🎨 Design & Conteúdo
 
-| Skill | Descrição |
-|-------|-----------|
-| **Brazilian Official Docs** | Documentos oficiais seguindo normas brasileiras |
-| **Social Ads Creator** | Criação de anúncios para redes sociais |
+| Skill | Status | Descrição |
+|-------|--------|-----------|
+| **[UI/UX Pro Max](skills/design/ui-ux-pro-max/SKILL.md)** | `Stable` | Design system completo com 50 estilos, paletas HSL e tipografia moderna |
+| **[Social Carousel](carrossel-instagram/SKILL.md)** | `Stable` | Geração de carrosséis cinematográficos para Instagram/LinkedIn/X (1080×1080) |
+| **[Social Ads Creator](skills/content/social-ads-creator/SKILL.md)** | `Stable` | Criação de anúncios e estratégias de copy para redes sociais |
+| **[Brazilian Official Docs](skills/content/brazilian-official-docs/SKILL.md)** | `Stable` | Formatação de documentos oficiais seguindo normas brasileiras |
 
-### Agent Workflows
+### 🛡️ Segurança & Offensive AI
 
-| Skill | Descrição |
-|-------|-----------|
-| **Skill Cleaner** | Auditoria e otimização do budget de skills no prompt de agentes AI |
+| Skill | Status | Descrição |
+|-------|--------|-----------|
+| **[Ethical Red Team](skills/security/ethical-redteam/SKILL.md)** | `Authorized` | Testes éticos de Red Team e Bug Bounty (OSINT, recon, port scan, relatórios OWASP) |
+| **[Temp Mail Pentest](skills/security/temp-mail-pentest/SKILL.md)** | `Authorized` | Gestão de e-mails temporários em fluxos autorizados de pentest |
+| **[Vuln Discovery](skills/security/vuln-discovery/SKILL.md)** | `Authorized` | Pipeline autônomo de descoberta de vulnerabilidades em 8 fases |
+| **[Supabase Security](skills/security/supabase-security/SKILL.md)** | `Authorized` | Auditoria completa de segurança RLS, policies e JWT no Supabase |
+| **[Vuln Hunt](skills/security/vuln-hunt/skills/vuln-discovery-pipeline/SKILL.md)** | `Authorized` | Pipeline com múltiplos agentes para auditoria massiva de código |
+| **[Ollama Godmode](ollama-godmode/SKILL.md)** | `Research` | Testes de robustez e jailbreaks controlados para modelos Ollama Cloud |
+| **[Godmode Agnostic](godmode-agnostic/SKILL.md)** | `Research` | Técnicas agnósticas de refinamento de comportamento para LLMs |
 
-### Design
+### 📜 Compliance, Educação & Concursos
 
-| Skill | Descrição |
-|-------|-----------|
-| **UI/UX Pro Max** | Design system com 50 estilos, paletas, tipografia |
-| **Social Carousel** | Geração de carrosséis para Instagram/LinkedIn/X (3 painéis cinematográficos 1080×1080) |
+| Skill | Status | Descrição |
+|-------|--------|-----------|
+| **[LGPD Checklist](skills/compliance/lgpd-checklist/SKILL.md)** | `Stable` | Checklists operacionais e conformidade legal com a LGPD |
+| **[Gerador de Simulados](gerador_de_simulados/SKILL.md)** | `Stable` | Geração de simulados e questões de provas anteriores com exportação PDF |
+| **[Edital Verticalizado](edital-verticalizado/SKILL.md)** | `Stable` | Verticalização e acompanhamento de editais de concursos públicos |
 
-### Segurança
-
-| Skill | Descrição |
-|-------|-----------|
-| **Ethical Red Team** | Red Team e Bug Bounty autorizado para agentes de IA |
-| **Temp Mail Pentest** | E-mails temporários para fluxos autorizados de pentest |
-| **Vuln Discovery** | Pipeline autônomo de descoberta de vulnerabilidades em 8 fases |
-| **Vuln Hunt** | Automação de varreduras de segurança e caça a falhas |
-
-### Compliance / Legal
-
-| Skill | Descrição |
-|-------|-----------|
-| **LGPD Checklist** | Checklist e base legal em conformidade com a LGPD |
+---
 
 ## 🛠️ Servidores MCP
 
-| Servidor | Descrição |
-|----------|-----------|
-| **SuperGitHub** | Gerenciamento avançado de repositórios GitHub via API |
+| Servidor | Descrição | Linguagem / Protocolo |
+|----------|-----------|-----------------------|
+| **[SuperGitHub](servers/supergithub/SKILL.md)** | Gerenciamento avançado de repositórios, PRs e issues do GitHub via API | Python / Stdio MCP |
+
+---
 
 ## 🚀 Como Usar
 
-1. Clone este repositório
-2. Navegue até a skill desejada em `skills/`
-3. Leia o arquivo `SKILL.md` para instruções
+### 1. Instalação Direta via CLI `skills.sh` (Recomendado)
+
+O ecossistema [`skills.sh`](https://skills.sh) permite instalar as habilidades diretamente na sua máquina ou ambiente de agente:
 
 ```bash
+# Instalar todas as skills deste repositório
+npx skills add prof-ramos/skills
+
+# Instalar uma skill específica (exemplo: cyberduck-expert)
+npx skills add prof-ramos/skills/cyberduck-expert
+```
+
+### 2. Uso Local / Clonando o Repositório
+
+```bash
+# 1. Clone o repositório
 git clone https://github.com/prof-ramos/skills.git
 cd skills
-# Exemplo
+
+# 2. Inspecione uma skill
 cat skills/design/ui-ux-pro-max/SKILL.md
-# ou
-cat ollama-godmode/SKILL.md
+
+# 3. Configure as variáveis de ambiente base
+cp .env.example .env
 ```
+
+---
+
+## 🧪 Testes & Validação
+
+O repositório inclui uma suíte automatizada de checagem para garantir sintaxe válida e conformidade de frontmatter em todas as skills:
+
+```bash
+# Executar todas as validações (Python + Shell + Node + Frontmatter + KHAOS smoke)
+make check
+```
+
+Output esperado:
+```text
+Python syntax OK (56 files)
+Shell syntax OK (16 files)
+Skill frontmatter & skills.sh.json OK (26 files, 0 warnings)
+KHAOS smoke OK
+```
+
+---
+
+## 🔄 Retomada após Formatação
+
+Este repositório foi otimizado para permitir a retomada imediata do ambiente de desenvolvimento em máquinas limpas:
+
+### Checklist Rápido pós-clone
+
+1. **Clonar repositório:**
+   ```bash
+   git clone https://github.com/prof-ramos/skills.git && cd skills
+   ```
+2. **Requisitos de ambiente:**
+   - **Python 3.10+** (necessário para `supergithub`, `ollama-godmode`, `gerador_de_simulados`)
+   - **Node.js 20+ + npm** (necessário para `carrossel-instagram`)
+3. **Instalação de dependências dos subprojetos:**
+   ```bash
+   # Para o servidor SuperGitHub:
+   cd servers/supergithub && pip install -r requirements.txt && cd ../..
+
+   # Para o gerador de carrosséis:
+   cd carrossel-instagram && npm install && cd ..
+   ```
+4. **Variáveis de ambiente:**
+   ```bash
+   cp .env.example .env
+   ```
+   > [!WARNING]
+   > **Nunca versione o arquivo `.env` real.** O arquivo `.gitignore` já está configurado para bloquear `.env`, `.venv`, `node_modules` e credenciais.
+
+5. **Executar verificação global:**
+   ```bash
+   make check
+   ```
+
+---
 
 ## 📝 Contribuindo
 
-Veja [CONTRIBUTING.md](CONTRIBUTING.md) para instruções sobre como criar novas skills.
+Contribuições para novas skills e melhorias são super bem-vindas! Consulte o guia de contribuição em [CONTRIBUTING.md](CONTRIBUTING.md) antes de enviar um Pull Request.
 
-## 📚 Referências
-
-- [Agent Skills Specification](https://agentskills.io/specification)
-- [Template de Skill](docs/reference/official-skills/template/SKILL.md)
-
-## 🔄 Retomada após formatação
-
-Este repositório foi preparado para que você possa **formatar o computador e retomar o desenvolvimento exatamente do mesmo ponto**, sem perder código-fonte, documentação, scripts, schemas ou instruções.
-
-### Passo a passo para retomar (após `git clone`)
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/prof-ramos/skills.git
-   cd skills
-   git checkout main
-   ```
-
-2. **Versões recomendadas**
-   - Python 3.10+ (para scripts em `servers/`, `ollama-godmode/`, `gerador_de_simulados/`)
-   - Node.js 20+ + npm (para `carrossel-instagram/`)
-   - Git + GitHub CLI (opcional, útil com `servers/supergithub`)
-   - (Opcional) Docker se alguma skill evoluir para containers
-
-3. **Instalar dependências**
-   - Para o servidor GitHub:
-     ```bash
-     cd servers/supergithub
-     pip install -r requirements.txt
-     cd ../..
-     ```
-   - Para o gerador de carrosséis (Puppeteer + Chromium gerenciado):
-     ```bash
-     cd carrossel-instagram
-     npm install
-     cd ..
-     ```
-   - Demais skills são majoritariamente Markdown + scripts auto-contidos (leia o `SKILL.md` correspondente).
-
-4. **Configurar variáveis de ambiente (OBRIGATÓRIO para skills que usam APIs)**
-   ```bash
-   cp .env.example .env
-   # Edite .env com seus valores reais (NUNCA commite o .env real)
-   ```
-   Principais variáveis (veja `.env.example` e os `SKILL.md`):
-   - `GH_TOKEN` — GitHub Personal Access Token (para `supergithub`)
-   - `ASSINAFY_API_KEY`, `ASSINAFY_ACCOUNT_ID`, `ASSINAFY_BASE_URL`, `ASSINAFY_WEBHOOK_SECRET` — para a skill Assinafy
-
-5. **Como usar as skills**
-   - Cada skill tem um `SKILL.md` com frontmatter (name, description, triggers) e instruções detalhadas.
-   - A maioria é consumida por agentes (Claude Code + OMC / Grok etc.) que leem o arquivo quando o nome/trigger é mencionado.
-   - Para skills com scripts: leia o `QUICKSTART.md`, `README.md` ou o próprio `SKILL.md` da pasta.
-
-6. **Preparar banco de dados / dados locais**
-   - Este projeto **não possui migrations nem banco de dados** central.
-   - Algumas skills usam arquivos locais (ex: `gerador_de_simulados/examples/`, `assinafy/assinafy-api-docs/`).
-   - Tudo que é necessário já está versionado.
-
-7. **Executar em desenvolvimento / usar**
-   - Skills de documentação e referência: abra o `SKILL.md`.
-   - `servers/supergithub`: siga `QUICKSTART.md` ou `README.md` (export GH_TOKEN primeiro).
-   - `carrossel-instagram`: rode o `index.html` diretamente ou use `export.js` + Puppeteer conforme o skill.
-   - `ollama-godmode`: scripts Python auto-contidos (veja `SKILL.md`).
-
-8. **Rodar testes**
-   - Validação local sem rede/tokens:
-     ```bash
-     make check
-     ```
-   - `carrossel-instagram`: `npm test` valida a sintaxe do exportador.
-   - `servers/supergithub`: `python test_github_manager.py` executa smoke tests reais contra a API e requer `GH_TOKEN`.
-   - Outras skills: verifique dentro do `SKILL.md` ou pasta (muitas são prompt-driven, sem testes automatizados tradicionais).
-
-9. **Build / Geração de artefatos**
-   - Carrosséis: o skill produz HTML estático (pode usar Puppeteer para screenshot/PDF se configurado).
-   - Gerador de simulados: rode o script Python correspondente.
-   - Design system: os previews HTML são estáticos (basta abrir no browser).
-   - Não há build step global.
-
-10. **Deploy / Publicação**
-    - A maioria das skills é para uso local com agentes de IA (Claude, Grok, etc.).
-    - `cloudflare-workers/`: use os patterns para fazer deploy manual em Workers.
-    - `servers/supergithub`: roda localmente como CLI/tooling.
-    - Para skills que geram HTML (carrossel, design): o artefato gerado é o próprio HTML (pronto para colar em post ou hospedar estático).
-
-11. **Observações de segurança e o que NÃO está no GitHub**
-    - **Nunca versionado (por design e .gitignore atualizado)**:
-      - `.env`, `.env.local`, `.env.production` etc. (use sempre `.env.example`)
-      - `.omc/`, `.grok/`, `.agents/` (estado local do OMC/Grok, paths da máquina, sessões, memory — foram removidos do index neste backup)
-      - `node_modules/`, `.venv/`, `venv/`, `__pycache__/`
-      - `*.zip`, `*.tar.*`, dumps SQL, `.bak`, `.db`, `.sqlite*`
-      - `.DS_Store`, logs, caches, builds (`dist/`, `build/`, `.next/` etc.)
-      - Qualquer arquivo `.pem`, `.key`, credenciais reais, screenshots grandes não essenciais.
-    - Se após o clone você vir avisos de arquivos grandes ou binários, rode `git lfs install` (caso use LFS no futuro) ou simplesmente não os adicione.
-    - O `.gitignore` foi reforçado durante a preparação deste backup.
-
-12. **Checklist rápido pós-clone**
-    - [ ] `cp .env.example .env` + preencher
-    - [ ] Instalar deps dos subprojetos que você for usar (npm / pip)
-    - [ ] Exportar `GH_TOKEN` se for usar o supergithub
-    - [ ] Ler o `SKILL.md` da skill desejada
-    - [ ] Para carrosséis ou design: abrir os `.html` no navegador
-
-Qualquer dúvida sobre retomada: abra o `SKILL.md` relevante ou o `README.md` da subpasta.
+---
 
 ## 📜 Licença
 
-[MIT License](LICENSE)
+Distribuído sob a licença **MIT**. Veja [`LICENSE`](LICENSE) para mais detalhes.
+
+<div align="center">
+  <sub>Desenvolvido com 💚 por <a href="https://github.com/prof-ramos">Prof. Ramos</a></sub>
+</div>
