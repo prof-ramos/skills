@@ -24,11 +24,20 @@ do ecossistema OpenClaw/steipete.
 > `main` history, so it stays as a conscious scope debt; future unrelated features
 > should always land in independent PRs/branches.
 >
-> **Sync note:** `shared/` is the single source of truth. After editing any shared file
-> (schema.json, rubric.md, diff-bundle.sh), copy it to both platform copies:
-> `opencode/skills/autoreview/` and `claude-code/.claude/skills/autoreview/`. There is
-> no automated sync — changes must be propagated manually to keep the three copies
-> identical. A future `Makefile` or CI check could automate this.
+> **Sync note:** `shared/` is the single source of truth. Run `bash shared/sync-shared.sh`
+> after editing anything under `shared/` — it copies `schema.json`, `rubric.md` and
+> `diff-bundle.sh` verbatim into both platform copies, and *renders* each runtime's
+> `agent.md` (the actual review prompt) from `shared/agent-prompt.template.md` +
+> `shared/frontmatter.<runtime>.yaml` + `shared/tool-restrictions.<runtime>.md`. Frontmatter
+> stays per-runtime by design (the two agent-definition schemas are genuinely different,
+> not just cosmetically); the prompt body is the single template. The script re-renders to a
+> scratch file and diffs against the committed copy, so a hand-edit made directly to a
+> generated `agent.md` (bypassing the template) fails the check instead of silently drifting.
+> `opencode/command/autoreview.md` and `claude-code/.claude/commands/autoreview.md` are
+> **not** templated — they have genuinely different control flow (OpenCode runs the review
+> steps directly; Claude Code delegates via `Task` to the `autoreview` subagent), not just
+> differing variables, so forcing them into one template would trade clarity for a false
+> economy. Those two stay hand-maintained.
 
 ## Árvore final
 
@@ -38,10 +47,15 @@ autoreview-agnostic/
 ├── analysis/
 │   ├── ANALYSIS.md
 │   └── MATRIX.md
-├── shared/                              # base única de verdade, copiada para cada versão
-│   ├── schema.json                      # contrato de saída JSON (findings + verdict)
-│   ├── rubric.md                        # o que reportar / rejeitar / scope governor
-│   └── diff-bundle.sh                    # seleção read-only do bundle (local|branch|commit)
+├── shared/                              # base única de verdade, copiada/renderizada para cada versão
+│   ├── schema.json                      # contrato de saída JSON (findings + verdict) — copiado verbatim
+│   ├── rubric.md                        # o que reportar / rejeitar / scope governor — copiado verbatim
+│   ├── diff-bundle.sh                   # seleção read-only do bundle (local|branch|commit) — copiado verbatim
+│   ├── agent-prompt.template.md         # corpo do prompt do agente, comum às duas runtimes
+│   ├── frontmatter.{opencode,claude-code}.yaml    # frontmatter de agent-definition, por runtime (schemas divergem de verdade)
+│   ├── tool-restrictions.{opencode,claude-code}.md # parágrafo de enforcement de tools, por runtime
+│   ├── render_agent_prompt.py           # gera um agent.md a partir do template + frontmatter + tool-restrictions
+│   └── sync-shared.sh                   # orquestra cópia + renderização + verificação (rodar após editar shared/)
 ├── opencode/
 │   ├── README.md
 │   ├── opencode.json                    # command /autoreview (agent: autoreview) + skills.paths + instructions

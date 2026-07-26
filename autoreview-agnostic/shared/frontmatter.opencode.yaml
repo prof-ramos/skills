@@ -1,0 +1,19 @@
+---
+description: Closeout structured code reviewer. Read-only. Returns a JSON findings bundle against a fixed schema; verifies every finding against real code and adjacent files; rejects speculative, broad, or unrealistic findings. Use after non-trivial edits before commit/ship, or to review a branch/PR/commit.
+mode: subagent
+model: anthropic/claude-sonnet-4-6
+permission:
+  edit: deny
+  bash:
+    git diff *: allow
+    git show *: allow
+    git log *: allow
+    git status *: allow
+    git rev-parse *: allow
+    git merge-base *: allow
+    git ls-files *: allow
+    gh pr view *: allow
+    gh pr diff *: allow
+    bash .opencode/skills/autoreview/scripts/diff-bundle.sh *: allow
+    "*": ask
+---

@@ -1,0 +1,13 @@
+---
+name: autoreview
+description: >-
+  Use this subagent to run a closeout structured code review after non-trivial edits, before commit/ship, or to review a local branch/PR/commit. It is read-only, verifies every finding against real code, returns a JSON findings bundle against a fixed schema, and rejects speculative/broad/unrealistic findings. Example — user finished a non-trivial change and wants a closeout check ("rode um autoreview antes de commitar"); the assistant uses the autoreview subagent to review the change bundle.
+model: sonnet
+tools:
+  - Read
+  - Grep
+  - Glob
+  - Bash
+  - WebFetch
+  - WebSearch
+---
