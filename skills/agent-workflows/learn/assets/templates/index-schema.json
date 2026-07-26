@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://skills.internal/learn/index-schema.json",
+  "title": ".agents/learn/index.json",
+  "description": "Lightweight index of every learning known to the project. Full detail (evidence, justification, diff) lives in learnings/<id>.md; this file exists so search/audit/apply don't have to parse every markdown file.",
+  "type": "object",
+  "required": ["schema_version", "learnings"],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "description": "Bump only when the shape of a learning record changes incompatibly. See references/rollback-and-migration.md#migracao."
+    },
+    "learnings": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/learning" }
+    }
+  },
+  "$defs": {
+    "learning": {
+      "type": "object",
+      "required": ["id", "title", "category", "status", "version", "scope", "target_file"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^LP-[0-9]{6}$",
+          "description": "Allocated by scripts/learn_id.py. Monotonic, gaps allowed."
+        },
+        "title": { "type": "string" },
+        "category": {
+          "type": "string",
+          "enum": [
+            "rule", "skill", "pattern", "documentation", "antipattern",
+            "decision", "convention", "checklist", "template", "reference", "ignore"
+          ]
+        },
+        "status": {
+          "type": "string",
+          "enum": ["proposed", "approved", "applied", "rejected", "rolled_back", "archived", "ignored"]
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+          "description": "MAJOR.MINOR.REVISION. Initial value set by the decision matrix, see references/id-and-versioning.md."
+        },
+        "scope": {
+          "type": "string",
+          "enum": ["global", "project", "subdirectory", "technology", "language", "framework"]
+        },
+        "target_file": {
+          "type": "string",
+          "description": "Path (relative to project root, or ~/.codex/AGENTS.md for global scope) that learn_apply.py patches."
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "confidence_tier": {
+          "type": "string",
+          "enum": ["suggestion", "medium", "candidate_rule", "consolidated_rule"]
+        },
+        "occurrences": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "How many independent sessions/pieces of evidence support this learning so far."
+        },
+        "created_at": { "type": "string", "format": "date-time" },
+        "applied_at": { "type": "string", "format": "date-time" },
+        "rolled_back_at": { "type": "string", "format": "date-time" },
+        "last_used": {
+          "type": ["string", "null"],
+          "format": "date-time",
+          "description": "Last time this learning was observed to actually change agent behavior, not just exist."
+        },
+        "last_validated": {
+          "type": ["string", "null"],
+          "format": "date-time",
+          "description": "Last time a human or a $learn audit pass confirmed this is still accurate."
+        },
+        "related_technology": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "e.g. [\"nextjs\", \"prisma\"] -- used to flag obsolescence when a dependency is removed."
+        },
+        "depends_on": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^LP-[0-9]{6}$" }
+        },
+        "superseded_by": {
+          "type": ["string", "null"],
+          "pattern": "^LP-[0-9]{6}$"
+        }
+      }
+    }
+  }
+}

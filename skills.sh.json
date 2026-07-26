@@ -16,13 +16,14 @@
     },
     {
       "title": "Agent Workflows & Developer Tools",
-      "description": "Skills for prompt budget optimization, pre-deploy diagnostics, code reviews, GitHub CLI, and repository management.",
+      "description": "Skills for prompt budget optimization, pre-deploy diagnostics, code reviews, GitHub CLI, repository management, and incremental agent learning.",
       "skills": [
         "skill-cleaner",
         "ready-to",
         "autoreview",
         "gh-cli",
-        "supergithub"
+        "supergithub",
+        "learn"
       ]
     },
     {

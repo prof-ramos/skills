@@ -1,0 +1,21 @@
+# Metadados opcionais de apresentação/comportamento para o Codex CLI.
+# Ver references/compatibility.md para a fonte da especificação destes campos.
+
+interface:
+  display_name: "Learn"
+  short_description: "Aprendizado incremental, auditável e reversível"
+  default_prompt: "$learn"
+  # icon_small / icon_large / brand_color: propositalmente omitidos — não temos
+  # assets visuais reais e não devem ser inventados; a especificação os trata
+  # como opcionais.
+
+policy:
+  # Fluxo pesado (analisa toda a sessão e gera uma proposta de várias etapas):
+  # deve ser deliberado, nunca disparado implicitamente por uma menção casual.
+  allow_implicit_invocation: false
+
+dependencies:
+  tools: []
+  # Nenhuma dependência de MCP/ferramenta externa: opera só com o filesystem
+  # do projeto (AGENTS.md, .agents/skills, .agents/learn) e os scripts locais
+  # em scripts/.

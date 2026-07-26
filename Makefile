@@ -1,9 +1,9 @@
-.PHONY: check check-python check-shell check-node check-skills check-khaos-smoke
+.PHONY: check check-python check-shell check-node check-skills check-khaos-smoke check-learn-patch
 
 PYTHON ?= python3
 NODE ?= node
 
-check: check-python check-shell check-node check-skills check-khaos-smoke
+check: check-python check-shell check-node check-skills check-khaos-smoke check-learn-patch
 
 check-python:
 	$(PYTHON) scripts/check-python-syntax.py
@@ -20,3 +20,6 @@ check-skills:
 
 check-khaos-smoke:
 	$(PYTHON) scripts/check-khaos-smoke.py
+
+check-learn-patch:
+	$(PYTHON) skills/agent-workflows/learn/scripts/tests/test_learn_patch.py

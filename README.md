@@ -64,7 +64,8 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 │   │   ├── brazilian-official-docs/
 │   │   └── social-ads-creator/
 │   ├── agent-workflows/           # Otimização de prompts, auditoria de budget de tokens
-│   │   └── skill-cleaner/
+│   │   ├── skill-cleaner/
+│   │   └── learn/                 # Sistema de aprendizado incremental/auditável para Codex
 │   ├── design/
 │   │   └── ui-ux-pro-max/
 │   ├── security/                  # Red Team, auditoria Supabase, RLS, pentest
@@ -118,6 +119,7 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 | **[Ready-to](ready-to/SKILL.md)** | `Stable` | Checklist diagnóstico pré-deploy e validações da codebase |
 | **[Autoreview Agnostic](autoreview-agnostic/opencode/skills/autoreview/SKILL.md)** | `Stable` | Code review estruturado para Claude Code, OpenCode e agentes CLI |
 | **[GitHub CLI Expert](skills/gh-cli/SKILL.md)** | `Stable` | Automação de operações no GitHub via `gh` CLI |
+| **[Learn](skills/agent-workflows/learn/SKILL.md)** | `Stable` | Sistema de gestão de conhecimento incremental para o agente: analisa a sessão, classifica aprendizados, verifica duplicação/conflito e só aplica em `AGENTS.md`/Skills após aprovação explícita, com rollback individual por item |
 
 ### 🎨 Design & Conteúdo
 

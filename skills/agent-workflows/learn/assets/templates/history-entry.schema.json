@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://skills.internal/learn/history-entry-schema.json",
+  "title": ".agents/learn/history/<YYYY-MM-DD>.jsonl line",
+  "description": "One JSON object per line, appended-only, written by scripts/_learn_common.py:append_history(). Never rewritten or reordered -- this is the audit trail.",
+  "type": "object",
+  "required": ["ts", "id", "action", "result"],
+  "properties": {
+    "ts": { "type": "string", "format": "date-time" },
+    "id": { "type": "string", "pattern": "^LP-[0-9]{6}$" },
+    "action": {
+      "type": "string",
+      "enum": ["propose", "approve", "reject", "apply", "rollback"]
+    },
+    "target_file": { "type": "string" },
+    "result": { "type": "string", "enum": ["success", "failed", "blocked"] },
+    "actor": {
+      "type": "string",
+      "description": "Free text, e.g. \"agent\" or the user's approval token verbatim, for provenance."
+    }
+  }
+}
