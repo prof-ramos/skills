@@ -119,6 +119,52 @@ def _decode_js_string_escapes(s: str) -> str:
     return "".join(out)
 
 
+class _Scanner:
+    """Owns a cursor into a JS/TS source string.
+
+    Replaces the (str, int) position tuples the parsing functions below used
+    to thread between themselves by hand -- each function now advances a
+    shared cursor via a small set of methods (peek/advance/startswith/eof)
+    instead of every caller re-deriving the next index itself.
+    """
+
+    def __init__(self, source: str, pos: int = 0) -> None:
+        self.source = source
+        self.pos = pos
+
+    @property
+    def eof(self) -> bool:
+        return self.pos >= len(self.source)
+
+    def peek(self, offset: int = 0) -> str:
+        i = self.pos + offset
+        return self.source[i] if i < len(self.source) else ""
+
+    def startswith(self, s: str) -> bool:
+        return self.source.startswith(s, self.pos)
+
+    def advance(self, n: int = 1) -> str:
+        chunk = self.source[self.pos : self.pos + n]
+        self.pos += n
+        return chunk
+
+    def skip_ws_and_comments(self) -> None:
+        n = len(self.source)
+        while self.pos < n:
+            if self.source[self.pos] in " \t\r\n":
+                self.pos += 1
+                continue
+            if self.startswith("//"):
+                nl = self.source.find("\n", self.pos)
+                self.pos = n if nl < 0 else nl + 1
+                continue
+            if self.startswith("/*"):
+                end = self.source.find("*/", self.pos + 2)
+                self.pos = n if end < 0 else end + 2
+                continue
+            break
+
+
 def extract_template_const(source: str, name: str) -> str:
     r"""Extract export const NAME = `...` (unescaped closing backtick)."""
     # Allow optional type annotation: export const NAME: Type = `
@@ -129,79 +175,55 @@ def extract_template_const(source: str, name: str) -> str:
     m = pat.search(source)
     if not m:
         raise ValueError(f"export const {name} = `...` not found")
-    start = m.end()  # first char inside template
-    i = start
-    n = len(source)
-    while i < n:
-        c = source[i]
+    scanner = _Scanner(source, pos=m.end())
+    start = scanner.pos  # first char inside template
+    while not scanner.eof:
+        c = scanner.peek()
         if c == "\\":
-            i += 2 if i + 1 < n else 1
+            scanner.advance(2 if scanner.pos + 1 < len(source) else 1)
             continue
         if c == "`":
-            raw = source[start:i]
+            raw = scanner.source[start : scanner.pos]
             return _decode_js_string_escapes(raw)
-        i += 1
+        scanner.advance()
     raise ValueError(f"unclosed template literal for {name}")
 
 
-def extract_single_quoted(source: str, start: int) -> tuple[str, int]:
-    """Parse a JS single-quoted string starting at the opening quote index."""
-    if start >= len(source) or source[start] != "'":
+def extract_single_quoted(scanner: _Scanner) -> str:
+    """Parse a JS single-quoted string; scanner.pos must be at the opening quote."""
+    if scanner.peek() != "'":
         raise ValueError("expected single-quoted string")
-    i = start + 1
+    scanner.advance()
     raw_parts: list[str] = []
-    n = len(source)
-    while i < n:
-        c = source[i]
+    while not scanner.eof:
+        c = scanner.peek()
         if c == "\\":
-            if i + 1 < n:
-                raw_parts.append(source[i : i + 2])
-                i += 2
-            else:
-                raw_parts.append("\\")
-                i += 1
+            raw_parts.append(scanner.advance(2) if scanner.pos + 1 < len(scanner.source) else scanner.advance(1))
             continue
         if c == "'":
-            return _decode_js_string_escapes("".join(raw_parts)), i + 1
-        raw_parts.append(c)
-        i += 1
+            scanner.advance()
+            return _decode_js_string_escapes("".join(raw_parts))
+        raw_parts.append(scanner.advance())
     raise ValueError("unclosed single-quoted string")
 
 
-def extract_template_at(source: str, start: int) -> tuple[str, int]:
-    """Parse a template literal starting at the opening backtick index."""
-    if start >= len(source) or source[start] != "`":
+def extract_template_at(scanner: _Scanner) -> str:
+    """Parse a template literal; scanner.pos must be at the opening backtick."""
+    if scanner.peek() != "`":
         raise ValueError("expected template literal")
-    i = start + 1
-    n = len(source)
-    while i < n:
-        c = source[i]
+    scanner.advance()
+    start = scanner.pos
+    while not scanner.eof:
+        c = scanner.peek()
         if c == "\\":
-            i += 2 if i + 1 < n else 1
+            scanner.advance(2 if scanner.pos + 1 < len(scanner.source) else 1)
             continue
         if c == "`":
-            raw = source[start + 1 : i]
-            return _decode_js_string_escapes(raw), i + 1
-        i += 1
+            raw = scanner.source[start : scanner.pos]
+            scanner.advance()
+            return _decode_js_string_escapes(raw)
+        scanner.advance()
     raise ValueError("unclosed template literal")
-
-
-def _skip_ws_and_comments(source: str, i: int) -> int:
-    n = len(source)
-    while i < n:
-        if source[i] in " \t\r\n":
-            i += 1
-            continue
-        if source.startswith("//", i):
-            nl = source.find("\n", i)
-            i = n if nl < 0 else nl + 1
-            continue
-        if source.startswith("/*", i):
-            end = source.find("*/", i + 2)
-            i = n if end < 0 else end + 2
-            continue
-        break
-    return i
 
 
 def parse_hall_of_fame(source: str) -> list[dict[str, Any]]:
@@ -209,61 +231,61 @@ def parse_hall_of_fame(source: str) -> list[dict[str, Any]]:
     m = re.search(r"export\s+const\s+HALL_OF_FAME\s*[^=]*=\s*\[", source)
     if not m:
         raise ValueError("HALL_OF_FAME array not found")
-    i = m.end()
+    scanner = _Scanner(source, pos=m.end())
     combos: list[dict[str, Any]] = []
-    n = len(source)
 
     while True:
-        i = _skip_ws_and_comments(source, i)
-        if i >= n:
+        scanner.skip_ws_and_comments()
+        if scanner.eof:
             raise ValueError("unclosed HALL_OF_FAME array")
-        if source[i] == "]":
+        if scanner.peek() == "]":
             break
-        if source[i] == ",":
-            i += 1
+        if scanner.peek() == ",":
+            scanner.advance()
             continue
-        if source[i] != "{":
-            raise ValueError(f"expected object in HALL_OF_FAME at index {i}")
-        i += 1
+        if scanner.peek() != "{":
+            raise ValueError(f"expected object in HALL_OF_FAME at index {scanner.pos}")
+        scanner.advance()
         fields: dict[str, Any] = {}
         while True:
-            i = _skip_ws_and_comments(source, i)
-            if i >= n:
+            scanner.skip_ws_and_comments()
+            if scanner.eof:
                 raise ValueError("unclosed HoF object")
-            if source[i] == "}":
-                i += 1
+            if scanner.peek() == "}":
+                scanner.advance()
                 break
-            if source[i] == ",":
-                i += 1
+            if scanner.peek() == ",":
+                scanner.advance()
                 continue
             # property name
-            km = re.match(r"([A-Za-z_][A-Za-z0-9_]*)\s*:", source[i:])
+            km = re.match(r"([A-Za-z_][A-Za-z0-9_]*)\s*:", scanner.source[scanner.pos :])
             if not km:
-                raise ValueError(f"expected property at index {i}: {source[i:i+40]!r}")
+                raise ValueError(
+                    f"expected property at index {scanner.pos}: {scanner.source[scanner.pos:scanner.pos+40]!r}"
+                )
             key = km.group(1)
-            i += km.end()
-            i = _skip_ws_and_comments(source, i)
-            if i >= n:
+            scanner.advance(km.end())
+            scanner.skip_ws_and_comments()
+            if scanner.eof:
                 raise ValueError(f"missing value for {key}")
-            if source[i] == "'":
-                val, i = extract_single_quoted(source, i)
-                fields[key] = val
-            elif source[i] == "`":
-                val, i = extract_template_at(source, i)
-                fields[key] = val
-            elif source.startswith("true", i) and (
-                i + 4 >= n or not source[i + 4].isalnum()
+            if scanner.peek() == "'":
+                fields[key] = extract_single_quoted(scanner)
+            elif scanner.peek() == "`":
+                fields[key] = extract_template_at(scanner)
+            elif scanner.startswith("true") and (
+                scanner.pos + 4 >= len(scanner.source) or not scanner.source[scanner.pos + 4].isalnum()
             ):
                 fields[key] = True
-                i += 4
-            elif source.startswith("false", i) and (
-                i + 5 >= n or not source[i + 5].isalnum()
+                scanner.advance(4)
+            elif scanner.startswith("false") and (
+                scanner.pos + 5 >= len(scanner.source) or not scanner.source[scanner.pos + 5].isalnum()
             ):
                 fields[key] = False
-                i += 5
+                scanner.advance(5)
             else:
                 raise ValueError(
-                    f"unsupported value for {key} at {i}: {source[i:i+40]!r}"
+                    f"unsupported value for {key} at {scanner.pos}: "
+                    f"{scanner.source[scanner.pos:scanner.pos+40]!r}"
                 )
         # Normalize to committed schema: always include fast (default False).
         ordered: dict[str, Any] = {}

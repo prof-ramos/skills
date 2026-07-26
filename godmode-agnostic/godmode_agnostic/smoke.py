@@ -10,7 +10,7 @@ import time
 import urllib.error
 import urllib.request
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from godmode_agnostic.core import api_model_id, build_payload, normalize_mode
 
@@ -108,6 +108,7 @@ def run_smoke(
     payload_out: Path = Path(".godmode-agnostic/last_payload.json"),
     skip_live: bool = False,
     recheck: bool = False,
+    chat_completion_fn: Callable[[str, str, str, list, dict], dict[str, Any]] = chat_completion,
 ) -> dict[str, Any]:
     prev = load_state(state_path) if (recheck or state_path.is_file()) else {}
     if recheck and not prev:
@@ -122,14 +123,9 @@ def run_smoke(
         raw_mode = prev.get("mode") or "auto"
     else:
         raw_mode = mode
-    # Accept persisted resolved names (hall-of-fame / default-pipeline)
-    try:
-        norm = normalize_mode(raw_mode)
-    except ValueError:
-        if raw_mode in ("hall-of-fame", "default-pipeline"):
-            norm = "hof" if raw_mode == "hall-of-fame" else "pipeline"
-        else:
-            raise
+    # normalize_mode already aliases the persisted resolved names
+    # (hall-of-fame -> hof, default-pipeline -> pipeline); no second table here.
+    norm = normalize_mode(raw_mode)
 
     combo_id = combo or prev.get("combo_id")
     payload = build_payload(
@@ -171,7 +167,7 @@ def run_smoke(
         }
     else:
         try:
-            raw = chat_completion(
+            raw = chat_completion_fn(
                 base, key, test_model, payload["messages"], payload["params"]
             )
             content = assistant_text(raw)
