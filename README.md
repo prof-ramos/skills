@@ -28,6 +28,7 @@ Compatível com o ecossistema [skills.sh](https://skills.sh), Claude Code, Curso
   - [🎨 Design & Conteúdo](#-design--conteúdo)
   - [🛡️ Segurança & Offensive AI](#%EF%B8%8F-segurança--offensive-ai)
   - [📜 Compliance, Educação & Concursos](#-compliance-educação--concursos)
+  - [⚖️ Legal Skills (LegalSkillsBR)](#️-legal-skills-legalskillsbr)
 - [🛠️ Servidores MCP](#%EF%B8%8F-servidores-mcp-1)
 - [🚀 Como Usar](#-como-usar)
   - [1. Instalação via CLI skills.sh (Recomendado)](#1-instalação-direta-via-cli-skillssh-recomendado)
@@ -52,6 +53,9 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 ```text
 .
 ├── skills.sh.json                 # Configuração de categorias e agrupamentos do ecossistema skills.sh
+├── legalbr/                       # Acervo LegalSkillsBR: 2.149 skills jurídicas
+│   ├── forma/                     # 299 minutas e peças processuais
+│   └── materia/                   # 1.850 teses jurídicas em 25 ramos do direito
 ├── skills/                        # Coleção principal de Agent Skills por categoria
 │   ├── automation/                # Transferências de arquivos, N8N, utilitários
 │   │   ├── cyberduck-expert/
@@ -149,6 +153,39 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 | **[LGPD Checklist](skills/compliance/lgpd-checklist/SKILL.md)** | `Stable` | Checklists operacionais e conformidade legal com a LGPD |
 | **[Gerador de Simulados](gerador_de_simulados/SKILL.md)** | `Stable` | Geração de simulados e questões de provas anteriores com exportação PDF |
 | **[Edital Verticalizado](edital-verticalizado/SKILL.md)** | `Stable` | Verticalização e acompanhamento de editais de concursos públicos |
+
+### ⚖️ Legal Skills (LegalSkillsBR)
+
+Acervo de **2.149 skills jurídicas** em [`legalbr/`](legalbr/), compatível com a [Agent Skills Specification](https://agentskills.io/specification) (frontmatter `name` + `description` validado). Instalável via `npx skills add prof-ramos/skills`.
+
+| Categoria | Skills | Descrição |
+|-----------|-------:|-----------|
+| [Formas](legalbr/forma/) | 299 | Minutas e peças processuais: petições iniciais, recursos, contestações, pareceres, contratos e decisões judiciais |
+| [Administrativo](legalbr/materia/administrativo/) | 214 | Licitações, improbidade, concursos, servidores e controle social |
+| [Tributário](legalbr/materia/tributario/) | 246 | Impostos, imunidades, FPE/FPM, execução fiscal e planejamento |
+| [Penal](legalbr/materia/penal/) | 166 | Crimes, tipos penais e teses de defesa |
+| [Processo Civil](legalbr/materia/processo-civil/) | 164 | Recursos, cumprimento de sentença, tutelas e procedimentos |
+| [Trabalho](legalbr/materia/trabalho/) | 128 | Vínculo, terceirização, TAC/MPT e compliance trabalhista |
+| [Processo Penal](legalbr/materia/processo-penal/) | 120 | Prisões, provas, recursos e nulidades |
+| [Consumidor](legalbr/materia/consumidor/) | 106 | Relações de consumo, transporte aéreo e planos de saúde |
+| [Previdenciário](legalbr/materia/previdenciario/) | 74 | Benefícios, aposentadorias e revisões |
+| [Civil](legalbr/materia/civil/) | 66 | Obrigações, responsabilidade civil e contratos |
+| [Constitucional](legalbr/materia/constitucional/) | 60 | Controle de constitucionalidade e direitos fundamentais |
+| [Consultoria](legalbr/materia/consultoria/) | 59 | Pareceres e opiniões jurídicas |
+| [Contratos](legalbr/materia/contratos/) | 59 | Elaboração, revisão e extinção contratual |
+| [Bancário](legalbr/materia/bancario/) | 47 | Contratos bancários, tarifas e superendividamento |
+| [Imobiliário](legalbr/materia/imobiliario/) | 47 | Compra e venda, locação e incorporação |
+| [Empresarial](legalbr/materia/empresarial/) | 43 | Sociedades, falência e recuperação |
+| [Família & Sucessões](legalbr/materia/familia-sucessoes/) | 39 | Inventário, guarda, alimentos e divórcio |
+| [Saúde](legalbr/materia/saude/) | 37 | Planos de saúde, medicamentos e responsabilidade médica |
+| [Ambiental](legalbr/materia/ambiental/) | 32 | Licenciamento, dano ambiental e responsabilidade |
+| [Eleitoral](legalbr/materia/eleitoral/) | 27 | Registro de candidatura, prestação de contas e propaganda |
+| [Digital & Dados](legalbr/materia/digital-dados/) | 27 | LGPD, crimes digitais e responsabilidade de plataformas |
+| [Diversidade & DH](legalbr/materia/diversidade-dh/) | 26 | Direitos humanos, igualdade e antidiscriminação |
+| [Societário](legalbr/materia/societario/) | 26 | Estatutos, assembleias e governança |
+| [Internacional](legalbr/materia/internacional/) | 18 | Direito internacional público e privado |
+| [Regulatório](legalbr/materia/regulatorio/) | 14 | Agências reguladoras e setores regulados |
+| [Militar](legalbr/materia/militar/) | 5 | Direito penal e administrativo militar |
 
 ---
 

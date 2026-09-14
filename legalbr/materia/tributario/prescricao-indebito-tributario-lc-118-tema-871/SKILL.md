@@ -1,0 +1,108 @@
+---
+id: "450c5d84-9d70-449e-a835-2221871346e9"
+name: "prescricao-indebito-tributario-lc-118-tema-871"
+title: "Prescrição Quinquenal da Repetição do Indébito Tributário + LC 118/2005 (STF Tema 4 + STJ Tema 169)"
+category: "materia"
+materia: "tributario"
+documentType: null
+version: 1
+sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/prescricao-indebito-tributario-lc-118-tema-871.md"
+triggers:
+  - "STF Tema 4"
+  - "STJ Tema 169"
+  - "RE 566.621"
+  - "LC 118/2005 prescrição"
+  - "repetição indébito tributário quinquenal"
+  - "cinco anos pagamento"
+  - "tributo lançamento homologação"
+  - "tese 5+5 superada"
+description: "Prescrição da repetição do indébito tributário em tributos sujeitos\na lançamento por homologação: 5 ANOS contados do PAGAMENTO (LC\n118/2005 art. 3) para ações ajuizadas a partir de 09/06/2005 (STF\nTema 4 / RE 566.621 + STJ Tema 169 / REsp 1.269.570). Antes da LC\n118: regime 5+5 (CTN 168 c/c 150 §4). Aplica-se ao MS (Súm. 213)."
+---
+
+# Prescrição Quinquenal da Repetição do Indébito Tributário + LC 118/2005
+
+## Tese fixada (STF Tema 4 / RE 566.621 + STJ Tema 169 / REsp 1.269.570)
+
+> "Aplica-se o prazo prescricional quinquenal contado a partir do **PAGAMENTO INDEVIDO** às ações de repetição de indébito ajuizadas a partir de **09/06/2005**, ainda que se refiram a tributos lançados por homologação (LC 118/2005 art. 3)."
+
+## Fundamento legal
+
+| Dispositivo | Conteúdo |
+|---|---|
+| **CTN art. 168 I** | Prescreve em **5 anos** o direito de pleitear a restituição (extinção do crédito por pagamento) |
+| **CTN art. 150 §4** | Decadência de 5 anos para o lançamento por homologação |
+| **LC 118/2005 art. 3** | Para efeito do CTN 168 I, considera-se extinto o crédito tributário no **MOMENTO DO PAGAMENTO ANTECIPADO** |
+| **STF RE 566.621** (Tema 4 STF) | Modulação: LC 118 aplica-se a ações **AJUIZADAS** a partir de 09/06/2005 |
+| **Decreto 20.910/1932** | Prescrição quinquenal — Fazenda Pública (analog.) |
+
+## Ratio decidendi
+
+Pré-LC 118/2005, vigia a tese "**5+5**" (construção jurisprudencial do STJ, EREsp 435.835): 5 anos para a Administração homologar (CTN 150 §4) + 5 anos para repetir (CTN 168 I) — total **10 anos** desde o pagamento. A LC 118/2005 **interpretou** o CTN: o crédito se extingue **NO PAGAMENTO ANTECIPADO** — não na homologação tácita. STF modulou: aplica-se a **AÇÕES AJUIZADAS APÓS 09/06/2005** (vigência da LC 118).
+
+## Regimes temporais
+
+| Marco | Prazo |
+|---|---|
+| Ação ajuizada **ANTES** de 09/06/2005 | **5 + 5** (CTN 168 c/c 150 §4) — total 10 anos |
+| Ação ajuizada **A PARTIR** de 09/06/2005 | **5 anos** do pagamento (LC 118) |
+| Tributos **NÃO submetidos** ao lançamento por homologação (ofício / declaração) | **5 anos** desde a extinção do crédito (CTN 168 I) — sempre |
+
+## Hipóteses concretas
+
+| Hipótese | Saída |
+|---|---|
+| Pagamento em 2018 / ação em 2024 | **DENTRO** do prazo (5 anos) |
+| Pagamento em 2018 / ação em 2024 — tributo por homologação | **DENTRO** (LC 118 — 5 anos do pagamento) |
+| Pagamento em 2003 / ação em 2010 | Análise do regime — se ajuizada antes de 09/06/2005, 5+5; depois, 5 anos do pagamento |
+| Pagamento em 2003 / ação em 2010 (pós-LC) | **PRESCRITO** (mais de 5 anos do pagamento) |
+| Pagamento parcelado mensal | Cada parcela tem termo inicial próprio |
+| Tributo declarado e pago, posteriormente declarado inconstitucional | Aplica-se o regime LC 118 — 5 anos do pagamento (Tema 169 STJ) |
+| Tributo recolhido por estimativa antes da apuração | Termo inicial = **PAGAMENTO antecipado** |
+| Compensação tributária | Súm. 213 STJ — via MS; prazo 5 anos da compensação |
+
+## Súmulas e julgados correlatos
+
+| | Conteúdo |
+|---|---|
+| **Súm. 213 STJ** | MS via para declarar direito à compensação |
+| **Súm. 461 STJ** | Contribuinte opta entre restituição e compensação |
+| **Súm. 162 STJ** | Correção monetária do indébito incide desde o pagamento indevido (ainda vigente) |
+| **STF Tema 4 (RE 566.621)** | Modulação — 09/06/2005 |
+| **CTN 168 I + 165 + 150 §4** | Regime |
+| **LC 118/2005** | Reforma |
+| **Tema 1.273 STJ** | MS sem prazo em obrigação sucessiva (skill) |
+
+## Distinção: prescrição × decadência tributária
+
+| | Decadência | Prescrição |
+|---|---|---|
+| Conceito | Fim do **DIREITO DE LANÇAR** (Fisco contra contribuinte) | Fim do **DIREITO DE REPETIR** (contribuinte contra Fisco) |
+| Prazo | 5 anos (CTN 173 e 150 §4) | 5 anos (CTN 168 I — Tema 169 STJ) |
+| Marco | Fato gerador / lançamento | **PAGAMENTO INDEVIDO** (STF Tema 4 + STJ Tema 169) |
+| Após pago | Não há decadência (já lançado) | Há prescrição (5a do pagamento) |
+
+## Aplicação prática
+
+| Hipótese | Saída |
+|---|---|
+| Ação ajuizada em 2010 | Prazo é de **5 anos** do pagamento (STF Tema 4 + STJ Tema 169), não 5+5 |
+| Ação ajuizada em 2003 | Regime 5+5 (CTN 168 c/c 150 §4), pré-LC 118 |
+| Termo inicial = lançamento | **Incorreto** — termo é o **PAGAMENTO** |
+| Atualização pela SELIC desde o pagamento | Sim (Súm. 162 + 188 STJ — historicamente) |
+| MS para declarar direito à compensação | **Cabível** (Súm. 213 STJ); prazo 5a do pagamento |
+| Compensação cruzada (Lei 11.457 art. 26-A) | Aplica-se em débitos da mesma RFB |
+
+## Erros a evitar
+
+- Aplicar tese **5 + 5** a ações ajuizadas APÓS 09/06/2005 (STF Tema 4 + STJ Tema 169);
+- Aplicar **LC 118** a ações pré-09/06/2005 (modulação STF Tema 4);
+- Contar prescrição da **HOMOLOGAÇÃO TÁCITA** (Tema 169 STJ — conta desde o pagamento);
+- Considerar como pagamento a **ENTREGA DA DECLARAÇÃO** (DCTF, DARF — apenas o efetivo recolhimento);
+- Aplicar o regime do Tema 169 a tributo **NÃO HOMOLOGAÇÃO** (regime distinto, mas mesmo termo de 5 anos da extinção — CTN 168 I);
+- A **SELIC** incide sobre a restituição (Súm. 188 STJ);
+- Aplicar **DECENAL** (CC 205) a indébito tributário (regime próprio do CTN);
+- Confundir **MS preventivo** (Tema 1.273 — sem prazo) com MS para reaver pagamento (Súm. 213 — 5a);
+- Aplicar prescrição a parcelas **PRÉ-LC 118** com regime "5+5";
+- Considerar a compensação como **suspensiva** da prescrição (não interrompe — STF Tema 4);
+- Aplicar a tese sem analisar **modulação** STF Tema 4;
+- A restituição alcança os pagamentos retroativos dentro do quinquênio, não apenas os prospectivos.
