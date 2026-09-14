@@ -18,6 +18,12 @@
       "sourceType": "github",
       "skillPath": ".agent-skills/utilities/file-organization/SKILL.md",
       "computedHash": "d60010596c986bdbe563af0d23cef1d899b515186486b53ad97e5a349ed54fcb"
+    },
+    "legalbr": {
+      "source": "prof-ramos/skills",
+      "sourceType": "github",
+      "skillPath": "skills/legalbr/SKILL.md",
+      "computedHash": "4e537b2d9475da39c9463a35585f8ef5adc1a61b7ae7bffaad6e4f1f1ba5e8f3"
     }
   }
 }
