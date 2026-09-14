@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-pena-trânsito-adc-43-44-54.md"
+sourcePath: "lib/skills/official/materia/processo-penal/execucao-pena-transito-adc-43-44-54.md"
 triggers:
   - "ADC 43"
   - "ADC 44"

@@ -105,6 +105,24 @@ description: "Crime de abandono de função pública (CP, art. 323)..."
 
 ## 🔍 Como Consultar e Usar
 
+### 0. Instalação via Skills CLI (`skills.sh`)
+
+O acervo LegalSkillsBR pode ser explorado e instalado diretamente no Claude Code, Cursor, OpenCode ou outros agentes compatíveis:
+
+```bash
+# Listar todas as 2.149 habilidades jurídicas via subpath
+npx skills add prof-ramos/skills/legalbr --list
+
+# Instalar habilidade jurídica específica via subpath
+npx skills add prof-ramos/skills/legalbr@acao-alimentos -a claude-code -y
+
+# Instalar navegando toda a árvore do repositório via flag --full-depth
+npx skills add prof-ramos/skills@acao-alimentos --full-depth -a claude-code -y
+
+# Listar por matéria jurídica específica (ex: Tributário, 246 skills)
+npx skills add prof-ramos/skills/legalbr/materia/tributario --list
+```
+
 ### 1. Busca por Texto ou Tese (ripgrep)
 ```bash
 # Buscar teses sobre ICMS-ST

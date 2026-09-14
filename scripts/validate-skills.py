@@ -12,11 +12,7 @@ from pathlib import Path
 import json
 
 NAME_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
-ALLOWED_DIRECTORY_NAME_MISMATCHES = {
-    # Historical/consumer-facing skill names that intentionally differ from
-    # storage directory names.
-    "carrossel-instagram/SKILL.md",
-}
+ALLOWED_DIRECTORY_NAME_MISMATCHES: set[str] = set()
 
 
 def validate_skills_sh_json(root: Path) -> list[str]:
@@ -46,12 +42,15 @@ def validate_skills_sh_json(root: Path) -> list[str]:
 
 def tracked_skill_files() -> list[Path]:
     result = subprocess.run(
-        ["git", "ls-files", "*SKILL.md"],
+        ["git", "-c", "core.quotePath=false", "ls-files", "-z", "*SKILL.md"],
         check=True,
         capture_output=True,
-        text=True,
     )
-    files = [Path(line) for line in result.stdout.splitlines() if line.strip()]
+    files = [
+        Path(f.decode("utf-8"))
+        for f in result.stdout.split(b"\0")
+        if f.strip()
+    ]
     return [
         path
         for path in files

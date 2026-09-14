@@ -81,9 +81,9 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 │   └── gh-cli/
 ├── assinafy/                      # Documentação oficial da API Assinafy (local)
 ├── assinafy-api/                  # Skill especialista na API Assinafy + references/evals
-├── carrossel-instagram/           # Gerador de carrosséis (HTML + Puppeteer + export + exemplos)
+├── social-carousel/               # Gerador de carrosséis (HTML + Puppeteer + export + exemplos)
 ├── ollama-godmode/                # Técnicas de jailbreak e testes para Ollama Cloud
-├── gerador_de_simulados/          # Geração de simulados/discursivas (Python)
+├── gerador-de-simulados/          # Geração de simulados/discursivas (Python)
 ├── cloudflare-workers/            # Referências e patterns para Cloudflare Workers
 ├── ready-to/                      # Skill de checklist pré-deploy
 ├── autoreview-agnostic/           # Autoreview para Claude Code e OpenCode
@@ -130,7 +130,7 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 | Skill | Status | Descrição |
 |-------|--------|-----------|
 | **[UI/UX Pro Max](skills/design/ui-ux-pro-max/SKILL.md)** | `Stable` | Design system completo com 50 estilos, paletas HSL e tipografia moderna |
-| **[Social Carousel](carrossel-instagram/SKILL.md)** | `Stable` | Geração de carrosséis cinematográficos para Instagram/LinkedIn/X (1080×1080) |
+| **[Social Carousel](social-carousel/SKILL.md)** | `Stable` | Geração de carrosséis cinematográficos para Instagram/LinkedIn/X (1080×1080) |
 | **[Social Ads Creator](skills/content/social-ads-creator/SKILL.md)** | `Stable` | Criação de anúncios e estratégias de copy para redes sociais |
 | **[Brazilian Official Docs](skills/content/brazilian-official-docs/SKILL.md)** | `Stable` | Formatação de documentos oficiais seguindo normas brasileiras |
 
@@ -151,7 +151,7 @@ Este repositório reúne um catálogo completo de habilidades modulares (**Skill
 | Skill | Status | Descrição |
 |-------|--------|-----------|
 | **[LGPD Checklist](skills/compliance/lgpd-checklist/SKILL.md)** | `Stable` | Checklists operacionais e conformidade legal com a LGPD |
-| **[Gerador de Simulados](gerador_de_simulados/SKILL.md)** | `Stable` | Geração de simulados e questões de provas anteriores com exportação PDF |
+| **[Gerador de Simulados](gerador-de-simulados/SKILL.md)** | `Stable` | Geração de simulados e questões de provas anteriores com exportação PDF |
 | **[Edital Verticalizado](edital-verticalizado/SKILL.md)** | `Stable` | Verticalização e acompanhamento de editais de concursos públicos |
 
 ### ⚖️ Legal Skills (LegalSkillsBR)
@@ -203,12 +203,28 @@ Acervo de **2.149 skills jurídicas** em [`legalbr/`](legalbr/), compatível com
 
 O ecossistema [`skills.sh`](https://skills.sh) permite instalar as habilidades diretamente na sua máquina ou ambiente de agente:
 
+#### Skills Gerais e Ferramentas de Desenvolvedor (23 skills):
 ```bash
-# Instalar todas as skills deste repositório
-npx skills add prof-ramos/skills
+# Listar skills gerais disponíveis no repositório
+npx skills add prof-ramos/skills --list
 
-# Instalar uma skill específica (exemplo: cyberduck-expert)
-npx skills add prof-ramos/skills/cyberduck-expert
+# Instalar skill específica (exemplo: resend-api)
+npx skills add prof-ramos/skills@resend-api -a claude-code -y
+```
+
+#### LegalSkillsBR — 2.149 Skills Jurídicas Brasileiras:
+```bash
+# Listar todas as 2.149 skills jurídicas via subpath
+npx skills add prof-ramos/skills/legalbr --list
+
+# Instalar skill jurídica específica via subpath
+npx skills add prof-ramos/skills/legalbr@acao-alimentos -a claude-code -y
+
+# Instalar explorando toda a árvore do repositório via flag --full-depth
+npx skills add prof-ramos/skills@acao-alimentos --full-depth -a claude-code -y
+
+# Listar por matéria jurídica específica (ex: Tributário, 246 skills)
+npx skills add prof-ramos/skills/legalbr/materia/tributario --list
 ```
 
 ### 2. Uso Local / Clonando o Repositório
@@ -257,15 +273,15 @@ Este repositório foi otimizado para permitir a retomada imediata do ambiente de
    git clone https://github.com/prof-ramos/skills.git && cd skills
    ```
 2. **Requisitos de ambiente:**
-   - **Python 3.10+** (necessário para `supergithub`, `ollama-godmode`, `gerador_de_simulados`)
-   - **Node.js 20+ + npm** (necessário para `carrossel-instagram`)
+   - **Python 3.10+** (necessário para `supergithub`, `ollama-godmode`, `gerador-de-simulados`)
+   - **Node.js 20+ + npm** (necessário para `social-carousel`)
 3. **Instalação de dependências dos subprojetos:**
    ```bash
    # Para o servidor SuperGitHub:
    cd servers/supergithub && pip install -r requirements.txt && cd ../..
 
    # Para o gerador de carrosséis:
-   cd carrossel-instagram && npm install && cd ..
+   cd social-carousel && npm install && cd ..
    ```
 4. **Variáveis de ambiente:**
    ```bash
