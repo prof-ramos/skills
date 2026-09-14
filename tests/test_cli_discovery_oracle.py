@@ -112,11 +112,11 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
             self.assertTrue(fm["description"], f"Missing description in {rel_path}")
 
     def test_02_cli_root_default_discovery(self):
-        """Verify npx skills add . --list runs without error and discovers 23 skills."""
+        """Verify npx skills add . --list runs without error and discovers 24 skills."""
         res = run_cli_add_list([".", "--list"])
         self.assertEqual(res.returncode, 0, f"CLI exited with {res.returncode}: {res.stderr}")
         found_count, discovered = extract_skills_from_cli_output(res.stdout)
-        self.assertEqual(found_count, 23, f"Expected 23 skills, found {found_count}")
+        self.assertEqual(found_count, 24, f"Expected 24 skills, found {found_count}")
         self.assertIn("social-carousel", discovered)
         self.assertIn("gerador-de-simulados", discovered)
 
@@ -131,11 +131,11 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
             self.assertIn(expected_name, discovered, f"Skill {expected_name} missing from ./legalbr discovery")
 
     def test_04_cli_root_full_depth_discovery(self):
-        """Verify npx skills add . --list --full-depth discovers all 2177 skills."""
+        """Verify npx skills add . --list --full-depth discovers all 2178 skills."""
         res = run_cli_add_list([".", "--list", "--full-depth"])
         self.assertEqual(res.returncode, 0, f"CLI exited with {res.returncode}: {res.stderr}")
         found_count, discovered = extract_skills_from_cli_output(res.stdout)
-        self.assertEqual(found_count, 2177, f"Expected 2177 skills, found {found_count}")
+        self.assertEqual(found_count, 2178, f"Expected 2178 skills, found {found_count}")
 
     def test_05_collision_freedom_across_all_physical_skills(self):
         """Verify that skill names have zero unintended collisions."""
@@ -169,7 +169,7 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
         res2 = run_cli_add_list([str(REPO_ROOT), "--list"])
         self.assertEqual(res2.returncode, 0)
         found2, _ = extract_skills_from_cli_output(res2.stdout)
-        self.assertEqual(found2, 23)
+        self.assertEqual(found2, 24)
 
         # 3. Subcategory deep discovery without full-depth
         res3 = run_cli_add_list(["./legalbr/materia/tributario", "--list"])

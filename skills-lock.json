@@ -1,6 +1,18 @@
 {
   "version": 1,
   "skills": {
+    "1password": {
+      "source": "openclaw/openclaw",
+      "sourceType": "github",
+      "skillPath": "skills/1password/SKILL.md",
+      "computedHash": "e3ce1af6e47c3c59d3fbd0885799219d24601329c323b2db0f12b7688d8339a8"
+    },
+    "context7": {
+      "source": "netresearch/context7-skill",
+      "sourceType": "github",
+      "skillPath": "skills/context7/SKILL.md",
+      "computedHash": "37c38c90e4c4b47dbc9cbbe18c26caae10ac703d47b9a090e98446ac6807337b"
+    },
     "file-organization": {
       "source": "SC-Airu/skills-template",
       "sourceType": "github",

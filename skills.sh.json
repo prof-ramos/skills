@@ -60,6 +60,13 @@
       ]
     },
     {
+      "title": "Legal Skills — Hub LegalSkillsBR",
+      "description": "Hub e acervo geral do ecossistema com 2.149 habilidades jurídicas brasileiras cobrindo 299 peças processuais e 1.850 teses de mérito.",
+      "skills": [
+        "legalbr"
+      ]
+    },
+    {
       "title": "Legal Skills — Formas (Minutas & Peças)",
       "description": "299 minutas e peças processuais: petições iniciais, recursos, contestações, pareceres, contratos e decisões judiciais (LegalSkillsBR).",
       "skills": [
