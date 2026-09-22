@@ -29,6 +29,7 @@ def build(data_root: Path, output: Path) -> int:
             PRAGMA journal_mode = WAL;
             DROP TABLE IF EXISTS documents_fts;
             DROP TABLE IF EXISTS documents;
+            DROP TABLE IF EXISTS index_meta;
             CREATE TABLE documents (
                 id INTEGER PRIMARY KEY,
                 kind TEXT NOT NULL,

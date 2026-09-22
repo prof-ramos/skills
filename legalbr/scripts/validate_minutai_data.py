@@ -50,7 +50,13 @@ def validate_pairs(directory: Path, label: str, problems: list[str]) -> dict:
     return {"json": len(json_files), "txt": len(txt_files), "pairs": len(json_files & txt_files), "invalid_json": invalid_json, "empty_text": empty_text}
 
 
-def validate(root: Path, manifest: dict | None) -> dict:
+def validate(root: Path) -> dict:
+    """Coleta estatísticas e problemas estruturais do checkout.
+
+    Não compara com o manifesto: essa etapa é responsabilidade de
+    ``compare_manifest``, para que um refresh legítimo não seja confundido
+    com um erro estrutural.
+    """
     problems: list[str] = []
     legislation = root / "legislacao"
     jurisprudence = root / "jurisprudencia"
@@ -83,18 +89,28 @@ def validate(root: Path, manifest: dict | None) -> dict:
         },
         "tree_sha256": tree_hash(root) if root.exists() else None,
     }
-    if manifest:
-        expected = manifest.get("datasets", {})
-        if digest_items != expected.get("legislacao", {}).get("digest_items", digest_items):
-            problems.append("legislacao: quantidade de itens diverge do manifesto")
-        if legislation_stats["pairs"] != expected.get("legislacao", {}).get("json_txt_pairs", legislation_stats["pairs"]):
-            problems.append("legislacao: quantidade de pares diverge do manifesto")
-        if juris_records != expected.get("jurisprudencia", {}).get("records", juris_records):
-            problems.append("jurisprudencia: quantidade de registros diverge do manifesto")
-        if report["jurisprudencia"]["empty_courts"] != expected.get("jurisprudencia", {}).get("empty_courts", report["jurisprudencia"]["empty_courts"]):
-            problems.append("jurisprudencia: tribunais vazios divergem do manifesto")
     report["problems"] = problems
     return report
+
+
+def compare_manifest(report: dict, manifest: dict) -> list[str]:
+    """Compara o relatório com o baseline registrado no manifesto."""
+    problems: list[str] = []
+    expected = manifest.get("datasets", {})
+    legislation = report["legislacao"]
+    jurisprudence = report["jurisprudencia"]
+    if legislation["digest_items"] != expected.get("legislacao", {}).get("digest_items", legislation["digest_items"]):
+        problems.append("legislacao: quantidade de itens diverge do manifesto")
+    if legislation["textos"]["pairs"] != expected.get("legislacao", {}).get("json_txt_pairs", legislation["textos"]["pairs"]):
+        problems.append("legislacao: quantidade de pares diverge do manifesto")
+    if jurisprudence["records"] != expected.get("jurisprudencia", {}).get("records", jurisprudence["records"]):
+        problems.append("jurisprudencia: quantidade de registros diverge do manifesto")
+    if jurisprudence["empty_courts"] != expected.get("jurisprudencia", {}).get("empty_courts", jurisprudence["empty_courts"]):
+        problems.append("jurisprudencia: tribunais vazios divergem do manifesto")
+    recorded_hash = manifest.get("data_tree_sha256")
+    if recorded_hash and report["tree_sha256"] != recorded_hash:
+        problems.append("arvore de dados diverge do hash registrado no manifesto")
+    return problems
 
 
 def update_manifest(path: Path, report: dict) -> None:
@@ -130,10 +146,22 @@ def main() -> int:
     args = parser.parse_args()
     if args.write_manifest and not args.manifest:
         parser.error("--write-manifest exige --manifest")
-    manifest = json.loads(args.manifest.read_text(encoding="utf-8")) if args.manifest else None
-    report = validate(args.data_root.resolve(), manifest)
-    if args.write_manifest:
-        update_manifest(args.manifest, report)
+    report = validate(args.data_root.resolve())
+    structural_problems = list(report["problems"])
+
+    manifest = None
+    if args.manifest and args.manifest.exists():
+        manifest = json.loads(args.manifest.read_text(encoding="utf-8"))
+
+    if structural_problems:
+        # Checkout inválido nunca reescreve o baseline confiável do manifesto.
+        report["problems"] = structural_problems
+    else:
+        if args.write_manifest:
+            update_manifest(args.manifest, report)
+            manifest = json.loads(args.manifest.read_text(encoding="utf-8"))
+        report["problems"] = compare_manifest(report, manifest) if manifest else []
+
     if args.json:
         print(json.dumps(report, ensure_ascii=False, indent=2))
     else:

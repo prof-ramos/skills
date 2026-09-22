@@ -24,6 +24,18 @@ uv run --no-project python scripts/validate_minutai_data.py \
   --write-manifest
 ```
 
+O validador confere também o `data_tree_sha256` registrado no manifesto, de modo
+que uma alteração de conteúdo sem mudança de contagem é detectada. Códigos de
+saída:
+
+- `0` — checkout íntegro e consistente com o manifesto, ou manifesto atualizado
+  com sucesso em `--write-manifest`.
+- `1` — problema estrutural (par `.json`/`.txt` incompleto, JSON inválido, texto
+  vazio) ou divergência em relação ao manifesto.
+
+Em caso de problema estrutural o manifesto **não** é reescrito, para que um
+checkout inválido nunca substitua o baseline confiável.
+
 ## Construir índice local opcional
 
 O índice SQLite não é fonte canônica e não deve ser commitado:
