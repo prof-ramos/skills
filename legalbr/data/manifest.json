@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "dataset": "minutaia-extract",
+  "purpose": "Camada opcional de recuperação para legislação e jurisprudência; não é fonte jurídica autossuficiente.",
+  "source": {
+    "provider": "MinutaIA",
+    "base_url": "https://www.minutaia.com.br",
+    "account_tier": "free",
+    "collection_date": "2026-09-14",
+    "endpoints": [
+      "POST /api/tribunais/{tribunal}/search",
+      "POST /api/legislacao/search-v2",
+      "GET /api/legislacao/boletim?limit=30"
+    ]
+  },
+  "last_verified_at": "2026-09-21",
+  "canonical_skills": {
+    "forma": 299,
+    "materia": 1850,
+    "total": 2149
+  },
+  "datasets": {
+    "legislacao": {
+      "digest_items": 71,
+      "full_text_records": 78,
+      "json_txt_pairs": 78
+    },
+    "jurisprudencia": {
+      "records": 9641,
+      "json_txt_pairs": 9641,
+      "catalog_courts_expected": 56,
+      "court_directories_present": 55,
+      "courts_with_data": 53,
+      "empty_courts": [
+        "tream",
+        "trerj"
+      ]
+    }
+  },
+  "storage_policy": {
+    "raw_files_committed": false,
+    "raw_files_location": "checkout externo fornecido por --data-root",
+    "index_location": "gerado fora do repositório, por exemplo em /tmp",
+    "refresh": "Atualizar o checkout externo, validar e executar validate_minutai_data.py --write-manifest."
+  },
+  "limitations": [
+    "A busca de jurisprudência usou consultas genéricas e não pagina todos os resultados.",
+    "As petições sustentadas à API podem sofrer HTTP 429; tribunais vazios não significam ausência de jurisprudência.",
+    "A legislação e a jurisprudência devem ser conferidas nos portais oficiais e na data do uso."
+  ],
+  "data_tree_sha256": "3c077ff11e0e5ea8854331ea7544dcf69fc7d32f1f7464abb0472014d4b1d089"
+}
