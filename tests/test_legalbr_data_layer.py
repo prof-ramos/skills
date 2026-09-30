@@ -99,7 +99,22 @@ class TestReconcileCorpus(unittest.TestCase):
         self.assertEqual(report["counts"]["path_renamed"], 1)
         self.assertEqual(report["renames"][0]["external_name"], "controle-estadual")
         self.assertEqual(report["renames"][0]["legalbr_name"], "controle")
-        self.assertNotIn("minutai", json.dumps(report))
+        self.assertEqual(
+            set(report["counts"]),
+            {
+                "external",
+                "legalbr",
+                "same_uuid",
+                "same_name",
+                "renamed",
+                "path_renamed",
+                "missing_in_external",
+                "missing_in_legalbr",
+                "body_differences",
+            },
+        )
+        self.assertIn("external_name", report["renames"][0])
+        self.assertIn("missing_in_external", report)
 
 
 class TestValidateData(unittest.TestCase):
