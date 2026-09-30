@@ -1,11 +1,9 @@
 {
   "schema_version": 1,
-  "dataset": "minutaia-extract",
+  "dataset": "legalbr-data-extract",
   "purpose": "Camada opcional de recuperação para legislação e jurisprudência; não é fonte jurídica autossuficiente.",
   "source": {
-    "provider": "MinutaIA",
-    "base_url": "https://www.minutaia.com.br",
-    "account_tier": "free",
+    "kind": "external-snapshot",
     "collection_date": "2026-09-14",
     "endpoints": [
       "POST /api/tribunais/{tribunal}/search",
@@ -41,7 +39,7 @@
     "raw_files_committed": false,
     "raw_files_location": "checkout externo fornecido por --data-root",
     "index_location": "gerado fora do repositório, por exemplo em /tmp",
-    "refresh": "Atualizar o checkout externo, validar e executar validate_minutai_data.py --write-manifest."
+    "refresh": "Atualizar o checkout externo, validar e executar validate_data.py --write-manifest."
   },
   "limitations": [
     "A busca de jurisprudência usou consultas genéricas e não pagina todos os resultados.",

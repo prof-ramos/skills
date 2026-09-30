@@ -1,9 +1,9 @@
-.PHONY: check check-python check-shell check-node check-skills check-skills-sh check-skills-sh-strict test-validation check-khaos-smoke check-learn-patch
+.PHONY: check check-python check-shell check-node check-skills check-skills-sh check-skills-sh-strict test-validation test-legalbr-data check-khaos-smoke check-learn-patch
 
 PYTHON ?= python3
 NODE ?= node
 
-check: check-python check-shell check-node check-skills check-skills-sh check-khaos-smoke check-learn-patch
+check: check-python check-shell check-node check-skills check-skills-sh test-legalbr-data check-khaos-smoke check-learn-patch
 
 check-python:
 	$(PYTHON) scripts/check-python-syntax.py
@@ -25,7 +25,10 @@ check-skills-sh-strict:
 	$(PYTHON) scripts/validate_skills_sh.py --strict
 
 test-validation:
-	$(PYTHON) -m unittest tests/test_validate_skills_sh.py
+	$(PYTHON) -m unittest tests/test_validate_skills_sh.py tests/test_legalbr_data_layer.py
+
+test-legalbr-data:
+	$(PYTHON) -m unittest tests.test_legalbr_data_layer
 
 check-khaos-smoke:
 	$(PYTHON) scripts/check-khaos-smoke.py

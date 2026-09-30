@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate an external MinutaIA data checkout without importing raw files."""
+"""Validate an external legalbr data checkout without importing raw files."""
 
 from __future__ import annotations
 
@@ -76,7 +76,7 @@ def validate(root: Path) -> dict:
     for court_dir in sorted(p for p in jurisprudence.iterdir() if p.is_dir()) if jurisprudence.exists() else []:
         courts[court_dir.name] = validate_pairs(court_dir, court_dir.name, problems)
     juris_records = sum(item["pairs"] for item in courts.values())
-    report = {
+    return {
         "root": str(root),
         "problems": problems,
         "legislacao": {"digest_days": digest_days, "digest_items": digest_items, "textos": legislation_stats},
@@ -89,8 +89,6 @@ def validate(root: Path) -> dict:
         },
         "tree_sha256": tree_hash(root) if root.exists() else None,
     }
-    report["problems"] = problems
-    return report
 
 
 def compare_manifest(report: dict, manifest: dict) -> list[str]:

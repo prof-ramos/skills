@@ -1,13 +1,14 @@
-# Integração com o MinutaIA
+# Camada de integração de dados do legalbr
 
-O `legalbr` é o corpus canônico de skills. O checkout do MinutaIA é uma fonte
-de comparação e de datasets opcionais; ele não deve ser copiado para dentro do
-pacote distribuível de skills.
+O `legalbr` é o corpus canônico de skills. Um checkout externo de skills e
+datasets pode ser usado para comparação e para uma camada opcional de dados;
+ele não deve ser copiado para dentro do pacote distribuível de skills.
 
 ## Política de fonte
 
 - `forma/` e `materia/` no `legalbr` são a fonte de verdade para as skills.
-- O MinutaIA pode ser usado para auditoria de UUID, nome, caminho e corpo.
+- Um checkout externo pode ser usado para auditoria de UUID, nome, caminho e
+  corpo.
 - Alterações semânticas no corpus exigem a política de versionamento já descrita
   no repositório; uma renomeação não cria uma segunda skill.
 - Legislação e jurisprudência são snapshots de recuperação, sempre datados e
@@ -25,7 +26,7 @@ script de reconciliação e não devem gerar novas skills.
 
 A única diferença de `name` no frontmatter é:
 
-| MinutaIA | legalbr |
+| Checkout externo | legalbr |
 |---|---|
 | `controle-constitucionalidade-estadual-reproducao-obrigatoria-tema-484` | `controle-constitucionalidade-reproducao-obrigatoria-tema-484` |
 
@@ -35,11 +36,15 @@ o UUID é a identidade estável para sincronização.
 Para repetir a auditoria contra outro checkout:
 
 ```bash
-uv run --no-project python scripts/reconcile_minutai.py \
-  --minutai-root /caminho/para/minutai \
+uv run --no-project python scripts/reconcile_corpus.py \
+  --external-root /caminho/para/checkout-externo \
   --output /tmp/legalbr-reconciliation.json \
   --strict
 ```
+
+O `--external-root` espera um layout aninhado (`skills/forma` e
+`skills/materia` com arquivos `.md` cujo stem é o slug). O corpus canônico
+usa `forma/` e `materia/` com `SKILL.md` em cada diretório.
 
 ## Roteamento de processos
 

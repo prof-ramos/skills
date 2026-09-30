@@ -123,11 +123,11 @@ npx skills add prof-ramos/skills@acao-alimentos --full-depth -a claude-code -y
 npx skills add prof-ramos/skills/legalbr/materia/tributario --list
 ```
 
-## Integração com MinutaIA e roteamento de processos
+## Camada de integração de dados e roteamento de processos
 
-O `legalbr` permanece como corpus canônico. A reconciliação com o MinutaIA,
-incluindo renomeações por UUID, está em
-[`INTEGRACAO_MINUTAIA.md`](INTEGRACAO_MINUTAIA.md). Legislação e jurisprudência
+O `legalbr` permanece como corpus canônico. A reconciliação com um checkout
+externo, incluindo renomeações por UUID, está em
+[`INTEGRACAO_DADOS.md`](INTEGRACAO_DADOS.md). Legislação e jurisprudência
 ficam em uma camada opcional de dados: este repositório versiona apenas o
 manifesto em [`data/manifest.json`](data/manifest.json), não os snapshots
 brutos.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build an optional SQLite FTS5 index from an external MinutaIA dataset."""
+"""Build an optional SQLite FTS5 index from an external legalbr dataset."""
 
 from __future__ import annotations
 

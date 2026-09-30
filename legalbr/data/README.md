@@ -1,8 +1,8 @@
 # Camada opcional de dados
 
-Este diretório contém apenas metadados versionados. Os textos brutos do
-MinutaIA não são incorporados ao `legalbr`, porque são snapshots grandes,
-regeneráveis e sujeitos a atualização.
+Este diretório contém apenas metadados versionados. Os textos brutos de um
+checkout externo não são incorporados ao `legalbr`, porque são snapshots
+grandes, regeneráveis e sujeitos a atualização.
 
 O manifesto em [`manifest.json`](manifest.json) registra a coleta usada para a
 integração. O checkout externo deve ser passado explicitamente aos scripts.
@@ -10,16 +10,16 @@ integração. O checkout externo deve ser passado explicitamente aos scripts.
 ## Validar um checkout de dados
 
 ```bash
-uv run --no-project python scripts/validate_minutai_data.py \
-  --data-root /Users/gabrielramos/Developer/playground/redground/minutai/data \
+uv run --no-project python scripts/validate_data.py \
+  --data-root /caminho/para/checkout-externo/data \
   --manifest data/manifest.json
 ```
 
 Depois de uma nova coleta, atualize as contagens e o hash observado com:
 
 ```bash
-uv run --no-project python scripts/validate_minutai_data.py \
-  --data-root /caminho/para/minutai/data \
+uv run --no-project python scripts/validate_data.py \
+  --data-root /caminho/para/checkout-externo/data \
   --manifest data/manifest.json \
   --write-manifest
 ```
@@ -41,9 +41,9 @@ checkout inválido nunca substitua o baseline confiável.
 O índice SQLite não é fonte canônica e não deve ser commitado:
 
 ```bash
-uv run --no-project python scripts/build_minutai_index.py \
-  --data-root /Users/gabrielramos/Developer/playground/redground/minutai/data \
-  --output /tmp/legalbr-minutai.sqlite3 \
+uv run --no-project python scripts/build_data_index.py \
+  --data-root /caminho/para/checkout-externo/data \
+  --output /tmp/legalbr-data.sqlite3 \
   --overwrite
 ```
 

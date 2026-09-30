@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reconcile the canonical legalbr corpus with a MinutaIA checkout."""
+"""Reconcile the canonical legalbr corpus with an external skills checkout."""
 
 from __future__ import annotations
 
@@ -40,10 +40,10 @@ def body_hash(path: Path) -> str:
     return hashlib.sha256(body.encode("utf-8")).hexdigest()
 
 
-def collect(root: Path, minutai: bool) -> tuple[dict[str, dict[str, str]], list[str]]:
-    base = root / "skills" if minutai else root
+def collect(root: Path, nested_skills: bool) -> tuple[dict[str, dict[str, str]], list[str]]:
+    base = root / "skills" if nested_skills else root
     paths = list((base / "forma").rglob("*.md")) + list((base / "materia").rglob("*.md"))
-    if not minutai:
+    if not nested_skills:
         paths = list((base / "forma").rglob("SKILL.md")) + list((base / "materia").rglob("SKILL.md"))
     records: dict[str, dict[str, str]] = {}
     duplicates: list[str] = []
@@ -54,7 +54,7 @@ def collect(root: Path, minutai: bool) -> tuple[dict[str, dict[str, str]], list[
             "name": data["name"],
             "category": data["category"],
             "path": path.relative_to(root).as_posix(),
-            "path_slug": path.stem if minutai else path.parent.name,
+            "path_slug": path.stem if nested_skills else path.parent.name,
             "body_sha256": body_hash(path),
         }
         if item["id"] in records:
@@ -63,66 +63,66 @@ def collect(root: Path, minutai: bool) -> tuple[dict[str, dict[str, str]], list[
     return records, duplicates
 
 
-def build_report(minutai_root: Path, legalbr_root: Path) -> dict:
-    minutai, minutai_duplicates = collect(minutai_root, minutai=True)
-    legalbr, legalbr_duplicates = collect(legalbr_root, minutai=False)
-    common = sorted(set(minutai) & set(legalbr))
+def build_report(external_root: Path, legalbr_root: Path) -> dict:
+    external, external_duplicates = collect(external_root, nested_skills=True)
+    legalbr, legalbr_duplicates = collect(legalbr_root, nested_skills=False)
+    common = sorted(set(external) & set(legalbr))
     renames = [
         {
             "id": item_id,
-            "minutai_name": minutai[item_id]["name"],
+            "external_name": external[item_id]["name"],
             "legalbr_name": legalbr[item_id]["name"],
-            "minutai_path": minutai[item_id]["path"],
+            "external_path": external[item_id]["path"],
             "legalbr_path": legalbr[item_id]["path"],
         }
         for item_id in common
-        if minutai[item_id]["name"] != legalbr[item_id]["name"]
+        if external[item_id]["name"] != legalbr[item_id]["name"]
     ]
     path_renames = [
         {
             "id": item_id,
-            "minutai_path_slug": minutai[item_id]["path_slug"],
+            "external_path_slug": external[item_id]["path_slug"],
             "legalbr_path_slug": legalbr[item_id]["path_slug"],
-            "minutai_path": minutai[item_id]["path"],
+            "external_path": external[item_id]["path"],
             "legalbr_path": legalbr[item_id]["path"],
         }
         for item_id in common
-        if minutai[item_id]["path_slug"] != legalbr[item_id]["path_slug"]
+        if external[item_id]["path_slug"] != legalbr[item_id]["path_slug"]
     ]
     body_differences = [
-        item_id for item_id in common if minutai[item_id]["body_sha256"] != legalbr[item_id]["body_sha256"]
+        item_id for item_id in common if external[item_id]["body_sha256"] != legalbr[item_id]["body_sha256"]
     ]
     return {
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "counts": {
-            "minutai": len(minutai),
+            "external": len(external),
             "legalbr": len(legalbr),
             "same_uuid": len(common),
             "same_name": len(common) - len(renames),
             "renamed": len(renames),
             "path_renamed": len(path_renames),
-            "missing_in_minutai": len(set(legalbr) - set(minutai)),
-            "missing_in_legalbr": len(set(minutai) - set(legalbr)),
+            "missing_in_external": len(set(legalbr) - set(external)),
+            "missing_in_legalbr": len(set(external) - set(legalbr)),
             "body_differences": len(body_differences),
         },
         "renames": renames,
         "path_renames": path_renames,
-        "missing_in_minutai": [legalbr[item_id] for item_id in sorted(set(legalbr) - set(minutai))],
-        "missing_in_legalbr": [minutai[item_id] for item_id in sorted(set(minutai) - set(legalbr))],
+        "missing_in_external": [legalbr[item_id] for item_id in sorted(set(legalbr) - set(external))],
+        "missing_in_legalbr": [external[item_id] for item_id in sorted(set(external) - set(legalbr))],
         "body_differences": body_differences,
-        "duplicate_ids": {"minutai": sorted(set(minutai_duplicates)), "legalbr": sorted(set(legalbr_duplicates))},
+        "duplicate_ids": {"external": sorted(set(external_duplicates)), "legalbr": sorted(set(legalbr_duplicates))},
     }
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--minutai-root", type=Path, required=True)
+    parser.add_argument("--external-root", type=Path, required=True)
     parser.add_argument("--legalbr-root", type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument("--output", type=Path)
     parser.add_argument("--strict", action="store_true", help="falha em UUIDs duplicados ou divergência de corpo")
     args = parser.parse_args()
-    report = build_report(args.minutai_root.resolve(), args.legalbr_root.resolve())
+    report = build_report(args.external_root.resolve(), args.legalbr_root.resolve())
     serialized = json.dumps(report, ensure_ascii=False, indent=2) + "\n"
     if args.output:
         args.output.parent.mkdir(parents=True, exist_ok=True)
