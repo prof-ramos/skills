@@ -23,7 +23,8 @@
         "autoreview",
         "gh-cli",
         "supergithub",
-        "learn"
+        "learn",
+        "tailscale-preview"
       ]
     },
     {
