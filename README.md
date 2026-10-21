@@ -153,6 +153,7 @@ npx skills update
 | **[Autoreview](autoreview-agnostic/opencode/skills/autoreview/SKILL.md)** | `autoreview` | Revisão de código estruturada e agnóstica para agentes autônomos. |
 | **[GitHub CLI](skills/gh-cli/SKILL.md)** | `gh-cli` | Operações completas de repositórios, PRs, issues e releases via terminal. |
 | **[Learn](skills/agent-workflows/learn/SKILL.md)** | `learn` | Sistema incremental e auditável de aprendizado de agente com suporte a rollback. |
+| **[Tailscale Preview](skills/agent-workflows/tailscale-preview/SKILL.md)** | `tailscale-preview` | Publicação e verificação de previews HTTPS privados via Tailscale Serve para revisão entre dispositivos. |
 
 ### 🎨 Design & Conteúdo
 
