@@ -5,8 +5,8 @@ title: "Justiça Restaurativa (Res. CNJ 225/2016)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/justica-restaurativa-cnj-225.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/justica-restaurativa-cnj-225/SKILL.md"
 triggers:
   - "justiça restaurativa"
   - "Resolução CNJ 225"
@@ -16,10 +16,15 @@ triggers:
   - "Res. CNJ 288"
   - "facilitador restaurativo"
   - "acordo restaurativo"
-description: "Justiça Restaurativa (Res. CNJ 225/2016 + Res. CNJ 288/2019 + Lei\n13.140/2015): paradigma complementar (não substitui) à justiça\nretributiva; círculos restaurativos com facilitador capacitado;\nvoluntariedade + confidencialidade + corresponsabilização; aplicável\nem ato infracional (ECA + SINASE), JEC, JEC penal, Maria da Penha\n(com cautelas), mediação familiar; impactos na dosimetria, ANPP,\nremissão; STJ avança em jurisprudência específica."
+description: "Usar para pesquisar ou analisar: Justiça Restaurativa (Res. CNJ 225/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Justiça Restaurativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

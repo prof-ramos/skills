@@ -5,8 +5,8 @@ title: "Compensação de Jornada e Banco de Horas (CLT 59)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/banco-horas-compensacao-clt-59.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/banco-horas-compensacao-clt-59/SKILL.md"
 triggers:
   - "banco de horas"
   - "compensação de jornada"
@@ -15,10 +15,15 @@ triggers:
   - "CLT 59-A"
   - "Súm. 85 TST"
   - "CLT 60 atividade insalubre"
-description: "Compensação e banco de horas (CLT 59 + 59-A pós-Reforma): acordo\nindividual semestral; ACT/CCT anual; 12x36 admite acordo individual;\nSúm. 85 TST (descumprimento parcial não invalida o já compensado, paga\nsó o adicional); Tema 1.046 STF (cláusula coletiva prevalece)."
+description: "Usar para pesquisar ou analisar: Compensação de Jornada e Banco de Horas (CLT 59). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compensação e Banco de Horas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

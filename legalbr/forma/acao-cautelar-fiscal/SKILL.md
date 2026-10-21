@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "acao-cautelar-fiscal"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-cautelar-fiscal.md"
+sourcePath: "legalbr/forma/acao-cautelar-fiscal/SKILL.md"
 triggers:
   - "cautelar fiscal"
   - "indisponibilidade de bens"
@@ -14,10 +14,15 @@ triggers:
   - "tornar indisponíveis bens"
   - "bloqueio fiscal"
   - "cautelar fiscal para garantia da execução fiscal"
-description: "Cautelar fiscal (Lei 8.397/92) pela Fazenda com crédito constituído e\nhipóteses do art. 2º (insolvência, alienação, ocultação). Indisponibilidade\naté o limite da satisfação da obrigação (art. 4º). Preparatória (60 dias)\nou incidental. Distinção com CTN 185-A."
+description: "Usar para redigir ou revisar: Ação Cautelar Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Cautelar Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e legitimidade
 

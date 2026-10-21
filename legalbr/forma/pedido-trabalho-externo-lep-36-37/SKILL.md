@@ -5,8 +5,8 @@ title: "Pedido de Trabalho Externo (LEP 36-37)"
 category: "forma"
 materia: null
 documentType: "trabalho-externo"
-version: 1
-sourcePath: "lib/skills/official/forma/pedido-trabalho-externo-lep-36-37.md"
+version: 2
+sourcePath: "legalbr/forma/pedido-trabalho-externo-lep-36-37/SKILL.md"
 triggers:
   - "trabalho externo"
   - "LEP 36"
@@ -15,10 +15,15 @@ triggers:
   - "remição extramuros"
   - "trabalho preso semiaberto"
   - "trabalho preso fechado"
-description: "Trabalho externo (LEP arts. 36-37): cabível em todos os regimes;\nrequisitos: aptidão/disciplina + cumprimento de 1/6 da pena (fechado);\nLei 14.843/2024 (LEP 122 §2º) veda trabalho externo SEM vigilância\ndireta a condenado por crime hediondo ou com violência ou grave\nameaça contra pessoa (irretroativa, STJ HC 932.864-SC); Súm. 562 STJ\nadmite REMIÇÃO pelo trabalho extramuros; remuneração mínima 3/4 do\nsalário mínimo; previdência social."
+description: "Usar para redigir ou revisar: Pedido de Trabalho Externo (LEP 36-37). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Externo (LEP 36-37)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

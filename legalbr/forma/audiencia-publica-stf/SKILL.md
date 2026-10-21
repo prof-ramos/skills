@@ -5,8 +5,8 @@ title: "Audiência Pública no STF e STJ"
 category: "forma"
 materia: null
 documentType: "audiencia-publica"
-version: 1
-sourcePath: "lib/skills/official/forma/audiencia-publica-stf.md"
+version: 2
+sourcePath: "legalbr/forma/audiencia-publica-stf/SKILL.md"
 triggers:
   - "audiência pública STF"
   - "audiência pública STJ"
@@ -17,10 +17,15 @@ triggers:
   - "habilitação expositor"
   - "especialista STF"
   - "audiência pública precedente"
-description: "Audiência pública no STF (Lei 9.868/99 art. 9 §1; Lei 9.882/99 art. 6\n§1; Emenda Reg. 29/2009 RISTF arts. 13 XVII e 21 XVII) e no STJ\n(Emenda Regimental 27/2016). Convocada pelo Relator ou Presidente em\ncausas com repercussão geral, controle concentrado, IRDR, repetitivos\nou tese constitucional relevante. Habilitação por petição; lista\npublicada; tempo regimental de exposição (geralmente 10 a 15 min);\ndocumentos técnicos anexos. Inadmite contraditório formal: aporte\nqualificado de informações para subsidiar voto-relator."
+description: "Usar para redigir ou revisar: Audiência Pública no STF e STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência Pública no STF e STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

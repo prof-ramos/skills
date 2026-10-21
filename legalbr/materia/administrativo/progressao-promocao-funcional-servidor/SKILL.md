@@ -5,8 +5,8 @@ title: "Progressão e Promoção Funcional de Servidores: Interstícios e Efeito
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/progressao-promocao-funcional-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/progressao-promocao-funcional-servidor/SKILL.md"
 triggers:
   - "progressão funcional servidor"
   - "promoção funcional servidor"
@@ -19,10 +19,15 @@ triggers:
   - "docentes EBTT progressão"
   - "omissão avaliação de desempenho"
   - "efeitos financeiros retroativos progressão"
-description: "Progressão e promoção funcional de servidores: Tema 1.129 STJ (Seguro\nSocial: interstício de 12 meses e efeitos financeiros), Tema 631 (docentes\nEBTT antes do regulamento: regras da Lei 11.344/2006), Tema 562 (parcelas\nincorporadas do servidor cedido), Tema 1.075 (LRF não impede progressão),\nomissão administrativa com efeitos retroativos e fronteira com a SV 37."
+description: "Usar para pesquisar ou analisar: Progressão e Promoção Funcional de Servidores: Interstícios e Efeitos Financeiros (Temas 1.129, 631, 562 e 1.075 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Progressão e Promoção Funcional de Servidores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceitos e fronteira constitucional
 

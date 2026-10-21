@@ -5,8 +5,8 @@ title: "Procuradoria-Geral da Fazenda Nacional (LC 73 + Dec 2.346)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/pgfn-procuradoria-fazenda-nacional.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pgfn-procuradoria-fazenda-nacional/SKILL.md"
 triggers:
   - "PGFN"
   - "Procuradoria-Geral da Fazenda Nacional"
@@ -16,10 +16,15 @@ triggers:
   - "transação tributária"
   - "encargo legal DL 1.025"
   - "inscrição dívida ativa União"
-description: "Procuradoria-Geral da Fazenda Nacional (LC 73 arts. 12-13 + Dec\n2.346/1997 + Lei 10.480/2002): órgão da AGU especializado na cobrança\nda dívida ativa da União (tributária e não tributária);\nrepresentação judicial da Fazenda Nacional em causas tributárias e\nfiscais; encargo legal DL 1.025/1969 (20%); transação tributária\n(Leis 13.988/2020 e 14.375/2022); pareceres normativos da PGFN;\ncarreira de procurador da Fazenda Nacional."
+description: "Usar para pesquisar ou analisar: Procuradoria-Geral da Fazenda Nacional (LC 73 + Dec 2.346). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procuradoria-Geral da Fazenda Nacional (PGFN)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

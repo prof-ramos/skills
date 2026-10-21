@@ -5,8 +5,8 @@ title: "Corrupção Passiva + Ativa (CP 317 + CP 333 + CP 327)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/corrupcao-cp-317-333.md"
+version: 2
+sourcePath: "legalbr/materia/penal/corrupcao-cp-317-333/SKILL.md"
 triggers:
   - "corrupção passiva"
   - "corrupção ativa"
@@ -19,10 +19,15 @@ triggers:
   - "bilateralidade"
   - "AP 470"
   - "colaboração premiada"
-description: "Corrupção sob CP 317 (passiva, recl. 2-12) + CP 333 (ativa,\nrecl. 2-12) + CP 327 (funcionário público + equiparados + aumento\n1/3 chefia): crime FORMAL, consuma-se com solicitação/oferta;\nAUTÔNOMOS entre si (STF AP 470, sem bilateralidade processual);\nSúm. 599 STJ (sem insignificância); concurso material com peculato;\nLei 12.846 (LAC) + 12.850 (delação) + 9.613 (lavagem)."
+description: "Usar para pesquisar ou analisar: Corrupção Passiva + Ativa (CP 317 + CP 333 + CP 327). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corrupção Passiva + Ativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 317: Corrupção PASSIVA
 

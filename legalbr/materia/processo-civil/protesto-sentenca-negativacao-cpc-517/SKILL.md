@@ -5,8 +5,8 @@ title: "Protesto de Decisão Judicial e Negativação do Executado (CPC 517 + 78
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/protesto-sentenca-negativacao-cpc-517.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/protesto-sentenca-negativacao-cpc-517/SKILL.md"
 triggers:
   - "protesto de sentença"
   - "protesto de decisão judicial"
@@ -17,10 +17,15 @@ triggers:
   - "SERASAJUD"
   - "Tema 902 STJ"
   - "certidão de teor da decisão"
-description: "Protesto da decisão transitada em julgado (CPC 517: certidão de teor,\ncancelamento após satisfação) e inclusão do executado em cadastros de\ninadimplentes (CPC 782 §§ 3º-5º). Tema 1.026 STJ: SERASAJUD sem\nesgotamento prévio, inclusive em execução fiscal. Tema 902 STJ:\nsustação de protesto exige contracautela. Lei 9.492/1997."
+description: "Usar para pesquisar ou analisar: Protesto de Decisão Judicial e Negativação do Executado (CPC 517 + 782 + Tema 1.026 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Protesto de Decisão Judicial e Negativação do Executado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

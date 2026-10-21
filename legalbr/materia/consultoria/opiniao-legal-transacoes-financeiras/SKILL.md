@@ -5,8 +5,8 @@ title: "Legal Opinion em Transações Financeiras (closing opinion)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/opiniao-legal-transacoes-financeiras.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/opiniao-legal-transacoes-financeiras/SKILL.md"
 triggers:
   - "closing opinion"
   - "opinião legal financiamento"
@@ -17,10 +17,15 @@ triggers:
   - "notes"
   - "bonds"
   - "syndicated loan"
-description: "Closing opinion para emissões de dívida, CCB/CCI/CRA/CRI,\ndebêntures (LSA 52-74 + RCVM 160), notes 144A/Reg S e\nfinanciamentos sindicalizados: capacidade, autorização, no\nconflict, enforceability, no consents, no litigation,\nqualifications (insolvência, força maior, ordem pública) e\ncarve-outs (lei estrangeira, opinião contábil)."
+description: "Usar para pesquisar ou analisar: Legal Opinion em Transações Financeiras (closing opinion). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Legal Opinion em Transações Financeiras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

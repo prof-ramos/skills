@@ -5,8 +5,8 @@ title: "Trabalho Intermitente (CLT 443 §3º + 452-A a 452-H)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/trabalho-intermitente.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-intermitente/SKILL.md"
 triggers:
   - "trabalho intermitente"
   - "contrato intermitente"
@@ -14,10 +14,15 @@ triggers:
   - "CLT 443 §3"
   - "convocação do intermitente"
   - "on-call work"
-description: "Trabalho intermitente sob o art. 443 §3 e os arts. 452-A a 452-H\nda CLT (Lei 13.467/17): conceito de prestação descontínua com\nsubordinação; contrato escrito, valor da hora e regime da\nconvocação; tratamento da inatividade, pagamento ao fim do\nperíodo e multa por descumprimento; férias e descaracterização\npor convocações habituais."
+description: "Usar para pesquisar ou analisar: Trabalho Intermitente (CLT 443 §3º + 452-A a 452-H). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Intermitente (CLT 443 §3º + 452-A a 452-H)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

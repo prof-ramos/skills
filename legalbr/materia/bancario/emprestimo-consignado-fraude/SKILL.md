@@ -5,8 +5,8 @@ title: "Empréstimo Consignado Fraudulento (Lei 10.820 + CDC 42)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/emprestimo-consignado-fraude.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/emprestimo-consignado-fraude/SKILL.md"
 triggers:
   - "empréstimo consignado"
   - "consignado fraudulento"
@@ -18,10 +18,15 @@ triggers:
   - "portabilidade consignado"
   - "margem consignável"
   - "desconto em folha não autorizado"
-description: "Empréstimo consignado fraudulento sob Lei 10.820/2003 + IN INSS\n138/2022 + CDC 42: contratação indevida via fraude (idoso/aposentado);\nresponsabilidade objetiva do banco (Súm. 479); devolução em dobro\ndos descontos (CDC 42 par. único + EAREsp 676.608, Corte Especial);\nRMC e cartão consignado abusivos sem contratação expressa; margem\nconsignável global de 40% (RGPS) e 35% (BPC) para contratos novos\ndesde a MP 1.355/2026; dano moral não presumido\npor regra, aferido nas circunstâncias concretas (Tema 1.435 pendente)."
+description: "Usar para pesquisar ou analisar: Empréstimo Consignado Fraudulento (Lei 10.820 + CDC 42). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Empréstimo Consignado Fraudulento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

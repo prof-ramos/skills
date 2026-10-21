@@ -5,8 +5,8 @@ title: "Honorários em Ações de Saúde por Equidade (Tema 1.313 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-saude-equidade-tema-1313.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-saude-equidade-tema-1313/SKILL.md"
 triggers:
   - "Tema 1.313 STJ"
   - "honorários ações saúde"
@@ -14,10 +14,15 @@ triggers:
   - "medicamento equidade honorários"
   - "direito existencial saúde"
   - "sucumbência Fazenda saúde"
-description: "Tema 1.313 STJ (1ª Seção, 11/06/2025): nas demandas em que se\npleiteia do Poder Público a satisfação do direito à SAÚDE, os\nhonorários advocatícios são fixados por APRECIAÇÃO EQUITATIVA,\nSEM aplicação do CPC 85 §8-A (Lei 14.365/2022). Direito à saúde\né existencial, não patrimonial: o paciente não incorpora o bem\nao patrimônio alienável."
+description: "Usar para pesquisar ou analisar: Honorários em Ações de Saúde por Equidade (Tema 1.313 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários em Ações de Saúde por Equidade (Tema 1.313 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.313 STJ, 1ª Seção, 11/06/2025, Min. Maria Thereza de Assis Moura)
 

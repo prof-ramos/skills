@@ -5,8 +5,8 @@ title: "Crimes contra as Relações de Consumo (CDC + Lei 8.137 arts. 4-7)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-relacoes-consumo-lei-8078.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-relacoes-consumo-lei-8078/SKILL.md"
 triggers:
   - "crime consumo"
   - "CDC arts. 61-80"
@@ -17,10 +17,15 @@ triggers:
   - "omissão de informação ao consumidor"
   - "mercadoria imprópria para consumo"
   - "cobrança vexatória"
-description: "Crimes contra relações de consumo: CDC arts. 61-80 (det. 6m-2a a\nrecl. 2-5); art. 66 informação falsa sobre produto/serviço; art.\n67 publicidade enganosa; art. 68 publicidade abusiva; art. 75\nresponsabilidade penal solidária; Lei 8.137 art. 7 crimes\nparalelos (vender mercadoria em desacordo com prescrições legais,\nmisturar gêneros, mercadoria imprópria); concurso de normas."
+description: "Usar para pesquisar ou analisar: Crimes contra as Relações de Consumo (CDC + Lei 8.137 arts. 4-7). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra as Relações de Consumo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura: CDC + Lei 8.137
 

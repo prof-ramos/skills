@@ -5,8 +5,8 @@ title: "IRPF sobre Pensão Alimentícia: Inconstitucional (ADI 5.422 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpf-pensao-alimenticia-adi-5422.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf-pensao-alimenticia-adi-5422/SKILL.md"
 triggers:
   - "IRPF pensão alimentícia"
   - "ADI 5.422"
@@ -16,10 +16,15 @@ triggers:
   - "alimentando IRPF"
   - "restituição IR pensão"
   - "retificação DIRPF alimentos"
-description: "ADI 5.422 STF (j. 03/06/2022, pub. 23/08/2022): inconstitucional a\nincidência de IRPF sobre valores recebidos pelos alimentandos a título\nde alimentos/pensão alimentícia (Lei 7.713/88 art. 3 §1 + Dec. 9.580/18);\nmodulação rejeitada (ED 30/09/2022): repetição quinquenal (CTN 168);\nretificação da DIRPF + restituição administrativa ou judicial; vedação\nde bitributação (alimentante já tributado)."
+description: "Usar para pesquisar ou analisar: IRPF sobre Pensão Alimentícia: Inconstitucional (ADI 5.422 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF sobre Pensão Alimentícia, Inconstitucional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

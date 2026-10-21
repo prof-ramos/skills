@@ -5,8 +5,8 @@ title: "Sentença em Mandado de Segurança"
 category: "forma"
 materia: null
 documentType: "sentenca-mandado-seguranca"
-version: 3
-sourcePath: "lib/skills/official/forma/sentenca-mandado-seguranca.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-mandado-seguranca/SKILL.md"
 triggers:
   - "sentença em mandado de segurança"
   - "concessão da segurança"
@@ -16,10 +16,15 @@ triggers:
   - "efeitos patrimoniais Súmulas 269 e 271 STF"
   - "julgar mandado de segurança"
   - "duplo grau obrigatório na concessão da segurança"
-description: "Sentença em mandado de segurança (Lei 12.016/2009 arts. 6º §5º, 12 a 14,\n19 e 25): concessão ou denegação, com ou sem resolução de mérito;\nremessa necessária obrigatória na concessão (art. 14 §1º); execução\nprovisória e efeitos patrimoniais só desde o ajuizamento (art. 14\n§§3º-4º; Súmulas 269 e 271 STF); sem honorários (art. 25; Súmulas 512\nSTF e 105 STJ); vedações de liminar do art. 7º §2º caíram na ADI 4.296."
+description: "Usar para redigir ou revisar: Sentença em Mandado de Segurança. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença em Mandado de Segurança
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Objeto do julgamento
 

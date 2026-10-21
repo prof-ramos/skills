@@ -5,8 +5,8 @@ title: "Aposentadoria do Professor no RGPS (CF 201 §8 + Tema 1.011 STJ + Súm. 
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-professor-rgps-tema-1011-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-professor-rgps-tema-1011-stj/SKILL.md"
 triggers:
   - "aposentadoria de professor"
   - "Tema 1.011 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "direção coordenação assessoramento pedagógico"
   - "professor educação básica INSS"
   - "CF 201 § 8"
-description: "Aposentadoria do professor no RGPS (CF art. 201 §8): o que conta como\nfunção de magistério (Súm. 726 STF + ADI 3.772 + Lei 11.301/2006 +\nTema 965 STF) e incidência do fator previdenciário pós-Lei 9.876/99\n(Tema 1.011 STJ); regras da EC 103/2019 para o professor."
+description: "Usar para pesquisar ou analisar: Aposentadoria do Professor no RGPS (CF 201 §8 + Tema 1.011 STJ + Súm. 726 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria do Professor no RGPS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Inversão do Ônus da Prova (CDC 6 VIII + 38)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/inversao-onus-prova-cdc-6.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/inversao-onus-prova-cdc-6/SKILL.md"
 triggers:
   - "inversão do ônus"
   - "CDC 6 VIII"
@@ -18,10 +18,15 @@ triggers:
   - "regra de instrução"
   - "facilitação da defesa"
   - "distribuição dinâmica"
-description: "Inversão do ônus da prova sob CDC 6 VIII + 38 + CPC 373 §1:\nope iudicis (verossimilhança OU hipossuficiência, alternativos)\nno saneamento (regra de instrução, STJ 2ª Seção, REsp 802.832,\nvedada apenas na sentença); ope legis (excludentes do CDC 12 §3 +\n14 §3 + publicidade, art. 38); fundamentação concreta + ônus\nfinanceiro da prova; diferença com distribuição dinâmica\n(CPC 373 §1), convivência harmônica."
+description: "Usar para pesquisar ou analisar: Inversão do Ônus da Prova (CDC 6 VIII + 38). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inversão do Ônus da Prova
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

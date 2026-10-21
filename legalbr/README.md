@@ -1,157 +1,65 @@
-# Repositório de Habilidades Jurídicas - LegalSkillsBR
+# LegalBR — acervo LegalSkillsBR
 
-Este diretório contém o acervo integral das **2.149 habilidades** do ecossistema LegalSkillsBR, organizadas de maneira estruturada, padronizada e enriquecida com metadados em frontmatter YAML.
+Protocolo de pesquisa e acervo de modelos e matérias de direito brasileiro. O conteúdo é referência secundária e exige verificação em fontes oficiais no caso concreto.
 
----
-
-## 📊 Estatísticas Gerais
-
-- **Total de Habilidades:** 2.149 arquivos `.md`
-- **Tamanho Total em Disco:** ~16.8 MB
-- **Média por Habilidade:** ~8.200 caracteres (mínimo 2.454 bytes, máximo 27.354 bytes)
-- **Status de Integridade:** 100% íntegro (0 arquivos vazios, 0 arquivos faltantes)
-
-### Divisão por Categoria
-
-1. **Formas (`skills/forma/` - 299 itens):**
-   - Estruturas completas para minutas de petições iniciais, recursos, contestações, pareceres, contratos, termos de acordo e decisões judiciais.
-2. **Matérias (`skills/materia/` - 1.850 itens):**
-   - Teses jurídicas, enquadramentos legais, súmulas vinculantes, temas de repercussão geral (STF), recursos repetitivos (STJ) e jurisprudência consolidada, subdivididos em **25 ramos jurídicos**.
-
----
-
-## 📁 Estrutura de Diretórios
-
-A estrutura espelha a taxonomia canônica do repositório oficial:
+## Estrutura real
 
 ```text
-skills/
-├── README.md
-├── forma/                                     # 299 minutas e peças processuais
-│   ├── acao-anulatoria-debito-fiscal.md
-│   ├── apelacao-civel.md
-│   ├── contestacao-civel.md
-│   ├── habeas-corpus.md
-│   ├── peticao-inicial-civel.md
-│   └── ...
-└── materia/                                   # 1.850 teses de mérito por área
-    ├── administrativo/                        # 213 teses
-    │   ├── acoes-coletivas-controle-social/
-    │   ├── concursos-publicos/
-    │   ├── improbidade/
-    │   ├── licitacoes-contratos/
-    │   └── ...
-    ├── ambiental/                             # 32 teses
-    ├── bancario/                              # 47 teses
-    ├── civil/                                 # 66 teses
-    ├── constitucional/                        # 60 teses
-    ├── consultoria/                           # 59 teses
-    ├── consumidor/                            # 106 teses
-    ├── contratos/                             # 59 teses
-    ├── digital-dados/                         # 27 teses
-    ├── diversidade-dh/                        # 26 teses
-    ├── eleitoral/                             # 27 teses
-    ├── empresarial/                           # 43 teses
-    ├── familia-sucessoes/                     # 39 teses
-    ├── imobiliario/                           # 47 teses
-    ├── internacional/                         # 18 teses
-    ├── militar/                               # 5 teses
-    ├── penal/                                 # 166 teses
-    │   ├── parte-geral/
-    │   └── parte-especial/
-    ├── previdenciario/                        # 74 teses
-    ├── processo-civil/                        # 165 teses
-    ├── processo-penal/                        # 120 teses
-    ├── regulatorio/                           # 14 teses
-    ├── saude/                                 # 37 teses
-    ├── societario/                            # 26 teses
-    ├── trabalho/                              # 128 teses
-    └── tributario/                            # 246 teses
+legalbr/
+├── SKILL.md                   # protocolo central
+├── indice.tsv                 # índice gerado; caminhos relativos a legalbr/
+├── forma/<slug>/SKILL.md      # modelos documentais
+├── materia/<area>/<slug>/SKILL.md
+├── references/               # verificação e consistência temática
+└── scripts/catalogo.py       # validação e geração do índice
 ```
 
-> **Nota Taxonômica:** A disposição das pastas segue estritamente os caminhos oficiais `sourcePath` da plataforma. Na taxonomia original, a tese `coisa-julgada-fiscalizacao-tema-339-sv4` possui a tag `materia: "administrativo"`, mas seu caminho canônico de arquivo é `materia/processo-civil/coisa-julgada-fiscalizacao-tema-339-sv4.md`. Ambos os dados são preservados com total fidelidade (metadado no frontmatter e caminho físico no disco).
+O inventário desta revisão contém **2.156 SKILL.md**: 1 protocolo raiz, **304 formas** e **1.851 matérias** em 25 áreas. O acervo anterior tinha 299 formas e 1.850 matérias. Contagens devem ser regeneradas ao adicionar ou remover itens; integridade estrutural não significa correção jurídica.
 
----
+## Consultar
 
-## 📄 Estrutura de Cada Arquivo `.md`
-
-Cada arquivo é composto por duas partes:
-1. **Frontmatter YAML padronizado**: Metadados indexáveis (UUID, nome, título, categoria, matéria, triggers de ativação semântica e descrição resumida).
-2. **Corpo Markdown**: Conteúdo completo da habilidade (tabelas conceituais, artigos de lei, teses jurisprudenciais, checklists e modelos).
-
-### Exemplo de Cabeçalho:
-```yaml
----
-id: "9857a06c-7ccc-42cc-a2a2-aeb8c9dff2a0"
-name: "abandono-funcao-cp-323"
-title: "Abandono de Função (CP 323) + Tipos Funcionais Próximos"
-category: "materia"
-materia: "penal"
-documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/abandono-funcao-cp-323.md"
-triggers:
-  - "CP 323"
-  - "abandono função"
-  - "art. 323"
-description: "Crime de abandono de função pública (CP, art. 323)..."
----
-
-# Abandono de Função e Tipos Funcionais Próximos
-...
-```
-
----
-
-## 🔍 Como Consultar e Usar
-
-### 0. Instalação via Skills CLI (`skills.sh`)
-
-O acervo LegalSkillsBR pode ser explorado e instalado diretamente no Claude Code, Cursor, OpenCode ou outros agentes compatíveis:
+1. Ler `SKILL.md`, identificar objetivo e data relevante e buscar nomes/assuntos no índice.
+2. Para documento, escolher uma forma e as matérias pertinentes; para pesquisa, escolher matérias. Ler os arquivos inteiros.
+3. Verificar os fundamentos materiais nas fontes oficiais e registrar a aderência aos fatos. Não tomar título, trigger ou data de commit como validação.
 
 ```bash
-# Listar todas as 2.149 habilidades jurídicas via subpath
-npx skills add prof-ramos/skills/legalbr --list
-
-# Instalar habilidade jurídica específica via subpath
-npx skills add prof-ramos/skills/legalbr@acao-alimentos -a claude-code -y
-
-# Instalar navegando toda a árvore do repositório via flag --full-depth
-npx skills add prof-ramos/skills@acao-alimentos --full-depth -a claude-code -y
-
-# Listar por matéria jurídica específica (ex: Tributário, 246 skills)
-npx skills add prof-ramos/skills/legalbr/materia/tributario --list
+rg -i 'assédio|jornada|registro de ponto' legalbr/indice.tsv
+rg -i 'compensação|precatório' legalbr/materia/ legalbr/forma/
 ```
 
-### 1. Busca por Texto ou Tese (ripgrep)
+Os comandos partem da raiz do repositório. Todos os caminhos `sourcePath` passam a apontar para o arquivo real no repositório. O histórico anterior permanece no Git.
+
+## Metadados e limites
+
+Os arquivos legados preservam identificadores, categorias e gatilhos técnicos. Suas descrições de ativação foram encurtadas para indicar uso; isso não revalida o conteúdo.
+
+- `version`: revisão do arquivo, inclusive migração de metadados; não é prova de vigência.
+- `verifiedAt: null`, `status: a conferir`, `sources: []`: conteúdo sem revisão jurídica integral registrada.
+- `reviewedAt`, `reviewScope` e `sources`: conferência parcial, com escopo explícito. Não promovem o arquivo inteiro a validado.
+- `verifiedAt` preenchido exige revisão integral efetiva e fontes oficiais. Revisão periódica sugerida: trimestral para os itens mais usados, além de revisão imediata após alteração relevante.
+
+O índice desta revisão mantém **zero arquivos com validação jurídica integral declarada**. As correções pontuais estão identificadas no escopo de cada arquivo. Não se fez auditoria jurídica integral das 2.149 habilidades herdadas.
+
+## Fluxos adicionados
+
+- `forma/pedido-lai` e `forma/recurso-lai`: acesso e recursos, com rito específico de omissão.
+- `forma/denuncia-tcu`: competência, legitimidade, identificação e proteção de dados.
+- `forma/manifestacao-falabr`: classificação, anonimato e limite operacional de relato.
+- `forma/parecer-risco-publicacao`: prioridades, evidência e correções textuais.
+- `materia/administrativo/fatos-agentes-publicos`: confronto entre bases e minimização de dados.
+
+## Manter e validar
+
+Requer Python 3.10+ e PyYAML no ambiente de manutenção. O validador não consulta a internet nem verifica o direito: confere YAML, chaves duplicadas, caminhos, URLs oficiais, datas, escopo de revisão e índice.
+
 ```bash
-# Buscar teses sobre ICMS-ST
-rg -i "icms-st" skills/materia/tributario/
-
-# Buscar modelos de Agravo de Instrumento
-rg -i "efeito suspensivo" skills/forma/
+python3 legalbr/scripts/catalogo.py --write
+python3 legalbr/scripts/catalogo.py --check
+python3 scripts/validate-skills.py
 ```
 
-### 2. Busca Programática (Python)
-```python
-import json
+Não atribuir validade jurídica ao resultado desses comandos. O `indice.tsv` gerado aqui é interno ao acervo e não presume a existência ou atualização de `/home/box/juridico/indice.tsv` em outro computador.
 
-# Usando o arquivo consolidado de consulta rápida
-with open("habilidades_conteudo_completo.json") as f:
-    skills = json.load(f)
+## Descoberta por instaladores
 
-# Filtrar habilidades com determinado gatilho
-matches = [s for s in skills if any("dano moral" in t.lower() for t in s.get("triggers", []))]
-print(f"Encontradas {len(matches)} habilidades sobre dano moral.")
-```
-
-### 3. Integração com Agentes e LLMs
-Os arquivos `.md` podem ser lidos diretamente por ferramentas de retrieval (RAG), injetados em prompts de sistema de agentes jurídicos ou consultados sob demanda pelo Claude Code, Cursor Composer, OpenCode ou LangChain.
-
----
-
-## 🛠️ Scripts Auxiliares no Projeto
-
-- `download_skills.py`: Script autônomo com concorrência, retries exponenciais e validação automática.
-- `verify_download.py`: Suite de testes de integridade que checa arquivos ausentes, tamanhos, sintaxe frontmatter e consistência de dados.
-- `generate_index.py`: Gerador dos índices consolidados (`INDICE_HABILIDADES.md`, `indice_habilidades.csv`, `indice_habilidades.json`).
+A árvore contém um protocolo raiz e habilidades filhas. Instaladores podem interromper a descoberta na primeira pasta com SKILL.md; para explorar as filhas, usar os subdiretórios ou opção de descoberta profunda suportada pelo instalador. Ao instalar uma filha isoladamente, manter acesso ao protocolo e às referências relativos à raiz; não presumir que um instalador copia arquivos ancestrais. A validação executada nesta revisão é local; não se declara teste real em todos os agentes.

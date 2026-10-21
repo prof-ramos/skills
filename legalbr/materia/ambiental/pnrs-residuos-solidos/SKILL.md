@@ -5,8 +5,8 @@ title: "PNRS: Política Nacional de Resíduos Sólidos (Lei 12.305/2010)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/pnrs-residuos-solidos.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/pnrs-residuos-solidos/SKILL.md"
 triggers:
   - "PNRS"
   - "Lei 12.305/2010"
@@ -17,10 +17,15 @@ triggers:
   - "economia circular"
   - "encerramento de lixões"
   - "coleta seletiva"
-description: "Política Nacional de Resíduos Sólidos sob a Lei 12.305/2010 e o Decreto\n10.936/2022: princípios (poluidor-pagador, responsabilidade compartilhada\nno ciclo de vida) e classificação por origem e periculosidade; ordem de\nprioridade na gestão e proibições de lixões; logística reversa obrigatória,\nplanos (Planares/PGRS) e crimes ambientais conexos (Lei 9.605/98)."
+description: "Usar para pesquisar ou analisar: PNRS: Política Nacional de Resíduos Sólidos (Lei 12.305/2010). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PNRS: Política Nacional de Resíduos Sólidos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

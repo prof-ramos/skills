@@ -5,8 +5,8 @@ title: "Open Finance (Open Banking BR): BACEN Resolução Conjunta 1/2020"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/open-banking-bacen-resolucao-1.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/open-banking-bacen-resolucao-1/SKILL.md"
 triggers:
   - "open finance"
   - "open banking"
@@ -16,10 +16,15 @@ triggers:
   - "PISP iniciador de pagamento"
   - "DICT contas transacionais"
   - "iniciação de pagamento"
-description: "Open Finance (renomeado de Open Banking, 2021): sistema de\ncompartilhamento padronizado de dados e serviços financeiros entre\ninstituições autorizadas pelo BACEN, mediante **consentimento\nexpresso e específico** do cliente. Marco: Resolução Conjunta\nBACEN+CMN nº 1/2020 + Reso BCB 32/2020. **4 fases**: (1) dados\nabertos das instituições, fev/2021; (2) dados cadastrais + extratos\n , ago/2021; (3) iniciação de pagamentos + serviços de proposta de\ncrédito, out/2021; (4) ampliação a câmbio, investimentos, seguros,\nprevidência e capitalização, dez/2021+. Consentimento: máx 12\nmeses + revogável. APIs padronizadas + autenticação reforçada.\nAplicação concomitante com LGPD + ANPD. CDC aplica-se."
+description: "Usar para pesquisar ou analisar: Open Finance (Open Banking BR): BACEN Resolução Conjunta 1/2020. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Open Finance Brasil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

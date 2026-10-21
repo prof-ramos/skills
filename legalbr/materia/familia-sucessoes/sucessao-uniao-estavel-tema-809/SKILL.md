@@ -5,8 +5,8 @@ title: "Sucessão na União Estável (Tema 809 STF + RE 878.694)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/sucessao-uniao-estavel-tema-809.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/sucessao-uniao-estavel-tema-809/SKILL.md"
 triggers:
   - "Tema 809"
   - "RE 878.694"
@@ -17,10 +17,15 @@ triggers:
   - "companheiro herdeiro necessário"
   - "união homoafetiva sucessão"
   - "regime de bens sucessão"
-description: "Tema 809 STF (RE 878.694, Min. Barroso, 10/05/2017): inconstitucional\na distinção sucessória entre cônjuge e companheiro do CC 1.790;\naplica-se o CC 1.829 também à união estável. Eficácia: inventários\ncom partilha NÃO transitada. Aplica-se à união homoafetiva (ADI\n4.277/ADPF 132). Concorrência com descendentes segue o regime de bens."
+description: "Usar para pesquisar ou analisar: Sucessão na União Estável (Tema 809 STF + RE 878.694). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sucessão na União Estável (Tema 809 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

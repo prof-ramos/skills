@@ -5,8 +5,8 @@ title: "Sentença no Juizado Especial da Fazenda Pública (Lei 12.153/2009)"
 category: "forma"
 materia: null
 documentType: "sentenca-jefp"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-jefp.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-jefp/SKILL.md"
 triggers:
   - "sentença no juizado especial da fazenda pública"
   - "sentença JEFP Lei 12.153/2009"
@@ -16,10 +16,15 @@ triggers:
   - "obrigação de fazer contra o ente público por ofício"
   - "teto de pequeno valor do ente"
   - "causas até 60 salários mínimos contra a Fazenda"
-description: "Sentença do Juizado Especial da Fazenda Pública sob a Lei 12.153/2009\n(subsidiárias: CPC e Leis 9.099/95 e 10.259/2001, art. 27): relatório\ndispensado; sem reexame necessário (art. 11) e sem prazos diferenciados\n(art. 7º); obrigação de fazer cumprida por ofício (art. 12); RPV pelo teto\ndo ente, com piso supletivo de 40/30 SM (art. 13, §§ 2º-3º; ADCT, art. 87),\ne precatório acima; consectários por período (EC 113/2021; EC 136/2025)."
+description: "Usar para redigir ou revisar: Sentença no Juizado Especial da Fazenda Pública (Lei 12.153/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença no Juizado Especial da Fazenda Pública (Lei 12.153/2009)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

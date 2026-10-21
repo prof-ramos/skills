@@ -5,8 +5,8 @@ title: "Piso Nacional da Enfermagem (Lei 14.434/2022 + ADI 7.222 STF)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/piso-enfermagem-lei-14434-adi-7222.md"
+version: 2
+sourcePath: "legalbr/materia/saude/piso-enfermagem-lei-14434-adi-7222/SKILL.md"
 triggers:
   - "piso da enfermagem"
   - "Lei 14.434 piso enfermagem"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 14.581/2023"
   - "piso remuneração global"
   - "parteira piso salarial"
-description: "Piso nacional da enfermagem: Lei 14.434/2022 (R$ 4.750 enfermeiro;\n70% técnico; 50% auxiliar e parteira, arts. 15-A a 15-C da Lei\n7.498/86), EC 124/2022 (CF 198 §§12-13) e EC 127/2022 (§§14-15,\nassistência financeira da União). Regime da cautelar referendada e\ndos ED na ADI 7.222 STF: setor público na medida dos repasses\nfederais; celetistas com negociação coletiva regionalizada prévia;\npiso = remuneração global, proporcional à jornada inferior a\n8h/44h. Mérito pendente."
+description: "Usar para pesquisar ou analisar: Piso Nacional da Enfermagem (Lei 14.434/2022 + ADI 7.222 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Piso Nacional da Enfermagem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

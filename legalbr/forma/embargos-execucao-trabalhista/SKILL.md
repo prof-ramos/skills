@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "embargos-execucao-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/embargos-execucao-trabalhista.md"
+sourcePath: "legalbr/forma/embargos-execucao-trabalhista/SKILL.md"
 triggers:
   - "embargos à execução trabalhista"
   - "art. 884 CLT"
@@ -15,10 +15,15 @@ triggers:
   - "garantia do juízo como pressuposto"
   - "prazo de 5 dias da garantia"
   - "impugnação da sentença de liquidação nos embargos à execução"
-description: "Embargos à execução trabalhista (art. 884 CLT): exigem garantia do juízo;\n5 dias; matérias do §1º (cumprimento, quitação, prescrição) + por\nconstrução jurisprudencial excesso e nulidade da penhora; correção\npré-judicial IPCA-E + judicial Selic (ADC 58 STF; Lei 14.905/2024);\nrecurso é agravo de petição (art. 897 a) com delimitação obrigatória de\nvalores (Súm. 416 TST)."
+description: "Usar para redigir ou revisar: Embargos à Execução Trabalhista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos à Execução Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e prazo
 

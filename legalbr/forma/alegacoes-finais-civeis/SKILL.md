@@ -5,8 +5,8 @@ title: "Alegações Finais Cíveis (Memoriais)"
 category: "forma"
 materia: null
 documentType: "alegacoes-finais-civeis"
-version: 1
-sourcePath: "lib/skills/official/forma/alegacoes-finais-civeis.md"
+version: 2
+sourcePath: "legalbr/forma/alegacoes-finais-civeis/SKILL.md"
 triggers:
   - "alegações finais cíveis"
   - "memoriais escritos"
@@ -15,10 +15,15 @@ triggers:
   - "debate oral após instrução"
   - "síntese da prova produzida"
   - "prazo sucessivo de 15 dias para memoriais"
-description: "Alegações finais cíveis sob o art. 364 do CPC: síntese após a instrução\ncom análise da prova referenciada e subsunção do direito aos fatos;\nenfrentamento topicalizado das teses adversas (art. 489 §1º IV);\nvedação de inovação de pedido ou de causa de pedir (arts. 141 e 329),\nressalvado fato superveniente do art. 493; orais em 20 min mais 10\nprorrogáveis ou memoriais em 15 dias úteis sucessivos (§2º)."
+description: "Usar para redigir ou revisar: Alegações Finais Cíveis (Memoriais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alegações Finais Cíveis (Memoriais)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e momento
 

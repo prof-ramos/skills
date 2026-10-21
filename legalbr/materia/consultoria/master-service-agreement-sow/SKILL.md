@@ -5,8 +5,8 @@ title: "Master Service Agreement (MSA) + Statement of Work (SOW)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/master-service-agreement-sow.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/master-service-agreement-sow/SKILL.md"
 triggers:
   - "master service agreement"
   - "MSA"
@@ -16,10 +16,15 @@ triggers:
   - "acordo-quadro"
   - "work order"
   - "addendum"
-description: "Master Service Agreement (MSA) e Statement of Work (SOW):\nestrutura em camadas (MSA estabelece termos gerais; SOWs\ndefinem escopo + preço + cronograma); cláusulas típicas\n(IP ownership + work product + escopo + change order +\nacceptance + service levels + termination + indemnification +\naudit), prevalência (MSA × SOW em conflito), pagamento (T&M ×\nfixed price × milestones) e ESG/compliance em vendor management."
+description: "Usar para pesquisar ou analisar: Master Service Agreement (MSA) + Statement of Work (SOW). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Master Service Agreement (MSA) + Statement of Work (SOW)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura em camadas
 

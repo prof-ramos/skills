@@ -5,8 +5,8 @@ title: "Trabalho Análogo ao de Escravo (CP 149 + Portaria MTb 1.293/2017)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-analogo-escravo-cp-149.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-analogo-escravo-cp-149/SKILL.md"
 triggers:
   - "trabalho escravo"
   - "trabalho análogo a escravo"
@@ -15,10 +15,15 @@ triggers:
   - "condições degradantes"
   - "servidão por dívida"
   - "lista suja"
-description: "Trabalho análogo ao de escravo (CP 149 + CF 5 III + Portaria 1.293/17):\n4 hipóteses (trabalhos forçados; jornada exaustiva; condições\ndegradantes; restrição de locomoção/dívida); independente de cerceamento\nfísico; cabe responsabilização penal + civil + administrativa + trabalhista\n(rescisão indireta + dano moral + lista suja). Lei 15.455/2026: proteção e\nacolhimento de resgatados (prioridade no Bolsa Família; seguro-desemprego\ndo resgatado ampliado para 6 parcelas de 1 SM, Lei 7.998 art. 2º-C)."
+description: "Usar para pesquisar ou analisar: Trabalho Análogo ao de Escravo (CP 149 + Portaria MTb 1.293/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Análogo ao de Escravo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

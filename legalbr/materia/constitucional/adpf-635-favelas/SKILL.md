@@ -5,8 +5,8 @@ title: "ADPF 635: ADPF das Favelas (Operações Policiais no RJ)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-635-favelas.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-635-favelas/SKILL.md"
 triggers:
   - "ADPF 635"
   - "ADPF das Favelas"
@@ -16,10 +16,15 @@ triggers:
   - "plano de redução de letalidade"
   - "chacina Jacarezinho"
   - "estado coisas inconstitucional segurança"
-description: "ADPF 635 (Edson Fachin, 2019-2025): processo estrutural sobre\noperações policiais no RJ. Cautelar (06/2020) impôs cautelas\n(justificação, ambulância, preservação de cena, comunicação ao\nMP). Decisão final em 03/04/2025 (per curiam) homologou\nparcialmente o plano do RJ, manteve salvaguardas (câmeras,\nambulâncias, MP) e entendeu superado o estado de coisas\ninconstitucional. Diálogo com ADPF 347."
+description: "Usar para pesquisar ou analisar: ADPF 635: ADPF das Favelas (Operações Policiais no RJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 635: ADPF das Favelas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

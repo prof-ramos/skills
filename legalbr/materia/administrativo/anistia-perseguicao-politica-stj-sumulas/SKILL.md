@@ -5,8 +5,8 @@ title: "Anistia, Perseguição Política e Cumulação de Indenizações, Súmul
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/anistia-perseguicao-politica-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/anistia-perseguicao-politica-stj-sumulas/SKILL.md"
 triggers:
   - "anistia política"
   - "Lei 10.559"
@@ -16,10 +16,15 @@ triggers:
   - "dano moral cumulação"
   - "Súm. 624 STJ"
   - "Súm. 647 STJ"
-description: "Anistia política (Lei 10.559/2002): cumulação de dano moral com reparação\neconômica (Súm. 624); imprescritibilidade das ações indenizatórias por danos\nmorais e materiais por perseguição política durante regime militar (Súm. 647).\nPara uso em demandas reparatórias de anistiados e familiares."
+description: "Usar para pesquisar ou analisar: Anistia, Perseguição Política e Cumulação de Indenizações, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anistia Política, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

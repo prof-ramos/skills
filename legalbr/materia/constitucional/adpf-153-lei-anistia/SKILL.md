@@ -5,8 +5,8 @@ title: "ADPF 153: Lei de Anistia (Lei 6.683/1979)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-153-lei-anistia.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-153-lei-anistia/SKILL.md"
 triggers:
   - "ADPF 153"
   - "Lei de Anistia"
@@ -17,10 +17,15 @@ triggers:
   - "Gomes Lund"
   - "CIDH anistia"
   - "imprescritibilidade crimes lesa humanidade"
-description: "ADPF 153 (Eros Grau, 29/04/2010): Lei 6.683/1979 recepcionada;\nanistia inclui crimes conexos de agentes do Estado. Tensão com\nCorte IDH (Gomes Lund, 2010): graves violações de DDHH são\nimprescritíveis e não anistiáveis. ADPF 320 e ED pendentes;\nalcance quanto a crimes permanentes afetado ao Tema 1.369\n(ARE 1.501.674, rel. Flávio Dino, mérito pendente)."
+description: "Usar para pesquisar ou analisar: ADPF 153: Lei de Anistia (Lei 6.683/1979). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 153: Lei de Anistia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

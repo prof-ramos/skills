@@ -5,8 +5,8 @@ title: "Direito Eleitoral: Princípios + Justiça Eleitoral + Alistamento"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/direito-eleitoral-principios.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/direito-eleitoral-principios/SKILL.md"
 triggers:
   - "direito eleitoral"
   - "princípios eleitorais"
@@ -15,10 +15,15 @@ triggers:
   - "condições de elegibilidade"
   - "idade mínima candidato"
   - "domicílio eleitoral"
-description: "Direito eleitoral sob CF 14-17 e 118-121 + CE (Lei 4.737/65) + Lei 9.504/97 +\nLC 64/90 (Ficha Limpa): princípios (soberania popular, anualidade do art. 16,\nmoralidade); estrutura da Justiça Eleitoral; alistamento, domicílio e\nelegibilidade; inelegibilidades e AIME; federações partidárias e cláusula\nde desempenho (EC 97/2017)."
+description: "Usar para pesquisar ou analisar: Direito Eleitoral: Princípios + Justiça Eleitoral + Alistamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Eleitoral: Princípios + Justiça Eleitoral + Alistamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

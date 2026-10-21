@@ -5,8 +5,8 @@ title: "Multa Civil de Improbidade + Correção e Juros desde o Ato Ímprobo (Te
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/multa-improbidade-correcao-juros-tema-1128.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/multa-improbidade-correcao-juros-tema-1128/SKILL.md"
 triggers:
   - "Tema 1.128 STJ"
   - "multa civil improbidade"
@@ -16,10 +16,15 @@ triggers:
   - "Súmula 54 STJ"
   - "Lei 8.429/92 multa"
   - "data ato ímprobo"
-description: "Tema 1.128 STJ (1ª Seção, j. 12/03/2025): na multa civil da Lei 8.429/92,\ncorreção monetária e juros de mora incidem desde a DATA DO ATO\nÍMPROBO (Súmulas 43 e 54 STJ), não do trânsito em julgado. Razão:\nsem termo inicial no ato ímprobo, a multa deixaria de refletir a\nvantagem real do infrator."
+description: "Usar para pesquisar ou analisar: Multa Civil de Improbidade + Correção e Juros desde o Ato Ímprobo (Tema 1.128 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multa Civil de Improbidade + Correção e Juros desde o Ato Ímprobo (Tema 1.128 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.128 STJ, 1ª Seção, j. 12/03/2025)
 

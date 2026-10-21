@@ -5,8 +5,8 @@ title: "Identificação Criminal (Lei 12.037/2009)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/identificacao-criminal-lei-12037.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/identificacao-criminal-lei-12037/SKILL.md"
 triggers:
   - "Lei 12.037"
   - "identificação criminal"
@@ -18,10 +18,15 @@ triggers:
   - "banco perfis genéticos"
   - "identificação civilmente identificado"
   - "CF 5 LVIII"
-description: "Identificação criminal Lei 12.037/2009: CF 5 LVIII, civilmente\nidentificado **não** será submetido à identificação criminal,\nsalvo nas hipóteses legais (Lei 12.037 art. 3); inclui\ndatiloscópica e fotográfica; Lei 12.654/2012 introduziu\nidentificação por perfil genético (DNA) compulsória em crimes\ngraves; STF Tema 905 (RE 973.837), constitucionalidade da coleta\ncompulsória em julgamento (pendente até julho/2026); CPP 310-A\n(Lei 15.272/2025): coleta de perfil genético do preso em flagrante\nem crimes graves, mediante requerimento ao juiz."
+description: "Usar para pesquisar ou analisar: Identificação Criminal (Lei 12.037/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Identificação Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

@@ -5,8 +5,8 @@ title: "Imposto Seletivo na Reforma Tributária (EC 132/2023 + LC 214/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/imposto-seletivo-reforma-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/imposto-seletivo-reforma-tributaria/SKILL.md"
 triggers:
   - "imposto seletivo"
   - "IS reforma tributária"
@@ -20,10 +20,15 @@ triggers:
   - "vigência 2027"
   - "CF 153 VIII"
   - "extrafiscalidade"
-description: "Imposto Seletivo (IS), **Reforma Tributária EC 132/2023 + LC 214/\n2025**: novo tributo federal **extrafiscal** sobre produtos\nconsiderados **nocivos à saúde ou ao meio ambiente** (sin tax).\n**Vigência**: a partir de **janeiro/2027**. **Substitui** IPI em\nparte. **Lista taxativa** (LC 214 art. 409 §1): veículos +\nembarcações + aeronaves + cigarros + bebidas alcoólicas + bebidas\naçucaradas + minerais + petróleo + fantasy sports. **Alíquotas**:\nprojeções divulgadas (cigarros 250%, bebidas alcoólicas 46-62%,\nrefrigerantes 32%, minerais 0,25%), fixação por LEI ORDINÁRIA\n(CF 153 §6 VI). **Monofásico**: incide uma única vez na produção,\nextração, comercialização ou importação, sem gerar crédito (art.\n410); integra a base de IBS/CBS (CF 153 §6 IV). Administração RFB\n(art. 411). Não substitui o IPI integralmente."
+description: "Usar para pesquisar ou analisar: Imposto Seletivo na Reforma Tributária (EC 132/2023 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imposto Seletivo (IS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

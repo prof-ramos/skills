@@ -5,8 +5,8 @@ title: "Súmula Vinculante 7, Limite de Juros 12% (CF 192 §3 revogado)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/sumula-vinculante-7-juros-12-percento.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/sumula-vinculante-7-juros-12-percento/SKILL.md"
 triggers:
   - "SV 7"
   - "Súmula Vinculante 7"
@@ -18,10 +18,15 @@ triggers:
   - "juros bancários"
   - "Súm. 648 STF"
   - "Súm. 596 STF"
-description: "SV 7 STF (11/06/2008): \"A norma do §3 do art. 192 CF, revogada\npela EC 40/2003, que limitava a taxa de juros reais a 12% ao ano,\ntinha sua aplicação condicionada à edição de lei complementar.\"\nReplica Súm. 648; somada à Súm. 596 (Lei Usura não atinge SFN);\ncabível reclamação ao STF contra decisão que aplique o teto."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 7, Limite de Juros 12% (CF 192 §3 revogado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 7, Limite de Juros 12%
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

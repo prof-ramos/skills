@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "dissidio-coletivo"
 version: 2
-sourcePath: "lib/skills/official/forma/dissidio-coletivo.md"
+sourcePath: "legalbr/forma/dissidio-coletivo/SKILL.md"
 triggers:
   - "dissídio coletivo"
   - "poder normativo da Justiça do Trabalho"
@@ -15,10 +15,15 @@ triggers:
   - "dissídio de natureza econômica e jurídica"
   - "dissídio de greve em atividade essencial art. 114 §3º"
   - "sentença normativa no dissídio coletivo"
-description: "Dissídio coletivo como expressão do poder normativo da Justiça do\nTrabalho (CF 114 §§ 1º-3º; CLT 856-875): negociação prévia como\npressuposto e exigência de comum acordo no dissídio econômico;\nmodalidades (econômico, jurídico, de greve, revisional, de extensão);\nlegitimidade dos sindicatos e MPT; vigência da sentença normativa;\ncumprimento pelo art. 872."
+description: "Usar para redigir ou revisar: Dissídio Coletivo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dissídio Coletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

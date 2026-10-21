@@ -5,8 +5,8 @@ title: "Cômputo de Auxílio-Doença Não-Acidentário como Tempo Especial (Tema
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-doenca-tempo-especial-tema-1107.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-doenca-tempo-especial-tema-1107/SKILL.md"
 triggers:
   - "Tema 1.107 STF"
   - "auxílio-doença tempo especial"
@@ -15,10 +15,15 @@ triggers:
   - "tempo serviço especial"
   - "art. 57 §3 Lei 8.213"
   - "exposição nociva"
-description: "Tema 1.107 STF (RE 1.279.819, 30/10/2020): STF reconheceu a\nAUSÊNCIA DE REPERCUSSÃO GERAL: a controvérsia sobre computar\no período de gozo do AUXÍLIO-DOENÇA NÃO-ACIDENTÁRIO (B31) como\ntempo ESPECIAL é INFRACONSTITUCIONAL. O mérito é resolvido pelo\nSTJ Tema 998: o segurado em atividade especial que goza de\nauxílio-doença (acidentário ou não) faz jus ao cômputo do\nperíodo como especial. Lei 8.213/91 art. 57 + 58."
+description: "Usar para pesquisar ou analisar: Cômputo de Auxílio-Doença Não-Acidentário como Tempo Especial (Tema 1.107 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Doença como Tempo Especial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

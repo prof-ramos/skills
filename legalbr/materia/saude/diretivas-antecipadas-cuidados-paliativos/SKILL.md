@@ -5,8 +5,8 @@ title: "Diretivas Antecipadas + Cuidados Paliativos + Ortotanásia (CFM 1.995/20
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/diretivas-antecipadas-cuidados-paliativos.md"
+version: 2
+sourcePath: "legalbr/materia/saude/diretivas-antecipadas-cuidados-paliativos/SKILL.md"
 triggers:
   - "diretivas antecipadas de vontade"
   - "morte digna"
@@ -19,10 +19,15 @@ triggers:
   - "mistanásia"
   - "Estatuto dos Direitos do Paciente"
   - "Lei 15.378"
-description: "Diretivas Antecipadas de Vontade (DAV), **Resolução CFM 1.995/2012**:\nmanifestação prévia do paciente sobre cuidados e tratamentos\ndesejados/recusados quando impossibilitado de se expressar. Garante\nautonomia + proteção ética ao médico. **Distinções essenciais**:\nortotanásia (morte digna no tempo natural, admitida); distanásia\n(prolongamento artificial, desencorajada); eutanásia ativa (vedada\nno Brasil); mistanásia (morte por abandono, combatida). Forma:\nescrita ou registrada em prontuário. **Lei 15.378/2026** (Estatuto\ndos Direitos do Paciente) dá base LEGAL às DAV (art. 2 II + arts.\n14, 18, 20), ao representante do paciente (arts. 2 III + 6) e ao\ndireito a cuidados paliativos, livre de dor, com escolha do local\nda morte (art. 21). Paliativos: Reso CFM 1.973/2011 + 2.156/2016.\nFamília × DAV: paciente prevalece (autonomia). Limites: vida +\nordem pública. STJ + TJs aplicam progressivamente."
+description: "Usar para pesquisar ou analisar: Diretivas Antecipadas + Cuidados Paliativos + Ortotanásia (CFM 1.995/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Diretivas Antecipadas + Cuidados Paliativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-pad-prisional"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-pad-prisional.md"
+sourcePath: "legalbr/forma/defesa-pad-prisional/SKILL.md"
 triggers:
   - "PAD prisional"
   - "falta grave na execução penal"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 535 STJ"
   - "SV 26"
   - "defesa contra regressão de regime"
-description: "Defesa em PAD prisional / falta grave (LEP 50 e 47-52; Súm. 533 STJ):\nPAD obrigatório instaurado pelo diretor do estabelecimento, com\ndefesa técnica + contraditório (Tema 652 STJ; pelo Tema 941 STF,\naudiência de justificação com defensor e MP supre o PAD); falta grave\ninterrompe progressão e data-base (Súm. 534 STJ), MAS NÃO o\nlivramento condicional (Súm. 441) nem comutação/indulto (Súm. 535);\npode reduzir até 1/3 da remição (LEP 127); reconhecimento por crime\ndoloso prescinde de trânsito em julgado (Súm. 526 STJ); ofensa atual\nà liberdade cabe HC."
+description: "Usar para redigir ou revisar: Defesa em PAD Prisional (Falta Grave). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em PAD Prisional (Falta Grave)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

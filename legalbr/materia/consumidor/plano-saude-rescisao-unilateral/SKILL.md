@@ -5,8 +5,8 @@ title: "Plano de Saúde: Rescisão Unilateral e Cancelamento (Súm. 608 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-saude-rescisao-unilateral.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-saude-rescisao-unilateral/SKILL.md"
 triggers:
   - "rescisão unilateral"
   - "cancelamento de plano"
@@ -18,10 +18,15 @@ triggers:
   - "plano coletivo rescisão"
   - "Lei 9.656 art. 13"
   - "rescisão arbitrária de plano"
-description: "Rescisão unilateral e cancelamento de plano de saúde sob Lei 9.656\nart. 13 + Súm. 608 STJ + RN ANS 195/2009: vedação em planos\nindividuais salvo fraude ou inadimplência por 60 dias + notificação\nprévia até o 50º dia; coletivos: rescisão admitida com aviso de\n60 dias após 12 meses (cláusula recíproca); proteção em internação;\nmanutenção do beneficiário após óbito do titular (art. 30 e 31)."
+description: "Usar para pesquisar ou analisar: Plano de Saúde: Rescisão Unilateral e Cancelamento (Súm. 608 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde: Rescisão Unilateral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

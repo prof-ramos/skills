@@ -5,8 +5,8 @@ title: "Súmula Vinculante 38, Município fixa horário de comércio"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/sumula-vinculante-38-municipio-horario-comercial.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-38-municipio-horario-comercial/SKILL.md"
 triggers:
   - "Súmula Vinculante 38"
   - "SV 38"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 19 STJ"
   - "competência municipal"
   - "estabelecimento comercial"
-description: "SV 38 STF (11/03/2015): \"É competente o Município para fixar o\nhorário de funcionamento de estabelecimento comercial\".\nConverte a Súm. 645/STF. Funda-se no interesse local (CF 30 I).\nExceção crucial: horário bancário é da União (Súm. 19/STJ,\nRE 118.363); município pode legislar sobre conforto/segurança\ndo usuário bancário."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 38, Município fixa horário de comércio. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 38, Município e Horário de Comércio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Ação de Exigir Contas (CPC 550-553)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/acao-exigir-contas-cpc-550.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/acao-exigir-contas-cpc-550/SKILL.md"
 triggers:
   - "ação de exigir contas"
   - "CPC 550"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 259 STJ"
   - "Súm. 477 STJ"
   - "procedimento bifásico"
-description: "Ação de exigir contas sob CPC 550-553, procedimento BIFÁSICO:\n1ª fase decide se existe a obrigação; recurso cabível contra a\ndecisão de procedência da 1ª fase está AFETADO no Tema 1.281 STJ\n(pendente; fungibilidade recursal ante a dúvida objetiva); 2ª fase\nanalisa as contas + saldo (ação dúplice); Súm. 259 STJ (correntista\nbancário); Súm. 477 STJ (tarifas bancárias, sem decadência CDC\n26); Temas 528 e 908 STJ; legitimidade: mandante + tutelado + sócio."
+description: "Usar para pesquisar ou analisar: Ação de Exigir Contas (CPC 550-553). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Exigir Contas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal (CPC 550-553)
 

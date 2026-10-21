@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "carta-precatoria"
 version: 2
-sourcePath: "lib/skills/official/forma/carta-precatoria.md"
+sourcePath: "legalbr/forma/carta-precatoria/SKILL.md"
 triggers:
   - "carta precatória"
   - "arts. 260 a 268 CPC"
@@ -19,10 +19,15 @@ triggers:
   - "hipóteses de recusa do deprecado art. 267"
   - "juízos de mesma hierarquia"
   - "distinção entre carta precatória, carta de ordem e carta rogatória"
-description: "Carta precatória sob os arts. 260 a 268 do CPC: instrumento de\ncooperação entre juízos de mesma hierarquia para a prática de ato\nfora dos limites territoriais do deprecante; caráter itinerante (art.\n262); distinção das cartas rogatória e de ordem; hipóteses taxativas\nde recusa do juízo deprecado (art. 267)."
+description: "Usar para redigir ou revisar: Carta Precatória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Precatória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

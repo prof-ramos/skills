@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-interna-cpc-42-66.md"
+sourcePath: "legalbr/materia/processo-civil/competencia-interna-cpc-42-66/SKILL.md"
 triggers:
   - "competência interna"
   - "foro de eleição"
@@ -23,10 +23,15 @@ triggers:
   - "competência federal delegada"
   - "Lei 13.876"
   - "Tema 820 STF"
-description: "Regime geral da competência interna (CPC 42-65): foros comum e especiais\n(CPC 46-53), absoluta x relativa (CPC 62-63), foro de eleição pós Lei\n14.879/2024 (pertinência com domicílio ou local da obrigação + juízo\naleatório), alegação como preliminar (CPC 64-65), translatio iudicii (CPC 64\n§§3-4), ADIs 5492/5737 (Tema 1204 STF) e competência federal delegada\n(CF 109 §§3º-4º: Lei 13.876/2019 + Tema 820 STF + IAC 6 STJ)."
+description: "Usar para pesquisar ou analisar: Competência Interna: Critérios, Foros e Foro de Eleição (CPC 42-65 + Lei 14.879/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Interna
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura normativa (CPC 42-45)
 

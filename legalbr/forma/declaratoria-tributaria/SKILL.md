@@ -5,8 +5,8 @@ title: "Ação Declaratória Tributária"
 category: "forma"
 materia: null
 documentType: "declaratoria-tributaria"
-version: 1
-sourcePath: "lib/skills/official/forma/declaratoria-tributaria.md"
+version: 2
+sourcePath: "legalbr/forma/declaratoria-tributaria/SKILL.md"
 triggers:
   - "ação declaratória tributária"
   - "inexistência de relação jurídica tributária art. 19 I CPC"
@@ -15,10 +15,15 @@ triggers:
   - "suspensão da exigibilidade CTN 151 II e V"
   - "depósito do montante integral"
   - "cumulação com repetição de indébito CTN 165"
-description: "Ação declaratória tributária sob o art. 19 do CPC e art. 151 do CTN:\nação ordinária preventiva para declarar a inexistência ou existência\nde relação jurídico-tributária antes do lançamento, típica para\ntributos de trato continuativo; suspensão da exigibilidade por\ndepósito integral ou tutela provisória independente de garantia;\ncumulação com repetição de indébito e cotejo com MS preventivo."
+description: "Usar para redigir ou revisar: Ação Declaratória Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Declaratória Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

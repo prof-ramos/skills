@@ -5,8 +5,8 @@ title: "REURB - Regularização Fundiária Urbana (Lei 13.465/2017)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/reurb-lei-13465.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/reurb-lei-13465/SKILL.md"
 triggers:
   - "REURB"
   - "Lei 13.465/2017"
@@ -22,10 +22,15 @@ triggers:
   - "art. 23 Lei 13.465"
   - "art. 25 Lei 13.465"
   - "núcleo urbano informal consolidado"
-description: "REURB Lei 13.465/2017: regularização fundiária de núcleos urbanos\ninformais consolidados; REURB-S (Social - baixa renda - gratuita)\n× REURB-E (Específica - onerosa); instrumentos: LEGITIMAÇÃO\nFUNDIÁRIA (originária - art. 23) + legitimação de posse (arts.\n25-26) + demarcação urbanística; CRF Certidão de Regularização\nFundiária + projeto + averbação no CRI; Dec. 9.310/2018."
+description: "Usar para pesquisar ou analisar: REURB - Regularização Fundiária Urbana (Lei 13.465/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # REURB: Regularização Fundiária Urbana
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

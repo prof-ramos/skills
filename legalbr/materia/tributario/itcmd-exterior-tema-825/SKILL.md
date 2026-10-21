@@ -5,8 +5,8 @@ title: "ITCMD sobre Bens no Exterior (Tema 825 STF + RE 851.108)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/itcmd-exterior-tema-825.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itcmd-exterior-tema-825/SKILL.md"
 triggers:
   - "Tema 825 STF"
   - "RE 851.108"
@@ -20,10 +20,15 @@ triggers:
   - "herança de bens no exterior"
   - "ITCMD doação exterior"
   - "LC nacional ITCMD"
-description: "Tema 825 STF (RE 851.108, Min. Dias Toffoli, 26/02/2021): vedado\naos Estados/DF instituir ITCMD nas hipóteses do art. 155 §1 III\nCF sem LC nacional. Modulação ex nunc desde 11/03/2021; ressalvadas\nações em curso. EC 132/2023 art. 16 criou regra transitória\naté a LC. LC 227/2026 (Livro II) instituiu as normas gerais."
+description: "Usar para pesquisar ou analisar: ITCMD sobre Bens no Exterior (Tema 825 STF + RE 851.108). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITCMD sobre Bens no Exterior (Tema 825 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

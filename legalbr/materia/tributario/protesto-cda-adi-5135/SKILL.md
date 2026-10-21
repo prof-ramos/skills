@@ -5,8 +5,8 @@ title: "Protesto Extrajudicial de CDA (Lei 9.492/97 art. 1 § + ADI 5.135)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/protesto-cda-adi-5135.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/protesto-cda-adi-5135/SKILL.md"
 triggers:
   - "protesto CDA"
   - "Lei 9.492/97"
@@ -17,10 +17,15 @@ triggers:
   - "cobrança extrajudicial"
   - "meio menos gravoso"
   - "sanção política CDA"
-description: "Protesto extrajudicial da CDA Lei 9.492/97 art. 1º § único\n(inserido pela Lei 12.767/12): CDA pode ser protestada, meio\ncoercitivo extrajudicial de cobrança; STF ADI 5.135 (2016)\ndeclarou CONSTITUCIONAL; não é sanção política; admitido para\ntodos os entes; STJ Tema 777 (Fazenda tem interesse e pode\nprotestar a CDA); interrompe a prescrição pós-LC 208/2024 (CTN\n174 § único II); protesto prévio como pressuposto do ajuizamento\nde EF de baixo valor (Tema 1.184 STF); cancelamento mediante\npagamento + comprovação ao tabelionato."
+description: "Usar para pesquisar ou analisar: Protesto Extrajudicial de CDA (Lei 9.492/97 art. 1 § + ADI 5.135). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Protesto Extrajudicial de CDA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Crimes contra o Estado Democrático de Direito (Lei 14.197/2021)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/crimes-democracia-lei-14197.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-democracia-lei-14197/SKILL.md"
 triggers:
   - "Lei 14.197"
   - "crimes contra democracia"
@@ -18,10 +18,15 @@ triggers:
   - "8 de janeiro 2023"
   - "tentativa golpe"
   - "atentado soberania"
-description: "Crimes contra o Estado Democrático de Direito — **Lei 14.197/2021**\n(01/09/2021): revogou a Lei de Segurança Nacional (Lei 7.170/83) e\nincluiu **Título XII no CP (arts. 359-I a 359-T)**. Tipos: (i)\ncontra **soberania nacional** (atentado + integridade + espionagem);\n(ii) contra **instituições democráticas** — abolição violenta do\nEstado Democrático (CP 359-L) + **golpe de Estado** (CP 359-M);\n(iii) contra **processo eleitoral** (interrupção + violência\npolítica); (iv) contra **serviços essenciais** (sabotagem). Penas\n4-12 anos. Excluem **manifestação política legítima**. Aplicação\nintensa após **8 de janeiro de 2023**. STF Tema correlato."
+description: "Usar para pesquisar ou analisar: Crimes contra o Estado Democrático de Direito (Lei 14.197/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra o Estado Democrático de Direito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

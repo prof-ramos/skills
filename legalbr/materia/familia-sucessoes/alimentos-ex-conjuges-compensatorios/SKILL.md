@@ -5,8 +5,8 @@ title: "Alimentos entre Ex-Cônjuges e Alimentos Compensatórios (CC 1.694-1.704
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/alimentos-ex-conjuges-compensatorios.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/alimentos-ex-conjuges-compensatorios/SKILL.md"
 triggers:
   - "alimentos entre ex-cônjuges"
   - "alimentos compensatórios"
@@ -19,10 +19,15 @@ triggers:
   - "desequilíbrio econômico do divórcio"
   - "termo final dos alimentos"
   - "Súm. 336 STJ"
-description: "Alimentos entre ex-cônjuges/ex-companheiros (CC 1.694-1.704):\nregra do caráter EXCEPCIONAL e TRANSITÓRIO com termo final, salvo\nimpossibilidade de reinserção no trabalho; renúncia na dissolução\né válida e impede novo pedido (Súm. 336 STJ preserva a pensão\nprevidenciária); alimentos COMPENSATÓRIOS = verba indenizatória\npor desequilíbrio patrimonial, SEM prisão civil."
+description: "Usar para pesquisar ou analisar: Alimentos entre Ex-Cônjuges e Alimentos Compensatórios (CC 1.694-1.704). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alimentos entre Ex-Cônjuges e Alimentos Compensatórios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa (CC 1.694-1.704)
 

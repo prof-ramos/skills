@@ -5,8 +5,8 @@ title: "Pronúncia, Impronúncia e Absolvição Sumária (Júri)"
 category: "forma"
 materia: null
 documentType: "pronuncia-impronuncia"
-version: 1
-sourcePath: "lib/skills/official/forma/pronuncia-impronuncia.md"
+version: 2
+sourcePath: "legalbr/forma/pronuncia-impronuncia/SKILL.md"
 triggers:
   - "decisão de pronúncia"
   - "sentença de pronúncia"
@@ -20,10 +20,15 @@ triggers:
   - "desclassificação art. 419 CPP"
   - "primeira fase do júri"
   - "encerramento da instrução preliminar do júri"
-description: "Peça própria do encerramento da primeira fase do júri: em processo de\ncompetência do júri, prevalece sobre a sentença penal comum do CPP.\nDecisões da fase (CPP 413-421):\npronúncia com fundamentação limitada (413 §1º) e linguagem contida\n(excesso de linguagem anula, orientação pacífica de STF e STJ);\nimpronúncia sem coisa julgada material (414); absolvição sumária (415);\ndesclassificação (419); intimação (420), preclusão (421) e recursos\n(RESE contra pronúncia, 581 IV; apelação contra impronúncia e\nabsolvição sumária, 416)."
+description: "Usar para redigir ou revisar: Pronúncia, Impronúncia e Absolvição Sumária (Júri). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pronúncia, Impronúncia e Absolvição Sumária (Júri)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fase e desfechos
 

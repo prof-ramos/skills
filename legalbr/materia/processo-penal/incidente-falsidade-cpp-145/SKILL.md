@@ -5,8 +5,8 @@ title: "Incidente de Falsidade Documental (CPP 145-148)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/incidente-falsidade-cpp-145.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/incidente-falsidade-cpp-145/SKILL.md"
 triggers:
   - "CPP 145"
   - "incidente falsidade"
@@ -18,10 +18,15 @@ triggers:
   - "CPP 148"
   - "falsidade material"
   - "falsidade ideológica processo"
-description: "Incidente de falsidade documental CPP 145-148: arguição por\nescrito (procurador exige poderes especiais, CPP 146) ou\nverificação de ofício (CPP 147); autos apartados; resposta em 48h\n+ 3 dias sucessivos para prova; reconhecida a falsidade,\ndesentranhamento + remessa ao MP (CPP 145 IV); RESE contra a\ndecisão (CPP 581 XVIII); a decisão não faz coisa julgada em\nprejuízo de ulterior processo penal ou civil (CPP 148)."
+description: "Usar para pesquisar ou analisar: Incidente de Falsidade Documental (CPP 145-148). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Falsidade Documental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base + finalidade
 

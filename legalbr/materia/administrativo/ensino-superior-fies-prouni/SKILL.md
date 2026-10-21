@@ -5,8 +5,8 @@ title: "Ensino Superior. Regulação MEC, Diplomas, FIES e ProUni (LDB + Lei 10.
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/ensino-superior-fies-prouni.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ensino-superior-fies-prouni/SKILL.md"
 triggers:
   - "FIES"
   - "ProUni"
@@ -20,10 +20,15 @@ triggers:
   - "ENADE SINAES"
   - "Decreto 9.235 educação superior"
   - "reconhecimento de curso MEC"
-description: "Litigância de massa da educação superior: regulação/supervisão MEC\n(LDB 46, Decreto 9.235/2017, SINAES Lei 10.861/2004), diplomas (LDB 48,\ncompetência da JF: STF Tema 1.154, Súm. 570 STJ, revalidação STJ Temas\n599/615), FIES Lei 10.260/2001 (juros zero Lei 13.530/2017, transação\nLei 14.375/2022, fiador legal STJ Tema 349) e ProUni Lei 11.096/2005\n(bolsas 1,5/3 SM, Lei 14.350/2022, isenções, ADI 3.330)."
+description: "Usar para pesquisar ou analisar: Ensino Superior. Regulação MEC, Diplomas, FIES e ProUni (LDB + Lei 10.260/2001 + Lei 11.096/2005). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ensino Superior: Regulação MEC, Diplomas, FIES e ProUni
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Bloco de litigância de massa da Justiça Federal (revisionais de FIES, expedição e registro de diploma, supervisão de IES) e de varas cíveis (relação de consumo com IES). Mensalidade escolar (Lei 9.870/99), vaga em creche (Tema 548) e SV 12 (taxa de matrícula) têm skills próprias.
 

@@ -5,8 +5,8 @@ title: "Habeas Corpus: Análise Judicial (CPP 647-667 + CF 5 LXVIII)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/habeas-corpus-cpp-647.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/habeas-corpus-cpp-647/SKILL.md"
 triggers:
   - "habeas corpus"
   - "CF 5 LXVIII"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 693 STF"
   - "salvo-conduto"
   - "trancamento da ação penal"
-description: "Habeas corpus sob CF 5 LXVIII + CPP 647-667: garantia da liberdade\nde locomoção contra ilegalidade/abuso; espécies liberatório,\npreventivo e coletivo (HC 143.641); admissibilidade restritiva\nSTF/STJ (HC substitutivo + Súm. 691 + esgotamento); concessão de\nofício (CPP 654 §2); ADPF 347 (estado de coisas inconstitucional)\ncomo fundamento."
+description: "Usar para pesquisar ou analisar: Habeas Corpus: Análise Judicial (CPP 647-667 + CF 5 LXVIII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Habeas Corpus: Análise Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento
 

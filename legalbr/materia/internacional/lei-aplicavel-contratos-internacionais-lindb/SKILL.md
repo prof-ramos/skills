@@ -5,8 +5,8 @@ title: "Lei Aplicável a Contratos Internacionais (LINDB 9 + Lei 9.307 + CISG)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/lei-aplicavel-contratos-internacionais-lindb.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/lei-aplicavel-contratos-internacionais-lindb/SKILL.md"
 triggers:
   - "LINDB 9"
   - "lei aplicável contrato internacional"
@@ -18,10 +18,15 @@ triggers:
   - "elemento de conexão"
   - "foro de eleição internacional"
   - "cláusula de lei aplicável"
-description: "Lei aplicável a contratos internacionais, direito brasileiro\nconservador: **LINDB art. 9** adota *lex loci contractus* (lei do\nlocal de constituição); silente sobre **autonomia da vontade**\nperante juiz estatal (vedação tradicional). **Exceção**: Lei\n**9.307/96 art. 2 §1** permite escolha **livre** de lei aplicável\nem arbitragem. **CISG (Conv. Viena 1980, Dec. 8.327/2014)**\naplica-se **automaticamente** a contratos B2B internacionais de\ncompra-venda salvo opt-out (art. 6). Anteprojeto de DIPr (em\ndebate) propõe expressa autonomia. Cláusulas usuais: foro de\neleição (CPC 25, válido) + lei aplicável (vinculante em\narbitragem; controversa em juízo estatal). Limites: ordem pública +\nfraude à lei + LINDB 17."
+description: "Usar para pesquisar ou analisar: Lei Aplicável a Contratos Internacionais (LINDB 9 + Lei 9.307 + CISG). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Aplicável a Contratos Internacionais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

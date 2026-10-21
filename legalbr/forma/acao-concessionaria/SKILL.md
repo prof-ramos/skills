@@ -5,8 +5,8 @@ title: "Ações contra Concessionária de Serviço Público"
 category: "forma"
 materia: null
 documentType: "acao-concessionaria"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-concessionaria.md"
+version: 2
+sourcePath: "legalbr/forma/acao-concessionaria/SKILL.md"
 triggers:
   - "concessionária de serviço público"
   - "art. 37 §6º CF"
@@ -16,10 +16,15 @@ triggers:
   - "tarifa abusiva"
   - "corte por débito pretérito"
   - "responsabilidade objetiva da concessionária"
-description: "Ações contra concessionárias de serviço público sob a CF 175 e 37 §6º,\nLei 8.987/95 e CDC: escolha do procedimento (indenizatória, JEC,\ndeclaratória c/c repetição, obrigação de fazer com urgência, MS, ACP);\nforo do consumidor (CDC 101 I) e vedação de denunciação à lide (CDC\n88); inversão do ônus da prova; prescrição (CDC 26 e 27)."
+description: "Usar para redigir ou revisar: Ações contra Concessionária de Serviço Público. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ações contra Concessionária de Serviço Público
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

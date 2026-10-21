@@ -5,8 +5,8 @@ title: "Ação Revisional Bancária"
 category: "forma"
 materia: null
 documentType: "acao-revisional-bancaria"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-revisional-bancaria.md"
+version: 2
+sourcePath: "legalbr/forma/acao-revisional-bancaria/SKILL.md"
 triggers:
   - "revisional bancária"
   - "juros remuneratórios acima da média BACEN"
@@ -16,10 +16,15 @@ triggers:
   - "repetição de indébito bancário"
   - "revisão de contrato de financiamento"
   - "cédula de crédito bancário juros"
-description: "Revisão de contrato bancário pelo CDC (Súm. 297/STJ): instrução com a\ntaxa média BACEN da modalidade (Tema 27/STJ exige abusividade\ncabalmente demonstrada); tutela com depósito do incontroverso\n(Súm. 380/STJ); perícia contábil; pedidos de revisão, repetição de\nindébito, compensação e exclusão de cadastros."
+description: "Usar para redigir ou revisar: Ação Revisional Bancária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Revisional Bancária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento
 

@@ -5,8 +5,8 @@ title: "Investigação Criminal pelo MP, PIC (Tema 184 STF + Res. CNMP 181)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/investigacao-mp-pic-tema-184.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/investigacao-mp-pic-tema-184/SKILL.md"
 triggers:
   - "PIC"
   - "procedimento investigatório criminal"
@@ -21,10 +21,15 @@ triggers:
   - "controle externo polícia"
   - "LC 75/93"
   - "Lei 8.625/93"
-description: "Investigação criminal pelo MP (Tema 184 STF, RE 593.727, 14/05/2015):\npoder constitucional próprio do MP (CF 129 I, II, VI, VII, VIII,\nIX), pode conduzir DIRETAMENTE investigação penal. Instrumentaliza-\nse no PIC (Procedimento Investigatório Criminal, Res. CNMP 181/2017).\nNão substitui IP, concorrente e complementar. Submete-se ao controle\njudicial e aos mesmos limites e prazos do IP, com prorrogação só por\nautorização judicial (STF, Plenário, ADIs 2.943/3.309/3.318, j.\n02/05/2024, e ADI 5.793, j. 28/06/2024). Em paralelo: controle\nexterno da atividade policial (CF 129 VII)."
+description: "Usar para pesquisar ou analisar: Investigação Criminal pelo MP, PIC (Tema 184 STF + Res. CNMP 181). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Investigação Criminal pelo Ministério Público (PIC)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 129: competências constitucionais do MP
 

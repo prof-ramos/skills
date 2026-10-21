@@ -5,8 +5,8 @@ title: "Estabilidade Acidentária (Lei 8.213 art. 118 + Súm. 378 TST + Tema 125
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/estabilidade-acidentaria-sumula-378-tst.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estabilidade-acidentaria-sumula-378-tst/SKILL.md"
 triggers:
   - "estabilidade acidentária"
   - "Lei 8.213 art 118"
@@ -18,10 +18,15 @@ triggers:
   - "CAT"
   - "nexo causal trabalho"
   - "auxílio doença acidentário"
-description: "Estabilidade acidentária — **Lei 8.213/1991 art. 118**: empregado\nacidentado tem **12 meses de estabilidade** após cessação do\nauxílio-doença **acidentário** (B91). **Súm. 378 TST**:\npressupostos — (i) afastamento > **15 dias** + percepção do B91;\n(ii) **OU** doença profissional com nexo causal comprovado, mesmo\nsem afastamento. **Tema 125 TST** (2024) flexibilizou — basta\ncomprovar **nexo causal** entre doença e atividade. Aplica-se ao\ncontrato urbano + rural + doméstico (LC 150). Não se aplica a\ncontrato por tempo determinado (Súm. 244 TST par. único). NTEP\n(nexo técnico epidemiológico) facilita. Cumulável com aposentadoria\npor invalidez. Reintegração ou indenização do período."
+description: "Usar para pesquisar ou analisar: Estabilidade Acidentária (Lei 8.213 art. 118 + Súm. 378 TST + Tema 125). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade Acidentária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

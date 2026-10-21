@@ -5,18 +5,23 @@ title: "Bem de Família + Alienação Fiduciária do Próprio Imóvel (Tema 1.16
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/bem-familia-alienacao-fiduciaria-tema-1166.md"
+version: 2
+sourcePath: "legalbr/materia/civil/bem-familia-alienacao-fiduciaria-tema-1166/SKILL.md"
 triggers:
   - "Tema 1.166 STJ"
   - "bem família alienação fiduciária imóvel"
   - "Lei 8.009 impenhorabilidade afastada"
   - "Lei 9.514 fiduciário consolidação"
   - "oposição terceiros estranhos"
-description: "Tema 1.166 STJ: a impenhorabilidade do bem de família NÃO se\nopõe ao CREDOR FIDUCIÁRIO em ação para reaver o imóvel objeto da\nalienação fiduciária. A proteção da Lei 8.009/90 não impede a\nalienação fiduciária pelo proprietário. OPONIBILIDADE A TERCEIROS\nestranhos à operação fiduciária permanece."
+description: "Usar para pesquisar ou analisar: Bem de Família + Alienação Fiduciária do Próprio Imóvel (Tema 1.166 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bem de Família + Alienação Fiduciária do Próprio Imóvel (Tema 1.166 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Entendimento do STJ
 

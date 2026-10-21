@@ -5,8 +5,8 @@ title: "Reajuste de Plano de Saúde por Faixa Etária (Tema 952 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-saude-reajuste-faixa-etaria-tema-952.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-saude-reajuste-faixa-etaria-tema-952/SKILL.md"
 triggers:
   - "Tema 952 STJ"
   - "reajuste faixa etária plano saúde"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 91 TJSP"
   - "RN ANS 309/2012"
   - "reajuste anual por sinistralidade"
-description: "Tema 952 STJ: o reajuste do plano de saúde INDIVIDUAL/FAMILIAR\npor mudança de FAIXA ETÁRIA é VÁLIDO se: (i) previsão contratual;\n(ii) observância das normas reguladoras (ANS / CONSU); (iii)\npercentuais NÃO desarrazoados nem discriminatórios contra o\nidoso. Três regimes temporais (pré-Lei 9.656; CONSU 6/98; RN\n63/2003 ANS). Vedada variação ao usuário com mais de 60 anos e\nmais de 10 anos de plano (Lei 9.656 art. 15 par. único)."
+description: "Usar para pesquisar ou analisar: Reajuste de Plano de Saúde por Faixa Etária (Tema 952 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reajuste de Plano de Saúde por Faixa Etária (Tema 952 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 952 STJ)
 

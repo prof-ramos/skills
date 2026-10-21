@@ -5,8 +5,8 @@ title: "Extorsão + Extorsão Mediante Sequestro (CP 158 + CP 159 + Lei 13.964/2
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/extorsao-cp-158-159.md"
+version: 2
+sourcePath: "legalbr/materia/penal/extorsao-cp-158-159/SKILL.md"
 triggers:
   - "extorsão"
   - "CP 158"
@@ -19,10 +19,15 @@ triggers:
   - "CP 159 §4"
   - "extorsão qualificada morte"
   - "hediondez da extorsão"
-description: "Extorsão sob CP 158 (recl. 4-10, crime FORMAL, vítima colabora)\n+ CP 159 (extorsão mediante sequestro, recl. 8-15, sempre\nhediondo); §3 sequestro relâmpago (Lei 11.923, recl. 6-12,\nhediondo Anticrime); CP 159 §4 (delação eficaz, redução 1/3 a\n2/3); Súm. 96 STJ (consuma-se independentemente da obtenção da\nvantagem); distinção 157 (vítima colabora × subtração)."
+description: "Usar para pesquisar ou analisar: Extorsão + Extorsão Mediante Sequestro (CP 158 + CP 159 + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extorsão + Extorsão Mediante Sequestro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 158: Extorsão (caput)
 

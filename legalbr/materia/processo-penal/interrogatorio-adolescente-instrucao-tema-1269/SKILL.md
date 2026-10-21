@@ -5,8 +5,8 @@ title: "Interrogatório do Adolescente ao Final da Instrução (Tema 1.269 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/interrogatorio-adolescente-instrucao-tema-1269.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/interrogatorio-adolescente-instrucao-tema-1269/SKILL.md"
 triggers:
   - "Tema 1.269 STJ"
   - "interrogatório adolescente ato infracional"
@@ -14,10 +14,15 @@ triggers:
   - "CPP 400 aplicação subsidiária"
   - "nulidade interrogatório fim instrução"
   - "ato infracional procedimento"
-description: "Tema 1.269 STJ (3ª Seção): no procedimento de\napuração de ato infracional, ALÉM da audiência de apresentação\n(ECA 184), aplica-se SUBSIDIARIAMENTE o CPP 400: o adolescente\ndeve ser interrogado AO FINAL da instrução. Inobservância causa\nnulidade se o prejuízo à autodefesa for informado na PRIMEIRA\nmanifestação, sob pena de preclusão. Aplicável aos feitos com\ninstrução encerrada após 03/03/2016."
+description: "Usar para pesquisar ou analisar: Interrogatório do Adolescente ao Final da Instrução (Tema 1.269 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interrogatório do Adolescente ao Final da Instrução (Tema 1.269 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.269 STJ, 3ª Seção)
 

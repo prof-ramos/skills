@@ -5,8 +5,8 @@ title: "Ágio e Amortização Fiscal (Lei 12.973/14)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/agio-amortizacao-fiscal-lei-12973.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/agio-amortizacao-fiscal-lei-12973/SKILL.md"
 triggers:
   - "ágio rentabilidade futura"
   - "amortização de ágio"
@@ -15,10 +15,15 @@ triggers:
   - "goodwill"
   - "Lei 12.973"
   - "aquisição com ágio"
-description: "Ágio em aquisição de participação societária: Lei 12.973/14 arts.\n20-22 (substituiu regime Lei 9.532/97). Fundamentos econômicos\n(rentabilidade futura, mais-valia de ativos, intangível), substância,\nlaudo, amortização em 60 meses pós-incorporação, holding pura\nvedada. CARF + STJ + jurisprudência recente."
+description: "Usar para pesquisar ou analisar: Ágio e Amortização Fiscal (Lei 12.973/14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ágio e Amortização Fiscal (Lei 12.973/14)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

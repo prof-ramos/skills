@@ -6,7 +6,7 @@ category: "materia"
 materia: "consultoria"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/mercado-livre-energia-ccee.md"
+sourcePath: "legalbr/materia/consultoria/mercado-livre-energia-ccee/SKILL.md"
 triggers:
   - "mercado livre de energia"
   - "migração para o mercado livre"
@@ -19,10 +19,15 @@ triggers:
   - "geração distribuída"
   - "Decreto 13.097/2026 baixa tensão"
   - "perda tarifa social mercado livre"
-description: "Contratação no ACL, CCEE e PPA. O Decreto 13.097/2026 abre a baixa tensão em 25/11/2027 (industrial/comercial) e 25/11/2028 (demais), exige varejista e afasta benefícios tarifários do ACR."
+description: "Usar para pesquisar ou analisar: Mercado Livre de Energia (Lei 9.074/95 + Lei 14.300/22 + CCEE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mercado Livre de Energia (Lei 9.074/95 + Lei 14.300/22 + CCEE)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

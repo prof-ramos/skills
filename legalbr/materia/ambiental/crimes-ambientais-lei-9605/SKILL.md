@@ -5,8 +5,8 @@ title: "Crimes Ambientais (Lei 9.605/98)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/crimes-ambientais-lei-9605.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/crimes-ambientais-lei-9605/SKILL.md"
 triggers:
   - "crimes ambientais"
   - "Lei 9.605/98"
@@ -18,10 +18,15 @@ triggers:
   - "RE 548.181 STF"
   - "SNUC"
   - "Código Florestal"
-description: "Crimes ambientais sob Lei 9.605/98 — Lei dos Crimes Ambientais:\ncrimes contra fauna (29-37), flora (38-53), poluição (54-61),\npatrimônio cultural (62-65), administração ambiental (66-69); PJ\npode ser sujeito ativo (STF RE 548.181 — afastada dupla imputação);\nANPP e transação penal admitidos com reparação do dano (arts. 27-\n28); tripla responsabilização autônoma (CF 225 §3)."
+description: "Usar para pesquisar ou analisar: Crimes Ambientais (Lei 9.605/98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Ambientais (Lei 9.605/98)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco
 

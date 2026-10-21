@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contestacao-jefp"
 version: 2
-sourcePath: "lib/skills/official/forma/contestacao-jefp.md"
+sourcePath: "legalbr/forma/contestacao-jefp/SKILL.md"
 triggers:
   - "contestação no juizado especial da fazenda pública"
   - "contestação no juizado especial"
@@ -19,10 +19,15 @@ triggers:
   - "sem prazo diferenciado art. 7º Lei 12.153"
   - "documentação até a audiência art. 9º Lei 12.153"
   - "defesa da União no juizado especial federal"
-description: "Peça de DEFESA do ente público réu no rito da Lei 12.153/2009 (não é a\npetição inicial da ação contra a Fazenda): sem prazos\ndiferenciados para a Fazenda (art. 7º), citação para a audiência de\nconciliação com antecedência mínima de 30 dias, dever de apresentar a\ndocumentação disponível até a instalação da audiência (art. 9º),\npreliminares próprias (competência absoluta do art. 2º §4º, exclusões do\n§1º, teto de 60 SM com parcelas vincendas do §2º, rol de partes do art.\n5º); subsidiariedade do CPC, da Lei 9.099/95 e da Lei 10.259/2001 (art. 27)."
+description: "Usar para redigir ou revisar: Contestação da Fazenda no Juizado Especial da Fazenda Pública. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contestação da Fazenda no Juizado Especial da Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e momento
 

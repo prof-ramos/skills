@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/aposentadoria-compulsoria-comissionados-serventias-temas-763-571.md"
+sourcePath: "legalbr/materia/administrativo/aposentadoria-compulsoria-comissionados-serventias-temas-763-571/SKILL.md"
 triggers:
   - "Tema 763 STF"
   - "aposentadoria compulsória cargo em comissão"
@@ -18,10 +18,15 @@ triggers:
   - "CF 40 aposentadoria compulsória"
   - "interino serventia extrajudicial"
   - "delegatário cartório aposentadoria"
-description: "Alcance subjetivo da aposentadoria compulsória aos 75 anos (CF 40 §1º II, EC 88/2015,\nLC 152/2015): não atinge ocupantes exclusivos de cargo em comissão (Tema 763 STF),\ntitulares de serventias judiciais não estatizadas sem remuneração pública (Tema 571)\nnem notários e registradores (ADI 2.602); situação dos interinos."
+description: "Usar para pesquisar ou analisar: Aposentadoria Compulsória, Comissionados, Delegatários e Serventias Não Estatizadas (Temas 763 e 571 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria Compulsória: Comissionados, Delegatários e Serventias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

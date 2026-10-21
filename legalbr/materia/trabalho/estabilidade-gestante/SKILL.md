@@ -5,8 +5,8 @@ title: "Estabilidade da Gestante"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/estabilidade-gestante.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estabilidade-gestante/SKILL.md"
 triggers:
   - "estabilidade da gestante"
   - "ADCT 10 II \"b"
@@ -15,10 +15,15 @@ triggers:
   - "Tema 497 STF"
   - "licença-maternidade"
   - "gravidez no aviso prévio"
-description: "Estabilidade da gestante sob ADCT 10 II \"b\" + CF 7º XVIII + CLT\n391-A/392-396 + Lei 11.770/2008: fato gerador na concepção;\nresponsabilidade objetiva do empregador; duração até 5 meses após o\nparto; licença-maternidade 120/180 dias; reintegração ou indenização\ndo período estabilitário."
+description: "Usar para pesquisar ou analisar: Estabilidade da Gestante. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade da Gestante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

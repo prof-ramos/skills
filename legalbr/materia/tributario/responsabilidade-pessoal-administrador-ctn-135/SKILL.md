@@ -5,8 +5,8 @@ title: "Responsabilidade Pessoal de Administrador (CTN 135 III + Súm. 430/435 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/responsabilidade-pessoal-administrador-ctn-135.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/responsabilidade-pessoal-administrador-ctn-135/SKILL.md"
 triggers:
   - "responsabilidade pessoal administrador"
   - "CTN 135 III"
@@ -16,10 +16,15 @@ triggers:
   - "infração de lei"
   - "dissolução irregular"
   - "redirecionamento sócio gerente"
-description: "Responsabilidade pessoal CTN 135 III: diretores, gerentes ou\nrepresentantes respondem PESSOALMENTE por créditos resultantes\nde atos praticados com EXCESSO DE PODERES ou INFRAÇÃO de lei,\ncontrato/estatuto; Súm. 430 STJ (inadimplemento NÃO gera\nresponsabilidade); Súm. 435 STJ (dissolução irregular presume\nresponsabilidade); Tema 962 STJ (sócio que se retirou regularmente\nantes da dissolução NÃO responde); Tema 981 (sócio à época da\ndissolução irregular responde, ainda que não fosse gerente no FG)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Pessoal de Administrador (CTN 135 III + Súm. 430/435 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Pessoal de Administrador (CTN 135 III)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

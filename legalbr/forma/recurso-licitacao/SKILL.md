@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-licitacao"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-licitacao.md"
+sourcePath: "legalbr/forma/recurso-licitacao/SKILL.md"
 triggers:
   - "recurso licitação"
   - "contrarrazões licitação"
@@ -18,10 +18,15 @@ triggers:
   - "declaração de inidoneidade recurso"
   - "recurso contra inabilitação de licitante"
   - "recurso contra anulação ou revogação da licitação"
-description: "Recurso e contrarrazões na Lei 14.133/2021 (arts. 165-168): recurso em 3 dias\núteis contra pré-qualificação, julgamento, habilitação, anulação/revogação e\nextinção unilateral do contrato; intenção de recorrer imediata sob pena de\npreclusão; efeito suspensivo (art. 168); recursos sancionatórios (arts.\n166-167) e Lei 9.784/99 subsidiária."
+description: "Usar para redigir ou revisar: Recurso e Contrarrazões em Licitação (Lei 14.133/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso e Contrarrazões em Licitação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

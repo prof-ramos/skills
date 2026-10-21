@@ -5,8 +5,8 @@ title: "Carta Testemunhável (CPP 639-646)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/carta-testemunhavel-cpp-639.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/carta-testemunhavel-cpp-639/SKILL.md"
 triggers:
   - "carta testemunhável"
   - "CPP 639"
@@ -16,10 +16,15 @@ triggers:
   - "recurso em sentido estrito denegado"
   - "agravo execução penal denegado"
   - "escrivão certifica"
-description: "Recurso autônomo + subsidiário (CPP 639-646): cabível quando\no juiz DENEGA o recurso OU, embora admitido, OBSTA a expedição\ne o seguimento ao juízo ad quem. Aplicável ao recurso em sentido\nestrito (CPP 581) e ao agravo em execução (LEP 197). Prazo de 48h\ncontadas da denegação. Requerida ao escrivão/secretário, com\nindicação das peças. Cabe apenas quando NÃO houver outro recurso\n(subsidiariedade). SEM efeito suspensivo (CPP 646)."
+description: "Usar para pesquisar ou analisar: Carta Testemunhável (CPP 639-646). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Testemunhável
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 639: cabimento
 

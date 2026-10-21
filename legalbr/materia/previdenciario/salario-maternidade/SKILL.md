@@ -5,8 +5,8 @@ title: "Salário-Maternidade (Lei 8.213/91 arts. 71-73 + Lei 11.770/2008 + Lei 1
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/salario-maternidade.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/salario-maternidade/SKILL.md"
 triggers:
   - "salário-maternidade"
   - "licença-maternidade"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 15.222 prorrogação maternidade"
   - "estabilidade da gestante"
   - "pai solo"
-description: "Salário-maternidade sob a CF (art. 7º XVIII) e a Lei 8.213/91 (arts. 71-73),\ncom Lei 11.770/2008 (Empresa Cidadã), Lei 15.222/2025 (prorrogação por\ninternação hospitalar superior a 2 semanas) e Lei 15.415/2026 (prazo de 30\ndias para concessão pelo INSS, com concessão provisória automática): eventos\nde parto, aborto não criminoso, adoção e guarda; carência do art. 25 III\ndeclarada inconstitucional (ADIs 2.110 e 2.111 STF);\nduração de 120 dias prorrogáveis a 180; cálculo da RMI, pagamento direto pelo\nINSS ou via eSocial; estabilidade da gestante e natureza salarial com FGTS."
+description: "Usar para pesquisar ou analisar: Salário-Maternidade (Lei 8.213/91 arts. 71-73 + Lei 11.770/2008 + Lei 15.222/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário-Maternidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

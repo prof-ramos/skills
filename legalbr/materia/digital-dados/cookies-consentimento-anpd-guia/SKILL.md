@@ -5,8 +5,8 @@ title: "Cookies + Consentimento (ANPD Guia 2022 + LGPD)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/cookies-consentimento-anpd-guia.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/cookies-consentimento-anpd-guia/SKILL.md"
 triggers:
   - "cookies LGPD"
   - "guia ANPD cookies"
@@ -17,10 +17,15 @@ triggers:
   - "dark patterns"
   - "LGPD legítimo interesse cookies"
   - "identificadores online"
-description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Proteção\nde Dados Pessoais\" (out/2022)**: enquadramento de cookies sob LGPD;\nclassifica como **estritamente necessários** (base: legítimo\ninteresse ou execução de contrato) × **funcionalidade** × **analítico**\n× **publicidade**. Cookies não-necessários exigem **consentimento\nprévio + específico + revogável**. Princípios para banners: botões\ncom **mesmo tamanho** (aceitar/recusar/gerenciar); **não habilitar\npor padrão** cookies não-necessários; informação clara; segunda\ncamada de granularidade. Veda **cookie walls** abusivas + dark\npatterns. Aplicação extraterritorial LGPD (art. 3). DPIA\nrecomendado em rastreio massivo."
+description: "Usar para pesquisar ou analisar: Cookies + Consentimento (ANPD Guia 2022 + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cookies + Consentimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

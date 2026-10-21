@@ -5,8 +5,8 @@ title: "União Homoafetiva (Tema 1.072 STF + ADI 4.277 + ADPF 132)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/uniao-homoafetiva-tema-1072.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/uniao-homoafetiva-stf-tema-1072/SKILL.md"
 triggers:
   - "Tema 1.072 STF"
   - "ADI 4.277"
@@ -14,10 +14,15 @@ triggers:
   - "RE 1.211.446"
   - "licença-maternidade união homoafetiva"
   - "mãe não gestante licença"
-description: "Tema 1.072 STF (RE 1.211.446, 13/03/2024) + ADI 4.277 + ADPF\n132 (05/05/2011): RECONHECIMENTO da união estável entre\npessoas do mesmo sexo. Igualdade + dignidade + livre\nplanejamento familiar. Aplicação ampla: pensão, herança,\nbenefícios previdenciários, licença-maternidade, etc."
+description: "Usar para pesquisar ou analisar: União Homoafetiva (Tema 1.072 STF + ADI 4.277 + ADPF 132). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # União Homoafetiva no STF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

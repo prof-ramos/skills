@@ -5,8 +5,8 @@ title: "Limite 20 SM Sistema S, Contribuições de Terceiros (Tema 1.079 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/limite-20-sm-sistema-s-tema-1079.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/limite-20-sm-sistema-s-tema-1079/SKILL.md"
 triggers:
   - "Tema 1.079 STJ"
   - "Tema 1.390 STJ"
@@ -19,10 +19,15 @@ triggers:
   - "REsp 1.905.870"
   - "contribuição parafiscal"
   - "INCRA salário-educação teto"
-description: "Tema 1.079 STJ (REsp 1.898.532 + 1.905.870, Min. Regina Helena\nCosta, 13/03/2024): NÃO se aplica o limite de 20 SM (art. 4 Lei\n6.950/1981) à base das contribuições ao SESI/SENAI/SESC/SENAC,\npois o DL 2.318/1986 art. 1 I revogou o teto. Modulação: efeitos\nex nunc da publicação do acórdão; ressalvadas ações ajuizadas até\n25/10/2023 com decisão favorável. Tema 1.390 STJ estendeu: base\ndas contribuições ao INCRA, salário-educação, DPC, FAER, SENAR,\nSEST, SENAT, SESCOOP, SEBRAE, APEX-Brasil e ABDI também não é\nlimitada a 20 SM."
+description: "Usar para pesquisar ou analisar: Limite 20 SM Sistema S, Contribuições de Terceiros (Tema 1.079 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limite 20 SM, Contribuições de Terceiros (Tema 1.079 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.079 STJ)
 

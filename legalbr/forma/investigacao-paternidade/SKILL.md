@@ -5,8 +5,8 @@ title: "Ação de Investigação de Paternidade"
 category: "forma"
 materia: null
 documentType: "investigacao-paternidade"
-version: 1
-sourcePath: "lib/skills/official/forma/investigacao-paternidade.md"
+version: 2
+sourcePath: "legalbr/forma/investigacao-paternidade/SKILL.md"
 triggers:
   - "investigação de paternidade"
   - "reconhecimento de filho"
@@ -14,10 +14,15 @@ triggers:
   - "paternidade socioafetiva"
   - "DNA paternidade"
   - "multiparentalidade"
-description: "Ação imprescritível para reconhecimento de paternidade (Lei 8.560/92; CF 227\n§6º): recusa ao DNA presume paternidade (Súm. 301 STJ; Lei 12.004/09); admite\nmultiparentalidade (Tema 622 STF); cumula alimentos e retificação registral."
+description: "Usar para redigir ou revisar: Ação de Investigação de Paternidade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Investigação de Paternidade
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

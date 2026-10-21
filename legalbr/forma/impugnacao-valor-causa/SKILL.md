@@ -5,8 +5,8 @@ title: "Impugnação ao Valor da Causa"
 category: "forma"
 materia: null
 documentType: "impugnacao-valor-causa"
-version: 1
-sourcePath: "lib/skills/official/forma/impugnacao-valor-causa.md"
+version: 2
+sourcePath: "legalbr/forma/impugnacao-valor-causa/SKILL.md"
 triggers:
   - "impugnação ao valor da causa"
   - "art. 293 CPC impugnação na contestação"
@@ -15,10 +15,15 @@ triggers:
   - "critérios de fixação do art. 292"
   - "correção de ofício pelo juiz art. 292 §3º"
   - "repercussão nas custas e honorários"
-description: "Impugnação ao valor da causa sob o CPC/15: preliminar OBRIGATÓRIA da\ncontestação (art. 293); não cabe peça apartada do CPC/73. Funda-se nos\ncritérios objetivos do art. 292. O juiz pode corrigir de ofício até a\nsentença, com prévio contraditório (art. 10). Pede recolhimento\ncomplementar de custas."
+description: "Usar para redigir ou revisar: Impugnação ao Valor da Causa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação ao Valor da Causa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Como cabe (mudança nuclear do CPC/15)
 

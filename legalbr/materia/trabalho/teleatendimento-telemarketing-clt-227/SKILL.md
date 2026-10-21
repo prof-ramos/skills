@@ -5,8 +5,8 @@ title: "Teleatendimento e Telefonia (CLT 227 + NR-17 Anexo II)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/teleatendimento-telemarketing-clt-227.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/teleatendimento-telemarketing-clt-227/SKILL.md"
 triggers:
   - "operador de telemarketing"
   - "teleatendimento call center"
@@ -19,10 +19,15 @@ triggers:
   - "controle de idas ao banheiro"
   - "metas abusivas telemarketing"
   - "telefonista de mesa"
-description: "Telefonia e teleatendimento/telemarketing: jornada de 6h/36h da CLT 227, Súm. 178\nTST (telefonista de mesa), aplicação analógica ao operador de call center após o\ncancelamento da OJ 273 SDI-1 (Res. 175/2011), pausas e regras do Anexo II da NR-17\ne dano moral por metas e controle de pausas."
+description: "Usar para pesquisar ou analisar: Teleatendimento e Telefonia (CLT 227 + NR-17 Anexo II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teleatendimento, Telemarketing e Telefonia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Seletividade ICMS Energia + Telecomunicações (Tema 745 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-energia-seletividade-tema-745.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-energia-seletividade-tema-745/SKILL.md"
 triggers:
   - "Tema 745 STF"
   - "ICMS energia seletividade"
@@ -15,10 +15,15 @@ triggers:
   - "alíquota essencial"
   - "CF 155 §2 III"
   - "LC 194/2022"
-description: "Tema 745 STF (RE 714.139, 18/12/2021): É INCONSTITUCIONAL\nalíquota de ICMS sobre energia elétrica + telecomunicações\nMAIOR que a alíquota geral, por violação à seletividade\n(CF 155 §2 III). LC 194/2022 limitou alíquotas a 17-18%.\nModulação: efeitos a partir de 2024 (sem retroatividade)."
+description: "Usar para pesquisar ou analisar: Seletividade ICMS Energia + Telecomunicações (Tema 745 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seletividade do ICMS: Energia e Telecomunicações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

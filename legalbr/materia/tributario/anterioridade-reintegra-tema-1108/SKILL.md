@@ -5,8 +5,8 @@ title: "Anterioridade Nonagesimal nas Reduções do Reintegra (Tema 1.108 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/anterioridade-reintegra-tema-1108.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/anterioridade-reintegra-tema-1108/SKILL.md"
 triggers:
   - "Tema 1.108 STF"
   - "Reintegra anterioridade"
@@ -16,10 +16,15 @@ triggers:
   - "benefício fiscal redução"
   - "majoração indireta"
   - "exportador"
-description: "Tema 1.108 STF (ARE 1.285.177, sessão encerrada 23/05/2025): a\nREDUÇÃO ou REVOGAÇÃO dos percentuais do REINTEGRA gera majoração\nINDIRETA de PIS/COFINS e deve observar APENAS a ANTERIORIDADE\nNONAGESIMAL (CF 195 §6), NÃO se aplicando a anterioridade geral/\nanual (CF 150 III \"b\"). Distingue-se do Tema 1.383 (regra geral\nde benefícios que pode atrair também a anual conforme o tributo)."
+description: "Usar para pesquisar ou analisar: Anterioridade Nonagesimal nas Reduções do Reintegra (Tema 1.108 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anterioridade no Reintegra
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

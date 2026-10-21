@@ -5,8 +5,8 @@ title: "Súmula Vinculante 26 - Progressão em Crime Hediondo"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/sumula-vinculante-26-progressao-hediondo.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sumula-vinculante-26-progressao-hediondo/SKILL.md"
 triggers:
   - "SV 26"
   - "Súmula Vinculante 26"
@@ -17,10 +17,15 @@ triggers:
   - "LEP 112"
   - "Lei 15.358 progressão"
   - "frações progressão hediondo"
-description: "SV 26 STF (16/12/2009, HC 82.959): \"Para progressão de regime em\ncrime hediondo o juízo da execução observará a\ninconstitucionalidade do art. 2 da Lei 8.072/90, sem prejuízo dos\nrequisitos objetivos e subjetivos.\" Atualizada pela Lei 13.964/19."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 26 - Progressão em Crime Hediondo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 26 - Progressão em Crime Hediondo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

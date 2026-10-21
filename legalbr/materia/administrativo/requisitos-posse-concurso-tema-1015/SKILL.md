@@ -5,8 +5,8 @@ title: "Requisitos de Posse em Concurso (Tema 1.015 STF + Súm. 266 STJ + Tema 5
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/requisitos-posse-concurso-tema-1015.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/requisitos-posse-concurso-tema-1015/SKILL.md"
 triggers:
   - "Tema 1.015 STF"
   - "RE 886.131"
@@ -23,10 +23,15 @@ triggers:
   - "RE 1.282.553"
   - "posse de condenado"
   - "suspensão de direitos políticos concurso"
-description: "Requisitos do cargo e momento de comprovação: Súm. 266 STJ (diploma\ne habilitação exigidos na POSSE, não na inscrição), Tema 509 STF\n(RE 655.265: triênio de atividade jurídica comprovado na inscrição\ndefinitiva) e Tema 1.015 STF (RE 886.131: inconstitucional vedar a\nposse de candidato que teve doença grave mas não apresenta sintoma\nincapacitante). Inclui devido processo na inaptidão médica."
+description: "Usar para pesquisar ou analisar: Requisitos de Posse em Concurso (Tema 1.015 STF + Súm. 266 STJ + Tema 509 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Requisitos de Posse em Concurso Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

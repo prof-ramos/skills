@@ -5,8 +5,8 @@ title: "Erro de Tipo e Erro de Proibição (CP 20-21 + CP 73-74)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/erro-tipo-proibicao-cp-20-21.md"
+version: 2
+sourcePath: "legalbr/materia/penal/erro-tipo-proibicao-cp-20-21/SKILL.md"
 triggers:
   - "erro de tipo"
   - "erro de proibição"
@@ -19,10 +19,15 @@ triggers:
   - "aberratio criminis"
   - "teoria limitada da culpabilidade"
   - "culpa imprópria"
-description: "Erro de tipo (CP 20) sobre ELEMENTOS objetivos: exclui dolo\n(escusável atípico; inescusável culpa); §1 descriminantes\nputativas (teoria limitada da culpabilidade: fáticas como erro\nde tipo; jurídicas como CP 21); §3 erro sobre pessoa. Erro de\nproibição (CP 21) sobre ILICITUDE: escusável isenta; inescusável\nreduz 1/6 a 1/3 OBRIGATÓRIA. CP 73 aberratio ictus + CP 74 criminis."
+description: "Usar para pesquisar ou analisar: Erro de Tipo e Erro de Proibição (CP 20-21 + CP 73-74). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Erro de Tipo e Erro de Proibição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 20: ERRO DE TIPO
 

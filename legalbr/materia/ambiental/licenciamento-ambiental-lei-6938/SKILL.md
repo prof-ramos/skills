@@ -5,8 +5,8 @@ title: "Licenciamento Ambiental (Lei 6.938 + LC 140 + Lei 15.190/2025)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/licenciamento-ambiental-lei-6938.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/licenciamento-ambiental-lei-6938/SKILL.md"
 triggers:
   - "licenciamento ambiental"
   - "Lei 6.938/1981"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 999 STF"
   - "responsabilidade objetiva ambiental"
   - "propter rem"
-description: "Licenciamento ambiental sob CF 225 + Lei 6.938/1981 + LC 140/2011\n+ CONAMA 237 + Lei 15.190/2025 (nova Lei Geral em vigor 02/2026):\ntrifásico (LP + LI + LO) e novas modalidades (LAC + LAU + LAE);\ncompetência por abrangência do impacto (não dominialidade);\nresponsabilidade civil OBJETIVA (Lei 6.938 art. 14 §1) + propter\nrem (Tema 1.204 STJ); imprescritibilidade (Tema 999 STF)."
+description: "Usar para pesquisar ou analisar: Licenciamento Ambiental (Lei 6.938 + LC 140 + Lei 15.190/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Licenciamento Ambiental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais + legais
 

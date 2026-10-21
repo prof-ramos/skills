@@ -5,8 +5,8 @@ title: "Atleta Profissional (Lei 9.615/1998, Lei Pelé)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/atleta-profissional-lei-9615.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/atleta-profissional-lei-9615/SKILL.md"
 triggers:
   - "atleta profissional"
   - "Lei Pelé"
@@ -18,10 +18,15 @@ triggers:
   - "direito de arena"
   - "jogador de futebol vínculo"
   - "SAF Lei 14.193"
-description: "Atleta profissional (Lei 9.615/98 com redação da Lei 12.395/11 e Lei\n13.155/15): contrato a termo (3 meses a 5 anos); cláusula indenizatória\ndesportiva (28); cláusula compensatória (28 §3); direito de imagem\n(87-A) e direito de arena (42); transferência internacional + ATIA;\nregistro na CBF/federação."
+description: "Usar para pesquisar ou analisar: Atleta Profissional (Lei 9.615/1998, Lei Pelé). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atleta Profissional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

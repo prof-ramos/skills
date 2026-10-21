@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-administrativo-previdenciario-crps"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-administrativo-previdenciario-crps.md"
+sourcePath: "legalbr/forma/recurso-administrativo-previdenciario-crps/SKILL.md"
 triggers:
   - "recurso administrativo previdenciário"
   - "CRPS"
@@ -19,10 +19,15 @@ triggers:
   - "enunciado CRPS"
   - "contestação FAP"
   - "recurso contra indeferimento administrativo de benefício"
-description: "Recurso administrativo ao CRPS contra decisões do INSS (Lei 8.213 art. 126 +\nDec. 3.048 arts. 303-309): recurso ordinário às Juntas de Recursos e especial\nàs Câmaras de Julgamento em 30 dias; efeito suspensivo e devolutivo; renúncia\npelo ajuizamento de ação idêntica; Regimento Interno (Portaria MPS 125/2026)\ne Enunciados do Conselho Pleno."
+description: "Usar para redigir ou revisar: Recurso Administrativo Previdenciário (CRPS). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Administrativo Previdenciário (CRPS)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Decadência Tributária (CTN 173 + 150 §4 + REsp 973.733 + Súm. 555)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/decadencia-tributaria-ctn-173.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/decadencia-tributaria-ctn-173/SKILL.md"
 triggers:
   - "decadência tributária"
   - "CTN 173"
@@ -16,10 +16,15 @@ triggers:
   - "lançamento por homologação"
   - "prazo de 5 anos"
   - "decadência ICMS ISS IRPJ"
-description: "Decadência tributária CTN 173 (5 anos para constituir o crédito);\nREsp 973.733 (homologação COM pagamento antecipado: CTN 150 §4 a\npartir do FG; SEM pagamento: CTN 173 I a partir do 1º dia do\nexercício seguinte); Súm. 555 STJ (mesma regra); CTN 173 II\n(anulação do lançamento por vício formal); CTN 173 § único (medida\npreparatória antecipa)."
+description: "Usar para pesquisar ou analisar: Decadência Tributária (CTN 173 + 150 §4 + REsp 973.733 + Súm. 555). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decadência Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

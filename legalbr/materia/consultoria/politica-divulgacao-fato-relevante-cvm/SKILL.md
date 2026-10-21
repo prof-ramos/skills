@@ -5,8 +5,8 @@ title: "Política de Divulgação e Fato Relevante (CVM)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/politica-divulgacao-fato-relevante-cvm.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/politica-divulgacao-fato-relevante-cvm/SKILL.md"
 triggers:
   - "fato relevante"
   - "política de divulgação"
@@ -16,10 +16,15 @@ triggers:
   - "trading window"
   - "selective disclosure"
   - "guidance"
-description: "Política de divulgação de informações + fato relevante para\ncias. abertas (CVM RCVM 44/2021 + RCVM 80/2022 + RCVM 160):\nconceito de fato relevante, dever de divulgar (DRI), timing\n(tempestivo + simultâneo), forma (Sistema Empresas.NET +\nimprensa), insider trading (Lei 6.385 art. 27-D), trading\nwindow + blackout + pre-clearance, selective disclosure\n(Regulation FD analógica) e ESG disclosures (RCVM 193)."
+description: "Usar para pesquisar ou analisar: Política de Divulgação e Fato Relevante (CVM). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Política de Divulgação e Fato Relevante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

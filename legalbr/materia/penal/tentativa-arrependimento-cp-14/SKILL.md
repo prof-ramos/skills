@@ -5,8 +5,8 @@ title: "Tentativa + Desistência + Arrependimento (CP 14-17)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/tentativa-arrependimento-cp-14.md"
+version: 2
+sourcePath: "legalbr/materia/penal/tentativa-arrependimento-cp-14/SKILL.md"
 triggers:
   - "tentativa"
   - "iter criminis"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 567 STJ"
   - "Súm. 145 STF"
   - "ponte de ouro"
-description: "Tentativa (CP 14 II, redução 1/3 a 2/3 conforme iter percorrido);\nCP 15 desistência voluntária + arrependimento eficaz (\"ponte\nde ouro\": responde só pelos atos praticados); CP 16\narrependimento posterior (sem violência + reparação até denúncia,\nredução 1/3 a 2/3; STJ REsp 1.187.976 comunica coautores); CP 17\ncrime impossível (teoria OBJETIVA TEMPERADA); Súm. 567 STJ."
+description: "Usar para pesquisar ou analisar: Tentativa + Desistência + Arrependimento (CP 14-17). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tentativa e Arrependimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 14: consumação × tentativa
 

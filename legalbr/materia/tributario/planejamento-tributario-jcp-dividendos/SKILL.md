@@ -5,8 +5,8 @@ title: "Planejamento Tributário, JCP e Dividendos (Lei 9.249/95)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/planejamento-tributario-jcp-dividendos.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/planejamento-tributario-jcp-dividendos/SKILL.md"
 triggers:
   - "JCP"
   - "juros sobre capital próprio"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 9.249 JCP dividendos"
   - "Lei 15.270 dividendos"
   - "propósito negocial simulação"
-description: "Distribuição de lucros: dividendos isentos (Lei 9.249 art. 10) +\nJCP (Lei 9.249 art. 9º) + tributação a partir de 2026 (Lei 15.270/25:\nIRRF 10% sobre dividendos > R$ 50k/mês). Planejamento tributário,\npropósito negocial, simulação (CTN 116 par. único) e norma\nantielisiva."
+description: "Usar para pesquisar ou analisar: Planejamento Tributário, JCP e Dividendos (Lei 9.249/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Planejamento Tributário, JCP e Dividendos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura geral
 

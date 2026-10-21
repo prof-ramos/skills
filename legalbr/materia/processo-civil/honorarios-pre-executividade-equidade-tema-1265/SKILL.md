@@ -5,8 +5,8 @@ title: "Honorários em Pré-Executividade com Exclusão do Polo Passivo (Tema 1.
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-pre-executividade-equidade-tema-1265.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-pre-executividade-equidade-tema-1265/SKILL.md"
 triggers:
   - "Tema 1.265 STJ"
   - "honorários exceção pré-executividade"
@@ -14,10 +14,15 @@ triggers:
   - "CPC 85 § 8 honorários"
   - "Súmula 393 STJ"
   - "execução fiscal exclusão polo passivo"
-description: "Tema 1.265 STJ (1ª Seção, 09/07/2025): quando da exceção de\npré-executividade resulta APENAS a exclusão do excipiente do polo\npassivo da execução fiscal, os honorários devem ser fixados por\nAPRECIAÇÃO EQUITATIVA (CPC 85 §8), pois o proveito econômico do\nexcluído é inestimável (o crédito permanece exigível dos demais)."
+description: "Usar para pesquisar ou analisar: Honorários em Pré-Executividade com Exclusão do Polo Passivo (Tema 1.265 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários em Pré-Executividade com Exclusão do Polo Passivo (Tema 1.265 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.265 STJ, 1ª Seção, 09/07/2025)
 

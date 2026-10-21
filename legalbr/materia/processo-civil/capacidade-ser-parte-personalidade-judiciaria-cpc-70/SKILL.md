@@ -5,8 +5,8 @@ title: "Capacidade de Ser Parte e Personalidade Judiciária (CPC 70-76 + Súm. 5
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/capacidade-ser-parte-personalidade-judiciaria-cpc-70.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/capacidade-ser-parte-personalidade-judiciaria-cpc-70/SKILL.md"
 triggers:
   - "capacidade de ser parte"
   - "personalidade judiciária"
@@ -20,10 +20,15 @@ triggers:
   - "irregularidade de representação CPC 76"
   - "consentimento do cônjuge ação real"
   - "massa falida personalidade judiciária"
-description: "Capacidade de ser parte, capacidade de estar em juízo e representação\n(CPC 70-76): incapazes e curador especial (CPC 72), consentimento\nconjugal (CPC 73), rol de representação do CPC 75 (massa falida,\nespólio, condomínio, entes sem personalidade) e saneamento do vício\n(CPC 76). Personalidade judiciária: Súm. 525 + Tema 348 STJ (Câmara\nde Vereadores só defende direitos institucionais) e Tema 702 STJ\n(massa falida)."
+description: "Usar para pesquisar ou analisar: Capacidade de Ser Parte e Personalidade Judiciária (CPC 70-76 + Súm. 525 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Capacidade de Ser Parte, Capacidade Processual e Personalidade Judiciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Três planos distintos
 

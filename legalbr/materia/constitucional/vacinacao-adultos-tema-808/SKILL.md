@@ -5,8 +5,8 @@ title: "Vacinação Compulsória de Adultos (Tema 808 STF + ADIs 6.586/6.587)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/vacinacao-adultos-tema-808.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/vacinacao-adultos-tema-808/SKILL.md"
 triggers:
   - "Tema 808"
   - "ADI 6.586"
@@ -17,10 +17,15 @@ triggers:
   - "passaporte sanitário"
   - "medidas indiretas vacinação"
   - "competência comum saúde"
-description: "Tema 808 STF (ADIs 6.586/6.587 + Lei 13.979/20, Min. Lewandowski,\n17/12/2020): constitucional vacinação compulsória de adultos por\nmedidas INDIRETAS (restrição de atividades, locais), respeitados\ncinco requisitos: lei, base científica, informação, dignidade/\nproporcionalidade, universalidade/gratuidade. Compulsória NÃO é\nforçada. Competência comum entre União, Estados, DF e Municípios."
+description: "Usar para pesquisar ou analisar: Vacinação Compulsória de Adultos (Tema 808 STF + ADIs 6.586/6.587). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vacinação Compulsória de Adultos (Tema 808 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

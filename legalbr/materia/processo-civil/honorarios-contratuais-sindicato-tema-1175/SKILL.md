@@ -5,8 +5,8 @@ title: "Honorários Contratuais + Sindicato + Autorização dos Filiados (Tema 1
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-contratuais-sindicato-tema-1175.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-contratuais-sindicato-tema-1175/SKILL.md"
 triggers:
   - "Tema 1.175 STJ"
   - "honorários contratuais sindicato"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 8.906 art 22 § 7"
   - "05/10/2018 marco temporal"
   - "retenção honorários sindicato"
-description: "Tema 1.175 STJ: PRÉ-05/10/2018 (vigência do art. 22 §7 da Lei\n8.906), o sindicato precisa apresentar CONTRATOS INDIVIDUAIS\ncom cada filiado para reter honorários contratuais. APÓS o marco,\ndispensa-se contrato individual; mas exige-se AUTORIZAÇÃO EXPRESSA\ndo filiado para adesão ao contrato original."
+description: "Usar para pesquisar ou analisar: Honorários Contratuais + Sindicato + Autorização dos Filiados (Tema 1.175 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Contratuais + Sindicato + Autorização dos Filiados (Tema 1.175 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.175 STJ, 13/09/2023)
 

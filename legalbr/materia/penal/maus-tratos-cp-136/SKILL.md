@@ -5,8 +5,8 @@ title: "Maus-Tratos (CP 136)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/maus-tratos-cp-136.md"
+version: 2
+sourcePath: "legalbr/materia/penal/maus-tratos-cp-136/SKILL.md"
 triggers:
   - "CP 136"
   - "maus-tratos"
@@ -17,10 +17,15 @@ triggers:
   - "castigo imoderado"
   - "menor de 14"
   - "Lei Menino Bernardo"
-description: "Maus-tratos CP 136, det. 2m-1a OU multa (caput); §1 lesão grave\nrecl. 1-4; §2 morte recl. 4-12; §3 aumenta 1/3 vítima\nmenor 14; sujeito ativo é quem detém autoridade/guarda/vigilância;\nfinalidade qualquer (educação, ensino, tratamento); concurso com\nLei Maria da Penha; STF/STJ distinguem de lesão e tortura."
+description: "Usar para pesquisar ou analisar: Maus-Tratos (CP 136). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Maus-Tratos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 136 caput)
 

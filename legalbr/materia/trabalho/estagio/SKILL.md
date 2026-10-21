@@ -5,8 +5,8 @@ title: "Estágio (Lei 11.788/2008)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/estagio.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estagio/SKILL.md"
 triggers:
   - "estágio de estudantes"
   - "Lei 11.788/2008"
@@ -15,10 +15,15 @@ triggers:
   - "estagiário vínculo de emprego"
   - "bolsa-auxílio estágio"
   - "recesso do estagiário"
-description: "Estágio sob Lei 11.788/2008 + CF 6º + LDB: ato educativo escolar\nsupervisionado de natureza não empregatícia; requisitos cumulativos\n(matrícula, TCE tripartite, compatibilidade); modalidades obrigatório\ne não obrigatório; jornada, recesso e seguro; descaracterização gera\nvínculo direto com a concedente."
+description: "Usar para pesquisar ou analisar: Estágio (Lei 11.788/2008). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estágio (Lei 11.788/2008)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

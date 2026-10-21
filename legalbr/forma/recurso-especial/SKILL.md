@@ -5,8 +5,8 @@ title: "Recurso Especial (REsp)"
 category: "forma"
 materia: null
 documentType: "recurso-especial"
-version: 4
-sourcePath: "lib/skills/official/forma/recurso-especial.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-especial/SKILL.md"
 triggers:
   - "recurso especial"
   - "REsp ao STJ"
@@ -17,10 +17,15 @@ triggers:
   - "vedação ao reexame de prova Súm. 7 STJ"
   - "filtro de relevância art. 1.035-A CPC"
   - "Lei 15.484/2026"
-description: "Recurso especial ao STJ sob a CF (art. 105, III) e o CPC/15 (arts.\n1.029 a 1.041): hipóteses das alíneas \"a\", \"b\" e \"c\";\nprequestionamento explícito (Súm. 211 STJ) e esgotamento das\ninstâncias ordinárias (oposição obrigatória de EDcl na omissão);\ncotejo analítico no dissídio (alínea \"c\") com paradigma de outro\ntribunal; vedação ao reexame fático-probatório (Súm. 7 STJ); sem\nexigência de repercussão geral, mas com filtro de relevância da\nquestão federal (CPC 1.035-A, Lei 15.484/2026) exigível contra\nacórdãos publicados a partir de 03/09/2026; resumo obrigatório da\npetição (RISTJ art. 343-A, ER 53/2026); risco de sobrestamento em\ntema repetitivo (CPC 1.036)."
+description: "Usar para redigir ou revisar: Recurso Especial (REsp). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Especial (REsp)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e cabimento
 

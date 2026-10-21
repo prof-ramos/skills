@@ -5,8 +5,8 @@ title: "Acordo de Quotistas (CC 1.053 + LSA 118 análoga)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/acordo-quotistas.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/acordo-quotistas/SKILL.md"
 triggers:
   - "acordo de quotistas"
   - "LTDA"
@@ -19,10 +19,15 @@ triggers:
   - "direito de preferência LTDA"
   - "cessão de quotas"
   - "reunião de sócios"
-description: "Acordo de quotistas (CC 1.053 + LSA 118 analógico): governança e voto na LTDA; averbação no contrato social (registro JUCESP) para oponibilidade; cessão de quotas (CC 1.057), preferência, deadlock, put/call, lock-up, tag/drag."
+description: "Usar para pesquisar ou analisar: Acordo de Quotistas (CC 1.053 + LSA 118 análoga). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Quotistas (CC 1.053 + LSA 118 análoga)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

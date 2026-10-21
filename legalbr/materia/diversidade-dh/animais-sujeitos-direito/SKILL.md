@@ -5,8 +5,8 @@ title: "Animais como Sujeitos de Direito + Proteção Jurídica + Crimes Ambient
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/animais-sujeitos-direito.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/animais-sujeitos-direito/SKILL.md"
 triggers:
   - "direitos dos animais"
   - "CF 225 §1 VII"
@@ -18,10 +18,15 @@ triggers:
   - "REsp 1.713.167 STJ"
   - "guarda de pet"
   - "animais sencientes"
-description: "Proteção jurídica dos animais e debate sobre sua natureza (CF 225\n§1 VII vedação de crueldade; CC 82; Lei 9.605/98 art. 32 maus-tratos;\nLei 14.064/2020 Lei Sansão; Lei 11.794/2008 Lei Arouca): paradigma\nem transição para senciência; jurisprudência do STF (vaquejada,\nbriga de galos, EC 96/2017); guarda de pets no divórcio (REsp\n1.713.167 STJ) e dano moral por morte de animal."
+description: "Usar para pesquisar ou analisar: Animais como Sujeitos de Direito + Proteção Jurídica + Crimes Ambientais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Animais como Sujeitos de Direito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

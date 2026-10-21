@@ -5,8 +5,8 @@ title: "Aposentadoria por Idade (Lei 8.213/91 art. 48 + EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-idade.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-idade/SKILL.md"
 triggers:
   - "aposentadoria por idade"
   - "aposentadoria rural"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 1.115 STJ"
   - "idade rural 60 55"
   - "segurado especial economia familiar"
-description: "Aposentadoria por idade (Lei 8.213/91 art. 48; EC 103/2019; Lei\n11.718/2008 híbrida): regra permanente urbana 65H/62M + TC mínimo;\ntransições (idade progressiva, ATC, pontos, pedágios); aposentadoria\nrural (60H/55M para segurado especial, início de prova material);\nhíbrida e Tema 1.007 STJ; cálculo pós EC 103."
+description: "Usar para pesquisar ou analisar: Aposentadoria por Idade (Lei 8.213/91 art. 48 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria por Idade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

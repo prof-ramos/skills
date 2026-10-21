@@ -5,8 +5,8 @@ title: "Ministério Público + Defesa da Ordem Jurídica e Interesses Sociais (T
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/papel-mp-defesa-ordem-tema-1382.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/papel-mp-defesa-ordem-tema-1382/SKILL.md"
 triggers:
   - "Tema 1.382 STF"
   - "Ministério Público"
@@ -18,10 +18,15 @@ triggers:
   - "função institucional MP"
   - "Lei 8.625"
   - "LC 75"
-description: "Tema 1.382 STF (ARE 1.524.619, rel. Min. Alexandre de Moraes,\ntese fixada em 29/04/2026, unânime, com a ACO 1.560): o MP não\npode ser condenado ao pagamento de despesas processuais e\nhonorários de sucumbência, sob pena de ferimento à sua\nindependência e autonomia; encargos de prova pericial requerida\npelo MP são custeados pelo próprio órgão (CF 127 §3 + CPC 91).\nCF 127. Lei 8.625/93 (LONMP) + LC 75/93 (LOMPU)."
+description: "Usar para pesquisar ou analisar: Ministério Público + Defesa da Ordem Jurídica e Interesses Sociais (Tema 1.382 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Papel Constitucional do Ministério Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Sentença Penal: Estrutura e Requisitos (CPP 381-392)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/sentenca-penal-cpp-381.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sentenca-penal-cpp-381/SKILL.md"
 triggers:
   - "sentença penal"
   - "CPP 381"
@@ -18,10 +18,15 @@ triggers:
   - "CPP 384"
   - "valor mínimo de reparação"
   - "Súm. 444 STJ"
-description: "Sentença penal sob CPP 381-392: requisitos formais (381),\nabsolvição (386 I-VII), condenação (387) com valor mínimo de\nreparação (387 IV: pedido com valor na denúncia, REsp 1.986.672/SC\n3ª Seção; Tema 983 STJ na violência doméstica); emendatio (383) e mutatio\nlibelli (384); efeitos da condenação (CP 91-92 + 91-A); dosimetria\n(CP 68); Lei 14.245/2021 e Lei 14.344/2022."
+description: "Usar para pesquisar ou analisar: Sentença Penal: Estrutura e Requisitos (CPP 381-392). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Penal: Estrutura e Requisitos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Requisitos (CPP 381)
 

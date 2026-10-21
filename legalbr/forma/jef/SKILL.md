@@ -5,8 +5,8 @@ title: "Juizado Especial Federal (Lei 10.259/2001)"
 category: "forma"
 materia: null
 documentType: "jef"
-version: 1
-sourcePath: "lib/skills/official/forma/jef.md"
+version: 2
+sourcePath: "legalbr/forma/jef/SKILL.md"
 triggers:
   - "juizado especial federal"
   - "JEF"
@@ -16,10 +16,15 @@ triggers:
   - "competência absoluta até 60 salários mínimos"
   - "causas previdenciárias e contra a União autarquias federais"
   - "pedido de uniformização de jurisprudência"
-description: "JEF sob a Lei 10.259/01 (subsidiária a 9.099/95): competência\nabsoluta até 60 SM contra União, autarquias e fundações federais;\nvedações do art. 3º §1º; tutela antecipada ampla; pagamento por RPV\nem 60 dias; recurso inominado e pedido de uniformização TRU/TNU/STJ."
+description: "Usar para redigir ou revisar: Juizado Especial Federal (Lei 10.259/2001). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juizado Especial Federal (Lei 10.259/2001)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

@@ -5,8 +5,8 @@ title: "Consolidação da Propriedade Fiduciária Imóvel + Lei 13.465/2017 (Tem
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/consolidacao-fiduciaria-lei-13465-tema-1288.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/consolidacao-fiduciaria-lei-13465-tema-1288/SKILL.md"
 triggers:
   - "Tema 1.288 STJ"
   - "alienação fiduciária imóvel consolidação"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 9.514/1997 art 26 27"
   - "consolidação da propriedade fiduciária"
   - "leilão extrajudicial Lei 9.514"
-description: "Tema 1.288 STJ (2ª Seção, 10/12/2025): regimes temporais da\nconsolidação fiduciária imobiliária. ANTES da Lei 13.465/2017,\nconsolidada propriedade + purgada mora = desfaz consolidação,\nretoma contrato. DEPOIS da Lei 13.465/2017, consolidada\npropriedade SEM purga, fiduciante tem apenas DIREITO DE\nPREFERÊNCIA (Lei 9.514 art. 27 §2-B). Marco: data da consolidação\ne da purga."
+description: "Usar para pesquisar ou analisar: Consolidação da Propriedade Fiduciária Imóvel + Lei 13.465/2017 (Tema 1.288 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Consolidação da Propriedade Fiduciária Imóvel + Lei 13.465/2017 (Tema 1.288 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.288 STJ, 2ª Seção, 10/12/2025, Min. Ricardo Villas Bôas Cueva)
 

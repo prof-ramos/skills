@@ -5,8 +5,8 @@ title: "Tutela Cautelar Antecedente (CPC 305 + CPC 300 + CPC 308)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/tutela-provisoria/tutela-cautelar-cpc-305.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tutela-cautelar-cpc-305/SKILL.md"
 triggers:
   - "tutela cautelar"
   - "CPC 305"
@@ -19,10 +19,15 @@ triggers:
   - "antecipada antecedente"
   - "fungibilidade das tutelas"
   - "produção antecipada de prova"
-description: "Tutela cautelar antecedente sob CPC 305 + 300 + 308: assecuratória\ndo resultado útil (diversa da antecipada satisfativa); pedido\nprincipal em 30 dias úteis (CPC 308, STJ Corte Especial 2024);\nfungibilidade (CPC 305 par. único); NÃO comporta estabilização\n(CPC 304 só antecipada); CPC 300 §3 (irreversibilidade mitigada\npela jurisprudência); recurso agravo CPC 1.015 I."
+description: "Usar para pesquisar ou analisar: Tutela Cautelar Antecedente (CPC 305 + CPC 300 + CPC 308). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Cautelar Antecedente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Arquitetura do CPC/2015 (arts. 294-311)
 

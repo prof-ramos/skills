@@ -5,8 +5,8 @@ title: "Entrada em Domicílio sem Mandado + Fundadas Razões (Tema 280 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/entrada-domicilio-flagrante-tema-280-stf.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/entrada-domicilio-flagrante-tema-280-stf/SKILL.md"
 triggers:
   - "entrada domicílio sem mandado"
   - "fundadas razões"
@@ -20,10 +20,15 @@ triggers:
   - "registro audiovisual abordagem"
   - "RE 603.616"
   - "Tema 280 STF"
-description: "Entrada em domicílio sem mandado só é lícita com FUNDADAS RAZÕES\n(CF 5 XI + Tema 280 STF) que indiquem flagrante delito ANTES da\ninvasão. Demonstração POSTERIOR (encontrar droga) NÃO valida.\nTráfico como crime permanente não autoriza entrada genérica.\nConsentimento exige documentação. HC 598.051: registro\naudiovisual recomendado."
+description: "Usar para pesquisar ou analisar: Entrada em Domicílio sem Mandado + Fundadas Razões (Tema 280 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Entrada em Domicílio + Fundadas Razões
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Diretriz consolidada (Tema 280 STF + HC 598.051 STJ)
 

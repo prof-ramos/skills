@@ -5,8 +5,8 @@ title: "Súmula Vinculante 41, Iluminação Pública não pode ser Taxa"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sumula-vinculante-41-iluminacao-publica-taxa.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-41-iluminacao-publica-taxa/SKILL.md"
 triggers:
   - "SV 41"
   - "Súmula Vinculante 41"
@@ -19,10 +19,15 @@ triggers:
   - "EC 39/2002"
   - "uti universi iluminação"
   - "Súm. 670 STF"
-description: "SV 41 STF (11/03/2015): \"O serviço de iluminação pública não\npode ser remunerado mediante taxa.\" Iluminação é uti universi\n(não específica, não divisível), incompatível com CF 145 II;\nreafirma a antiga Súm. 670 STF; RE 573.675 (Tema 44); solução\nconstitucional é a COSIP (CF 149-A + EC 39/2002), tributo sui generis\ncom perfil próprio."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 41, Iluminação Pública não pode ser Taxa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 41, Iluminação Pública não pode ser Taxa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

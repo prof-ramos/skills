@@ -5,8 +5,8 @@ title: "Consulta Fiscal / Tax Ruling"
 category: "forma"
 materia: null
 documentType: "consulta-fiscal"
-version: 1
-sourcePath: "lib/skills/official/forma/consulta-fiscal-tax-ruling.md"
+version: 2
+sourcePath: "legalbr/forma/consulta-fiscal-tax-ruling/SKILL.md"
 triggers:
   - "consulta fiscal"
   - "tax ruling"
@@ -15,10 +15,15 @@ triggers:
   - "consulta à COSIT"
   - "consulta à DISIT"
   - "consulta tributária"
-description: "Consulta fiscal formal a autoridade tributária: Dec. 70.235/72 art.\n46-58, IN RFB 2.058/21 (COSIT) e legislação estadual/municipal.\nEfeitos vinculantes ao consulente (suspende prazo + impede autuação)\n+ reflexo prático em jurisprudência administrativa. Em ICMS/ISS:\nLei 13.988/20 e legislações estaduais (Portaria SEFAZ)."
+description: "Usar para redigir ou revisar: Consulta Fiscal / Tax Ruling. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Consulta Fiscal / Tax Ruling
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

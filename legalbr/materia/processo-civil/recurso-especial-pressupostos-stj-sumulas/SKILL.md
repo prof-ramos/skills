@@ -5,8 +5,8 @@ title: "Recurso Especial e Agravo, Pressupostos (Súmulas STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 4
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-especial-pressupostos-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-especial-pressupostos-stj-sumulas/SKILL.md"
 triggers:
   - "REsp pressupostos"
   - "admissibilidade do recurso especial"
@@ -25,10 +25,15 @@ triggers:
   - "relevância da questão federal"
   - "Lei 15.484/2026"
   - "CPC 1.035-A"
-description: "Recurso especial e agravos, pressupostos pelas súmulas do STJ. Cláusula\ncontratual e prova (Súm. 5 e 7); divergência (13, 83, 158); duplo grau e via\nordinária (207); prequestionamento (211, 282 STF); embargos de declaração e\nratificação (98, 418, 579); intempestividade (216); peça obrigatória (223);\ndivergência cancelada matéria; relator monocrático (568); embargos de divergência\n(315, 316, 320, 518); relevância da questão federal (CPC\n1.035-A, Lei 15.484/2026, exigível a partir de 03/09/2026)."
+description: "Usar para pesquisar ou analisar: Recurso Especial e Agravo, Pressupostos (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Especial, Pressupostos (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

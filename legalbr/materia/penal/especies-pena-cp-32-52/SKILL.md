@@ -5,8 +5,8 @@ title: "Espécies de Pena + Regimes (CP 32-58 + LEP 112 + Pacote Anticrime)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/especies-pena-cp-32-52.md"
+version: 2
+sourcePath: "legalbr/materia/penal/especies-pena-cp-32-52/SKILL.md"
 triggers:
   - "espécies de pena"
   - "CP 32"
@@ -20,10 +20,15 @@ triggers:
   - "dias-multa"
   - "Tema 1.068 STF"
   - "execução multa MP"
-description: "Espécies de pena CP 32: PPL + PRD + MULTA; CP 33 regimes\n(fechado/semiaberto/aberto: reclusão admite todos / detenção\nsemi+aberto); SV 56 STF (falta de vaga não retém em regime\nsevero); LEP 112 vigente (Leis 15.358/15.402 de 2026: regra geral\n1/6; 25/30/20%; hediondos 70/75/80/85%); frações da Lei 13.964/19\n(16-70%) regem fatos anteriores, por irretroatividade;\nLei 13.964 execução multa pelo MP (Fazenda\nsubsidiária após 90d); Tema 1.068 STF júri; Tema 1.405 STJ multa."
+description: "Usar para pesquisar ou analisar: Espécies de Pena + Regimes (CP 32-58 + LEP 112 + Pacote Anticrime). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Espécies de Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 32: TRIPARTIÇÃO
 

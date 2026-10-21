@@ -5,8 +5,8 @@ title: "Intimação Pessoal e Termo Inicial do Prazo Recursal do MP e da Defenso
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/intimacao-pessoal-mp-defensoria-prazo-tema-959.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/intimacao-pessoal-mp-defensoria-prazo-tema-959/SKILL.md"
 triggers:
   - "Tema 959 STJ"
   - "Súm. 710 STF"
@@ -17,10 +17,15 @@ triggers:
   - "prazo em dobro Defensoria processo penal"
   - "tempestividade apelação Ministério Público"
   - "CPP 798 prazos"
-description: "Tema 959 STJ (3ª Seção, 23/08/2017): o termo inicial do prazo do MP para\nimpugnar decisão é a data da ENTREGA DOS AUTOS na repartição do órgão,\nirrelevante a intimação em audiência, cartório ou mandado; extensão à\nDefensoria (HC 296.759, julgado conjunto). Súm. 710 STF: prazos do CPP\ncontam da intimação, não da juntada do mandado. CPP 370 §4 + LC 75 18 II\n\"h\" + Lei 8.625 41 IV + LC 80 44 I e 128 I (dobro para DP)."
+description: "Usar para pesquisar ou analisar: Intimação Pessoal e Termo Inicial do Prazo Recursal do MP e da Defensoria (Tema 959 STJ + Súm. 710 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intimação Pessoal e Termo Inicial do Prazo Recursal do MP e da Defensoria (Tema 959 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 959 STJ)
 

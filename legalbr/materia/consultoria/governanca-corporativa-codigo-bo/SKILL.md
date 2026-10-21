@@ -5,8 +5,8 @@ title: "Governança Corporativa: Código + Conselho + Diretoria"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/governanca-corporativa-codigo-bo.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/governanca-corporativa-codigo-bo/SKILL.md"
 triggers:
   - "governança corporativa"
   - "código IBGC"
@@ -16,10 +16,15 @@ triggers:
   - "regimento interno"
   - "business judgment rule"
   - "LSA 153"
-description: "Governança corporativa em S.A. e Ltda.: pilares (transparência,\nequidade, prestação de contas, responsabilidade corporativa),\nestrutura (assembleia + conselho + diretoria + comitês +\nauditoria + compliance), deveres fiduciários (LSA 153-159,\ndiligência, lealdade, informar, conflito), business judgment\nrule (LSA 159 §6 + jurisprudência), Código IBGC, Novo Mercado\nB3, CVM RCVM 80/22 + Pareceres de Orientação."
+description: "Usar para pesquisar ou analisar: Governança Corporativa: Código + Conselho + Diretoria. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Governança Corporativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Referências
 

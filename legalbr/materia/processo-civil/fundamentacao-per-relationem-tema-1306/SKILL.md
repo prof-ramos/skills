@@ -5,8 +5,8 @@ title: "Fundamentação por Referência / per relationem (Tema 1.306 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/fundamentacao-per-relationem-tema-1306.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/fundamentacao-per-relationem-tema-1306/SKILL.md"
 triggers:
   - "Tema 1.306 STJ"
   - "fundamentação per relationem"
@@ -16,10 +16,15 @@ triggers:
   - "reprodução fundamentos decisão agravada"
   - "razões de decidir parecer"
   - "dever de fundamentação"
-description: "Tema 1.306 STJ (Corte Especial): fundamentação per\nrelationem é VÁLIDA quando o julgador enfrenta, ainda que de\nforma sucinta, as questões NOVAS relevantes. A reprodução dos\nfundamentos da decisão agravada (CPC 1.021 §3) é admitida quando\na parte NÃO apresenta argumento novo. Vedada a \"per relationem\npura\" (mera transcrição sem análise dos argumentos)."
+description: "Usar para pesquisar ou analisar: Fundamentação por Referência / per relationem (Tema 1.306 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fundamentação por Referência / per relationem (Tema 1.306 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.306 STJ, Corte Especial)
 

@@ -5,8 +5,8 @@ title: "Rescisão de Plano Coletivo Empresarial com Menos de 30 Vidas (Tema 1.04
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/rescisao-plano-coletivo-menos-30-vidas-tema-1047.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/rescisao-plano-coletivo-menos-30-vidas-tema-1047/SKILL.md"
 triggers:
   - "plano coletivo empresarial menos de 30 vidas"
   - "29 vidas plano de saúde"
@@ -19,10 +19,15 @@ triggers:
   - "microempresa plano saúde"
   - "PME plano saúde"
   - "estipulante pequena empresa"
-description: "Tema 1.047 STJ (j. 05/03/2026): a rescisão unilateral pela operadora\nde plano coletivo empresarial com menos de 30 beneficiários\nexige MOTIVAÇÃO IDÔNEA (objetiva, técnica, atuarial). Mera\nconveniência ou alegação genérica de desequilíbrio são insuficientes.\nPool de risco (RN ANS 309/2012) integra a análise. Não confundir\ncom Tema 1.082 (continuidade) nem 1.365 (dano moral)."
+description: "Usar para pesquisar ou analisar: Rescisão de Plano Coletivo Empresarial com Menos de 30 Vidas (Tema 1.047 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Rescisão de Plano Coletivo com Menos de 30 Vidas (Tema 1.047 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.047 STJ)
 

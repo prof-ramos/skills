@@ -5,8 +5,8 @@ title: "Poder de Controle e Responsabilidade do Acionista Controlador (LSA 115-1
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/abuso-poder-controle-lsa-116.md"
+version: 2
+sourcePath: "legalbr/materia/societario/abuso-poder-controle-lsa-116/SKILL.md"
 triggers:
   - "acionista controlador"
   - "abuso de poder de controle"
@@ -19,10 +19,15 @@ triggers:
   - "sociedade controladora responsabilidade"
   - "bloco de controle"
   - "prêmio de controle minoritários"
-description: "Regime do acionista controlador na Lei 6.404/76: definição e deveres\n(LSA 116), voto abusivo e conflito de interesses (LSA 115), modalidades\nde abuso de poder de controle (LSA 117, §1º), ação de reparação contra\na controladora (LSA 246: 5% ou caução, prêmio de 5% + honorários de\n20%), tag along de 80% na alienação de controle (LSA 254-A) e OPA por\npreço justo no fechamento de capital (LSA 4º, §4º). Prescrição trienal\n(LSA 287, II, b)."
+description: "Usar para pesquisar ou analisar: Poder de Controle e Responsabilidade do Acionista Controlador (LSA 115-117 + 246 + 254-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Poder de Controle e Responsabilidade do Acionista Controlador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Transplante de Órgãos e Tecidos (Lei 9.434/97 + Dec. 9.175/2017)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/transplante-orgaos-lei-9434.md"
+version: 2
+sourcePath: "legalbr/materia/saude/transplante-orgaos-lei-9434/SKILL.md"
 triggers:
   - "transplante órgãos"
   - "Lei 9.434"
@@ -18,10 +18,15 @@ triggers:
   - "Decreto 9.175"
   - "lista única de transplante"
   - "tráfico de órgãos"
-description: "Transplante de órgãos e tecidos: Lei 9.434/1997 + Decreto 9.175/2017\n(revogou Dec. 2.268/97). Sistema Nacional de Transplantes (SNT/MS).\n**Modalidades**: doador **vivo** (parente até 4º grau ou cônjuge sem\nautorização judicial; outros só judicial) ou **doador falecido**\n(após morte encefálica, ME, Reso CFM 2.173/2017). **Autorização\nfamiliar é obrigatória** (Dec. 9.175/17 derrubou o consentimento\npresumido). **Lista única SNT**: critérios técnicos (urgência,\nhistocompatibilidade, ordem). **Crimes**: comércio de órgãos (Lei\n9.434 art. 14-20) + tráfico (Lei 13.344). Ressarcimento + transporte\n+ custos SUS. Vedação à compra/venda. STF reconheceu direito\nfundamental dos pacientes em lista."
+description: "Usar para pesquisar ou analisar: Transplante de Órgãos e Tecidos (Lei 9.434/97 + Dec. 9.175/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transplante de Órgãos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Intervenção, Liquidação Extrajudicial e RAET de Instituições Finan
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/intervencao-liquidacao-extrajudicial-raet-lei-6024.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/intervencao-liquidacao-extrajudicial-raet-lei-6024/SKILL.md"
 triggers:
   - "liquidação extrajudicial banco"
   - "intervenção Banco Central"
@@ -19,10 +19,15 @@ triggers:
   - "FGC fundo garantidor de créditos"
   - "garantia FGC 250 mil"
   - "falência de instituição financeira"
-description: "Regimes de resolução de instituições financeiras: intervenção e liquidação\nextrajudicial (Lei 6.024/74), RAET (DL 2.321/87) e responsabilidade\nsolidária de controladores (Lei 9.447/97). Efeitos do art. 18, indisponibilidade\nde bens (art. 36), inquérito do BCB e ação de responsabilidade (arts. 39-46),\nfalência derivada (art. 21, b, c/c LRF arts. 2º, II, e 197) e garantia\nordinária do FGC (R$ 250 mil, Res. CMN 4.222/2013)."
+description: "Usar para pesquisar ou analisar: Intervenção, Liquidação Extrajudicial e RAET de Instituições Financeiras (Lei 6.024/74 + DL 2.321/87). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intervenção, Liquidação Extrajudicial e RAET de Instituições Financeiras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

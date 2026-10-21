@@ -5,8 +5,8 @@ title: "Porte de Drogas para Uso Pessoal (Tema 506 STF + RE 635.659)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/porte-drogas-uso-tema-506.md"
+version: 2
+sourcePath: "legalbr/materia/penal/porte-drogas-uso-tema-506/SKILL.md"
 triggers:
   - "Tema 506 STF"
   - "RE 635.659"
@@ -17,10 +17,15 @@ triggers:
   - "descriminalização porte maconha"
   - "seis plantas fêmeas"
   - "reincidência drogas"
-description: "Tema 506 STF (RE 635.659, Min. Gilmar Mendes, 26/06/2024):\ndescriminalização do porte de CANNABIS SATIVA para uso pessoal.\nPresunção relativa de uso até 40g ou 6 plantas-fêmeas. Mantida\nilicitude extrapenal (apreensão + sanções não penais arts. 28 I e\nIII). Aplica-se aos processos em curso e em execução. NÃO alcança\noutras drogas. NÃO é legalização. JECrim mantido para procedimento."
+description: "Usar para pesquisar ou analisar: Porte de Drogas para Uso Pessoal (Tema 506 STF + RE 635.659). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Porte de Drogas para Uso Pessoal (Tema 506 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

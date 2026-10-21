@@ -5,18 +5,23 @@ title: "Audiência de Custódia (Res. CNJ 213 + CPP 287 + CADH)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/audiencia-custodia-cnj-213.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/audiencia-custodia-cnj-213/SKILL.md"
 triggers:
   - "audiência de custódia"
   - "Resolução CNJ 213/2015"
   - "CPP art. 287"
   - "CADH art. 7"
   - "controle prisão flagrante"
-description: "Audiência de custódia (Res. CNJ 213/2015 + CPP 287, Lei\n12.403/11): direito do preso em flagrante a ser apresentado\nao juiz em até 24 HORAS. CF 5 LXII + LXV + LXVI. CADH\nart. 7. Análise: relaxamento + conversão em preventiva +\nliberdade provisória + medidas cautelares. Cabe HC se\ndescumprida."
+description: "Usar para pesquisar ou analisar: Audiência de Custódia (Res. CNJ 213 + CPP 287 + CADH). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Custódia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

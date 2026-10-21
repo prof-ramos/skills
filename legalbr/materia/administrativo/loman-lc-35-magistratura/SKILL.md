@@ -5,8 +5,8 @@ title: "LOMAN, Estatuto da Magistratura (LC 35/1979 + CF 93-95 + EC 45/2004)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/loman-lc-35-magistratura.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/loman-lc-35-magistratura/SKILL.md"
 triggers:
   - "LOMAN"
   - "LC 35/1979"
@@ -21,10 +21,15 @@ triggers:
   - "LC 152/2015"
   - "aposentadoria compulsória 75"
   - "CNJ CF 103-B"
-description: "LOMAN LC 35/1979 (recepcionada + projeto novo Estatuto pendente);\nCF 93 ingresso concurso + 3 anos atividade jurídica; CF 95 3\ngarantias (VITALICIEDADE 2a + INAMOVIBILIDADE 2/3 + irredutibilidade);\nCF 95 par. único 5 vedações (outro cargo + custas + política +\nQUARENTENA 3 anos + auxílios); promoção antiguidade/merecimento;\nCNJ CF 103-B; LC 152/2015 aposentadoria 75 anos."
+description: "Usar para pesquisar ou analisar: LOMAN, Estatuto da Magistratura (LC 35/1979 + CF 93-95 + EC 45/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LOMAN, Estatuto da Magistratura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

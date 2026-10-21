@@ -5,8 +5,8 @@ title: "Danos Psíquicos e Saúde Mental"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/danos-psiquicos.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/danos-psiquicos/SKILL.md"
 triggers:
   - "dano psíquico"
   - "dano à saúde mental"
@@ -18,10 +18,15 @@ triggers:
   - "dano existencial"
   - "perícia psiquiátrica"
   - "burnout"
-description: "Danos psíquicos como categoria autônoma à saúde mental (CC\n186, 927 e 949 + CDC 14): lesão objetivável com diagnóstico\nclínico (TEPT, depressão, burnout), distinta do dano moral\npuro; prova pericial (CPC 464-480); cumulação com moral,\nestético e material; quantificação pelo método bifásico STJ."
+description: "Usar para pesquisar ou analisar: Danos Psíquicos e Saúde Mental. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Danos Psíquicos e Saúde Mental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

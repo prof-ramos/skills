@@ -5,8 +5,8 @@ title: "Defesa Técnica Obrigatória (CPP 261-263)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/defesa-tecnica-cpp-261-263.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/defesa-tecnica-cpp-261-263/SKILL.md"
 triggers:
   - "defesa técnica"
   - "CPP 261"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 707 STF"
   - "Súm. 708 STF"
   - "autodefesa"
-description: "Defesa técnica obrigatória (CF 5º LXIII + CPP 261-263): nenhum acusado\nfica sem defensor; defesa técnica é IRRENUNCIÁVEL; autodefesa é\nfacultativa; intimação pessoal do defensor (CPP 263 §único); SÚM. 523\nSTF (NULIDADE absoluta por ausência de defesa, RELATIVA por defesa\ndeficiente com prejuízo); SÚM. 707 + 708 STF; defensor dativo\npago pelo Estado; DP atendimento institucional."
+description: "Usar para pesquisar ou analisar: Defesa Técnica Obrigatória (CPP 261-263). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa Técnica Obrigatória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

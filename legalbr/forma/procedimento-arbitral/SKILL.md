@@ -5,8 +5,8 @@ title: "Procedimento Arbitral"
 category: "forma"
 materia: null
 documentType: "procedimento-arbitral"
-version: 1
-sourcePath: "lib/skills/official/forma/procedimento-arbitral.md"
+version: 2
+sourcePath: "legalbr/forma/procedimento-arbitral/SKILL.md"
 triggers:
   - "procedimento arbitral"
   - "Lei de Arbitragem 9.307/96 e Lei 13.129/2015"
@@ -15,10 +15,15 @@ triggers:
   - "cláusula cheia e cláusula vazia"
   - "câmara arbitral e sentença arbitral"
   - "carta arbitral ao Judiciário"
-description: "Arbitragem sob a Lei 9.307/96 (com Lei 13.129/15): jurisdição\nprivada sobre direitos patrimoniais disponíveis; convenção\narbitral (cláusula compromissória e compromisso); kompetenz-\nkompetenz; árbitros e dever de revelação; tutela de urgência\npré e pós-instauração; sentença como título executivo judicial e\nação de anulação em 90 dias."
+description: "Usar para redigir ou revisar: Procedimento Arbitral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procedimento Arbitral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

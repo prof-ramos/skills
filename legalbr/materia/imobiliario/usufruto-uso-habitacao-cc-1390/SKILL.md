@@ -5,8 +5,8 @@ title: "Usufruto + Uso + Habitação (CC 1.390-1.416)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/usufruto-uso-habitacao-cc-1390.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/usufruto-uso-habitacao-cc-1390/SKILL.md"
 triggers:
   - "usufruto vitalício"
   - "CC 1.390"
@@ -20,10 +20,15 @@ triggers:
   - "reserva de usufruto"
   - "companheiro habitação"
   - "não uso usufruto"
-description: "Usufruto CC 1.390 (real + temporário + personalíssimo + inalienável);\nCC 1.393 VEDA usufruto SUCESSIVO; CC 1.410 PJ máx 30 anos / PF\nvitalício; extinção por NÃO USO (STJ REsp 1.179.259: dispensa\nprazo legal); CC 1.412 USO + CC 1.414-1.416 HABITAÇÃO (gratuita\nresidencial); CC 1.831 cônjuge + COMPANHEIRO equiparado (Lei\n9.278/96 art. 7 + STJ REsp 1.220.838); jurisprudência do STJ\nimpede alienação judicial do imóvel gravado com habitação."
+description: "Usar para pesquisar ou analisar: Usufruto + Uso + Habitação (CC 1.390-1.416). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Usufruto + Uso + Habitação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.390: USUFRUTO
 

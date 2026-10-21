@@ -5,8 +5,8 @@ title: "Cumprimento Provisório de Sentença (CPC 520-522)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/cumprimento-provisorio-cpc-520.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumprimento-provisorio-cpc-520/SKILL.md"
 triggers:
   - "cumprimento provisório"
   - "CPC 520"
@@ -17,10 +17,15 @@ triggers:
   - "responsabilidade objetiva exequente"
   - "execucao provisoria da sentenca"
   - "dispensa de caucao"
-description: "Cumprimento provisório sob CPC 520-522: execução de sentença\nimpugnada por recurso sem efeito suspensivo; iniciativa + conta\n+ responsabilidade do exequente; caução para levantamento/\nalienação (CPC 520 IV), com dispensa nas hipóteses do CPC 521\n(alimentos + ato ilícito até 60 SM + súmula STF/STJ + REsp/RE\nadmitido); Tema 743 STJ: astreintes só após trânsito favorável."
+description: "Usar para pesquisar ou analisar: Cumprimento Provisório de Sentença (CPC 520-522). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento Provisório de Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Pressupostos
 

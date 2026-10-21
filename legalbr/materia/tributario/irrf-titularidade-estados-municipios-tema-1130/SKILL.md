@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irrf-titularidade-estados-municipios-tema-1130.md"
+sourcePath: "legalbr/materia/tributario/irrf-titularidade-estados-municipios-tema-1130/SKILL.md"
 triggers:
   - "titularidade do IRRF"
   - "IRRF municípios"
@@ -19,10 +19,15 @@ triggers:
   - "CF 157 imposto de renda"
   - "CF 158 imposto de renda"
   - "Súmula 447 STJ"
-description: "Titularidade do IR retido na fonte por Estados, DF e Municípios (CF 157 I e\n158 I): Tema 364 STF (rendimentos pagos a qualquer título), Tema 1.130 STF (RE\n1.293.453: alcança pagamentos a PF/PJ contratadas para bens e serviços), Tema\n572 STF (Justiça Estadual, sem interesse da União), Súm. 447/Tema 193 STJ\n(legitimidade passiva do Estado) e limite das estatais (ACO 571 AgR)."
+description: "Usar para pesquisar ou analisar: IRRF: Titularidade de Estados e Municípios (CF 157 I e 158 I + Temas 364, 572 e 1.130 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRRF: Titularidade de Estados, DF e Municípios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

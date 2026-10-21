@@ -5,8 +5,8 @@ title: "Inquérito Judicial para Apuração de Falta Grave"
 category: "forma"
 materia: null
 documentType: "inquerito-judicial-falta-grave"
-version: 1
-sourcePath: "lib/skills/official/forma/inquerito-judicial-falta-grave.md"
+version: 2
+sourcePath: "legalbr/forma/inquerito-judicial-falta-grave/SKILL.md"
 triggers:
   - "inquérito judicial para apuração de falta grave"
   - "falta grave de empregado estável"
@@ -15,10 +15,15 @@ triggers:
   - "empregado detentor de estabilidade"
   - "suspensão prévia do empregado art. 494 CLT"
   - "prazo decadencial de 30 dias para ajuizar"
-description: "Inquérito judicial (CLT 853-855 e 494): único meio para demitir empregado\nestável (dirigente sindical, CIPA, gestante, CCP); 30 dias; suspensão prévia\nobrigatória (494); Súm. 244, 339, 369, 379 TST."
+description: "Usar para redigir ou revisar: Inquérito Judicial para Apuração de Falta Grave. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inquérito Judicial para Apuração de Falta Grave
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e finalidade
 

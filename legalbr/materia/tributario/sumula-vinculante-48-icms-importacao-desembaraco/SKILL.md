@@ -5,8 +5,8 @@ title: "Súmula Vinculante 48, ICMS Importação no Desembaraço Aduaneiro"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/sumula-vinculante-48-icms-importacao-desembaraco.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-48-icms-importacao-desembaraco/SKILL.md"
 triggers:
   - "SV 48"
   - "Súmula Vinculante 48"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 661 STF"
   - "pessoa física não habitualizada"
   - "Tema 1042"
-description: "SV 48 STF (27/05/2015): \"Na entrada de mercadoria importada\ndo exterior, é legítima a cobrança do ICMS por ocasião do\ndesembaraço aduaneiro.\" Conversão da Súm. 661 STF; CF 155 §2\nIX a (EC 33/2001) + LC 87/1996 art. 12 IX; alcança PF/PJ não\nhabitualizada; Tema 1042 (RE 1.090.591) reforça vinculação."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 48, ICMS Importação no Desembaraço Aduaneiro. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 48, ICMS Importação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

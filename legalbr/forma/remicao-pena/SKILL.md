@@ -5,8 +5,8 @@ title: "Pedido de Remição de Pena"
 category: "forma"
 materia: null
 documentType: "remicao-pena"
-version: 1
-sourcePath: "lib/skills/official/forma/remicao-pena.md"
+version: 2
+sourcePath: "legalbr/forma/remicao-pena/SKILL.md"
 triggers:
   - "remição"
   - "remição pelo trabalho"
@@ -16,10 +16,15 @@ triggers:
   - "LEP 126"
   - "Súm. 562 STJ"
   - "Súm. 341 STJ"
-description: "Remição de pena (LEP 126-130): trabalho 1 dia para cada 3 trabalhados;\nestudo 1 dia para cada 12h em 3 dias; leitura (Res. CNJ 391/2021)\naté 48 dias/ano; aplicação a regime fechado, semiaberto, aberto E\nlivramento condicional (Lei 13.163/2015); falta GRAVE pode reduzir\nATÉ 1/3 (LEP 127 + Súm. 441 STJ); contagem retroativa para nova\nbase do tempo cumprido (Súm. 562 STJ)."
+description: "Usar para redigir ou revisar: Pedido de Remição de Pena. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Remição de Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

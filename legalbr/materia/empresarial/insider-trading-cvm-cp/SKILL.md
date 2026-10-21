@@ -5,8 +5,8 @@ title: "Insider Trading (CVM e Criminal)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/insider-trading-cvm-cp.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/insider-trading-cvm-cp/SKILL.md"
 triggers:
   - "insider trading"
   - "art. 27-D Lei 6.385"
@@ -18,10 +18,15 @@ triggers:
   - "insider primário secundário"
   - "tipping"
   - "mosaic theory"
-description: "Insider trading no Brasil: tipo penal (Lei 6.385 art. 27-D, pena 1 a 5\nanos + multa de 3x a vantagem) + ilícito administrativo (Lei 6.385\nart. 4 IV; Res. CVM 44/21; Res. CVM 80/22). Sujeito ativo: insider\nprimário (administradores, controladores, conselheiros, empregados,\nprestadores) e secundário (tippee). Janelas de bloqueio (15 dias\npré-divulgação de balanços; durante negociação em curso). Plano de\nnegociação (Res. CVM 44 art. 16: safe harbor estilo 10b5-1). Dever\nde divulgação de fato relevante (Res. CVM 44 arts. 2-12). Presunções\nadministrativas + tipping ascendente e descendente."
+description: "Usar para pesquisar ou analisar: Insider Trading (CVM e Criminal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Insider Trading (CVM e Criminal)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

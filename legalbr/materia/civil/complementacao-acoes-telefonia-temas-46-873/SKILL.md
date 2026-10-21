@@ -5,8 +5,8 @@ title: "Complementação de Ações de Telefonia: VPA, Dividendos e Liquidação
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/complementacao-acoes-telefonia-temas-46-873.md"
+version: 2
+sourcePath: "legalbr/materia/civil/complementacao-acoes-telefonia-temas-46-873/SKILL.md"
 triggers:
   - "complementação de ações telefonia"
   - "contrato de participação financeira"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 658 STJ"
   - "dividendos telefonia perdas e danos"
   - "subscrição complementar de ações"
-description: "Ações de complementação acionária de telefonia (CRT, Celular CRT, Brasil Telecom,\nTelebrás/Telesp): VPA do balancete do mês da integralização (Tema 46/Súm. 371),\nconversão em perdas e danos e dividendos (Temas 658, 659, 741), dividendos sem\npedido expresso (Tema 873/Súm. 551), prescrição (Tema 309) e critérios de liquidação."
+description: "Usar para pesquisar ou analisar: Complementação de Ações de Telefonia: VPA, Dividendos e Liquidação (Temas 46, 309, 658, 659, 741 e 873 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Complementação de Ações de Telefonia (Temas 46, 309, 658, 659, 741 e 873 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Contexto do litígio
 

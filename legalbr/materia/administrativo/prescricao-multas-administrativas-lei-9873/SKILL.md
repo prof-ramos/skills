@@ -5,8 +5,8 @@ title: "Prescrição e Decadência das Multas Administrativas (Lei 9.873/1999 + 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/prescricao-multas-administrativas-lei-9873.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/prescricao-multas-administrativas-lei-9873/SKILL.md"
 triggers:
   - "Lei 9.873 prescrição"
   - "prescrição da ação punitiva administrativa"
@@ -19,10 +19,15 @@ triggers:
   - "execução fiscal de multa administrativa"
   - "multa ANTT prescrição"
   - "Tema 200 STJ INMETRO"
-description: "Os três prazos das multas administrativas federais (Lei 9.873/99):\ndecadência quinquenal para constituir o crédito (Temas 324-327 STJ),\nprescrição intercorrente trienal no processo paralisado (art. 1 §1, Tema\n328) e prescrição quinquenal da execução após o término do processo\n(art. 1-A, Temas 135 e 329-331); marcos interruptivos e inaplicabilidade\na estados e municípios (Tema 1.294, skill própria)."
+description: "Usar para pesquisar ou analisar: Prescrição e Decadência das Multas Administrativas (Lei 9.873/1999 + Temas 324 a 331 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição e Decadência das Multas Administrativas (Lei 9.873/1999)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Regime dos prazos extintivos da pretensão punitiva e executória da Administração Pública **FEDERAL** no exercício do poder de polícia (IBAMA, ANTT, ANVISA, ANATEL, INMETRO, BACEN, CVM e demais órgãos e agências). As minutas costumam embaralhar três prazos distintos: separá-los é o núcleo desta skill.
 

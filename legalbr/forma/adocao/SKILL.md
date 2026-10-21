@@ -5,8 +5,8 @@ title: "Ação de Adoção"
 category: "forma"
 materia: null
 documentType: "adocao"
-version: 1
-sourcePath: "lib/skills/official/forma/adocao.md"
+version: 2
+sourcePath: "legalbr/forma/adocao/SKILL.md"
 triggers:
   - "adoção"
   - "habilitação à adoção"
@@ -14,10 +14,15 @@ triggers:
   - "art. 39 ECA"
   - "estágio de convivência"
   - "adoção unilateral"
-description: "Adoção (ECA 39-52-D; Lei 13.509/17): medida excepcional e irrevogável; idade\nmínima 18 e diferença de 16 anos; cadastro prévio; estágio de convivência;\nadmite homoafetiva (ADPF 132 e ADI 4.277 STF) e internacional (Conv. Haia)."
+description: "Usar para redigir ou revisar: Ação de Adoção. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Adoção
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

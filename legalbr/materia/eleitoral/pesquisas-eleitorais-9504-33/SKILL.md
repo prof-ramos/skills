@@ -5,8 +5,8 @@ title: "Pesquisas Eleitorais (Lei 9.504 art. 33 + Reso TSE)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/pesquisas-eleitorais-9504-33.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/pesquisas-eleitorais-9504-33/SKILL.md"
 triggers:
   - "pesquisas eleitorais"
   - "art 33 Lei 9504"
@@ -18,10 +18,15 @@ triggers:
   - "sondagem eleitoral"
   - "divulgação pesquisa fraudulenta"
   - "crime pesquisa eleitoral"
-description: "Pesquisas eleitorais, **Lei 9.504/97 art. 33**: registro\n**obrigatório** no TSE/TRE **5 dias antes** da divulgação.\nInformações (incisos I-VII): contratante, valor +\norigem dos recursos, **metodologia**, plano amostral + ponderação\n(sexo, idade, grau de instrução, nível econômico, área), intervalo\nde confiança, **margem de erro**, sistema de controle, questionário,\nnota fiscal. **Crime de divulgação fraudulenta** (art. 33 §4):\ndetenção 6 meses-1 ano + multa. Divulgação sem registro: multa do\n§3. **Enquetes vedadas no período de campanha** (§5). Censura\nprévia vedada: o TSE não controla conteúdo e atua mediante\nrepresentação. Aplicação a sondagens + tracking + boca de urna."
+description: "Usar para pesquisar ou analisar: Pesquisas Eleitorais (Lei 9.504 art. 33 + Reso TSE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pesquisas Eleitorais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

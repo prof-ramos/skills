@@ -5,8 +5,8 @@ title: "Descaracterização da Mora por Encargos Abusivos (Tema 28 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/descaracterizacao-mora-encargos-tema-28.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/descaracterizacao-mora-encargos-tema-28/SKILL.md"
 triggers:
   - "Tema 28 STJ"
   - "REsp 1.061.530"
@@ -21,10 +21,15 @@ triggers:
   - "encargos da normalidade"
   - "encargos da inadimplência"
   - "revisional contrato bancário"
-description: "Tema 28 STJ (REsp 1.061.530/RS): a abusividade de encargos da\nNORMALIDADE (juros remuneratórios + capitalização) DESCARACTERIZA\na mora. Tema 972 limita: abusividade de encargos ACESSÓRIOS\n(tarifas, seguro, gravame) NÃO descaracteriza a mora."
+description: "Usar para pesquisar ou analisar: Descaracterização da Mora por Encargos Abusivos (Tema 28 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descaracterização da Mora por Encargos Abusivos (Tema 28 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 28 STJ)
 

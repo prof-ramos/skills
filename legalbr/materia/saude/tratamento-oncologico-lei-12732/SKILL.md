@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/tratamento-oncologico-lei-12732.md"
+sourcePath: "legalbr/materia/saude/tratamento-oncologico-lei-12732/SKILL.md"
 triggers:
   - "tratamento oncológico"
   - "câncer"
@@ -21,10 +21,15 @@ triggers:
   - "Lei 13.896/2019"
   - "AF-Onco Portaria 12.085/2026"
   - "central diluição oncologia SUS"
-description: "Prazos de 60 dias para tratamento e 30 dias para diagnóstico oncológico no SUS, judicialização e AF-Onco. A Portaria GM/MS 12.085/2026 organiza centrais de diluição, sem criar direito autônomo a fármaco."
+description: "Usar para pesquisar ou analisar: Tratamento Oncológico, Lei 12.732/2012 (60 dias) + Tema 1.234 STF. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tratamento Oncológico, Lei dos 60 Dias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Abandono de Função (CP 323) + Tipos Funcionais Próximos"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/abandono-funcao-cp-323.md"
+version: 2
+sourcePath: "legalbr/materia/penal/abandono-funcao-cp-323/SKILL.md"
 triggers:
   - "CP 323"
   - "abandono função"
@@ -18,10 +18,15 @@ triggers:
   - "condescendência criminosa"
   - "conceito de funcionário público"
   - "dever de função"
-description: "CP 323 abandono de função, det. 15d-1m + multa (caput); §1\nqualificado se resulta prejuízo público (det. 3m-1a + multa); §2\nabandono em fronteira (det. 1-3); CP 320 condescendência\ncriminosa; CP 324 exercício funcional ilegalmente prolongado;\nCP 325 violação sigilo funcional (skill própria); CP 326 violação\nsigilo de concorrência, det. 3m-1a; bem jurídico Administração."
+description: "Usar para pesquisar ou analisar: Abandono de Função (CP 323) + Tipos Funcionais Próximos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Abandono de Função e Tipos Funcionais Próximos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 323: Abandono de função
 

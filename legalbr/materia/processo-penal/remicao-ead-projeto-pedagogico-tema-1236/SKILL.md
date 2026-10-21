@@ -5,8 +5,8 @@ title: "Remição por EAD + Integração ao PPP Prisional (Tema 1.236 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/remicao-ead-projeto-pedagogico-tema-1236.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/remicao-ead-projeto-pedagogico-tema-1236/SKILL.md"
 triggers:
   - "Tema 1.236 STJ"
   - "remição EAD educação distância"
@@ -14,10 +14,15 @@ triggers:
   - "credenciamento MEC EAD"
   - "LEP 126 estudo EAD"
   - "curso a distância remição"
-description: "Tema 1.236 STJ (3ª Seção, 06/11/2025): a remição de pena por\nEAD demanda a PRÉVIA INTEGRAÇÃO do curso ao Projeto Político-\nPedagógico (PPP) da unidade prisional. NÃO basta o credenciamento\nda instituição junto ao MEC. Exige comprovação de frequência e\nrealização das atividades."
+description: "Usar para pesquisar ou analisar: Remição por EAD + Integração ao PPP Prisional (Tema 1.236 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remição por EAD + Integração ao PPP Prisional (Tema 1.236 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.236 STJ, 3ª Seção, 06/11/2025)
 

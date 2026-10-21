@@ -5,8 +5,8 @@ title: "Tarifas Bancárias — Tema 958 STJ (cadastro, avaliação, registro, se
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/tarifas-tema-958-stj.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/tarifas-tema-958-stj/SKILL.md"
 triggers:
   - "Tema 958 STJ"
   - "tarifa de cadastro"
@@ -17,10 +17,15 @@ triggers:
   - "CET"
   - "REsp 1.578.553"
   - "REsp 1.578.526"
-description: "Tema 958 STJ (REsp 1.578.553/SP + 1.578.526/SP, Segunda Seção 28/11/2018):\ntarifa de cadastro válida no INÍCIO do relacionamento; tarifa de avaliação\ndo bem válida se prestado serviço efetivo (ônus do banco); tarifa de\nregistro do contrato válida se efetivamente promovido o gravame; cobrança\npor \"serviços de terceiros\" sem especificação é ABUSIVA. Pós-30/04/2008\n(Res. CMN 3.518); cumulativo Tema 953 (seguro auto)."
+description: "Usar para pesquisar ou analisar: Tarifas Bancárias — Tema 958 STJ (cadastro, avaliação, registro, serviços de terceiros). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifas Bancárias — Tema 958 STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco regulatório
 

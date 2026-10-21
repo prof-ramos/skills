@@ -5,8 +5,8 @@ title: "Saneamento e Organização do Processo (CPC 357)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/saneamento-organizacao-cpc-357.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/saneamento-organizacao-cpc-357/SKILL.md"
 triggers:
   - "decisão de saneamento"
   - "CPC 357"
@@ -18,10 +18,15 @@ triggers:
   - "negócio jurídico processual"
   - "CPC 190"
   - "CPC 356"
-description: "Saneamento e organização do processo sob CPC 357: resolução de\nquestões processuais; delimitação de fatos e direitos relevantes;\ndistribuição estática e dinâmica do ônus (CPC 373); designação\nde AIJ; negócio processual e saneamento compartilhado (CPC 190);\nalternativas de julgamento antecipado total e parcial (CPC 355-356)."
+description: "Usar para pesquisar ou analisar: Saneamento e Organização do Processo (CPC 357). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Saneamento e Organização do Processo (CPC 357)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Função
 

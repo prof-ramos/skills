@@ -5,8 +5,8 @@ title: "Terceirização Ampla (Tema 725 STF + RE 958.252 + ADPF 324)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/terceirizacao-ampla-tema-725.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/terceirizacao-ampla-tema-725/SKILL.md"
 triggers:
   - "Tema 725"
   - "RE 958.252"
@@ -21,10 +21,15 @@ triggers:
   - "ADC 16"
   - "terceirização administração pública"
   - "quarteirização"
-description: "Tema 725 STF (RE 958.252 + ADPF 324, Min. Luiz Fux/Roberto Barroso,\n30/08/2018): lícita a terceirização ou divisão de trabalho entre\npessoas jurídicas distintas, independentemente do objeto social,\nmantida a responsabilidade subsidiária da contratante. Superada a\nSúmula 331 TST quanto à distinção atividade-meio/atividade-fim.\nModulação para vedar rescisória contra decisões pré-30/08/2018."
+description: "Usar para pesquisar ou analisar: Terceirização Ampla (Tema 725 STF + RE 958.252 + ADPF 324). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terceirização Ampla (Tema 725 STF + ADPF 324)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

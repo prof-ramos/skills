@@ -5,8 +5,8 @@ title: "Pensão por Morte EC 103/19 (ADI 7.051 + art. 23)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/pensao-morte-ec-103-adi-7051.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/pensao-morte-ec-103-adi-7051/SKILL.md"
 triggers:
   - "ADI 7.051"
   - "EC 103/19 art. 23"
@@ -16,10 +16,15 @@ triggers:
   - "redutor RGPS"
   - "dependente inválido deficiente"
   - "pensão acumulada aposentadoria"
-description: "ADI 7.051/DF (Min. Roberto Barroso, j. 23/06/2023): constitucional o\nart. 23 caput da EC 103/19. Pensão por morte = cota familiar 50%\n+ cota individual de 10 p.p. por dependente, até 100%. Havendo\nDEPENDENTE inválido ou com deficiência intelectual, mental ou\ngrave: 100% até o teto do RGPS (art. 23 §2 I). Aplica-se a óbitos\na partir de 13/11/2019; óbitos anteriores protegidos pelo direito\nadquirido."
+description: "Usar para pesquisar ou analisar: Pensão por Morte EC 103/19 (ADI 7.051 + art. 23). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pensão por Morte EC 103/19 (ADI 7.051)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

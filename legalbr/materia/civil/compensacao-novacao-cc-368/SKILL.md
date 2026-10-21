@@ -5,8 +5,8 @@ title: "Compensação, Novação e Confusão (CC 360-388)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/compensacao-novacao-cc-368.md"
+version: 2
+sourcePath: "legalbr/materia/civil/compensacao-novacao-cc-368/SKILL.md"
 triggers:
   - "compensacao de dividas CC 368"
   - "novacao de divida CC 360"
@@ -21,10 +21,15 @@ triggers:
   - "compensacao judicial"
   - "confusao credor e devedor CC 381"
   - "remissao de divida CC 385"
-description: "Compensação (CC 368-380), novação (CC 360-367) e confusão (CC 381):\nmodos de extinção de obrigações. Compensação legal (CC 369, dívidas\nlíquidas, vencidas, fungíveis) × judicial × convencional;\nnovação subjetiva/objetiva (CC 360) com animus novandi (CC 361);\nvedações (CC 373, alimentos, fiscal); confusão (CC 381-384) e\nremissão (CC 385-388)."
+description: "Usar para pesquisar ou analisar: Compensação, Novação e Confusão (CC 360-388). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compensação, Novação e Confusão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## COMPENSAÇÃO (CC 368-380)
 
@@ -194,3 +199,7 @@ description: "Compensação (CC 368-380), novação (CC 360-367) e confusão (CC
 - Ignorar **renascimento** da obrigação após cessar confusão (CC 384);
 - Aplicar CC 374 (compensação tributária) revogado em vez do CTN 170;
 - Tratar remissão a devedor solidário como **integral** aos demais (CC 388, limitado ao valor).
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

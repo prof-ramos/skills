@@ -5,8 +5,8 @@ title: "Contribuição Patronal: Mapa de Verbas da Folha, Remuneratório × Inde
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/contribuicao-patronal-mapa-verbas-folha.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-patronal-mapa-verbas-folha/SKILL.md"
 triggers:
   - "verbas da folha contribuição patronal"
   - "natureza remuneratória ou indenizatória contribuição"
@@ -18,10 +18,15 @@ triggers:
   - "salário-de-contribuição art. 28 §9"
   - "adicional noturno contribuição previdenciária"
   - "auxílio-creche Súmula 310"
-description: "Mapa completo da incidência da contribuição previdenciária patronal sobre as\nverbas da folha (Lei 8.212 arts. 22 I e 28 §9): incide sobre remuneratórias\n(Temas 687-689, 1.170 e 1.252 STJ, Súm. 688 e Temas 20/985 STF) e não incide\nsobre indenizatórias (Temas 478/738 STJ, Tema 72 STF, Súm. 310 STJ); auxílio-\nalimentação em pecúnia incide (Tema 1.164) e descontos do empregado não\nreduzem a base (Tema 1.174)."
+description: "Usar para pesquisar ou analisar: Contribuição Patronal: Mapa de Verbas da Folha, Remuneratório × Indenizatório (Temas 687-689, 1.164, 1.170 e 1.252 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição Patronal: Mapa de Verbas da Folha
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Aplicar em MS e ações declaratórias/repetitórias patronais que discutem verba a verba a base da contribuição sobre a folha. O regime geral da contribuição (CF 195, alíquotas, CPRB, reoneração) está na skill de contribuições previdenciárias da Lei 8.212; aqui, o mapa da incidência.
 

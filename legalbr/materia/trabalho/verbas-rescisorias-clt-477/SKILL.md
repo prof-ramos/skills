@@ -5,8 +5,8 @@ title: "Verbas Rescisórias (CLT 477-484 + Lei 13.467/2017)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/verbas-rescisorias-clt-477.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/verbas-rescisorias-clt-477/SKILL.md"
 triggers:
   - "verbas rescisórias"
   - "CLT 477"
@@ -22,10 +22,15 @@ triggers:
   - "rescisão indireta"
   - "Súm. 389 TST"
   - "indenização substitutiva seguro-desemprego"
-description: "Verbas rescisórias sob CLT 477-484 + Lei 13.467/2017: pagamento e\nentrega de documentos em até 10 dias do término do contrato (CLT 477\n§6, prazo único pós-Reforma); sem homologação; modalidades\n482/483/484/484-A; aviso prévio proporcional Lei 12.506; multa 477 §8\n(Súm. 462) + FGTS 40% na rescisão indireta (CLT 483 c/c ADCT 10 I);\nindenização substitutiva do seguro-desemprego por guias não\nfornecidas (Lei 7.998/90 + Súm. 389 TST)."
+description: "Usar para pesquisar ou analisar: Verbas Rescisórias (CLT 477-484 + Lei 13.467/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Verbas Rescisórias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

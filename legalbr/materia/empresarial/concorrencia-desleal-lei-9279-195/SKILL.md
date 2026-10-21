@@ -5,8 +5,8 @@ title: "Concorrência Desleal (Lei 9.279/96 art. 195 + 209)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/concorrencia-desleal-lei-9279-195.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/concorrencia-desleal-lei-9279-195/SKILL.md"
 triggers:
   - "concorrência desleal"
   - "Lei 9.279"
@@ -18,10 +18,15 @@ triggers:
   - "INPI crime"
   - "confusão mercado"
   - "propaganda enganosa"
-description: "Concorrência desleal: **Lei 9.279/96 art. 195** (crime) + **art.\n209** (indenização cível): condutas fraudulentas ou abusivas que\nprejudicam concorrente, desvio de clientela ou confundem o mercado.\n**Crime**: 14 incisos (publicar informação falsa + divulgar\ninvenção alheia + dar referências falsas + receber subsídios para\nvencer concorrência + imitar publicidade + concorrência parasitária\netc.); pena de detenção de 3 meses a 1 ano, ou multa. **Cível** (art. 209): indenização\nindepende de prova de dano efetivo (presumido). Pode incluir\ncessação + busca e apreensão + danos materiais + morais. Trade\ndress (conjunto-imagem): protegido pela repressão à concorrência\ndesleal (Lei 9.279/96 arts. 195 III e 209), conforme jurisprudência\ndo STJ; confusão depende de prova pericial. CADE atua em condutas\nanticompetitivas."
+description: "Usar para pesquisar ou analisar: Concorrência Desleal (Lei 9.279/96 art. 195 + 209). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concorrência Desleal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

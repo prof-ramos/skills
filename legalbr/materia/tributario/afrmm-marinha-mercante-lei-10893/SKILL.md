@@ -5,8 +5,8 @@ title: "AFRMM, Adicional ao Frete para Renovação da Marinha Mercante (Lei 10.8
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/afrmm-marinha-mercante-lei-10893.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/afrmm-marinha-mercante-lei-10893/SKILL.md"
 triggers:
   - "AFRMM"
   - "adicional ao frete"
@@ -18,10 +18,15 @@ triggers:
   - "AFRMM cabotagem"
   - "AFRMM isenção"
   - "Tema 1.368 STF"
-description: "Regime do AFRMM (Lei 10.893/2004): CIDE incidente sobre o frete aquaviário,\nfato gerador no descarregamento em porto brasileiro, alíquotas de 8% e 40%\npós-BR do Mar (Lei 14.301/2022), isenções (art. 14), suspensão em regime\naduaneiro especial e não incidência Norte/Nordeste prorrogada até 08/01/2027.\nTema 1.368 STF afasta anterioridade na volta das alíquotas integrais."
+description: "Usar para pesquisar ou analisar: AFRMM, Adicional ao Frete para Renovação da Marinha Mercante (Lei 10.893/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # AFRMM: Adicional ao Frete para Renovação da Marinha Mercante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza jurídica e base normativa
 

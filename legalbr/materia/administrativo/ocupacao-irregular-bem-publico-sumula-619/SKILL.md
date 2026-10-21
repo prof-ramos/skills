@@ -5,8 +5,8 @@ title: "Ocupação Irregular de Bem Público. Detenção e Efeitos (Súm. 619 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/ocupacao-irregular-bem-publico-sumula-619.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ocupacao-irregular-bem-publico-sumula-619/SKILL.md"
 triggers:
   - "Súm. 619 STJ"
   - "ocupação irregular de bem público"
@@ -18,10 +18,15 @@ triggers:
   - "posse entre particulares bem dominical"
   - "desocupação de imóvel público invadido"
   - "indenização pelo uso de bem público"
-description: "Ocupação irregular de bem público (Súm. 619 STJ): mera detenção precária,\nsem retenção nem indenização por acessões e benfeitorias; reintegração e\nimissão sumária pelo ente (Lei 9.636/98 arts. 10-11), taxa de ocupação e\nindenização pelo uso, interditos possessórios entre particulares sobre bem\ndominical (REsp 1.296.964) e REURB como via própria da moradia consolidada."
+description: "Usar para pesquisar ou analisar: Ocupação Irregular de Bem Público. Detenção e Efeitos (Súm. 619 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ocupação Irregular de Bem Público: Detenção e Efeitos (Súm. 619 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Contencioso das reintegrações movidas por Municípios, Estados e SPU/União contra ocupantes de áreas públicas, e das pretensões de ocupantes a benfeitorias, retenção ou permanência. Classificação dos bens, inalienabilidade e imprescritibilidade estão na skill bens-publicos-cc-99; esta skill cobre o contencioso possessório.
 

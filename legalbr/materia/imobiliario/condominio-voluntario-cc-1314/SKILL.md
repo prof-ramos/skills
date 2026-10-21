@@ -5,8 +5,8 @@ title: "Condomínio Voluntário: Extinção, Uso Exclusivo, Aluguel e Alienaçã
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/condominio-voluntario-cc-1314.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/condominio-voluntario-cc-1314/SKILL.md"
 triggers:
   - "condomínio voluntário"
   - "CC 1.314"
@@ -20,10 +20,15 @@ triggers:
   - "copropriedade pós-divórcio"
   - "coisa comum indivisa"
   - "despesas do condômino CC 1.315"
-description: "Regime material do condomínio voluntário/geral (CC 1.314-1.330):\ndireitos e despesas dos condôminos, frutos e indenização pelo uso\nexclusivo (CC 1.319, termo inicial na citação, salvo notificação:\nREsp 1.375.271/SP), divisão a todo tempo (CC 1.320), venda da coisa\nindivisível com preferências (CC 1.322 + CPC 730), administração por\nmaioria de quinhões (CC 1.323-1.326) e condomínio necessário. Base das\nações de extinção de condomínio pós-herança e pós-divórcio."
+description: "Usar para pesquisar ou analisar: Condomínio Voluntário: Extinção, Uso Exclusivo, Aluguel e Alienação da Coisa Comum (CC 1.314-1.330). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Condomínio Voluntário (CC 1.314-1.330)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

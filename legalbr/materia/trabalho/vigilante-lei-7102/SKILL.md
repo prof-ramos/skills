@@ -5,8 +5,8 @@ title: "Vigilante (Lei 7.102/83, Lei 14.967/2024 e Periculosidade CLT 193 II)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/vigilante-lei-7102.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/vigilante-lei-7102/SKILL.md"
 triggers:
   - "vigilante Lei 7.102"
   - "Lei 14.967 segurança privada"
@@ -20,10 +20,15 @@ triggers:
   - "vigia e vigilante distinção"
   - "Súm. 257 TST"
   - "escolta armada carro-forte"
-description: "Contencioso trabalhista do vigilante: Lei 7.102/83 (revogada) e Lei\n14.967/2024 (Estatuto da Segurança Privada: requisitos, formação, 12x36 do\nart. 29 §4); adicional de periculosidade (CLT 193 II + Portaria MTE\n1.885/2013, Anexo 3 da NR-16, devido desde 03/12/2013); vigia x vigilante;\ntransporte de valores por empregado não vigilante (Tema 61 TST: dano moral\nin re ipsa); Súm. 257 TST (vigilante não é bancário)."
+description: "Usar para pesquisar ou analisar: Vigilante (Lei 7.102/83, Lei 14.967/2024 e Periculosidade CLT 193 II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vigilante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa (atenção à sucessão de leis)
 

@@ -5,8 +5,8 @@ title: "Defesa em Tomada de Contas Especial (TCE)"
 category: "forma"
 materia: null
 documentType: "defesa-tomada-contas-especial"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-tomada-contas-especial.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-tomada-contas-especial/SKILL.md"
 triggers:
   - "defesa TCE"
   - "tomada de contas especial"
@@ -17,10 +17,15 @@ triggers:
   - "inabilitação TCU"
   - "SV 14 acesso autos"
   - "STF MS 24.631"
-description: "Defesa em Tomada de Contas Especial (TCE), Lei 8.443/1992 +\nIN TCU 71/2012 + IN TCU 84/2020: rito do processo administrativo\npelo TCU contra responsável por dinheiros + valores públicos;\ncitação + 15 dias de defesa; prescrição quinquenal e intercorrente\n(Lei 9.873/99; Tema 899 STF) como prejudiciais; provas + perícia;\nsanções (ressarcimento, multa, inabilitação, inidoneidade); SV 14\n(acesso aos autos); recursos regimentais (reconsideração, reexame,\nrevisão); acórdão como título executivo (art. 19 §1)."
+description: "Usar para redigir ou revisar: Defesa em Tomada de Contas Especial (TCE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Tomada de Contas Especial (TCE)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

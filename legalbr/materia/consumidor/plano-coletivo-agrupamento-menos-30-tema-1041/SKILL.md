@@ -5,18 +5,23 @@ title: "Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (Tema 1.
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-coletivo-agrupamento-menos-30-tema-1041.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-coletivo-agrupamento-menos-30-tema-1041/SKILL.md"
 triggers:
   - "Tema 1.041 STJ"
   - "plano coletivo menos 30 vidas"
   - "agrupamento contratos ANS RN 309"
   - "reajuste agrupado planos pequenos"
   - "falso coletivo plano saúde"
-description: "Tema 1.041 STJ: nos planos coletivos com MENOS DE 30 beneficiários,\na operadora DEVE formar AGRUPAMENTO de todos seus contratos\ncoletivos com < 30 vidas para cálculo do percentual ÚNICO de\nreajuste (RN ANS 309/2012). Visa diluir o risco e evitar\nreajustes abusivos. Tema correlato 1.047 (rescisão)."
+description: "Usar para pesquisar ou analisar: Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (Tema 1.041 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (Tema 1.041 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.041 STJ)
 

@@ -5,8 +5,8 @@ title: "Agravo Interno (CPC 1.021 + Tema 1.201 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/agravo-interno-cpc-1021.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/agravo-interno-cpc-1021/SKILL.md"
 triggers:
   - "agravo interno"
   - "CPC 1.021"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 1.201 STJ"
   - "precedente qualificado"
   - "agravo regimental"
-description: "Agravo interno CPC 1.021: contra DECISÃO MONOCRÁTICA do relator\n(qualquer tribunal); prazo 15 DIAS (CPC 1.003 §5); ao colegiado\ncompetente; §1 exige impugnação específica; §3 veda decisão\nreprodutiva do relator; §4 multa 1-5% se UNÂNIME\ninadmissível/improcedente; §5 depósito PRÉVIO (exceto\nFazenda/gratuidade); Tema 1.201 STJ (multa em agravo contra\ndecisão baseada em precedente qualificado)."
+description: "Usar para pesquisar ou analisar: Agravo Interno (CPC 1.021 + Tema 1.201 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo Interno
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 1.021: cabimento
 

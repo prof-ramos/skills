@@ -5,8 +5,8 @@ title: "Controle de Convencionalidade (CADH + STF Tema 60 + Corte IDH)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/controle-convencionalidade-cadh.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/controle-convencionalidade-cadh/SKILL.md"
 triggers:
   - "controle de convencionalidade"
   - "CADH"
@@ -21,10 +21,15 @@ triggers:
   - "CF 5 §3"
   - "Marco Temporal"
   - "Lei 15.434/2026"
-description: "Controle de convencionalidade sob CADH + STF Tema 60 (RE 466.343:\nsupralegalidade dos TIDH); equivalência constitucional (CF 5\n§3: PCDs + Marraqueche); CADH (Dec. 678/92, supralegal);\nCorte IDH com jurisdição obrigatória; Gomes Lund × STF ADPF 153;\nADC 87 + Marco Temporal usaram Convenção 169 OIT; audiência de\ncustódia (CADH 7.5); SV 25 (depositário infiel); Lei 15.434/2026\n(DDH/CNJ: monitoramento das decisões dos sistemas internacionais)."
+description: "Usar para pesquisar ou analisar: Controle de Convencionalidade (CADH + STF Tema 60 + Corte IDH). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Controle de Convencionalidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STF Tema 60 / RE 466.343 (2008): marco fundante
 

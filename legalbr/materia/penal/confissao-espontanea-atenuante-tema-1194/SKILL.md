@@ -5,8 +5,8 @@ title: "Confissão Espontânea como Atenuante (Tema 1.194 STJ)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/confissao-espontanea-atenuante-tema-1194.md"
+version: 2
+sourcePath: "legalbr/materia/penal/confissao-espontanea-atenuante-tema-1194/SKILL.md"
 triggers:
   - "Tema 1.194 STJ"
   - "confissão espontânea CP 65 III d"
@@ -14,10 +14,15 @@ triggers:
   - "Súmula 545 STJ revisão"
   - "confissão retratada"
   - "confissão parcial qualificada"
-description: "Tema 1.194 STJ (3ª Seção, 2025): a atenuante da CONFISSÃO\nESPONTÂNEA (CP 65 III \"d\") é APLICÁVEL ainda que NÃO usada na\nformação do convencimento do julgador e ainda que existam outras\nprovas suficientes, DESDE QUE não tenha havido retratação. Se\nretratada, só atenua se efetivamente CONTRIBUIU para a apuração.\nRevisão das Súmulas 545 e 630."
+description: "Usar para pesquisar ou analisar: Confissão Espontânea como Atenuante (Tema 1.194 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Confissão Espontânea como Atenuante (Tema 1.194 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.194 STJ, 3ª Seção, 2025)
 

@@ -5,8 +5,8 @@ title: "Regressão Cautelar de Regime Prisional + Dispensa de Oitiva Prévia (Te
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/regressao-cautelar-regime-tema-1347.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/regressao-cautelar-regime-tema-1347/SKILL.md"
 triggers:
   - "Tema 1.347 STJ"
   - "regressão cautelar regime prisional"
@@ -14,10 +14,15 @@ triggers:
   - "poder geral cautela execução"
   - "oitiva prévia apenado dispensa"
   - "falta grave suspensão regime"
-description: "Tema 1.347 STJ (3ª Seção, 12/11/2025): a REGRESSÃO CAUTELAR é\nmedida PROVISÓRIA fundada no PODER GERAL DE CAUTELA do juízo da\nexecução, aplicável com FUNDAMENTAÇÃO IDÔNEA até a apuração\ndefinitiva da falta, DISPENSANDO oitiva prévia do apenado. A\noitiva DEVE ocorrer ASSIM QUE POSSÍVEL no PAD posterior."
+description: "Usar para pesquisar ou analisar: Regressão Cautelar de Regime Prisional + Dispensa de Oitiva Prévia (Tema 1.347 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regressão Cautelar de Regime Prisional + Dispensa de Oitiva Prévia (Tema 1.347 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.347 STJ, 3ª Seção, 12/11/2025)
 

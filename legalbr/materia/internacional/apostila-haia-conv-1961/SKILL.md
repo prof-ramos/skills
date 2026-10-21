@@ -5,8 +5,8 @@ title: "Apostila da Haia (Convenção 1961 + Dec. 8.660/2016 + CNJ 228)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/apostila-haia-conv-1961.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/apostila-haia-conv-1961/SKILL.md"
 triggers:
   - "apostila da Haia"
   - "apostille"
@@ -18,10 +18,15 @@ triggers:
   - "tradutor juramentado"
   - "documento público internacional"
   - "apostilamento"
-description: "Apostila da Haia (Convenção de 5/10/1961 + Decreto 8.660/2016 + CNJ\nResolução 228/2016): mecanismo simplificado de legalização de\ndocumentos públicos entre Estados-parte, **substitui legalização\nconsular**. Vigência no Brasil desde **14/08/2016**. Aplica-se a\n**documentos públicos** (judiciais, notariais, administrativos,\ncertificações), não a particulares (salvo reconhecimento de firma).\nAutoridades competentes: cartórios extrajudiciais (notas + RCPN +\nRTD) + Itamaraty para alguns docs. Recibo eletrônico verificável no\nportal do CNJ. Não dispensa **tradução juramentada** + registro de\nprotocolo. Casos não cobertos: documentos consulares + comerciais\nalfandegários + países não-parte (legalização consular tradicional)."
+description: "Usar para pesquisar ou analisar: Apostila da Haia (Convenção 1961 + Dec. 8.660/2016 + CNJ 228). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apostila da Haia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 2, Consórcios, Sorteios, Bingos e Loterias"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-2-consorcios-sorteios.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-2-consorcios-sorteios/SKILL.md"
 triggers:
   - "SV 2 bingos"
   - "Súmula Vinculante 2"
@@ -17,10 +17,15 @@ triggers:
   - "CF 22 XX"
   - "lei estadual loteria"
   - "ADI 2.847"
-description: "SV 2 STF (30/05/2007): \"É inconstitucional a lei ou ato normativo\nestadual ou distrital que disponha sobre sistemas de consórcios\ne sorteios, inclusive bingos e loterias.\" Confirma a competência\nprivativa da União (CF 22 XX). Distinção atual: legislar (vedado\naos Estados) versus explorar materialmente (admitido após ADPF 492,\n493 e ADI 4.986)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 2, Consórcios, Sorteios, Bingos e Loterias. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 2, Consórcios, Sorteios, Bingos e Loterias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

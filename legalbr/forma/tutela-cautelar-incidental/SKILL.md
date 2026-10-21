@@ -5,8 +5,8 @@ title: "Tutela Cautelar Incidental"
 category: "forma"
 materia: null
 documentType: "tutela-cautelar-incidental"
-version: 1
-sourcePath: "lib/skills/official/forma/tutela-cautelar-incidental.md"
+version: 2
+sourcePath: "legalbr/forma/tutela-cautelar-incidental/SKILL.md"
 triggers:
   - "tutela cautelar incidental"
   - "cautelar no curso do processo"
@@ -19,10 +19,15 @@ triggers:
   - "agravo de instrumento art. 1.015 I"
   - "distinção da cautelar antecedente art. 305"
   - "perigo de dano ou risco ao resultado útil do processo"
-description: "Tutela cautelar incidental (CPC 294 e 297): pedida no curso de processo\njá em andamento, por petição simples nos autos. Mesmos requisitos do\nart. 300 (fumus e periculum). Sem aditamento ou prazo de 30 dias.\nRecurso: AI (art. 1.015 I). Distinguir da antecedente (art. 305), que\nrequer inicial autônoma e aditamento em 30 dias."
+description: "Usar para redigir ou revisar: Tutela Cautelar Incidental. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Cautelar Incidental
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

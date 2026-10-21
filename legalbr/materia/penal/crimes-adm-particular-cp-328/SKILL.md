@@ -5,8 +5,8 @@ title: "Crimes contra Adm por Particular (CP 328-345 + usurpação + falso teste
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/crimes-adm-particular-cp-328.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-adm-particular-cp-328/SKILL.md"
 triggers:
   - "usurpação de função pública"
   - "CP 328"
@@ -20,10 +20,15 @@ triggers:
   - "CP 344"
   - "coação no curso do processo"
   - "exercício arbitrário CP 345"
-description: "CP 328-345 (particular vs Adm): usurpação 328 (formal, det. 3m-2a;\n§1 qualif. recl. 2-5a vantagem); resistência 329 (violência/ameaça\n , resistência passiva atípica, STJ); CP 332 tráfico de influência\n(recl. 2-5a + §1 destinada a funcionário); CP 342 falso testemunho\n(recl. 2-4a + retratação extingue §2); CP 343 corrupção testemunha;\nCP 344 coação processo; CP 345 ex. arbitrário."
+description: "Usar para pesquisar ou analisar: Crimes contra Adm por Particular (CP 328-345 + usurpação + falso testemunho). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Administração por Particular
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 328: USURPAÇÃO DE FUNÇÃO PÚBLICA
 

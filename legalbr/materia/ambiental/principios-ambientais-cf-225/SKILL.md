@@ -5,8 +5,8 @@ title: "Princípios do Direito Ambiental (CF 225 + Lei 6.938/1981)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/principios-ambientais-cf-225.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/principios-ambientais-cf-225/SKILL.md"
 triggers:
   - "princípios ambientais"
   - "CF 225"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 629 STJ"
   - "Súm. 652 STJ"
   - "propter rem"
-description: "Princípios ambientais sob CF 225 + Lei 6.938/1981: PREVENÇÃO\n(risco conhecido); PRECAUÇÃO (risco incerto, in dubio pro\nnatura, inversão do ônus); POLUIDOR-PAGADOR (objetiva +\nrisco integral, Tema 707 STJ); vedação ao retrocesso; função\nsocioambiental; Tema 999 STF (imprescritibilidade); Tema 1.204\nSTJ + Súm. 623 (propter rem); Lei 15.190/2025 (LGLA)."
+description: "Usar para pesquisar ou analisar: Princípios do Direito Ambiental (CF 225 + Lei 6.938/1981). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios do Direito Ambiental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 225: núcleo constitucional
 

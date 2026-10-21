@@ -5,8 +5,8 @@ title: "Plano de Recuperação Judicial (PRJ): Disputa e Cram Down"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/plano-recuperacao-disputa-cramdown.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/plano-recuperacao-disputa-cramdown/SKILL.md"
 triggers:
   - "plano recuperação judicial"
   - "PRJ"
@@ -19,10 +19,15 @@ triggers:
   - "classes de credores"
   - "stay period"
   - "substantial consolidation"
-description: "Plano de recuperação judicial (Lei 11.101/05 arts. 53-58, alterada pela\nLei 14.112/20). Apresentação em 60 dias do deferimento; objeções e\nassembleia (AGC); quórum por classes (CT trabalhista; CG garantia real;\nCQ quirografário; CME microempresário). Cram down (art. 58 §1):\nsuperação de rejeição assemblear se: >1/2 do valor total + 2 classes\naprovam (ou 1 se houver duas) + 1/3 da classe rejeitante. DIP financing\n(art. 69-A): novo crédito superior. Stay period de 180 dias prorrogável.\nConsolidação substancial (art. 69-J)."
+description: "Usar para pesquisar ou analisar: Plano de Recuperação Judicial (PRJ): Disputa e Cram Down. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Recuperação Judicial: Disputa e Cram Down
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "sentenca-arbitral"
 version: 2
-sourcePath: "lib/skills/official/forma/sentenca-arbitral.md"
+sourcePath: "legalbr/forma/sentenca-arbitral/SKILL.md"
 triggers:
   - "sentença arbitral"
   - "requisitos da sentença arbitral art. 26"
@@ -16,10 +16,15 @@ triggers:
   - "sentença arbitral título executivo judicial"
   - "voto divergente do árbitro"
   - "aditamento da sentença arbitral após esclarecimentos art. 30"
-description: "Sentença arbitral sob a Lei 9.307/96 (com Lei 13.129/15): requisitos\nobrigatórios do art. 26 sob pena de nulidade (relatório, fundamentos com\nmenção expressa à equidade, dispositivo, data e lugar, assinatura); prazo\nde 6 meses salvo convenção e sentença parcial (art. 23); deliberação por\nmaioria (art. 24); custas e má-fé (art. 27); esclarecimentos em 5 dias\n(art. 30); título executivo judicial (art. 31) e espelho do art. 32."
+description: "Usar para redigir ou revisar: Sentença Arbitral (Lei 9.307/96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Arbitral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

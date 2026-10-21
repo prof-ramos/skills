@@ -5,8 +5,8 @@ title: "Alimentos: Fixação e Execução (CC 1.694 + CPC 528-533)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/alimentos-fixacao-execucao.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/alimentos-fixacao-execucao/SKILL.md"
 triggers:
   - "pensão alimentícia"
   - "fixação de alimentos"
@@ -20,10 +20,15 @@ triggers:
   - "alimentos provisórios"
   - "prisão civil alimentar"
   - "Tema 1.153 STJ"
-description: "Alimentos sob CC 1.694-1.710 + Lei 5.478/68 + CPC 528-533: trinômio\nnecessidade-possibilidade-proporcionalidade; alimentos gravídicos\n(Lei 11.804/2008), provisórios e provisionais; rito coercitivo da\nprisão civil (CPC 528 + Súm. 309 STJ, 3 prestações) × expropriação\n(§8); desconto em folha (CPC 529); guarda compartilhada não exime\n(jurisprudência consolidada do STJ)."
+description: "Usar para pesquisar ou analisar: Alimentos: Fixação e Execução (CC 1.694 + CPC 528-533). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alimentos: Fixação e Execução
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Direito material
 

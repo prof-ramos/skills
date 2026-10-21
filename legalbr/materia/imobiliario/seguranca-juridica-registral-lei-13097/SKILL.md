@@ -5,8 +5,8 @@ title: "Segurança Jurídica Registral (Lei 13.097/2015 art. 54 + Concentração
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/seguranca-juridica-registral-lei-13097.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/seguranca-juridica-registral-lei-13097/SKILL.md"
 triggers:
   - "Lei 13.097"
   - "segurança jurídica imobiliária"
@@ -17,10 +17,15 @@ triggers:
   - "reipersecutória"
   - "documentação imobiliária"
   - "certidões compra venda"
-description: "Lei 13.097/2015 (art. 54): **princípio da concentração dos atos na\nmatrícula** do imóvel: todos os ônus + restrições + atos\nreipersecutórios devem ser **registrados/averbados na matrícula**\npara serem oponíveis a terceiros adquirentes de boa-fé. Reforça\n**segurança jurídica** das transações imobiliárias. Dispensa\n**certidões de feitos ajuizados** para escritura pública (basta\ncertidão da matrícula). Quem adquirir imóvel **sem onerações na\nmatrícula** está protegido: **fraude à execução não opera** se\nnão houver registro. STJ tem aplicado restritivamente. Coordenação\ncom **Lei 6.015** + **Lei 14.382/2022 (SERP)** + Provimentos CNJ."
+description: "Usar para pesquisar ou analisar: Segurança Jurídica Registral (Lei 13.097/2015 art. 54 + Concentração). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Segurança Jurídica Registral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

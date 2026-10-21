@@ -5,8 +5,8 @@ title: "Contrato de Locação Residencial (Lei 8.245/91 arts. 46-50)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-locacao-residencial.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-locacao-residencial/SKILL.md"
 triggers:
   - "locação residencial"
   - "contrato de aluguel"
@@ -22,10 +22,15 @@ triggers:
   - "direito preferência locatário art. 27"
   - "outorga uxória fiança"
   - "art. 37 Lei 8.245"
-description: "Locação residencial (Lei 8.245/91 arts. 46-50): prazo (≥30m\ndenúncia vazia); UMA garantia (art. 37); reajuste anual;\nmulta proporcional (art. 4); preferência; Súm. 332 STJ."
+description: "Usar para pesquisar ou analisar: Contrato de Locação Residencial (Lei 8.245/91 arts. 46-50). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Locação Residencial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

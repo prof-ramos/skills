@@ -5,8 +5,8 @@ title: "Confissão + Acareação (CPP 197-200 + 229-230)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/confissao-acareacao-cpp-197-230.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/confissao-acareacao-cpp-197-230/SKILL.md"
 triggers:
   - "confissão espontânea"
   - "CPP 197"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 545 STJ"
   - "Súm. 630 STJ"
   - "Tema 1.194 STJ"
-description: "Confissão (CPP 197-200) + Acareação (CPP 229-230). Confissão:\nmeio de prova RELATIVO (CPP 197, apreciada com demais elementos),\ndivisível e retratável (CPP 200). Tema 1.194 STJ: atenuante incide\nindependentemente de ter sido usada no convencimento, DESDE QUE\nnão retratada (salvo se a confissão retratada serviu à apuração);\nmenor proporção quando o fato confessado tem pena menor ou\nconfigura excludente. Súm. 630 STJ: confissão QUALIFICADA no\ntráfico. Compensação com reincidência (EREsp 1.154.752).\nAcareação: declarantes em contradição (CPP 229-230)."
+description: "Usar para pesquisar ou analisar: Confissão + Acareação (CPP 197-200 + 229-230). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Confissão + Acareação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Confissão (CPP 197-200)
 

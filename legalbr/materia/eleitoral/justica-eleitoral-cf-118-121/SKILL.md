@@ -5,8 +5,8 @@ title: "Justiça Eleitoral: Estrutura + Competência (CF 118-121)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/justica-eleitoral-cf-118-121.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/justica-eleitoral-cf-118-121/SKILL.md"
 triggers:
   - "Justiça Eleitoral"
   - "CF 118 a 121"
@@ -17,10 +17,15 @@ triggers:
   - "corregedoria eleitoral"
   - "função normativa TSE"
   - "competência da Justiça Eleitoral"
-description: "Justiça Eleitoral, **CF arts. 118-121**: estrutura especial sem\nquadro próprio de magistrados (vinculados das demais justiças por\nprazo determinado). **Órgãos**: (1) **TSE**, superior instância,\nna capital federal, mínimo 7 ministros (3 do STF + 2 do STJ + 2\njuristas indicados pelo Presidente); (2) **TREs**, em cada Estado\n+ DF, 7 juízes; (3) **Juízes Eleitorais**, 1ª instância; (4)\n**Juntas Eleitorais**, apuração. **Mandatos**: 2 anos + 1\nrecondução (máx. 4 anos). **Competências**: registro + propaganda\n+ apuração + AIJE + AIRC + crimes eleitorais + função normativa\n(atípica). Recursos: TSE → STF (matéria constitucional)."
+description: "Usar para pesquisar ou analisar: Justiça Eleitoral: Estrutura + Competência (CF 118-121). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Justiça Eleitoral: Estrutura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

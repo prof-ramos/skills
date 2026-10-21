@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/anuidades-conselhos-legalidade-execucao.md"
+sourcePath: "legalbr/materia/administrativo/anuidades-conselhos-legalidade-execucao/SKILL.md"
 triggers:
   - "Tema 540 STF"
   - "Tema 829 STF"
@@ -21,10 +21,15 @@ triggers:
   - "taxa ART anotação responsabilidade técnica"
   - "Lei 11.000 anuidade inconstitucional"
   - "teto anuidade corrigido INPC"
-description: "Legalidade tributária e execução das anuidades de conselhos profissionais:\nTema 540 STF (RE 704.292: nula a fixação sem parâmetro legal; art. 2 da Lei\n11.000/2004 inconstitucional), Tema 829 STF (teto legal + ato infralegal:\nválido), ADI 4697 (Lei 12.514/2011 constitucional), piso do art. 8 da Lei\n12.514 (Tema 696 STJ) e Tema 1.179 STJ (OAB não cobra anuidade de sociedade\nde advogados)."
+description: "Usar para pesquisar ou analisar: Anuidades de Conselhos Profissionais: Legalidade, Cobrança e Execução (Temas 540 e 829 STF + Lei 12.514). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anuidades de Conselhos Profissionais: Legalidade, Cobrança e Execução
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

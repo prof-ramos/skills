@@ -5,8 +5,8 @@ title: "Interesse de Agir + DIB em Ações Previdenciárias (Tema 1.124 STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/interesse-agir-dib-tema-1124-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/interesse-agir-dib-tema-1124-stj/SKILL.md"
 triggers:
   - "Tema 1124 STJ"
   - "Tema 1.124 STJ"
@@ -24,10 +24,15 @@ triggers:
   - "Tema 350 STF"
   - "REsp 1.917.379"
   - "REsp 1.913.152"
-description: "Tema 1.124 STJ: interesse de agir em ações previdenciárias exige\nprévio requerimento (Tema 350 STF). Indeferimento forçado obsta a\nação. DIB fixada na DER se mesmas provas; na citação válida se prova\nsurgida ou impossível apresentar à via administrativa (PPP, LTCAT,\nperícia, vínculo, rural). Prescrição quinquenal das parcelas."
+description: "Usar para pesquisar ou analisar: Interesse de Agir + DIB em Ações Previdenciárias (Tema 1.124 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interesse de Agir + DIB (Tema 1.124 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.124 STJ)
 

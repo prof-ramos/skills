@@ -5,8 +5,8 @@ title: "M&A: Mergers and Acquisitions / Operações Societárias"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/ma-operacoes-societarias.md"
+version: 2
+sourcePath: "legalbr/materia/societario/ma-operacoes-societarias/SKILL.md"
 triggers:
   - "mergers and acquisitions"
   - "operações societárias"
@@ -17,10 +17,15 @@ triggers:
   - "gun jumping"
   - "incorporação de ações LSA 252"
   - "Tema 1.232 STF"
-description: "Operações de M&A e reorganizações societárias sob a LSA (arts. 220-252)\ne CC (1.113-1.122): modalidades (transformação, incorporação, fusão,\ncisão, incorporação de ações); etapas da operação (NDA, MoU, due\ndiligence, SPA/APA, closing); cláusulas típicas (R&W, indenização,\nearn-out, MAC, non-compete); aprovação concorrencial pelo CADE e\nsucessões tributária e trabalhista."
+description: "Usar para pesquisar ou analisar: M&A: Mergers and Acquisitions / Operações Societárias. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # M&A / Operações Societárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

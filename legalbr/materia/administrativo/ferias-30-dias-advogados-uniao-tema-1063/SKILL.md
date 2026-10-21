@@ -5,8 +5,8 @@ title: "Férias de 30 dias dos Advogados da União (Tema 1.063 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/ferias-30-dias-advogados-uniao-tema-1063.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ferias-30-dias-advogados-uniao-tema-1063/SKILL.md"
 triggers:
   - "Tema 1.063 STF"
   - "férias 30 dias AGU"
@@ -17,10 +17,15 @@ triggers:
   - "férias procuradores federais"
   - "extinção férias 60 dias"
   - "Tema 1.090 STF"
-description: "Tema 1.063 STF (RE 929.886, rel. Toffoli): os Advogados da\nUnião NÃO têm direito a férias de 60 dias; são CONSTITUCIONAIS\nos arts. 5 e 18 da Lei 9.527/97 (30 dias por ano). Tema 1.090\nSTF (RE 594.481): os PROCURADORES DA FAZENDA NACIONAL também\nNÃO têm direito a 60 dias (a legislação anterior não foi\nrecepcionada como lei complementar); 30 dias. CF 39 §3."
+description: "Usar para pesquisar ou analisar: Férias de 30 dias dos Advogados da União (Tema 1.063 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Férias de 30 dias dos Advogados da União
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

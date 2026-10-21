@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/perse-eventos-lei-14148.md"
+sourcePath: "legalbr/materia/tributario/perse-eventos-lei-14148/SKILL.md"
 triggers:
   - "PERSE"
   - "Lei 14.148"
@@ -17,10 +17,15 @@ triggers:
   - "ADE RFB 2/2025"
   - "CNAE eventos"
   - "Tema 1.283 STJ Perse"
-description: "PERSE sob Leis 14.148 e 14.859: atividades, habilitação, tributos,\nteto de R$ 15 bilhões, encerramento pelo ADE RFB 2/2025 e requisitos\nde Cadastur e Simples definidos no Tema 1.283 STJ."
+description: "Usar para pesquisar ou analisar: PERSE, Setor de Eventos (Lei 14.148/2021 + Lei 14.859/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PERSE, Programa Emergencial Setor Eventos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

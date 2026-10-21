@@ -5,8 +5,8 @@ title: "Agravo em Execução Penal (LEP 197)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/agravo-execucao-penal-lep-197.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/agravo-execucao-penal-lep-197/SKILL.md"
 triggers:
   - "LEP 197"
   - "agravo execução"
@@ -18,10 +18,15 @@ triggers:
   - "prazo 5 dias agravo"
   - "efeito suspensivo execução"
   - "rito RESE"
-description: "Agravo em execução penal LEP 197: único recurso cabível contra\ndecisões do juízo de execução; rito do recurso em sentido estrito\n(CPP 587-592, Súm. 700 STF); prazo 5 dias; **sem efeito\nsuspensivo** (em regra, exceto se afetar liberdade); juízo de\nretratação possível; legitimidade do MP, defesa, condenado;\ndecisão pelo TJ/TRF; efeitos imediatos das decisões executórias."
+description: "Usar para pesquisar ou analisar: Agravo em Execução Penal (LEP 197). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo em Execução Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base + finalidade
 

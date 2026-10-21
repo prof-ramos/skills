@@ -5,8 +5,8 @@ title: "Impedimento e Suspeição (CPC 144-148)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/impedimento-suspeicao-cpc-144.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/impedimento-suspeicao-cpc-144/SKILL.md"
 triggers:
   - "impedimento do juiz"
   - "exceção de suspeição"
@@ -18,10 +18,15 @@ triggers:
   - "juiz suspeito"
   - "foro íntimo"
   - "Sum 234 STJ"
-description: "Impedimento (CPC 144, objetivo, taxativo) e suspeição (CPC 145 -\nsubjetivo, taxativo): hipóteses; arguição (CPC 146); suspende\nprocesso; reconhecimento pelo juiz (autos remetidos a substituto);\nrejeição → autos ao tribunal; recurso (interno + AI); aplicação\nao MP, defensor, perito, auxiliares; nulidade vs anulação."
+description: "Usar para pesquisar ou analisar: Impedimento e Suspeição (CPC 144-148). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impedimento e Suspeição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinção essencial
 

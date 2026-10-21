@@ -5,8 +5,8 @@ title: "Honorários em RPV/Precatório (Tema 1.142 STF + Tema 18 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-fracionamento-tema-1142.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-fracionamento-tema-1142/SKILL.md"
 triggers:
   - "Tema 1.142 STF"
   - "RE 1.309.081"
@@ -19,10 +19,15 @@ triggers:
   - "honorários sucumbência coletiva"
   - "Tema 1.156 STF"
   - "principal e acessório RPV"
-description: "Tema 1.142 STF (RE 1.309.081, Min. Dias Toffoli, 07/05/2021):\nhonorários sucumbenciais em ação coletiva contra a Fazenda\nformam crédito único e indivisível, vedado o fracionamento por\nsubstituído (CF 100 §8). Tema 18/SV 47: sucumbenciais são crédito\nautônomo do advogado com RPV/precatório próprio; contratuais só\nadmitem destaque no requisitório do cliente (EOAB 22 §4).\nEC 113/2021 unificou correção pela Selic até 09/09/2025; EC\n136/2025 rege desde 10/09/2025."
+description: "Usar para pesquisar ou analisar: Honorários em RPV/Precatório (Tema 1.142 STF + Tema 18 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários em RPV/Precatório (Temas 1.142 + 18 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

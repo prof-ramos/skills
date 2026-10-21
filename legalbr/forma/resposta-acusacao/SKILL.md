@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "resposta-acusacao"
 version: 2
-sourcePath: "lib/skills/official/forma/resposta-acusacao.md"
+sourcePath: "legalbr/forma/resposta-acusacao/SKILL.md"
 triggers:
   - "resposta à acusação"
   - "defesa preliminar arts. 396 e 396-A CPP"
@@ -15,10 +15,15 @@ triggers:
   - "resposta à acusação no prazo de 10 dias"
   - "preliminares na resposta à acusação"
   - "pedido de absolvição sumária na resposta à acusação"
-description: "Resposta à acusação (art. 396-A CPP): 10 dias da citação válida;\narguir preliminares, alegar tudo de interesse da defesa, especificar\nprovas, arrolar testemunhas (8 no rito ordinário, 5 no sumário, 8 por\nfato no júri) sob pena de PRECLUSÃO; pedir absolvição sumária (art.\n397) quando cabível; questionar o não oferecimento de ANPP (art. 28-A;\nTema 1.098 STJ) ou de sursis (Lei 9.099 art. 89; Súm. 696 STF)."
+description: "Usar para redigir ou revisar: Resposta à Acusação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Resposta à Acusação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e prazo
 

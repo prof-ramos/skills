@@ -5,8 +5,8 @@ title: "Propriedade Industrial (Lei 9.279/1996, LPI + ADI 5.529 STF)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/propriedade-industrial-lei-9279.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/propriedade-industrial-lei-9279/SKILL.md"
 triggers:
   - "propriedade industrial"
   - "Lei 9.279/1996"
@@ -22,10 +22,15 @@ triggers:
   - "trade dress"
   - "Protocolo de Madri"
   - "cultivares Lei 9.456"
-description: "Propriedade industrial sob Lei 9.279/1996 (LPI): patentes (PI 20\nanos + MU 15); marcas (10 anos renováveis; anterioridade +\nespecialidade; caducidade em 5 anos sem uso); desenho industrial\n(10 + 3×5); STF ADI 5.529 (2021) declarou inconstitucional o art. 40\npar. único; competência JF para nulidade (INPI litisconsorte); CUP +\nTRIPS; AP privada nos crimes (arts. 183-194). Inclui proteção de\ncultivares (Lei 9.456/1997, SNPC) e royalties de sementes salvas\n(STJ IAC 4, soja transgênica)."
+description: "Usar para pesquisar ou analisar: Propriedade Industrial (Lei 9.279/1996, LPI + ADI 5.529 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Propriedade Industrial (Lei 9.279/1996)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas (LPI)
 

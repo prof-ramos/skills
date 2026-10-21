@@ -5,8 +5,8 @@ title: "Audiência de Conciliação CPC 334 e Desinteresse das Partes (Tema 1.27
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/audiencia-conciliacao-cpc-334-tema-1271.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/audiencia-conciliacao-cpc-334-tema-1271/SKILL.md"
 triggers:
   - "Tema 1.271 STJ"
   - "audiência conciliação CPC 334"
@@ -16,10 +16,15 @@ triggers:
   - "REsp 2.071.340-MG"
   - "desinteresse de ambas as partes"
   - "multa ausência audiência de conciliação"
-description: "Regra do CPC art. 334: audiência de conciliação/mediação\nOBRIGATÓRIA na primeira fase, salvo desinteresse EXPRESSO de\nAMBAS as partes (autor na petição + réu em peça específica até\n10 dias antes) ou objeto que não admite autocomposição (§4 I e\nII). Tema 1.271 STJ (REsp 2.071.340-MG, Corte Especial, Rel.\nMin. Maria Isabel Gallotti) AINDA SEM TESE FIXADA até 07/2026:\ndefinirá os efeitos da ausência da audiência\nquando apenas UMA das partes manifesta desinteresse."
+description: "Usar para pesquisar ou analisar: Audiência de Conciliação CPC 334 e Desinteresse das Partes (Tema 1.271 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Conciliação (CPC 334)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

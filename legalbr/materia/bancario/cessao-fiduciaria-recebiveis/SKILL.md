@@ -5,8 +5,8 @@ title: "Cessão Fiduciária de Recebíveis (Lei 4.728/65 art. 66-B + Lei 9.514/9
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cessao-fiduciaria-recebiveis.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cessao-fiduciaria-recebiveis/SKILL.md"
 triggers:
   - "cessão fiduciária"
   - "Lei 4.728/65"
@@ -19,10 +19,15 @@ triggers:
   - "trava bancária"
   - "propriedade fiduciária de crédito"
   - "antecipação de recebíveis"
-description: "Cessão fiduciária de recebíveis (Lei 4.728/65 art. 66-B + Lei 9.514/97\nart. 17 + CC 1.361 §3º): propriedade resolúvel do crédito ao credor;\nregistro no RTD + especificação dos créditos cedidos (REsp 1.412.529);\nextraconcursalidade na RJ (LRF 49 §3º + Lei 14.112/20; Súm. 581 STJ:\nexecução contra coobrigados prossegue); oponibilidade ao devedor\ncedido (notificação CC 290); restituição na falência (LRF 85/86)."
+description: "Usar para pesquisar ou analisar: Cessão Fiduciária de Recebíveis (Lei 4.728/65 art. 66-B + Lei 9.514/97 art. 17). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cessão Fiduciária de Recebíveis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

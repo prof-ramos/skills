@@ -5,8 +5,8 @@ title: "Pacote Turístico: Cancelamento e Solidariedade (Lei 11.771)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/pacote-turistico-cancelamento.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/pacote-turistico-cancelamento/SKILL.md"
 triggers:
   - "pacote turístico"
   - "agência de viagem"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 14.046"
   - "voucher de viagem"
   - "hospedagem reservada"
-description: "Pacote turístico sob Lei 11.771/2008 (PNT) + CDC + Lei 14.046/2020\n(COVID, pandemia) + Dec. 7.381/2010: solidariedade na cadeia\nturística (agência + operadora + transportadora + hotel, CDC 7\npar. único); cancelamento, restituição proporcional ou voucher;\nforça maior, Lei 14.046 permitiu reembolso em 12 meses;\nresponsabilidade objetiva por defeito (CDC 14); CADASTUR e\nfiscalização do Ministério do Turismo."
+description: "Usar para pesquisar ou analisar: Pacote Turístico: Cancelamento e Solidariedade (Lei 11.771). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pacote Turístico: Cancelamento e Solidariedade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

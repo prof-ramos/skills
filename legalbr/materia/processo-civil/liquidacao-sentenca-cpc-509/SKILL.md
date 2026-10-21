@@ -5,8 +5,8 @@ title: "Liquidação de Sentença (CPC 509-512)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/liquidacao-sentenca-cpc-509.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/liquidacao-sentenca-cpc-509/SKILL.md"
 triggers:
   - "liquidação de sentença"
   - "CPC 509"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 344 STJ"
   - "hipoteca judicial"
   - "CPC 495"
-description: "Liquidação de sentença sob CPC 509-512: hipóteses (arbitramento,\nprocedimento comum, mero cálculo do CPC 524); congruência com o\ntítulo (Súm. 344 STJ) e vedação à rediscussão do mérito; juros e\ncorreção pela EC 113/2021, EC 136/2025 e Lei 14.905/2024; hipoteca judicial\n(CPC 495); liquidação individual em coletivas (CDC 95-100)."
+description: "Usar para pesquisar ou analisar: Liquidação de Sentença (CPC 509-512). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Liquidação de Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

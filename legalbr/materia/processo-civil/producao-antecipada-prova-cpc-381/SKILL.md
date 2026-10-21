@@ -5,8 +5,8 @@ title: "Produção Antecipada de Prova (CPC 381-383 + CPP 156/366)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/producao-antecipada-prova-cpc-381.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/producao-antecipada-prova-cpc-381/SKILL.md"
 triggers:
   - "produção antecipada de prova"
   - "CPC 381"
@@ -18,10 +18,15 @@ triggers:
   - "direito autônomo à prova"
   - "ata notarial"
   - "CPC 384"
-description: "Produção antecipada de prova sob CPC 381-383 + CPP 156 II + 366:\n3 hipóteses (I cautelar com periculum; II + III direito AUTÔNOMO\nà prova SEM urgência, STJ); sem pronunciamento sobre o fato ou\nsuas consequências (382 §2); sem defesa ou recurso, salvo contra\ndecisão que INDEFERIR TOTALMENTE a prova (382 §4); autos em\ncartório por 1 mês (383); CPP 156 II (urgência + relevância);\nCPP 366 + Súm. 455 STJ (fundamentação concreta exigida)."
+description: "Usar para pesquisar ou analisar: Produção Antecipada de Prova (CPC 381-383 + CPP 156/366). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Produção Antecipada de Prova
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 381: hipóteses (Lei 13.105/2015)
 

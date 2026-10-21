@@ -5,8 +5,8 @@ title: "Contrato Eletrônico como Título Executivo (CPC 784 §4º + Lei 14.620/
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/contrato-eletronico-titulo-executivo-cpc-784.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/contrato-eletronico-titulo-executivo-cpc-784/SKILL.md"
 triggers:
   - "contrato eletrônico título executivo"
   - "CPC 784 §4º"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.620 título executivo"
   - "contrato assinado eletronicamente execução"
   - "prova de integridade e autoria"
-description: "Executividade do contrato eletrônico (CPC 784 III e §4º, incluído pela\nLei 14.620/2023): qualquer modalidade de assinatura eletrônica prevista\nem lei serve ao título, dispensadas as 2 testemunhas quando a integridade\nfor conferida por provedor de assinatura; níveis da Lei 14.063/2020 e\nMP 2.200-2/2001; origem no REsp 1.495.920/DF; prova de autoria e\nintegridade e defesas típicas em embargos."
+description: "Usar para pesquisar ou analisar: Contrato Eletrônico como Título Executivo (CPC 784 §4º + Lei 14.620/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato Eletrônico como Título Executivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

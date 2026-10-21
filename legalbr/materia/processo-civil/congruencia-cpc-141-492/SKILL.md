@@ -5,8 +5,8 @@ title: "Princípio da Congruência (CPC 141 + 492, extra/ultra/citra petita)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/congruencia-cpc-141-492.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/congruencia-cpc-141-492/SKILL.md"
 triggers:
   - "princípio da congruência"
   - "adstrição ao pedido"
@@ -19,10 +19,15 @@ triggers:
   - "CPC 493"
   - "reformatio in pejus"
   - "Súm. 45 STJ"
-description: "Princípio da congruência sob CPC 141 + 492: vedada sentença extra\n(objeto diverso), ultra (além do quantum) e citra petita (omitir);\npedidos implícitos (juros + correção + honorários, CPC 322 §1);\ninterpretação ampla pela boa-fé (322 §2); exceções: matérias de\nordem pública + indisponíveis + fatos supervenientes (CPC 493);\nSúm. 45 STJ (reexame necessário); tutela específica não viola."
+description: "Usar para pesquisar ou analisar: Princípio da Congruência (CPC 141 + 492, extra/ultra/citra petita). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípio da Congruência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamentos normativos
 

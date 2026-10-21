@@ -5,8 +5,8 @@ title: "Crimes contra Pessoa Idosa (Lei 10.741/2003, Estatuto da Pessoa Idosa)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-idoso-lei-10741.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-idoso-lei-10741/SKILL.md"
 triggers:
   - "Estatuto do Idoso"
   - "Estatuto da Pessoa Idosa"
@@ -17,10 +17,15 @@ triggers:
   - "JECRIM idoso"
   - "CP 61 II h"
   - "art. 95 Lei 10.741"
-description: "Lei 10.741/2003 (Estatuto da Pessoa Idosa, Lei 14.423/2022\nrenomeou), crimes arts. 95-108: discriminação (96), omitir\nsocorro a idoso (97), abandono (98), maus-tratos/exposição a\nperigo (99, penas elevadas pela Lei 15.163/2025: recl. 2-5;\nlesão grave 3-7; morte 8-14), apropriação bens (102), reter\ncartão magnético (104), imagem vexatória (105). Ação penal\nSEMPRE PÚBLICA INCONDICIONADA (art. 95). CP 61 II \"h\" agravante.\nPena máx ≤ 4 anos: rito do JECRIM SEM transação penal/sursis\n(STF ADI 3.096). Idoso ≥ 60 anos."
+description: "Usar para pesquisar ou analisar: Crimes contra Pessoa Idosa (Lei 10.741/2003, Estatuto da Pessoa Idosa). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Pessoa Idosa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 14.423/2022
 

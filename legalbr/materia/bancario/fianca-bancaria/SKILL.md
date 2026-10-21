@@ -5,8 +5,8 @@ title: "Carta de Fiança Bancária (Res. CMN 2.325/96 e 4.557/17)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/fianca-bancaria.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/fianca-bancaria/SKILL.md"
 triggers:
   - "fiança bancária"
   - "Res. CMN 2.325/96"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.385 STJ"
   - "carta de crédito stand-by"
   - "fiança autônoma"
-description: "Carta de fiança bancária (Res. CMN 2.325/96 e 4.557/17): garantia\npessoal prestada por instituição financeira; espécies (bid bond,\nperformance, garantia judicial, fiscal); autonomia funcional (à\nprimeira demanda); distinção do seguro garantia; regresso; Lei\n14.133/21 art. 96 (admite como garantia em licitação até 10%);\nexecução fiscal: não suspende crédito tributário (Tema 378 STJ),\nsuspende o não tributário com acréscimo de 30% (Tema 1.203 STJ) e\nnão é recusável por inobservância da ordem legal da penhora\n(Tema 1.385 STJ)."
+description: "Usar para pesquisar ou analisar: Carta de Fiança Bancária (Res. CMN 2.325/96 e 4.557/17). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta de Fiança Bancária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

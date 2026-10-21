@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "renovatoria-locaticia"
 version: 2
-sourcePath: "lib/skills/official/forma/renovatoria-locaticia.md"
+sourcePath: "legalbr/forma/renovatoria-locaticia/SKILL.md"
 triggers:
   - "ação renovatória de locação"
   - "arts. 51 a 57 Lei 8.245/91"
@@ -15,10 +15,15 @@ triggers:
   - "prazo decadencial da ação renovatória"
   - "renovatória de locação comercial"
   - "exceção de retomada na ação renovatória"
-description: "Ação renovatória de locação não residencial sob a Lei 8.245/91\n(arts. 51-57 e 71-75): direito potestativo do locatário à renovação\ncompulsória em tutela do ponto comercial; requisitos cumulativos\n(contrato escrito, prazo mínimo e mesmo ramo); prazo decadencial\nentre 12 e 6 meses do termo; instrução obrigatória da inicial;\ndefesas do locador e hipóteses de retomada."
+description: "Usar para redigir ou revisar: Ação Renovatória de Locação Não Residencial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Renovatória de Locação Não Residencial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases e natureza
 

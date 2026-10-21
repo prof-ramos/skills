@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "peticao-inicial-civel"
 version: 2
-sourcePath: "lib/skills/official/forma/peticao-inicial-civel.md"
+sourcePath: "legalbr/forma/peticao-inicial-civel/SKILL.md"
 triggers:
   - "petição inicial cível"
   - "requisitos da inicial art. 319 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "foro de eleição art. 63 pós Lei 14.879/2024"
   - "valor da causa e tutela provisória"
   - "petição inicial sem vícios de inépcia art. 330"
-description: "Petição inicial cível sob o CPC/15: estrutura art. 319; causa de pedir\nsubstanciada (fatos e fundamentos); pedidos certos e determinados;\ntutela provisória quando cabível; valor da causa pelo art. 292; opção\nsobre a audiência do art. 334; controle do foro de eleição pós-Lei\n14.879/2024 (pertinência com domicílio ou local da obrigação, art. 63\n§§ 1º e 5º); juros e correção privados sob Lei 14.905/2024."
+description: "Usar para redigir ou revisar: Petição Inicial Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

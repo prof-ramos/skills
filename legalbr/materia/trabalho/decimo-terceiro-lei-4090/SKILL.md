@@ -5,8 +5,8 @@ title: "Décimo Terceiro Salário (Lei 4.090/1962 + Lei 4.749/1965)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/decimo-terceiro-lei-4090.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/decimo-terceiro-lei-4090/SKILL.md"
 triggers:
   - "13º salário"
   - "décimo terceiro"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 4.090"
   - "Lei 4.749"
   - "Súm. 157 TST"
-description: "13º salário (Lei 4.090/62 + Lei 4.749/65): 1/12 por mês trabalhado\nou fração ≥ 15 dias; 1ª parcela entre fev/nov; 2ª até 20/12; base\ninclui parcelas habituais (HE, adic. noturno, comissões); proporcional\nna rescisão sem justa causa (Lei 4.090 art. 3); devido no pedido de\ndemissão (Súm. 157 TST); justa causa do empregado afasta o direito."
+description: "Usar para pesquisar ou analisar: Décimo Terceiro Salário (Lei 4.090/1962 + Lei 4.749/1965). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Décimo Terceiro Salário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

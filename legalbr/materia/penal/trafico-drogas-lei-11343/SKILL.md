@@ -5,8 +5,8 @@ title: "Tráfico de Drogas (Lei 11.343/2006)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/trafico-drogas-lei-11343.md"
+version: 2
+sourcePath: "legalbr/materia/penal/trafico-drogas-lei-11343/SKILL.md"
 triggers:
   - "tráfico de drogas"
   - "Lei 11.343/2006"
@@ -18,10 +18,15 @@ triggers:
   - "HC 118.533 STF"
   - "Tema 506 STF"
   - "RE 635.659"
-description: "Tráfico de drogas sob Lei 11.343/2006: art. 33 (recl. 5-15 + multa,\nhediondo); art. 33 §4, tráfico **privilegiado**, não hediondo\n(HC 118.533 STF); art. 35 associação (3-10); descriminalização\ndo porte de maconha para uso pessoal até 40g (STF RE 635.659,\nTema 506, 2024); regime fechado obrigatório inconstitucional;\nliberdade provisória admitida."
+description: "Usar para pesquisar ou analisar: Tráfico de Drogas (Lei 11.343/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tráfico de Drogas (Lei 11.343/2006)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 44, Exame Psicotécnico só por Lei"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/sumula-vinculante-44-psicotecnico-lei.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-44-psicotecnico-lei/SKILL.md"
 triggers:
   - "Súmula Vinculante 44"
   - "SV 44"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 338 STF"
   - "requisitos psicotécnico"
   - "objetividade exame"
-description: "SV 44 STF (08/04/2015): \"Só por lei se pode sujeitar a exame\npsicotécnico a habilitação de candidato a cargo público\".\nConverte Súm. 686/STF. Requisitos cumulativos: previsão em lei\nda carreira, objetividade científica dos critérios e direito a\nrecurso pelo candidato. Edital sozinho não basta. Aplica-se a\ntodos os entes federativos e Poderes."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 44, Exame Psicotécnico só por Lei. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 44, Psicotécnico só por Lei
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

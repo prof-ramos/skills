@@ -5,8 +5,8 @@ title: "Prova Testemunhal (CPP 202-225)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/testemunhas-cpp-202-225.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/testemunhas-cpp-202-225/SKILL.md"
 triggers:
   - "CPP 202"
   - "testemunha processo penal"
@@ -18,10 +18,15 @@ triggers:
   - "acareação CPP 229"
   - "testemunha protegida"
   - "falso testemunho"
-description: "Prova testemunhal CPP 202-225: dever de depor (202); compromisso\n(203); dispensa de compromisso (208); recusa em razão de\nparentesco (CPP 206); proibição de depor por sigilo profissional\n(207); número máximo (ordinário: 8 por parte); inquirição direta\npelas partes (CPP 212, Lei 11.690/2008); retirada do\nréu/videoconferência (CPP 217); proteção de testemunhas Lei\n9.807/99; falso testemunho CP 342."
+description: "Usar para pesquisar ou analisar: Prova Testemunhal (CPP 202-225). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prova Testemunhal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Princípios
 

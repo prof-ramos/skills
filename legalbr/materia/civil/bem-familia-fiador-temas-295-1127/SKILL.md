@@ -5,8 +5,8 @@ title: "Bem de Família do Fiador (Temas 295 + 1.127 STF)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/bem-familia-fiador-temas-295-1127.md"
+version: 2
+sourcePath: "legalbr/materia/civil/bem-familia-fiador-temas-295-1127/SKILL.md"
 triggers:
   - "Tema 295 STF"
   - "RE 612.360"
@@ -18,10 +18,15 @@ triggers:
   - "fiador locação residencial"
   - "Súmula 549 STJ"
   - "Súmula 332 STJ"
-description: "Tema 295 STF (RE 612.360, Min. Ellen Gracie, 13/08/2010) +\nTema 1.127 STF (RE 1.307.334, Min. Alexandre, 08/03/2022):\nconstitucional a penhora de bem de família do fiador em contrato\nde locação, seja RESIDENCIAL, seja COMERCIAL. Lei 8.009/90 art. 3\nVII. Direito à moradia do locatário prepondera; fiança em CCB ou\noutras não autorizam penhora."
+description: "Usar para pesquisar ou analisar: Bem de Família do Fiador (Temas 295 + 1.127 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bem de Família do Fiador (Temas 295 + 1.127 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

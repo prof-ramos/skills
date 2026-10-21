@@ -5,8 +5,8 @@ title: "Penhora de Saldo Bancário + Sisbajud (CPC 854 + Impenhorabilidade CPC 8
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/penhora-saldo-bancario-sisbajud.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/penhora-saldo-bancario-sisbajud/SKILL.md"
 triggers:
   - "Sisbajud"
   - "Bacenjud"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.325 STJ"
   - "REsp 1.184.765"
   - "teimosinha"
-description: "Penhora de saldo bancário pelo Sisbajud (Sistema de Busca de Ativos do\nPoder Judiciário, sucessor do Bacenjud): regida pelo CPC 854 (bloqueio\npreferencial, ordem de prelação CPC 835); impenhorabilidades do CPC 833\n(salário IV, poupança até 40 SM X); reiteração automática (teimosinha)\nlegítima segundo o Tema 1.325 STJ; excesso de bloqueio liberado em 24h;\nTema 1.153 STJ: verba honorária sucumbencial não se enquadra na exceção\nde prestação alimentícia do CPC 833 §2."
+description: "Usar para pesquisar ou analisar: Penhora de Saldo Bancário + Sisbajud (CPC 854 + Impenhorabilidade CPC 833). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Saldo Bancário + Sisbajud
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

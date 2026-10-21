@@ -5,8 +5,8 @@ title: "Procuradoria-Geral do Município (CF 132 por simetria)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/pgm-procuradoria-municipal.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pgm-procuradoria-municipal/SKILL.md"
 triggers:
   - "PGM"
   - "Procuradoria-Geral do Município"
@@ -16,10 +16,15 @@ triggers:
   - "carreira municipal"
   - "representação judicial Município"
   - "cobrança dívida ativa municipal"
-description: "Procuradoria-Geral do Município (CF 132 por simetria): criação de PGM\né opção do Município (ADI 6.331); instituída, incide o regime do CF 132\n(ADPF 1.037): carreira com concurso público, unicidade, exclusividade,\nestabilidade após 3 anos; cobrança da dívida ativa municipal (IPTU,\nITBI, ISS, taxas); representação judicial e consultoria; aplicação por\nsimetria da Lei 13.327 (honorários); sem autonomia funcional (ADI 5.029\nSTF), preservada a independência técnica do procurador; teto conforme\nTema 510 STF; Tema 793 STF (solidariedade SUS); leis orgânicas municipais."
+description: "Usar para pesquisar ou analisar: Procuradoria-Geral do Município (CF 132 por simetria). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procuradoria-Geral do Município (CF 132 por simetria)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Correção Monetária e Juros de Mora em Condenações da Fazenda (Tema 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/correcao-juros-fazenda-tema-905.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/correcao-juros-fazenda-tema-905/SKILL.md"
 triggers:
   - "Tema 905 STJ"
   - "correção monetária Fazenda Pública"
@@ -22,10 +22,15 @@ triggers:
   - "REsp 1.495.144"
   - "Manual Cálculos JF"
   - "RE 870.947 Tema 810 STF"
-description: "Tema 905 STJ (REsps 1.495.146, 1.492.221 e 1.495.144, Min. Mauro\nCampbell, 1ª Seção, 22/02/2018, trânsito 19/02/2020): correção\nmonetária em condenações da Fazenda NÃO segue art. 1-F Lei 9.494\n(Lei 11.960). Juros pela poupança aplicam-se, salvo tributário\n(SELIC). Critérios por natureza: administrativa (SELIC no\ninterregno CC/2002 a Lei 11.960), servidor, previdenciária (INPC),\ntributária (SELIC). Dialoga com Tema 810 STF (TR inconstitucional\npara correção)."
+description: "Usar para pesquisar ou analisar: Correção Monetária e Juros de Mora em Condenações da Fazenda (Tema 905 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Correção Monetária e Juros em Condenações da Fazenda (Tema 905 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 905 STJ)
 

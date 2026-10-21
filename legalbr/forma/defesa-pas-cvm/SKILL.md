@@ -5,8 +5,8 @@ title: "Defesa em Processo Administrativo Sancionador (CVM)"
 category: "forma"
 materia: null
 documentType: "defesa-pas-cvm"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-pas-cvm.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-pas-cvm/SKILL.md"
 triggers:
   - "defesa CVM"
   - "PAS CVM"
@@ -18,10 +18,15 @@ triggers:
   - "acionista controlador"
   - "administrador companhia aberta"
   - "mercado de capitais sancionador"
-description: "Defesa em PAS CVM (Lei 6.385/76 + Lei 13.506/17 + Resolução CVM 45/21,\natual. Res. 235/25). Rito comum (defesa em 30 dias após citação) +\nrito simplificado (Anexo C da Res. 45); prescrição quinquenal e\nintercorrente (Lei 9.873/99) como prejudiciais; sanções do art. 11 da\nLei 6.385; termo de compromisso (art. 11 §5) e acordo administrativo\nem supervisão como saídas; sustentação oral em sessão colegiada\n(15 min); recurso ao CRSFN em 30 dias."
+description: "Usar para redigir ou revisar: Defesa em Processo Administrativo Sancionador (CVM). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Processo Administrativo Sancionador (CVM)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

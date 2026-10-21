@@ -5,8 +5,8 @@ title: "Quesitos para Perícia"
 category: "forma"
 materia: null
 documentType: "quesitos-pericia"
-version: 1
-sourcePath: "lib/skills/official/forma/quesitos-pericia.md"
+version: 2
+sourcePath: "legalbr/forma/quesitos-pericia/SKILL.md"
 triggers:
   - "quesitos para perícia"
   - "prova pericial arts. 464 a 480 CPC"
@@ -18,10 +18,15 @@ triggers:
   - "impugnação ao laudo pericial"
   - "segunda perícia CPC 480"
   - "parecer do assistente técnico"
-description: "Quesitos para perícia (CPC 464 a 480): delimitam o objeto e\nmaterializam o contraditório técnico. Perguntas OBJETIVAS, FECHADAS e\nNUMERADAS, em ordem lógica. Quesitos da parte em 15 dias da intimação\nda nomeação (art. 465 §1º III); suplementares no curso (art. 469); de\nesclarecimento em 15 dias do laudo (art. 477 §2º). Não se invade\nmatéria de direito. Cobre a fase pós-laudo: manifestação/impugnação e\nparecer do assistente em 15 dias (art. 477 §1º), esclarecimentos em\naudiência (§3º) e segunda perícia (art. 480)."
+description: "Usar para redigir ou revisar: Quesitos para Perícia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Quesitos para Perícia
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

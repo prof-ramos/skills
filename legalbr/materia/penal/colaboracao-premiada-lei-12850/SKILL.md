@@ -5,8 +5,8 @@ title: "Colaboração Premiada (Lei 12.850/2013 + Lei 9.807/1999 + Anticrime)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/colaboracao-premiada-lei-12850.md"
+version: 2
+sourcePath: "legalbr/materia/penal/colaboracao-premiada-lei-12850/SKILL.md"
 triggers:
   - "colaboração premiada"
   - "Lei 12.850/2013"
@@ -19,10 +19,15 @@ triggers:
   - "homologação judicial"
   - "ANPP correlato"
   - "imutabilidade acordo"
-description: "Colaboração premiada Lei 12.850/2013 (art. 4) + Lei 9.807/1999:\nNEGÓCIO JURÍDICO PROCESSUAL + meio de obtenção de prova (HC\n127.483 STF); requisitos voluntariedade + confissão integral +\nefetividade; benefícios redução 1/3 a 2/3 + PRD + perdão\njudicial; §16 (antigo §13) VEDADA condenação EXCLUSIVA, exige\ncorroboração externa (AP 1.074 STJ + STF 2026); ANPP (CPP 28-A)."
+description: "Usar para pesquisar ou analisar: Colaboração Premiada (Lei 12.850/2013 + Lei 9.807/1999 + Anticrime). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Colaboração Premiada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza jurídica
 

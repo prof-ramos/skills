@@ -5,8 +5,8 @@ title: "Oitiva por Carta Precatória e Réu Preso (CPP 222 + Tema 240 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/oitiva-carta-precatoria-criminal-tema-240.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/oitiva-carta-precatoria-criminal-tema-240/SKILL.md"
 triggers:
   - "CPP 222"
   - "oitiva por carta precatória criminal"
@@ -19,10 +19,15 @@ triggers:
   - "intimação da expedição da precatória"
   - "nulidade da oitiva deprecada"
   - "videoconferência CPP 222 §3"
-description: "Oitiva de testemunha por carta precatória no processo penal (CPP 222\ne 222-A): intimação das partes da EXPEDIÇÃO (Súm. 155 STF: nulidade\nrelativa; Súm. 273 STJ: dispensa intimação da data da audiência no\ndeprecado); Tema 240 STF (RE 602.543): inexiste nulidade pela\nausência do réu preso que não manifestou expressamente intenção de\nparticipar; instrução não se suspende (§1); videoconferência (§3);\nprejuízo como filtro (CPP 563)."
+description: "Usar para pesquisar ou analisar: Oitiva por Carta Precatória e Réu Preso (CPP 222 + Tema 240 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Oitiva de Testemunha por Carta Precatória (Processo Penal)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

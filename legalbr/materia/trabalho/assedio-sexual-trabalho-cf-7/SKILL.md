@@ -5,8 +5,8 @@ title: "Assédio Sexual no Trabalho (CP 216-A + Lei 14.457/2022 + Reforma CIPA+A
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/assedio-sexual-trabalho-cf-7.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/assedio-sexual-trabalho-cf-7/SKILL.md"
 triggers:
   - "assédio sexual trabalho"
   - "CP 216-A"
@@ -18,10 +18,15 @@ triggers:
   - "hostile work environment"
   - "OIT 190"
   - "Política Combate Assédio"
-description: "Assédio sexual no trabalho: **CP art. 216-A** (crime) + **Lei\n14.457/2022** (Programa Emprega + Mulheres), que institui medidas\npreventivas obrigatórias para empresas com CIPA. **Crime**: detenção\n1-2 anos + multa (CP 216-A). **CIPA → CIPA+A** (inclui Assédio).\nEmpresas devem: (i) regras de conduta + ampla divulgação; (ii)\n**canal de denúncias** com anonimato; (iii) tema nas atividades da\nCIPA; (iv) capacitação a cada 12 meses. **Responsabilidade do\nempregador** pelos atos de prepostos (CC 932 III + 933: objetiva;\na culpa presumida da Súm. 341 STF ficou superada).\nNR-1 (riscos psicossociais) + OIT 190 (vigência internacional desde\njun/2021; ratificação pelo Brasil em tramitação) convergem.\nEstabilidade acidentária possível (NTEP + transtornos). Sanções\nadministrativas + cíveis + penais cumuláveis."
+description: "Usar para pesquisar ou analisar: Assédio Sexual no Trabalho (CP 216-A + Lei 14.457/2022 + Reforma CIPA+A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assédio Sexual no Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

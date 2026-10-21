@@ -5,8 +5,8 @@ title: "Responsabilidade Ambiental (CF 225 §3 + Lei 6.938/81 + Lei 9.605/98)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/responsabilidade-ambiental.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/responsabilidade-ambiental/SKILL.md"
 triggers:
   - "responsabilidade ambiental"
   - "dano ambiental"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 618 STJ"
   - "Súm. 629 STJ"
   - "art. 14 §1 Lei 6.938"
-description: "Responsabilidade ambiental sob CF 225 §3 + Lei 6.938/81 (PNMA\nart. 14 §1) + Lei 9.605/98: tríplice (civil + adm + penal), independentes\ne cumuláveis. Civil OBJETIVA pelo RISCO INTEGRAL (Tema 707 STJ, sem\nexcludentes); solidária entre direto + indireto + financiador + Estado\nomisso (Súm. 652); propter rem (Súm. 623 + Tema 1.204); imprescritível\n(Tema 999 STF); inversão do ônus (Súm. 618); multa adm é personalíssima."
+description: "Usar para pesquisar ou analisar: Responsabilidade Ambiental (CF 225 §3 + Lei 6.938/81 + Lei 9.605/98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Ambiental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

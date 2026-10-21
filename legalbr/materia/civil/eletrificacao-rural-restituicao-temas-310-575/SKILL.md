@@ -5,8 +5,8 @@ title: "Restituição de Aportes em Rede de Eletrificação Rural Incorporada (T
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/eletrificacao-rural-restituicao-temas-310-575.md"
+version: 2
+sourcePath: "legalbr/materia/civil/eletrificacao-rural-restituicao-temas-310-575/SKILL.md"
 triggers:
   - "eletrificação rural"
   - "incorporação de rede elétrica"
@@ -20,10 +20,15 @@ triggers:
   - "participação financeira do consumidor"
   - "restituição de aportes rede elétrica"
   - "Decreto 41.019"
-description: "Restituição de valores aportados por particulares na construção de redes de\neletrificação rural incorporadas por concessionária: Temas 310/311 (prazo de\n20 anos CC/16 e 5 anos CC/02), Tema 560 (termo de contribuição, 3 anos, CC\n206 §3 IV) e Tema 575 STJ (Decreto 41.019/57, hipóteses de devolução) +\nSúmula 547; termo inicial na efetiva incorporação; REN ANEEL 229/2006 e Lei\n10.848/2004 art. 15."
+description: "Usar para pesquisar ou analisar: Restituição de Aportes em Rede de Eletrificação Rural Incorporada (Temas 310, 311, 560 e 575 STJ + Súmula 547). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Restituição de Aportes em Rede de Eletrificação Rural Incorporada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Litígio de massa: particulares que custearam a construção de redes, ramais e subestações de eletrificação rural posteriormente incorporadas ao patrimônio da concessionária pedem a restituição dos valores aportados, sob pena de enriquecimento sem causa da distribuidora.
 

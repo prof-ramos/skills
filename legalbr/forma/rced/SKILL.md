@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "rced"
 version: 2
-sourcePath: "lib/skills/official/forma/rced.md"
+sourcePath: "legalbr/forma/rced/SKILL.md"
 triggers:
   - "RCED"
   - "recurso contra expedição de diploma"
@@ -19,10 +19,15 @@ triggers:
   - "LC 64/90 Ficha Limpa"
   - "Súm. TSE 47"
   - "recurso contra a diplomação"
-description: "RCED sob o Código Eleitoral art. 262 (Lei 12.891/13): instrumento\nresidual com hipóteses taxativas: inelegibilidade superveniente\nconstitucional, infraconstitucional até o pleito e falta de condição\nde elegibilidade; prazo decadencial de 3 dias da diplomação;\ncompetência do tribunal superior; litisconsórcio necessário em\nmajoritárias."
+description: "Usar para redigir ou revisar: Recurso Contra Expedição de Diploma (RCED). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RCED: Recurso Contra Expedição de Diploma
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

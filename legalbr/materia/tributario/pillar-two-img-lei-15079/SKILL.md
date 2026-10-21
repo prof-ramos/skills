@@ -5,8 +5,8 @@ title: "Pillar Two, Imposto Mínimo Global (Lei 15.079/2024 + OECD GloBE Rules)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/pillar-two-img-lei-15079.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pillar-two-img-lei-15079/SKILL.md"
 triggers:
   - "Pillar Two"
   - "imposto mínimo global"
@@ -18,10 +18,15 @@ triggers:
   - "multinacional"
   - "OECD BEPS"
   - "top-up tax"
-description: "Imposto Mínimo Global (Pillar Two) Lei 15.079/2024 + OECD GloBE\nRules: garante carga mínima de 15% sobre lucros de grupos\nmultinacionais com receita ≥ EUR 750 mi; Brasil adotou via QDMTT\n(Qualified Domestic Minimum Top-up Tax), adicional da CSLL\nrecolhido no Brasil; vigência 2025; cálculo por jurisdição;\ncarve-outs para substância (folha + ativo tangível); cumulativo\ncom IRPJ/CSLL normais."
+description: "Usar para pesquisar ou analisar: Pillar Two, Imposto Mínimo Global (Lei 15.079/2024 + OECD GloBE Rules). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pillar Two, Imposto Mínimo Global (IMG)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

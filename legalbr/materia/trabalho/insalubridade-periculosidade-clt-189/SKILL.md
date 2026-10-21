@@ -5,8 +5,8 @@ title: "Adicional de Insalubridade + Periculosidade (CLT 189-200)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/insalubridade-periculosidade-clt-189.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/insalubridade-periculosidade-clt-189/SKILL.md"
 triggers:
   - "insalubridade"
   - "periculosidade"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 555 STF"
   - "ARE 664.335"
   - "aposentadoria especial por agente nocivo"
-description: "Adicional de insalubridade (CLT 189-192: 10/20/40% sobre salário\nmínimo + NR-15) e periculosidade (CLT 193: 30% sobre salário-base\n+ NR-16); SV 4 STF (vedada substituição judicial da base); EPI\neficaz afasta o adicional (CLT 191; Súm. 80 e 289 TST); no plano\nprevidenciário, Tema 555 STF e Tema 1.090 STJ (EPI × tempo especial;\nexceção do ruído); cumulação vedada pela regra do CLT 193 §2\n(cumulabilidade por fatos geradores autônomos é controvertida, OIT\n148/155); perícia obrigatória (CLT 195); aposentadoria especial\npós-EC 103."
+description: "Usar para pesquisar ou analisar: Adicional de Insalubridade + Periculosidade (CLT 189-200). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicional de Insalubridade + Periculosidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamentos
 

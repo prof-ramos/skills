@@ -5,8 +5,8 @@ title: "Acidente do Trabalho e Estabilidade Acidentária"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/acidente-trabalho-estabilidade-lei-8213.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/acidente-trabalho-estabilidade-lei-8213/SKILL.md"
 triggers:
   - "acidente do trabalho"
   - "Lei 8.213/1991"
@@ -22,10 +22,15 @@ triggers:
   - "doença ocupacional"
   - "cota PCD"
   - "Lei 8.213 art. 93"
-description: "Acidente do trabalho + estabilidade (Lei 8.213 + CF 7 XXVIII):\nart. 118 (12 meses pós-B91); Súm. 378 TST; benefícios B91/B92/\nB93/B94; Tema 932 STF (objetiva em risco); NTEP inverte ônus;\nreparação civil CC 950 + Súm. 387 STJ."
+description: "Usar para pesquisar ou analisar: Acidente do Trabalho e Estabilidade Acidentária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acidente do Trabalho + Estabilidade Acidentária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

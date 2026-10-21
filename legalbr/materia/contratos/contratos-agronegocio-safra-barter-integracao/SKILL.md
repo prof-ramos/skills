@@ -6,7 +6,7 @@ category: "materia"
 materia: "contratos"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/contratos/contratos-agronegocio-safra-barter-integracao.md"
+sourcePath: "legalbr/materia/contratos/contratos-agronegocio-safra-barter-integracao/SKILL.md"
 triggers:
   - "venda de safra futura"
   - "soja verde"
@@ -23,10 +23,15 @@ triggers:
   - "Proagro"
   - "seguro rural"
   - "frustração de safra"
-description: "Contratos comerciais do agronegócio: venda de safra futura a preço fixo\n(CC 483, \"soja verde\", com a jurisprudência do STJ que afasta revisão por\nalta de preço ou praga, CC 478-480), barter lastreado em CPR (Lei\n8.929/1994, com exclusão da recuperação judicial, art. 11), integração\nagroindustrial (Lei 13.288/2016: DIPC, CADEC, responsabilidades) e\narmazenagem com CDA/WA (Lei 9.973/2000 + Lei 11.076/2004). Inclui seguro\nrural e Proagro (Lei 8.171/91 + Lei 10.823/03): frustração de safra, ZARC,\nnegativa de cobertura e legitimidade do Bacen."
+description: "Usar para pesquisar ou analisar: Contratos do Agronegócio: Safra Futura, Barter e Integração (Lei 13.288). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos do Agronegócio: Safra Futura, Barter e Integração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

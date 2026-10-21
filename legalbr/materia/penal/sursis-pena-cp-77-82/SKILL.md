@@ -5,8 +5,8 @@ title: "Sursis: Suspensão Condicional da Pena (CP 77-82)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/sursis-pena-cp-77-82.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sursis-pena-cp-77-82/SKILL.md"
 triggers:
   - "sursis"
   - "suspensão condicional da pena"
@@ -19,10 +19,15 @@ triggers:
   - "sursis especial"
   - "Súm. 499 STF"
   - "período de prova"
-description: "Sursis (CP 77-82): comum PPL ≤ 2a + prova 2-4a; ETÁRIO (>70a)\nou humanitário PPL ≤ 4a + prova 4-6a; requisitos não reincidente\ndoloso + circunstâncias favoráveis + PRD insuficiente (CP 80,\nsubsidiária à CP 44); CP 78 §2 ESPECIAL (reparação + CP 59\nfavorável); CP 81 revogação obrigatória (doloso) + facultativa\n(audiência justificação); Súm. 499 STF (multa anterior não obsta)."
+description: "Usar para pesquisar ou analisar: Sursis: Suspensão Condicional da Pena (CP 77-82). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sursis: Suspensão Condicional da Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 77: sursis COMUM
 

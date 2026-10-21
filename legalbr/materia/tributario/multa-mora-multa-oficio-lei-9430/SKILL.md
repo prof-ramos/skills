@@ -5,8 +5,8 @@ title: "Multa de Mora e de Ofício Federal (Lei 9.430/96 arts. 44 e 61 + Lei 14.
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/multa-mora-multa-oficio-lei-9430.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/multa-mora-multa-oficio-lei-9430/SKILL.md"
 triggers:
   - "multa de mora"
   - "multa de ofício"
@@ -17,10 +17,15 @@ triggers:
   - "150% multa"
   - "Lei 14.689/23"
   - "retroatividade benigna"
-description: "Multa de mora Lei 9.430 art. 61 (0,33%/dia limitado a 20%) +\nmulta de ofício art. 44 (75% padrão; qualificada por dolo/\nfraude/simulação reduzida para 100% pela Lei 14.689/23, com\n150% só na reincidência do art. 44 §1º-A, Tema 863 STF);\nmulta isolada (50% sobre estimativa); cumulação vedada de mora +\nofício (REsp 1.355.947); CTN 106 II retroatividade benigna\naplicável; Selic + multa cumuláveis (não cumulam multas entre si)."
+description: "Usar para pesquisar ou analisar: Multa de Mora e de Ofício Federal (Lei 9.430/96 arts. 44 e 61 + Lei 14.689/23). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multa de Mora e de Ofício (Federal)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

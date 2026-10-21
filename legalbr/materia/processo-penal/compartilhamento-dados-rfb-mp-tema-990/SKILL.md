@@ -5,8 +5,8 @@ title: "Compartilhamento de Dados Bancários e Fiscais ao MP (Tema 990 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/compartilhamento-dados-rfb-mp-tema-990.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/compartilhamento-dados-rfb-mp-tema-990/SKILL.md"
 triggers:
   - "Tema 990 STF"
   - "compartilhamento RFB MP"
@@ -16,10 +16,15 @@ triggers:
   - "sigilo fiscal"
   - "prova ilícita compartilhamento"
   - "sem ordem judicial dados"
-description: "Tema 990 STF (RE 1.055.941, 04/12/2019): É LÍCITO o\ncompartilhamento, COM O MINISTÉRIO PÚBLICO E AUTORIDADES\nPOLICIAIS, dos relatórios de inteligência financeira do\nCOAF e dos dados fiscais da RFB, para fins penais,\nsem necessidade de prévia autorização judicial. LC\n105/2001 + LC 75/93. CF 5 X + XII."
+description: "Usar para pesquisar ou analisar: Compartilhamento de Dados Bancários e Fiscais ao MP (Tema 990 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compartilhamento de Dados RFB/COAF ao MP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

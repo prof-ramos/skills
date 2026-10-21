@@ -5,8 +5,8 @@ title: "Direitos do Usuário de Serviços Públicos (Lei 13.460/2017)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/lei-13460-usuario-servico.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-13460-usuario-servico/SKILL.md"
 triggers:
   - "Lei 13.460/2017"
   - "direitos do usuário"
@@ -18,10 +18,15 @@ triggers:
   - "acessibilidade"
   - "avaliação continuada"
   - "conselho de usuários"
-description: "Lei 13.460/2017 (Código de Defesa do Usuário): direitos básicos\n(informação, qualidade, urbanidade); deveres do usuário; carta\nde serviços ao usuário (art. 7); avaliação continuada da\nqualidade; ouvidorias com prazo de 30 dias para resposta;\nconselho de usuários; aplica-se a serviços públicos federal +\nestadual + municipal (CF 175 § ún)."
+description: "Usar para pesquisar ou analisar: Direitos do Usuário de Serviços Públicos (Lei 13.460/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos do Usuário de Serviços Públicos (Lei 13.460/2017)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

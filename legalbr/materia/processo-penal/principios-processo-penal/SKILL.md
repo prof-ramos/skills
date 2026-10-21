@@ -5,8 +5,8 @@ title: "Princípios do Processo Penal (CF 5 LIV/LVI/LVII + ADCs 43/44/54)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/principios-processo-penal.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/principios-processo-penal/SKILL.md"
 triggers:
   - "princípios processo penal"
   - "presunção de inocência"
@@ -19,10 +19,15 @@ triggers:
   - "razoável duração do processo penal"
   - "nemo tenetur"
   - "juiz natural"
-description: "Princípios processo penal: PRESUNÇÃO INOCÊNCIA CF 5 LVII +\nADCs 43/44/54 (vedada execução provisória pós-2º grau), EXCEÇÃO\nTema 1.068 STF (execução imediata pós-JÚRI); contraditório\n+ ampla defesa (LV); devido processo (LIV); duplo grau (CADH 8.2\nh); CF 5 LVI inadmissibilidade ilícitas; juiz natural; nemo\ntenetur (LXIII) + SV 11 algemas; razoável duração (LXXVIII)."
+description: "Usar para pesquisar ou analisar: Princípios do Processo Penal (CF 5 LIV/LVI/LVII + ADCs 43/44/54). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios do Processo Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## 1. PRESUNÇÃO DE INOCÊNCIA (CF 5 LVII)
 

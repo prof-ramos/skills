@@ -5,8 +5,8 @@ title: "ANPD: Natureza e Autonomia (LGPD + Lei 14.460/2022)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/adi-6786-lgpd-anpd.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/adi-6786-lgpd-anpd/SKILL.md"
 triggers:
   - "ANPD"
   - "LGPD Lei 13.709/2018"
@@ -15,10 +15,15 @@ triggers:
   - "autarquia de natureza especial"
   - "independência regulatória dados"
   - "EC 115/2022"
-description: "Natureza e autonomia da Autoridade Nacional de Proteção de\nDados (ANPD). A Lei 14.460/2022 transformou a ANPD em\nAUTARQUIA DE NATUREZA ESPECIAL, com independência funcional,\nautonomia técnica e mandatos fixos (LGPD + Lei 13.853/2019).\nArticula com EC 115/2022 (CF 5 LXXIX) e LGPD. Marco da\ngovernança de dados no Brasil."
+description: "Usar para pesquisar ou analisar: ANPD: Natureza e Autonomia (LGPD + Lei 14.460/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANPD: Natureza e Autonomia (LGPD)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

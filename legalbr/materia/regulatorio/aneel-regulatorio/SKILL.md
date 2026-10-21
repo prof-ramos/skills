@@ -6,7 +6,7 @@ category: "materia"
 materia: "regulatorio"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/regulatorio/aneel-regulatorio.md"
+sourcePath: "legalbr/materia/regulatorio/aneel-regulatorio/SKILL.md"
 triggers:
   - "ANEEL"
   - "Lei 9.427"
@@ -20,10 +20,15 @@ triggers:
   - "mercado livre energia"
   - "abertura baixa tensão ACL 2027 2028"
   - "supridor de última instância energia"
-description: "Regulação e processo sancionador da ANEEL, outorgas, tarifas, GD e ACL. Inclui a abertura futura da baixa tensão e o Supridor de Última Instância do Decreto 13.097/2026."
+description: "Usar para pesquisar ou analisar: ANEEL: Regulação e Procedimento Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANEEL: Regulação e Procedimento Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

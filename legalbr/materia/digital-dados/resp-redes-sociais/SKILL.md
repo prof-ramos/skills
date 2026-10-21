@@ -5,8 +5,8 @@ title: "Responsabilidade Civil em Redes Sociais (Marco Civil + LGPD)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/resp-redes-sociais.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/resp-redes-sociais/SKILL.md"
 triggers:
   - "Marco Civil da Internet"
   - "vazamento de dados dano moral"
@@ -22,10 +22,15 @@ triggers:
   - "direito ao esquecimento"
   - "EC 115/2022"
   - "responsabilidade de plataforma"
-description: "Responsabilidade civil em redes sociais sob o Marco Civil da Internet\n(Lei 12.965/2014, arts. 18-22) e a LGPD (Lei 13.709/2018): regime\ndiferenciado por tipo de ilícito após releitura do art. 19 pelo STF\n(Temas 533 e 987, com ajustes dos embargos de declaração de 2026);\nrol de remoção proativa, presunção relativa de culpa em\nimpulsionamento pago e disseminação inorgânica; art. 19 preservado\npara email, reuniões fechadas e mensageria interpessoal; marketplaces sob\nCDC; deveres estruturais de notice and action e representante; dano\nmoral presumido em vazamento de dados sensíveis; afastamento do\ndireito ao esquecimento (Tema 786 STF); golpe bancário (Súm. 479 STJ,\nfortuito interno); dados como direito fundamental autônomo (EC 115/2022)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil em Redes Sociais (Marco Civil + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil em Redes Sociais (Marco Civil + LGPD)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Amicus Curiae"
 category: "forma"
 materia: null
 documentType: "amicus-curiae"
-version: 1
-sourcePath: "lib/skills/official/forma/amicus-curiae.md"
+version: 2
+sourcePath: "legalbr/forma/amicus-curiae/SKILL.md"
 triggers:
   - "amicus curiae"
   - "amigo da corte"
@@ -16,10 +16,15 @@ triggers:
   - "relevância da matéria e repercussão social"
   - "intervenção em IRDR repercussão geral e repetitivos"
   - "admissão pelo relator por despacho irrecorrível"
-description: "Amicus curiae (art. 138 CPC): admissão de pessoa, órgão ou entidade com\nrepresentatividade adequada em causa de relevância, especificidade ou\nrepercussão social. Despacho irrecorrível; recorre de IRDR (§3º) e ED."
+description: "Usar para redigir ou revisar: Amicus Curiae. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Amicus Curiae
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 138)
 

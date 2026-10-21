@@ -5,8 +5,8 @@ title: "ADI 6581 — Vacinação de Crianças (COVID e PNI)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/adi-6581-vacinacao-criancas.md"
+version: 2
+sourcePath: "legalbr/materia/saude/adi-6581-vacinacao-criancas/SKILL.md"
 triggers:
   - "ADI 6581"
   - "vacinação crianças"
@@ -16,10 +16,15 @@ triggers:
   - "Conselho Tutelar vacina"
   - "escola comprovante vacinação"
   - "bolsa família vacinação"
-description: "ADI 6581 (Ricardo Lewandowski, 17/12/2020): por UNANIMIDADE\nfixou que a VACINAÇÃO INFANTIL é OBRIGATÓRIA — recusa\nparental pode caracterizar NEGLIGÊNCIA (ECA art. 14 §1).\nEstado pode exigir comprovante para matrícula, Bolsa Família\ne benefícios. Aplica-se ao Programa Nacional de Imunização\n(PNI) e à vacina COVID infantil."
+description: "Usar para pesquisar ou analisar: ADI 6581 — Vacinação de Crianças (COVID e PNI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 6581 — Vacinação Infantil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

@@ -5,8 +5,8 @@ title: "Joint Venture (Contratual e Societária)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/joint-venture.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/joint-venture/SKILL.md"
 triggers:
   - "joint venture"
   - "parceria estratégica"
@@ -19,10 +19,15 @@ triggers:
   - "sociedade de propósito específico"
   - "exclusividade JV"
   - "non-compete JV"
-description: "Joint Venture: contratual (consórcio/parceria) vs societária (SPE/HoldCo); governança paritária; deadlock (russian roulette, texas shoot-out); exclusividade; non-compete; CADE; exit (put/call, IPO, sale)."
+description: "Usar para pesquisar ou analisar: Joint Venture (Contratual e Societária). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Joint Venture
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

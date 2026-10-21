@@ -5,8 +5,8 @@ title: "Professor Substituto Temporário + Regra dos 24 Meses (Tema 1.308 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/professor-substituto-24-meses-tema-1308.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/professor-substituto-24-meses-tema-1308/SKILL.md"
 triggers:
   - "Tema 1.308 STJ"
   - "professor substituto temporário"
@@ -14,10 +14,15 @@ triggers:
   - "vedação readmissão 24 meses"
   - "instituições públicas distintas"
   - "contratação temporária professor"
-description: "Tema 1.308 STJ (1ª Seção): a vedação à nova contratação\nde professor substituto temporário antes de decorridos 24 meses do\ntérmino do contrato anterior (Lei 8.745/93 art. 9 III) NÃO se aplica\na contratações por INSTITUIÇÕES PÚBLICAS DISTINTAS. Finalidade da\nnorma: evitar perpetuação da temporariedade na MESMA instituição."
+description: "Usar para pesquisar ou analisar: Professor Substituto Temporário + Regra dos 24 Meses (Tema 1.308 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Professor Substituto Temporário + Regra dos 24 Meses (Tema 1.308 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.308 STJ, 1ª Seção)
 

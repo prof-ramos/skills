@@ -5,8 +5,8 @@ title: "Imunidade Tributária Recíproca a SEM Prestadora de Serviço Público (
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/imunidade-reciproca-sem-tema-1140.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/imunidade-reciproca-sem-tema-1140/SKILL.md"
 triggers:
   - "Tema 1.140 STF"
   - "imunidade recíproca SEM"
@@ -15,10 +15,15 @@ triggers:
   - "sociedade economia mista serviço público"
   - "tarifa CEMIG SABESP"
   - "imunidade tributária empresa estatal"
-description: "Tema 1.140 STF (RE 1.320.054): EP e SEM delegatárias de\nserviços públicos essenciais que NÃO distribuam lucros a\nacionistas privados NEM ofereçam risco ao equilíbrio\nconcorrencial são beneficiárias da IMUNIDADE TRIBUTÁRIA\nRECÍPROCA (CF 150 VI \"a\"), independentemente de cobrança\nde tarifa como contraprestação. Correlatos: Tema 884\n(fundo do PAR/CEF), Tema 508 (SEM com ações em bolsa) e\nTema 437 (imóvel público cedido a privado)."
+description: "Usar para pesquisar ou analisar: Imunidade Tributária Recíproca a SEM Prestadora de Serviço Público (Tema 1.140 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imunidade Recíproca em SEM Prestadora de Serviço Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

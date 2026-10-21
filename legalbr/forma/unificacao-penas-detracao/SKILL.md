@@ -5,8 +5,8 @@ title: "Unificação de Penas e Detração"
 category: "forma"
 materia: null
 documentType: "unificacao-penas-detracao"
-version: 1
-sourcePath: "lib/skills/official/forma/unificacao-penas-detracao.md"
+version: 2
+sourcePath: "legalbr/forma/unificacao-penas-detracao/SKILL.md"
 triggers:
   - "unificação de penas"
   - "detração"
@@ -16,10 +16,15 @@ triggers:
   - "Súm. 715 STF"
   - "Tema 1155 STJ"
   - "limite de cumprimento"
-description: "Unificação (LEP 66 III \"a\"; CP 75) com limite de 40 anos\n(Pacote Anticrime) e detração (CP 42; CPP 387 §2º) de prisão\nprovisória/internação. Súm. 715/STF (lapsos sobre total); Tema\n1.155/STJ (detração do recolhimento domiciliar noturno e dias de\nfolga, horas convertidas em dias); detração reconhecível pelo juiz\nda execução (LEP 66 III \"c\")."
+description: "Usar para redigir ou revisar: Unificação de Penas e Detração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Unificação de Penas e Detração
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "CISG: Convenção de Viena sobre Compra e Venda Internacional (Dec. 8.32
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/cisg-convencao-viena-compra-venda.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/cisg-convencao-viena-compra-venda/SKILL.md"
 triggers:
   - "CISG"
   - "Convenção de Viena 1980"
@@ -18,10 +18,15 @@ triggers:
   - "battle of forms"
   - "Nachfrist prazo adicional"
   - "dever de mitigação"
-description: "CISG (Convenção das Nações Unidas sobre Contratos de Compra e Venda\nInternacional de Mercadorias, 1980, Decreto 8.327/2014): vigora no\nBrasil desde **1º/04/2014**. **Aplicação automática** a contratos\nB2B internacionais quando partes em Estados-parte (art. 1.1.a) ou\npor norma de DIPr (art. 1.1.b). **Opt-out** apenas por menção\nexpressa (art. 6). Regula: formação do contrato (arts. 14-24);\nobrigações do vendedor (30-44) + comprador (53-65); remédios\n(45-52 + 61-65); transferência de risco (66-70); inadimplemento\nessencial (*fundamental breach*, art. 25); resolução (49 + 64);\nexceções (79, força maior); juros (78). Não cobre validade,\ntransferência de propriedade ou B2C. INCOTERMS integram regras\ncontratuais; STJ aplica diretamente."
+description: "Usar para pesquisar ou analisar: CISG: Convenção de Viena sobre Compra e Venda Internacional (Dec. 8.327/2014). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CISG: Convenção de Viena sobre Compra e Venda Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

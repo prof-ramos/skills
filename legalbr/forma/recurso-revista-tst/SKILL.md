@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-revista-tst"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-revista-tst.md"
+sourcePath: "legalbr/forma/recurso-revista-tst/SKILL.md"
 triggers:
   - "recurso de revista"
   - "RR ao TST art. 896 CLT"
@@ -15,10 +15,15 @@ triggers:
   - "transcendência art. 896-A"
   - "prequestionamento Súm. 297 TST"
   - "recurso contra acórdão do TRT"
-description: "Recurso de revista ao TST sob a CLT (art. 896): natureza extraordinária;\nhipóteses taxativas das alíneas \"a\", \"b\" e \"c\"; transcendência como\npressuposto autônomo (art. 896-A), com tópico próprio obrigatório na\npeça; prequestionamento (Súms. 297 e 184 TST) e cotejo analítico da\ndivergência (Súms. 296 e 337); sumaríssimo restrito a tese\nconstitucional ou súmula (§9º); vedação ao reexame fático-probatório\n(Súm. 126); dialeticidade rigorosa (Súm. 422 I)."
+description: "Usar para redigir ou revisar: Recurso de Revista (TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso de Revista (TST)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza e cabimento (art. 896)
 

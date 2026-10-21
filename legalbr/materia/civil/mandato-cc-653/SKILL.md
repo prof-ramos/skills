@@ -5,8 +5,8 @@ title: "Mandato (CC 653-692 + Lei 14.382/2022 + SERP)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/mandato-cc-653.md"
+version: 2
+sourcePath: "legalbr/materia/civil/mandato-cc-653/SKILL.md"
 triggers:
   - "contrato de mandato CC 653"
   - "CC 654"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 14.382/2022"
   - "SERP"
   - "CPC 105"
-description: "Mandato CC 653-692: poderes para praticar atos OU administrar\n(procuração é INSTRUMENTO); CC 654 §1 ESCRITURA PÚBLICA imóveis\n> 30 SM; gratuidade PRESUMIDA (658); IN REM SUAM (CC 685:\nirrevogável + não extingue por morte + dispensa contas);\nsubstabelecimento COM/SEM reserva (CC 667 §§1-4: sem autorização\nresponde até por fortuito; procuração omissa, por culpa do\nsubstabelecido); anulação de ato doloso em 4 anos da realização\n(CC 178 II); Súm. 115 STJ."
+description: "Usar para pesquisar ou analisar: Mandato (CC 653-692 + Lei 14.382/2022 + SERP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 653: conceito
 

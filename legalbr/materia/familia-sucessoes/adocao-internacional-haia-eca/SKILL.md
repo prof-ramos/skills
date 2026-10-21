@@ -5,8 +5,8 @@ title: "Adoção Internacional (Convenção da Haia + ECA 51-52 + Lei 12.010/200
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/adocao-internacional-haia-eca.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/adocao-internacional-haia-eca/SKILL.md"
 triggers:
   - "adoção internacional"
   - "Convenção da Haia adoção"
@@ -20,10 +20,15 @@ triggers:
   - "subsidiariedade da adoção internacional"
   - "adotante residente no exterior"
   - "homologação de adoção estrangeira"
-description: "Adoção internacional: Convenção da Haia 1993 (Dec. 3.087/1999) +\nECA arts. 51-52 + Lei 12.010/2009 (Nova Lei da Adoção); SUBSIDIARIEDADE\n(após esgotadas tentativas nacionais); ACAF + CEJAI/CEJA; estágio\nde convivência supervisionado obrigatório no BR (30d ECA 46 §3);\npaíses NÃO signatários: homologação STJ (CF 105 I \"i\"); idade\nmínima do adotante 18 anos + diferença 16 anos (ECA 42); prevalência\ndo melhor interesse da criança."
+description: "Usar para pesquisar ou analisar: Adoção Internacional (Convenção da Haia + ECA 51-52 + Lei 12.010/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adoção Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

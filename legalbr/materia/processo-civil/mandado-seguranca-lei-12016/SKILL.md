@@ -5,8 +5,8 @@ title: "Mandado de Segurança (CF 5 LXIX-LXX + Lei 12.016/2009)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/mandado-seguranca-lei-12016.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/mandado-seguranca-lei-12016/SKILL.md"
 triggers:
   - "mandado de segurança"
   - "prazo decadencial 120 dias"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 632 STF"
   - "Tema 1.273 STJ"
   - "ADI 4.296"
-description: "MS sob CF 5 LXIX/LXX + Lei 12.016/2009: direito LÍQUIDO E CERTO\n+ autoridade pública + ilegalidade; prova PRÉ-CONSTITUÍDA (não\nhá dilação); prazo decadencial 120 DIAS (Súm. 632 STF); liminar\nfumus + periculum; ADI 4.296 (afastou restrições); Tema 1.273\nSTJ 2025 (sem prazo em tributos sucessivos); Súm. 266 (vedado\ncontra lei em tese); MS coletivo CF 5 LXX."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança (CF 5 LXIX-LXX + Lei 12.016/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 5, fundamento
 

@@ -5,8 +5,8 @@ title: "Pagamento e Modalidades (CC 304-388)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/adimplemento-pagamento-cc-304.md"
+version: 2
+sourcePath: "legalbr/materia/civil/adimplemento-pagamento-cc-304/SKILL.md"
 triggers:
   - "adimplemento da obrigação CC 304"
   - "dacao em pagamento"
@@ -22,10 +22,15 @@ triggers:
   - "pagamento em moeda estrangeira"
   - "remissão de dívida CC 385"
   - "confusão credor e devedor"
-description: "Pagamento (CC 304-388): legitimidade ativa (CC 304, terceiro\ninteressado ou não); destinatário (CC 308); objeto (CC 313, não\npode ser fracionado); lugar (CC 327, domicílio devedor regra);\ntempo (CC 331, exigível imediatamente); modalidades especiais\n(dação CC 356, consignação CC 334, sub-rogação CC 346, imputação\nCC 352)."
+description: "Usar para pesquisar ou analisar: Pagamento e Modalidades (CC 304-388). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pagamento e Modalidades Especiais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quem pode pagar (CC 304-306)
 

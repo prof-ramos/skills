@@ -5,8 +5,8 @@ title: "MP + AGU + OAB + Defensoria: Funções Essenciais (CF 127-135)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/mp-funcoes-essenciais.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/mp-funcoes-essenciais/SKILL.md"
 triggers:
   - "Ministério Público"
   - "CF 127"
@@ -17,10 +17,15 @@ triggers:
   - "Ordem dos Advogados do Brasil"
   - "funções essenciais à justiça"
   - "Tema 184 STF"
-description: "Funções essenciais à Justiça sob a CF/88 (arts. 127-135): Ministério Público\n(princípios institucionais, autonomia, garantias e funções do art. 129,\nincluindo poder investigatório); Advocacia Pública (AGU e procuradorias);\nAdvocacia privada e prerrogativas da OAB (Lei 8.906/94); Defensoria Pública\ne seu regime após a EC 80/2014."
+description: "Usar para pesquisar ou analisar: MP + AGU + OAB + Defensoria: Funções Essenciais (CF 127-135). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MP + AGU + OAB + Defensoria
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

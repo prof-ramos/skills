@@ -5,8 +5,8 @@ title: "Adjudicação Compulsória + Compromisso C&V (Súm. 239 STJ + Lei 14.382
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/adjudicacao-compulsoria-sum-239.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/adjudicacao-compulsoria-sum-239/SKILL.md"
 triggers:
   - "adjudicação compulsória"
   - "compromisso de compra e venda"
@@ -19,10 +19,15 @@ triggers:
   - "CC 1.417"
   - "adjudicação extrajudicial"
   - "Provimento CNJ 150"
-description: "Adjudicação compulsória: contrato preliminar válido + adimplemento\n+ recusa injustificada; Súm. 239 STJ (INDEPENDE de registro);\nSúm. 84 (embargos terceiro c/ compromisso desregistrado);\ncessionários legitimados (CC 1.418); Lei 14.382/2022 (art. 216-B\nLRP): ADJUDICAÇÃO EXTRAJUDICIAL no cartório; Provimento CNJ\n150/2023; Lei 6.766/79 art. 26 §6 (irrevogabilidade presumida)."
+description: "Usar para pesquisar ou analisar: Adjudicação Compulsória + Compromisso C&V (Súm. 239 STJ + Lei 14.382/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adjudicação Compulsória + Compromisso de C&V
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento legal
 

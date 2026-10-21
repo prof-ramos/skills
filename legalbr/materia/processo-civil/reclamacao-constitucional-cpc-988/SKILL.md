@@ -5,8 +5,8 @@ title: "Reclamação Constitucional (CF 102 I l + 105 I f + CPC 988-993)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 4
-sourcePath: "lib/skills/official/materia/processo-civil/precedentes-irdr-iac-reclamacao/reclamacao-constitucional-cpc-988.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/reclamacao-constitucional-cpc-988/SKILL.md"
 triggers:
   - "reclamação constitucional"
   - "CF 102 I l"
@@ -17,10 +17,15 @@ triggers:
   - "descumprimento de acórdão de IRDR"
   - "Súm. 734 STF"
   - "esgotamento das instâncias ordinárias"
-description: "Reclamação sob CF 102 I l + 105 I f + 103-A §3 + CPC 988-993:\nação de competência originária (não recurso) para preservar\ncompetência + autoridade de decisões + súmula vinculante +\ncontrole concentrado + IRDR/IAC; vedada após trânsito (Súm. 734)\ne como sucedâneo recursal; exige esgotamento prévio para\nrepetitivo/repercussão geral (CPC 988 §5 II, jurisprudência\npacífica do STF, inclusive quanto ao agravo interno)."
+description: "Usar para pesquisar ou analisar: Reclamação Constitucional (CF 102 I l + 105 I f + CPC 988-993). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reclamação Constitucional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

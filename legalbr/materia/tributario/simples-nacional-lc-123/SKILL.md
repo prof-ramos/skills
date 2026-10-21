@@ -5,8 +5,8 @@ title: "Simples Nacional + MEI (LC 123/2006 + LC 128/2008 + LC 182/2021)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/simples-nacional-lc-123.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/simples-nacional-lc-123/SKILL.md"
 triggers:
   - "Simples Nacional"
   - "LC 123/2006"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 363 STF"
   - "Lei 14.148/2021 PERSE"
   - "LC 199/2023"
-description: "LC 123/2006 Estatuto ME/EPP + LC 128/2008 MEI; ME ≤ R$ 360k +\nEPP ≤ R$ 4,8mi + MEI ≤ R$ 81k (caminhoneiro 251,6k); regime\nunificado IRPJ+CSLL+PIS+COFINS+IPI+ICMS+ISS+INSS via DAS;\nAnexos I-V + Fator R (III/V); DEFIS + DASN-SIMEI; sublimite\nR$ 3,6mi (CGSN 54/2025); STF Tema 363 (art. 17 V); STJ\n(gorjeta não compõe a base + Condecine indevida a optantes)."
+description: "Usar para pesquisar ou analisar: Simples Nacional + MEI (LC 123/2006 + LC 128/2008 + LC 182/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Simples Nacional + MEI
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marcos legais
 

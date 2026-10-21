@@ -5,8 +5,8 @@ title: "Fraude Bancária e Golpes Virtuais (Súm. 479 STJ + Tema 466)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/fraude-bancaria-golpe-virtual.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/fraude-bancaria-golpe-virtual/SKILL.md"
 triggers:
   - "fraude bancária"
   - "Súm. 479 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "fortuito interno"
   - "golpe do motoboy"
   - "golpe do WhatsApp"
-description: "Fraude bancária e golpes virtuais sob Súm. 479 STJ + Tema 466 STJ:\nresponsabilidade objetiva do banco por fortuito interno (fraudes\ne delitos praticados por terceiros: phishing, falsa central,\nmotoboy, clonagem, PIX); a culpa exclusiva da vítima (transferência\nvoluntária sem falha sistêmica) afasta o dever de indenizar, mas a\nfalha em barrar operação atípica gera responsabilidade própria;\ninversão do ônus e dever de monitoramento antifraude."
+description: "Usar para pesquisar ou analisar: Fraude Bancária e Golpes Virtuais (Súm. 479 STJ + Tema 466). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fraude Bancária e Golpes Virtuais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

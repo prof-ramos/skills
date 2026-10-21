@@ -5,8 +5,8 @@ title: "Abono de Permanência na Base do 13º e do Adicional de Férias (Tema 1.
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/abono-permanencia-base-13o-ferias-tema-1233.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/abono-permanencia-base-13o-ferias-tema-1233/SKILL.md"
 triggers:
   - "Tema 1.233 STJ"
   - "abono de permanência"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 8.112/90 art. 41"
   - "natureza remuneratória abono"
   - "servidor federal abono"
-description: "Tema 1.233 STJ (1ª Seção, 17/06/2025): abono de permanência tem\nnatureza REMUNERATÓRIA e PERMANENTE. Integra a base de incidência\ndo adicional de férias e da gratificação natalina (13º) dos\nservidores públicos federais. Lei 8.112/90 art. 41: remuneração\n= vencimento básico + vantagens permanentes."
+description: "Usar para pesquisar ou analisar: Abono de Permanência na Base do 13º e do Adicional de Férias (Tema 1.233 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Abono de Permanência na Base do 13º e do Adicional de Férias (Tema 1.233 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.233 STJ, 1ª Seção, 17/06/2025)
 
@@ -97,3 +102,7 @@ O abono é **HABITUAL** (mensal), **VINCULADO** (sem discricionariedade), e enqu
 - Afastar o IRPF sobre o abono (incide, Tema 424 STJ);
 - Tratar o terço de férias como devido **sem atualização** desde quando exigível;
 - Deixar de observar os juros conforme **Tema 905 STJ** (Fazenda) e a correção pelo IPCA-E até EC 113.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

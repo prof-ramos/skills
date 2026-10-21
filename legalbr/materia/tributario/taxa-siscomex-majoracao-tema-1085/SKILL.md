@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/taxa-siscomex-majoracao-tema-1085.md"
+sourcePath: "legalbr/materia/tributario/taxa-siscomex-majoracao-tema-1085/SKILL.md"
 triggers:
   - "taxa Siscomex"
   - "Tema 1.085 STF"
@@ -17,10 +17,15 @@ triggers:
   - "majoração de taxa por portaria"
   - "restituição taxa Siscomex"
   - "Portaria ME 4.131"
-description: "Taxa de Utilização do Siscomex (Lei 9.716/1998, art. 3º): majoração pela\nPortaria MF 257/2011 declarada inconstitucional no que excedeu a correção\nmonetária (Tema 1.085 STF, RE 1.258.934). O tributo permanece válido; o\nExecutivo pode atualizar por índice oficial (Portaria ME 4.131/2021 fixou\nR$ 115,67 por DI). Repetição do indébito quinquenal dos valores pagos a maior."
+description: "Usar para pesquisar ou analisar: Taxa Siscomex, Majoração por Portaria e Restituição (Tema 1.085 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taxa Siscomex: Majoração por Portaria e Restituição (Tema 1.085 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

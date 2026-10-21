@@ -5,8 +5,8 @@ title: "Sentença Trabalhista Homologatória + Tempo de Serviço Previdenciário
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/sentenca-trabalhista-tempo-servico-tema-1188.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/sentenca-trabalhista-tempo-servico-tema-1188/SKILL.md"
 triggers:
   - "Tema 1.188 STJ"
   - "sentença trabalhista CTPS tempo serviço"
@@ -14,10 +14,15 @@ triggers:
   - "início prova material previdenciário"
   - "homologação acordo CLT INSS"
   - "prova contemporânea vínculo emprego"
-description: "Tema 1.188 STJ: a sentença trabalhista HOMOLOGATÓRIA de acordo,\nanotação na CTPS e documentos dela decorrentes só são VÁLIDOS\ncomo INÍCIO DE PROVA MATERIAL (Lei 8.213 art. 55 §3) se houver\nELEMENTOS PROBATÓRIOS CONTEMPORÂNEOS aos fatos. Sem prova\ncontemporânea, NÃO basta para reconhecer tempo de serviço."
+description: "Usar para pesquisar ou analisar: Sentença Trabalhista Homologatória + Tempo de Serviço Previdenciário (Tema 1.188 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Trabalhista Homologatória + Tempo de Serviço Previdenciário (Tema 1.188 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.188 STJ: 1ª Seção, 11/09/2024)
 

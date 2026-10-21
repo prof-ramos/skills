@@ -5,8 +5,8 @@ title: "Súmula Vinculante 45 - Júri x Prerrogativa Estadual"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juri/sumula-vinculante-45-juri-prerrogativa-estadual.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sumula-vinculante-45-juri-prerrogativa-estadual/SKILL.md"
 triggers:
   - "SV 45"
   - "Súmula Vinculante 45"
@@ -17,10 +17,15 @@ triggers:
   - "CF 5 XXXVIII"
   - "Súm. 721 STF"
   - "crime doloso contra vida"
-description: "SV 45 STF (08/04/2015): \"A competência constitucional do Júri\nprevalece sobre o foro por prerrogativa de função estabelecido\nexclusivamente pela constituição estadual.\" Convertida da Súm. 721;\nsó foro previsto na CF derroga o Júri."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 45 - Júri x Prerrogativa Estadual. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 45 - Júri x Prerrogativa Estadual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

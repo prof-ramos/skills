@@ -5,8 +5,8 @@ title: "Professor (CLT 317 a 324 + Lei 9.394/96)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/professor-clt-317.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/professor-clt-317/SKILL.md"
 triggers:
   - "professor CLT"
   - "jornada do professor"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 351 TST"
   - "férias professor"
   - "piso nacional do magistério"
-description: "Professor (CLT 317-324 + LDB 9.394/96): jornada de aulas em horas-aula\n(50min diurnos, 40min noturnos); jornada do art. 318 alterada pela Lei\n13.415/2017 (limite antigo de 4 aulas consecutivas revogado; hoje vale a\njornada semanal de 44h); férias coletivas (322) ou 45 dias na rede\nparticular (ACT/CCT); Súm. 10 TST (dispensa ao término do ano letivo não\nexclui aviso prévio, mantidos os salários das férias escolares); Súm. 351\nTST (RSR de 1/6 sobre a hora-aula)."
+description: "Usar para pesquisar ou analisar: Professor (CLT 317 a 324 + Lei 9.394/96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Professor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

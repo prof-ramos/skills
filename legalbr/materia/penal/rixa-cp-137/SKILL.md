@@ -5,8 +5,8 @@ title: "Rixa (CP 137)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/rixa-cp-137.md"
+version: 2
+sourcePath: "legalbr/materia/penal/rixa-cp-137/SKILL.md"
 triggers:
   - "rixa"
   - "CP 137"
@@ -15,10 +15,15 @@ triggers:
   - "rixa qualificada"
   - "autoria indefinida"
   - "concurso lesão"
-description: "Rixa CP 137, det. 15d-2m + multa; crime plurissubjetivo (≥3\npessoas em luta tumultuária com confusão de partes); rixa\nqualificada (par. único), det. 6m-2a se há morte ou lesão grave\n(incide a todos rixosos, mesmo identificado o autor da lesão);\nexcludente legítima defesa para rixoso passivo; concurso com\nlesão/homicídio se identificado autor."
+description: "Usar para pesquisar ou analisar: Rixa (CP 137). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Rixa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 137 caput)
 

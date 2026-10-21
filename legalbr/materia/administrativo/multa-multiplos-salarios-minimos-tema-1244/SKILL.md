@@ -5,8 +5,8 @@ title: "Fixação de Multa em Múltiplos de Salários Mínimos (Tema 1.244 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/multa-multiplos-salarios-minimos-tema-1244.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/multa-multiplos-salarios-minimos-tema-1244/SKILL.md"
 triggers:
   - "Tema 1.244 STF"
   - "multa salários mínimos"
@@ -16,10 +16,15 @@ triggers:
   - "multa em múltiplos do salário mínimo"
   - "sanção administrativa salário mínimo"
   - "cálculo multa"
-description: "Tema 1.244 STF (ARE 1.409.059, 05/11/2025): VÁLIDA a fixação\nde multas administrativas/sanções em múltiplos de salários\nmínimos. CF 7 IV veda vinculação para qualquer fim como\nbase de remuneração/benefício, mas o STF distingue: para\nmultas/sanções pecuniárias, o SM é apenas referencial de\ncálculo, não fator de indexação proibida. SV 4 inaplicável."
+description: "Usar para pesquisar ou analisar: Fixação de Multa em Múltiplos de Salários Mínimos (Tema 1.244 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multas em Múltiplos de Salários Mínimos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

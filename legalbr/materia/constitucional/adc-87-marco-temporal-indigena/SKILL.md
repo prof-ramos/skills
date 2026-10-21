@@ -5,8 +5,8 @@ title: "ADC 87 + ADIs 7582-7586: Marco Temporal Indígena (Lei 14.701/2023)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adc-87-marco-temporal-indigena.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adc-87-marco-temporal-indigena/SKILL.md"
 triggers:
   - "Marco Temporal indígena"
   - "ADC 87"
@@ -18,10 +18,15 @@ triggers:
   - "Raposa Serra do Sol"
   - "Tema 1.031 STF"
   - "renitente esbulho"
-description: "ADC 87 + ADIs 7582-7586 (rel. Gilmar Mendes; julgamento virtual\nconcluído em 19/12/2025, 9x1, vencido André Mendonça; ações\nparcialmente procedentes; acórdão publicado em 18/03/2026, ED\npendentes): trecho da Lei 14.701/2023 que institui o marco\ntemporal é inconstitucional; confirma o Tema 1031 (CF 231\nreconhece direitos originários, sem cláusula de 05/10/1988);\nboa parte da lei foi mantida; prazo de 10 anos para concluir\nas demarcações; conciliação conduzida por Gilmar Mendes."
+description: "Usar para pesquisar ou analisar: ADC 87 + ADIs 7582-7586: Marco Temporal Indígena (Lei 14.701/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADC 87 + ADIs 7582-7586: Marco Temporal Indígena
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

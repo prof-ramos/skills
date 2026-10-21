@@ -5,8 +5,8 @@ title: "Regime Aberto: Condições, Casa do Albergado e Súmula 493 STJ (LEP 113
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/regime-aberto-condicoes-lep-113.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/regime-aberto-condicoes-lep-113/SKILL.md"
 triggers:
   - "condições do regime aberto"
   - "ingresso no regime aberto"
@@ -20,10 +20,15 @@ triggers:
   - "pena substitutiva condição especial"
   - "recolhimento noturno regime aberto"
   - "CP 36 autodisciplina"
-description: "Desenho do regime aberto (CP 33 §1º c e 36 + LEP 93-95 e 113-119): ingresso (aceitação\ndo programa, trabalho do 114 I e sua mitigação), condições gerais e especiais do 115\n(incl. monitoramento eletrônico, Lei 14.843/2024), vedação de pena substitutiva como\ncondição especial (Súm. 493 STJ/Tema 20), taxatividade e flexibilização do recolhimento\ndomiciliar do 117 e falta de casa do albergado (interface SV 56)."
+description: "Usar para pesquisar ou analisar: Regime Aberto: Condições, Casa do Albergado e Súmula 493 STJ (LEP 113-119). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regime Aberto: Condições e Casa do Albergado (LEP 113-119)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

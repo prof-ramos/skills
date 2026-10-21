@@ -5,8 +5,8 @@ title: "IRPF: Férias Gozadas vs. Indenizadas e Abono Pecuniário"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpf-ferias-abono-pecuniario-tema-994.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf-ferias-abono-pecuniario-tema-994/SKILL.md"
 triggers:
   - "Tema 881 STJ"
   - "Tema 121 STJ"
@@ -20,10 +20,15 @@ triggers:
   - "art. 6 V Lei 7.713/1988"
   - "terço férias IRPF"
   - "magistrado IRPF férias"
-description: "IRPF e férias: Súm. 125 (férias indenizadas, NÃO incide IR);\nSúm. 136 (licença-prêmio convertida em pecúnia, NÃO incide);\nSúm. 386 (1/3 sobre férias indenizadas, NÃO incide); REsp 1.111.223\n(Tema 881 STJ, repetitivo) firmou que 1/3 sobre FÉRIAS GOZADAS\nINCIDE IRPF (verba salarial). Abono pecuniário (CLT 143) +\nrespectivo 1/3, NÃO incide (Lei 7.713 art. 6 V). RFB COSIT 209/2021\nconsolida."
+description: "Usar para pesquisar ou analisar: IRPF: Férias Gozadas vs. Indenizadas e Abono Pecuniário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF, Férias e Abono Pecuniário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses principais
 

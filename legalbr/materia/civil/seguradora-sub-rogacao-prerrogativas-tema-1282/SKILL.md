@@ -5,8 +5,8 @@ title: "Seguradora e Sub-rogação de Prerrogativas do Consumidor (Tema 1.282 ST
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/seguradora-sub-rogacao-prerrogativas-tema-1282.md"
+version: 2
+sourcePath: "legalbr/materia/civil/seguradora-sub-rogacao-prerrogativas-tema-1282/SKILL.md"
 triggers:
   - "Tema 1.282 STJ"
   - "sub-rogação seguradora"
@@ -16,10 +16,15 @@ triggers:
   - "CC 786 sub-rogação"
   - "foro consumidor seguradora"
   - "ação regressiva sinistro"
-description: "Tema 1.282 STJ (Corte Especial, 19/02/2025, Min. Nancy Andrighi):\no pagamento de indenização por sinistro NÃO gera para a seguradora\nsub-rogação de PRERROGATIVAS PROCESSUAIS do consumidor, em especial\na competência do CDC 101, I. Sub-rogação do CC 786 transfere apenas\ndireitos MATERIAIS; benefícios processuais são personalíssimos."
+description: "Usar para pesquisar ou analisar: Seguradora e Sub-rogação de Prerrogativas do Consumidor (Tema 1.282 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguradora e Sub-rogação de Prerrogativas do Consumidor (Tema 1.282 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.282 STJ, Corte Especial, 19/02/2025, Rel. Min. Nancy Andrighi)
 

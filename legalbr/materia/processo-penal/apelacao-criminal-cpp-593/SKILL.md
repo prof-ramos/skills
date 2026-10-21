@@ -5,8 +5,8 @@ title: "Apelação Criminal (CPP 593-603 + Lei 11.719/2008)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/apelacao-criminal-cpp-593.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/apelacao-criminal-cpp-593/SKILL.md"
 triggers:
   - "apelação criminal"
   - "CPP 593"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 713 STF"
   - "CPP 597 efeito suspensivo"
   - "Lei 11.719/2008"
-description: "Apelação criminal sob CPP 593-603 + Lei 11.719/2008: cabimento\n(sentenças definitivas + Júri); efeito devolutivo + suspensivo\nautomático em PPL (CPP 597); Júri (CPP 593 III), 4 hipóteses\ntaxativas + novo júri apenas em \"d\" (uma vez por parte); Súm.\n160 STF (vedada reformatio in pejus); ADCs 43/44/54 (vedada\nexecução provisória); Tema 1.068 STF (exceção Júri)."
+description: "Usar para pesquisar ou analisar: Apelação Criminal (CPP 593-603 + Lei 11.719/2008). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apelação Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPP 593)
 

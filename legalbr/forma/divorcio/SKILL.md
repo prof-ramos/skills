@@ -5,8 +5,8 @@ title: "Petição Inicial de Divórcio"
 category: "forma"
 materia: null
 documentType: "divorcio"
-version: 1
-sourcePath: "lib/skills/official/forma/divorcio.md"
+version: 2
+sourcePath: "legalbr/forma/divorcio/SKILL.md"
 triggers:
   - "ação de divórcio"
   - "dissolução do casamento"
@@ -15,10 +15,15 @@ triggers:
   - "guarda e alimentos dos filhos"
   - "rito especial de família CPC 693 a 699"
   - "alteração de nome após o divórcio"
-description: "Divórcio pós-EC 66/2010 (potestativo, sem prazos): consensual\nextrajudicial (Lei 11.441/2007; Provimento CNJ 149/2023, com Resolução\nCNJ 571/2024 admitindo extrajudicial mesmo com menores quando guarda,\nvisitas e alimentos forem resolvidos em juízo previamente e o MP\nmanifestar-se favoravelmente); consensual judicial; ou litigioso (CPC\n693 a 699, com audiência obrigatória de mediação, art. 695; MP quando\nhouver incapaz, art. 698). Cabe divórcio sem prévia partilha (Súm. 197\nSTJ)."
+description: "Usar para redigir ou revisar: Petição Inicial de Divórcio. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial de Divórcio
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

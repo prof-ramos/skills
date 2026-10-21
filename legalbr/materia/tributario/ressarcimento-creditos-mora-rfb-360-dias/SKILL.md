@@ -5,8 +5,8 @@ title: "Ressarcimento de Créditos e Mora da RFB: 360 Dias e Correção de Créd
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/ressarcimento-creditos-mora-rfb-360-dias.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ressarcimento-creditos-mora-rfb-360-dias/SKILL.md"
 triggers:
   - "prazo de 360 dias Lei 11.457"
   - "mora da Receita Federal ressarcimento"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 270 STJ prazo para decisão administrativa"
   - "crédito escritural IPI correção"
   - "Tema 164 creditamento extemporâneo"
-description: "Mora da RFB na análise de pedidos administrativos: prazo de 360 dias da Lei\n11.457/2007 art. 24 (Temas 269/270 STJ, inclusive para pedidos anteriores à\nlei), MS para compelir a decisão e correção monetária de créditos escriturais\nem ressarcimento: termo inicial só após escoado o prazo (Tema 1.003), Súm.\n411 STJ (resistência ilegítima) e Tema 164 (creditamento extemporâneo)."
+description: "Usar para pesquisar ou analisar: Ressarcimento de Créditos e Mora da RFB: 360 Dias e Correção de Créditos Escriturais (Lei 11.457 art. 24 + Temas 270 e 1.003 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ressarcimento de Créditos e Mora da RFB (360 Dias + Créditos Escriturais)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Aplicar em MS e ações de exportadoras e empresas com saldo credor de IPI/PIS/COFINS não cumulativos contra a demora da RFB em analisar PER/DCOMP, e na definição do termo inicial da correção monetária do ressarcimento. O procedimento do PER/DCOMP e a compensação em si têm skills próprias (forma/restituição administrativa; compensação CTN 170); aqui, a mora e seus consectários.
 

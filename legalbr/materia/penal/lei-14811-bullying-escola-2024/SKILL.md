@@ -5,8 +5,8 @@ title: "Lei 14.811/2024 — Bullying + Cyberbullying + Violência Escolar"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/lei-14811-bullying-escola-2024.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-14811-bullying-escola-2024/SKILL.md"
 triggers:
   - "Lei 14.811"
   - "bullying cyberbullying"
@@ -17,10 +17,15 @@ triggers:
   - "proteção criança ECA"
   - "prevenção abuso sexual menor"
   - "induzimento suicídio rede social"
-description: "Lei 14.811/2024 (12/01/2024) — protege crianças + adolescentes\ncontra violência em estabelecimentos educacionais. **Tipifica bullying\n+ cyberbullying**. **Bullying** (CP 146-A): intimidação sistemática\nindividual/grupo + violência física/psicológica — multa (se não\nconstituir crime mais grave). **Cyberbullying** (CP 146-A §único):\nreclusão **2-4 anos** + multa. Inclui no rol de **crimes hediondos**\n(Lei 8.072): sequestro + cárcere privado + induzimento ao suicídio\nou automutilação via rede social/live + ataques em escolas + outros.\nPolítica Nacional de Prevenção + Combate ao Abuso Sexual Infantil.\nProtocolos escolares municipais obrigatórios."
+description: "Usar para pesquisar ou analisar: Lei 14.811/2024 — Bullying + Cyberbullying + Violência Escolar. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.811/2024 — Bullying + Escola
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

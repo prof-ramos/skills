@@ -5,18 +5,23 @@ title: "Credito de PIS/COFINS no Regime MONOFÁSICO + Revenda (Tema 1.093 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins-monofasico-revenda-credito-tema-1093.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-monofasico-revenda-credito-tema-1093/SKILL.md"
 triggers:
   - "Tema 1.093 STJ PIS Cofins"
   - "regime monofásico combustíveis revenda"
   - "vedação crédito monofásico"
   - "não cumulatividade PIS Cofins exceção"
   - "Lei 10.637 Lei 10.833"
-description: "Tema 1.093 STJ (1ª Seção, 27/04/2022): em regime MONOFÁSICO, o\nREVENDEDOR (varejista/atacadista) NÃO TEM direito ao crédito de\nPIS/Cofins sobre aquisição de produto sujeito à tributação\nconcentrada (combustíveis, bebidas, autopeças, etc.). Concentração\nda tributação em uma única fase afasta a sistemática da não\ncumulatividade. Convive com Tema 1.247 (creditamento de IPI)."
+description: "Usar para pesquisar ou analisar: Credito de PIS/COFINS no Regime MONOFÁSICO + Revenda (Tema 1.093 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Credito de PIS/COFINS no Regime MONOFÁSICO + Revenda (Tema 1.093 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.093 STJ — 1ª Seção, 27/04/2022)
 

@@ -5,8 +5,8 @@ title: "Enriquecimento sem Causa (CC 884-886)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/enriquecimento-sem-causa-cc-884.md"
+version: 2
+sourcePath: "legalbr/materia/civil/enriquecimento-sem-causa-cc-884/SKILL.md"
 triggers:
   - "enriquecimento sem causa"
   - "CC 884"
@@ -17,10 +17,15 @@ triggers:
   - "locupletamento ilícito"
   - "pagamento indevido CC 876"
   - "restituição por ausência de justa causa"
-description: "Enriquecimento sem causa (CC 884-886): elementos (enriquecimento +\nempobrecimento + nexo + ausência de causa); subsidiariedade (CC 886);\ndiferença com pagamento indevido (CC 876) e gestão de negócios (CC\n861); ação in rem verso; prescrição de 3 anos (CC 206 §3 IV);\nrepetição de indébito tributário pelo regime do CTN 168."
+description: "Usar para pesquisar ou analisar: Enriquecimento sem Causa (CC 884-886). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Enriquecimento sem Causa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 884, conceito
 

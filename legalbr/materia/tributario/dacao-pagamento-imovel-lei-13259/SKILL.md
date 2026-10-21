@@ -5,8 +5,8 @@ title: "Dação em Pagamento de Imóveis (CTN 156 XI + Lei 13.259/2016)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/dacao-pagamento-imovel-lei-13259.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/dacao-pagamento-imovel-lei-13259/SKILL.md"
 triggers:
   - "dação em pagamento"
   - "CTN 156 XI"
@@ -15,10 +15,15 @@ triggers:
   - "extinção crédito tributário imóvel"
   - "PGFN dação"
   - "imóvel para União"
-description: "Dação em pagamento de IMÓVEIS CTN 156 XI (LC 104/01) + Lei\n13.259/2016: extingue crédito tributário federal mediante\nentrega de imóvel; norma de eficácia limitada: exige lei do\nente (federal regulamentou); restrita a IMÓVEIS (móveis vedados);\nexclusão de Simples e FGTS; anuência PGFN + avaliação; STJ veda\ndação fora do regime legal."
+description: "Usar para pesquisar ou analisar: Dação em Pagamento de Imóveis (CTN 156 XI + Lei 13.259/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dação em Pagamento de Imóveis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

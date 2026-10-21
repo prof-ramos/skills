@@ -5,8 +5,8 @@ title: "Organizações Sociais, OS (Lei 9.637/1998 + ADI 1.923 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/organizacoes-sociais-lei-9637.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/organizacoes-sociais-lei-9637/SKILL.md"
 triggers:
   - "organização social"
   - "Lei 9.637/1998"
@@ -16,10 +16,15 @@ triggers:
   - "qualificação como OS"
   - "art. 24 XXIV Lei 8.666"
   - "cessão de servidor OS"
-description: "OS (Lei 9.637/1998 + ADI 1.923 STF): pessoa jurídica de direito\nprivado sem fins lucrativos qualificada para celebrar contrato\nde gestão em ensino/pesquisa/saúde/cultura/desenvolvimento\ntecnológico/preservação ambiental; ADI 1.923 (constitucional\ncom interpretações conformes: chamamento + impessoalidade);\nseleção da OS por inexigibilidade/concurso/chamamento (a Lei\n14.133/2021 não reproduziu a dispensa do art. 24 XXIV da Lei\n8.666); cessão especial de servidor."
+description: "Usar para pesquisar ou analisar: Organizações Sociais, OS (Lei 9.637/1998 + ADI 1.923 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Organizações Sociais (OS), Lei 9.637/1998
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

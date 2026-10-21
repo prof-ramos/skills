@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "mandado"
 version: 2
-sourcePath: "lib/skills/official/forma/mandado-expediente.md"
+sourcePath: "legalbr/forma/mandado-expediente/SKILL.md"
 triggers:
   - "mandado judicial"
   - "expediente do cartório"
@@ -14,10 +14,15 @@ triggers:
   - "mandado de citação e de intimação"
   - "mandado de penhora avaliação e busca e apreensão"
   - "cumprimento pelo oficial de justiça art. 154"
-description: "Mandado (CPC 250 e 154): ordem do juiz ao oficial de justiça para\ncumprir ato (citação, intimação, penhora, busca, prisão civil,\ndespejo, condução). Conteúdo: nomes, finalidade, advertências legais,\nprazo, cominação, local, cópia do despacho, assinatura."
+description: "Usar para redigir ou revisar: Mandado / Expediente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

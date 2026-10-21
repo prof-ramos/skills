@@ -5,8 +5,8 @@ title: "Direito de Imagem (CC 20 + Súm. 403 STJ + ADI 4.815 + Tema 987 STF)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/direito-imagem-cc-20.md"
+version: 2
+sourcePath: "legalbr/materia/civil/direito-imagem-cc-20/SKILL.md"
 triggers:
   - "direito de imagem"
   - "CC 20"
@@ -20,10 +20,15 @@ triggers:
   - "imagem post mortem CC 20"
   - "imagem em biografia nao autorizada"
   - "imagem de coadjuvante em documentario"
-description: "Direito à imagem CF 5 V/X/XXVIII + CC 20 (proibição salvo\nautorização/administração/ordem pública); Súm. 403 STJ (dano\nIN RE IPSA, fins econômicos); ADI 4.815 (biografias sem\nautorização constitucional); STJ 2023-2025 MITIGA Súm. 403\n(coadjuvante + fato histórico); STF Tema 987 (julgado jun/2025:\ninconstitucionalidade parcial do art. 19 MCI, responsabilidade\nde provedores ampliada); LGPD: biometria é dado sensível."
+description: "Usar para pesquisar ou analisar: Direito de Imagem (CC 20 + Súm. 403 STJ + ADI 4.815 + Tema 987 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Imagem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

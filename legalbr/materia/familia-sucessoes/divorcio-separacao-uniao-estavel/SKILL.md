@@ -5,8 +5,8 @@ title: "Divórcio + Separação + União Estável (CF 226 + CC + EC 66/2010)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/divorcio-separacao-uniao-estavel.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/divorcio-separacao-uniao-estavel/SKILL.md"
 triggers:
   - "ação de divórcio"
   - "divórcio extrajudicial"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 809 STF"
   - "Res. CNJ 571/2024"
   - "Súm. 377 STF"
-description: "Divórcio, separação e união estável sob CF 226 + CC 1.511-1.582 e 1.723-1.727\n+ EC 66/2010: divórcio direto sem prazo nem causa e modalidades (judicial,\nextrajudicial e Res. CNJ 571/2024); fim da separação como figura autônoma\n(Tema 1.053 STF); união estável e equiparação sucessória (Tema 809);\nconcubinato (Tema 526) e regimes de partilha."
+description: "Usar para pesquisar ou analisar: Divórcio + Separação + União Estável (CF 226 + CC + EC 66/2010). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Divórcio + Separação + União Estável
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

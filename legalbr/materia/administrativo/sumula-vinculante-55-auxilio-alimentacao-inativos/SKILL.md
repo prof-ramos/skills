@@ -5,8 +5,8 @@ title: "Súmula Vinculante 55, Auxílio-Alimentação não se Estende a Inativos
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-55-auxilio-alimentacao-inativos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-55-auxilio-alimentacao-inativos/SKILL.md"
 triggers:
   - "Súmula Vinculante 55"
   - "SV 55"
@@ -18,10 +18,15 @@ triggers:
   - "RE 228.083"
   - "CF 40 §8"
   - "vantagem indenizatória"
-description: "SV 55 STF (17/03/2016): \"O direito ao auxílio-alimentação não se\nestende aos servidores inativos\". Converte Súm. 680/STF.\nAuxílio-alimentação é vantagem propter laborem de natureza\nindenizatória, devida apenas a quem está em efetivo exercício.\nAplica-se mesmo com paridade (CF 40 §8 pré-EC 41/2003), pois a\nvantagem não se incorpora à remuneração."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 55, Auxílio-Alimentação não se Estende a Inativos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 55, Auxílio-Alimentação não se Estende a Inativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

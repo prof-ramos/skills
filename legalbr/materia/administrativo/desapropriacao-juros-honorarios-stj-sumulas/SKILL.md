@@ -5,8 +5,8 @@ title: "Desapropriação, Juros, Honorários e Procedimento (Súmulas STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/desapropriacao-juros-honorarios-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desapropriacao-juros-honorarios-stj-sumulas/SKILL.md"
 triggers:
   - "juros compensatórios desapropriação"
   - "juros moratórios desapropriação"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 617 STF"
   - "imissão provisória na posse"
   - "ADI 2.332 juros compensatórios"
-description: "Desapropriação direta e indireta: juros compensatórios (Súm. 12, 69,\n113, 114 STJ; taxa conforme ADI 2.332 + Tema 126 STJ; Súm. 408\ncancelada), juros moratórios (Súm. 70 + DL 3.365 art. 15-B), correção\nmonetária (Súm. 67 STJ + 561 STF); verba advocatícia (Súm. 131, 141\nSTJ + 617 STF); alvará mineral (Súm. 238); suspensão por invasão\n(Súm. 354); MS contra licitação de SEM/EP (Súm. 333)."
+description: "Usar para pesquisar ou analisar: Desapropriação, Juros, Honorários e Procedimento (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desapropriação, Juros, Honorários e Procedimento (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

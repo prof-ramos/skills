@@ -5,8 +5,8 @@ title: "Inscrição do Advogado Público na OAB (Tema 936 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/inscricao-advogado-publico-oab-tema-936.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/inscricao-advogado-publico-oab-tema-936/SKILL.md"
 triggers:
   - "Tema 936 STF"
   - "inscrição advogado público OAB"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 1.074 STF"
   - "defensor público OAB"
   - "advogado público sem inscrição"
-description: "Inscrição do ADVOGADO PÚBLICO (AGU, Procuradorias estaduais e\nmunicipais) na OAB: Tema 936 STF (RE 609.517, julgado em 2026)\nfixou que a inscrição na OAB, nos termos da Lei 8.906/94, é\nINDISPENSÁVEL aos advogados públicos, garantida a submissão,\nquando atuam nessa qualidade, exclusivamente ao poder disciplinar\ndo órgão correicional do seu regime jurídico próprio. Para o\nDefensor Público, o Tema 1.074 STF declara inconstitucional a\nexigência de inscrição. Impedimentos e incompatibilidades: EOAB\narts. 28 a 30."
+description: "Usar para pesquisar ou analisar: Inscrição do Advogado Público na OAB (Tema 936 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inscrição do Advogado Público na OAB
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

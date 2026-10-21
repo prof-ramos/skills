@@ -5,8 +5,8 @@ title: "Crimes de Perigo à Vida e à Saúde (CP 130-134)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/periclitacao-vida-cp-130-134.md"
+version: 2
+sourcePath: "legalbr/materia/penal/periclitacao-vida-cp-130-134/SKILL.md"
 triggers:
   - "CP 130"
   - "perigo contágio venéreo"
@@ -18,10 +18,15 @@ triggers:
   - "abandono incapaz"
   - "CP 134"
   - "exposição abandono recém-nascido"
-description: "Periclitação CP 130-134: 130 contágio venéreo (det. 3m-1a/recl.\n1-4 se dolo direto); 131 contágio moléstia grave (recl. 1-4); 132\nexpor a perigo (det. 3m-1a); 133 abandono incapaz (det. 6m-3a até\nrecl. 4-12 morte); 134 exposição/abandono recém-nascido (det. 6m-2a);\ncrimes de perigo concreto e abstrato; aumento por relação de\nguarda; subsidiariedade expressa no 132."
+description: "Usar para pesquisar ou analisar: Crimes de Perigo à Vida e à Saúde (CP 130-134). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes de Periclitação (CP 130-134)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 130: perigo de contágio venéreo
 

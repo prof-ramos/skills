@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/contrato-nulo-enriquecimento-sem-causa-administracao.md"
+sourcePath: "legalbr/materia/administrativo/contrato-nulo-enriquecimento-sem-causa-administracao/SKILL.md"
 triggers:
   - "enriquecimento sem causa da Administração"
   - "contrato administrativo nulo"
@@ -19,10 +19,15 @@ triggers:
   - "cobrança de faturas contra o município"
   - "indenização pelo custo básico"
   - "nulidade do contrato administrativo"
-description: "Cobrança por serviços/fornecimentos executados sem contrato válido: a\nnulidade não exonera a Administração de indenizar o que foi executado\n(Lei 14.133 art. 149; Lei 8.666 art. 59 par. único), vedado o\nenriquecimento sem causa; requisitos, medida da indenização (custo x\nlucro), contrato verbal e responsabilização do causador."
+description: "Usar para pesquisar ou analisar: Serviços Prestados sem Contrato Válido, Enriquecimento sem Causa da Administração (Lei 14.133 art. 149). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Serviços Prestados sem Contrato Válido: Enriquecimento sem Causa da Administração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Pensão por Morte do Segurado Especial (Temas 532 e 554 STJ + Súm. 149)
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/segurado-especial-pensao-tema-532-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/segurado-especial-pensao-tema-532-stj/SKILL.md"
 triggers:
   - "Tema 532 STJ"
   - "Tema 554 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "boia-fria"
   - "trabalho urbano de membro do grupo familiar"
   - "economia familiar"
-description: "Pensão por morte de segurado especial. Tema 532 STJ: o trabalho\nurbano de um dos membros do grupo familiar não descaracteriza,\npor si só, os demais como segurados especiais (verifica-se a\ndispensabilidade do labor rural para a subsistência). Tema 554\nSTJ: a Súmula 149 (vedação à prova exclusivamente testemunhal)\naplica-se ao boia-fria, sendo imprescindível início de prova\nmaterial, mitigado por robusta prova testemunhal. Dispensa\ncarência (Lei 8.213/91 art. 26 III); valor 1 SM sem contribuição\nfacultativa."
+description: "Usar para pesquisar ou analisar: Pensão por Morte do Segurado Especial (Temas 532 e 554 STJ + Súm. 149). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pensão por Morte do Segurado Especial (Temas 532 e 554 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses repetitivas (1ª Seção STJ)
 

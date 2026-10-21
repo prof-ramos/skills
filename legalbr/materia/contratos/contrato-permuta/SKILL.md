@@ -5,8 +5,8 @@ title: "Contrato de Permuta"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-permuta.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-permuta/SKILL.md"
 triggers:
   - "contrato de permuta"
   - "permuta"
@@ -18,10 +18,15 @@ triggers:
   - "permuta por área construída"
   - "permuta na incorporação"
   - "permuta unidades futuras"
-description: "Permuta (CC 533): troca de bens com regras supletivas da\ncompra e venda; pura, com torna, ascendente-descendente, com\nunidades futuras; ITBI sobre cada bem; IR ganho de capital."
+description: "Usar para pesquisar ou analisar: Contrato de Permuta. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Permuta
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

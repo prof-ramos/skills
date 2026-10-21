@@ -5,8 +5,8 @@ title: "Dupla Responsabilização Caixa Dois (Tema 1.260 STF + crime eleitoral +
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/dupla-responsabilizacao-caixa-dois-tema-1260.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/dupla-responsabilizacao-caixa-dois-tema-1260/SKILL.md"
 triggers:
   - "Tema 1.260 STF"
   - "caixa dois"
@@ -18,10 +18,15 @@ triggers:
   - "ne bis in idem"
   - "dupla responsabilização"
   - "independência esferas"
-description: "Tema 1.260 STF (ARE 1.428.742, Rel. Alexandre de Moraes,\njulgamento virtual encerrado 06/02/2026): admitida DUPLA\nRESPONSABILIZAÇÃO de candidato por (I) crime eleitoral de\n\"caixa dois\" (art. 350 CE) e (II) ato de improbidade\nadministrativa (Lei 8.429/92 + 14.230/21). Esferas\nindependentes (CF 37 §4): não há bis in idem. Cada esfera\npreserva regras próprias de prescrição, prova e sanção."
+description: "Usar para pesquisar ou analisar: Dupla Responsabilização Caixa Dois (Tema 1.260 STF + crime eleitoral + improbidade). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dupla Responsabilização: Caixa Dois Eleitoral + Improbidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

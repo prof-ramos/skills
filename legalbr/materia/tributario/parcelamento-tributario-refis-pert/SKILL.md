@@ -5,8 +5,8 @@ title: "Parcelamento Tributário (CTN 155-A + Lei 10.522 + REFIS/PERT/PERSE/PGDA
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/parcelamento-tributario-refis-pert.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/parcelamento-tributario-refis-pert/SKILL.md"
 triggers:
   - "parcelamento tributário"
   - "CTN 155-A"
@@ -18,10 +18,15 @@ triggers:
   - "parcelamento ordinário"
   - "parcelamento especial"
   - "simples nacional parcelamento"
-description: "Parcelamento CTN 155-A (LC 104/01): suspende a exigibilidade\n(CTN 151 VI); espécies ORDINÁRIA (Lei 10.522, até 60x) e\nESPECIAIS (REFIS/PAES/PAEX/PERT/PERSE/PGDAU: descontos +\nprazos maiores); STJ Tema 101 (parcelamento NÃO é denúncia\nespontânea); STJ Tema 375 (confissão na adesão não inibe\nquestionamento jurídico); exclusão exige notificação prévia\n(devido processo); PGDAU Edital 6/2026: descontos 65-70% + até 133 parcelas."
+description: "Usar para pesquisar ou analisar: Parcelamento Tributário (CTN 155-A + Lei 10.522 + REFIS/PERT/PERSE/PGDAU). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parcelamento Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

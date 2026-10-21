@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "ata-assembleia"
 version: 2
-sourcePath: "lib/skills/official/forma/ata-assembleia.md"
+sourcePath: "legalbr/forma/ata-assembleia/SKILL.md"
 triggers:
   - "ata de assembleia"
   - "ata AGO"
@@ -15,10 +15,15 @@ triggers:
   - "ata de associação"
   - "ata de assembleia ordinária"
   - "ata de assembleia extraordinária"
-description: "Ata de assembleia geral (LSA 130-131), de quotistas (CC 1.071-1.078)\nou de associação (CC 59-60): convocação, quórum, ordem do dia,\ndeliberações, dissidência, registro em junta comercial e publicação\n(LSA 289). RCVM 80/22 e LC 182/21 para companhias abertas e startups."
+description: "Usar para redigir ou revisar: Ata de Assembleia (geral, especial, sócios). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ata de Assembleia
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

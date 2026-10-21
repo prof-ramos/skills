@@ -5,8 +5,8 @@ title: "Home Care e Internação Domiciliar (Súm. 90 TJSP + RN ANS 465/2021)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/home-care-internacao-domiciliar.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/home-care-internacao-domiciliar/SKILL.md"
 triggers:
   - "home care"
   - "internação domiciliar"
@@ -17,10 +17,15 @@ triggers:
   - "equipe multiprofissional domiciliar"
   - "desospitalização"
   - "oxigênio domiciliar"
-description: "Home care e internação domiciliar sob Lei 9.656 + RN ANS 465/2021\n+ Súms. 90 e 95 TJSP: cobertura obrigatória quando substitui\ninternação hospitalar com indicação médica; impossibilidade de\nrecusa por alegação de \"exclusão contratual\"; abrangência (equipe\nmultiprofissional + materiais + medicamentos + suporte); proteção\nao idoso/PCD; redução de custos da operadora não exonera dever."
+description: "Usar para pesquisar ou analisar: Home Care e Internação Domiciliar (Súm. 90 TJSP + RN ANS 465/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Home Care e Internação Domiciliar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

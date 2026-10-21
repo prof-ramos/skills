@@ -5,8 +5,8 @@ title: "Súmula Vinculante 11 - Uso de Algemas"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/sumula-vinculante-11-algemas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sumula-vinculante-11-algemas/SKILL.md"
 triggers:
   - "SV 11"
   - "Súmula Vinculante 11"
@@ -17,10 +17,15 @@ triggers:
   - "nulidade prisão algemas"
   - "CPP 234"
   - "audiência custódia algemas"
-description: "SV 11 STF (13/08/2008, HC 91.952): \"Só é lícito o uso de algemas\nem casos de resistência e fundado receio de fuga ou perigo à\nintegridade física, justificada a excepcionalidade por escrito,\nsob pena de nulidade do ato e responsabilização do agente.\""
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 11 - Uso de Algemas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 11 - Uso de Algemas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

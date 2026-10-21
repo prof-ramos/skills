@@ -5,8 +5,8 @@ title: "Holding Patrimonial e Familiar (planejamento sucessório)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/holding-patrimonial-familiar-sucessao.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/holding-patrimonial-familiar-sucessao/SKILL.md"
 triggers:
   - "holding patrimonial"
   - "holding familiar"
@@ -16,10 +16,15 @@ triggers:
   - "protocolo familiar"
   - "sucessão empresarial"
   - "imunidade ITBI integralização"
-description: "Holding patrimonial e familiar: estruturação (Ltda × S.A.),\nintegralização de bens (imunidade ITBI, STF Tema 796), gestão\nde patrimônio, planejamento sucessório (doação com reserva de\nusufruto + CC 538-564 + ITCMD), protocolo familiar, governança\n(conselho de família + de administração), proteção patrimonial\n(limites: fraude contra credores CC 158 + desconsideração CC\n50 + CDC 28) e tributação de dividendos (Lei 15.270/2025, vigência 2026)."
+description: "Usar para pesquisar ou analisar: Holding Patrimonial e Familiar (planejamento sucessório). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Holding Patrimonial e Familiar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 54, Reedição de MP antes da EC 32/2001"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-54-mp-reedicao-pre-ec32.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-54-mp-reedicao-pre-ec32/SKILL.md"
 triggers:
   - "SV 54"
   - "Súmula Vinculante 54"
@@ -17,10 +17,15 @@ triggers:
   - "efeitos retroativos MP"
   - "Plano Real reedição"
   - "ADI 293"
-description: "SV 54 STF (DJe 28/03/2016): \"A medida provisória não apreciada pelo\nCongresso Nacional podia, até a EC 32/2001, ser reeditada dentro\ndo seu prazo de eficácia de trinta dias, mantidos os efeitos de\nlei desde a primeira edição.\" Conversão da Súmula 651. Reedições\npré-EC 32 são válidas; após a EC 32, vedada nova reedição na mesma\nsessão legislativa (CF 62 §10)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 54, Reedição de MP antes da EC 32/2001. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 54, Reedição de MP antes da EC 32/2001
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

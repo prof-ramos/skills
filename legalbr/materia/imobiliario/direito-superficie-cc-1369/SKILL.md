@@ -5,8 +5,8 @@ title: "Direito de Superfície (CC 1.369-1.377 + EC art. 21)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direito-superficie-cc-1369.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direito-superficie-cc-1369/SKILL.md"
 triggers:
   - "direito de superfície"
   - "CC 1.369"
@@ -18,10 +18,15 @@ triggers:
   - "concedente superficiário"
   - "enfiteuse CC 2.038 Lei 9.636/98"
   - "superfície subsolo espaço aéreo"
-description: "Superfície CC 1.369-1.377: direito real construir/plantar em\nterreno alheio + prazo DETERMINADO + escritura pública +\nregistro; CC 1.372 transferibilidade + CC 1.373 PREFERÊNCIA\nmútua; CC 1.374 extinção pelo tempo (acessões revertem); EC art.\n21 (Lei 10.257) admite PRAZO INDETERMINADO + subsolo/espaço\naéreo; coexistência dos regimes CC × EC; enfiteuse (vedada nova\nconstituição - CC 2.038; União - Lei 9.636/98) substituída pela superfície."
+description: "Usar para pesquisar ou analisar: Direito de Superfície (CC 1.369-1.377 + EC art. 21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Superfície
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.225 II: DIREITO REAL
 

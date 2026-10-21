@@ -5,8 +5,8 @@ title: "Maus-Tratos a Animais (Lei 9.605/98 art. 32 + Lei 14.064/2020)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/maus-tratos-animais-lei-14064-9605.md"
+version: 2
+sourcePath: "legalbr/materia/penal/maus-tratos-animais-lei-14064-9605/SKILL.md"
 triggers:
   - "maus-tratos animais"
   - "Lei 9.605 art. 32"
@@ -18,10 +18,15 @@ triggers:
   - "farra do boi"
   - "CF 225 §1 VII"
   - "ADI 4983"
-description: "Lei 9.605/98 art. 32 (maus-tratos a animais, det. 3m-1a + multa,\ncaput) + Lei 14.064/2020: §1-A forma qualificada cão/gato (RECL. 2-5\n+ multa + proibição da guarda); §1-B tatuagem/piercing estético em\ncão/gato (Lei 15.150/2025); §1-C desastre ambiental que prejudique\nanimais (Lei 15.355/2026); §2 morte do animal (aumento 1/6 a 1/3).\nCF 225 §1 VII, vedação à crueldade. STF ADI 4.983 (Vaquejada) +\nADI 1.856 (Rinha de Galo), vedam crueldade legalizada. Lei\n14.064 NÃO retroage."
+description: "Usar para pesquisar ou analisar: Maus-Tratos a Animais (Lei 9.605/98 art. 32 + Lei 14.064/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Maus-Tratos a Animais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 9.605/1998 art. 32: texto atual
 

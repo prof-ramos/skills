@@ -5,8 +5,8 @@ title: "Parecer Jurídico Consultivo"
 category: "forma"
 materia: null
 documentType: "parecer-juridico-consultivo"
-version: 1
-sourcePath: "lib/skills/official/forma/parecer-juridico-consultivo.md"
+version: 2
+sourcePath: "legalbr/forma/parecer-juridico-consultivo/SKILL.md"
 triggers:
   - "parecer jurídico consultivo"
   - "opinião legal sobre tese"
@@ -15,10 +15,15 @@ triggers:
   - "consulta jurídica e fundamentação"
   - "responsabilidade do parecerista"
   - "conclusão e recomendação"
-description: "Parecer jurídico consultivo: opinião técnica não vinculante salvo lei;\nparecer obrigatório e vinculante (Lei 9.784/99 art. 42); parecer da AGU\naprovado pelo Presidente vincula (LC 73/93 art. 40); LINDB art. 28\n(Lei 13.655/18); estrutura consulta-fundamentação-conclusão."
+description: "Usar para redigir ou revisar: Parecer Jurídico Consultivo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parecer Jurídico Consultivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza e finalidade
 

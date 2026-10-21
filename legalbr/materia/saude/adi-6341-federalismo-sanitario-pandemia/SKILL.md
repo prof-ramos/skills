@@ -5,8 +5,8 @@ title: "ADI 6341, Federalismo Sanitário na Pandemia (Competência Concorrente)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/adi-6341-federalismo-sanitario-pandemia.md"
+version: 2
+sourcePath: "legalbr/materia/saude/adi-6341-federalismo-sanitario-pandemia/SKILL.md"
 triggers:
   - "ADI 6341"
   - "federalismo sanitário"
@@ -16,10 +16,15 @@ triggers:
   - "MP 926/2020"
   - "autonomia federativa pandemia"
   - "SUS competência União"
-description: "ADI 6341 (red. Edson Fachin, 15/04/2020, unânime): interpretação\nconforme da Lei 13.979/2020: Estados, DF e Municípios têm\ncompetência concorrente com a União em saúde (CF 23 II + 24\nXII + 30 II). Marco do federalismo cooperativo na pandemia."
+description: "Usar para pesquisar ou analisar: ADI 6341, Federalismo Sanitário na Pandemia (Competência Concorrente). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 6341, Federalismo Sanitário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

@@ -5,8 +5,8 @@ title: "Gestão de Crise Jurídica e Resposta a Incidente"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/crise-juridica-gestao-incidente.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/crise-juridica-gestao-incidente/SKILL.md"
 triggers:
   - "gestão de crise"
   - "crisis management"
@@ -20,10 +20,15 @@ triggers:
   - "busca e apreensão na empresa"
   - "acidente corporativo"
   - "vazamento midiático"
-description: "Gestão de crise jurídica corporativa: ativação do war room\n(jurídico + compliance + PR + RH + CEO + board), preservação\nde evidências (litigation hold), privilege EAOAB 7 II,\ncoordenação multi-frente (reguladores, MPF, PF, CGU, CVM,\nANPD, CADE, BCB), interface com mídia, comunicação interna,\nfato relevante (RCVM 44), proteção a executivos (D&O), self-\nreporting estratégico, classes de crise (regulatória, criminal,\ncibernética, reputacional, ambiental, trabalhista, produto)."
+description: "Usar para pesquisar ou analisar: Gestão de Crise Jurídica e Resposta a Incidente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gestão de Crise Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Classes de crise
 

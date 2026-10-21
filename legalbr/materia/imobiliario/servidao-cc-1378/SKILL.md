@@ -5,8 +5,8 @@ title: "Servidão (CC 1.378-1.389 + DL 3.365/41)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/servidao-cc-1378.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/servidao-cc-1378/SKILL.md"
 triggers:
   - "servidão de passagem"
   - "CC 1.378"
@@ -19,10 +19,15 @@ triggers:
   - "usucapião de servidão aparente"
   - "extinção da servidão não uso"
   - "servidão linha de transmissão"
-description: "Servidão CC 1.378-1.389: direito real de gozo sobre prédio alheio\n(dominante × serviente); contrato + testamento + usucapião (1.379:\nAPENAS aparente; 10 anos / 5 c/ justo título); CC 1.380\nindivisibilidade; CC 1.389 extinção (incl. NÃO USO 10 ANOS);\nServidão administrativa DL 3.365/41 art. 40 (utilidade pública +\nindenização proporcional à limitação); ≠ passagem forçada CC 1.285."
+description: "Usar para pesquisar ou analisar: Servidão (CC 1.378-1.389 + DL 3.365/41). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Servidão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.378: conceito
 

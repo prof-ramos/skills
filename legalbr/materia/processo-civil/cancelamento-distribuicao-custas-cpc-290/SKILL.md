@@ -5,8 +5,8 @@ title: "Custas Iniciais e Cancelamento da Distribuição (CPC 290 + Temas 675/67
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/cancelamento-distribuicao-custas-cpc-290.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cancelamento-distribuicao-custas-cpc-290/SKILL.md"
 triggers:
   - "cancelamento da distribuição"
   - "CPC 290 custas iniciais"
@@ -18,10 +18,15 @@ triggers:
   - "custas de ingresso 15 dias"
   - "adiantamento de despesas CPC 82"
   - "recolhimento intempestivo de custas"
-description: "Cancelamento da distribuição por falta de custas iniciais (CPC 290):\nintimação prévia NA PESSOA DO ADVOGADO + 15 dias; extinção sem mérito\n(485 IV). Temas 675/676 STJ (REsp 1.361.811/RS, CPC/73): cancelamento\nsem intimação prévia, salvo recolhimento intempestivo comprovado antes\nda decisão; controvérsia intertemporal com o art. 290. Adiantamento de\ndespesas (CPC 82/91), Súm. 190 STJ e Tema 396 (condução de oficial)."
+description: "Usar para pesquisar ou analisar: Custas Iniciais e Cancelamento da Distribuição (CPC 290 + Temas 675/676 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Custas Iniciais e Cancelamento da Distribuição (CPC 290)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime legal do adiantamento (CPC 82 e 91)
 

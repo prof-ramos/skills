@@ -5,8 +5,8 @@ title: "Minuta de Cláusula Contratual (template)"
 category: "forma"
 materia: null
 documentType: "minuta-clausula"
-version: 1
-sourcePath: "lib/skills/official/forma/minuta-clausula-contratual.md"
+version: 2
+sourcePath: "legalbr/forma/minuta-clausula-contratual/SKILL.md"
 triggers:
   - "minuta de cláusula"
   - "cláusula contratual"
@@ -14,10 +14,15 @@ triggers:
   - "inserir cláusula"
   - "cláusula padrão"
   - "cláusula sugerida"
-description: "Minuta de cláusula contratual: trecho de contrato voltado a inserção\nou substituição em instrumento existente. Boa-fé objetiva (CC 422),\nfunção social (CC 421), CC 421-A (contratos empresariais paritários,\nLei 13.874/19). Cláusulas críticas: limitação, indenidade,\narbitragem, foro, LGPD, anticorrupção, non-compete."
+description: "Usar para redigir ou revisar: Minuta de Cláusula Contratual (template). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Minuta de Cláusula Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Função
 

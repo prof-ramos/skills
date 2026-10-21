@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "plano-rj"
 version: 2
-sourcePath: "lib/skills/official/forma/plano-recuperacao-judicial.md"
+sourcePath: "legalbr/forma/plano-recuperacao-judicial/SKILL.md"
 triggers:
   - "plano de recuperação judicial"
   - "apresentação do plano em 60 dias art. 53 Lei 11.101/05"
@@ -15,10 +15,15 @@ triggers:
   - "cram down imposição do plano art. 58 §1º"
   - "meios de recuperação art. 50"
   - "plano de recuperação submetido à AGC após objeção art. 55"
-description: "Plano de recuperação judicial sob a Lei 11.101 arts. 53 a 58:\napresentação em 60 dias improrrogáveis do processamento; meios do\nart. 50; quatro classes do art. 41 com aprovação ordinária (art. 45)\nou cram down (art. 58 §1º); plano alternativo dos credores (Lei\n14.112) com 25% do total ou 35% dos votantes; RJ não suspende\nexecuções contra coobrigados (Tema 885 STJ) e supressão de garantia\nsó vincula credor que consentiu expressamente; débitos condominiais\nsão extraconcursais (Tema 1.391 STJ)."
+description: "Usar para redigir ou revisar: Plano de Recuperação Judicial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Recuperação Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Prazo (art. 53)
 

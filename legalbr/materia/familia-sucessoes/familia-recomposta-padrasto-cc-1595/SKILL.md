@@ -5,8 +5,8 @@ title: "Família Recomposta + Multiparentalidade (CC 1.595 + STF Tema 622)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/familia-recomposta-padrasto-cc-1595.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/familia-recomposta-padrasto-cc-1595/SKILL.md"
 triggers:
   - "família recomposta"
   - "família mosaico"
@@ -18,10 +18,15 @@ triggers:
   - "parentesco por afinidade"
   - "filiação socioafetiva"
   - "Lei 11.924/2009"
-description: "Família recomposta + multiparentalidade: **CC 1.595** (parentesco\npor **afinidade**) + **STF Tema 622 (RE 898.060/2016)**: filiação\nsocioafetiva pode **coexistir** com biológica, gerando **efeitos\njurídicos plenos** para ambas. Família mosaico: união entre parceiros\ncom filhos de relacionamentos anteriores. Padrasto/madrasta:\nparentesco por afinidade em **linha reta (perpétua) + colateral\naté 2º grau (cunhados)**. **Lei 11.924/2009**: acréscimo do nome\ndo padrasto/madrasta ao nome do enteado. Efeitos: alimentos\n(controversa) + sucessão (multiparentalidade gera direito sucessório\ndos múltiplos pais/mães) + guarda + visitas. Provimento CNJ 63/2017\npermite registro extrajudicial de paternidade socioafetiva."
+description: "Usar para pesquisar ou analisar: Família Recomposta + Multiparentalidade (CC 1.595 + STF Tema 622). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Família Recomposta + Multiparentalidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

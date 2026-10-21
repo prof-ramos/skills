@@ -5,8 +5,8 @@ title: "Motorista Profissional (Lei 13.103/2015 + CLT 235-A a 235-H)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/motorista-profissional-lei-13103.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/motorista-profissional-lei-13103/SKILL.md"
 triggers:
   - "motorista profissional"
   - "Lei 13.103"
@@ -17,10 +17,15 @@ triggers:
   - "tacógrafo"
   - "ADI 5322"
   - "motorista de caminhão jornada"
-description: "Motorista profissional (Lei 13.103/15 + CLT 235-A a 235-H): jornada de\naté 8h + 2 HE (até 4 em caráter excepcional); tempo de direção máx.\n5h30 contínuas; descanso 11h por 24h; dupla de motorista; revogação de\nregras da Lei 12.619/2012. ADI 5322 STF (rel. Alexandre de Moraes, j.\n30/06/2023, efeitos ex nunc desde 12/07/2023) declarou inconstitucionais\npartes da lei: o tempo de espera passa a integrar a jornada (não mais\npago a 30% indenizatório); CCT prevalece nos limites da CF (Tema 1.046)."
+description: "Usar para pesquisar ou analisar: Motorista Profissional (Lei 13.103/2015 + CLT 235-A a 235-H). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Motorista Profissional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

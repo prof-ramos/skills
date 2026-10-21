@@ -5,8 +5,8 @@ title: "Representação Fiscal para Fins Penais"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/representacao-fiscal-fins-penais.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/representacao-fiscal-fins-penais/SKILL.md"
 triggers:
   - "representação fiscal fins penais"
   - "art. 83 Lei 9.430"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 10.684"
   - "parcelamento suspensão punibilidade"
   - "crime tributário"
-description: "Regime da representação fiscal para fins penais (Lei 9.430/96 art. 83;\nDec. 2.730/98; Portaria RFB 1.750/18; PGFN). Encaminhamento ao MPF\nsomente após constituição definitiva (SV 24 STF). Crimes:\nLei 8.137 (ordem tributária) + CP arts. 168-A e 337-A (previdenciário).\nPagamento integral extingue punibilidade (Lei 10.684/03 art. 9\n+ Lei 12.382/11). Parcelamento suspende a pretensão punitiva.\nANPP (CPP 28-A) cabível preenchidos os requisitos legais. Efeitos\npenais da anulação do lançamento e da discussão administrativa."
+description: "Usar para pesquisar ou analisar: Representação Fiscal para Fins Penais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Representação Fiscal para Fins Penais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

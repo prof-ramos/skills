@@ -6,7 +6,7 @@ category: "materia"
 materia: "consumidor"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/tarifa-social-energia-lei-12212.md"
+sourcePath: "legalbr/materia/consumidor/tarifa-social-energia-lei-12212/SKILL.md"
 triggers:
   - "tarifa social"
   - "Lei 12.212"
@@ -20,10 +20,15 @@ triggers:
   - "subsídio energia"
   - "perda tarifa social mercado livre"
   - "Decreto 13.097/2026 tarifa social"
-description: "Tarifa Social de Energia Elétrica e critérios de baixa renda. A migração da baixa tensão ao mercado livre em 2027/2028 afasta o benefício, após informação prévia, conforme Decreto 13.097/2026."
+description: "Usar para pesquisar ou analisar: Tarifa Social: Energia, Saneamento e Telefonia (Lei 12.212/2010). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifa Social: Energia Elétrica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Auxílio-reclusão (Lei 8.213/91 art. 80 + EC 103/2019 + Lei 13.846/2019
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-reclusao-lei-8213.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-reclusao-lei-8213/SKILL.md"
 triggers:
   - "auxílio-reclusão"
   - "art. 80 Lei 8.213"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 13.846"
   - "reclusão fechado semiaberto"
   - "manutenção qualidade segurado"
-description: "Auxílio-reclusão (Lei 8.213/91 art. 80; EC 103/2019 art. 27; Lei 13.846/19):\ndependentes de segurado baixa renda preso em regime fechado; carência 24\ncontribuições (MP 871/19); critério renda = média SC 12 meses; desempregado\npré-MP 871 afere-se pela ausência de renda (Tema 896 STJ); DIB sem retroação\np/ filho menor de 16 que requer após 180 dias (Tema 1.421 STJ); valor 1 SM;\nvedada cumulação com pensão."
+description: "Usar para pesquisar ou analisar: Auxílio-reclusão (Lei 8.213/91 art. 80 + EC 103/2019 + Lei 13.846/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Reclusão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

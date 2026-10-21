@@ -5,8 +5,8 @@ title: "Requerimento Administrativo"
 category: "forma"
 materia: null
 documentType: "requerimento-administrativo"
-version: 1
-sourcePath: "lib/skills/official/forma/requerimento-administrativo.md"
+version: 2
+sourcePath: "legalbr/forma/requerimento-administrativo/SKILL.md"
 triggers:
   - "requerimento administrativo"
   - "petição administrativa a órgão público"
@@ -19,10 +19,15 @@ triggers:
   - "pedido de acesso à informação Lei 12.527"
   - "recurso administrativo Lei 9.784 art. 56"
   - "protocolo de requerimento administrativo"
-description: "Requerimento administrativo extrajudicial a órgão ou entidade pública:\ndireito de petição (CF 5º XXXIV a) e Lei 9.784/99 (requisitos art. 6º,\nlegitimados art. 9º, instrução arts. 29-47, dever de decidir art. 48,\nprazo de 30 dias prorrogáveis art. 49, recurso sem caução arts. 56-65,\nanulação e convalidação arts. 53-55). Certidões (Lei 9.051/95), acesso\nà informação (Lei 12.527/11) e prévio requerimento ao INSS (Tema 350 STF)."
+description: "Usar para redigir ou revisar: Requerimento Administrativo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Requerimento Administrativo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Peça **extrajudicial** dirigida a órgão ou entidade da Administração Pública (qualquer esfera ou Poder no exercício de função administrativa), não a juízo. Fundamento constitucional: **direito de petição** aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder, independentemente do pagamento de taxas (CF 5º XXXIV "a"), e direito à obtenção de certidões para defesa de direitos e esclarecimento de situações de interesse pessoal (CF 5º XXXIV "b").
 

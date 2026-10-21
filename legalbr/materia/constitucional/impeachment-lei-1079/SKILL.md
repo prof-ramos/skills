@@ -5,8 +5,8 @@ title: "Impeachment (CF 85-86 + Lei 1.079/1950 + DL 201/1967)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/impeachment-lei-1079.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/impeachment-lei-1079/SKILL.md"
 triggers:
   - "impeachment"
   - "crime de responsabilidade"
@@ -18,10 +18,15 @@ triggers:
   - "MS 21.564"
   - "MS 34.371"
   - "inabilitação 8 anos"
-description: "Impeachment sob CF 85-86 + Lei 1.079/1950 + DL 201/1967 (prefeitos):\nadmissão pela CD (2/3 = 342) + julgamento pelo SF (2/3 = 54);\nsuspensão 180 dias; penas = perda do cargo + inabilitação 8 anos;\nADPF 378 STF (rito Dilma); MS 21.564 e 34.371 (natureza híbrida);\nSTF controla forma + devido processo, NÃO o mérito político."
+description: "Usar para pesquisar ou analisar: Impeachment (CF 85-86 + Lei 1.079/1950 + DL 201/1967). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impeachment
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

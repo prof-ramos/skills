@@ -5,8 +5,8 @@ title: "Devolução em Dobro: CDC 42 par. único e Tema 929 STJ"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/devolucao-dobro-tema-929.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/devolucao-dobro-tema-929/SKILL.md"
 triggers:
   - "devolução em dobro"
   - "repetição em dobro"
@@ -17,10 +17,15 @@ triggers:
   - "boa-fé objetiva"
   - "engano justificável"
   - "modulação 30/03/2021"
-description: "Repetição em dobro (CDC 42 par. único) à luz do Tema 929 STJ (EAREsp\n676.608, Corte Especial 21/10/2020 / publicado 30/03/2021): basta\ncontrariedade à boa-fé objetiva (dispensa má-fé subjetiva); modulação\n→ indébitos posteriores a 30/03/2021 aplicam-se a TODAS as relações\nde consumo; engano justificável é exceção; pagamento efetivo é\npressuposto; aplicação a serviços continuados e cobranças repetidas."
+description: "Usar para pesquisar ou analisar: Devolução em Dobro: CDC 42 par. único e Tema 929 STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Devolução em Dobro: CDC 42 par. único
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto legal
 
@@ -178,3 +183,7 @@ description: "Repetição em dobro (CDC 42 par. único) à luz do Tema 929 STJ (
 - Pós-EC 113, a Selic já engloba juros e correção, sem cumulação isolada;
 - Em **serviços públicos** tarifados uti singuli (água, energia, telefonia), a dobra é cabível (tarifa específica é relação de consumo);
 - A Súm. 322 STJ (dispensa de prova do erro na repetição em conta-corrente) e a Súm. 608 STJ (CDC em planos de saúde) integram o regime probatório/material.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

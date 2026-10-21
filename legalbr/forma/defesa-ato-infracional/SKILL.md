@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-ato-infracional"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-ato-infracional.md"
+sourcePath: "legalbr/forma/defesa-ato-infracional/SKILL.md"
 triggers:
   - "defesa ato infracional"
   - "ECA 103"
@@ -19,10 +19,15 @@ triggers:
   - "art. 228 CF"
   - "defesa na representação infracional"
   - "resposta à representação por ato infracional"
-description: "Defesa em apuração de ato infracional (ECA 103, 110, 111, 171-190;\nSINASE Lei 12.594): inimputabilidade absoluta < 18 (CF 228); defesa\nTÉCNICA obrigatória; oitiva informal pelo MP (art. 179); remissão\npré-processual; representação (art. 182); audiência única / contínua;\ninternação SOMENTE hipóteses do art. 122 (Súm. 492 STJ); HC coletivo\n143.988/ES vedou superlotação; reavaliação 6 meses (SINASE 42)."
+description: "Usar para redigir ou revisar: Defesa em Ato Infracional (ECA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Ato Infracional
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

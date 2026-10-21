@@ -5,8 +5,8 @@ title: "Garantias e Privilégios do Crédito Tributário (CTN 183-193 + LC 118/2
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/garantias-privilegios-credito-ctn-183-193.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/garantias-privilegios-credito-ctn-183-193/SKILL.md"
 triggers:
   - "garantias crédito tributário"
   - "privilégios crédito tributário"
@@ -18,10 +18,15 @@ triggers:
   - "LC 118/2005"
   - "presunção fraude execução fiscal"
   - "preferência falência"
-description: "Garantias e privilégios CTN 183-193 + LC 118/05: rol exemplificativo\nde garantias (183); preferência sobre TODOS os bens (184, salvo\nimpenhoráveis); presunção iuris et de iure de FRAUDE com inscrição\nem DA (185, LC 118 reduziu prazo); INDISPONIBILIDADE judicial\n(185-A); preferência em falência: posiciona após créditos\ntrabalhistas + garantia real até limite (186, alterado LC 118);\nconcurso de credores entre Fazendas (187)."
+description: "Usar para pesquisar ou analisar: Garantias e Privilégios do Crédito Tributário (CTN 183-193 + LC 118/2005). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Garantias e Privilégios do Crédito Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

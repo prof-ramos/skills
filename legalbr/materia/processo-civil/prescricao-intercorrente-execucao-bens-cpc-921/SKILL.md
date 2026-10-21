@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente em Execução Civil por Não Localização de
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/prescricao-intercorrente-execucao-bens-cpc-921.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prescricao-intercorrente-execucao-bens-cpc-921/SKILL.md"
 triggers:
   - "prescrição intercorrente execução civil"
   - "CPC 921 III"
@@ -15,10 +15,15 @@ triggers:
   - "prazo prescricional pretensão executiva"
   - "paralisação execução sem bens"
   - "Tema 568 STJ"
-description: "Prescrição intercorrente na execução civil (CPC 921 III e §§1-5,\nredação da Lei 14.195/2021): suspensão de 1 ANO por não localização\ndo devedor ou de bens penhoráveis; findo o ano, a intercorrente flui\nAUTOMATICAMENTE, sem necessidade de nova intimação do credor. Prazo\ncoincide com o prescricional da pretensão (Súm. 150 STF). Interrupção\nexige efetiva citação ou efetiva constrição (Tema 568 STJ); mera\npetição não interrompe. Execução fiscal segue regime próprio (LEF 40\n+ Temas 566-571 STJ)."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente em Execução Civil por Não Localização de Bens (CPC 921). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente em Execução Civil por Não Localização de Bens (CPC 921)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regra nuclear (CPC 921, redação da Lei 14.195/2021)
 

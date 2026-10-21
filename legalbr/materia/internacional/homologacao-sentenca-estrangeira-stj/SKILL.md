@@ -5,8 +5,8 @@ title: "Homologação de Decisão Estrangeira (CPC 960-965 + RISTJ 216-A)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/homologacao-sentenca-estrangeira-stj.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/homologacao-sentenca-estrangeira-stj/SKILL.md"
 triggers:
   - "homologação sentença estrangeira"
   - "decisão estrangeira"
@@ -18,10 +18,15 @@ triggers:
   - "homologação arbitral estrangeira"
   - "Convenção Nova York 1958"
   - "SEC sentença estrangeira contestada"
-description: "Homologação de decisão estrangeira (CPC 960-965 + RISTJ 216-A a\n216-X + CF 105 I i): competência **STJ**, juízo de **delibação**\n(não revisão de mérito). Aplica-se a sentenças judiciais + arbitrais\n+ atos não-judiciais (Lei 13.105 + Lei 9.307). Requisitos (CPC 963):\nprolatada por autoridade competente + citação regular + trânsito\nem julgado + tradução juramentada + autenticidade. **Limites**:\nordem pública + soberania + dignidade humana (LINDB 17).\nProcedimento concentrado em **Presidente do STJ**; após homologação,\nexecução em **Justiça Federal** (CF 109 X). Divórcio consensual\nestrangeiro: **dispensa de homologação** (Lei 13.484/2017 + CPC 961\n§5 + Provimento CNJ 53/2016), averbação direta. Sentença arbitral\nestrangeira: Conv. NY 1958 + Lei 9.307 art. 35-39."
+description: "Usar para pesquisar ou analisar: Homologação de Decisão Estrangeira (CPC 960-965 + RISTJ 216-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Homologação de Decisão Estrangeira
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

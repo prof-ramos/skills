@@ -5,8 +5,8 @@ title: "Portabilidade de Carências (RN ANS 438/2018)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/ans-portabilidade-carencias.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/ans-portabilidade-carencias/SKILL.md"
 triggers:
   - "portabilidade de carências"
   - "RN ANS 438"
@@ -18,10 +18,15 @@ triggers:
   - "portabilidade extraordinária"
   - "prazo de permanência"
   - "plano em rescisão"
-description: "Portabilidade de carências em plano de saúde sob RN ANS 438/2018:\ndireito do beneficiário de migrar mantendo carências cumpridas;\nrequisitos (vínculo ativo + prazo mínimo de permanência + plano\ncompatível + adimplência); portabilidade especial em rescisão\nunilateral pela operadora; portabilidade extraordinária em\nliquidação/extinção; vedação a novas carências; Guia ANS de\nconsulta de planos compatíveis."
+description: "Usar para pesquisar ou analisar: Portabilidade de Carências (RN ANS 438/2018). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Portabilidade de Carências
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

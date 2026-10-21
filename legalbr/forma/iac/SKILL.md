@@ -5,8 +5,8 @@ title: "Incidente de Assunção de Competência (IAC)"
 category: "forma"
 materia: null
 documentType: "iac"
-version: 1
-sourcePath: "lib/skills/official/forma/iac.md"
+version: 2
+sourcePath: "legalbr/forma/iac/SKILL.md"
 triggers:
   - "IAC"
   - "assunção de competência"
@@ -14,10 +14,15 @@ triggers:
   - "relevante questão de direito"
   - "grande repercussão social"
   - "uniformização sem repetição"
-description: "IAC (art. 947 CPC): tribunal assume causa com relevante questão de direito\ne grande repercussão social, SEM repetição efetiva. Vincula juízes e\nórgãos fracionários (§3º). Cabe REsp/RE. Distingue-se do IRDR (976)."
+description: "Usar para redigir ou revisar: Incidente de Assunção de Competência (IAC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Assunção de Competência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 947)
 

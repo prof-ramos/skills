@@ -5,8 +5,8 @@ title: "Política Corporativa (interna)"
 category: "forma"
 materia: null
 documentType: "politica-corporativa"
-version: 1
-sourcePath: "lib/skills/official/forma/politica-corporativa.md"
+version: 2
+sourcePath: "legalbr/forma/politica-corporativa/SKILL.md"
 triggers:
   - "política interna"
   - "política corporativa"
@@ -15,10 +15,15 @@ triggers:
   - "política de privacidade"
   - "política de divulgação"
   - "manual interno"
-description: "Política corporativa interna: instrumento normativo subordinado a\nestatuto/contrato + regulação setorial. Aprovação pelo CA/diretoria\n(LSA 142 II), vigência, treinamento, auditoria, sanção disciplinar\n(CLT 482 + 158). Compliance LGPD, anticorrupção (12.846 + Dec.\n11.129/22) e governança RCVM 80/81."
+description: "Usar para redigir ou revisar: Política Corporativa (interna). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Política Corporativa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

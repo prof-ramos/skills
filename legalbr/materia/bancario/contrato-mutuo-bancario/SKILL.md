@@ -5,8 +5,8 @@ title: "Contrato de Mútuo Bancário (CC 586 + SFN + Súm. 596 STF)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/contrato-mutuo-bancario.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/contrato-mutuo-bancario/SKILL.md"
 triggers:
   - "mútuo bancário"
   - "empréstimo bancário"
@@ -20,10 +20,15 @@ triggers:
   - "CDC bancário"
   - "Tema 1.061 STJ"
   - "redação minuta mútuo"
-description: "Mútuo bancário (CC 586 supletivo + Lei 4.595/64 + regulação CMN/BACEN):\njuros remuneratórios livres no SFN (Súm. 596 STF); capitalização\npermitida desde 31.03.2000 (Súm. 539/541 STJ); CET obrigatório com PF\n(Res. CMN 4.881/20); tarifas controladas (Tema 621/958); CDC aplica-se\n(Súm. 297 STJ); revisão limitada (Súm. 381)."
+description: "Usar para pesquisar ou analisar: Contrato de Mútuo Bancário (CC 586 + SFN + Súm. 596 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Mútuo Bancário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

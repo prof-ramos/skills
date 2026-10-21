@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/inquerito-policial-cpp-4.md"
+sourcePath: "legalbr/materia/processo-penal/inquerito-policial-cpp-4/SKILL.md"
 triggers:
   - "inquérito policial"
   - "indiciamento"
@@ -22,10 +22,15 @@ triggers:
   - "HC 1.059.475 STJ"
   - "relatório policial IA generativa"
   - "validação humana prova digital"
-description: "Inquérito policial (CPP 4-23): características, prazos, arquivamento, acesso da defesa, ANPP, juiz das garantias, cadeia de custódia e controle de confiabilidade de relatório policial produzido com IA generativa."
+description: "Usar para pesquisar ou analisar: Inquérito Policial (CPP 4-23 + Lei 13.964/2019 + SV 14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inquérito Policial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Características
 

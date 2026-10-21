@@ -5,8 +5,8 @@ title: "Ação Coletiva no CDC (arts. 81-104): Tripartição e Coisa Julgada"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/acao-coletiva-cdc-81.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/acao-coletiva-cdc-81/SKILL.md"
 triggers:
   - "ação coletiva"
   - "CDC 81"
@@ -19,10 +19,15 @@ triggers:
   - "fluid recovery"
   - "Tema 1.075 STF"
   - "coisa julgada coletiva"
-description: "Ação coletiva no CDC (arts. 81-104): tripartição: difusos\n(indivisíveis + fato comum), coletivos stricto sensu (indivisíveis +\nrelação jurídica), individuais homogêneos (divisíveis + origem\ncomum); coisa julgada CDC 103 (erga omnes secundum eventum\nprobationis nos difusos + ultra partes coletivos + erga omnes\nin utilibus IH); Tema 1.075 (nacional); fluid recovery (100 par.\núnico)."
+description: "Usar para pesquisar ou analisar: Ação Coletiva no CDC (arts. 81-104): Tripartição e Coisa Julgada. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Coletiva no CDC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tripartição dos direitos coletivos (CDC 81 par. único)
 

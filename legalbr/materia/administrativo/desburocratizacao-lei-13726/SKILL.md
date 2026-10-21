@@ -5,8 +5,8 @@ title: "Desburocratização (Lei 13.726/2018 + Lei 14.129/2021 + Dec. 9.094/2017
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/desburocratizacao-lei-13726.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desburocratizacao-lei-13726/SKILL.md"
 triggers:
   - "desburocratização"
   - "Lei 13.726/2018"
@@ -19,10 +19,15 @@ triggers:
   - "simplificação administrativa"
   - "governo digital"
   - "gov.br"
-description: "Desburocratização (Lei 13.726/2018 + Lei 14.129/2021 + Dec.\n9.094/2017): vedação a reconhecimento de firma + autenticação\n+ apresentação de documentos pessoais já entregues + cópias\nautenticadas (substituídas pelo cotejo); plataforma gov.br;\nprincípios (boa-fé + presunção da veracidade); responsabilização\ndo servidor que descumprir."
+description: "Usar para pesquisar ou analisar: Desburocratização (Lei 13.726/2018 + Lei 14.129/2021 + Dec. 9.094/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desburocratização Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

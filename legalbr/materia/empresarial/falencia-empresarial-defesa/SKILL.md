@@ -5,8 +5,8 @@ title: "Falência Empresarial: Defesa do Devedor"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/falencia-empresarial-defesa.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/falencia-empresarial-defesa/SKILL.md"
 triggers:
   - "falência defesa"
   - "Lei 11.101 art. 94"
@@ -18,10 +18,15 @@ triggers:
   - "atos de falência"
   - "insolvência presumida"
   - "recuperação judicial defensiva"
-description: "Resposta do devedor ao pedido de falência (Lei 11.101/05 arts. 94-98;\nalterações Lei 14.112/20). Três hipóteses (art. 94): I) impontualidade\n(título ≥40 SM protestado); II) execução frustrada; III) atos de falência.\nMatérias de impugnação do art. 96 + depósito elisivo (art. 98 p.ú.).\nPedido de recuperação judicial no prazo da contestação (art. 95 + 51).\nSentença declaratória: efeitos (art. 99). Recurso: agravo (art. 100)."
+description: "Usar para pesquisar ou analisar: Falência Empresarial: Defesa do Devedor. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência Empresarial: Defesa do Devedor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

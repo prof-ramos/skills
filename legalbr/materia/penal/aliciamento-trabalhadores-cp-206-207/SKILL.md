@@ -5,8 +5,8 @@ title: "Aliciamento de Trabalhadores (CP 206-207 + Lei 13.344/2016)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/aliciamento-trabalhadores-cp-206-207.md"
+version: 2
+sourcePath: "legalbr/materia/penal/aliciamento-trabalhadores-cp-206-207/SKILL.md"
 triggers:
   - "aliciamento de trabalhadores"
   - "CP 206"
@@ -18,10 +18,15 @@ triggers:
   - "organização do trabalho"
   - "crimes contra a organização do trabalho"
   - "recrutamento fraudulento de trabalhadores"
-description: "Aliciamento CP 206 (emigração, det. 1-3a) + CP 207 (interno,\ndet. 1-3a + §1 majorante 1/6-1/3 fraude/cobrança/sem retorno +\n§2 sem retorno det. 6m-1a, Lei 9.777/1998 + 13.344/2016);\ndistinção crítica CP 149 (escravo) × CP 149-A (tráfico) × CP\n206-207 (aliciamento simples); bem jurídico organização do\ntrabalho; AP pública incondicionada; competência JF quando\natingido interesse coletivo (CF 109 VI; RE 398.041 para CP 149)."
+description: "Usar para pesquisar ou analisar: Aliciamento de Trabalhadores (CP 206-207 + Lei 13.344/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aliciamento de Trabalhadores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bem jurídico tutelado
 

@@ -5,8 +5,8 @@ title: "Parecer Jurídico / Legal Opinion (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/parecer-juridico-legal-opinion.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/parecer-juridico-legal-opinion/SKILL.md"
 triggers:
   - "parecer jurídico"
   - "legal opinion"
@@ -15,10 +15,15 @@ triggers:
   - "emissão de parecer"
   - "cota jurídica"
   - "manifestação consultiva"
-description: "Estrutura, escopo e gradação de parecer jurídico consultivo:\nconsulta, premissas, qualificações (assumptions/reliance), análise\npor questão, conclusão graduada (will/should/more likely than not),\nresponsabilidade civil do parecerista (CC 186 + 927), sigilo (EAOAB\nart. 7 II) e parecer normativo (LC 73/93 art. 40-42) na advocacia\npública."
+description: "Usar para pesquisar ou analisar: Parecer Jurídico / Legal Opinion (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parecer Jurídico / Legal Opinion
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

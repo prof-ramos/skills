@@ -5,8 +5,8 @@ title: "Juizado Especial Cível Estadual (Lei 9.099/95)"
 category: "forma"
 materia: null
 documentType: "jec"
-version: 1
-sourcePath: "lib/skills/official/forma/jec.md"
+version: 2
+sourcePath: "legalbr/forma/jec/SKILL.md"
 triggers:
   - "juizado especial cível estadual"
   - "Lei 9.099/95"
@@ -16,10 +16,15 @@ triggers:
   - "competência até 40 salários mínimos"
   - "dispensa de advogado até 20 SM"
   - "pedido contraposto no juizado"
-description: "JEC Estadual sob a Lei 9.099/95: competência por valor (até 40 SM) e\nmatéria do art. 3º; princípios da oralidade e celeridade; vedações do\n§2º; advogado facultativo até 20 SM e obrigatório em recurso;\nsentença, recurso inominado e execução em rito próprio."
+description: "Usar para redigir ou revisar: Juizado Especial Cível Estadual (Lei 9.099/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juizado Especial Cível Estadual (Lei 9.099/95)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases e princípios
 

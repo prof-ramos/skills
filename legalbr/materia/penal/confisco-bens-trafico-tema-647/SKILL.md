@@ -5,8 +5,8 @@ title: "Confisco de Bens no Tráfico de Drogas (Tema 647 STF + CF 243 + Lei 11.3
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/confisco-bens-trafico-tema-647.md"
+version: 2
+sourcePath: "legalbr/materia/penal/confisco-bens-trafico-tema-647/SKILL.md"
 triggers:
   - "Tema 647 STF"
   - "RE 638.491"
@@ -17,10 +17,15 @@ triggers:
   - "alienação antecipada bens apreendidos"
   - "Lei 11.343 art. 63"
   - "habitualidade confisco"
-description: "Confisco no tráfico: Tema 647 STF (RE 638.491, Plenário, 2017) admite o\nperdimento de TODO bem de valor econômico apreendido em decorrência do\ntráfico, sem exigir habitualidade ou modificação do bem (CF 243 par.\núnico, EC 81/2014). Regime da Lei 11.343 arts. 60-64 (Leis 13.840 e\n13.886/2019): assecuratórias, alienação antecipada, Funad, perda\nalargada (63-F) + CP 91/91-A."
+description: "Usar para pesquisar ou analisar: Confisco de Bens no Tráfico de Drogas (Tema 647 STF + CF 243 + Lei 11.343 arts. 60-64). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Confisco de Bens no Tráfico de Drogas (Tema 647 STF + Lei 11.343 arts. 60-64)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 647 STF)
 

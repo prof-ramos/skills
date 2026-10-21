@@ -5,8 +5,8 @@ title: "Súmula Vinculante 1, Ato Jurídico Perfeito e Acordo LC 110/2001"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-1-ato-juridico-perfeito-lc-110.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-1-ato-juridico-perfeito-lc-110/SKILL.md"
 triggers:
   - "SV 1 expurgos FGTS"
   - "Súmula Vinculante 1"
@@ -17,10 +17,15 @@ triggers:
   - "acordo CEF FGTS"
   - "Plano Verão Plano Collor"
   - "CF 5 XXXVI"
-description: "SV 1 STF (30/05/2007): \"Ofende a garantia constitucional do ato\njurídico perfeito a decisão que, sem ponderar as circunstâncias\ndo caso concreto, desconsidera a validez e a eficácia de acordo\nconstante de termo de adesão instituído pela LC 110/2001.\"\nProtege o termo de adesão FGTS (expurgos Planos Verão e Collor)\ne veda revisão judicial automática sem análise do caso concreto."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 1, Ato Jurídico Perfeito e Acordo LC 110/2001. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 1, Ato Jurídico Perfeito e Acordo LC 110/2001
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

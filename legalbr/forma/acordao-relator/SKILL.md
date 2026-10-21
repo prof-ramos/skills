@@ -5,8 +5,8 @@ title: "Acórdão (Relator)"
 category: "forma"
 materia: null
 documentType: "acordao"
-version: 1
-sourcePath: "lib/skills/official/forma/acordao-relator.md"
+version: 2
+sourcePath: "legalbr/forma/acordao-relator/SKILL.md"
 triggers:
   - "acórdão"
   - "voto do relator"
@@ -16,10 +16,15 @@ triggers:
   - "técnica de ampliação do colegiado art. 942"
   - "voto vencido integrado para prequestionamento art. 941 §3º"
   - "designação de redator do acórdão"
-description: "Acórdão sob os arts. 204, 941, 942, 943 e 944 do CPC: estrutura com\nrelatório, voto do relator e dos demais julgadores, voto vencido\nintegrado para prequestionamento (art. 941 §3º), dispositivo e ementa\nque reflita a ratio decidendi; aplicação obrigatória da técnica de\nampliação do colegiado (art. 942) em julgamento não unânime;\nfundamentação pelo art. 489 §1º (V e VI: ratio e distinguishing);\ndesignação de redator quando vencido o relator."
+description: "Usar para redigir ou revisar: Acórdão (Relator). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acórdão (Relator)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

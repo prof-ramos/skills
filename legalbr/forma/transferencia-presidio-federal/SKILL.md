@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "transferencia-federal"
 version: 2
-sourcePath: "lib/skills/official/forma/transferencia-presidio-federal.md"
+sourcePath: "legalbr/forma/transferencia-presidio-federal/SKILL.md"
 triggers:
   - "presídio federal"
   - "sistema penitenciário federal"
@@ -17,10 +17,15 @@ triggers:
   - "penitenciária federal de Catanduvas"
   - "penitenciária federal de Mossoró"
   - "penitenciária federal de Porto Velho"
-description: "Transferência para o Sistema Penitenciário Federal (Lei 11.671/2008\n+ Dec. 6.877/2009): hipóteses TAXATIVAS (segurança pública, segurança\ndo próprio preso, interesse público); decisão JUDICIAL com manifestação\ndo MP, DP, direção; prazo inicial 3 anos (prorrogável); regime\nsemelhante ao RDD mas distinto; revisão obrigatória; defesa contesta\nfundamentação e proporcionalidade; impacto sobre vínculos familiares."
+description: "Usar para redigir ou revisar: Transferência para Presídio Federal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transferência para Presídio Federal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

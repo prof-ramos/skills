@@ -5,8 +5,8 @@ title: "Ações Possessórias (CC 1.196-1.224 + CPC 554-568 + ADPF 828)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/possessorias-cc-1210-cpc-554.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/possessorias-cc-1210-cpc-554/SKILL.md"
 triggers:
   - "esbulho possessório"
   - "ações possessórias"
@@ -19,10 +19,15 @@ triggers:
   - "ADPF 828"
   - "Resolução CNJ 510/2023"
   - "Súm. 487 STF"
-description: "Posse + possessórias sob CC 1.196-1.224 + CPC 554-568: reintegração\n(esbulho), manutenção (turbação), interdito proibitório (ameaça);\nfungibilidade (554); posse nova × velha (ano e dia: liminar);\nCPC 565 coletivos (mediação + MP + DPE); ADPF 828 + Res. CNJ\n510/2023 (desocupação humanizada); vedada exceção de domínio\n(CC 1.210 §2 + CPC 557)."
+description: "Usar para pesquisar ou analisar: Ações Possessórias (CC 1.196-1.224 + CPC 554-568 + ADPF 828). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ações Possessórias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases conceituais (CC 1.196-1.224)
 

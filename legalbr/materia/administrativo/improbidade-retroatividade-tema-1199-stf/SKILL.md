@@ -5,8 +5,8 @@ title: "Retroatividade da Lei 14.230/2021 em Improbidade (Tema 1.199 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade-retroatividade-tema-1199-stf.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/improbidade-retroatividade-tema-1199-stf/SKILL.md"
 triggers:
   - "Tema 1199 STF"
   - "Tema 1.199 STF"
@@ -21,10 +21,15 @@ triggers:
   - "lei 8.429"
   - "reforma LIA 2021"
   - "elemento subjetivo improbidade"
-description: "Tema 1.199 STF (ARE 843.989, j. 18/08/2022): (i) Lei 14.230/2021\nIRRETROATIVA na revogação da modalidade CULPOSA, exceto para fatos\nsem trânsito em julgado, em que se exige reanálise de DOLO;\n(ii) novo regime PRESCRICIONAL é IRRETROATIVO; (iii) prescrição\nintercorrente aplica-se a partir da publicação da Lei 14.230;\n(iv) coisa julgada material PRESERVADA."
+description: "Usar para pesquisar ou analisar: Retroatividade da Lei 14.230/2021 em Improbidade (Tema 1.199 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tema 1.199 STF + Lei 14.230/2021 (Improbidade)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.199 STF)
 

@@ -5,8 +5,8 @@ title: "Reintegração de Posse e Taxa de Ocupação pós-Consolidação Fiduci�
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/reintegracao-taxa-ocupacao-lei-9514-37a.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/reintegracao-taxa-ocupacao-lei-9514-37a/SKILL.md"
 triggers:
   - "taxa de ocupação"
   - "art. 37-A Lei 9.514"
@@ -17,10 +17,15 @@ triggers:
   - "esbulho após consolidação da propriedade"
   - "REsp 2.092.980"
   - "REsp 1.862.902"
-description: "Fase possessória da execução fiduciária imobiliária: art. 30 da Lei\n9.514/1997 (reintegração LIMINAR, desocupação em 60 dias, único\nrequisito = consolidação; cabível ANTES dos leilões, REsp 2.092.980)\n+ taxa de ocupação do art. 37-A (1% ao mês sobre o valor do art. 24\nVI, da consolidação até a imissão; na redação original, do leilão,\nREsp 1.862.902)."
+description: "Usar para pesquisar ou analisar: Reintegração de Posse e Taxa de Ocupação pós-Consolidação Fiduciária (Lei 9.514/1997 arts. 30 e 37-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reintegração de Posse e Taxa de Ocupação pós-Consolidação Fiduciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Recorte: fase **possessória e ressarcitória** APÓS a consolidação da propriedade (Lei 9.514/1997 arts. 30 e 37-A). Intimação, purga da mora, consolidação, leilões e direito de preferência: vide [[consolidacao-fiduciaria-lei-13465-tema-1288]]. Panorama do contrato de AF-imóvel: vide [[alienacao-fiduciaria-imovel]].
 

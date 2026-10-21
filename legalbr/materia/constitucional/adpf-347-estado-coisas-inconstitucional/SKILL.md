@@ -5,8 +5,8 @@ title: "ADPF 347: Estado de Coisas Inconstitucional (Sistema Prisional)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-347-estado-coisas-inconstitucional.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-347-estado-coisas-inconstitucional/SKILL.md"
 triggers:
   - "ADPF 347"
   - "estado de coisas inconstitucional"
@@ -18,10 +18,15 @@ triggers:
   - "processo estrutural prisional"
   - "violações massivas direitos presos"
   - "Plano Pena Justa"
-description: "ADPF 347 (Marco Aurélio, cautelar 2015 + mérito 2023):\nreconheceu \"estado de coisas inconstitucional\" do sistema\nprisional. Determinou audiência de custódia em 24h (CPP 310 +\nRes. CNJ 213), liberação do FUNPEN, plano nacional e\nmonitoramento estrutural. Plano Pena Justa homologado com\nressalvas (dez/2024); planos estaduais homologados (2025)."
+description: "Usar para pesquisar ou analisar: ADPF 347: Estado de Coisas Inconstitucional (Sistema Prisional). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 347: Estado de Coisas Inconstitucional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

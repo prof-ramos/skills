@@ -5,8 +5,8 @@ title: "Danos Morais a Perseguidos Políticos da Ditadura + Juros Desde o Evento
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/danos-morais-ditadura-juros-tema-1251.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/danos-morais-ditadura-juros-tema-1251/SKILL.md"
 triggers:
   - "Tema 1.251 STJ"
   - "danos morais ditadura militar"
@@ -15,10 +15,15 @@ triggers:
   - "anistiado político indenização"
   - "responsabilidade extracontratual União"
   - "evento danoso juros indenização"
-description: "Tema 1.251 STJ (1ª Seção): reconhecido judicialmente\no direito a danos morais decorrentes de PERSEGUIÇÃO POLÍTICA na\nditadura militar, os juros de mora incidem desde o EVENTO DANOSO\n(Súm. 54 STJ). Responsabilidade extracontratual do Estado por\nato ilícito: mora desde o ato."
+description: "Usar para pesquisar ou analisar: Danos Morais a Perseguidos Políticos da Ditadura + Juros Desde o Evento (Tema 1.251 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Danos Morais a Perseguidos Políticos da Ditadura + Juros Desde o Evento (Tema 1.251 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.251 STJ, 1ª Seção)
 

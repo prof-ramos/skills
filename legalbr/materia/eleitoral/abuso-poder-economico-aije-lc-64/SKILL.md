@@ -5,8 +5,8 @@ title: "Abuso de Poder Econômico + AIJE (LC 64/90 art. 22 + Ficha Limpa)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/abuso-poder-economico-aije-lc-64.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/abuso-poder-economico-aije-lc-64/SKILL.md"
 triggers:
   - "AIJE"
   - "ação de investigação judicial eleitoral"
@@ -19,10 +19,17 @@ triggers:
   - "inelegibilidade 8 anos"
   - "cassação de diploma"
   - "gravidade das circunstâncias abuso"
-description: "Abuso de poder econômico em eleições: **AIJE** (Ação de Investigação\nJudicial Eleitoral) com base no **art. 22 LC 64/1990**. Após reforma\nda **Lei Ficha Limpa (LC 135/2010)**: cassação de diploma +\ninelegibilidade por **8 anos** (antes 3). Caracterização:\nuso de **vantagem econômica indevida** ou desproporcional, **com\ngravidade** suficiente para afetar **legitimidade + normalidade**\ndo pleito. Provas: necessária **prova robusta** (não conjectura).\nAplicação: candidato beneficiado + terceiros que contribuíram.\nAIJE proposta até **diplomação**. Procedimento: representação ao\nCorregedor (TRE/TSE). Distingue-se de **AIME** (após diplomação) + **RCED**."
+description: "Usar para pesquisar ou analisar: Abuso de Poder Econômico + AIJE (LC 64/90 art. 22 + Ficha Limpa). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/msg/vep/vep-1396-25.htm", "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7391301", "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-25/"]
+reviewedAt: "2026-10-21"
+reviewScope: "Veto da alínea d e art. 26-E; estado final da ADI 7881 não confirmado"
 ---
 
 # Abuso de Poder Econômico + AIJE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 
@@ -111,7 +118,7 @@ description: "Abuso de poder econômico em eleições: **AIJE** (Ação de Inves
 | **k** | Renúncia a mandato após oferecimento de representação capaz de autorizar abertura de processo de cassação |
 | **l** | Condenação por ato doloso de improbidade com lesão ao patrimônio público **e** enriquecimento ilícito, concomitantemente |
 
-A **LC 219/2025** alterou os termos iniciais e finais de contagem de várias dessas hipóteses (contagem a partir da decisão/condenação, dolo qualificado na improbidade e teto de 12 anos na unificação de inelegibilidades por improbidade). O dispositivo que previa a **aplicação retroativa** a fatos e condenações anteriores (art. 26-E) foi **VETADO**. A eficácia da lei está sob exame no STF (ADI 7881): julgamento virtual iniciado em maio/2026, com votos iniciais pela inconstitucionalidade de pontos centrais, **suspenso por pedido de vista em 28/05/2026**.
+A **LC 219/2025** alterou os termos iniciais e finais de contagem de várias dessas hipóteses (contagem a partir da decisão/condenação, dolo qualificado na improbidade e teto de 12 anos na unificação de inelegibilidades por improbidade). O dispositivo que previa a **aplicação retroativa** a fatos e condenações anteriores (art. 26-E) foi **VETADO**. A eficácia da lei está sob exame no STF (ADI 7881): julgamento virtual iniciado em maio/2026, com votos iniciais pela inconstitucionalidade de pontos centrais, **andamento histórico de maio/2026, não confirmado como situação atual**.
 
 ## Gravidade: critério essencial
 
@@ -206,7 +213,7 @@ Necessária **potencialidade** de alterar o resultado.
 | **Deepfake + IA** | Uso indevido de inteligência artificial pode caracterizar abuso (Res. TSE 23.732/2024; regras atualizadas para 2026 pela Res. TSE 23.755/2026) |
 | **Cooperação RF + COAF** | Investigação patrimonial em AIJE |
 | **AIJE digital** | Impulsionamento irregular + disparos em massa como abuso |
-| **LC 219/2025** | Nova contagem de inelegibilidades sob exame do STF (ADI 7881, suspensa por pedido de vista em 28/05/2026) |
+| **LC 219/2025** | Nova contagem de inelegibilidades sob exame do STF (ADI 7881: reconsultar andamento atual, sem presumir manutenção da vista histórica) |
 
 ## Diferenciações importantes
 
@@ -233,3 +240,9 @@ Necessária **potencialidade** de alterar o resultado.
 - Aplicar a nova contagem da **LC 219/2025** ignorando a pendência da ADI 7881;
 - Aplicar a LC 219/2025 **retroativamente** a fatos e condenações anteriores (o art. 26-E, que previa a retroatividade, foi vetado);
 - Tratar **doação irregular** como abuso sem análise da gravidade.
+
+## Revisão pontual — veto e controle constitucional
+
+A LC 219/2025 já integra este acervo. A Mensagem 1.396/2025 vetou também a alteração proposta à alínea d do art. 1º, I, da LC 64/1990, além do art. 26-E. Não transpor às hipóteses de abuso os novos termos iniciais de outras alíneas. Conferir a LC 64 compilada e eventuais decisões aplicáveis ao caso.
+
+Em 21/10/2026, a pesquisa oficial localizou anúncio de retomada da ADI 7881 na sessão de 11/09/2026; o estado decisório final não foi confirmado nesta revisão. Não afirmar que o processo continua suspenso desde maio nem inferir decisão de mérito a partir de pauta. Fontes: [veto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/msg/vep/vep-1396-25.htm), [processo](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7391301), [notícia oficial da pauta](https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-25/).

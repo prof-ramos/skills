@@ -5,8 +5,8 @@ title: "Cobrança e Execução de Cotas Condominiais (Tema 949 + Tema 886 STJ + 
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/cobranca-cotas-condominiais-tema-949.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/cobranca-cotas-condominiais-tema-949/SKILL.md"
 triggers:
   - "cobrança de cotas condominiais"
   - "execução de cotas condominiais"
@@ -20,10 +20,15 @@ triggers:
   - "legitimidade passiva despesas condominiais"
   - "REsp 1.345.331"
   - "inadimplência condominial"
-description: "Cobrança e execução de cotas condominiais como fluxo único: prescrição\nquinquenal do Tema 949 STJ (CC 206 §5º I, termo inicial no dia seguinte\nao vencimento de cada parcela), legitimado passivo do Tema 886 (posse\ndo promissário comprador + ciência do condomínio), título executivo do\nCPC 784 X, encargos do CC 1.336 §1º, Súm. 478 STJ e penhora da própria\nunidade (Lei 8.009 art. 3º IV)."
+description: "Usar para pesquisar ou analisar: Cobrança e Execução de Cotas Condominiais (Tema 949 + Tema 886 STJ + CPC 784 X). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cobrança e Execução de Cotas Condominiais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

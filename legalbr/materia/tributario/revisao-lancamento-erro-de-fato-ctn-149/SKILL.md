@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/revisao-lancamento-erro-de-fato-ctn-149.md"
+sourcePath: "legalbr/materia/tributario/revisao-lancamento-erro-de-fato-ctn-149/SKILL.md"
 triggers:
   - "revisão de lançamento"
   - "erro de fato erro de direito"
@@ -19,10 +19,15 @@ triggers:
   - "retificação cadastral imóvel"
   - "mudança de critério jurídico"
   - "revisão de ofício lançamento"
-description: "Revisão do lançamento tributário (CTN 145-149): rol taxativo do\nCTN 149, binômio erro de fato (revisável, inc. VIII) x erro de\ndireito (imodificável, CTN 146 + Súm. 227 TFR), limite decadencial\ndo CTN 149 parágrafo único; Tema 387 STJ (retificação cadastral do\nimóvel autoriza revisão só quando fato não conhecido no lançamento\nanterior). Núcleo de anulatórias de lançamento complementar."
+description: "Usar para pesquisar ou analisar: Revisão do Lançamento. Erro de Fato x Erro de Direito (CTN 145-149 + Tema 387 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão do Lançamento: Erro de Fato x Erro de Direito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Para modalidades de lançamento (ofício, declaração, homologação), ver skill `lancamento-tributario-ctn-142`. Para notificação e Súm. 397 STJ (carnê de IPTU), ver skill `notificacao-lancamento-ctn-145-sum-397`. Esta skill trata da ALTERAÇÃO e da REVISÃO do lançamento já notificado.
 

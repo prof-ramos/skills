@@ -5,8 +5,8 @@ title: "Vazamento de Dados Pessoais e Dano Moral (LGPD + STJ)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/vazamento-dados-lgpd-dano-moral-stj.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/vazamento-dados-lgpd-dano-moral-stj/SKILL.md"
 triggers:
   - "vazamento de dados"
   - "leak de dados"
@@ -17,10 +17,15 @@ triggers:
   - "REsp 2.121.904"
   - "AREsp 2.130.619"
   - "REsp 2.201.694"
-description: "Vazamento de dados pessoais (LGPD + CDC + CC): dado COMUM exige prova\ndo dano efetivo (STJ, AREsp 2.130.619/2023 + REsp 2.103.726/2024);\ndado SENSÍVEL (LGPD 5 II), dano moral PRESUMIDO (in re ipsa), STJ\nREsp 2.121.904/2025. Responsabilidade objetiva do controlador (LGPD\n42 + CDC 14); ANPD; inversão do ônus. O tema é definido por julgados\ndas Turmas, não por recurso repetitivo do STJ."
+description: "Usar para pesquisar ou analisar: Vazamento de Dados Pessoais e Dano Moral (LGPD + STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vazamento de Dados Pessoais: Dano Moral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

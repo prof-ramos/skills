@@ -5,8 +5,8 @@ title: "Infanticídio (CP 123)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/infanticidio-cp-123.md"
+version: 2
+sourcePath: "legalbr/materia/penal/infanticidio-cp-123/SKILL.md"
 triggers:
   - "infanticídio"
   - "CP 123"
@@ -16,10 +16,15 @@ triggers:
   - "logo após parto"
   - "comunicabilidade estado puerperal"
   - "neonato"
-description: "Infanticídio CP 123: matar próprio filho durante parto/logo após\nsob influência do estado puerperal, det. 2-6 anos; tipo\nprivilegiado próprio (não é homicídio atenuado); elementar\nsubjetiva (estado puerperal) comunicável aos partícipes apesar\nda divergência; competência do júri; admite tentativa; exclui\nfeminicídio e homicídio."
+description: "Usar para pesquisar ou analisar: Infanticídio (CP 123). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Infanticídio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 123)
 

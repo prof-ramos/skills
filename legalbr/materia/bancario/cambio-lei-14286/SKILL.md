@@ -5,8 +5,8 @@ title: "Câmbio: Novo Marco Cambial (Lei 14.286/21 + Res. BCB 277/22)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cambio-lei-14286.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cambio-lei-14286/SKILL.md"
 triggers:
   - "mercado de câmbio"
   - "Lei 14.286"
@@ -22,10 +22,15 @@ triggers:
   - "registro câmbio"
   - "variação cambial contrato"
   - "registro SCE-IED"
-description: "Lei 14.286/21 (novo marco cambial, em vigor desde 31.12.2022)\nrevogou a Lei 4.131/62 (parcial) e várias normas legais; Res. BCB\n277/22 regulamenta operações de câmbio; livre conversibilidade\n(art. 1) + dispensa de registro de capital de pequeno valor;\nACC/ACE mantidos (Res. BCB 137/21); eFX (câmbio eletrônico simplificado);\ncontas em moeda estrangeira ampliadas; sigilo cambial mantido (LC 105)."
+description: "Usar para pesquisar ou analisar: Câmbio: Novo Marco Cambial (Lei 14.286/21 + Res. BCB 277/22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Câmbio: Novo Marco Cambial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Contribuição de Melhoria (CF 145 III + DL 195/1967 + CTN 81-82)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/contribuicao-melhoria-cf-145-iii.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-melhoria-cf-145-iii/SKILL.md"
 triggers:
   - "contribuição de melhoria"
   - "CF 145 III"
@@ -19,10 +19,15 @@ triggers:
   - "RE 116.148"
   - "pavimentação"
   - "recapeamento"
-description: "Contribuição de melhoria CF 145 III + DL 195/1967 + CTN 81-82\n(U/E/M/DF, competência comum); fundada na vedação ao\nENRIQUECIMENTO SEM CAUSA; 2 LIMITES cumulativos: (a) INDIVIDUAL\n(valorização) + (b) TOTAL (custo da obra); pressupostos OBRA\nPÚBLICA + VALORIZAÇÃO COMPROVADA (jurisprudência do STF, RE 116.148);\nedital prévio + lançamento individual; recapeamento NÃO gera\n(manutenção)."
+description: "Usar para pesquisar ou analisar: Contribuição de Melhoria (CF 145 III + DL 195/1967 + CTN 81-82). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição de Melhoria
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 145 III
 

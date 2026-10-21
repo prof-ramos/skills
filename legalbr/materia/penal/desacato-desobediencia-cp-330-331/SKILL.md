@@ -5,8 +5,8 @@ title: "Desacato + Desobediência (CP 330-331 + ADPF 496 + HC 379.269 STJ)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/desacato-desobediencia-cp-330-331.md"
+version: 2
+sourcePath: "legalbr/materia/penal/desacato-desobediencia-cp-330-331/SKILL.md"
 triggers:
   - "desacato"
   - "CP 331"
@@ -17,10 +17,15 @@ triggers:
   - "CADH art. 13"
   - "desobediência sanção administrativa"
   - "controle de convencionalidade"
-description: "Desobediência CP 330 (det. 15d-6m) exige ordem LEGAL CONCRETA +\nciência inequívoca + ausência de sanção administrativa específica\n(jurisprudência STJ); desacato CP 331 (det. 6m-2a), ADPF 496 STF\n(9x2 mantém constitucionalidade) + STJ HC 379.269/MS (compatível\ncom CADH); Barroso fixou 4 critérios restritivos; tratamento\nrestritivo."
+description: "Usar para pesquisar ou analisar: Desacato + Desobediência (CP 330-331 + ADPF 496 + HC 379.269 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desacato + Desobediência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 330: DESOBEDIÊNCIA
 

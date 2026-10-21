@@ -5,8 +5,8 @@ title: "Insolvência Civil (CPC/73 arts. 748-786-A ultrativos + CPC/15 art. 1.05
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/insolvencia-civil-cpc-1052.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/insolvencia-civil-cpc-1052/SKILL.md"
 triggers:
   - "insolvência civil"
   - "declaração de insolvência"
@@ -18,10 +18,15 @@ triggers:
   - "quadro geral de credores"
   - "extinção das obrigações do insolvente"
   - "CPC 748 insolvência"
-description: "Execução por concurso universal contra devedor civil insolvente: ultratividade\ndo CPC/73 (arts. 748 a 786-A) por força do CPC/15 art. 1.052, insolvência real\ne presumida, efeitos da declaração (vencimento antecipado, arrecadação, perda\nda administração), quadro geral de credores, extinção das obrigações em 5 anos\ne competência da Justiça Estadual (Tema 859 STF)."
+description: "Usar para pesquisar ou analisar: Insolvência Civil (CPC/73 arts. 748-786-A ultrativos + CPC/15 art. 1.052 + Tema 859 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Insolvência Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime aplicável: ultratividade do CPC/73
 

@@ -5,8 +5,8 @@ title: "Busca e Apreensão (CPP 240-250)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/busca-apreensao-cpp-240.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/busca-apreensao-cpp-240/SKILL.md"
 triggers:
   - "CPP 240"
   - "busca apreensão"
@@ -18,10 +18,15 @@ triggers:
   - "apreensão celular"
   - "HC 598.051 STJ"
   - "inviolabilidade domicílio"
-description: "Busca e apreensão CPP 240-250: pessoal (fundada suspeita objetiva,\nRHC 158.580 STJ; vedada a \"atitude suspeita\" genérica);\ndomiciliar (mandado fundamentado + horário diurno regra CF 5\nXI; consentimento comprovado, HC 598.051 STJ); flagrante autoriza\ningresso sem mandado (Tema 280 STF, fundadas razões justificadas);\ninviolabilidade do domicílio; acesso a dados de celular exige\nautorização judicial específica (Lei 12.965 + STJ)."
+description: "Usar para pesquisar ou analisar: Busca e Apreensão (CPP 240-250). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Busca e Apreensão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 240: Hipóteses
 

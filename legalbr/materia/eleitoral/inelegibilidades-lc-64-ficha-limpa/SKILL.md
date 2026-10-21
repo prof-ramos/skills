@@ -5,8 +5,8 @@ title: "Inelegibilidades (LC 64/1990 + Ficha Limpa LC 135/2010 + CF 14)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/inelegibilidades-lc-64-ficha-limpa.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/inelegibilidades-lc-64-ficha-limpa/SKILL.md"
 triggers:
   - "inelegibilidades"
   - "LC 64/1990"
@@ -20,10 +20,17 @@ triggers:
   - "Súm. 61 TSE"
   - "vida pregressa candidato"
   - "prefeito itinerante"
-description: "Inelegibilidades sob CF 14-15 + LC 64/1990 + LC 135/2010 (Ficha\nLimpa): condições positivas (nacionalidade + filiação + domicílio\n+ idade); inelegibilidade reflexa (CF 14 §7 + SV 18); Ficha Limpa\nendureceu: 8 anos pós-pena + decisão colegiada basta (ADCs\n29-30); CF 15 (perda/suspensão); LC 219/2025 sem retroatividade\n(art. 26-E vetado) e sob exame no STF (ADI 7881, suspensa por\npedido de vista em 28/05/2026)."
+description: "Usar para pesquisar ou analisar: Inelegibilidades (LC 64/1990 + Ficha Limpa LC 135/2010 + CF 14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/msg/vep/vep-1396-25.htm", "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7391301", "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-25/"]
+reviewedAt: "2026-10-21"
+reviewScope: "Veto da alínea d e art. 26-E; estado final da ADI 7881 não confirmado"
 ---
 
 # Inelegibilidades
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais (CF 14-15)
 
@@ -93,7 +100,7 @@ Cônjuge/companheiro(a) + parentes consanguíneos ou afins até **2º grau** (ou
 | Alterações | Contagem a partir da condenação/decisão (sem projeção pós-pena em várias hipóteses), dolo qualificado na improbidade, teto de 12 anos no acúmulo, RDE (regulamentado pela Res. TSE 23.754/2026) |
 | **Retroatividade VETADA** | O art. 26-E, que mandava aplicar a nova contagem a fatos e condenações anteriores, foi vetado; a LC 219/2025 não retroage |
 | **Julgamento virtual iniciado em 22/05/2026** | Votos iniciais, inclusive o da relatoria, pela **inconstitucionalidade** de pontos centrais da nova contagem |
-| Pendência | **Suspenso por pedido de vista em 28/05/2026**; aplicar com ressalva expressa da pendência |
+| Pendência | Reconsultar estado atual da ADI 7881; a vista noticiada em maio/2026 é informação histórica, não status atual confirmado |
 
 ## Improbidade pós-Lei 14.230/2021
 
@@ -136,8 +143,14 @@ Cônjuge/companheiro(a) + parentes consanguíneos ou afins até **2º grau** (ou
 - Exigir **1 ano de domicílio** (são **6 meses**, Lei 9.504 art. 9 com a Lei 13.488/2017);
 - Tratar inelegibilidade como **sanção penal** (é requisito eleitoral; daí a aplicação a fatos pretéritos);
 - Permitir que **parente do reeleito** dispute o mesmo cargo (terceiro mandato familiar vedado);
-- Aplicar a nova contagem da LC 219/2025 **sem ressalvar** o julgamento pendente da ADI 7881 (suspensa por pedido de vista em 28/05/2026);
+- Aplicar a nova contagem da LC 219/2025 **sem ressalvar** o julgamento pendente da ADI 7881 (estado atual a conferir em fonte oficial);
 - Aplicar a LC 219/2025 **retroativamente** (o art. 26-E, que previa a retroatividade, foi vetado);
 - Citar o RE 929.670 como Tema 992 (o correto é **Tema 860**);
 - Ignorar a aplicação da reflexa às **eleições suplementares** (Tema 781);
 - Estender o **§4º-A do art. 1º da LC 64** (contas sancionadas só com multa) ao julgamento de contas de prefeito/governador pela **Casa Legislativa** (a exceção vale apenas para julgamentos pelos Tribunais de Contas: Tema 1.304 STF).
+
+## Revisão pontual — veto e controle constitucional
+
+A LC 219/2025 já integra este acervo. A Mensagem 1.396/2025 vetou também a alteração proposta à alínea d do art. 1º, I, da LC 64/1990, além do art. 26-E. Não transpor às hipóteses de abuso os novos termos iniciais de outras alíneas. Conferir a LC 64 compilada e eventuais decisões aplicáveis ao caso.
+
+Em 21/10/2026, a pesquisa oficial localizou anúncio de retomada da ADI 7881 na sessão de 11/09/2026; o estado decisório final não foi confirmado nesta revisão. Não afirmar que o processo continua suspenso desde maio nem inferir decisão de mérito a partir de pauta. Fontes: [veto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/msg/vep/vep-1396-25.htm), [processo](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7391301), [notícia oficial da pauta](https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-25/).

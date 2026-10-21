@@ -5,8 +5,8 @@ title: "Modulação de Efeitos das Decisões do STF"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/modulacao-efeitos-decisao-stf.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/modulacao-efeitos-decisao-stf/SKILL.md"
 triggers:
   - "modulação de efeitos"
   - "art 27 Lei 9.868"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 881 STF"
   - "Tema 885 STF"
   - "coisa julgada tributária"
-description: "Modulação de efeitos das decisões do STF em controle de\nconstitucionalidade (Lei 9.868 art. 27 + Lei 9.882 art. 11):\nexigência de quorum qualificado (2/3 dos ministros); fundamentos\n(segurança jurídica e excepcional interesse social); aplicação a ADIs,\nADCs, ADPFs e Recursos Extraordinários com repercussão geral;\nTema 733 STF (efeitos sobre coisa julgada); Temas 881-885 STF\n(coisa julgada tributária em trato sucessivo)."
+description: "Usar para pesquisar ou analisar: Modulação de Efeitos das Decisões do STF. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Modulação de Efeitos das Decisões do STF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -341,3 +346,7 @@ momento que venha a ser fixado.
 - A modulação no controle difuso segue o CPC 927 §3.
 - O efeito vinculante (CPC 927) não se confunde com a modulação.
 - A modulação é decisão judicial, não administrativa.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

@@ -5,8 +5,8 @@ title: "ITBI: Base de Cálculo, Progressividade e Integralização (CF 156 II)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/itbi-cf-156-ii-tema-1113.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itbi-cf-156-ii-tema-1113/SKILL.md"
 triggers:
   - "ITBI"
   - "CF 156 II"
@@ -22,10 +22,15 @@ triggers:
   - "pauta fiscal ITBI"
   - "ITBI base cálculo"
   - "valor venal declarado"
-description: "ITBI CF 156 II Municípios/DF (transmissão INTER VIVOS ONEROSA\nimóveis/direitos reais, exceto garantia); alíquota livre 2-3%;\nSúm. 656 STF (PROGRESSIVIDADE FISCAL INCONSTITUCIONAL, imposto\nreal); Súm. 110 e 470 STF (construção do adquirente fora da base);\nFG ao REGISTRO; Tema 1.113 STJ (REsp 1.937.821: valor venal de\nMERCADO, presunção iuris tantum do valor declarado, não vincula\nIPTU, veda pauta fiscal unilateral); Tema 796 STF (imunidade da\nintegralização não alcança o excedente do capital); CF 156 §2 I."
+description: "Usar para pesquisar ou analisar: ITBI: Base de Cálculo, Progressividade e Integralização (CF 156 II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITBI
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 156 II + CTN 35-42
 

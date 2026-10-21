@@ -5,8 +5,8 @@ title: "Contratos Bancários e Títulos de Crédito (Súmulas STJ)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/contratos-bancarios-titulos-credito-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/contratos-bancarios-titulos-credito-stj-sumulas/SKILL.md"
 triggers:
   - "súmulas STJ contratos bancários"
   - "súmulas STJ títulos de crédito"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 476 STJ"
   - "Súm. 538 STJ"
   - "Súm. 572 STJ"
-description: "Contratos bancários e títulos de crédito no STJ: avalista, mútuo, abertura de\ncrédito (CDC); confissão de dívida; alienação fiduciária; ANBID/CETIP; cheque\nprotesto, prescrição, monitória; alienação fiduciária imóvel/veículo;\ncomissão de permanência; taxa de juros; capitalização; tarifa de cadastro;\nCCF e responsabilidades; endosso-mandato."
+description: "Usar para pesquisar ou analisar: Contratos Bancários e Títulos de Crédito (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos Bancários e Títulos de Crédito (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

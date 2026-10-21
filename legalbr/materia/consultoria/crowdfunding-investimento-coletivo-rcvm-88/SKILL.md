@@ -5,8 +5,8 @@ title: "Crowdfunding e Investimento Coletivo (RCVM 88/22)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/crowdfunding-investimento-coletivo-rcvm-88.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/crowdfunding-investimento-coletivo-rcvm-88/SKILL.md"
 triggers:
   - "crowdfunding"
   - "captação por plataforma eletrônica"
@@ -14,10 +14,15 @@ triggers:
   - "RCVM 88"
   - "plataforma de investimento"
   - "financiamento coletivo"
-description: "Investimento coletivo via plataforma eletrônica (RCVM 88/22 que\nrevogou a Instrução CVM 588/17). Limites por emissor (R$ 15 mi/ano), por\ninvestidor (R$ 20 mil/ano regra geral), oferta com dispensa de\nregistro CVM, plataforma autorizada, due diligence + reporting,\nconexão com investidor-anjo (LC 182) e SAFE/convertible."
+description: "Usar para pesquisar ou analisar: Crowdfunding e Investimento Coletivo (RCVM 88/22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crowdfunding e Investimento Coletivo (RCVM 88/22)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

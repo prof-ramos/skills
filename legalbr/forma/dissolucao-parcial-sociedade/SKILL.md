@@ -5,8 +5,8 @@ title: "Ação de Dissolução Parcial de Sociedade"
 category: "forma"
 materia: null
 documentType: "dissolucao-parcial-sociedade"
-version: 1
-sourcePath: "lib/skills/official/forma/dissolucao-parcial-sociedade.md"
+version: 2
+sourcePath: "legalbr/forma/dissolucao-parcial-sociedade/SKILL.md"
 triggers:
   - "ação de dissolução parcial de sociedade"
   - "direito de retirada do sócio"
@@ -15,10 +15,15 @@ triggers:
   - "apuração de haveres do sócio"
   - "CC 1.028 a 1.030 e art. 1.085"
   - "quebra da affectio societatis"
-description: "Dissolução parcial de sociedade (CPC 599-609; CC 1.027-1.030 e 1.085):\nmorte, retirada, exclusão; sentença declaratória + apuração por balanço de\ndeterminação; data-base do art. 605."
+description: "Usar para redigir ou revisar: Ação de Dissolução Parcial de Sociedade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Dissolução Parcial de Sociedade
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e finalidade
 

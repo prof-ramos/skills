@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "anulatoria-sentenca-arbitral"
 version: 2
-sourcePath: "lib/skills/official/forma/anulatoria-sentenca-arbitral.md"
+sourcePath: "legalbr/forma/anulatoria-sentenca-arbitral/SKILL.md"
 triggers:
   - "ação anulatória de sentença arbitral"
   - "anulação de sentença arbitral"
@@ -22,10 +22,15 @@ triggers:
   - "cerceamento de defesa árbitro"
   - "ação anulatória da Lei 9.307/96"
   - "litispendência entre anulatória e impugnação ao cumprimento"
-description: "Ação anulatória de sentença arbitral sob os arts. 32-33 da Lei\n9.307/96: via única e autônoma para impugnação da sentença arbitral\ndoméstica, com natureza constitutiva negativa; prazo decadencial de\n90 dias da notificação; hipóteses taxativas do art. 32 (convenção\nnula, vícios formais, extrapolação de limites, violação ao\ncontraditório); vedação à revisão de mérito."
+description: "Usar para redigir ou revisar: Ação Anulatória de Sentença Arbitral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Anulatória de Sentença Arbitral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

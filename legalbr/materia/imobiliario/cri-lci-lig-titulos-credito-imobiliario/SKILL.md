@@ -6,7 +6,7 @@ category: "materia"
 materia: "imobiliario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/imobiliario/cri-lci-lig-titulos-credito-imobiliario.md"
+sourcePath: "legalbr/materia/imobiliario/cri-lci-lig-titulos-credito-imobiliario/SKILL.md"
 triggers:
   - "CRI"
   - "certificado de recebíveis imobiliários"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 9.514/1997"
   - "companhia securitizadora"
   - "regime fiduciário"
-description: "Títulos do credito imobiliário: CRI Lei 9.514/97 arts. 6-8\n(lastreado em recebíveis imobiliários - securitizadora emite -\nregime fiduciário); LCI Lei 10.931/04 art. 12-18 (instituição\nfinanceira emite com lastro em crédito imobiliário); LIG Lei\n13.097/15 arts. 63-97 (covered bond brasileiro - emissão de\nbanco com carteira garantidora); CCI Lei 10.931 art. 18-25\n(cédula representativa do crédito imobiliário - escritural ou\ncartular - circulação simplificada); isenção IR PF + IOF reduzido."
+description: "Usar para pesquisar ou analisar: CRI + LCI + LIG + CCI - Títulos de Crédito Imobiliário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Títulos de Crédito Imobiliário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

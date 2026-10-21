@@ -5,8 +5,8 @@ title: "Concurso Público, Pessoa com Deficiência (Súmulas STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/concurso-publico-pcd-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/concurso-publico-pcd-stj-sumulas/SKILL.md"
 triggers:
   - "pessoa com deficiência em concurso"
   - "vagas reservadas PCD"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 552 STJ"
   - "Lei 14.126/2021"
   - "Lei 14.768/2023"
-description: "Reserva de vagas para pessoa com deficiência em concurso público.\nVisão monocular enseja vaga reservada (Súm. 377 STJ + Lei 14.126/2021).\nATENÇÃO: a Súm. 552 STJ (surdez unilateral não é deficiência) foi\nSUPERADA pela Lei 14.768/2023, que reconheceu a perda auditiva\nunilateral como deficiência auditiva, inclusive para cotas. Cobre LBI\n(Lei 13.146/15) e Dec. 3.298/99. Para MS e ações de candidatos PCD."
+description: "Usar para pesquisar ou analisar: Concurso Público, Pessoa com Deficiência (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concurso Público, Pessoa com Deficiência (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

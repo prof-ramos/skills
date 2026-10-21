@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "reclamacao-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/reclamacao-trabalhista.md"
+sourcePath: "legalbr/forma/reclamacao-trabalhista/SKILL.md"
 triggers:
   - "reclamação trabalhista"
   - "reclamatória trabalhista"
@@ -15,10 +15,15 @@ triggers:
   - "pedido líquido e certo IN 41/2018 TST"
   - "reclamação trabalhista com pedido de verbas rescisórias e horas extras"
   - "reclamação trabalhista de reconhecimento de vínculo empregatício"
-description: "Reclamação trabalhista pós-Reforma (Lei 13.467/2017): art. 840 §1º CLT,\npedido CERTO, DETERMINADO e com VALOR (estimativo, sem limitar a\ncondenação salvo ressalva expressa, SDI-1 TST 2024); competência do\nart. 651; verbas típicas (rescisórias, horas extras, multas 467 e 477,\nhonorários art. 791-A pós ADI 5766); juros e correção sob ADC 58 até\n29.08.2024 e Lei 14.905/2024 a partir de 30.08.2024; Tema 1.046 STF\n(negociado vs. legislado)."
+description: "Usar para redigir ou revisar: Reclamação Trabalhista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reclamação Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Forma e requisitos (art. 840 CLT pós-Reforma)
 

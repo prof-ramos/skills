@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/precedentes-irdr-iac-reclamacao/precedentes-vinculantes-cpc-927.md"
+sourcePath: "legalbr/materia/processo-civil/precedentes-vinculantes-cpc-927/SKILL.md"
 triggers:
   - "precedentes vinculantes"
   - "CPC 927"
@@ -18,10 +18,15 @@ triggers:
   - "precedente qualificado"
   - "julgamento de casos repetitivos"
   - "superacao de tese"
-description: "Sistema de precedentes vinculantes (CPC 927-928): rol taxativo\n(Súm. vinculante, controle concentrado, repetitivos, IRDR, IAC,\nenunciados de súmula STF/STJ); fundamentação adequada (CPC 489 §1\nV e VI); distinguishing × overruling; modulação de efeitos (CPC\n927 §3); jurisdição constitucional + uniformidade."
+description: "Usar para pesquisar ou analisar: Precedentes Vinculantes (CPC 927-928). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema de Precedentes Vinculantes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 927, ROL TAXATIVO
 

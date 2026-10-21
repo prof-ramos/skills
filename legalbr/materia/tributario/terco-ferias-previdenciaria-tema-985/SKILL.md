@@ -5,8 +5,8 @@ title: "Terço Constitucional de Férias e Contribuição (Tema 985 STF + RE 1.0
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/terco-ferias-previdenciaria-tema-985.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/terco-ferias-previdenciaria-tema-985/SKILL.md"
 triggers:
   - "Tema 985"
   - "RE 1.072.485"
@@ -18,10 +18,15 @@ triggers:
   - "juízo de retratação CPC 1.040"
   - "férias indenizadas contribuição"
   - "terço férias gozadas indenizadas"
-description: "Tema 985 STF (RE 1.072.485, Min. Marco Aurélio, 31/08/2020):\nlegítima a incidência da contribuição social patronal sobre o\nterço constitucional de férias. Modulação ex nunc a partir de\n15/09/2020, preservadas ações ajuizadas até 14/09/2020 (recuperação\ndo quinquênio). STF rejeitou em 2025 o pedido fazendário de antecipar\no marco para 23/02/2018. Distinção do RE 576.967 (salário-maternidade)."
+description: "Usar para pesquisar ou analisar: Terço Constitucional de Férias e Contribuição (Tema 985 STF + RE 1.072.485). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terço Constitucional de Férias e Contribuição (Tema 985 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

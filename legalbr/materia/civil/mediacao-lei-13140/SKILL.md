@@ -6,7 +6,7 @@ category: "materia"
 materia: "civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/civil/mediacao-lei-13140.md"
+sourcePath: "legalbr/materia/civil/mediacao-lei-13140/SKILL.md"
 triggers:
   - "mediação Lei 13.140"
   - "mediação judicial CPC 334"
@@ -21,10 +21,15 @@ triggers:
   - "Res. CNJ 125/2010"
   - "Enunciados FONAMEC Resolução CNJ 686"
   - "conciliador e mediador distinção"
-description: "Mediação pela Lei 13.140/2015 e CPC 165-175/334: princípios, modalidades judicial, extrajudicial e administrativa, homologação do acordo e enunciados FONAMEC do Anexo V da Res. CNJ 125/2010."
+description: "Usar para pesquisar ou analisar: Mediação (Lei 13.140/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mediação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito (art. 1 par. único)
 

@@ -5,8 +5,8 @@ title: "Redirecionamento de EF + Incorporação NÃO Informada (Tema 1.049 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/redirecionamento-execucao-fiscal-incorporacao-tema-1140.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/redirecionamento-execucao-fiscal-incorporacao-tema-1140/SKILL.md"
 triggers:
   - "Tema 1.049 STJ"
   - "incorporação não comunicada Fisco"
@@ -15,10 +15,15 @@ triggers:
   - "LEF redirecionamento sócio"
   - "CTN 132 sucessão tributária"
   - "REsp 1.848.993"
-description: "Tema 1.049 STJ (REsp 1.848.993/SP): a EXECUÇÃO FISCAL lançada\ncontra a EMPRESA SUCEDIDA pode ser REDIRECIONADA à SUCESSORA POR\nINCORPORAÇÃO quando a sucessão NÃO foi informada ao Fisco — SEM\nnecessidade de alteração da CDA. Sucessora responde pelos créditos\ntributários anteriores (CTN 132). Não exige novo lançamento.\n(Atenção: o stableId/name preservam \"tema-1140\" por histórico; o\ntema correto é 1.049.)"
+description: "Usar para pesquisar ou analisar: Redirecionamento de EF + Incorporação NÃO Informada (Tema 1.049 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Redirecionamento de EF + Incorporação NÃO Informada (Tema 1.049 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.049 STJ — 1ª Seção, REsp 1.848.993/SP, 26/08/2020)
 

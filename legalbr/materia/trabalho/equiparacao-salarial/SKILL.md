@@ -5,8 +5,8 @@ title: "Equiparação Salarial"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/equiparacao-salarial.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/equiparacao-salarial/SKILL.md"
 triggers:
   - "equiparação salarial"
   - "art. 461 CLT"
@@ -19,10 +19,15 @@ triggers:
   - "acúmulo de função"
   - "salário-substituição"
   - "OJ 125 SDI-1"
-description: "Equiparação salarial sob CLT 461 pós-Reforma + Súm. 6 TST: requisitos\n(identidade de função, mesmo empregador e estabelecimento, simultaneidade,\ndiferença de tempo de serviço para o mesmo empregador ≤ 4 anos e de tempo\nna função ≤ 2 anos, igual\nprodutividade); quadro de carreira como excludente sem homologação MTE;\ndesvio e acúmulo de função (CLT 456 par. único + 460 + OJ 125 SDI-1) e\nsalário-substituição (Súm. 159 TST); igualdade salarial de gênero\n(Lei 14.611/23)."
+description: "Usar para pesquisar ou analisar: Equiparação Salarial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Equiparação Salarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

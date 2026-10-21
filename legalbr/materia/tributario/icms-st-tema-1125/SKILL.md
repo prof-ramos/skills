@@ -5,8 +5,8 @@ title: "Substituição Tributária ICMS-ST (CF 150 §7 + Tema 201 STF + Tema 1.1
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-st-tema-1125.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-st-tema-1125/SKILL.md"
 triggers:
   - "substituição tributária"
   - "ICMS-ST"
@@ -21,10 +21,15 @@ triggers:
   - "MVA"
   - "restituição base presumida"
   - "PMPF"
-description: "Substituição tributária CF 150 §7 (EC 3/93) + LC 87/96 (Lei\nKandir art. 6 + 8 MVA + 10); 3 espécies (para trás / PARA FRENTE\n/ concomitante); STF Tema 201 RE 593.849 (RESTITUIÇÃO se base\nefetiva < presumida; superou ADI 1.851); Tema 69 STF \"tese do\nséculo\" (ICMS fora PIS/COFINS, 15/03/2017); STJ Tema 1.125\n(ICMS-ST fora PIS/COFINS, mesma modulação)."
+description: "Usar para pesquisar ou analisar: Substituição Tributária ICMS-ST (CF 150 §7 + Tema 201 STF + Tema 1.125 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Substituição Tributária ICMS-ST
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 150 §7: fundamento
 

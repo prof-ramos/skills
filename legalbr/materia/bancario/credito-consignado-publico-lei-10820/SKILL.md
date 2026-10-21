@@ -5,8 +5,8 @@ title: "Crédito Consignado Público de Servidores e INSS (Lei 10.820/03 + IN IN
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/credito-consignado-publico-lei-10820.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/credito-consignado-publico-lei-10820/SKILL.md"
 triggers:
   - "consignado público"
   - "Lei 10.820"
@@ -21,10 +21,15 @@ triggers:
   - "cartão consignado"
   - "cartão benefício consignado"
   - "prazo consignado 96 meses"
-description: "Consignado público: Lei 10.820/03 (trabalhadores CLT) + Lei 8.112/90 +\nLei 14.131/21 + IN INSS 138/22 (beneficiários INSS); margem consignável\nGLOBAL de 40% para benefícios do RGPS e 35% para BPC (MP 1.355/2026,\nque alterou a Lei 10.820: sublimites de 5% para cartão consignado e 5%\npara cartão benefício; redução gradual a partir de 2027 e vedação de\nnovos cartões consignados a partir de 2029; contratos anteriores\npreservados); portabilidade obrigatória (Res. CMN 5.057/22); STJ Tema\n1.085 (desconto de empréstimo comum em conta-corrente não se limita\npela Lei 10.820); cartão consignado/RMC sob exame no Tema 1.414 STJ\n(afetado, sem mérito firmado)."
+description: "Usar para pesquisar ou analisar: Crédito Consignado Público de Servidores e INSS (Lei 10.820/03 + IN INSS 138/22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crédito Consignado Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

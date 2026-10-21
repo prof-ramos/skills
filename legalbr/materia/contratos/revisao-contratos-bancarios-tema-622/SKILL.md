@@ -5,8 +5,8 @@ title: "Revisão de Contratos Bancários e Abusividade de Juros (Tema 622 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/revisao-contratos-bancarios-tema-622.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/revisao-contratos-bancarios-tema-622/SKILL.md"
 triggers:
   - "Tema 622 STJ"
   - "REsp 1.061.530"
@@ -23,10 +23,15 @@ triggers:
   - "cláusula abusiva contrato bancário"
   - "CDC 51 IV"
   - "CDC 6 V"
-description: "Tema 622 STJ (REsp 1.061.530/RS): juros remuneratórios bancários\nsó são abusivos quando comprovadamente discrepantes da taxa\nmédia de mercado (BACEN), considerando peculiaridades do caso.\nSúm. 381 veda conhecimento de ofício. Súm. 539/541 sobre\ncapitalização."
+description: "Usar para pesquisar ou analisar: Revisão de Contratos Bancários e Abusividade de Juros (Tema 622 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão de Contratos Bancários (Tema 622 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 622 STJ, REsp 1.061.530/RS)
 

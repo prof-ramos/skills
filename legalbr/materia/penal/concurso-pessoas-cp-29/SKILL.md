@@ -5,8 +5,8 @@ title: "Concurso de Pessoas (CP 29-31 + domínio do fato)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/concurso-pessoas-cp-29.md"
+version: 2
+sourcePath: "legalbr/materia/penal/concurso-pessoas-cp-29/SKILL.md"
 triggers:
   - "concurso de pessoas"
   - "CP 29"
@@ -19,10 +19,15 @@ triggers:
   - "teoria monista"
   - "cooperação dolosamente distinta"
   - "elementares comunicabilidade"
-description: "Concurso de pessoas sob CP 29-31: TEORIA MONISTA TEMPERADA\n(todos respondem pelo mesmo crime); CP 29 §1 participação de\nMENOR importância (redução 1/6 a 1/3); §2 cooperação DOLOSAMENTE\nDISTINTA (pena do que QUIS + metade se previsível); CP 30\nelementares COMUNICAM (circunstâncias pessoais não); CP 31\nparticipação infrutífera impunível; STF (domínio do fato\nnão é presunção decorrente do cargo)."
+description: "Usar para pesquisar ou analisar: Concurso de Pessoas (CP 29-31 + domínio do fato). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concurso de Pessoas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 29 caput: TEORIA MONISTA TEMPERADA
 

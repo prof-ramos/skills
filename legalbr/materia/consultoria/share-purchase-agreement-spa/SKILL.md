@@ -5,8 +5,8 @@ title: "Share Purchase Agreement (SPA): estrutura M&A"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/share-purchase-agreement-spa.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/share-purchase-agreement-spa/SKILL.md"
 triggers:
   - "SPA"
   - "share purchase agreement"
@@ -15,10 +15,15 @@ triggers:
   - "quota purchase agreement"
   - "sale and purchase agreement"
   - "aquisição de participação"
-description: "Share Purchase Agreement (SPA/QPA): definitions, objeto e preço\n(locked-box × completion accounts × earn-out), R&W, indemnities\n(cap, basket, de minimis, survival), conditions precedent,\ncovenants pré e pós-closing, MAC clause, leakage, signing ×\nclosing, governing law e dispute resolution (arbitragem CCBC,\nCAMARB, ICC)."
+description: "Usar para pesquisar ou analisar: Share Purchase Agreement (SPA): estrutura M&A. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Share Purchase Agreement (SPA)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura padrão
 

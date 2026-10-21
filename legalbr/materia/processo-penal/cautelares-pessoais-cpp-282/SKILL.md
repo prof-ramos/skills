@@ -5,8 +5,8 @@ title: "Medidas Cautelares Pessoais (CPP 282-319 + Lei 12.403 + Lei 13.964)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/cautelares-pessoais-cpp-282.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/cautelares-pessoais-cpp-282/SKILL.md"
 triggers:
   - "medidas cautelares pessoais"
   - "CPP 282"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 13.964 cautelares pessoais"
   - "monitoração eletrônica"
   - "preventiva ultima ratio"
-description: "Cautelares pessoais CPP 282-319: Lei 12.403/2011 + Lei 13.964/2019\n(sistema acusatório, vedação EX OFFICIO + ADIs 6.298-6.305); CPP\n282 requisitos (necessidade + adequação + contraditório prévio);\nCPP 316 par. único REVISÃO 90 DIAS (HC 191.836); CPP 319 cautelares\ndiversas (9 incisos, IX monitoração); Lei 15.272/2025 (CPP 312\n§§3-4: periculosidade concreta, vedada gravidade abstrata); Lei\n15.358/2026 (CPP 313 V: organização criminosa ultraviolenta);\nMaria da Penha 11.340 arts. 22-24 + Lei 14.550/2023 (autônomas)."
+description: "Usar para pesquisar ou analisar: Medidas Cautelares Pessoais (CPP 282-319 + Lei 12.403 + Lei 13.964). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medidas Cautelares Pessoais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

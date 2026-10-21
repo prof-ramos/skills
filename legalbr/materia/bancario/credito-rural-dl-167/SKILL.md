@@ -5,8 +5,8 @@ title: "Crédito Rural: Cédulas Rurais (DL 167/67) + LCA + CPR (Lei 8.929/94)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/credito-rural-dl-167.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/credito-rural-dl-167/SKILL.md"
 triggers:
   - "crédito rural"
   - "cédula rural"
@@ -20,10 +20,15 @@ triggers:
   - "Pronaf agricultura familiar"
   - "Súm. 60 STJ"
   - "Súm. 93 STJ"
-description: "Crédito Rural regulado pela Lei 4.829/65 (PNCR) + DL 167/67 (cédulas);\ntítulos: Cédula Rural Pignoratícia (CRP), Hipotecária (CRH), Pignoratícia\ne Hipotecária (CRPH), Nota de Crédito Rural (NCR); CPR Lei 8.929/94\n(Cédula de Produto Rural, física ou financeira); LCA Lei 11.076/04\n(lastro em agronegócio); foro do MCR; Súm. 60 STJ (obrigação cambial\npor procurador vinculado ao mutuante) + Súm. 93 (capitalização\npermitida)."
+description: "Usar para pesquisar ou analisar: Crédito Rural: Cédulas Rurais (DL 167/67) + LCA + CPR (Lei 8.929/94). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crédito Rural: Cédulas e Títulos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Zona Franca de Manaus, Tributação (CF ADCT 92-A + DL 288/67 + LC 214/2
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/zona-franca-manaus-tributacao.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/zona-franca-manaus-tributacao/SKILL.md"
 triggers:
   - "Zona Franca de Manaus"
   - "ZFM"
@@ -17,10 +17,15 @@ triggers:
   - "PPB"
   - "crédito presumido IPI"
   - "área livre comércio"
-description: "ZFM sob CF ADCT 92-A (até 2073) + DL 288/1967 + LC 214/2025:\nárea de livre comércio com isenção/redução de II, IPI, ICMS,\nPIS/COFINS para indústria com PPB; reforma tributária preserva\npor crédito presumido CBS+IBS; ALCs amazônicas seguem regime\nanálogo; STF Tema 322 (creditamento de IPI na entrada de insumos\nisentos da ZFM); PIS/COFINS sobre vendas para a ZFM (STJ Tema 1.239)."
+description: "Usar para pesquisar ou analisar: Zona Franca de Manaus, Tributação (CF ADCT 92-A + DL 288/67 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Zona Franca de Manaus
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

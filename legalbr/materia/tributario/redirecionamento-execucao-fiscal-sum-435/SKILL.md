@@ -5,8 +5,8 @@ title: "Redirecionamento da Execução Fiscal (Súms. 435/430/392 STJ + Temas 96
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/redirecionamento-execucao-fiscal-sum-435.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/redirecionamento-execucao-fiscal-sum-435/SKILL.md"
 triggers:
   - "redirecionamento execução fiscal"
   - "Súm. 435 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 444 STJ"
   - "Súm. 392 STJ"
   - "prescrição redirecionamento"
-description: "Redirecionamento da EF para sócio-gerente ou terceiro responsável:\nSúm. 435 STJ (presunção por dissolução irregular) + Tema 630\n(vale para dívida tributária e não tributária); Tema 962 (sócio\nque se retirou regularmente e não deu causa à dissolução NÃO\nresponde); Tema 981 (responde o gestor à época da dissolução,\nainda que não fosse do FG); Tema 444 (prescrição de 5 anos);\nSúm. 392 (substituição de CDA NÃO permite trocar sujeito\npassivo); Súm. 430 e Tema 97 (inadimplemento NÃO basta)."
+description: "Usar para pesquisar ou analisar: Redirecionamento da Execução Fiscal (Súms. 435/430/392 STJ + Temas 962/981/444). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Redirecionamento da Execução Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal + jurisprudencial
 

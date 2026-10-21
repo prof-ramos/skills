@@ -5,8 +5,8 @@ title: "CCB: Cédula de Crédito Bancário (Lei 10.931/04)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/ccb-cedula-credito-bancario.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/ccb-cedula-credito-bancario/SKILL.md"
 triggers:
   - "CCB"
   - "cédula de crédito bancário"
@@ -22,10 +22,15 @@ triggers:
   - "aval CCB"
   - "garantia acessória CCB"
   - "endosso CCB"
-description: "Emissão de CCB (Lei 10.931/04): título executivo extrajudicial (art.\n28); requisitos formais do art. 29; garantias acessórias (AF, hipoteca,\npenhor, cessão fiduciária); capitalização permitida (Súm. 539/541\nSTJ); aval; cessão dispensada de notificação (art. 29 §1º); planilha\nde cálculo; registro em registradora autorizada."
+description: "Usar para pesquisar ou analisar: CCB: Cédula de Crédito Bancário (Lei 10.931/04). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cédula de Crédito Bancário (CCB)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

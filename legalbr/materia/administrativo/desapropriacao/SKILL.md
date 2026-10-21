@@ -5,8 +5,8 @@ title: "Desapropriação (DL 3.365/1941 + CF 5 XXIV + LC 76/93)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/desapropriacao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desapropriacao/SKILL.md"
 triggers:
   - "desapropriação"
   - "DL 3.365/1941"
@@ -16,10 +16,15 @@ triggers:
   - "retrocessão"
   - "tredestinação"
   - "imissão provisória na posse"
-description: "Desapropriação sob CF 5 XXIV + DL 3.365/1941 + LC 76/93: indenização prévia,\njusta e em dinheiro; espécies (utilidade/necessidade pública, interesse social,\nurbanística-sanção, reforma agrária, confisco CF 243); fases declaratória,\nexecutória e imissão provisória; desapropriação indireta (Tema 1.019 STJ,\nprescrição decenal); retrocessão e direito de extensão."
+description: "Usar para pesquisar ou analisar: Desapropriação (DL 3.365/1941 + CF 5 XXIV + LC 76/93). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desapropriação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

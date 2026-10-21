@@ -5,8 +5,8 @@ title: "Presunção de Inexistência de RG nos JECs (Tema 800 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-jeec-rg-presuncao-tema-800.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-jeec-rg-presuncao-tema-800/SKILL.md"
 triggers:
   - "Tema 800 STF"
   - "ARE 835.833"
@@ -14,10 +14,15 @@ triggers:
   - "presunção ausência RG"
   - "JECs causas baixa"
   - "Lei 9.099/95"
-description: "Tema 800 STF (ARE 835.833, rel. Min. Teori Zavascki; tese\nunificada com os Temas 797 e 798): PRESUNÇÃO RELATIVA de\ninexistência de repercussão geral nas causas processadas nos\nJUIZADOS ESPECIAIS CÍVEIS da Lei 9.099/95. A admissão do RE\nexige dois requisitos adicionais: prequestionamento específico\ne objetivo + fundamentação da relevância com dados concretos\nque revertam a presunção. Lei 9.099/95 + CF 98 I + CF 102 §3."
+description: "Usar para pesquisar ou analisar: Presunção de Inexistência de RG nos JECs (Tema 800 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Presunção de Inexistência de RG nos JECs
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

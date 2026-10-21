@@ -5,8 +5,8 @@ title: "Alegações Finais em Ação de Improbidade Administrativa"
 category: "forma"
 materia: null
 documentType: "alegacoes-finais-acao-improbidade"
-version: 1
-sourcePath: "lib/skills/official/forma/alegacoes-finais-acao-improbidade.md"
+version: 2
+sourcePath: "legalbr/forma/alegacoes-finais-acao-improbidade/SKILL.md"
 triggers:
   - "alegações finais improbidade"
   - "memoriais improbidade"
@@ -15,10 +15,15 @@ triggers:
   - "Tema 1.199 dolo"
   - "retroação benéfica improbidade"
   - "sanções proporcionais"
-description: "Alegações finais (memoriais) em ação de improbidade administrativa\n(Lei 8.429/1992 + Lei 14.230/2021): consolidação das teses após\ninstrução; tópicos obrigatórios (legitimidade ativa, prescrição,\ntipologia, dolo, Tema 1.199 STF, dano, individualização da conduta,\nretroação benéfica, sanções proporcionais); análise probatória;\nprazo do CPC 364 (15 dias, dobro para Fazenda)."
+description: "Usar para redigir ou revisar: Alegações Finais em Ação de Improbidade Administrativa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alegações Finais em Ação de Improbidade Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo da peça
 

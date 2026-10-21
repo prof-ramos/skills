@@ -6,7 +6,7 @@ category: "materia"
 materia: "imobiliario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/imobiliario/direitos-reais-garantia-alienacao-fiduciaria.md"
+sourcePath: "legalbr/materia/imobiliario/direitos-reais-garantia-alienacao-fiduciaria/SKILL.md"
 triggers:
   - "hipoteca"
   - "anticrese"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 308 STJ"
   - "Tema 982 STF"
   - "adimplemento substancial alienação fiduciária"
-description: "Penhor, hipoteca, anticrese e alienação fiduciária sob o CC, DL 911,\nLeis 9.514 e 14.711: constituição, prioridade, execução, precedentes e\nforma contratual da garantia imobiliária após o Provimento CNJ 246/2026."
+description: "Usar para pesquisar ou analisar: Direitos Reais de Garantia + Alienação Fiduciária + LACE (Lei 14.711/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Reais de Garantia + Alienação Fiduciária + LACE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

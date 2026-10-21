@@ -5,8 +5,8 @@ title: "Advocacia-Geral da União (LC 73/1993)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/agu-lc-73.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/agu-lc-73/SKILL.md"
 triggers:
   - "AGU"
   - "Advocacia-Geral da União"
@@ -18,10 +18,15 @@ triggers:
   - "assessoramento União"
   - "Procuradoria-Geral da Fazenda Nacional"
   - "Procuradoria-Geral Federal"
-description: "AGU (LC 73/1993 + CF 131): organização + competências de representação\njudicial + extrajudicial + consultoria + assessoramento jurídico da União;\nestrutura (PGU + PGFN + PGF + CGU/AGU + Consultoria); transação +\ndesistência (Lei 9.469/97); honorários sucumbenciais (Lei 13.327/2016 +\nADIs 6.053/6.159 STF); pareceres vinculantes (LC 73 art. 40); Súm.\nVinc. 11 + 13 + 21."
+description: "Usar para pesquisar ou analisar: Advocacia-Geral da União (LC 73/1993). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Advocacia-Geral da União (LC 73/1993)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

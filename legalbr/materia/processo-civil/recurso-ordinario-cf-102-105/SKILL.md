@@ -5,8 +5,8 @@ title: "Recurso Ordinário Constitucional (CPC 1.027-1.028 + CF 102 II + 105 II)
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-ordinario-cf-102-105.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-ordinario-cf-102-105/SKILL.md"
 triggers:
   - "recurso ordinário constitucional"
   - "CPC 1.027"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 640 STF"
   - "recurso ordinário em mandado de segurança"
   - "crime político recurso"
-description: "Recurso ordinário constitucional sob CF 102 II + 105 II + CPC\n1.027-1.028: ao STF, contra HC/MS/HD/MI denegados em única\ninstância pelos Tribunais Superiores e em crime político; ao\nSTJ, contra HC (única ou última instância) e MS (única\ninstância) denegados por TRF/TJ, e causas de Estado\nestrangeiro/organismo internacional contra Município ou\nresidente; prazo 15 dias (5 em HC); devolutividade ampla;\nhonorários vedados em MS (Súm. 105 STJ + 512 STF)."
+description: "Usar para pesquisar ou analisar: Recurso Ordinário Constitucional (CPC 1.027-1.028 + CF 102 II + 105 II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Ordinário Constitucional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base + cabimento
 

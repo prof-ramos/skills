@@ -5,8 +5,8 @@ title: "Título de Capitalização: Resgate, Sorteio, Venda Casada e Caução (D
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/titulo-capitalizacao-dl-261.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/titulo-capitalizacao-dl-261/SKILL.md"
 triggers:
   - "título de capitalização"
   - "sociedade de capitalização"
@@ -18,10 +18,15 @@ triggers:
   - "Tele Sena"
   - "capitalização garantia de aluguel"
   - "Resolução CNSP 384"
-description: "Título de capitalização (DL 261/67 + Resolução CNSP 384/2020 + Circular SUSEP\n656/2022): seis modalidades, resgate e carência de até 24 meses, sorteio, venda\ncasada com crédito (CDC 39, I), publicidade como \"investimento\" e uso como\ngarantia locatícia (Lei 8.245, arts. 37-38)."
+description: "Usar para pesquisar ou analisar: Título de Capitalização: Resgate, Sorteio, Venda Casada e Caução (DL 261/67). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Título de Capitalização: Resgate, Sorteio, Venda Casada e Caução
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

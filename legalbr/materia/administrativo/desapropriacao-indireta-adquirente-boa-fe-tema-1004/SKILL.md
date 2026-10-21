@@ -5,8 +5,8 @@ title: "Desapropriação Indireta + Adquirente Pós-Apossamento (Tema 1.004 STJ)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/desapropriacao-indireta-adquirente-boa-fe-tema-1004.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desapropriacao-indireta-adquirente-boa-fe-tema-1004/SKILL.md"
 triggers:
   - "Tema 1.004 STJ"
   - "desapropriação indireta adquirente"
@@ -14,10 +14,15 @@ triggers:
   - "boa-fé objetiva imóvel restrição"
   - "vulnerabilidade econômica adquirente"
   - "DL 3.365/41 desapropriação indireta"
-description: "Tema 1.004 STJ: aplicada a BOA-FÉ OBJETIVA, o adquirente de\nimóvel sob apossamento administrativo prévio NÃO faz jus à\nindenização do órgão expropriante (presume-se que o ônus foi\nconsiderado no preço). EXCEÇÃO: negócio jurídico GRATUITO ou\nVULNERABILIDADE ECONÔMICA do adquirente."
+description: "Usar para pesquisar ou analisar: Desapropriação Indireta + Adquirente Pós-Apossamento (Tema 1.004 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desapropriação Indireta + Adquirente Pós-Apossamento (Tema 1.004 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.004 STJ)
 

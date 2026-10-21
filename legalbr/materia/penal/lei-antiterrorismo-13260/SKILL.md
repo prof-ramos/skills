@@ -5,8 +5,8 @@ title: "Lei Antiterrorismo (Lei 13.260/2016 + CF 5 XLIII + Lei 14.197/2021)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lei-antiterrorismo-13260.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-antiterrorismo-13260/SKILL.md"
 triggers:
   - "Lei Antiterrorismo"
   - "Lei 13.260/2016"
@@ -19,10 +19,15 @@ triggers:
   - "8 de janeiro"
   - "hediondo Lei 8.072"
   - "movimentos sociais excluídos"
-description: "Lei 13.260/2016 regulamenta CF 5 XLIII (terrorismo inafiançável\n+ insuscetível graça/anistia); art. 2 conceito + 5 atos típicos\n(gases + ameaça vida + transporte + serviços essenciais + chefes\nEstado); recl. 12-30a + multa; HEDIONDO; §2 EXCLUI manifestações\nsociais/sindicais/políticas/religiosas; STF, atos de 8/1/2023\nNÃO aplicaram Lei 13.260 (foram Lei 14.197, crimes Estado\nDemocrático CP 359-L+); competência JF."
+description: "Usar para pesquisar ou analisar: Lei Antiterrorismo (Lei 13.260/2016 + CF 5 XLIII + Lei 14.197/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Antiterrorismo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

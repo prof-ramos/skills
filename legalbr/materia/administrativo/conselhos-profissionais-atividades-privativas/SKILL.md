@@ -5,8 +5,8 @@ title: "Conselhos Profissionais: Poder de Polícia e Atividades Privativas (Tema
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/conselhos-profissionais-atividades-privativas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/conselhos-profissionais-atividades-privativas/SKILL.md"
 triggers:
   - "conselho profissional fiscalização"
   - "atividade privativa profissão"
@@ -22,10 +22,15 @@ triggers:
   - "CREF treinador esportivo"
   - "cancelamento de registro por inadimplência"
   - "Tema 1.028 STJ"
-description: "Poder de polícia dos conselhos profissionais e delimitação de atividades\nprivativas: registro pela atividade básica (Lei 6.839/80), Temas STJ 616/617\n(venda de medicamento veterinário e animais vivos), 647 e 1.149 (educação\nfísica), 715/727/483 (farmácia), 1.024 (ambulância SAMU tipo B sem\nenfermeiro) e Tema 757 STF (RE 808.424: inconstitucional o cancelamento\nautomático de registro por inadimplência)."
+description: "Usar para pesquisar ou analisar: Conselhos Profissionais: Poder de Polícia e Atividades Privativas (Temas 616/617, 715/727, 1.024 e 1.149 STJ + Tema 757 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conselhos Profissionais: Poder de Polícia e Atividades Privativas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

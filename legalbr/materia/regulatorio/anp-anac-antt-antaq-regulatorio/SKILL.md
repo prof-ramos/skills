@@ -6,7 +6,7 @@ category: "materia"
 materia: "regulatorio"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/regulatorio/anp-anac-antt-antaq-regulatorio.md"
+sourcePath: "legalbr/materia/regulatorio/anp-anac-antt-antaq-regulatorio/SKILL.md"
 triggers:
   - "autorização regulatória ANP"
   - "processo sancionador ANAC"
@@ -21,10 +21,15 @@ triggers:
   - "regulação aquaviário"
   - "concessão rodoviária"
   - "royalties do petróleo"
-description: "Regulação de petróleo, aviação e transportes por ANP, ANAC, ANTT e ANTAQ. Inclui outorgas, sanções e, após os Decretos 13.094 a 13.096/2026, SAF, CCUS e hidrogênio."
+description: "Usar para pesquisar ou analisar: ANP, ANAC, ANTT, ANTAQ: Regulação Setorial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANP, ANAC, ANTT, ANTAQ: Regulação Setorial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

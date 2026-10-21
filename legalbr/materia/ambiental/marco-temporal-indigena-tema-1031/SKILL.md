@@ -5,8 +5,8 @@ title: "Marco Temporal Indígena (Tema 1.031 STF + RE 1.017.365)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/marco-temporal-indigena-tema-1031.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/marco-temporal-indigena-tema-1031/SKILL.md"
 triggers:
   - "Tema 1.031"
   - "RE 1.017.365"
@@ -18,10 +18,15 @@ triggers:
   - "teoria do indigenato"
   - "Lei 14.701/2023"
   - "Raposa Serra do Sol"
-description: "Tema 1.031 STF (RE 1.017.365, Min. Fachin, 21/09/2023):\nREJEIÇÃO da tese do marco temporal (5/10/1988). Demarcação é\ndeclaratória. Direitos originários independem de presença em\n05/10/88 ou de renitente esbulho como conflito físico. Indenização\nda terra nua a ocupantes de boa-fé. STF (ADC 87 + ADIs 7.582 a\n7.586, jul. concluído 19/12/2025, 9x1) declarou inconstitucional\no marco temporal da Lei 14.701/23, mantendo boa parte da lei;\nacórdão publicado em 18/03/2026, ED pendentes."
+description: "Usar para pesquisar ou analisar: Marco Temporal Indígena (Tema 1.031 STF + RE 1.017.365). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Temporal Indígena (Tema 1.031 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

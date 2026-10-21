@@ -5,8 +5,8 @@ title: "ADPF 854: Orçamento Secreto (Emendas de Relator RP9)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-854-processo-estrutural.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-854-processo-estrutural/SKILL.md"
 triggers:
   - "ADPF 854"
   - "orçamento secreto"
@@ -16,10 +16,15 @@ triggers:
   - "rastreabilidade emendas"
   - "emendas parlamentares STF"
   - "processo estrutural"
-description: "ADPF 854 (rel. Rosa Weber; mérito em 19/12/2022, placar 6x5):\no STF declarou inconstitucional o \"orçamento secreto\" (uso\nampliado das emendas do relator-geral, RP-9), por violar\ntransparência, impessoalidade, moralidade e publicidade.\nDeterminou transparência e rastreabilidade da execução das\nemendas (RP-8 e restos a pagar de RP-9). Processo de execução\nestrutural com decisões interlocutórias sucessivas (2022-2026)."
+description: "Usar para pesquisar ou analisar: ADPF 854: Orçamento Secreto (Emendas de Relator RP9). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 854: Orçamento Secreto
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

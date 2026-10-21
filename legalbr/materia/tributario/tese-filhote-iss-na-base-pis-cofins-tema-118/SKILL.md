@@ -5,8 +5,8 @@ title: "ISS na Base de PIS/COFINS (Tema 118 STF, \"Tese Filhote do Tema 69\")"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/tese-filhote-iss-na-base-pis-cofins-tema-118.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/tese-filhote-iss-na-base-pis-cofins-tema-118/SKILL.md"
 triggers:
   - "ISS na base PIS COFINS"
   - "Tema 118 STF"
@@ -15,10 +15,15 @@ triggers:
   - "exclusão ISS"
   - "tese do século"
   - "prestadores de serviço"
-description: "Tese ISS na base de PIS/COFINS, Tema 118 STF (RE 592.616):\nfilhote do Tema 69 (ICMS fora da base). STF iniciou em ago/2020\ncom placar 4×4; ainda PENDENTE de conclusão, sem tese fixada.\nNo STJ, o Tema 634 fixou que o ISSQN compõe receita/faturamento\npara PIS/COFINS (orientação infraconstitucional vigente até a\ndefinição do STF). Riscos e efeitos dependem de eventual modulação."
+description: "Usar para pesquisar ou analisar: ISS na Base de PIS/COFINS (Tema 118 STF, \"Tese Filhote do Tema 69\"). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tese ISS na Base de PIS/COFINS (Tema 118 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal + jurisprudencial
 

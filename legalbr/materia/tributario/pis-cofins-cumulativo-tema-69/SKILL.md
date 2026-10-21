@@ -5,8 +5,8 @@ title: "PIS/COFINS Cumulativo × Não-Cumulativo (Tema 69 + Lei 10.637/10.833 + 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-cumulativo-tema-69.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-cumulativo-tema-69/SKILL.md"
 triggers:
   - "PIS COFINS"
   - "Tema 69 STF"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 118 STF"
   - "Tema 1.125 STJ"
   - "CBS EC 132"
-description: "PIS/COFINS CF 195 I \"b\"; Lei 10.637/2002 (PIS não-cumulativo\n1,65%) + Lei 10.833/2003 (COFINS 7,6%) no LUCRO REAL; Lei 9.718/\n1998 cumulativo (0,65 + 3%) no Presumido; Tema 69 STF \"TESE DO\nSÉCULO\" RE 574.706 (ICMS NÃO compõe base; modulação 15/03/2017;\nICMS destacado em nota); Tema 118 ISS pendente; Tema 1.125 STJ\nICMS-ST; EC 132/2023 + LC 214/2025 CBS substitui (2027 plena)."
+description: "Usar para pesquisar ou analisar: PIS/COFINS Cumulativo × Não-Cumulativo (Tema 69 + Lei 10.637/10.833 + EC 132). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS Cumulativo × Não-Cumulativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

@@ -5,8 +5,8 @@ title: "Earn-out, Locked-Box e Mecanismos de Preço em M&A"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/earn-out-locked-box-precos.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/earn-out-locked-box-precos/SKILL.md"
 triggers:
   - "earn-out"
   - "locked-box"
@@ -16,10 +16,15 @@ triggers:
   - "ajuste de preço"
   - "contingent payment"
   - "vendor loan"
-description: "Mecanismos de preço em M&A: locked-box (preço fixo + leakage +\nvalue accrual), completion accounts (cash-free debt-free + NWC\ntarget + estimated × final), earn-out (métricas, período,\nconduct of business, cap, aceleração em CIC), vendor loan,\nrollover equity, vesting accelerator e proteção contra\nmanipulação contábil (CC 422 + 187 abuso de direito)."
+description: "Usar para pesquisar ou analisar: Earn-out, Locked-Box e Mecanismos de Preço em M&A. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Earn-out, Locked-Box e Mecanismos de Preço
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Comparativo
 

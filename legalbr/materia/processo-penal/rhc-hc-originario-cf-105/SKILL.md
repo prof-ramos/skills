@@ -5,8 +5,8 @@ title: "RHC + HC Originário (CF 102 II + CF 105 II + Lei 8.038/1990)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/rhc-hc-originario-cf-105.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/rhc-hc-originario-cf-105/SKILL.md"
 triggers:
   - "RHC"
   - "recurso ordinário em habeas corpus"
@@ -19,10 +19,15 @@ triggers:
   - "HC 143.641"
   - "HC coletivo"
   - "denegação de habeas corpus"
-description: "RHC: contra denegação de HC originário em Tribunal Superior\n(STF, CF 102 II \"a\") ou TJ/TRF (STJ, CF 105 II \"a\"); prazo 5\ndias (Lei 8.038 art. 30, não revogado pelo CPC); HC ORIGINÁRIO\ncompetências (STF CF 102 I \"d/h/i\"; STJ CF 105 I \"c/g\"; TRF\nCF 108 I \"d\"); Súm. 691 STF mitigada (flagrante ilegalidade);\nHC substitutivo vedado; HC coletivo (HC 143.641); ADPF 347."
+description: "Usar para pesquisar ou analisar: RHC + HC Originário (CF 102 II + CF 105 II + Lei 8.038/1990). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RHC + HC Originário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## RHC: Recurso Ordinário em Habeas Corpus
 

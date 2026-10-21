@@ -5,8 +5,8 @@ title: "Revisão Criminal"
 category: "forma"
 materia: null
 documentType: "revisao-criminal"
-version: 3
-sourcePath: "lib/skills/official/forma/revisao-criminal.md"
+version: 2
+sourcePath: "legalbr/forma/revisao-criminal/SKILL.md"
 triggers:
   - "revisão criminal"
   - "arts. 621 a 631 CPP"
@@ -15,10 +15,15 @@ triggers:
   - "exclusivamente pro reo vedação à reformatio in pejus"
   - "hipóteses do art. 621 contrário à evidência dos autos"
   - "revisão criminal contra sentença condenatória transitada em julgado"
-description: "Revisão criminal sob o CPP (arts. 621-631): ação autônoma de\nimpugnação a sentença condenatória transitada em julgado,\nexclusivamente pro reo; hipóteses taxativas de cabimento (sentença\ncontrária a lei ou prova, fundada em provas falsas, prova nova);\nprazo aberto; competência originária do tribunal; efeitos e\nindenização por erro judiciário.\nnão precisa estar preso para requerer revisão. Indeferida/improcedente\nadmite NOVA revisional se baseada em novas provas (622 p.ú.)."
+description: "Usar para redigir ou revisar: Revisão Criminal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito e natureza
 

@@ -5,8 +5,8 @@ title: "Honorários Recursais + Sucumbência Recursal (Tema 1059 STJ + CPC 85 §
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-recursais-tema-1059.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-recursais-tema-1059/SKILL.md"
 triggers:
   - "honorários recursais"
   - "CPC 85 § 11"
@@ -19,10 +19,15 @@ triggers:
   - "Enunciado 7 STJ"
   - "apelação parcialmente provida"
   - "agravo interno desprovido"
-description: "Tese do Tema 1059 STJ: a majoração de honorários recursais (CPC\n85 § 11) só cabe quando o recurso é INTEGRALMENTE desprovido ou\nNÃO conhecido. Não cabe em provimento parcial, ainda que mínimo.\nREsp 1.864.633 (Corte Especial, Rel. Min. Paulo Sérgio Domingues,\nj. 09/11/2023). Requisitos cumulativos do CPC 85 §§ 1, 11, 14:\nrecurso pós-CPC/2015, prévia condenação em honorários, recurso\ndesprovido na íntegra."
+description: "Usar para pesquisar ou analisar: Honorários Recursais + Sucumbência Recursal (Tema 1059 STJ + CPC 85 § 11). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Recursais + Sucumbência Recursal (Tema 1059 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1059 STJ)
 

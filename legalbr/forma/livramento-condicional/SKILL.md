@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "livramento-condicional"
 version: 2
-sourcePath: "lib/skills/official/forma/livramento-condicional.md"
+sourcePath: "legalbr/forma/livramento-condicional/SKILL.md"
 triggers:
   - "livramento condicional"
   - "arts. 83 a 90 CP"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 441 STJ"
   - "reincidente específico em crime hediondo"
   - "reparação do dano como requisito do livramento"
-description: "Livramento condicional (CP 83-90; LEP 131-146): pena igual ou maior\nque 2 anos; lapsos 1/3, 1/2 ou 2/3; bom comportamento (CP 83 III \"b\"\npós-Anticrime); reparação (IV); Súm. 441/STJ (falta grave não\ninterrompe)."
+description: "Usar para redigir ou revisar: Livramento Condicional. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Livramento Condicional
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

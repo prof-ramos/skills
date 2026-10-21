@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-extradicao"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-extradicao.md"
+sourcePath: "legalbr/forma/defesa-extradicao/SKILL.md"
 triggers:
   - "extradição passiva"
   - "Lei 13.445 arts. 81-99"
@@ -16,10 +16,15 @@ triggers:
   - "non-refoulement"
   - "defesa em extradição"
   - "defesa do extraditando"
-description: "Defesa em extradição PASSIVA (Brasil entrega estrangeiro a outro Estado):\ncompetência STF (CF 102 I g); procedimento da Lei 13.445/2017 arts. 81-99\n+ RISTF (defesa em 10 dias após interrogatório); contenciosidade limitada\n(análise jurídico-formal, sem reexame do mérito do crime); checklist das\nvedações constitucionais (CF 5 LI/LII) e legais (art. 82) como eixos da\ndefesa; DPU obrigatória; HC contra prisão preventiva extradicional;\nrecursos no STF e decisão presidencial discricionária."
+description: "Usar para redigir ou revisar: Defesa em Extradição (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Extradição
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

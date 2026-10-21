@@ -5,8 +5,8 @@ title: "Recurso Ordinário Constitucional (RO/ROC)"
 category: "forma"
 materia: null
 documentType: "recurso-ordinario-constitucional"
-version: 3
-sourcePath: "lib/skills/official/forma/recurso-ordinario-constitucional.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-ordinario-constitucional/SKILL.md"
 triggers:
   - "recurso ordinário constitucional RO ROC"
   - "art. 102 II CF competência do STF"
@@ -15,10 +15,15 @@ triggers:
   - "RO em MS HC e habeas data denegados em única instância"
   - "RO em causa Estado estrangeiro versus município ou pessoa"
   - "duplo grau de jurisdição em ações constitucionais"
-description: "Recurso ordinário constitucional ao STF e ao STJ sob a CF\n(arts. 102, II e 105, II) e o CPC/15 (arts. 1.027-1.028): hipóteses\nde cabimento (HC, MS, HD e MI denegados em única instância; crime\npolítico; causas Estado estrangeiro × pessoa no Brasil); prazo de\n15 dias úteis nos ROs cíveis e 5 dias corridos no RO em HC;\ndevolutividade ampla com reanálise de fato e direito; sem juízo\nde admissibilidade na origem."
+description: "Usar para redigir ou revisar: Recurso Ordinário Constitucional (RO/ROC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Ordinário Constitucional (RO/ROC)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

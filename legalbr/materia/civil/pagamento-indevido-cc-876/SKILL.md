@@ -5,8 +5,8 @@ title: "Pagamento Indevido (CC 876-883)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/pagamento-indevido-cc-876.md"
+version: 2
+sourcePath: "legalbr/materia/civil/pagamento-indevido-cc-876/SKILL.md"
 triggers:
   - "pagamento indevido"
   - "CC 876"
@@ -21,10 +21,15 @@ triggers:
   - "pagamento em duplicidade"
   - "Sum 322 STJ"
   - "CDC 42"
-description: "Pagamento indevido (CC 876-883): quem paga sem ter feito sob erro\npode reaver (CC 876); requisito do erro do solvens (CC 877); regime\ndo accipiens de boa-fé (frutos percebidos) × má-fé; irrepetibilidade\n(CC 882: obrigações naturais, dívida prescrita); CDC 42 par. único\n(repetição em dobro)."
+description: "Usar para pesquisar ou analisar: Pagamento Indevido (CC 876-883). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pagamento Indevido
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 876, conceito
 

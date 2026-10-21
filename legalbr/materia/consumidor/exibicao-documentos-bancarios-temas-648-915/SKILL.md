@@ -5,8 +5,8 @@ title: "Exibição de Documentos Bancários (Temas 648 e 915 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/exibicao-documentos-bancarios-temas-648-915.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/exibicao-documentos-bancarios-temas-648-915/SKILL.md"
 triggers:
   - "exibição de documentos bancários"
   - "Tema 648 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "exibição credit scoring"
   - "prévio requerimento ao banco"
   - "custo do serviço de exibição"
-description: "Exibição de documentos bancários: Tema 648 STJ (REsp 1.349.453/MS,\nrequisitos da cautelar/produção antecipada: relação jurídica +\nprévio pedido não atendido em prazo razoável + custo do serviço) e\nTema 915 STJ (REsp 1.304.736/RS, interesse de agir na exibição do\ncredit scoring: requerimento prévio + recusa de crédito pela\npontuação); falta de requisito = extinção sem mérito."
+description: "Usar para pesquisar ou analisar: Exibição de Documentos Bancários (Temas 648 e 915 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exibição de Documentos Bancários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tema 648 STJ (REsp 1.349.453/MS, 2ª Seção)
 

@@ -5,8 +5,8 @@ title: "Mandado de Segurança + Habeas Corpus + Habeas Data + Mandado de Injunç
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/mandado-seguranca-hc-hd-mi.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/mandado-seguranca-hc-hd-mi/SKILL.md"
 triggers:
   - "remédios constitucionais"
   - "direito líquido e certo"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 12.016/2009"
   - "Súm. 632 STF"
   - "Súm. 691 STF"
-description: "Remédios constitucionais sob a CF/88 (art. 5º LXVIII a LXXII): mandado\nde segurança (Lei 12.016/2009): direito líquido e certo, prazo\ndecadencial, liminar e MS coletivo; mandado de injunção (Lei 13.300/\n2016) e jurisprudência concretista do STF; habeas data (Lei 9.507/97);\nhabeas corpus (CPP 647-667) e suas espécies (liberatório, preventivo,\ncoletivo)."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança + Habeas Corpus + Habeas Data + Mandado de Injunção. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MS + MI + HD + HC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

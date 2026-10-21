@@ -5,8 +5,8 @@ title: "Ação Monitória"
 category: "forma"
 materia: null
 documentType: "monitoria"
-version: 1
-sourcePath: "lib/skills/official/forma/monitoria.md"
+version: 2
+sourcePath: "legalbr/forma/monitoria/SKILL.md"
 triggers:
   - "ação monitória"
   - "arts. 700 a 702 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "embargos monitórios"
   - "mandado de pagamento e constituição do título executivo"
   - "contrato bancário Súm. 247 STJ"
-description: "Ação monitória sob o CPC 700-702: procedimento híbrido fundado em\nprova escrita sem eficácia de título; cabimento para pagamento,\nentrega de coisa ou fazer/não fazer; mandado de 15 dias para pagar\nou embargar (701); embargos sem garantia que suspendem eficácia\n(702); inércia gera título executivo judicial."
+description: "Usar para redigir ou revisar: Ação Monitória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Monitória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

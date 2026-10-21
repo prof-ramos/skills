@@ -5,8 +5,8 @@ title: "Estabelecimento Empresarial e Trespasse (CC 1.142-1.149)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/estabelecimento-empresarial-trespasse.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/estabelecimento-empresarial-trespasse/SKILL.md"
 triggers:
   - "trespasse"
   - "estabelecimento empresarial"
@@ -20,10 +20,15 @@ triggers:
   - "ponto comercial"
   - "aviamento"
   - "sub-rogação nos contratos do estabelecimento"
-description: "Estabelecimento empresarial e trespasse (CC 1.142-1.149): eficácia da\nalienação (averbação + publicação, 1.144; anuência dos credores, 1.145),\nsucessão nas dívidas contabilizadas com solidariedade anual do alienante\n(1.146), vedação de restabelecimento por 5 anos (1.147), sub-rogação nos\ncontratos (1.148) e interfaces com CTN 133 (tributária), CLT 448-A\n(trabalhista) e Lei 11.101 (arts. 60, 94 III c, 129 VI e 141 II)."
+description: "Usar para pesquisar ou analisar: Estabelecimento Empresarial e Trespasse (CC 1.142-1.149). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabelecimento Empresarial e Trespasse
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

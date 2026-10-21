@@ -5,8 +5,8 @@ title: "Coisa Julgada + Juros Remuneratórios sobre Tarifas Bancárias (Tema 1.2
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/coisa-julgada-juros-remuneratorios-tarifas-tema-1268.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/coisa-julgada-juros-remuneratorios-tarifas-tema-1268/SKILL.md"
 triggers:
   - "Tema 1.268 STJ"
   - "eficácia preclusiva coisa julgada"
@@ -14,10 +14,15 @@ triggers:
   - "CPC 508 preclusão"
   - "nova ação restituição"
   - "CPC 322 §1 pedido implícito"
-description: "Tema 1.268 STJ (2ª Seção, j. 10/09/2025): a EFICÁCIA PRECLUSIVA da\ncoisa julgada (CPC 508) IMPEDE nova ação para pleitear restituição\nde juros REMUNERATÓRIOS incidentes sobre tarifas bancárias\ndeclaradas ilegais/abusivas em ação anterior. Juros remuneratórios\nexigem pedido EXPRESSO (distinto dos moratórios, implícitos por\nforça do CPC 322 §1 + Súm. 254 STF)."
+description: "Usar para pesquisar ou analisar: Coisa Julgada + Juros Remuneratórios sobre Tarifas Bancárias (Tema 1.268 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Coisa Julgada + Juros Remuneratórios sobre Tarifas Bancárias (Tema 1.268 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.268 STJ, 2ª Seção)
 

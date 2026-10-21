@@ -5,8 +5,8 @@ title: "Embargos à Execução Fiscal + Renúncia para Programa de Recuperação
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/embargos-execucao-fiscal-programa-recuperacao-tema-1317.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/embargos-execucao-fiscal-programa-recuperacao-tema-1317/SKILL.md"
 triggers:
   - "Tema 1.317 STJ"
   - "embargos execução fiscal desistência"
@@ -14,10 +14,15 @@ triggers:
   - "parcelamento tributário desistência"
   - "encargo legal honorários DAU"
   - "DL 1025 honorários encargo"
-description: "Tema 1.317 STJ (1ª Seção, 12/11/2025): a extinção dos embargos à\nexecução fiscal por desistência/renúncia para adesão a programa\nde recuperação fiscal, EM QUE JÁ INSERIDA verba honorária pela\ncobrança da dívida pública, NÃO enseja NOVA condenação em\nhonorários sucumbenciais. Evita bis in idem com o encargo legal\ndo DL 1.025/69."
+description: "Usar para pesquisar ou analisar: Embargos à Execução Fiscal + Renúncia para Programa de Recuperação (Tema 1.317 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos à Execução Fiscal + Renúncia para Programa de Recuperação (Tema 1.317 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.317 STJ, 1ª Seção)
 

@@ -5,8 +5,8 @@ title: "Princípios Constitucionais Fundamentais + Hermenêutica (CF 1-4 + 37 + 
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/principios-constitucionais-fundamentais.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/principios-constitucionais-fundamentais/SKILL.md"
 triggers:
   - "princípios fundamentais"
   - "dignidade da pessoa humana"
@@ -16,10 +16,15 @@ triggers:
   - "bloco de constitucionalidade"
   - "cláusulas pétreas"
   - "eficácia plena contida limitada"
-description: "Princípios constitucionais fundamentais e hermenêutica sob a CF 1-4,\n5, 37 e 60 §4: fundamentos da República e objetivos do Estado;\nprincípios da Administração (LIMPE) e implícitos (proporcionalidade,\nrazoabilidade, segurança jurídica); bloco de constitucionalidade,\nmétodos de interpretação e cláusulas pétreas; eficácia das normas e\nponderação principiológica."
+description: "Usar para pesquisar ou analisar: Princípios Constitucionais Fundamentais + Hermenêutica (CF 1-4 + 37 + 60 §4). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios Constitucionais Fundamentais + Hermenêutica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

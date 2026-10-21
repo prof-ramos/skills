@@ -5,8 +5,8 @@ title: "Súmula Vinculante 47 - Honorários Advocatícios de Natureza Alimentar"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/sumula-vinculante-47-honorarios-alimentar.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/sumula-vinculante-47-honorarios-alimentar/SKILL.md"
 triggers:
   - "SV 47"
   - "Súmula Vinculante 47"
@@ -18,10 +18,15 @@ triggers:
   - "RE 470407"
   - "RE 564132"
   - "ordem cronológica alimentar"
-description: "SV 47 STF (27/05/2015): honorários incluídos na condenação ou destacados\ndo principal são verba alimentar, pagos por precatório ou RPV em ordem\nespecial. Fundada em Lei 8.906/94 art. 23, CF 100 §1º-A e RE 470.407/564.132.\nPermite fracionamento para destaque (CF 100 §8º) e fila própria de alimentares;\nSTF restringe a sumular apenas aos sucumbenciais, excluindo contratuais."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 47 - Honorários Advocatícios de Natureza Alimentar. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 47 - Honorários Advocatícios de Natureza Alimentar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

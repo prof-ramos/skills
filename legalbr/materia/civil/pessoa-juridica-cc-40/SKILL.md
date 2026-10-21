@@ -5,8 +5,8 @@ title: "Pessoa Jurídica (CC 40-69)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/pessoa-juridica-cc-40.md"
+version: 2
+sourcePath: "legalbr/materia/civil/pessoa-juridica-cc-40/SKILL.md"
 triggers:
   - "pessoa juridica"
   - "CC 40"
@@ -22,10 +22,15 @@ triggers:
   - "registro civil PJ"
   - "Lei 14.195/2021"
   - "sociedade limitada unipessoal"
-description: "Pessoa jurídica (CC 40-69): classificação (direito público/privado);\nmodalidades privadas (CC 44, associações, sociedades, fundações,\norganizações religiosas, partidos políticos, EIRELI extinta);\nregistro e início (CC 45); autonomia patrimonial (CC 49-A);\nfundações (CC 62-69); responsabilidade (CC 50, desconsideração)."
+description: "Usar para pesquisar ou analisar: Pessoa Jurídica (CC 40-69). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pessoa Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 40, classificação
 

@@ -5,8 +5,8 @@ title: "Seguros, SUSEP, CNSP e Resseguros"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/seguros-susep-cnsp-resseguros.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/seguros-susep-cnsp-resseguros/SKILL.md"
 triggers:
   - "contrato de seguro"
   - "SUSEP"
@@ -17,10 +17,15 @@ triggers:
   - "corretor de seguros"
   - "sinistro"
   - "apólice"
-description: "Mercado segurador: DL 73/66 + Lei 9.961 (ANS, saúde fora da SUSEP),\nLC 126/07 (resseguro), CC 757-802 + Lei 15.040/24 (marco do contrato de seguro), CNSP (políticas) + SUSEP\n(fiscalização). Tipos (vida, patrimonial, RC, garantia, agro,\nESG-linked), apólice, sinistralidade, regulação, M&A no setor,\nresseguros (local + admitido + eventual), open insurance."
+description: "Usar para pesquisar ou analisar: Seguros, SUSEP, CNSP e Resseguros. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguros, SUSEP, CNSP e Resseguros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

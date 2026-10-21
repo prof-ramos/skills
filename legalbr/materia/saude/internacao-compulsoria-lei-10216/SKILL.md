@@ -5,8 +5,8 @@ title: "Internação Compulsória + Saúde Mental (Lei 10.216/2001 + Lei 13.840/
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/internacao-compulsoria-lei-10216.md"
+version: 2
+sourcePath: "legalbr/materia/saude/internacao-compulsoria-lei-10216/SKILL.md"
 triggers:
   - "internação compulsória"
   - "internação involuntária"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 527 STJ"
   - "Res. CNJ 487/2023"
   - "diretivas antecipadas"
-description: "Lei 10.216/2001 (Reforma Psiquiátrica) — internação ÚLTIMO\nRECURSO (art. 4); 3 espécies (voluntária + involuntária +\nCOMPULSÓRIA — art. 6); involuntária comunica MP em 72h (art. 8\n§1); Lei 13.840/2019 internação involuntária por dependência\nquímica 90d (ADI 6.121 pendente); RAPS (CAPS + UA + SRT); Súm.\n527 STJ máx pena cominada; Res. CNJ 487/2023 antimanicomial."
+description: "Usar para pesquisar ou analisar: Internação Compulsória + Saúde Mental (Lei 10.216/2001 + Lei 13.840/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Internação Compulsória + Saúde Mental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 10.216/2001 — REFORMA PSIQUIÁTRICA
 

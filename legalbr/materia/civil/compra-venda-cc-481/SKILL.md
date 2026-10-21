@@ -5,8 +5,8 @@ title: "Compra e Venda (CC 481-532)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/compra-venda-cc-481.md"
+version: 2
+sourcePath: "legalbr/materia/civil/compra-venda-cc-481/SKILL.md"
 triggers:
   - "contrato de compra e venda CC 481"
   - "CC 482"
@@ -21,10 +21,15 @@ triggers:
   - "venda com reserva"
   - "Sum 308 STJ"
   - "Sum 84 STJ"
-description: "Compra e venda civil (CC 481-532): elementos (coisa, preço, consenso);\ncláusulas especiais (retrovenda, preempção, reserva de domínio, venda\na contento, venda sobre documentos); venda ad mensuram vs ad corpus\n(CC 500); evicção (CC 447-457); vícios redibitórios (CC 441); riscos\n(CC 492); Súm. 84/308/543 STJ."
+description: "Usar para pesquisar ou analisar: Compra e Venda (CC 481-532). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compra e Venda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 481-482, elementos essenciais
 

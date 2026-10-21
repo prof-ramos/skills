@@ -5,8 +5,8 @@ title: "Propaganda Eleitoral Antecipada + Redes Sociais (Lei 9.504 36-A + TSE 23
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/propaganda-antecipada-redes-tse.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/propaganda-antecipada-redes-tse/SKILL.md"
 triggers:
   - "propaganda antecipada"
   - "Lei 9504 36-A"
@@ -18,10 +18,17 @@ triggers:
   - "TSE 23.610"
   - "pré-campanha"
   - "influenciadores políticos"
-description: "Propaganda eleitoral antecipada, **Lei 9.504/97 art. 36-A** (redação\nda Lei 13.165/2015): NÃO configura propaganda antecipada a menção\nà pretensa candidatura + exaltação de qualidades pessoais do\n**pré-candidato**, desde que **não haja pedido explícito de voto**.\nCritério crítico: **palavras mágicas** (\"vote em mim\", \"peço seu\nvoto\"); o **pedido de apoio político é permitido** (art. 36-A §2).\n**Resolução TSE 23.610/2019** (atualizada a cada ciclo) regula.\n**Impulsionamento pago na pré-campanha**: zona de risco, sem pedido\nde voto e com identificação. **Período eleitoral**: propaganda a\npartir de **16 de agosto** do ano da eleição. Multa do art. 36 §3\n(R$ 5.000 a R$ 25.000 ou o custo da propaganda, se maior).\nAplicação a influenciadores políticos."
+description: "Usar para pesquisar ou analisar: Propaganda Eleitoral Antecipada + Redes Sociais (Lei 9.504 36-A + TSE 23.610). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-dezembro-de-2019"]
+reviewedAt: "2026-10-21"
+reviewScope: "Referência ao mapa de atos eleitorais; demais fundamentos pendentes"
 ---
 
 # Propaganda Eleitoral Antecipada + Redes Sociais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 
@@ -256,3 +263,7 @@ description: "Propaganda eleitoral antecipada, **Lei 9.504/97 art. 36-A** (reda�
 - Esquecer **influenciadores** como sujeitos das regras;
 - Não declarar doação por **publicação patrocinada**;
 - Aplicar **CE 324-326** sem ver propaganda negativa (regimes próximos).
+
+## Conferência da compilada em 2026
+
+Consultar [mapa eleitoral](../../../references/eleitoral.md), com revogação do art. 9º-A e atos posteriores. A Res. 23.779/2026 trata do art. 28, § 1º-D, e não altera genericamente as vedações de deepfake.

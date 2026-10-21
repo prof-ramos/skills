@@ -5,8 +5,8 @@ title: "Responsabilidade de Terceiros (CTN 134 + Súm. 430 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/responsabilidade-terceiros-ctn-134.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/responsabilidade-terceiros-ctn-134/SKILL.md"
 triggers:
   - "responsabilidade de terceiros"
   - "CTN 134"
@@ -16,10 +16,15 @@ triggers:
   - "inventariante"
   - "tabelião responsabilidade tributária"
   - "solidária subsidiária"
-description: "Responsabilidade de terceiros CTN 134: solidária SUBSIDIÁRIA\ncom o contribuinte nos atos em que intervieram ou pelas omissões\npelas quais forem responsáveis; pressuposto = impossibilidade\nde exigir do contribuinte; rol taxativo (pais, tutores,\ncuradores, administradores, inventariantes, síndicos, tabeliães,\nsócios em liquidação); só penalidades de caráter MORATÓRIO."
+description: "Usar para pesquisar ou analisar: Responsabilidade de Terceiros (CTN 134 + Súm. 430 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade de Terceiros (CTN 134)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

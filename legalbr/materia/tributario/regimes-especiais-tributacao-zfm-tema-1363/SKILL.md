@@ -5,8 +5,8 @@ title: "PIS/COFINS sobre Receitas de Serviços na Zona Franca de Manaus (Tema 1.
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/regimes-especiais-tributacao-zfm-tema-1363.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/regimes-especiais-tributacao-zfm-tema-1363/SKILL.md"
 triggers:
   - "Tema 1.363 STF"
   - "Zona Franca Manaus"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 10.996/04"
   - "DL 288/67"
   - "imunidade incentivo ZFM"
-description: "Tema 1.363 STF (ARE 1.524.893, 30/11/2024): o STF reconheceu que\né INFRACONSTITUCIONAL (ausência de repercussão geral) a controvérsia\nsobre incidência de PIS/COFINS nas receitas de prestação de serviços\na PF e PJ na Zona Franca de Manaus, devolvendo a matéria ao STJ. O\nmérito foi decidido pelo STJ no Tema 1.239 (11/06/2025): NÃO incidem\nPIS/COFINS sobre serviços e venda de mercadorias nacionais e\nnacionalizadas na ZFM. CF 195 I \"b\"; DL 288/67 + ADCT 40."
+description: "Usar para pesquisar ou analisar: PIS/COFINS sobre Receitas de Serviços na Zona Franca de Manaus (Tema 1.363 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS na ZFM: Serviços e Mercadorias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

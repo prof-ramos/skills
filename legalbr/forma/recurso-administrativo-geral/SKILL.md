@@ -5,8 +5,8 @@ title: "Recurso Administrativo Geral"
 category: "forma"
 materia: null
 documentType: "recurso-administrativo-geral"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-administrativo-geral.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-administrativo-geral/SKILL.md"
 triggers:
   - "recurso administrativo"
   - "Lei 9.784/99"
@@ -16,10 +16,15 @@ triggers:
   - "duplo grau administrativo"
   - "efeito suspensivo administrativo"
   - "reformatio in pejus"
-description: "Recurso administrativo (Lei 9.784/1999 arts. 56-65): cabimento contra\ndecisão em processo administrativo; legitimidade ampla; prazo de 10\ndias salvo regra especial; reformatio in pejus permitida com prévia\nciência (art. 64 §p ún); efeito suspensivo facultativo (art. 61);\nrevisão a qualquer tempo por fatos novos, vedado o agravamento\n(art. 65); decadência de 5 anos para anular atos favoráveis (art. 54)."
+description: "Usar para redigir ou revisar: Recurso Administrativo Geral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Administrativo Geral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Mediação na Administração Pública (Lei 13.140/2015 + LINDB 26)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/mediacao-administracao-lei-13140.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/mediacao-administracao-lei-13140/SKILL.md"
 triggers:
   - "mediação na Administração"
   - "autocomposição da administração pública"
@@ -18,10 +18,15 @@ triggers:
   - "dispute board"
   - "solução consensual"
   - "arbitragem com Fazenda"
-description: "Mediação e autocomposição na Administração (Lei 13.140/2015 +\nLINDB 26 + Lei 9.307/96 arbitragem): câmaras administrativas\n(CCAF/AGU); litígios entre entes (art. 32); litígios com\nparticulares (art. 33-36); acordo administrativo substitutivo\n(LINDB 26); arbitragem em contratos administrativos (Lei 14.133\narts. 151-154); dispute boards."
+description: "Usar para pesquisar ou analisar: Mediação na Administração Pública (Lei 13.140/2015 + LINDB 26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mediação e Autocomposição na Administração Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Atraso na Entrega de Imóvel, Cláusula Penal Moratória x Lucros Cessan
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/atraso-entrega-imovel-clausula-penal-tema-970.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/atraso-entrega-imovel-clausula-penal-tema-970/SKILL.md"
 triggers:
   - "atraso entrega imóvel construtora"
   - "cláusula penal moratória imóvel"
@@ -18,10 +18,15 @@ triggers:
   - "prazo de tolerância 180 dias"
   - "Lei 13.786/2018 distrato"
   - "perdas e danos imóvel atraso"
-description: "Tema 970 STJ: a cláusula penal moratória pelo atraso na\nentrega de imóvel, fixada em valor equivalente ao locativo\n(ex. 0,5% ao mês), AFASTA cumulação com lucros cessantes.\nSe a multa for de valor não equivalente, admite-se cumulação.\nLei 13.786/2018 (Lei do Distrato). Súm. 543 STJ aplicação ao\npromissário comprador."
+description: "Usar para pesquisar ou analisar: Atraso na Entrega de Imóvel, Cláusula Penal Moratória x Lucros Cessantes (Tema 970 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atraso na Entrega de Imóvel: Cláusula Penal Moratória x Lucros Cessantes (Tema 970 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 970 STJ)
 

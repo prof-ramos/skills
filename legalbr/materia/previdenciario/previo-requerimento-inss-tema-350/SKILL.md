@@ -5,8 +5,8 @@ title: "Prévio Requerimento INSS (Tema 350 STF + RE 631.240)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/previo-requerimento-inss-tema-350.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/previo-requerimento-inss-tema-350/SKILL.md"
 triggers:
   - "Tema 350"
   - "RE 631.240"
@@ -16,10 +16,15 @@ triggers:
   - "exaurimento administrativo"
   - "mora INSS"
   - "revisão benefício"
-description: "Tema 350 STF (RE 631.240, Min. Roberto Barroso, 03/09/2014):\nconcessão de benefício previdenciário depende de prévio\nrequerimento administrativo (não exaurimento). Dispensa em\nrevisão sem fato novo, recusa notória, ou mora administrativa.\nRegra de transição preserva ações ajuizadas até 03/09/2014.\nSTJ Tema 660 (REsp 1.369.834) aderiu integralmente."
+description: "Usar para pesquisar ou analisar: Prévio Requerimento INSS (Tema 350 STF + RE 631.240). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prévio Requerimento INSS (Tema 350 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

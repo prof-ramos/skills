@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/cbs-contribuicao-bens-servicos-lc-214.md"
+sourcePath: "legalbr/materia/tributario/cbs-contribuicao-bens-servicos-lc-214/SKILL.md"
 triggers:
   - "CBS"
   - "Contribuição sobre Bens e Serviços"
@@ -15,10 +15,15 @@ triggers:
   - "substituição PIS COFINS"
   - "alíquota teste 0,9%"
   - "não cumulatividade plena"
-description: "CBS sob CF 195 V e LC 214: incidência, não cumulatividade, crédito,\nalíquotas, split payment, cashback, regimes e transição do PIS/Cofins,\ncom cronograma dos documentos fiscais eletrônicos."
+description: "Usar para pesquisar ou analisar: CBS, Contribuição sobre Bens e Serviços (EC 132/2023 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CBS, Contribuição sobre Bens e Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

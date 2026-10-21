@@ -5,8 +5,8 @@ title: "Programa de Parcerias de Investimentos, PPI (Lei 13.334/2016)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/ppi-lei-13334.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ppi-lei-13334/SKILL.md"
 triggers:
   - "PPI"
   - "Lei 13.334/2016"
@@ -16,10 +16,15 @@ triggers:
   - "projetos de infraestrutura"
   - "concessão de aeroportos"
   - "concessão de rodovias"
-description: "PPI (Lei 13.334/2016 + Dec. 11.412/2023): programa federal para\ncoordenar PPPs + concessões + privatizações; qualificação de\nprojetos pelo Conselho do PPI confere apoio + tramitação\nprioritária + financiamento incentivado (debêntures de\ninfraestrutura); integração com PND + Lei 8.987 + Lei 11.079;\nobjetiva expansão de infraestrutura + segurança jurídica +\natratividade ao capital privado."
+description: "Usar para pesquisar ou analisar: Programa de Parcerias de Investimentos, PPI (Lei 13.334/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Programa de Parcerias de Investimentos (PPI), Lei 13.334/2016
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

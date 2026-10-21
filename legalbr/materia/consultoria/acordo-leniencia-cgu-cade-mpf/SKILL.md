@@ -5,8 +5,8 @@ title: "Acordos de Leniência (CGU/AGU + CADE + MPF)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/acordo-leniencia-cgu-cade-mpf.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/acordo-leniencia-cgu-cade-mpf/SKILL.md"
 triggers:
   - "acordo de leniência"
   - "leniência anticorrupção"
@@ -15,10 +15,15 @@ triggers:
   - "acordo de colaboração"
   - "leniência empresarial"
   - "DPA NPA"
-description: "Acordos de leniência: anticorrupção (Lei 12.846 art. 16-17 +\nDecreto 11.129 + Portaria CGU 909/15 + MP 703/15 caducada),\nconcorrencial (Lei 12.529 art. 86-87 + Resolução CADE 21/2018),\ntermo de compromisso (CADE TCC), colaboração premiada criminal\n(Lei 12.850 art. 4, PJ), interação com MPF (CNMP 222/2021),\nTCU + improbidade (Lei 8.429), benefícios e riscos."
+description: "Usar para pesquisar ou analisar: Acordos de Leniência (CGU/AGU + CADE + MPF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordos de Leniência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

@@ -5,8 +5,8 @@ title: "Acumulação de Cargos Públicos (CF 37 XVI-XVII + Tema 1.081 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/acumulacao-cargos-cf-37-xvi.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acumulacao-cargos-cf-37-xvi/SKILL.md"
 triggers:
   - "acumulação de cargos"
   - "CF 37 XVI"
@@ -20,10 +20,15 @@ triggers:
   - "aposentadoria + cargo"
   - "Tema 377 STF"
   - "teto remuneratório acumulação"
-description: "Acumulação de cargos (CF 37 XVI/XVII): vedação geral + exceções\ntaxativas (2 professores; 1 prof+1 técnico; 2 saúde regulamentados);\nexige compatibilidade de horários (Tema 1.081 STF, sem teto fixo\nde 60h/sem); estende a empregos/funções/empresas estatais (XVII);\naposentadoria + cargo só nas hipóteses do XVI (CF 37 §10)."
+description: "Usar para pesquisar ou analisar: Acumulação de Cargos Públicos (CF 37 XVI-XVII + Tema 1.081 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acumulação de Cargos Públicos (CF 37 XVI-XVII)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco constitucional
 

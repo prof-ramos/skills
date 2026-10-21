@@ -5,8 +5,8 @@ title: "Associações Civis: Exclusão de Associado, Assembleias e Devido Proces
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/associacoes-civis-exclusao-associado-cc-57.md"
+version: 2
+sourcePath: "legalbr/materia/civil/associacoes-civis-exclusao-associado-cc-57/SKILL.md"
 triggers:
   - "exclusão de associado"
   - "CC 57 justa causa"
@@ -21,10 +21,15 @@ triggers:
   - "organização religiosa interna corporis"
   - "destituição de diretoria de associação"
   - "desfiliação de associado"
-description: "Contencioso associativo (clubes, igrejas, entidades de classe): exclusão de\nassociado por justa causa com defesa e recurso (CC 57), eficácia horizontal do\ndevido processo (RE 201.819 STF), competência e convocação da assembleia\n(CC 59-60), anulação de deliberações (CC 48) e limites da revisão judicial."
+description: "Usar para pesquisar ou analisar: Associações Civis: Exclusão de Associado, Assembleias e Devido Processo (CC 53-61). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Associações Civis: Exclusão de Associado, Assembleias e Devido Processo (CC 53-61)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa (CC 53-61)
 

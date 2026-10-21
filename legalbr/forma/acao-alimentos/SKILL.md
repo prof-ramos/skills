@@ -5,8 +5,8 @@ title: "Ação de Alimentos"
 category: "forma"
 materia: null
 documentType: "acao-alimentos"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-alimentos.md"
+version: 2
+sourcePath: "legalbr/forma/acao-alimentos/SKILL.md"
 triggers:
   - "ação de alimentos"
   - "pensão alimentícia"
@@ -17,10 +17,15 @@ triggers:
   - "prisão civil do devedor de alimentos Súm. 309 STJ"
   - "binômio necessidade e possibilidade"
   - "CC 1.694 a 1.710"
-description: "Ação de alimentos sob a Lei 5.478/1968, CC 1.694 a 1.710 e CPC 528 a\n533: alimentos provisórios initio litis com prova pré-constituída;\ntrinômio necessidade, possibilidade e proporcionalidade; cumprimento\npelo rito da prisão (Súm. 309 STJ) ou da expropriação; modalidades\ngravídicos (Lei 11.804/2008) e avoengos complementares e subsidiários\n(CC 1.696 + Súm. 596 STJ); revisão e exoneração com efeitos a partir\nda citação (Súm. 621 STJ)."
+description: "Usar para redigir ou revisar: Ação de Alimentos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

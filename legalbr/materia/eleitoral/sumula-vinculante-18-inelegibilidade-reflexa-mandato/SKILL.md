@@ -5,8 +5,8 @@ title: "Súmula Vinculante 18, Inelegibilidade Reflexa e Dissolução do Víncul
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/sumula-vinculante-18-inelegibilidade-reflexa-mandato.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/sumula-vinculante-18-inelegibilidade-reflexa-mandato/SKILL.md"
 triggers:
   - "SV 18"
   - "Súmula Vinculante 18"
@@ -18,10 +18,15 @@ triggers:
   - "separação fraude eleitoral"
   - "RE 568.596"
   - "morte cônjuge inelegibilidade"
-description: "SV 18 STF (29/10/2009, RE 568.596): \"A dissolução da sociedade\nou do vínculo conjugal, no curso do mandato, não afasta a\ninelegibilidade prevista no §7 do art. 14 CF.\" Veda burla via\ndivórcio simulado; morte do titular durante o mandato é exceção\n(não há presunção de fraude)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 18, Inelegibilidade Reflexa e Dissolução do Vínculo no Curso do Mandato. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 18, Inelegibilidade Reflexa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

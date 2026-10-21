@@ -5,8 +5,8 @@ title: "Retenção de 11% na Cessão de Mão de Obra (Lei 8.212 art. 31 + Temas 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/retencao-11-cessao-mao-obra-lei-8212-31.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/retencao-11-cessao-mao-obra-lei-8212-31/SKILL.md"
 triggers:
   - "retenção de 11% nota fiscal"
   - "cessão de mão de obra retenção"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 425 STJ Simples"
   - "retenção previdenciária tomador de serviço"
   - "empreitada de mão de obra retenção"
-description: "Retenção de 11% do valor bruto da nota fiscal na cessão de mão de obra\n(Lei 8.212/91 art. 31, redação Lei 9.711/98): técnica de arrecadação,\nnão tributo novo (Tema 80 STJ) e constitucional como substituição\ntributária (Tema 302 STF, RE 603.191); responsabilidade EXCLUSIVA da\ncontratante pelo montante retido (Tema 335 STJ); inaplicável a optantes\ndo Simples (Súm. 425 STJ); compensação/restituição pela prestadora;\nlitígios de construtoras e prestadoras na JF."
+description: "Usar para pesquisar ou analisar: Retenção de 11% na Cessão de Mão de Obra (Lei 8.212 art. 31 + Temas 80/335 STJ + Tema 302 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Retenção de 11% na Cessão de Mão de Obra (Lei 8.212/91, art. 31)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime legal
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 27, Justiça Estadual em Causas Consumidor x Telefoni
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/sumula-vinculante-27-justica-estadual-telefonia.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/sumula-vinculante-27-justica-estadual-telefonia/SKILL.md"
 triggers:
   - "SV 27"
   - "Súmula Vinculante 27"
@@ -18,10 +18,15 @@ triggers:
   - "assinatura básica"
   - "RE 571.572"
   - "competência consumidor concessionária"
-description: "SV 27 STF (16/12/2009, RE 571.572): \"Compete à Justiça estadual\njulgar causas entre consumidor e concessionária de telefonia,\nquando a ANATEL não seja litisconsorte passiva necessária,\nassistente nem opoente.\" Relação consumerista é bilateral\n(CDC); ANATEL apenas regula, sem ser parte material."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 27, Justiça Estadual em Causas Consumidor x Telefonia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 27, Justiça Estadual em Telefonia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

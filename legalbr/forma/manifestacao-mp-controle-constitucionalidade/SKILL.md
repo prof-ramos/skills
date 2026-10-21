@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "manifestacao-mp-controle"
 version: 2
-sourcePath: "lib/skills/official/forma/manifestacao-mp-controle-constitucionalidade.md"
+sourcePath: "legalbr/forma/manifestacao-mp-controle-constitucionalidade/SKILL.md"
 triggers:
   - "manifestação PGR"
   - "parecer da PGR em ADI"
@@ -14,10 +14,15 @@ triggers:
   - "custos constitutionis"
   - "CF 103 §1º oitiva da PGR"
   - "manifestação do MP em controle concentrado"
-description: "Manifestação da PGR em controle concentrado (CF 103 §1º; Lei 9.868/1999\narts. 8º e 12; Lei 9.882/1999 art. 5º §2º): cabimento e análise material\nda (in)constitucionalidade com técnicas decisórias (interpretação\nconforme, nulidade sem redução, modulação) e posicionamento conclusivo.\nEm RE com repercussão geral, também opina (CF 103 §1º; RISTF)."
+description: "Usar para redigir ou revisar: Manifestação MP em Controle de Constitucionalidade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Manifestação MP em Controle Concentrado
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

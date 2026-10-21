@@ -5,18 +5,23 @@ title: "Revisão da Vida Toda (STF Tema 1.102 — REVERTIDO em 26/11/2025)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/revisao-vida-toda.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/revisao-vida-toda/SKILL.md"
 triggers:
   - "revisão da vida toda"
   - "Tema 1.102 STF"
   - "art. 3 Lei 9.876/99"
   - "RVT"
   - "regra definitiva art. 29"
-description: "Revisão da Vida Toda sob a Lei 8.213/91 (art. 29) e o art. 3º da Lei 9.876/99:\ntese fixada e posteriormente revertida pelo STF no Tema 1.102 e nas ADIs\n2.110/2.111, com declaração de constitucionalidade da regra de transição;\nmodulação da reversão e irrepetibilidade dos valores recebidos de boa-fé;\nconsequências práticas e teses alternativas para reorientar a estratégia revisional."
+description: "Usar para pesquisar ou analisar: Revisão da Vida Toda (STF Tema 1.102 — REVERTIDO em 26/11/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão da Vida Toda — Tema 1.102 STF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Status: **REVERTIDA** (Embargos 26/11/2025)
 

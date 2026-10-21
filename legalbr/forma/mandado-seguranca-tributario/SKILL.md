@@ -5,8 +5,8 @@ title: "Mandado de Segurança Tributário"
 category: "forma"
 materia: null
 documentType: "mandado-seguranca-tributario"
-version: 1
-sourcePath: "lib/skills/official/forma/mandado-seguranca-tributario.md"
+version: 2
+sourcePath: "legalbr/forma/mandado-seguranca-tributario/SKILL.md"
 triggers:
   - "mandado de segurança tributário"
   - "MS tributário"
@@ -15,10 +15,15 @@ triggers:
   - "impetração preventiva contra cobrança de tributo"
   - "Súm. 460 STJ vedação à compensação por MS"
   - "direito líquido e certo Lei 12.016/09"
-description: "MS tributário sob a Lei 12.016/09 e CTN 151 IV: cabimento repressivo\nou preventivo para afastar exigência inconstitucional, declarar\ncompensação ou liberar mercadorias; depósito integral em dinheiro\ncomo suspensão da exigibilidade; liminar e efeitos patrimoniais\napenas a partir da impetração."
+description: "Usar para redigir ou revisar: Mandado de Segurança Tributário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

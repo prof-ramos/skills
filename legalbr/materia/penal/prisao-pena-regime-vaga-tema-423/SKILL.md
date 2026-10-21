@@ -5,8 +5,8 @@ title: "Cumprimento de Pena em Regime Menos Gravoso por Falta de Vaga (Tema 423 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/prisao-pena-regime-vaga-tema-423.md"
+version: 2
+sourcePath: "legalbr/materia/penal/prisao-pena-regime-vaga-tema-423/SKILL.md"
 triggers:
   - "Tema 423 STF"
   - "falta vaga semiaberto"
@@ -16,10 +16,15 @@ triggers:
   - "prisão domiciliar por falta de vaga"
   - "LEP art. 117"
   - "regime aberto residencial"
-description: "Tema 423 STF (RE 641.320, 11/05/2016) + SV 56: a FALTA DE\nESTABELECIMENTO PENAL adequado ao cumprimento NÃO autoriza\na manutenção do condenado em regime mais GRAVE. Soluções:\n(i) saída antecipada; (ii) liberdade eletrônica/monitoramento;\n(iii) regime aberto residencial; (iv) prisão domiciliar.\nCF 5 XLVI + XLVIII. LEP arts. 87, 88, 91, 93."
+description: "Usar para pesquisar ou analisar: Cumprimento de Pena em Regime Menos Gravoso por Falta de Vaga (Tema 423 STF + SV 56). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falta de Vaga + Regime Menos Gravoso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "ADPF 187: Marcha da Maconha (Liberdade de Reunião e Expressão)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/adpf-187-marcha-maconha.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adpf-187-marcha-maconha/SKILL.md"
 triggers:
   - "ADPF 187"
   - "Marcha da Maconha"
@@ -16,10 +16,15 @@ triggers:
   - "debate público drogas"
   - "CF 5 IV IX XVI"
   - "manifestação descriminalização drogas"
-description: "ADPF 187 (Celso de Mello, 15/06/2011, unânime): interpretação\nconforme do CP 287: defesa da descriminalização de drogas\nem manifestação pacífica não é apologia ao crime; CF 5 IV +\nIX + XVI protegem o debate público."
+description: "Usar para pesquisar ou analisar: ADPF 187: Marcha da Maconha (Liberdade de Reunião e Expressão). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 187: Marcha da Maconha
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

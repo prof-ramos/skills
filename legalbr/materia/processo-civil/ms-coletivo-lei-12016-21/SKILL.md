@@ -5,8 +5,8 @@ title: "Mandado de Segurança Coletivo (CF 5 LXX + Lei 12.016/2009 arts. 21-22)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/ms-coletivo-lei-12016-21.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/ms-coletivo-lei-12016-21/SKILL.md"
 triggers:
   - "mandado de segurança coletivo"
   - "MS coletivo"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 631 STF"
   - "Tema 499 STF"
   - "substituição processual"
-description: "MS coletivo sob CF 5 LXX + Lei 12.016/2009 arts. 21-22: legitimados\npartido com representação + sindicato/entidade de classe + associação\n≥ 1 ano (em defesa dos filiados); SUBSTITUIÇÃO processual no MS\ncoletivo (Súm. 629 STF + Tema 1.119: sem autorização específica\nnem lista); coisa julgada limitada aos membros do grupo (art. 22);\noitiva prévia do art. 22 §2 declarada inconstitucional (ADI 4.296\nSTF); sem honorários (Súm. 105 STJ)."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança Coletivo (CF 5 LXX + Lei 12.016/2009 arts. 21-22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Coletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional, CF 5 LXX
 

@@ -5,8 +5,8 @@ title: "Taxa SELIC + Juros Moratórios em Dívidas Civis (Tema 1.368 STJ)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/selic-dividas-civis-tema-1368.md"
+version: 2
+sourcePath: "legalbr/materia/civil/selic-dividas-civis-tema-1368/SKILL.md"
 triggers:
   - "Tema 1.368 STJ"
   - "SELIC dívidas civis"
@@ -17,10 +17,15 @@ triggers:
   - "vedação cumulação SELIC IPCA"
   - "SELIC IPCA dedução"
   - "juros de mora civis"
-description: "Tema 1.368 STJ (Corte Especial): antes da entrada em vigor da Lei\n14.905/2024, o art. 406 CC deve ser interpretado no sentido de que\na SELIC é a taxa de juros de mora aplicável às dívidas de natureza\ncivil. SELIC tem natureza HÍBRIDA (juros + correção), vedada a\ncumulação com IPCA/INPC ou 1% a.m. Após a Lei 14.905/2024, regime\ndual: taxa legal = SELIC deduzido o IPCA (CC 406 §1) + correção\npelo IPCA (CC 389 par. único), com piso zero (CC 406 §3)."
+description: "Usar para pesquisar ou analisar: Taxa SELIC + Juros Moratórios em Dívidas Civis (Tema 1.368 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taxa SELIC + Juros Moratórios em Dívidas Civis (Tema 1.368 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.368 STJ, Corte Especial)
 

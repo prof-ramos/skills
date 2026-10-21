@@ -5,8 +5,8 @@ title: "ADC 19 + ADI 4424: Lei Maria da Penha (Lei 11.340/2006)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/adc-19-adi-4424-maria-da-penha.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adc-19-adi-4424-maria-da-penha/SKILL.md"
 triggers:
   - "ADC 19"
   - "ADI 4424"
@@ -17,10 +17,15 @@ triggers:
   - "Súmula 542 STJ"
   - "feminicídio Lei 13.104"
   - "decadência 12 meses violência doméstica"
-description: "ADC 19 + ADI 4424 (Marco Aurélio, 09/02/2012, unânime): Lei\n11.340/2006 constitucional; lesão corporal leve em violência\ndoméstica = ação penal pública incondicionada; vedação ao\nJECRIM (art. 41). Base: CF 226 §8 + Belém do Pará + CEDAW.\nLei 15.438/2026: decadência de 12 meses para queixa ou\nrepresentação em violência doméstica."
+description: "Usar para pesquisar ou analisar: ADC 19 + ADI 4424: Lei Maria da Penha (Lei 11.340/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADC 19 + ADI 4424: Lei Maria da Penha
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

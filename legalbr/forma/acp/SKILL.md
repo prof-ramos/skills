@@ -5,8 +5,8 @@ title: "Ação Civil Pública (Lei 7.347/85)"
 category: "forma"
 materia: null
 documentType: "acp"
-version: 1
-sourcePath: "lib/skills/official/forma/acp.md"
+version: 2
+sourcePath: "legalbr/forma/acp/SKILL.md"
 triggers:
   - "ação civil pública"
   - "ACP"
@@ -18,10 +18,15 @@ triggers:
   - "foro do local do dano"
   - "coisa julgada erga omnes"
   - "inquérito civil e TAC fundo de reparação"
-description: "Ação civil pública sob a Lei 7.347/85 e CDC 81-104: objeto material\namplo (meio ambiente, consumidor, patrimônio público e demais difusos\ne coletivos) com vedações do parágrafo único; legitimidade ativa\nconcorrente e disjuntiva; foro do local do dano; coisa julgada erga\nomnes sem limitação territorial; TAC, inquérito civil, fundo de\nreparação e isenção de custas salvo má-fé."
+description: "Usar para redigir ou revisar: Ação Civil Pública (Lei 7.347/85). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Civil Pública (ACP)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Microssistema
 

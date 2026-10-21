@@ -5,8 +5,8 @@ title: "Recall e Dever de Informar (CDC 10 + Port. SENACON 487)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/recall-produto-cdc-10.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/recall-produto-cdc-10/SKILL.md"
 triggers:
   - "CDC 10"
   - "SENACON"
@@ -17,10 +17,15 @@ triggers:
   - "notificação imediata"
   - "mídia de massa"
   - "INMETRO recall"
-description: "Recall sob CDC 10 + Port. SENACON 487/2012 (alterada por Portarias\nsubsequentes): dever do fornecedor de comunicar imediatamente\nautoridade competente e consumidores ao identificar defeito que\napresente alto grau de nocividade ou periculosidade; publicidade\nna mídia (rádio, TV, jornais); ônus integral do fornecedor;\nresponsabilidade objetiva persiste; INMETRO + ANVISA + DENATRAN\ncomo reguladores; consumidor que omite e usa = culpa concorrente."
+description: "Usar para pesquisar ou analisar: Recall e Dever de Informar (CDC 10 + Port. SENACON 487). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recall e Dever de Informar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

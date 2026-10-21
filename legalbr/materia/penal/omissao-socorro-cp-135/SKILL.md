@@ -5,8 +5,8 @@ title: "Omissão de Socorro (CP 135) + Condicionamento Atendimento (CP 135-A)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/omissao-socorro-cp-135.md"
+version: 2
+sourcePath: "legalbr/materia/penal/omissao-socorro-cp-135/SKILL.md"
 triggers:
   - "CP 135"
   - "omissão de socorro"
@@ -17,10 +17,15 @@ triggers:
   - "crime omissivo próprio"
   - "garantidor CP 13"
   - "omissão imprópria"
-description: "Omissão de socorro CP 135 (det. 1-6m OU multa): omissivo próprio,\npune não-socorrer criança abandonada/extraviada + ferido +\ninválido + pessoa em grave e iminente perigo, quando possível sem\nrisco pessoal; aumenta 1/2 se lesão grave + triplica se morte;\nCP 135-A (Lei 12.653/2012), condicionar atendimento emergencial\na garantia: det. 3m-1a + multa, até o dobro se lesão grave, até\no triplo se morte."
+description: "Usar para pesquisar ou analisar: Omissão de Socorro (CP 135) + Condicionamento Atendimento (CP 135-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Omissão de Socorro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 135 caput)
 

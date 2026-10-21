@@ -5,8 +5,8 @@ title: "Autotutela Administrativa (Súm. 346 + 473 STF + Lei 9.784)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/autotutela-sumulas-346-473.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/autotutela-sumulas-346-473/SKILL.md"
 triggers:
   - "autotutela"
   - "Súm. 346 STF"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 9.784 art. 53"
   - "Lei 9.784 art. 54"
   - "decadência administrativa"
-description: "Autotutela (Súm. 346 + 473 STF + Lei 9.784/99 arts. 53-55):\npoder-dever da Adm de anular atos ilegais (ex tunc) + revogar\natos inconvenientes (ex nunc); contraditório obrigatório\n(Tema 138 STF, RE 594.296); decadência quinquenal salvo má-fé (art. 54);\ndiferenças com cassação (descumprimento beneficiário) +\ncaducidade (legislação nova) + contraposição (ato contrário)."
+description: "Usar para pesquisar ou analisar: Autotutela Administrativa (Súm. 346 + 473 STF + Lei 9.784). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Autotutela Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

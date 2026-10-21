@@ -5,8 +5,8 @@ title: "Competência para Violação de Direito Autoral (Tema 580 STF + CP 184 �
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/competencia-violacao-direito-autoral-tema-580.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/competencia-violacao-direito-autoral-tema-580/SKILL.md"
 triggers:
   - "Tema 580 STF"
   - "violação direito autoral"
@@ -14,10 +14,15 @@ triggers:
   - "CP art. 184 §2"
   - "competência justiça federal autoral"
   - "pirataria CD DVD"
-description: "Tema 580 STF (RE 702.362, j. 18/12/2023): compete à JUSTIÇA\nFEDERAL processar e julgar o crime de violação de direito\nautoral (CP 184 §2) de caráter TRANSNACIONAL, com base na\nCF 109 V (tratado internacional de proteção autoral +\ntransnacionalidade da conduta). Na pirataria sem caráter\ntransnacional, a competência é ESTADUAL. Súm. 502 STJ: é típica\na exposição à venda de CDs/DVDs piratas (CP 184 §2)."
+description: "Usar para pesquisar ou analisar: Competência para Violação de Direito Autoral (Tema 580 STF + CP 184 §2). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violação de Direito Autoral - Competência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

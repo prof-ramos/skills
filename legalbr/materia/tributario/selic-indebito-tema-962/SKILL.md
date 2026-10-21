@@ -5,8 +5,8 @@ title: "Selic em Repetição de Indébito (Tema 962 STF + RE 1.063.187)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/selic-indebito-tema-962.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/selic-indebito-tema-962/SKILL.md"
 triggers:
   - "Tema 962 STF"
   - "RE 1.063.187"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 505 STJ"
   - "juros de mora tributário"
   - "depósito judicial Selic"
-description: "Tema 962 STF (RE 1.063.187, Min. Dias Toffoli, 27/09/2021):\ninconstitucional a incidência de IRPJ/CSLL sobre Selic em\nrepetição de indébito tributário. Modulação preserva ações até\n17/09/2021. Tema 504 STJ permanece: Selic em depósito judicial\nsegue tributada (natureza remuneratória, não moratória). PIS/\nCOFINS sobre Selic: Tema 1.237 STJ (integra a base)."
+description: "Usar para pesquisar ou analisar: Selic em Repetição de Indébito (Tema 962 STF + RE 1.063.187). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Selic em Repetição de Indébito (Tema 962 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

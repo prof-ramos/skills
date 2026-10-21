@@ -5,8 +5,8 @@ title: "Intervenção da Defensoria como Custos Vulnerabilis"
 category: "forma"
 materia: null
 documentType: "custos-vulnerabilis"
-version: 1
-sourcePath: "lib/skills/official/forma/custos-vulnerabilis.md"
+version: 2
+sourcePath: "legalbr/forma/custos-vulnerabilis/SKILL.md"
 triggers:
   - "custos vulnerabilis"
   - "intervenção da Defensoria"
@@ -14,10 +14,15 @@ triggers:
   - "tutela coletiva vulneráveis"
   - "amicus curiae defensorial"
   - "hipervulnerabilidade"
-description: "Intervenção institucional da Defensoria Pública como custos vulnerabilis\n(fiscal dos vulneráveis): atuação em processos onde haja interesse\nindividual ou coletivo de pessoas vulneráveis, mesmo sem assistir as\npartes; fundamento LC 80 art. 4 XI + CF 134 + EC 80/2014 + ADI 3943;\nmanifestação não vincula nem suplanta; permite influir na decisão por\nmeio de tese institucional; STJ admitiu em REsp 1.712.163 e HC coletivos."
+description: "Usar para redigir ou revisar: Intervenção da Defensoria como Custos Vulnerabilis. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Custos Vulnerabilis: Atuação Institucional da DP
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

@@ -5,8 +5,8 @@ title: "Habeas Corpus"
 category: "forma"
 materia: null
 documentType: "habeas-corpus"
-version: 3
-sourcePath: "lib/skills/official/forma/habeas-corpus.md"
+version: 2
+sourcePath: "legalbr/forma/habeas-corpus/SKILL.md"
 triggers:
   - "habeas corpus"
   - "constrangimento ilegal"
@@ -16,10 +16,15 @@ triggers:
   - "HC liberatório e HC preventivo salvo-conduto"
   - "arts. 647 a 667 CPP"
   - "concessão de ofício e HC coletivo art. 647-A"
-description: "Habeas corpus (CF 5º LXVIII; arts. 647 a 667 CPP e art. 647-A, Lei\n14.836/2024):\nação constitucional contra coação à liberdade de locomoção; prova\nPRÉ-CONSTITUÍDA (sem dilação probatória); cabe repressivo ou preventivo;\ncompetência pela autoridade coatora; legitimidade ampla (qualquer pessoa,\ninclusive em causa própria, sem advogado); admite HC COLETIVO (HC 143.641/SP);\ntrancamento de ação só com atipicidade, extinção ou ausência de justa causa\ndemonstradas de plano; Súm. 691 STF mitigada em flagrante ilegalidade."
+description: "Usar para redigir ou revisar: Habeas Corpus. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Habeas Corpus
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e natureza
 

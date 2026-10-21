@@ -5,8 +5,8 @@ title: "Coisa Julgada Tributária e Tribunal Pleno (Temas 881 e 885 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/coisa-julgada-tributaria-temas-881-885.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/coisa-julgada-tributaria-temas-881-885/SKILL.md"
 triggers:
   - "coisa julgada tributária"
   - "Tema 881 STF"
@@ -16,10 +16,15 @@ triggers:
   - "cessação efeitos coisa julgada"
   - "tributos trato continuado"
   - "irretroatividade anterioridade"
-description: "Coisa julgada em matéria tributária Temas 881 (RE 949.297) e 885\n(RE 955.227) STF (fev/2023): coisa julgada em ações sobre tributo\nDE TRATO CONTINUADO CESSA SEUS EFEITOS quando STF decide em\nsentido contrário em controle CONCENTRADO (ADI/ADC) ou RE com\nREPERCUSSÃO GERAL, independentemente de ação rescisória, mas com\nobservância de IRRETROATIVIDADE + ANTERIORIDADE; impacto na\nsegurança jurídica + planejamento."
+description: "Usar para pesquisar ou analisar: Coisa Julgada Tributária e Tribunal Pleno (Temas 881 e 885 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Coisa Julgada Tributária (Temas 881 e 885 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal + jurisprudencial
 

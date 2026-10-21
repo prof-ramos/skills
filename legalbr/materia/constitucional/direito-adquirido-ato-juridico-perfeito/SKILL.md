@@ -5,8 +5,8 @@ title: "Direito Adquirido + Ato Jurídico Perfeito + Coisa Julgada (CF 5 XXXVI)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/direito-adquirido-ato-juridico-perfeito.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/direito-adquirido-ato-juridico-perfeito/SKILL.md"
 triggers:
   - "direito adquirido"
   - "ato jurídico perfeito"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 359 STF"
   - "Súm. 654 STF"
   - "LINDB 20-30"
-description: "Direito adquirido, ato jurídico perfeito, coisa julgada e segurança jurídica\nsob CF 5 XXXVI + LINDB (arts. 5, 6 e 20-30): tricotomia direito adquirido/\nexpectativa/consumado; tempus regit actum e irretroatividade; relativização\nexcepcional da coisa julgada (Tema 392 / RE 363.889); inexistência de DA a\nregime jurídico (Temas 24 e 41 STF); proventos pela lei do tempo dos\nrequisitos (Súm. 359); proteção da confiança e direito intertemporal."
+description: "Usar para pesquisar ou analisar: Direito Adquirido + Ato Jurídico Perfeito + Coisa Julgada (CF 5 XXXVI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Adquirido + AJP + Coisa Julgada + Segurança Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

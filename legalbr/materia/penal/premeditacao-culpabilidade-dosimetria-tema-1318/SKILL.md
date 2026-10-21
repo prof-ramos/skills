@@ -5,8 +5,8 @@ title: "Premeditação + Valoração da Culpabilidade na Dosimetria (Tema 1.318 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/premeditacao-culpabilidade-dosimetria-tema-1318.md"
+version: 2
+sourcePath: "legalbr/materia/penal/premeditacao-culpabilidade-dosimetria-tema-1318/SKILL.md"
 triggers:
   - "Tema 1.318 STJ"
   - "premeditação dosimetria CP 59"
@@ -14,10 +14,15 @@ triggers:
   - "exasperação pena base"
   - "reprovabilidade conduta"
   - "vedação bis in idem dosimetria"
-description: "Tema 1.318 STJ (3ª Seção, REsp 2.174.008/AL, julg. 08/05/2025): a PREMEDITAÇÃO autoriza a\nvaloração negativa da CULPABILIDADE (CP 59), desde que NÃO seja\nelementar do tipo nem pressuposto de agravante/qualificadora.\nExasperação NÃO é automática: exige fundamentação específica\nsobre a maior reprovabilidade no caso concreto."
+description: "Usar para pesquisar ou analisar: Premeditação + Valoração da Culpabilidade na Dosimetria (Tema 1.318 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Premeditação + Valoração da Culpabilidade na Dosimetria (Tema 1.318 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.318 STJ, 3ª Seção, REsp 2.174.008/AL, julg. 08/05/2025)
 

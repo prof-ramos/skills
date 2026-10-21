@@ -5,8 +5,8 @@ title: "Controle de Constitucionalidade: ADI + ADC + ADPF + ADO + Difuso"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/controle-constitucionalidade.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/controle-constitucionalidade/SKILL.md"
 triggers:
   - "controle de constitucionalidade"
   - "ação direta de inconstitucionalidade"
@@ -18,10 +18,15 @@ triggers:
   - "efeito repristinatório"
   - "abstrativização do controle difuso"
   - "inconstitucionalidade de lei municipal"
-description: "Controle de constitucionalidade no modelo misto (CF 102 e 103\n+ Leis 9.868/99, 9.882/99 e 12.063/2009): controle difuso com\nreserva de plenário (CF 97 + SV 10); ADI, ADC, ADPF e ADO;\nlegitimados, amicus curiae e medida cautelar; efeitos erga\nomnes, modulação (27) e efeito repristinatório."
+description: "Usar para pesquisar ou analisar: Controle de Constitucionalidade: ADI + ADC + ADPF + ADO + Difuso. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Controle de Constitucionalidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

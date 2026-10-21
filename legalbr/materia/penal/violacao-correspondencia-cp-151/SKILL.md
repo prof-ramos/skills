@@ -5,8 +5,8 @@ title: "Violação de Correspondência e Comunicação (CP 151-152)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/violacao-correspondencia-cp-151.md"
+version: 2
+sourcePath: "legalbr/materia/penal/violacao-correspondencia-cp-151/SKILL.md"
 triggers:
   - "CP 151"
   - "violação correspondência"
@@ -18,10 +18,15 @@ triggers:
   - "sigilo correspondência"
   - "CF 5 XII"
   - "comunicação eletrônica"
-description: "CP 151 (det. 1-6m OU multa): devassar indevidamente conteúdo de\ncorrespondência fechada destinada a outrem; §1 condutas\nequiparadas (apossar-se/sonegar/destruir + divulgar comunicação\ntelegráfica/radioelétrica/telefônica + impedir comunicação +\ninstalar estação clandestina); §2 aumento metade se dano; §3\nabuso de função postal (det. 1-3); §4 ação condicionada à\nrepresentação (salvo §1 IV e §3); CP 152 correspondência\ncomercial (sócio/empregado)."
+description: "Usar para pesquisar ou analisar: Violação de Correspondência e Comunicação (CP 151-152). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violação de Correspondência e Comunicação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 151: caput
 

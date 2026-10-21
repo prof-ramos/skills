@@ -5,8 +5,8 @@ title: "ADI 4275: Alteração de Nome e Gênero de Pessoa Transgênero"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/adi-4275-nome-genero-transgenero.md"
+version: 2
+sourcePath: "legalbr/materia/civil/adi-4275-nome-genero-transgenero/SKILL.md"
 triggers:
   - "ADI 4275"
   - "alteração nome gênero"
@@ -18,10 +18,15 @@ triggers:
   - "identidade de gênero"
   - "Tema 761 STF"
   - "RE 670.422"
-description: "ADI 4275 (red. Edson Fachin, 01/03/2018): pessoa transgênero\naltera prenome e gênero diretamente em cartório, sem cirurgia,\nsem laudo e sem autorização judicial. Implementação pelo\nProvimento CNJ 73/2018 (maiores de 18; menores: via judicial),\nconsolidado no Provimento 149/2023 (CNN/CN/CNJ-Extra)."
+description: "Usar para pesquisar ou analisar: ADI 4275: Alteração de Nome e Gênero de Pessoa Transgênero. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4275: Alteração de Nome e Gênero
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

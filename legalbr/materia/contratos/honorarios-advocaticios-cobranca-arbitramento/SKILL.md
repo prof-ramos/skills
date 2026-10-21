@@ -5,8 +5,8 @@ title: "Contrato de Honorários Advocatícios: Cobrança, Arbitramento e Destaqu
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/honorarios-advocaticios-cobranca-arbitramento.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/honorarios-advocaticios-cobranca-arbitramento/SKILL.md"
 triggers:
   - "honorários contratuais advogado"
   - "cobrança de honorários advocatícios"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 363 STJ"
   - "contrato de honorários título executivo"
   - "honorários êxito advogado"
-description: "Relação contratual advogado x cliente (EOAB 22-26): cobrança e\nexecução (contrato = título executivo, EOAB 24), arbitramento na\nfalta de ajuste (22 §2º + CC 596), destaque por dedução (22 §4º),\nprescrição quinquenal e termos iniciais (25/25-A), quota litis (CED\n50), revogação do mandato e honorários proporcionais (Lei 14.365/22)."
+description: "Usar para pesquisar ou analisar: Contrato de Honorários Advocatícios: Cobrança, Arbitramento e Destaque (EOAB 22-26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Honorários Advocatícios: Cobrança, Arbitramento e Destaque
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

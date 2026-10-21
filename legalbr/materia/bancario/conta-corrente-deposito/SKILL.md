@@ -5,8 +5,8 @@ title: "Contrato de Conta-Corrente Bancária e Depósito (CC 627 + Res. CMN 4.75
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/conta-corrente-deposito.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/conta-corrente-deposito/SKILL.md"
 triggers:
   - "conta corrente"
   - "depósito bancário"
@@ -21,10 +21,15 @@ triggers:
   - "SCR sistema informações crédito"
   - "conta-salário Res. CMN 3.402"
   - "Súm. 322 STJ"
-description: "Contrato de conta-corrente: depósito irregular (CC 645) com regime\npróprio da Res. CMN 4.753/19 (abertura/encerramento) + Res. CMN\n4.949/21 (relacionamento com clientes); encerramento unilateral com\n30 dias (Res. CMN 4.753 art. 12); contas-salário (Res. CMN 3.402/06)\ntêm isenção de tarifas; cheque especial regulamentado (Res. CMN\n4.765/19: teto de juros de 8% a.m.; tarifa de disponibilização\ninvalidada pelo STF, ADI 6.407); inscrição CCF/SCR."
+description: "Usar para pesquisar ou analisar: Contrato de Conta-Corrente Bancária e Depósito (CC 627 + Res. CMN 4.753/19). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conta-Corrente Bancária e Depósito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

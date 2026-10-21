@@ -5,8 +5,8 @@ title: "Garantia Legal e Contratual (CDC 24 + 26 + 50)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/garantia-legal-contratual-cdc-50.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/garantia-legal-contratual-cdc-50/SKILL.md"
 triggers:
   - "garantia legal"
   - "garantia contratual"
@@ -18,10 +18,15 @@ triggers:
   - "assistência técnica"
   - "prazo de garantia"
   - "garantia complementar"
-description: "Garantia legal (CDC 24, irrenunciável, automática, 30 dias bem\nnão durável + 90 dias bem durável) e contratual (CDC 50,\ncomplementar e formalizada por termo escrito); cumulação dos\nprazos (legal + contratual, entendimento consolidado); garantia\nestendida como contrato acessório de seguro (SUSEP); ônus do\nfornecedor de prestar assistência técnica."
+description: "Usar para pesquisar ou analisar: Garantia Legal e Contratual (CDC 24 + 26 + 50). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Garantia Legal e Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

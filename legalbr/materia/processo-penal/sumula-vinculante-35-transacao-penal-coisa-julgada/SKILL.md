@@ -5,8 +5,8 @@ title: "Súmula Vinculante 35 - Transação Penal e Coisa Julgada"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/sumula-vinculante-35-transacao-penal-coisa-julgada.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sumula-vinculante-35-transacao-penal-coisa-julgada/SKILL.md"
 triggers:
   - "SV 35"
   - "Súmula Vinculante 35"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 238 STF"
   - "coisa julgada material JECrim"
   - "retomada persecução penal"
-description: "SV 35 STF (16/10/2014, RE 602.072, Tema 238 STF): \"A homologação da\ntransação penal não faz coisa julgada material; descumpridas as\ncláusulas, retoma-se a situação anterior, permitindo ao MP\noferecer denúncia ou requisitar inquérito.\""
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 35 - Transação Penal e Coisa Julgada. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 35 - Transação Penal e Coisa Julgada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

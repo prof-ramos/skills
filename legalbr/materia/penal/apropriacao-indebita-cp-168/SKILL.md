@@ -5,8 +5,8 @@ title: "Apropriação Indébita (CP 168)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/apropriacao-indebita-cp-168.md"
+version: 2
+sourcePath: "legalbr/materia/penal/apropriacao-indebita-cp-168/SKILL.md"
 triggers:
   - "apropriação indébita"
   - "CP 168"
@@ -17,10 +17,15 @@ triggers:
   - "tutela curatela"
   - "apropriação majorada"
   - "distinção furto estelionato"
-description: "Apropriação indébita CP 168: caput recl. 1-4 + multa (inverter\ntítulo da posse legítima); §1 majorantes (1/3): I depósito\nnecessário, II tutor/curador/síndico, III ofício/emprego/profissão;\ndistinção crucial de furto (posse anterior legítima) e estelionato\n(sem fraude na origem); apropriação de coisa achada CP 169."
+description: "Usar para pesquisar ou analisar: Apropriação Indébita (CP 168). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apropriação Indébita
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 168 caput)
 

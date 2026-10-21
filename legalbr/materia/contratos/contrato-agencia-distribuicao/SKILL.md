@@ -5,8 +5,8 @@ title: "Contrato de Agência e Distribuição (CC 710-721)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-agencia-distribuicao.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-agencia-distribuicao/SKILL.md"
 triggers:
   - "contrato de agência"
   - "contrato de distribuição"
@@ -21,10 +21,15 @@ triggers:
   - "Lei Ferrari distinção"
   - "concessão comercial de veículos"
   - "Lei 6.729 concessionária"
-description: "Agência e distribuição (CC 710-721): zona, exclusividade\npresumida (711), aviso prévio 90d após 6m (720), indenização\npor fundo de comércio, prescrição 5/10 anos; concessão comercial\nde veículos (Lei 6.729/79: indenizações arts. 23-27 + convenções)."
+description: "Usar para pesquisar ou analisar: Contrato de Agência e Distribuição (CC 710-721). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Agência e Distribuição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

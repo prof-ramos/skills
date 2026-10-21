@@ -6,7 +6,7 @@ category: "materia"
 materia: "consultoria"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/private-equity-venture-capital-fundos.md"
+sourcePath: "legalbr/materia/consultoria/private-equity-venture-capital-fundos/SKILL.md"
 triggers:
   - "private equity"
   - "venture capital"
@@ -18,10 +18,15 @@ triggers:
   - "limited partner"
   - "general partner"
   - "carried interest"
-description: "Estrutura de fundos de investimento em participações (FIP: RCVM 175,\nAnexo Normativo I), private equity, venture capital, family office,\ncarried interest, hurdle rate, GP/LP, side letters, ratchet, drag/tag,\nexits (IPO, trade sale, secondary). Criptoativos em fundos conforme RCVM 175."
+description: "Usar para pesquisar ou analisar: Private Equity / Venture Capital e Fundos de Investimento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Private Equity / Venture Capital e Fundos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Veículos
 

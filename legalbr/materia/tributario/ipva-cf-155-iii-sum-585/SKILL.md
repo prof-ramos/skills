@@ -5,8 +5,8 @@ title: "IPVA (CF 155 III + RE 379.572 + Tema 708 STF + EC 132/2023)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/ipva-cf-155-iii-sum-585.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipva-cf-155-iii-sum-585/SKILL.md"
 triggers:
   - "IPVA"
   - "CF 155 III"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 585 STJ ex-proprietário"
   - "RE 1.016.605"
   - "guerra fiscal IPVA"
-description: "IPVA CF 155 III Estados/DF (veículos automotores); CF 155 §6\nEC 42/2003 (Senado alíquota MÍNIMA + diferenciação tipo/uso);\nTema 708 STF (IPVA devido somente ao Estado de sede/domicílio\ndo contribuinte); STF RE 379.572 (regime pré-EC 132: NÃO incidia\nsobre embarcações + aeronaves, só TERRESTRES); CF 158 III\nMunicípios 50%; EC 132/2023 estendeu a incidência a veículos\nAQUÁTICOS e AÉREOS, com exceções expressas (aeronaves agrícolas,\nembarcações de transporte aquaviário/pesca, plataformas);\nSúm. 585 STJ (ex-proprietário: responsabilidade do CTB 134 não\nabrange IPVA posterior à alienação)."
+description: "Usar para pesquisar ou analisar: IPVA (CF 155 III + RE 379.572 + Tema 708 STF + EC 132/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPVA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 155 III
 

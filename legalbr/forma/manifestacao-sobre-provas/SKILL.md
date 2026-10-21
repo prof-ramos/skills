@@ -5,8 +5,8 @@ title: "Manifestação sobre Provas (especificação e impugnação)"
 category: "forma"
 materia: null
 documentType: "manifestacao-sobre-provas"
-version: 1
-sourcePath: "lib/skills/official/forma/manifestacao-sobre-provas.md"
+version: 2
+sourcePath: "legalbr/forma/manifestacao-sobre-provas/SKILL.md"
 triggers:
   - "manifestação sobre provas"
   - "especificação de provas"
@@ -20,10 +20,15 @@ triggers:
   - "rol de testemunhas CPC 450"
   - "quesitos e assistente técnico CPC 465"
   - "pedido de julgamento antecipado CPC 355"
-description: "Petição de especificação de provas (CPC 369-370; ônus 373 e §1º; CDC 6º\nVIII) indicando cada meio com pertinência: depoimento pessoal (385),\ntestemunhas (442, 450; limite 357 §6º), perícia com quesitos e assistente\n(464-465), documental superveniente (435), inspeção (481); ou manifestação\nsobre prova produzida: laudo (477 §§1º-3º; 479-480) e documentos (436-437;\nfalsidade 430-433). Subsidiário: julgamento antecipado (355 I). Preclusão."
+description: "Usar para redigir ou revisar: Manifestação sobre Provas (especificação e impugnação). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Manifestação sobre Provas
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Petição da parte em duas situações: **especificar** as provas que pretende produzir, após intimação do juízo, vinculando cada meio ao fato que visa demonstrar; ou **manifestar-se sobre prova já produzida** (laudo pericial, documentos juntados, mídia). Em ambas, a peça responde a uma decisão ou intimação concreta e deve referenciá-la logo na abertura.
 

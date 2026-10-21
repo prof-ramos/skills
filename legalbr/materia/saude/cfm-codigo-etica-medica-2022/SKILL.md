@@ -5,8 +5,8 @@ title: "Código de Ética Médica (Resolução CFM 2.217/2018 + atualizações)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/cfm-codigo-etica-medica-2022.md"
+version: 2
+sourcePath: "legalbr/materia/saude/cfm-codigo-etica-medica-2022/SKILL.md"
 triggers:
   - "código de ética médica"
   - "CFM Resolução 2217"
@@ -18,10 +18,15 @@ triggers:
   - "telemedicina CFM"
   - "PAD médico"
   - "cassação CRM"
-description: "Código de Ética Médica, Resolução **CFM 2.217/2018** (em vigor\ndesde 30/04/2019) substituiu CEM 2009 + atualizações por Resoluções\nposteriores. Estrutura: princípios fundamentais (XXV) + direitos do\nmédico + 25 capítulos de vedações (118 artigos). **Sigilo\nprofissional** (CEM 73-79 + CP 154), exceções: justa causa, dever\nlegal, consentimento expresso. Autonomia do paciente + consentimento\ninformado. **Publicidade médica** (CEM 111-118 + Reso CFM 2.336/2023\n+ 2.126/2015): vedação a sensacionalismo + autopromoção +\ndivulgação de resultados de procedimentos. **Telemedicina**: Reso\nCFM 2.314/2022. **PAD CRM**: Cód. Processo Ético-Profissional\n(CPEP, Reso CFM 2.145/2016). Sanções: da advertência à cassação."
+description: "Usar para pesquisar ou analisar: Código de Ética Médica (Resolução CFM 2.217/2018 + atualizações). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Código de Ética Médica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

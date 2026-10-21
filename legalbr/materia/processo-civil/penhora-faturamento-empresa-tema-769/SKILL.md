@@ -5,8 +5,8 @@ title: "Penhora de Faturamento e do Estabelecimento (CPC 866 + Tema 769 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/penhora-faturamento-empresa-tema-769.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-faturamento-empresa-tema-769/SKILL.md"
 triggers:
   - "penhora de faturamento"
   - "Tema 769 STJ"
@@ -16,10 +16,15 @@ triggers:
   - "penhora de estabelecimento comercial"
   - "percentual do faturamento"
   - "administrador-depositário"
-description: "Penhora de percentual de faturamento (CPC 866 + Tema 769 STJ): cabível\nsem exaurimento de diligências, com fundamentação; não equivale a\ndinheiro; percentual que não inviabilize a empresa (menor onerosidade,\nCPC 805). Penhora da sede (Súm. 451 STJ) e administração de empresa\npenhorada (CPC 862-865)."
+description: "Usar para pesquisar ou analisar: Penhora de Faturamento e do Estabelecimento (CPC 866 + Tema 769 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Faturamento e do Estabelecimento Empresarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

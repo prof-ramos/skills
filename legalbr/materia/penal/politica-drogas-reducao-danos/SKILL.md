@@ -5,8 +5,8 @@ title: "Política Nacional sobre Drogas e Redução de Danos"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/politica-drogas-reducao-danos.md"
+version: 2
+sourcePath: "legalbr/materia/penal/politica-drogas-reducao-danos/SKILL.md"
 triggers:
   - "política nacional drogas"
   - "PNAD"
@@ -18,10 +18,15 @@ triggers:
   - "tráfico privilegiado art. 33 §4"
   - "art. 28 Lei de Drogas"
   - "internação involuntária dependente químico"
-description: "Política Nacional sobre Drogas (Lei 11.343/2006 + Dec. 9.761/2019 +\nLei 13.840/2019) + redução de danos como estratégia de atenção na\nRAPS/CAPS-AD (Lei 11.343 art. 20 + Portaria GM/MS 3.088/2011), ao lado\nda PNAD do Dec. 9.761/2019 (orientada à promoção da abstinência);\nuso pessoal NÃO é crime privativo de liberdade (Tema 506 STF,\njulgado 26/06/2024); tráfico privilegiado (art. 33 §4) NÃO é hediondo\n(STF HC 118.533 + STJ EREsp 1.522.034); descriminalização do porte de\nCANNABIS SATIVA para uso pessoal (RE 635.659, presunção relativa até\n40g ou 6 plantas-fêmeas); internação como ultima ratio; vedação\ndo encarceramento por consumo; PCC + facções: dimensão social."
+description: "Usar para pesquisar ou analisar: Política Nacional sobre Drogas e Redução de Danos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Política sobre Drogas e Redução de Danos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

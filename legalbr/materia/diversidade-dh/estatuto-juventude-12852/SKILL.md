@@ -5,8 +5,8 @@ title: "Estatuto da Juventude (Lei 12.852/2013 + SINAJUVE + Lei 15.178/2025)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/estatuto-juventude-12852.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/estatuto-juventude-12852/SKILL.md"
 triggers:
   - "Estatuto da Juventude"
   - "Lei 12.852/2013"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 13.798/2019"
   - "Lei 15.178/2025"
   - "sucessão rural"
-description: "Estatuto da Juventude Lei 12.852/2013: JOVEM 15-29 anos +\nSINAJUVE; adolescentes 15-18 ECA prioritário + Estatuto\nsubsidiário; princípios autonomia + participação; direitos\n(cidadania + educação + trabalho + diversidade + saúde +\ncultura + território/meia-passagem + sustentabilidade); CONJUVE;\nID Jovem Dec. 9.306/2018; Lei 15.178/2025 política sucessão rural."
+description: "Usar para pesquisar ou analisar: Estatuto da Juventude (Lei 12.852/2013 + SINAJUVE + Lei 15.178/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto da Juventude
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.852/2013
 

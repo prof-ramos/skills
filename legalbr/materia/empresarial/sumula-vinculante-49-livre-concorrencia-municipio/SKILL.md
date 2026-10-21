@@ -5,8 +5,8 @@ title: "Súmula Vinculante 49, Livre Concorrência e Lei Municipal"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/sumula-vinculante-49-livre-concorrencia-municipio.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/sumula-vinculante-49-livre-concorrencia-municipio/SKILL.md"
 triggers:
   - "SV 49"
   - "Súmula Vinculante 49"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 646 STF"
   - "CF 170 IV"
   - "zoneamento comercial"
-description: "SV 49 STF (17/06/2015): \"Ofende o princípio da livre concorrência\nlei municipal que impede a instalação de estabelecimentos\ncomerciais do mesmo ramo em determinada área.\" Conversão da\nSúm. 646; distinção: posto de combustível por segurança é\nlegítimo, mas reserva de mercado por distância é inconstitucional."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 49, Livre Concorrência e Lei Municipal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 49, Livre Concorrência e Município
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

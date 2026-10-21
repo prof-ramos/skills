@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "carta-testemunhavel"
 version: 2
-sourcePath: "lib/skills/official/forma/carta-testemunhavel.md"
+sourcePath: "legalbr/forma/carta-testemunhavel/SKILL.md"
 triggers:
   - "carta testemunhável"
   - "art. 639 CPP"
@@ -16,10 +16,15 @@ triggers:
   - "destrancar RESE denegado"
   - "carta testemunhável contra denegação de recurso"
   - "carta testemunhável contra decisão que obsta seguimento de recurso"
-description: "Carta testemunhável (CPP 639-646): recurso contra decisão que denega\nou obsta seguimento de RESE/outro recurso. Prazo de 48h; processada\nem traslado ao tribunal. Aplicação residual."
+description: "Usar para redigir ou revisar: Carta Testemunhável. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Testemunhável
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e cabimento
 

@@ -5,8 +5,8 @@ title: "Substituição Tributária (CF 150 §7 + LC 87/96 + Tema 201 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/substituicao-tributaria-cf-150-7.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/substituicao-tributaria-cf-150-7/SKILL.md"
 triggers:
   - "substituição tributária"
   - "ICMS-ST"
@@ -20,10 +20,15 @@ triggers:
   - "CONFAZ"
   - "ADI 1.851"
   - "Tema 700 STF"
-description: "Substituição tributária CF 150 §7 (EC 3/93) — cobrança ANTECIPADA\ncom FG PRESUMIDO + restituição imediata se não realizar; LC 87/\n1996 Kandir disciplina ICMS-ST; 3 modalidades: antecedente +\nconcomitante + SUBSEQUENTE (mais comum); STF Tema 201 RE 593.849\n(2016 overruling ADI 1.851) — presunção IURIS TANTUM + restituição\nda DIFERENÇA se BC efetiva < presumida; CONFAZ MVA/PMPF; Tema\n700 (dispensa análise individual); LC 190/2022 DIFAL."
+description: "Usar para pesquisar ou analisar: Substituição Tributária (CF 150 §7 + LC 87/96 + Tema 201 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Substituição Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 150 §7 (EC 3/93)
 

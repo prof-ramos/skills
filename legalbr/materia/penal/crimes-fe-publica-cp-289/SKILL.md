@@ -5,8 +5,8 @@ title: "Crimes contra a Fé Pública (CP 289-311 + falsidade documental + ideol�
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/crimes-fe-publica-cp-289.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-fe-publica-cp-289/SKILL.md"
 triggers:
   - "crimes contra fé pública"
   - "moeda falsa"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 17 STJ"
   - "Tema 933 STJ"
   - "Lei 14.562/2023"
-description: "Crimes contra a fé pública sob CP 289-311: moeda falsa (289,\nrecl. 3-12, JF; Súm. 73 STJ falso grosseiro = CP 171); falsidade\ndocumento público (297, recl. 2-6) + particular (298, recl. 1-5;\ncartão crédito Lei 12.737); §3 CTPS (Súm. 62 STJ: competência JE\nse empresa privada); §4 omissão tributária;\nideológica (299, formal, dolo específico); uso (304); CP 311\nadulteração veicular (Lei 14.562/2023); Súm. 17 STJ + Tema 933\nconsunção; falsidade GROSSEIRA perceptível a olho nu = crime\nimpossível (STF)."
+description: "Usar para pesquisar ou analisar: Crimes contra a Fé Pública (CP 289-311 + falsidade documental + ideológica). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Fé Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## I. Moeda falsa e equiparados (CP 289-292)
 

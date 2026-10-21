@@ -5,8 +5,8 @@ title: "Empreitada (CC 610-626)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/empreitada-cc-610.md"
+version: 2
+sourcePath: "legalbr/materia/civil/empreitada-cc-610/SKILL.md"
 triggers:
   - "empreitada"
   - "CC 610"
@@ -20,10 +20,15 @@ triggers:
   - "recebimento da obra CC 615"
   - "subempreitada"
   - "suspensao da obra pelo dono CC 623"
-description: "Empreitada (CC 610-626): de lavor (só trabalho) × de lavor e\nmaterial; obrigação de resultado; risco do empreiteiro (CC 611);\nresponsabilidade quinquenal por solidez e segurança (CC 618, 5\nanos); suspensão por iniciativa do dono (CC 623); recebimento,\nrejeição e abatimento (CC 615-616); subempreitada."
+description: "Usar para pesquisar ou analisar: Empreitada (CC 610-626). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Empreitada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 610, conceito
 

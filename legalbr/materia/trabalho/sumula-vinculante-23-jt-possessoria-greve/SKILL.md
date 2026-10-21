@@ -5,8 +5,8 @@ title: "Súmula Vinculante 23 - JT Competente para Possessória de Greve Privada
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/sumula-vinculante-23-jt-possessoria-greve.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sumula-vinculante-23-jt-possessoria-greve/SKILL.md"
 triggers:
   - "SV 23"
   - "Súmula Vinculante 23"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 74"
   - "greve servidor público competência"
   - "Lei 7.783/89"
-description: "SV 23 STF (02/12/2009): \"Justiça do Trabalho é competente para\nprocessar e julgar ação possessória ajuizada em decorrência do\nexercício do direito de greve pelos trabalhadores da iniciativa\nprivada.\" Paradigma RE 579.648/Tema 74. Greve de servidor\nestatutário permanece na Justiça Comum (MI 670, 708, 712 + RE\n846.854 Tema 544)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 23 - JT Competente para Possessória de Greve Privada. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 23 - JT e Possessória de Greve
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

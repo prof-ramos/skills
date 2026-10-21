@@ -5,8 +5,8 @@ title: "Incidente de Desconsideração da Personalidade Jurídica (CPC 133-137)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/incidente-desconsideracao-pj-cpc-133.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/incidente-desconsideracao-pj-cpc-133/SKILL.md"
 triggers:
   - "IDPJ"
   - "incidente desconsideracao"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1209 STJ"
   - "redirecionamento execucao fiscal"
   - "agravo instrumento desconsideracao"
-description: "Incidente de Desconsideração da Personalidade Jurídica (CPC 133-137):\ncabível a qualquer tempo, requerimento da parte/MP (vedada ofício);\ncitação prévia do sócio/PJ (CPC 135) com 15 dias defesa; decisão\ninterlocutória → agravo de instrumento (CPC 1.015 IV); exceção\ntributária (Tema 1.209 STJ, pendente: orientação dispensa IDPJ no\nredirecionamento por responsabilidade do CTN); requisitos materiais\nda Teoria Maior (CC 50 + Tema 1.210 STJ)."
+description: "Usar para pesquisar ou analisar: Incidente de Desconsideração da Personalidade Jurídica (CPC 133-137). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Desconsideração (IDPJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 133, CABIMENTO
 

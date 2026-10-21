@@ -5,8 +5,8 @@ title: "SAFE, Convertible Note e Investidor-Anjo"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/safe-convertible-investidor-anjo.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/safe-convertible-investidor-anjo/SKILL.md"
 triggers:
   - "SAFE"
   - "convertible note"
@@ -17,10 +17,15 @@ triggers:
   - "aporte de capital"
   - "pre-seed"
   - "seed round"
-description: "Estruturas de aporte conversível: SAFE (Simple Agreement for Future\nEquity), convertible note (mútuo conversível em equity) e investidor-\nanjo (LC 123/06 art. 61-A, LC 182/21). Conversão, valuation cap,\ndiscount, MFN, qualified financing, drag/tag along e tratamento\ntrabalhista (não vínculo) + tributário (CTN + Lei 9.430)."
+description: "Usar para pesquisar ou analisar: SAFE, Convertible Note e Investidor-Anjo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SAFE, Convertible Note e Investidor-Anjo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estruturas
 

@@ -5,8 +5,8 @@ title: "JEF e JEFP, Competência Absoluta, Renúncia e Cumprimento (Leis 10.259/
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/jef-jefp-competencia-renuncia-cumprimento-tema-1030.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/jef-jefp-competencia-renuncia-cumprimento-tema-1030/SKILL.md"
 triggers:
   - "Tema 1.030 STJ"
   - "renúncia ao excedente de 60 salários mínimos"
@@ -18,10 +18,15 @@ triggers:
   - "execução invertida fazenda pública"
   - "RPV juizado especial"
   - "vedações do art. 3º da Lei 10.259"
-description: "Regime de competência absoluta dos JEF (Lei 10.259/2001) e JEFP (Lei 12.153/2009):\nexclusões legais, valor da causa e renúncia expressa ao excedente de 60 SM com até\n12 vincendas (Tema 1.030 STJ), cumprimento com RPV 60/40/30 SM e execução invertida\ncontra a Fazenda (Tema 1.396 STF + ADPF 219)."
+description: "Usar para pesquisar ou analisar: JEF e JEFP, Competência Absoluta, Renúncia e Cumprimento (Leis 10.259/2001 e 12.153/2009 + Temas 1.030 STJ e 1.396 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # JEF e JEFP: Competência Absoluta, Renúncia e Cumprimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Rito, recursos e uniformização estão nas skills de forma do JEF/JEFP; esta skill concentra o regime material de competência, valor da causa e satisfação do julgado.
 

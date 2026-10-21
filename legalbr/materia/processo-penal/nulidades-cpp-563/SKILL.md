@@ -5,8 +5,8 @@ title: "Nulidades Processuais Penais (CPP 563-573)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/nulidades-cpp-563.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/nulidades-cpp-563/SKILL.md"
 triggers:
   - "nulidades processuais penais"
   - "CPP 563"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 706 STF"
   - "CPP 570 comparecimento espontâneo"
   - "Súm. 523 STF"
-description: "Nulidades sob CPP 563-573: princípio reitor pas de nullité sans\ngrief (CPP 563, exige prejuízo); CPP 564 inciso V (Anticrime,\ndecisão sem fundamentação); absolutas (incompetência absoluta +\nfalta de defesa + sem citação) × relativas (preclusão CPP 571);\nSúm. 706 STF (prevenção é relativa); Súm. 523 STF (falta de\ndefesa = absoluta; deficiência exige prejuízo); CPP 570\n(comparecimento espontâneo supre citação); CPP 565 (vedado\nvenire); HC 127.900 STF (interrogatório como último ato)."
+description: "Usar para pesquisar ou analisar: Nulidades Processuais Penais (CPP 563-573). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nulidades Processuais Penais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Princípio reitor: CPP 563 (***pas de nullité sans grief***)
 

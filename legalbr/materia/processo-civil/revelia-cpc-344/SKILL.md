@@ -5,8 +5,8 @@ title: "Revelia (CPC 344-346)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/revelia-cpc-344.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/revelia-cpc-344/SKILL.md"
 triggers:
   - "revelia"
   - "CPC 344"
@@ -17,10 +17,15 @@ triggers:
   - "curador especial"
   - "Sum 231 STF"
   - "julgamento antecipado"
-description: "Revelia (CPC 344-346): omissão do réu em contestar; efeitos (CPC\n344, presunção relativa de veracidade); afastamento (CPC 345 -\nlitisconsorte ativo, direito indisponível, falta de instrumento\nindispensável, contradição com provas); curso do processo\nindependentemente de intimação (CPC 346); ingresso a qualquer tempo."
+description: "Usar para pesquisar ou analisar: Revelia (CPC 344-346). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revelia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 344, CONCEITO E EFEITO
 

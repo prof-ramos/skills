@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "relaxamento-prisao"
 version: 2
-sourcePath: "lib/skills/official/forma/relaxamento-prisao.md"
+sourcePath: "legalbr/forma/relaxamento-prisao/SKILL.md"
 triggers:
   - "relaxamento de prisão"
   - "prisão ilegal"
@@ -16,10 +16,15 @@ triggers:
   - "art. 306 CPP"
   - "art. 310 CPP"
   - "relaxamento na audiência de custódia"
-description: "Relaxamento (CF 5º LXV; CPP 310 I): flagrante ilegal (302), falta de\ncomunicação em 24h (306), descumprimento da custódia (Res. CNJ\n213/2015), excesso de prazo, fundamentação genérica (315). Via direta\nou HC."
+description: "Usar para redigir ou revisar: Pedido de Relaxamento de Prisão. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Relaxamento de Prisão
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e natureza
 

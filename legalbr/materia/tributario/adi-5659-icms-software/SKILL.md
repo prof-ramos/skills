@@ -5,8 +5,8 @@ title: "ADI 5659 + ADI 1945: ISS x ICMS sobre Software"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/adi-5659-icms-software.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/adi-5659-icms-software/SKILL.md"
 triggers:
   - "ADI 5659"
   - "ADI 1945"
@@ -16,10 +16,15 @@ triggers:
   - "download SaaS"
   - "operações intangíveis"
   - "modulação software"
-description: "ADI 5659 + ADI 1945 (Dias Toffoli, 24/02/2021): por maioria\ndecidiram que sobre OPERAÇÕES COM SOFTWARE incide ISS (não\nICMS), sejam padronizadas ou customizadas, por download\nou nuvem (SaaS). Base: LC 116/2003 item 1.05. Modulação:\noito hipóteses temporais (efeitos ex nunc com nuances)."
+description: "Usar para pesquisar ou analisar: ADI 5659 + ADI 1945: ISS x ICMS sobre Software. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5659 + ADI 1945: Software
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

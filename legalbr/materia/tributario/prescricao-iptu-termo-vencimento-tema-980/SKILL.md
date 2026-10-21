@@ -5,8 +5,8 @@ title: "Prescrição do IPTU + Termo Inicial no Vencimento (Tema 980 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/prescricao-iptu-termo-vencimento-tema-980.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-iptu-termo-vencimento-tema-980/SKILL.md"
 triggers:
   - "Tema 980 STJ"
   - "IPTU prescrição termo inicial"
@@ -15,10 +15,15 @@ triggers:
   - "parcelamento ofício IPTU prescrição"
   - "Súm. 397 STJ carnê IPTU"
   - "notificação do lançamento IPTU"
-description: "Tema 980 STJ (1ª Seção, 14/11/2018): o termo inicial do prazo\nprescricional para cobrança judicial do IPTU é o DIA SEGUINTE\nAO VENCIMENTO da exação. O parcelamento DE OFÍCIO (sem anuência\ndo contribuinte) NÃO configura causa interruptiva da prescrição.\nNotificação pelo envio do carnê (Súm. 397 STJ)."
+description: "Usar para pesquisar ou analisar: Prescrição do IPTU + Termo Inicial no Vencimento (Tema 980 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição do IPTU + Termo Inicial no Vencimento (Tema 980 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 980 STJ, 1ª Seção, 14/11/2018)
 

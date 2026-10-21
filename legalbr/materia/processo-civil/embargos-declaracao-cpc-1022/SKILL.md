@@ -5,8 +5,8 @@ title: "Embargos de Declaração, Análise Judicial (CPC 1.022-1.026)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/embargos-declaracao-cpc-1022.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/embargos-declaracao-cpc-1022/SKILL.md"
 triggers:
   - "embargos de declaração"
   - "CPC 1.022"
@@ -17,10 +17,15 @@ triggers:
   - "multa protelatória"
   - "CPC 489 §1"
   - "Súm. 98 STJ"
-description: "Embargos de declaração sob CPC 1.022-1.026: hipóteses (omissão,\ncontradição, obscuridade, erro material); omissão presumida do\npar. único (tese de repetitivo/IAC + CPC 489 §1); prazo 5 dias e\ninterrupção; efeitos infringentes com contraditório prévio;\nprequestionamento ficto (CPC 1.025); multa protelatória (CPC 1.026\n§§ 2-4); Súm. 98 STJ: prequestionamento não é protelação."
+description: "Usar para pesquisar ou analisar: Embargos de Declaração, Análise Judicial (CPC 1.022-1.026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Declaração: Análise Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Hipóteses (CPC 1.022)
 

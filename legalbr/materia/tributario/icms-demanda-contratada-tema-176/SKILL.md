@@ -5,8 +5,8 @@ title: "ICMS sobre Demanda Contratada de Energia (Tema 176 STF + Súm. 391 STJ +
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-demanda-contratada-tema-176.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-demanda-contratada-tema-176/SKILL.md"
 triggers:
   - "Tema 176 STF"
   - "demanda contratada"
@@ -20,10 +20,15 @@ triggers:
   - "reserva de potência"
   - "Tema 986 STJ"
   - "LC 194/2022"
-description: "Tema 176 STF (RE 593.824, Min. Edson Fachin, 27/04/2020):\nICMS NÃO incide sobre demanda contratada de energia elétrica\nNÃO utilizada. BC = valor da tarifa correspondente à demanda\nEFETIVAMENTE UTILIZADA (LC 87/1996 art. 13 §1 II + CF 155 II).\nConsolida Súm. 391 STJ. Sem modulação de efeitos (ED rejeitados).\nNão confundir com Tema 986 STJ (TUSD/TUST integram BC quando\ndestacadas como encargo do consumidor)."
+description: "Usar para pesquisar ou analisar: ICMS sobre Demanda Contratada de Energia (Tema 176 STF + Súm. 391 STJ + Tema 986). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS sobre Demanda Contratada (Tema 176 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 176 STF, RE 593.824, 27/04/2020)
 

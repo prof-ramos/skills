@@ -5,8 +5,8 @@ title: "Cumprimento de Tese Vinculante (CPC 927)"
 category: "forma"
 materia: null
 documentType: "cumprimento-tese-vinculante"
-version: 4
-sourcePath: "lib/skills/official/forma/cumprimento-tese-vinculante.md"
+version: 2
+sourcePath: "legalbr/forma/cumprimento-tese-vinculante/SKILL.md"
 triggers:
   - "cumprimento tese vinculante"
   - "art. 927 CPC"
@@ -18,10 +18,15 @@ triggers:
   - "precedente vinculante invocação"
   - "art. 927 III-A REsp regime de relevância"
   - "precedente obrigatório Lei 15.484/2026"
-description: "Petição/manifestação de cumprimento de tese vinculante (CPC 927-928).\nHipóteses do art. 927: (i) decisões do STF em controle concentrado;\n(ii) acórdãos em IRDR e IAC; (iii) súmulas vinculantes; (iv) súmulas\ndo STF e STJ em matéria constitucional e infraconstitucional; (v)\norientação de plenário ou órgão especial. Pedido de aplicação imediata\n+ reclamação para preservar autoridade (CPC 988). Articulação com\ndistinguishing e overruling. Coordenação com tutela provisória de\nevidência (CPC 311 II + IV)."
+description: "Usar para redigir ou revisar: Cumprimento de Tese Vinculante (CPC 927). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Tese Vinculante (CPC 927)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Impugnação ao Cumprimento de Sentença"
 category: "forma"
 materia: null
 documentType: "impugnacao-cumprimento-sentenca"
-version: 1
-sourcePath: "lib/skills/official/forma/impugnacao-cumprimento-sentenca.md"
+version: 2
+sourcePath: "legalbr/forma/impugnacao-cumprimento-sentenca/SKILL.md"
 triggers:
   - "impugnação ao cumprimento de sentença"
   - "art. 525 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "efeito suspensivo art. 525 §6º"
   - "inexigibilidade do título por inconstitucionalidade"
   - "prazo de 15 dias após o prazo de pagamento"
-description: "Impugnação ao cumprimento de sentença (CPC 525): defesa típica e\nincidental em cumprimento por quantia certa; prazo de 15 dias após\no do art. 523, independente de garantia para conhecer; matérias\ntaxativas do §1º (inexequibilidade, ilegitimidade, penhora, excesso,\nincompetência, causa modificativa); efeito suspensivo do §6º\ncumulativo a garantia, fumus e periculum; inexigibilidade por\ninconstitucionalidade do §12 com ADPF 615/2025 (declarando o §14\ninconstitucional)."
+description: "Usar para redigir ou revisar: Impugnação ao Cumprimento de Sentença. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação ao Cumprimento de Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza e cabimento
 

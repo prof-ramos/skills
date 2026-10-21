@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/reforma-tributaria-ec-132.md"
+sourcePath: "legalbr/materia/tributario/reforma-tributaria-ec-132/SKILL.md"
 triggers:
   - "EC 132/2023"
   - "LC 214/2025"
@@ -18,10 +18,15 @@ triggers:
   - "Zona Franca de Manaus reforma"
   - "cesta básica nacional"
   - "trava de carga tributária"
-description: "Reforma do consumo sob EC 132, LC 214 e LC 227: IBS, CBS, Imposto\nSeletivo, destino, créditos, regimes, cashback, governança, documentos\nfiscais e transição de 2026 a 2033."
+description: "Usar para pesquisar ou analisar: Reforma Tributária EC 132/2023 + LC 214/2025 (IBS + CBS + IS + Transição). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reforma Tributária: EC 132/2023 + LC 214/2025
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

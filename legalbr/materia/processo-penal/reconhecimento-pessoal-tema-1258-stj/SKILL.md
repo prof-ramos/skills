@@ -5,8 +5,8 @@ title: "Reconhecimento Pessoal e Nulidade do CPP 226 (Tema 1.258 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/reconhecimento-pessoal-tema-1258-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/reconhecimento-pessoal-tema-1258-stj/SKILL.md"
 triggers:
   - "Tema 1.258 STJ"
   - "reconhecimento pessoal CPP 226"
@@ -21,10 +21,15 @@ triggers:
   - "dispensa CPP 226 conhecimento prévio"
   - "art. 226 CPP procedimento"
   - "REsp 1.953.602"
-description: "Tema 1.258 STJ (REsp 1.953.602/SP, j. 11/06/2025, pub. 04/08/2025):\nregras do art. 226 CPP são de\nobservância OBRIGATÓRIA na fase inquisitorial E em juízo, sob pena\nde invalidade. Reconhecimento inválido NÃO pode lastrear condenação\nnem decisões com menor standard. Não pode ser repetido (risco de\ncontaminação). Dispensável quando se trata de pessoa JÁ CONHECIDA."
+description: "Usar para pesquisar ou analisar: Reconhecimento Pessoal e Nulidade do CPP 226 (Tema 1.258 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reconhecimento Pessoal (Tema 1.258 STJ + HC 598.886)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.258 STJ, REsp 1.953.602/SP, j. 11/06/2025)
 

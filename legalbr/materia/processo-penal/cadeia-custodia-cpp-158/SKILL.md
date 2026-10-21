@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/cadeia-custodia-cpp-158.md"
+sourcePath: "legalbr/materia/processo-penal/cadeia-custodia-cpp-158/SKILL.md"
 triggers:
   - "cadeia de custódia"
   - "CPP 158-A"
@@ -19,10 +19,15 @@ triggers:
   - "central de custódia"
   - "preservação do vestígio"
   - "ECA 190-F ronda virtual"
-description: "Cadeia de custódia dos arts. 158-A a 158-F do CPP: dez fases,\nmesmidade, prova digital, consequências da quebra e preservação dos\narquivos colhidos em ronda virtual nos termos do ECA 190-F §5º."
+description: "Usar para pesquisar ou analisar: Cadeia de Custódia (CPP 158-A a 158-F + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cadeia de Custódia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal (Lei 13.964/2019)
 

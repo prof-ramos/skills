@@ -5,8 +5,8 @@ title: "Demora em Fila de Banco + Inexistência de Dano Moral in re ipsa (Tema 1
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/demora-fila-banco-dano-moral-tema-1156.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/demora-fila-banco-dano-moral-tema-1156/SKILL.md"
 triggers:
   - "Tema 1.156 STJ"
   - "demora atendimento bancário dano moral"
@@ -14,10 +14,15 @@ triggers:
   - "teoria desvio produtivo consumidor"
   - "lei municipal fila banco"
   - "in re ipsa dano moral individual"
-description: "Tema 1.156 STJ (2ª Seção, 17/05/2024): o simples descumprimento\ndo prazo de atendimento em legislação específica para serviço\nbancário NÃO gera, por si só, dano moral INDIVIDUAL in re ipsa.\nExige-se demonstração do prejuízo concreto e do esgotamento de\nalternativas (caixas eletrônicos, internet banking)."
+description: "Usar para pesquisar ou analisar: Demora em Fila de Banco + Inexistência de Dano Moral in re ipsa (Tema 1.156 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Demora em Fila de Banco + Inexistência de Dano Moral in re ipsa (Tema 1.156 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.156 STJ, 2ª Seção, 17/05/2024)
 

@@ -5,8 +5,8 @@ title: "Inseminação Post-Mortem + Direito Sucessório (CC 1.597 III + V)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/inseminacao-post-mortem-cc-1597.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/inseminacao-post-mortem-cc-1597/SKILL.md"
 triggers:
   - "inseminação artificial post mortem"
   - "CC 1.597 III"
@@ -18,10 +18,15 @@ triggers:
   - "autorização escrita reprodução"
   - "CFM 2.320"
   - "sucessão hereditária reprodução"
-description: "Inseminação artificial post-mortem + sucessão hereditária: **CC\n1.597 III** (filho havido por **fecundação artificial homóloga**,\nmesmo após morte do marido) + **V** (fertilização heteróloga com\nconsentimento). Pressupostos: (i) **autorização escrita** do\ndoador em vida; (ii) **condição de viúva** da mulher; (iii)\nutilização da técnica em prazo razoável; (iv) **CFM Reso 2.320/\n2022** + atualizações. O art. 1.597 III resolve a **filiação**, não\nos efeitos **sucessórios**: o **art. 1.798** limita a legitimação\nsucessória aos nascidos ou já concebidos na abertura, tornando\n**controvertida** a inclusão do concebido post mortem na sucessão\nlegítima; a via **testamentária** (art. 1.799, I) é a de maior\nsegurança. Via processual: **petição de herança**, com prescrição\nde 10 anos contados da abertura da sucessão (Tema 1.200 STJ)."
+description: "Usar para pesquisar ou analisar: Inseminação Post-Mortem + Direito Sucessório (CC 1.597 III + V). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inseminação Post-Mortem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

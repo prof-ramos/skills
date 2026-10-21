@@ -5,8 +5,8 @@ title: "Contrato de Locação por Temporada (Lei 8.245/91 arts. 48-50)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-locacao-temporada.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-locacao-temporada/SKILL.md"
 triggers:
   - "locação por temporada"
   - "locação temporada"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 11.771"
   - "despejo temporada"
   - "antecipação aluguéis temporada"
-description: "Locação por temporada (Lei 8.245/91 arts. 48-50): prazo até\n90 dias, mobiliada, antecipação integral admitida (49),\nliminar de despejo (59 §1 III); conversão tácita após 30d."
+description: "Usar para pesquisar ou analisar: Contrato de Locação por Temporada (Lei 8.245/91 arts. 48-50). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Locação por Temporada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

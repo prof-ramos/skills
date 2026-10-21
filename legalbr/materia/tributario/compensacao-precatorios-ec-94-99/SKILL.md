@@ -5,8 +5,8 @@ title: "Compensação de Precatórios com Débitos Tributários (CF 100 §11 + E
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/compensacao-precatorios-ec-94-99.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/compensacao-precatorios-ec-94-99/SKILL.md"
 triggers:
   - "compensação precatórios"
   - "CF 100 §11"
@@ -16,10 +16,15 @@ triggers:
   - "acordo precatório débito tributário"
   - "cessão precatório"
   - "REsp 1.872.633"
-description: "Compensação de precatórios com débitos tributários CF 100 §11\n+ EC 94/2016 (vencidos próprios) + EC 99/2017 (regime especial\n+ estimados) + EC 113/2021 (Selic até 09/09/2025) + EC 114/2021\n+ EC 136/2025 (IPCA + 2% a.a. no requisitório);\nSTF (RE 566.349) admite com previsão legal; cessão admitida\n(CF 100 §14); transação federal Lei 13.988/20 + Lei 14.973/24\npermite compensação com precatórios federais; PGFN Edital\npreferencial."
+description: "Usar para pesquisar ou analisar: Compensação de Precatórios com Débitos Tributários (CF 100 §11 + EC 94/16 + 99/17 + 113/21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compensação de Precatórios com Débitos Tributários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

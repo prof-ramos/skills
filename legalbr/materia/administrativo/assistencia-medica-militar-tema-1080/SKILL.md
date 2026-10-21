@@ -5,8 +5,8 @@ title: "Assistência Médica Militar para Pensionistas (Tema 1.080 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/assistencia-medica-militar-tema-1080.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/assistencia-medica-militar-tema-1080/SKILL.md"
 triggers:
   - "Tema 1.080 STJ"
   - "assistência médica militar FUNSA"
@@ -16,10 +16,15 @@ triggers:
   - "paridade pensão militar"
   - "filha pensionista"
   - "assistência médico-hospitalar Forças Armadas"
-description: "Tema 1.080 STJ (1ª Seção, 06/02/2025): NÃO há direito adquirido a\nregime jurídico de assistência médico-hospitalar militar. Pensão\npor morte = rendimento de trabalho assalariado. Aplicação analógica\ndo Lei 8.112/90 art. 198: não há dependência econômica se renda ≥\n1 SM. Administração pode fiscalizar requisitos com devido processo."
+description: "Usar para pesquisar ou analisar: Assistência Médica Militar para Pensionistas (Tema 1.080 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assistência Médica Militar para Pensionistas (Tema 1.080 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.080 STJ, 1ª Seção, 06/02/2025)
 

@@ -5,8 +5,8 @@ title: "Extinção do Crédito Tributário (CTN 156-174 + Lei 13.988/2020 transa
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/extincao-credito-tributario-ctn-156.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/extincao-credito-tributario-ctn-156/SKILL.md"
 triggers:
   - "extinção crédito tributário"
   - "CTN 156"
@@ -20,10 +20,15 @@ triggers:
   - "transação tributária"
   - "PGDAU"
   - "REsp 973.733"
-description: "Extinção crédito tributário CTN 156 (11 hipóteses + LC 104/2001\nincluiu DAÇÃO de IMÓVEIS XI; Lei 13.259/2016 disciplina);\ndecadência CTN 173 + prescrição CTN 174 (5+5a); REsp 973.733\nSTJ (homologação com pagto antecipado: CTN 150 §4; sem\npagto: CTN 173 I); Lei 13.988/2020 TRANSAÇÃO TRIBUTÁRIA (3\nmodalidades); editais PGDAU de transação da dívida ativa\n(descontos e parcelamento conforme o edital vigente)."
+description: "Usar para pesquisar ou analisar: Extinção do Crédito Tributário (CTN 156-174 + Lei 13.988/2020 transação). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extinção do Crédito Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 156: HIPÓTESES
 

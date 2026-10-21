@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "memoriais-tribunal-superior"
 version: 2
-sourcePath: "lib/skills/official/forma/memoriais-tribunal-superior.md"
+sourcePath: "legalbr/forma/memoriais-tribunal-superior/SKILL.md"
 triggers:
   - "memoriais"
   - "memorial STF"
@@ -14,10 +14,15 @@ triggers:
   - "memoriais para a sustentação oral"
   - "memorial no REsp em julgamento"
   - "memorial no RE em julgamento"
-description: "Memoriais em REsp/RE/STF/STJ entre admissão e julgamento. Sintetiza tese,\ndistingue do leading case, antecipa a sustentação oral (CPC 937; RI dos\ntribunais; 15 min em regra). Distribuição por peticionamento eletrônico\naos gabinetes. Pertinência: tese clara + precedente vinculante distinguido."
+description: "Usar para redigir ou revisar: Memoriais para Tribunal Superior. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Memoriais para Tribunal Superior
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Função
 

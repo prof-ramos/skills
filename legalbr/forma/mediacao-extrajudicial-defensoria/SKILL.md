@@ -5,8 +5,8 @@ title: "Mediação Extrajudicial pela Defensoria"
 category: "forma"
 materia: null
 documentType: "mediacao-defensoria"
-version: 1
-sourcePath: "lib/skills/official/forma/mediacao-extrajudicial-defensoria.md"
+version: 2
+sourcePath: "legalbr/forma/mediacao-extrajudicial-defensoria/SKILL.md"
 triggers:
   - "mediação defensoria"
   - "Lei 13.140"
@@ -16,10 +16,15 @@ triggers:
   - "acordo extrajudicial"
   - "termo de transação"
   - "solução extrajudicial"
-description: "Mediação e autocomposição extrajudicial pela DP (LC 80 art. 4 II e\nIV + Lei 13.140/2015): prioritária para a DP; abrange família,\nconsumidor, vizinhança, locação, conflitos comunitários; voluntariedade\n+ autodeterminação + confidencialidade; acordo gera título executivo\nEXTRAJUDICIAL (CPC 784 IV); homologação judicial opcional torna título\njudicial (CPC 515 II); vedações (direitos indisponíveis, vulnerabilidade\nextrema, violência doméstica sem cautelas)."
+description: "Usar para redigir ou revisar: Mediação Extrajudicial pela Defensoria. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mediação Extrajudicial pela Defensoria
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

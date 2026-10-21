@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "negatoria-paternidade"
 version: 2
-sourcePath: "lib/skills/official/forma/negatoria-paternidade.md"
+sourcePath: "legalbr/forma/negatoria-paternidade/SKILL.md"
 triggers:
   - "ação negatória de paternidade"
   - "contestação de paternidade pelo marido art. 1.601 CC"
@@ -15,10 +15,15 @@ triggers:
   - "exame de DNA exclusão de paternidade biológica"
   - "negatória de paternidade imprescritível"
   - "socioafetividade como óbice à negatória de paternidade"
-description: "Ação imprescritível para contestar paternidade (CC 1.601-1.604): DNA negativo\nisolado é insuficiente diante de socioafetividade consolidada (Tema 622 STF);\nreconhecimento voluntário só cai por erro ou falsidade (CC 1.604); MP atua."
+description: "Usar para redigir ou revisar: Ação Negatória de Paternidade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Negatória de Paternidade
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

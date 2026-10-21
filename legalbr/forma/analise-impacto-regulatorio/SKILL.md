@@ -5,8 +5,8 @@ title: "Análise de Impacto Regulatório (AIR)"
 category: "forma"
 materia: null
 documentType: "analise-impacto-regulatorio"
-version: 1
-sourcePath: "lib/skills/official/forma/analise-impacto-regulatorio.md"
+version: 2
+sourcePath: "legalbr/forma/analise-impacto-regulatorio/SKILL.md"
 triggers:
   - "AIR"
   - "análise de impacto regulatório"
@@ -15,10 +15,15 @@ triggers:
   - "Decreto 10.411"
   - "sandbox regulatório"
   - "análise de impacto concorrencial AICR"
-description: "Análise de Impacto Regulatório (AIR): instrumento obrigatório em\nagências federais (Lei 13.874/19 art. 5º + Dec. 10.411/20) e\nrecomendado em propostas normativas. Justifica edição/revisão de\nnorma com problema, alternativas, impactos, custos e monitoramento.\nPode incluir AICR (concorrencial) ou ARR (regulatory review)."
+description: "Usar para redigir ou revisar: Análise de Impacto Regulatório (AIR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Análise de Impacto Regulatório (AIR)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Saída Temporária (Regime Semiaberto)"
 category: "forma"
 materia: null
 documentType: "saida-temporaria"
-version: 1
-sourcePath: "lib/skills/official/forma/saida-temporaria.md"
+version: 2
+sourcePath: "legalbr/forma/saida-temporaria/SKILL.md"
 triggers:
   - "saída temporária"
   - "LEP 122"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.843"
   - "Tema 445 STJ"
   - "Súmula 520 STJ"
-description: "Saída temporária do semiaberto (LEP 122-125; Tema 445 STJ; Súm. 520\nSTJ). Lei 14.843/2024 (vigência 11/04/2024) REVOGOU as hipóteses de\nvisita à família (122 I) e atividades de convívio social (122 III) e o\nart. 124 (7 dias, 5 saídas/ano, condições): para fatos novos só resta\na saída para ESTUDO (122 II, tempo necessário: 122 §3º), vedada a\nhediondo/violência ou grave ameaça (122 §2º). Regime anterior (35\ndias/ano, visita à família) segue aplicável a fatos anteriores à\nvigência (irretroatividade: CF 5º XL). Requisitos: 1/6 da pena\n(primário) ou 1/4 (reincidente), comportamento adequado,\ncompatibilidade; calendário anual por ato judicial único."
+description: "Usar para redigir ou revisar: Saída Temporária (Regime Semiaberto). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Saída Temporária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "ADPF 165: Autocomposição em Controle Abstrato (Planos Econômicos)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-165-autocomposicao-controle-abstrato.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-165-autocomposicao-controle-abstrato/SKILL.md"
 triggers:
   - "ADPF 165"
   - "autocomposição STF"
@@ -16,10 +16,15 @@ triggers:
   - "expurgos inflacionários"
   - "homologação acordo controle abstrato"
   - "Lei 13.140/2015 mediação"
-description: "ADPF 165 (CONSIF, 2009): controle abstrato admite autocomposição.\nEm 16/02/2018, Min. Lewandowski homologou acordo coletivo sobre\nexpurgos inflacionários (Bresser/Verão/Collor II; aditivo 2020\npara Collor I). No mérito (maio/2025, rel. Cristiano Zanin), o\nPlenário declarou constitucionais os planos econômicos e reabriu\nprazo de adesão. Aplicação subsidiária da Lei 13.140/2015; Tema 264."
+description: "Usar para pesquisar ou analisar: ADPF 165: Autocomposição em Controle Abstrato (Planos Econômicos). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 165: Autocomposição em Controle Abstrato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

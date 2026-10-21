@@ -5,8 +5,8 @@ title: "Tempo de Atividade Rural por Menor de 12 anos (Tema 1.414 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/tempo-rural-menor-12-anos-tema-1414.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/tempo-rural-menor-12-anos-tema-1414/SKILL.md"
 triggers:
   - "Tema 1.414 STF"
   - "tempo rural menor 12 anos"
@@ -18,10 +18,15 @@ triggers:
   - "economia familiar"
   - "menor 14 anos rural"
   - "cômputo previdenciário de trabalho infantil"
-description: "Tema 1.414 STF (ARE 1.531.515, 09/08/2025): o STF reconheceu a\nAUSÊNCIA de repercussão geral (matéria infraconstitucional) da\ncontagem de tempo rural exercido por pessoa com MENOS DE 12 ANOS.\nO reconhecimento favorável decorre da jurisprudência do STJ (1ª\nTurma): cabe o cômputo do trabalho rural infantil para fins\nprevidenciários, ainda que vedado o trabalho infantil (CF 7\nXXXIII), pois a norma protetiva não pode prejudicar o ex-menor."
+description: "Usar para pesquisar ou analisar: Tempo de Atividade Rural por Menor de 12 anos (Tema 1.414 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tempo Rural por Menor de 12 anos: Reconhecimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

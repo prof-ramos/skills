@@ -5,8 +5,8 @@ title: "Falência + Recuperação Transnacional (Lei 14.112/2020 + UNCITRAL Mode
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/falencia-transnacional-lei-14112.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/falencia-transnacional-lei-14112/SKILL.md"
 triggers:
   - "falência transnacional"
   - "insolvência transfronteiriça"
@@ -17,10 +17,15 @@ triggers:
   - "representante estrangeiro"
   - "cooperação internacional insolvência"
   - "cross border insolvency"
-description: "Falência + Recuperação Transnacional: **Lei 14.112/2020** (incluiu\nCapítulo VI-A na Lei 11.101/2005, arts. **167-A a 167-Y**). Baseada\nna **UNCITRAL Model Law on Cross-Border Insolvency** (1997). Quatro\npilares: **acesso + reconhecimento + cooperação + medidas de apoio**.\nReconhecimento: processo estrangeiro **principal** (centro principal\nde interesses, COMI) ou **não principal** (estabelecimento).\n**Cláusula barreira de ordem pública** (art. 167-A §4). Competência:\njuiz do principal estabelecimento do devedor no Brasil. Representante\nestrangeiro tem legitimidade direta. Coordenação com Lei 11.101 +\nCPC + CTN. Aplicação: grupos multinacionais + recuperações\ninternacionais (Latam, Oi, Odebrecht)."
+description: "Usar para pesquisar ou analisar: Falência + Recuperação Transnacional (Lei 14.112/2020 + UNCITRAL Model Law). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência + Recuperação Transnacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

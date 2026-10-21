@@ -5,8 +5,8 @@ title: "Consórcio Empresarial (LSA arts. 278-279)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/consorcio-empresarial.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/consorcio-empresarial/SKILL.md"
 triggers:
   - "consórcio empresarial"
   - "LSA 278"
@@ -20,10 +20,15 @@ triggers:
   - "partilha de resultados"
   - "Lei Geral de Licitações"
   - "consórcio em licitação"
-description: "Consórcio empresarial (LSA 278-279): sem personalidade\njurídica; NÃO solidária (salvo trabalhista e tributário);\nlíder; Junta Comercial; consórcio em licitações (Lei 14.133/21)."
+description: "Usar para pesquisar ou analisar: Consórcio Empresarial (LSA arts. 278-279). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Consórcio Empresarial (LSA arts. 278-279)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

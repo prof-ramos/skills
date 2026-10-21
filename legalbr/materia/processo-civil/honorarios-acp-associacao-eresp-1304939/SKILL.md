@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais em ACP de Associação Privada (EREsp 1.304.93
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-acp-associacao-eresp-1304939.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-acp-associacao-eresp-1304939/SKILL.md"
 triggers:
   - "EREsp 1.304.939"
   - "honorários ACP associação"
@@ -14,10 +14,15 @@ triggers:
   - "CDC art 87"
   - "sucumbência ação civil pública"
   - "réu vencido associação"
-description: "EREsp 1.304.939/RS (Corte Especial, j. 20/08/2025, DJEN\n30/10/2025): cabe condenação do RÉU VENCIDO em honorários\nsucumbenciais quando a ACP é ajuizada por ASSOCIAÇÃO ou FUNDAÇÃO\nPRIVADA. A simetria do art. 18 da Lei 7.347 (isenção recíproca,\nsalvo má-fé) vale apenas quando o autor é MP ou ente público\n(EAREsp 962.250). Não há tema repetitivo numerado sobre a matéria."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais em ACP de Associação Privada (EREsp 1.304.939 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais em ACP de Associação Privada (EREsp 1.304.939 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Precedente da Corte Especial (EREsp 1.304.939/RS)
 

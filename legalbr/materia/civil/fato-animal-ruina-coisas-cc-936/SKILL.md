@@ -5,8 +5,8 @@ title: "Fato do Animal, Ruína e Coisas Caídas + Responsabilidade do Condomíni
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/fato-animal-ruina-coisas-cc-936.md"
+version: 2
+sourcePath: "legalbr/materia/civil/fato-animal-ruina-coisas-cc-936/SKILL.md"
 triggers:
   - "fato do animal CC 936"
   - "ataque de cachorro indenização"
@@ -19,10 +19,15 @@ triggers:
   - "infiltração unidade condominial"
   - "dano causado por animal dono detentor"
   - "EREsp 268.669"
-description: "Responsabilidade objetiva pelo fato do animal (CC 936: dono/detentor, só\nelidida por culpa da vítima ou força maior), pela ruína de edifício (CC\n937) e por coisas caídas ou lançadas (CC 938, effusis et dejectis), com a\ncamada do condomínio: queda de objeto de unidade não identificada,\ninfiltrações e furto em área comum apenas com previsão expressa na\nconvenção (EREsp 268.669/SP); solidariedade do CC 942."
+description: "Usar para pesquisar ou analisar: Fato do Animal, Ruína e Coisas Caídas + Responsabilidade do Condomínio (CC 936-938). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fato do Animal, Ruína e Coisas Caídas (CC 936-938)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Responsabilidade pelo fato da coisa e do animal, incluída a posição do condomínio edilício. Teoria geral do ilícito em [[responsabilidade-civil-nexo-cc-186]]; regime societário do condomínio em [[condominio-edilicio-multipropriedade]].
 

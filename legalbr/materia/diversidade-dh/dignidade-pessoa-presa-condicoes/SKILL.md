@@ -5,8 +5,8 @@ title: "Dignidade da Pessoa Presa e Condições Carcerárias"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/dignidade-pessoa-presa-condicoes.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/dignidade-pessoa-presa-condicoes/SKILL.md"
 triggers:
   - "dignidade pessoa presa"
   - "condições degradantes"
@@ -18,10 +18,15 @@ triggers:
   - "SV 56 falta de vaga"
   - "Súm. 715 STF"
   - "direitos pessoa presa"
-description: "Dignidade da pessoa presa + condições carcerárias degradantes: ADPF\n347 (Estado de Coisas Inconstitucional 2015 + 2023); Tema 365 STF\n(RE 580.252 - responsabilidade do Estado por danos morais a pessoa\npresa); SV 56 + Súm. 715 STF; Regras de Mandela; LEP arts. 10-27 e\n85-87 (direitos); cumprimento em regime mais brando por falta de vaga;\ncontrole judicial das condições; legitimidade DP para ACP + HC\ncoletivo (LC 80 art. 4 XVII)."
+description: "Usar para pesquisar ou analisar: Dignidade da Pessoa Presa e Condições Carcerárias. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dignidade da Pessoa Presa e Condições Carcerárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

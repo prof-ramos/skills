@@ -5,8 +5,8 @@ title: "Tribunal de Contas + Controle Externo (CF 70-75 + Lei 8.443/1992)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/tribunal-contas-cf-70-75.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/tribunal-contas-cf-70-75/SKILL.md"
 triggers:
   - "tribunal de contas"
   - "acórdão do TCU"
@@ -21,10 +21,15 @@ triggers:
   - "contas de governo"
   - "contas de gestão"
   - "Tema 835 STF"
-description: "Tribunal de Contas sob CF 70-75 + Lei 8.443/1992 (LOTCU):\ncontrole externo do CN auxiliado pelo TCU (órgão\nadministrativo autônomo, não judicial); CF 71 (julgar contas\n+ sanções + sustar atos); SV 3 + Tema 445 STF (prazo de 5 anos,\ncontado da chegada do processo, para o TC julgar a concessão\ninicial de aposentadoria/reforma/pensão);\nCF 75 (simetria a TCEs); CF 31 §4 (vedação a novos TCMs);\ncontas de governo × contas de gestão de prefeitos (Temas 157,\n835 e 1.287 STF + ADPF 982 + LC 64 art. 1 I g)."
+description: "Usar para pesquisar ou analisar: Tribunal de Contas + Controle Externo (CF 70-75 + Lei 8.443/1992). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tribunal de Contas + Controle Externo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais (CF 70-75)
 

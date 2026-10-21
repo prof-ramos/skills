@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "alvara-judicial"
 version: 2
-sourcePath: "lib/skills/official/forma/alvara-judicial.md"
+sourcePath: "legalbr/forma/alvara-judicial/SKILL.md"
 triggers:
   - "alvará judicial"
   - "levantamento de valores"
@@ -17,10 +17,15 @@ triggers:
   - "Resolução CNJ 684/2026"
   - "alvará atividade artística digital"
   - "Resolução CNJ 687/2026"
-description: "Alvará judicial em jurisdição voluntária (CPC 719-725): Lei 6.858/1980, alienação de bens de incapaz, inumação de corpos (Res. CNJ 684/2026) e atividade artística infantil digital (Res. CNJ 687/2026)."
+description: "Usar para redigir ou revisar: Alvará Judicial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alvará Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza e cabimento
 

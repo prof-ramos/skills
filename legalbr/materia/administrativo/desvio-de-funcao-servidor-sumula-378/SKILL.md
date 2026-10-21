@@ -5,8 +5,8 @@ title: "Desvio de Função do Servidor Estatutário (Súm. 378 STJ + Tema 14 STJ
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/desvio-de-funcao-servidor-sumula-378.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desvio-de-funcao-servidor-sumula-378/SKILL.md"
 triggers:
   - "desvio de função servidor"
   - "Súmula 378 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "atribuições de cargo diverso"
   - "cargo paradigma"
   - "Súmula 85 STJ trato sucessivo"
-description: "Desvio de função do servidor estatutário: direito às diferenças\nsalariais (Súm. 378 STJ, reafirmada no Tema 14 dos repetitivos), sem\nreenquadramento (SV 43: vedado provimento derivado), prescrição\nquinquenal de trato sucessivo (Súm. 85 STJ), prova do exercício das\natribuições do cargo diverso e cálculo pela remuneração do paradigma."
+description: "Usar para pesquisar ou analisar: Desvio de Função do Servidor Estatutário (Súm. 378 STJ + Tema 14 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desvio de Função do Servidor Estatutário (Súm. 378 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas e precedentes
 

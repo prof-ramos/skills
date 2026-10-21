@@ -5,8 +5,8 @@ title: "Responsabilidade por Má Conservação de Vias e Logradouros Públicos"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-ma-conservacao-vias-publicas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-ma-conservacao-vias-publicas/SKILL.md"
 triggers:
   - "buraco na via pública"
   - "queda em bueiro sem tampa"
@@ -18,10 +18,15 @@ triggers:
   - "DNIT acidente em rodovia"
   - "sinalização deficiente da via"
   - "queda de motociclista em buraco"
-description: "Responsabilidade do ente público por má conservação de vias e logradouros:\nburaco e bueiro sem sinalização, queda de árvore, calçadas e semáforos\ninoperantes, animais em rodovia não concedida (DNIT/DER). Omissão específica\nno dever de conservar, CTB 1 §3, culpa concorrente (CC 945) e prova do nexo.\nVia pedagiada fica no Tema 1.122 STJ (skill concessionaria-materia)."
+description: "Usar para pesquisar ou analisar: Responsabilidade por Má Conservação de Vias e Logradouros Públicos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade por Má Conservação de Vias e Logradouros Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

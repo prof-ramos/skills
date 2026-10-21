@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "pedido-falencia"
 version: 2
-sourcePath: "lib/skills/official/forma/pedido-falencia.md"
+sourcePath: "legalbr/forma/pedido-falencia/SKILL.md"
 triggers:
   - "pedido de falência"
   - "arts. 94 a 101 Lei 11.101/05"
@@ -15,10 +15,15 @@ triggers:
   - "atos de falência art. 94 III"
   - "protesto de títulos para falência"
   - "pedido de falência e depósito elisivo do devedor"
-description: "Pedido de falência (arts. 94-101 Lei 11.101): hipóteses TAXATIVAS do art.\n94: I impontualidade injustificada > 40 SM com protesto ESPECÍFICO para\nfins falimentares (Súm. 361 STJ); II execução frustrada; III atos de\nfalência. Devedor contesta em 10 DIAS (não 15) e pode fazer DEPÓSITO\nELISIVO (art. 98 p.ú.) que afasta a falência. Crédito tributário NÃO\nlegitima."
+description: "Usar para redigir ou revisar: Pedido de Falência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Falência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

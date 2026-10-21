@@ -5,8 +5,8 @@ title: "Outorga Conjugal/Uxória (CC 1.647-1.650 + Súm. 332 STJ)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/outorga-conjugal-cc-1647.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/outorga-conjugal-cc-1647/SKILL.md"
 triggers:
   - "outorga uxória"
   - "outorga marital"
@@ -22,10 +22,15 @@ triggers:
   - "participação final aquestos"
   - "Súm. 332 STJ"
   - "outorga união estável"
-description: "Outorga conjugal CC 1.647: na alienação/oneração de imóvel +\nfiança + aval + doação não remuneratória de imovel exige\nANUÊNCIA do outro cônjuge (salvo regime de SEPARAÇÃO ABSOLUTA);\nart. 1.648 autorização judicial supletiva; art. 1.649 anulável\n- prazo 2 anos pos-dissolução da sociedade (CC 1.649); Súm. 332\nSTJ (fiança sem outorga: INEFICÁCIA TOTAL da garantia); união\nestável."
+description: "Usar para pesquisar ou analisar: Outorga Conjugal/Uxória (CC 1.647-1.650 + Súm. 332 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Outorga Conjugal (Uxória/Marital)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

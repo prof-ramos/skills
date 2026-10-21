@@ -5,8 +5,8 @@ title: "Extravio e Avaria de Encomendas e Mudanças (Correios e Transportadoras)
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/extravio-encomenda-correios-transportadora.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/extravio-encomenda-correios-transportadora/SKILL.md"
 triggers:
   - "extravio de encomenda"
   - "encomenda extraviada"
@@ -19,10 +19,15 @@ triggers:
   - "valor declarado postagem"
   - "transportadora encomenda"
   - "ECT indenização"
-description: "Extravio, avaria e atraso de encomendas e mudanças (ECT e\ntransportadoras) na relação de consumo: CDC 14 + 22 e CF 37 §6º\nafastam a lógica tarifada da Lei 6.538/1978; extravio de objeto\nregistrado gera dano moral in re ipsa (EREsp 1.097.266/PB, 2ª\nSeção; Tema 185 TNU); valor declarado como reforço probatório;\navaria em mudança residencial; competência federal quando ré a ECT."
+description: "Usar para pesquisar ou analisar: Extravio e Avaria de Encomendas e Mudanças (Correios e Transportadoras). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extravio e Avaria de Encomendas e Mudanças
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Enquadramento
 

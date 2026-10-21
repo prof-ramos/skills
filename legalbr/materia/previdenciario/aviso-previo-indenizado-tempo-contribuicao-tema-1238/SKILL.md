@@ -5,8 +5,8 @@ title: "Aviso Prévio Indenizado + Tempo de Contribuição (Tema 1.238 STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aviso-previo-indenizado-tempo-contribuicao-tema-1238.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aviso-previo-indenizado-tempo-contribuicao-tema-1238/SKILL.md"
 triggers:
   - "Tema 1.238 STJ"
   - "aviso prévio indenizado tempo contribuição"
@@ -14,10 +14,15 @@ triggers:
   - "aposentadoria tempo serviço"
   - "contribuição previdenciária aviso prévio"
   - "CLT 487 aviso prévio"
-description: "Tema 1.238 STJ (1ª Seção): NÃO é possível o cômputo\ndo período do aviso prévio INDENIZADO como tempo de serviço para\nfins previdenciários. Natureza INDENIZATÓRIA (não salarial) +\nausência de contribuição previdenciária sobre a verba afastam o\nreconhecimento como tempo de contribuição."
+description: "Usar para pesquisar ou analisar: Aviso Prévio Indenizado + Tempo de Contribuição (Tema 1.238 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aviso Prévio Indenizado + Tempo de Contribuição (Tema 1.238 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.238 STJ, 1ª Seção)
 

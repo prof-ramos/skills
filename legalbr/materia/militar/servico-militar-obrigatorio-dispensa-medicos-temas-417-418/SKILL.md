@@ -6,7 +6,7 @@ category: "materia"
 materia: "militar"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/militar/servico-militar-obrigatorio-dispensa-medicos-temas-417-418.md"
+sourcePath: "legalbr/materia/militar/servico-militar-obrigatorio-dispensa-medicos-temas-417-418/SKILL.md"
 triggers:
   - "serviço militar obrigatório"
   - "dispensa por excesso de contingente"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 12.336 convocação"
   - "MFDV serviço militar"
   - "arrimo de família dispensa"
-description: "Conscrição em tempo de paz: isenções, adiamento e dispensa de incorporação\n(Lei 4.375/64), regime dos médicos, farmacêuticos, dentistas e veterinários\n(Lei 5.292/67 e Lei 12.336/2010) e Temas 417/418 STJ (dispensados por excesso\nde contingente x adiamento; marco temporal de 26/10/2010). MS na Justiça Federal."
+description: "Usar para pesquisar ou analisar: Serviço Militar Obrigatório, Dispensa, Adiamento e Médicos/Dentistas (Temas 417 e 418 STJ + Lei 4.375/64). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Serviço Militar Obrigatório: Dispensa, Adiamento e MFDV
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

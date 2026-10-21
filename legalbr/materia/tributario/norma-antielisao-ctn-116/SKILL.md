@@ -5,8 +5,8 @@ title: "Norma Antielisão (CTN 116 par. único + LC 104/2001 + ADI 2.446 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/norma-antielisao-ctn-116.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/norma-antielisao-ctn-116/SKILL.md"
 triggers:
   - "norma antielisão"
   - "CTN 116 par. único"
@@ -21,10 +21,15 @@ triggers:
   - "CTN 173 I"
   - "Súm. 555 STJ"
   - "propósito negocial"
-description: "CTN 116 par. único (LC 104/2001) NORMA GERAL ANTIELISIVA:\nautoridade desconsidera atos com finalidade de DISSIMULAR FG;\nADI 2.446 STF (2022) CONSTITUCIONAL, restrita a dissimulação\n+ exige LO regulamentadora (MP 66/2002 não convertida); ELISÃO\nlícita × EVASÃO ilícita × ELUSÃO simulação atípica; CTN 149 VII\nrevisão dolo/fraude/simulação; decadência CTN 173 I (não 150 §4,\nSúm. 555 STJ); propósito negocial + substância como critérios\nusuais do contencioso administrativo, sem previsão legal."
+description: "Usar para pesquisar ou analisar: Norma Antielisão (CTN 116 par. único + LC 104/2001 + ADI 2.446 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Norma Antielisão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 116 par. único (LC 104/2001)
 

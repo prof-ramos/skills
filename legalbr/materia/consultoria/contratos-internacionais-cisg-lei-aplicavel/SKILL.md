@@ -5,8 +5,8 @@ title: "Contratos Internacionais (CISG + LINDB + Lei Aplicável)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/contratos-internacionais-cisg-lei-aplicavel.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/contratos-internacionais-cisg-lei-aplicavel/SKILL.md"
 triggers:
   - "contrato internacional"
   - "cross-border"
@@ -16,10 +16,15 @@ triggers:
   - "foro internacional"
   - "apostila"
   - "tradução juramentada"
-description: "Contratos internacionais: LINDB art. 9º (lei aplicável), CISG/Viena\n1980 (Dec. 8.327/14, compra e venda de mercadorias), Convenção de\nNova York (Dec. 4.311/02, arbitragem), apostila (Dec. 8.660/16),\ntradução juramentada, Incoterms 2020, escolha de foro/arbitragem,\ncláusulas de hardship, jurisdição."
+description: "Usar para pesquisar ou analisar: Contratos Internacionais (CISG + LINDB + Lei Aplicável). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos Internacionais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

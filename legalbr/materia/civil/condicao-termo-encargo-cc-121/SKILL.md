@@ -5,8 +5,8 @@ title: "Condição, Termo e Encargo (CC 121-137)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/condicao-termo-encargo-cc-121.md"
+version: 2
+sourcePath: "legalbr/materia/civil/condicao-termo-encargo-cc-121/SKILL.md"
 triggers:
   - "termo inicial e final CC 131"
   - "encargo modal CC 136"
@@ -19,10 +19,15 @@ triggers:
   - "condicao resolutiva"
   - "elementos acidentais"
   - "modus"
-description: "Elementos acidentais do negócio jurídico (CC 121-137): condição\n(CC 121, evento futuro e incerto), termo (CC 131, evento certo)\ne encargo (CC 136). Condição suspensiva (CC 125) × resolutiva (CC\n127); condições proibidas (CC 122, fisicamente impossíveis,\njuridicamente impossíveis, perplexas, puramente potestativas)."
+description: "Usar para pesquisar ou analisar: Condição, Termo e Encargo (CC 121-137). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Condição, Termo e Encargo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Visão geral
 

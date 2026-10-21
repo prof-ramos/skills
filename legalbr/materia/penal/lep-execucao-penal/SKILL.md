@@ -5,8 +5,8 @@ title: "LEP, Execução Penal (Lei 7.210/84 + Anticrime + Lei 14.843/2024)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lep-execucao-penal.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lep-execucao-penal/SKILL.md"
 triggers:
   - "LEP"
   - "Lei 7.210/84"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 14.843/2024"
   - "ADPF 347 pena justa"
   - "SV 56 STF"
-description: "Execução penal sob Lei 7.210/84 + Leis 13.964/2019, 14.843/2024,\n15.358/2026 e 15.402/2026: progressão LEP 112 vigente (regra geral\n1/6; exceções 25/30/20%; hediondos 70-85%); frações da 13.964\n(16-30% e 40-70%) regem fatos anteriores, por irretroatividade;\nLei 15.402/2026 vigente, com aplicação suspensa\nsó nas execuções penais do 8/1 no STF; SV 56 (falta\nde vaga = domiciliar); HC 111.840 (regime fechado obrigatório\ninconstitucional); remição trabalho/estudo/leitura (Tema 1.278);\nADPF 347 (Plano Pena Justa 2024); Tema 1.068 (execução provisória\npós-Júri); Temas 1.347, 1.354, 1.355, 1.367 e 1.405 STJ."
+description: "Usar para pesquisar ou analisar: LEP, Execução Penal (Lei 7.210/84 + Anticrime + Lei 14.843/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LEP: Execução Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

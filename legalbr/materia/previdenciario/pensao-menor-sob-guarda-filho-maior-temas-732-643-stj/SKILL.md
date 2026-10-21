@@ -5,8 +5,8 @@ title: "Pensão por Morte, Menor sob Guarda e Filho Maior de 21 Anos (ADIs 4.878
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/pensao-menor-sob-guarda-filho-maior-temas-732-643-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/pensao-menor-sob-guarda-filho-maior-temas-732-643-stj/SKILL.md"
 triggers:
   - "menor sob guarda pensão por morte"
   - "Tema 732 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "pensão filho universitário 24 anos"
   - "avós guardiões pensão"
   - "prorrogação pensão maior de 21"
-description: "Habilitação do menor sob guarda como dependente do RGPS (Tema 732 STJ,\nADIs 4.878/5.083 STF e Lei 15.108/2025, que reincluiu a hipótese no\nart. 16 §2 da Lei 8.213) e vedação de prorrogação da pensão ao filho\nmaior de 21 anos não inválido, inclusive universitário (Tema 643 STJ\n+ Súm. 37 TNU)."
+description: "Usar para pesquisar ou analisar: Pensão por Morte, Menor sob Guarda e Filho Maior de 21 Anos (ADIs 4.878/5.083 + Temas 732 e 643 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pensão por Morte: Menor sob Guarda e Filho Maior de 21 Anos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Recorte desta skill: **quem pode se habilitar** (menor sob guarda) e **quando cessa** a cota do filho/equiparado (limite de 21 anos). Classes de dependentes, DIB, cálculo e duração da cota do cônjuge: vide [[pensao-morte-lei-8213]] e [[pensao-morte-ec-103-adi-7051]].
 

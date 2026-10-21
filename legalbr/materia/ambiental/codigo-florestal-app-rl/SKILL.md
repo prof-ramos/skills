@@ -5,8 +5,8 @@ title: "Código Florestal: APP + RL + CAR + PRA (Lei 12.651/2012)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/codigo-florestal-app-rl.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/codigo-florestal-app-rl/SKILL.md"
 triggers:
   - "código florestal"
   - "APP"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 623 STJ"
   - "compensação por mesmo bioma"
   - "Tema 1.204 STJ"
-description: "Código Florestal (Lei 12.651/2012; CF 225): APP (áreas de\npreservação permanente e suas faixas); RL (Reserva Legal) e cômputo\nda APP; CAR (cadastro ambiental rural) e PRA (programa de\nregularização ambiental); ADC 42/ADIs 4.901-4.937 STF; obrigações\npropter rem (Súm. 623 STJ)."
+description: "Usar para pesquisar ou analisar: Código Florestal: APP + RL + CAR + PRA (Lei 12.651/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Código Florestal: APP + RL + CAR + PRA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

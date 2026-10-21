@@ -5,8 +5,8 @@ title: "Regulamento Interno (empresa, condomínio, associação)"
 category: "forma"
 materia: null
 documentType: "regulamento-interno"
-version: 1
-sourcePath: "lib/skills/official/forma/regulamento-interno.md"
+version: 2
+sourcePath: "legalbr/forma/regulamento-interno/SKILL.md"
 triggers:
   - "regulamento interno"
   - "regimento interno"
@@ -14,10 +14,15 @@ triggers:
   - "regulamento condomínio"
   - "regulamento de pessoal"
   - "manual do colaborador"
-description: "Regulamento interno: norma corporativa de detalhamento operacional\nem empresa (CLT 444 + Súm. 51 TST), condomínio edilício (CC 1.336),\nassociação (CC 53), entidade fechada de previdência (LC 109).\nVinculante quando comunicado e aderido, observado direito do trabalho\ne princípios constitucionais."
+description: "Usar para redigir ou revisar: Regulamento Interno (empresa, condomínio, associação). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regulamento Interno
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

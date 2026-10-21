@@ -5,8 +5,8 @@ title: "Leitos de UTI, Internações, Cirurgias, Insumos e TFD no SUS (Tema 1.03
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/leitos-uti-internacao-cirurgia-tfd-sus-tema-1033.md"
+version: 2
+sourcePath: "legalbr/materia/saude/leitos-uti-internacao-cirurgia-tfd-sus-tema-1033/SKILL.md"
 triggers:
   - "leito de UTI"
   - "vaga em UTI"
@@ -20,10 +20,15 @@ triggers:
   - "Portaria 55/1999"
   - "custeio de transporte paciente SUS"
   - "home care SUS"
-description: "Judicialização de serviços de saúde do SUS: leito de UTI, internação\nclínica, cirurgia, insumos, home care e Tratamento Fora do Domicílio (TFD,\nPortaria SAS/MS 55/1999). Tema 1.033 STF (RE 666.094): ressarcimento da\nunidade privada que cumpre ordem judicial pelo critério do ressarcimento ao\nSUS fixado pela ANS (Lei 9.656/98 art. 32), não pelo preço de balcão. Não\ncobre medicamentos (Tema 6/SV 60-61) nem internação psiquiátrica."
+description: "Usar para pesquisar ou analisar: Leitos de UTI, Internações, Cirurgias, Insumos e TFD no SUS (Tema 1.033 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Leitos de UTI, Internações, Cirurgias, Insumos e TFD no SUS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Escopo
 

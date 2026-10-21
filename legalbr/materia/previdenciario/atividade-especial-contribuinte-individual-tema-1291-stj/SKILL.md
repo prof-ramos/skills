@@ -5,8 +5,8 @@ title: "Atividade Especial + Contribuinte Individual Não Cooperado (Tema 1.291 
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/atividade-especial-contribuinte-individual-tema-1291-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/atividade-especial-contribuinte-individual-tema-1291-stj/SKILL.md"
 triggers:
   - "Tema 1.291 STJ previdenciário"
   - "atividade especial autônomo"
@@ -15,10 +15,15 @@ triggers:
   - "LTCAT contribuinte individual"
   - "exposição agentes nocivos autônomo"
   - "sem empresa formulário tempo especial"
-description: "Tema 1.291 STJ (1ª Seção, repetitivo): o contribuinte individual\nNÃO COOPERADO tem direito ao reconhecimento de atividade especial\npós-Lei 9.032/95, desde que COMPROVE exposição a agentes nocivos.\nNÃO se exige formulário emitido por empresa (PPP empresarial).\nAceitam-se PPP próprio + LTCAT por médico do trabalho / engenheiro\nde segurança."
+description: "Usar para pesquisar ou analisar: Atividade Especial + Contribuinte Individual Não Cooperado (Tema 1.291 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atividade Especial + Contribuinte Individual Não Cooperado (Tema 1.291 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.291 STJ, 1ª Seção)
 

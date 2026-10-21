@@ -5,8 +5,8 @@ title: "CADIN, Cadastro Informativo de Créditos Não Quitados (Lei 10.522/2002)
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/cadin-lei-10522.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cadin-lei-10522/SKILL.md"
 triggers:
   - "CADIN"
   - "Lei 10.522/2002"
@@ -15,10 +15,15 @@ triggers:
   - "relação com órgão público"
   - "liberação de crédito federal"
   - "benefício fiscal CADIN"
-description: "CADIN Lei 10.522/02: cadastro de pessoas físicas/jurídicas com\nobrigações pecuniárias vencidas e não pagas perante órgãos da\nADM Pública FEDERAL; consulta obrigatória para concessão de\ncrédito, incentivo, benefício, financiamento federal; STF não\nconsidera sanção política se observado contraditório; suspensão\nde exigibilidade (CTN 151) → exclusão automática; rito de\ninclusão e exclusão; impugnação cabível."
+description: "Usar para pesquisar ou analisar: CADIN, Cadastro Informativo de Créditos Não Quitados (Lei 10.522/2002). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CADIN: Cadastro Informativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

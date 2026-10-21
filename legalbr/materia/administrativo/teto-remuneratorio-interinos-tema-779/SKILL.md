@@ -5,8 +5,8 @@ title: "Teto Remuneratório de Interinos em Serventias Extrajudiciais (Tema 779 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/teto-remuneratorio-interinos-tema-779.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/teto-remuneratorio-interinos-tema-779/SKILL.md"
 triggers:
   - "Tema 779 STF"
   - "teto interinos serventias"
@@ -16,10 +16,15 @@ triggers:
   - "CF 37 XI"
   - "Lei 8.935/94"
   - "delegação cartorial"
-description: "Tema 779 STF (RE 808.202, 24/08/2020): aplica-se o TETO\nREMUNERATÓRIO constitucional (CF 37 XI) aos delegatários\ninterinos (substitutos) de serventias extrajudiciais que\nrecebem por delegação precária da Administração, equiparando-se\na servidores públicos para esse fim. Não atinge titulares\nefetivos (delegados aprovados em concurso)."
+description: "Usar para pesquisar ou analisar: Teto Remuneratório de Interinos em Serventias Extrajudiciais (Tema 779 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teto Remuneratório dos Interinos em Cartórios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

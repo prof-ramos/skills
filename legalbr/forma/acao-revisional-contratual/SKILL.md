@@ -5,8 +5,8 @@ title: "Ação Revisional de Contrato"
 category: "forma"
 materia: null
 documentType: "acao-revisional-contratual"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-revisional-contratual.md"
+version: 2
+sourcePath: "legalbr/forma/acao-revisional-contratual/SKILL.md"
 triggers:
   - "ação revisional"
   - "revisão contratual"
@@ -14,10 +14,15 @@ triggers:
   - "teoria da imprevisão"
   - "cláusula abusiva"
   - "superendividamento"
-description: "Revisão por onerosidade excessiva (CC 478), imprevisão (CC 317), fato\nsuperveniente (CDC 6º V), abusividade (CDC 51) e superendividamento\n(Lei 14.181/21). Súm 380/STJ: depósito do incontroverso para suspender mora."
+description: "Usar para redigir ou revisar: Ação Revisional de Contrato. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Revisional de Contrato
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e fundamentos
 

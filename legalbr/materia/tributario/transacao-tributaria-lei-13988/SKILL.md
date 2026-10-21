@@ -5,8 +5,8 @@ title: "Transação Tributária (Lei 13.988/2020 + Lei 14.375/2022 + CTN 171)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/transacao-tributaria-lei-13988.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/transacao-tributaria-lei-13988/SKILL.md"
 triggers:
   - "transação tributária"
   - "Lei 13.988/2020"
@@ -18,10 +18,15 @@ triggers:
   - "transação PGFN"
   - "Portaria 6.757/2022"
   - "cumprimento integral extingue crédito"
-description: "Transação tributária sob CTN 171 + Lei 13.988/2020 + Lei 14.375/\n2022: modalidades adesão + individual + contencioso + pequeno\nvalor; descontos até 65% (juros/multas/encargos); parcelamento\n120m PF e 84m PJ; uso de prejuízo fiscal e precatórios; CAPAG da\nPGFN; transação NÃO é renúncia de receita (extinção do crédito com\nconcessões recíprocas); cumprimento integral extingue (CTN 156 III)\n+ extingue punibilidade do crime tributário (Lei 10.684 art. 9)."
+description: "Usar para pesquisar ou analisar: Transação Tributária (Lei 13.988/2020 + Lei 14.375/2022 + CTN 171). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transação Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal e constitucional
 

@@ -5,8 +5,8 @@ title: "Correição Parcial Criminal (Lei 5.010/66 + RI dos tribunais)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/correicao-parcial-criminal.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/correicao-parcial-criminal/SKILL.md"
 triggers:
   - "correição parcial"
   - "reclamação correicional"
@@ -14,10 +14,15 @@ triggers:
   - "tumulto processual"
   - "sem recurso específico"
   - "Súm. 267 STF"
-description: "Correição parcial: medida atípica (não recurso) contra ato/decisão\njudicial que cause TUMULTO PROCESSUAL e para a qual NÃO haja\nrecurso específico. Base: leis de organização judiciária (na\nJustiça Federal, Lei 5.010/66) + Regimentos Internos dos\nTribunais (RITJ + RITRF). Subsidiariedade absoluta: cabe APENAS\nna ausência de recurso típico. Natureza administrativa-correicional.\nPrazo variável (RI). NÃO confundir com HC + RESE + carta\ntestemunhável; Súm. 267 STF correlata (MS × recurso/correição)."
+description: "Usar para pesquisar ou analisar: Correição Parcial Criminal (Lei 5.010/66 + RI dos tribunais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Correição Parcial Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

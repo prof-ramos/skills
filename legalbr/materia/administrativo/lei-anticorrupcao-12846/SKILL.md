@@ -5,8 +5,8 @@ title: "Lei Anticorrupção (Lei 12.846/2013 + Decreto 11.129/2022)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/lei-anticorrupcao-12846.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-anticorrupcao-12846/SKILL.md"
 triggers:
   - "Lei Anticorrupção"
   - "Lei 12.846/2013"
@@ -18,10 +18,15 @@ triggers:
   - "Portaria CGU/AGU 1/2025"
   - "empresas inidôneas e suspensas"
   - "cadastro nacional de empresas punidas"
-description: "Lei Anticorrupção sob Lei 12.846/2013 + Dec. 11.129/2022 +\nPortaria CGU/AGU 1/2025: responsabilidade objetiva da PJ por\natos lesivos (art. 5); sanções administrativas (multa 0,1-20% +\npublicização) + judiciais (art. 19: perdimento, suspensão,\ndissolução); PAR (8-15); acordo de leniência (art. 16) com\nredução até 2/3; programa de integridade (Dec. 11.129)."
+description: "Usar para pesquisar ou analisar: Lei Anticorrupção (Lei 12.846/2013 + Decreto 11.129/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Anticorrupção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Núcleo normativo
 

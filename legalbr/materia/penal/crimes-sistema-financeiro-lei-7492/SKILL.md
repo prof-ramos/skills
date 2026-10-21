@@ -5,8 +5,8 @@ title: "Crimes contra o Sistema Financeiro Nacional (Lei 7.492/86)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-sistema-financeiro-lei-7492.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-sistema-financeiro-lei-7492/SKILL.md"
 triggers:
   - "Lei 7.492"
   - "crime colarinho branco"
@@ -22,10 +22,15 @@ triggers:
   - "criptoativos"
   - "DCBE BACEN"
   - "competência justiça federal Lei 7.492 art 26"
-description: "Crimes contra SFN Lei 7.492/86: art. 4 gestão fraudulenta (recl.\n3-12) e temerária (recl. 2-8); art. 5 apropriação valores; art. 7\nemissão valor mobiliário sem autorização; art. 16 instituição\nfinanceira clandestina; art. 19 obter financiamento mediante\nfraude; art. 22 evasão divisas (recl. 2-6); competência federal;\nSTJ amplia conceito de instituição financeira."
+description: "Usar para pesquisar ou analisar: Crimes contra o Sistema Financeiro Nacional (Lei 7.492/86). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra o Sistema Financeiro Nacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

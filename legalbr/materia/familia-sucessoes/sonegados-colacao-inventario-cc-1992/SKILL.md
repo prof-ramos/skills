@@ -5,8 +5,8 @@ title: "Ação de Sonegados + Colação no Inventário (CC 1.992-1.996 + 2.002-2
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/sonegados-colacao-inventario-cc-1992.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/sonegados-colacao-inventario-cc-1992/SKILL.md"
 triggers:
   - "ação de sonegados"
   - "pena de sonegados"
@@ -19,10 +19,15 @@ triggers:
   - "CC 2.002"
   - "conferência de bens doados"
   - "ocultação de bens da herança"
-description: "Sonegados (CC 1.992-1.996): pena de perda do direito sobre o bem\nocultado, exigência de dolo (STJ), momento de arguição (CC 1.996 +\nCPC 621), ação autônoma de herdeiros/credores; colação como incidente\ndo inventário (CC 2.002-2.012 + CPC 639-641): obrigados, dispensa,\nbens fora da colação e a controvérsia de valor CC 2.004 vs CPC 639\npar. único."
+description: "Usar para pesquisar ou analisar: Ação de Sonegados + Colação no Inventário (CC 1.992-1.996 + 2.002-2.012 + CPC 639-641). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Sonegados + Colação no Inventário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

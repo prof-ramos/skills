@@ -5,8 +5,8 @@ title: "Conselho de Administração + Diretoria (LSA 138-160 + Lei 14.195/21)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/conselho-administracao-lei-6404-138.md"
+version: 2
+sourcePath: "legalbr/materia/societario/conselho-administracao-lei-6404-138/SKILL.md"
 triggers:
   - "conselho de administração"
   - "LSA 138"
@@ -18,10 +18,15 @@ triggers:
   - "dever de diligência"
   - "Lei 14.195"
   - "vedação acumulação CEO chair"
-description: "Conselho de Administração + Diretoria (LSA 138-160 + Lei 14.195/2021):\nestrutura dualista das S.A.: CA (deliberação colegiada) + Diretoria\n(executiva + representação). **Obrigatório** em cias. abertas + capital\nautorizado + estatais (Lei 13.303/16). Composição: 3+ membros eleitos\npela AG; **conselheiro independente obrigatório** em cia. aberta\n(Resoluções CVM); **vedada acumulação CEO + chairman** (LSA 138 §3).\nDeveres dos administradores: diligência (LSA 153), lealdade (LSA 155),\ninformar (LSA 157), de não atuar em conflito (LSA 156). Responsabilidade\npessoal (LSA 158) com BJR, proteção a decisões informadas + refletidas\n+ desinteressadas + boa-fé. Ações de responsabilidade (LSA 159)."
+description: "Usar para pesquisar ou analisar: Conselho de Administração + Diretoria (LSA 138-160 + Lei 14.195/21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conselho de Administração + Diretoria
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

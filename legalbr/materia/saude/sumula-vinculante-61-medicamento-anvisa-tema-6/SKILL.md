@@ -5,8 +5,8 @@ title: "Súmula Vinculante 61, Medicamento ANVISA Não Incorporado ao SUS"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/sumula-vinculante-61-medicamento-anvisa-tema-6.md"
+version: 2
+sourcePath: "legalbr/materia/saude/sumula-vinculante-61-medicamento-anvisa-tema-6/SKILL.md"
 triggers:
   - "SV 61"
   - "Súmula Vinculante 61"
@@ -18,10 +18,15 @@ triggers:
   - "requisitos cumulativos Tema 6"
   - "RENAME REMUME"
   - "NATJUS evidência"
-description: "SV 61 STF (setembro/2024, Tema 6, RE 566.471): concessão judicial\nde medicamento registrado na ANVISA mas não incorporado ao SUS\nobserva as teses do Tema 6. Regra: vedação. Exceção: requisitos\ncumulativos (negativa administrativa, ilegalidade da não\nincorporação, ausência de substituto, evidência científica,\nindispensabilidade clínica e incapacidade financeira)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 61, Medicamento ANVISA Não Incorporado ao SUS. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 61, Medicamento ANVISA Não Incorporado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

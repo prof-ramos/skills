@@ -5,8 +5,8 @@ title: "Sursis Processual (Lei 9.099/1995 art. 89) + ANPP (CPP 28-A)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/sursis-processual-lei-9099-89.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sursis-processual-lei-9099-89/SKILL.md"
 triggers:
   - "suspensão condicional do processo"
   - "sursis processual"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 723 STF"
   - "Súm. 667 STJ"
   - "Tema 1.098 STJ"
-description: "Sursis processual sob Lei 9.099 art. 89 (pena mínima ≤ 1 ano +\nprimário + bons antecedentes, período 2-4 anos com condições);\nANPP CPP 28-A (Lei 13.964, sem violência + pena mín < 4 anos +\nconfissão); Súm. 536 STJ (vedados em Maria da Penha); Súm. 696\nSTF (recusa MP → art. 28 CPP); Tema 1.098 STJ (ANPP retroativo);\nANPP é prioritário."
+description: "Usar para pesquisar ou analisar: Sursis Processual (Lei 9.099/1995 art. 89) + ANPP (CPP 28-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sursis Processual + ANPP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Sursis Processual (Lei 9.099/95 art. 89)
 

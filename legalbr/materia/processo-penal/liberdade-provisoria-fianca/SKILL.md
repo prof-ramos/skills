@@ -5,8 +5,8 @@ title: "Liberdade Provisória + Fiança (CPP 321-350 + Lei 12.403/2011)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/liberdade-provisoria-fianca.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/liberdade-provisoria-fianca/SKILL.md"
 triggers:
   - "liberdade provisória"
   - "CPP 321"
@@ -20,10 +20,15 @@ triggers:
   - "HC 188.888"
   - "CPP 326 fiança"
   - "CPP 350 hipossuficiente"
-description: "Liberdade provisória CPP 321 (Lei 12.403/2011): ausentes\nrequisitos da preventiva → LP com/sem fiança + cautelares 319;\nCPP 322 fiança autoridade policial (≤4a) ou juiz; CPP 323\ninafiançáveis (racismo + hediondos + grupos armados); CPP 325\nvalor (1-200 SM + ajuste obrigatório à capacidade econômica);\nquebramento (CPP 341-343) e perda total (CPP 344); CPP 350\nhipossuficiente."
+description: "Usar para pesquisar ou analisar: Liberdade Provisória + Fiança (CPP 321-350 + Lei 12.403/2011). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Liberdade Provisória + Fiança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 321: LIBERDADE PROVISÓRIA (Lei 12.403/2011)
 

@@ -5,8 +5,8 @@ title: "Injúria Racial = Racismo (Lei 14.532/2023 + Lei 7.716 + CP 140 §3)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/lei-14532-injuria-racial-racismo.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-14532-injuria-racial-racismo/SKILL.md"
 triggers:
   - "Lei 14.532"
   - "injúria racial racismo"
@@ -18,10 +18,15 @@ triggers:
   - "ação penal pública incondicionada"
   - "racismo público funcionário"
   - "cor raça etnia religião"
-description: "Injúria Racial = Racismo — **Lei 14.532/2023** (11/01/2023):\n**equipara** injúria racial (CP 140 §3) ao crime de **racismo**\n(Lei 7.716). Pena: **reclusão 2-5 anos** + multa (antes era 1-3\nanos como injúria comum). **Imprescritível + inafiançável** (CF 5\nXLII). **Ação penal pública incondicionada** (não depende de\nrepresentação). Vítima acompanhada por advogado/defensor em todos\nos atos. Inclui novos tipos: racismo religioso/recreativo +\nagravante para funcionário público + suspensão de direitos em\natividades esportivas/artísticas. Estende a **homotransfobia**\n(STF ADO 26). Aplicação ampla em discurso de ódio online."
+description: "Usar para pesquisar ou analisar: Injúria Racial = Racismo (Lei 14.532/2023 + Lei 7.716 + CP 140 §3). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.532/2023 — Injúria Racial + Racismo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

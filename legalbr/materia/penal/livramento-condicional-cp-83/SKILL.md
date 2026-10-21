@@ -5,8 +5,8 @@ title: "Livramento Condicional (CP 83-90 + LEP 131-146 + Lei 13.964/2019)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/livramento-condicional-cp-83.md"
+version: 2
+sourcePath: "legalbr/materia/penal/livramento-condicional-cp-83/SKILL.md"
 triggers:
   - "livramento condicional"
   - "CP 83"
@@ -22,10 +22,15 @@ triggers:
   - "audiência admonitória"
   - "cessada periculosidade"
   - "associação para o tráfico livramento"
-description: "LC sob CP 83-90 + LEP 131-146 + Lei 13.964/2019: PPL ≥ 2a;\ncumprido >1/3 primário / >1/2 reincidente doloso / >2/3 hediondo\n(vedado ao reincidente específico, CP 83 V); vedado em hediondo\ncom resultado morte (LEP 112 VI-a e VIII) para fatos pós-Lei\n13.964/2019; fatos anteriores com 50% retroativo: LC cabível\npelo CP 83 V (Tema 1.196 STJ); tráfico e associação\n(art. 35): 2/3 do art. 44 p.ú. Lei 11.343 (Tema 1.355 STJ);\nrequisitos subjetivos + cessada periculosidade (violência);\naudiência ADMONITÓRIA (LEP 137); CP 86-89 revogação; Tema 1.367\nSTJ (termo inicial pós-período de prova); Lei 15.358/2026 veda\nLC nos crimes de domínio social estruturado."
+description: "Usar para pesquisar ou analisar: Livramento Condicional (CP 83-90 + LEP 131-146 + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Livramento Condicional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 83: pressupostos
 

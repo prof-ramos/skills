@@ -5,8 +5,8 @@ title: "Descontos em Consignação de Militares + Lei 14.509/2022 (Tema 1.286 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/descontos-militares-consignacao-tema-1286.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/descontos-militares-consignacao-tema-1286/SKILL.md"
 triggers:
   - "Tema 1.286 STJ"
   - "consignado militar"
@@ -16,10 +16,15 @@ triggers:
   - "limite 45% militar"
   - "limite 70% militar"
   - "margem consignável militar"
-description: "Tema 1.286 STJ (1ª Seção, abr/2025): para descontos AUTORIZADOS\nANTES de 04/08/2022 (vigência da MP 1.132/2022 → Lei 14.509/2022),\nNÃO há limite específico para consignações a terceiros; só vale a\nregra da MP 2.215-10/2001 art. 14 §3 (mínimo 30% da remuneração\nou benefício, após descontos). A partir de 04/08/2022, aplicam-se\ncumulativamente: 45% (voluntários a 3os) + 70% (totais)."
+description: "Usar para pesquisar ou analisar: Descontos em Consignação de Militares + Lei 14.509/2022 (Tema 1.286 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descontos em Consignação de Militares + Lei 14.509/2022 (Tema 1.286 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.286 STJ, 1ª Seção, 23/04/2025)
 

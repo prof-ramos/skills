@@ -5,8 +5,8 @@ title: "FEFC + Fundo Partidário (Lei 13.487/2017 + Lei 9.096 + TSE 23.605)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/eleitoral/fundo-eleitoral-fefc-distribuicao.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/fundo-eleitoral-fefc-distribuicao/SKILL.md"
 triggers:
   - "FEFC"
   - "fundo eleitoral"
@@ -22,10 +22,15 @@ triggers:
   - "ADI 7706 STF"
   - "ADI 7707 STF"
   - "FEFC 2026"
-description: "FEFC e Fundo Partidário: fontes, critérios de distribuição, cotas para mulheres e candidaturas pretas e pardas, voto em dobro da EC 111/2021 e validação da EC 133/2024 nas ADIs 7.706/7.707."
+description: "Usar para pesquisar ou analisar: FEFC + Fundo Partidário (Lei 13.487/2017 + Lei 9.096 + TSE 23.605). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FEFC + Fundo Partidário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

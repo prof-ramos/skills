@@ -5,8 +5,8 @@ title: "Subsídio Vitalício de Ex-Agentes Políticos (Tema 672 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/subsidio-vitalicio-ex-agentes-politicos-tema-672.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/subsidio-vitalicio-ex-agentes-politicos-tema-672/SKILL.md"
 triggers:
   - "Tema 672 STF"
   - "subsídio vitalício ex-vereador"
@@ -18,10 +18,15 @@ triggers:
   - "ADI 4.545"
   - "mandato eletivo RGPS"
   - "representação de ex-governador"
-description: "Inconstitucionalidade de subsídio mensal e vitalício a ex-vereadores,\nex-prefeitos e ex-governadores e de pensões a dependentes (Tema 672\nSTF + ADI 4.545 + ADPFs 764 e 889): agente político pós-EC 20/98 filia-se\nao RGPS (CF 40 § 13); cessação dos pagamentos, modulação e\nirrepetibilidade de boa-fé."
+description: "Usar para pesquisar ou analisar: Subsídio Vitalício de Ex-Agentes Políticos (Tema 672 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Subsídio Vitalício de Ex-Agentes Políticos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese vinculante
 

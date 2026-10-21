@@ -5,8 +5,8 @@ title: "SNUC: Sistema Nacional de Unidades de Conservação (Lei 9.985/2000)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/snuc-unidades-conservacao.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/snuc-unidades-conservacao/SKILL.md"
 triggers:
   - "SNUC"
   - "unidades de conservação"
@@ -16,10 +16,15 @@ triggers:
   - "reserva particular do patrimônio natural"
   - "zona de amortecimento"
   - "compensação ambiental"
-description: "Sistema Nacional de Unidades de Conservação sob a Lei 9.985/2000:\nunidades de proteção integral e de uso sustentável; criação,\nzoneamento e plano de manejo; zona de amortecimento e compensação\nambiental; regime de desafetação por lei formal e desapropriação;\ncompetências do ICMBio e crimes ambientais correlatos."
+description: "Usar para pesquisar ou analisar: SNUC: Sistema Nacional de Unidades de Conservação (Lei 9.985/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SNUC: Unidades de Conservação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

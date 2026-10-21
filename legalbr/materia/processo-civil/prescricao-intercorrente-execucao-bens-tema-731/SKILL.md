@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente em Execução por Não Localização de Bens 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/prescricao-intercorrente-execucao-bens-tema-731.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prescricao-intercorrente-execucao-bens-tema-731/SKILL.md"
 triggers:
   - "Tema 731 STJ"
   - "prescrição intercorrente execução civil"
@@ -14,10 +14,15 @@ triggers:
   - "suspensão execução não localizado bens"
   - "prazo prescricional pretensão executiva"
   - "paralisação execução sem bens"
-description: "Tema 731 STJ: a prescrição INTERCORRENTE em execução civil\ncomeça a fluir AUTOMATICAMENTE após 1 ANO de suspensão (CPC 921\nIII + §4) por não localização de bens, INDEPENDENTEMENTE de\nintimação do credor. Prazo coincide com o prescricional da\npretensão executória. Tema correlato 569 STJ (EF — outras\nregras)."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente em Execução por Não Localização de Bens (Tema 731 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente em Execução por Não Localização de Bens (Tema 731 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 731 STJ)
 

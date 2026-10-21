@@ -5,8 +5,8 @@ title: "Financiamento Eleitoral (Lei 9.504/97 arts. 17-25 + FEFC + Fundo Partid�
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/eleitoral/financiamento-eleitoral.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/financiamento-eleitoral/SKILL.md"
 triggers:
   - "financiamento eleitoral"
   - "Fundo Partidário"
@@ -20,10 +20,15 @@ triggers:
   - "ADI 7706 STF"
   - "ADI 7707 STF"
   - "passivo financiamento racial"
-description: "Financiamento eleitoral: fontes permitidas, doações, FEFC e Fundo Partidário, limites, prestação de contas, vedação a pessoas jurídicas, caixa dois e aplicação de 30% dos fundos a candidaturas pretas e pardas (EC 133/2024)."
+description: "Usar para pesquisar ou analisar: Financiamento Eleitoral (Lei 9.504/97 arts. 17-25 + FEFC + Fundo Partidário). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Financiamento Eleitoral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

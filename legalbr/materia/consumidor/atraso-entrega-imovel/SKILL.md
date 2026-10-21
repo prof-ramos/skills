@@ -5,8 +5,8 @@ title: "Atraso na Entrega de Imóvel (Lei 13.786 + Súms. STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/atraso-entrega-imovel.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/atraso-entrega-imovel/SKILL.md"
 triggers:
   - "atraso na entrega"
   - "imóvel na planta"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 13.786"
   - "habite-se"
   - "patrimônio de afetação"
-description: "Atraso na entrega de imóvel sob Lei 13.786/2018 + jurisprudência\nSTJ: cláusula de tolerância de até 180 dias (admitida);\ninadimplemento da construtora após o prazo: opção do adquirente\nentre resolução com restituição integral ou prosseguimento +\nindenização; lucros cessantes presumidos em imóvel edificado;\ncláusula penal recíproca; dano moral apenas em prejuízo\nsubstancial; vedação ao distrato unilateral."
+description: "Usar para pesquisar ou analisar: Atraso na Entrega de Imóvel (Lei 13.786 + Súms. STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atraso na Entrega de Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

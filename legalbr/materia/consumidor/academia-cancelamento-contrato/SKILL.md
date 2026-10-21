@@ -5,8 +5,8 @@ title: "Academia e Cursos: Cancelamento e Multa (CDC + CONAR)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/academia-cancelamento-contrato.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/academia-cancelamento-contrato/SKILL.md"
 triggers:
   - "cancelamento de academia"
   - "multa rescisória academia"
@@ -18,10 +18,15 @@ triggers:
   - "aula experimental"
   - "benefícios não usufruídos"
   - "lesão em academia"
-description: "Academia, escolas de idiomas, cursos e clubes sob CDC: direito\npotestativo de rescisão a qualquer tempo (CDC 51 II); cláusula\npenal proporcional vedada ao excesso; restituição do não\nusufruído; contratos de longa duração: análise CDC 51 IV\n(vantagem exagerada); responsabilidade objetiva por defeito do\nserviço (CDC 14); proteção especial em fechamento abrupto;\npublicidade vincula (CDC 30)."
+description: "Usar para pesquisar ou analisar: Academia e Cursos: Cancelamento e Multa (CDC + CONAR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Academia e Cursos: Cancelamento e Multa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

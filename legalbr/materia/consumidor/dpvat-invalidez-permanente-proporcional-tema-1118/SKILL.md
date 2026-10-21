@@ -5,8 +5,8 @@ title: "DPVAT + Indenização Proporcional ao Grau de Invalidez (Tema 1.118 STJ)
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/dpvat-invalidez-permanente-proporcional-tema-1118.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dpvat-invalidez-permanente-proporcional-tema-1118/SKILL.md"
 triggers:
   - "Tema 1.118 STJ"
   - "DPVAT invalidez permanente proporcional"
@@ -14,10 +14,15 @@ triggers:
   - "Súmula 474 STJ"
   - "tabela CNSP SUSEP DPVAT"
   - "acidente trânsito invalidez parcial"
-description: "Tema 1.118 STJ: a indenização do DPVAT, em caso de invalidez\npermanente PARCIAL, paga-se proporcionalmente ao GRAU de\ninvalidez. Válido o uso da tabela do CNSP/SUSEP mesmo para\nacidentes pré-16/12/2008 (MP 451/2008). Confirma Súm. 474 STJ."
+description: "Usar para pesquisar ou analisar: DPVAT + Indenização Proporcional ao Grau de Invalidez (Tema 1.118 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DPVAT + Indenização Proporcional ao Grau de Invalidez (Tema 1.118 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.118 STJ)
 

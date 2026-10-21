@@ -5,8 +5,8 @@ title: "Bombeiro Civil (Lei 11.901/2009): Jornada 12x36 de 36h Semanais e Pericu
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/bombeiro-civil-lei-11901.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/bombeiro-civil-lei-11901/SKILL.md"
 triggers:
   - "bombeiro civil"
   - "Lei 11.901 bombeiro civil"
@@ -18,10 +18,15 @@ triggers:
   - "bombeiro civil líder"
   - "horas extras além da 36ª semanal"
   - "NR 23 proteção contra incêndios"
-description: "Regime do bombeiro civil (Lei 11.901/2009): definição com função remunerada e\nexclusiva de prevenção e combate a incêndio, jornada 12x36 limitada a 36\nhoras semanais (art. 5º, constitucional conforme ADI 4.842 STF; excedente =\nhora extra), adicional de periculosidade de 30% por força de lei (art. 6º,\nIII) e interfaces com CLT 193, CLT 59-A e Tema 1.046."
+description: "Usar para pesquisar ou analisar: Bombeiro Civil (Lei 11.901/2009): Jornada 12x36 de 36h Semanais e Periculosidade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bombeiro Civil (Lei 11.901/2009)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Definição legal e enquadramento (art. 2º)
 

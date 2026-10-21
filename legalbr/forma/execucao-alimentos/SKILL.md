@@ -5,8 +5,8 @@ title: "Execução de Alimentos"
 category: "forma"
 materia: null
 documentType: "execucao-alimentos"
-version: 1
-sourcePath: "lib/skills/official/forma/execucao-alimentos.md"
+version: 2
+sourcePath: "legalbr/forma/execucao-alimentos/SKILL.md"
 triggers:
   - "execução de alimentos"
   - "prisão civil do devedor de alimentos"
@@ -15,10 +15,15 @@ triggers:
   - "rito da prisão e rito da expropriação"
   - "protesto do pronunciamento judicial art. 528 §1º"
   - "Súm. 309 STJ três últimas prestações"
-description: "Execução de alimentos (CPC 528-533 para título judicial; 911-913 para\nextrajudicial): rito da prisão do art. 528 (intimação pessoal para\npagar, justificar ou provar em três dias, sob pena de protesto e\nprisão civil); desconto em folha do art. 529; cumulação com rito\nexpropriatório do art. 528 §8º; aplicação a escrituras e transações\nreferendadas (art. 911 p.ú.)."
+description: "Usar para redigir ou revisar: Execução de Alimentos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

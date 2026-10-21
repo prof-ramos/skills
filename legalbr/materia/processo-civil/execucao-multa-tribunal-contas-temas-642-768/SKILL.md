@@ -5,8 +5,8 @@ title: "Execução de Multas e Condenações de Tribunal de Contas (Temas 642 e 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/execucao-multa-tribunal-contas-temas-642-768.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/execucao-multa-tribunal-contas-temas-642-768/SKILL.md"
 triggers:
   - "execução de multa de tribunal de contas"
   - "execução de acórdão do tribunal de contas"
@@ -19,10 +19,15 @@ triggers:
   - "RE 1.003.433"
   - "Tema 899 STF"
   - "legitimidade ativa execução TCE"
-description: "Execução judicial de acórdãos de Tribunal de Contas (CF 71 § 3: título\nexecutivo): legitimidade ativa pelos Temas 642 STF (RE 1.003.433 + ADPF\n1.011: débito por dano ao erário municipal executa o Município; multa\nsimples executa o Estado) e 768 STF (ARE 823.347: só o ente beneficiário;\nMP e o próprio TC não podem); rito LEF condicionado à inscrição em dívida\nativa ou CPC 784 XII; prescrição quinquenal (Tema 899, RE 636.886)."
+description: "Usar para pesquisar ou analisar: Execução de Multas e Condenações de Tribunal de Contas (Temas 642 e 768 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução de Multas e Condenações Patrimoniais de Tribunal de Contas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza do título (CF 71 § 3)
 

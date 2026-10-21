@@ -5,8 +5,8 @@ title: "MOU / Memorando de Entendimentos / LOI / Term Sheet (M&A e Parcerias)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/mou-memorando-entendimentos.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/mou-memorando-entendimentos/SKILL.md"
 triggers:
   - "MOU"
   - "memorando de entendimentos"
@@ -22,10 +22,15 @@ triggers:
   - "confidencialidade pré-contratual"
   - "CC 422 boa-fé"
   - "responsabilidade pré-contratual"
-description: "MOU/LOI/term sheet societário e M&A: cláusulas vinculantes\n(exclusividade, confidencialidade, foro/arbitragem) vs não\nvinculantes (preço, prazos); break-up fee; CC 422-427."
+description: "Usar para pesquisar ou analisar: MOU / Memorando de Entendimentos / LOI / Term Sheet (M&A e Parcerias). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Memorando de Entendimentos (MOU/LOI/Term Sheet)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Doação (CC 538-564 + jurisprudência STJ 2025)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/doacao-cc-538.md"
+version: 2
+sourcePath: "legalbr/materia/civil/doacao-cc-538/SKILL.md"
 triggers:
   - "contrato de doação"
   - "CC 538"
@@ -19,10 +19,15 @@ triggers:
   - "doação universal"
   - "doação verbal de bem móvel"
   - "cláusula de reversão na doação"
-description: "Doação CC 538-564: contrato GRATUITO + formal; escritura pública\nimóveis (CC 108) ou verbal só móveis pequena valia + tradição\nimediata; CC 544 adiantamento de legítima (colação do CC 2.002 só\ndos descendentes; cônjuge sobrevivente NÃO colaciona, orientação STJ);\nCC 549 INOFICIOSA NULA na parte que excede a disponível, aferida\nno momento da liberalidade (anuência de herdeiros NÃO convalida,\nSTJ); CC 548 veda doação universal; CC 557 ingratidão + CC 559\nprazo decadencial 1 ANO."
+description: "Usar para pesquisar ou analisar: Doação (CC 538-564 + jurisprudência STJ 2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Doação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 538-543: conceito + aceitação
 

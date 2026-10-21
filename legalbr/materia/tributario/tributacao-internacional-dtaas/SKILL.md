@@ -5,8 +5,8 @@ title: "Tratados de Dupla Tributação (DTAA) + Pilar 2 OCDE + Transfer Pricing 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/tributacao-internacional-dtaas.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/tributacao-internacional-dtaas/SKILL.md"
 triggers:
   - "DTAA"
   - "dupla tributação"
@@ -16,10 +16,15 @@ triggers:
   - "preço de transferência"
   - "Lei 14.596/2023"
   - "CFC rules"
-description: "Tributação internacional sob os DTAAs, o Pilar 2 da OCDE e a Lei\n14.596/2023: prevalência dos tratados pelo CTN 98 e Convenção\nModelo OCDE; alíquota mínima global e QDMTT (adicional da CSLL)\npela Lei 15.079/2024; preço de transferência arm's length e\nmétodos OCDE; CFC rules (Lei 12.973/14) e tributação de offshores\npela Lei 14.754/23."
+description: "Usar para pesquisar ou analisar: Tratados de Dupla Tributação (DTAA) + Pilar 2 OCDE + Transfer Pricing (Lei 14.596/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tributação Internacional: DTAAs + Pilar 2 + Transfer Pricing
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

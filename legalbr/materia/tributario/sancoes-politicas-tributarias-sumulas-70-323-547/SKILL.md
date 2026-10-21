@@ -5,8 +5,8 @@ title: "Sanções Políticas em Matéria Tributária (Súms. 70, 323 e 547 STF +
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sancoes-politicas-tributarias-sumulas-70-323-547.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sancoes-politicas-tributarias-sumulas-70-323-547/SKILL.md"
 triggers:
   - "sanção política tributária"
   - "Súmula 323 apreensão de mercadorias"
@@ -18,10 +18,15 @@ triggers:
   - "regime especial de fiscalização restritivo"
   - "cancelamento de inscrição estadual por débito"
   - "meio coercitivo para pagamento de tributo"
-description: "Vedação às sanções políticas tributárias: Súms. 70, 323 e 547 STF, Tema 31\n(fiança/garantia para impressão de notas fiscais) e Tema 856 (restrição\nilegítima à atividade como cobrança indireta), ADIs 173 e 394 (CND da Lei\n7.711/88); cenário afirmativo de MS contra apreensão de mercadoria, interdição\ne regime especial restritivo, com distinções (SV 48, perdimento, protesto de\nCDA, CADIN, Tema 363)."
+description: "Usar para pesquisar ou analisar: Sanções Políticas em Matéria Tributária (Súms. 70, 323 e 547 STF + Temas 31 e 856). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sanções Políticas em Matéria Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Aplicar em MS e anulatórias contra atos que restringem a atividade do contribuinte para forçar o pagamento de tributo: apreensão de mercadoria em posto fiscal, interdição, negativa de emissão de documentos fiscais, cancelamento de inscrição, regime especial de fiscalização restritivo.
 

@@ -5,8 +5,8 @@ title: "Licitações e Contratos Administrativos (Lei 14.133/2021)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/nova-lei-licitacoes-lei-14133.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/nova-lei-licitacoes-lei-14133/SKILL.md"
 triggers:
   - "Nova Lei de Licitações"
   - "Lei 14.133/2021"
@@ -22,10 +22,15 @@ triggers:
   - "declaração de inidoneidade"
   - "plano de contratações anual"
   - "Portal Nacional de Contratações Públicas"
-description: "Lei 14.133/2021 (revoga 8.666): 5 modalidades + dispensa (75) +\ninexigibilidade (74); contratos (89-191): cláusulas exorbitantes\n(104), limites 25%/50% (124-125), equilíbrio econômico-financeiro,\nrescisão (137-139), sanções (156); PNCP + PCA."
+description: "Usar para pesquisar ou analisar: Licitações e Contratos Administrativos (Lei 14.133/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nova Lei de Licitações (Lei 14.133/2021)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Vigência + revogações
 

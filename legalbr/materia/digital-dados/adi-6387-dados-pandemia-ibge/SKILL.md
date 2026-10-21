@@ -5,8 +5,8 @@ title: "ADI 6387: Proteção de Dados Pessoais na Pandemia (MP 954/2020)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/adi-6387-dados-pandemia-ibge.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/adi-6387-dados-pandemia-ibge/SKILL.md"
 triggers:
   - "ADI 6387"
   - "MP 954/2020"
@@ -16,10 +16,15 @@ triggers:
   - "LGPD constitucional"
   - "autodeterminação informativa"
   - "compartilhamento de dados de operadoras"
-description: "ADI 6387 (Rosa Weber): cautelar suspendeu a MP 954/2020, que\nobrigava operadoras a compartilhar dados de usuários com o\nIBGE na pandemia; referendada pelo Plenário em 07/05/2020. A\nação foi depois julgada prejudicada (perda de objeto). A\nfundamentação (PROTEÇÃO DE DADOS como direito fundamental,\nCF 5 X + XII; base legal específica + proporcionalidade)\nantecedeu a EC 115/2022 (CF 5 LXXIX, dados como direito)."
+description: "Usar para pesquisar ou analisar: ADI 6387: Proteção de Dados Pessoais na Pandemia (MP 954/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 6387: Dados Pandemia / IBGE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

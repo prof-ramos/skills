@@ -5,8 +5,8 @@ title: "Escola Particular: Mensalidade e Rescisão (Lei 9.870/99)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/escola-mensalidade-rescisao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/escola-mensalidade-rescisao/SKILL.md"
 triggers:
   - "escola particular"
   - "mensalidade escolar"
@@ -18,10 +18,15 @@ triggers:
   - "transferência escolar"
   - "planilha de custos"
   - "cobrança vexatória escola"
-description: "Escola particular sob Lei 9.870/1999 + CDC: mensalidades fixadas\nanualmente com planilha de custos justificada; rematrícula\nvinculada à adimplência (com limites); vedação à recusa de provas\n+ emissão de documentos como instrumento de cobrança (CDC 42 +\nLei 9.870 art. 6); rescisão pelo consumidor: direito potestativo;\nreajuste deve seguir planilha + comunicação prévia 45 dias;\nproteção a alunos com deficiência (LBI)."
+description: "Usar para pesquisar ou analisar: Escola Particular: Mensalidade e Rescisão (Lei 9.870/99). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Escola Particular: Mensalidade e Rescisão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

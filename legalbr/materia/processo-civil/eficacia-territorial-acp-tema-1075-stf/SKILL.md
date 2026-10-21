@@ -5,8 +5,8 @@ title: "Eficácia Territorial da Sentença em ACP (STF Tema 1.075)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/eficacia-territorial-acp-tema-1075-stf.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/eficacia-territorial-acp-tema-1075-stf/SKILL.md"
 triggers:
   - "STF Tema 1.075"
   - "art 16 Lei 7.347 inconstitucional"
@@ -19,10 +19,15 @@ triggers:
   - "microssistema tutela coletiva"
   - "REsp 1.243.887"
   - "eficácia subjetiva versus competência territorial"
-description: "STF Tema 1.075 (RE 1.101.937, Plenário, 07/04/2021):\nINCONSTITUCIONAL o art. 16 da Lei 7.347/85 (com redação da Lei\n9.494/97) que limitava a eficácia da sentença em ACP à\ncompetência territorial do órgão prolator. Eficácia é ERGA OMNES\nnacional. Distinto do art. 2-A da Lei 9.494/97 e do regime\nda ação coletiva de associação (Tema 499 STF, RE 612.043)."
+description: "Usar para pesquisar ou analisar: Eficácia Territorial da Sentença em ACP (STF Tema 1.075). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Eficácia Territorial da Sentença em ACP (STF Tema 1.075)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (STF Tema 1.075, Plenário, 07/04/2021)
 

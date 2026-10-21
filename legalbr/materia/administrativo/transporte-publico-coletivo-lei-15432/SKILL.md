@@ -5,8 +5,8 @@ title: "Marco Legal do Transporte Público Coletivo Urbano (Lei 15.432/2026)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/transporte-publico-coletivo-lei-15432.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/transporte-publico-coletivo-lei-15432/SKILL.md"
 triggers:
   - "Lei 15.432"
   - "marco legal transporte público coletivo"
@@ -18,10 +18,15 @@ triggers:
   - "transporte ilegal de passageiros"
   - "bilhetagem eletrônica"
   - "subsídio tarifário transporte"
-description: "Lei 15.432/2026 (marco legal do transporte público coletivo urbano):\nserviço essencial ligado ao direito social ao transporte (CF 6);\ntitularidade (Município/Estado/União), gestão associada e unidades\nregionais; contratação de operadores privados SÓ por licitação\n(vedados instrumentos precários); regime econômico-financeiro com\ndistinção tarifa × remuneração; receitas extratarifárias e subsídios;\naltera Lei 12.587 (revoga arts. 8-10; multa até R$ 15 mil e perdimento\nno transporte ilegal), Estatuto da Cidade e CIDE. Vacatio de 1 ano."
+description: "Usar para pesquisar ou analisar: Marco Legal do Transporte Público Coletivo Urbano (Lei 15.432/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Legal do Transporte Público Coletivo Urbano (Lei 15.432/2026)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

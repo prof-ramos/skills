@@ -5,8 +5,8 @@ title: "CCUS: Captura, Transporte Dutoviário e Armazenamento Geológico de CO�
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/captura-transporte-armazenamento-carbono-ccus-lei-14993.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/captura-transporte-armazenamento-carbono-ccus-lei-14993/SKILL.md"
 triggers:
   - "captura e armazenamento de CO₂"
   - "CCUS Brasil"
@@ -16,10 +16,15 @@ triggers:
   - "Decreto 13.095/2026"
   - "autorização ANP CCUS"
   - "fechamento reservatório CO₂"
-description: "Transporte dutoviário e armazenamento geológico de CO₂ sob a Lei 14.993/2024 e o Decreto 13.095/2026: autorização da ANP, monitoramento, fechamento e responsabilidade."
+description: "Usar para pesquisar ou analisar: CCUS: Captura, Transporte Dutoviário e Armazenamento Geológico de CO₂. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Captura, transporte e armazenamento de carbono
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime de autorização
 

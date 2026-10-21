@@ -5,8 +5,8 @@ title: "Temas Repetitivos Tributários 2024-2026 (STF + STJ, leading cases)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/temas-repetitivos-tributarios-2024-2026.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/temas-repetitivos-tributarios-2024-2026/SKILL.md"
 triggers:
   - "temas repetitivos tributários"
   - "Tema 1.184 STF"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 1.247 STF"
   - "Tema 1.390 STJ"
   - "subvenções ICMS"
-description: "Repetitivos tributários 2024-2026: Tema 1.184 STF (EF baixo valor\nextinção + Res. CNJ 547/2024); 1.125 STJ (ICMS-ST não na base\nPIS/COFINS, modulado 15/03/2017); 1.182 STJ (subvenções ICMS\nexigem art. 30; Lei 14.789/2023 revogou); 1.266 STF (DIFAL\nnoventena); 962 STF (SELIC não na base IRPJ/CSLL, modulado\n30/09/2021); 487 STF (multa isolada 60% vinc / 20% sem); 980/444\nSTJ; 1.247/1.245/1.198; novos STJ 2025-2026: 1.319 (JCP), 1.323\n(ISS fixo uniprofissional), 1.350 (CDA), 1.371 (ITCMD\narbitramento), 1.373 (IPI não recuperável), 1.380 (adicional\nCOFINS-Importação), 1.390 (contribuições a terceiros sem teto\nde 20 SM), 1.401 (bloqueio FPM sem limites), 1.339 (monofásico\ncombustíveis sem crédito), 1.369 (ICMS-DIFAL contribuinte antes\nda LC 190), 1.413 (honorários em EF extinta por quitação\npós-ajuizamento); Temas 479/739 CANCELADOS (valem 985 e 72 STF)."
+description: "Usar para pesquisar ou analisar: Temas Repetitivos Tributários 2024-2026 (STF + STJ, leading cases). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Temas Repetitivos Tributários 2024-2026
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STF Tema 1.184: EF de baixo valor (trânsito 14/10/2025)
 

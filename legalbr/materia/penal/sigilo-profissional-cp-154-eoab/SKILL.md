@@ -5,8 +5,8 @@ title: "Sigilo Profissional (CP 154 + EOAB 7 II + Código Ética Médica + LGPD)
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/sigilo-profissional-cp-154-eoab.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sigilo-profissional-cp-154-eoab/SKILL.md"
 triggers:
   - "sigilo profissional"
   - "CP 154"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.510/2022 telemedicina"
   - "CFP 010/2005"
   - "sigilo cliente advogado"
-description: "Sigilo profissional CF 5 XIV (acesso) + CF 5 X (intimidade) +\nCP 154 (revelação: det. 3m-1a, AP condicionada); EOAB Lei 8.906\nart. 7 II inviolabilidade advogado (ADI 1.127 STF: busca exige\nrepresentante OAB salvo investigado); CFM Res. 2.217/2018 (Código\nÉtica Médica art. 73); Lei 14.510/2022 telemedicina; LGPD dados\nsensíveis (art. 5 II + 11); psicólogo CFP 010/2005; quebra\nexige ordem judicial fundamentada."
+description: "Usar para pesquisar ou analisar: Sigilo Profissional (CP 154 + EOAB 7 II + Código Ética Médica + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sigilo Profissional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

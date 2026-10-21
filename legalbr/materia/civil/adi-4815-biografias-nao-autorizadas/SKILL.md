@@ -5,8 +5,8 @@ title: "ADI 4815: Biografias Não Autorizadas (CC 20 + CC 21)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/adi-4815-biografias-nao-autorizadas.md"
+version: 2
+sourcePath: "legalbr/materia/civil/adi-4815-biografias-nao-autorizadas/SKILL.md"
 triggers:
   - "ADI 4815"
   - "biografias não autorizadas"
@@ -16,10 +16,15 @@ triggers:
   - "direito personalidade biografia"
   - "censura prévia biografia"
   - "responsabilização a posteriori"
-description: "ADI 4815 (Cármen Lúcia, 10/06/2015, unânime): biografias\ndispensam autorização prévia (interpretação conforme dos arts.\n20 e 21 CC). Prevalece liberdade de expressão; excessos\nrespondem a posteriori (CF 5 V + X + 220)."
+description: "Usar para pesquisar ou analisar: ADI 4815: Biografias Não Autorizadas (CC 20 + CC 21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4815: Biografias Não Autorizadas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

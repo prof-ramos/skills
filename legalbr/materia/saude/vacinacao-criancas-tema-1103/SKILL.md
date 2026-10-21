@@ -5,8 +5,8 @@ title: "Vacinação Compulsória de Crianças (Tema 1.103 STF + ARE 1.267.879)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/vacinacao-criancas-tema-1103.md"
+version: 2
+sourcePath: "legalbr/materia/saude/vacinacao-criancas-tema-1103/SKILL.md"
 triggers:
   - "Tema 1.103"
   - "ARE 1.267.879"
@@ -17,10 +17,15 @@ triggers:
   - "matrícula escolar vacinação"
   - "melhor interesse criança"
   - "liberdade de consciência pais"
-description: "Tema 1.103 STF (ARE 1.267.879, Min. Barroso, 17/12/2020):\nconstitucional a obrigatoriedade de imunização de crianças e\nadolescentes por vacinas (i) incluídas no PNI; (ii) com aplicação\ndecretada em lei; ou (iii) determinadas por ente federativo com\nbase em consenso científico. Não viola liberdade de consciência\nparental. Compulsória ≠ forçada (sem coerção física)."
+description: "Usar para pesquisar ou analisar: Vacinação Compulsória de Crianças (Tema 1.103 STF + ARE 1.267.879). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vacinação Compulsória de Crianças (Tema 1.103 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

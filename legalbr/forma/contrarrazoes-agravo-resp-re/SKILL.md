@@ -5,8 +5,8 @@ title: "Contrarrazões a Agravo em REsp e RE"
 category: "forma"
 materia: null
 documentType: "contrarrazoes-agravo-resp-re"
-version: 3
-sourcePath: "lib/skills/official/forma/contrarrazoes-agravo-resp-re.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-agravo-resp-re/SKILL.md"
 triggers:
   - "contrarrazões agravo REsp"
   - "contrarrazões agravo RE"
@@ -15,10 +15,15 @@ triggers:
   - "resposta ao agravo do art. 1.042"
   - "manutenção da inadmissão do REsp"
   - "manutenção da inadmissão do RE"
-description: "Contrarrazões ao agravo em REsp/RE (CPC 1.042). Cabível após\ninadmissão pela presidência/vice-presidência do tribunal a quo. Prazo\nde 15 dias úteis do oferecimento do agravo. Defesa reforça óbices\nsumulares + ausência de cabimento + adesão a precedente vinculante.\nPedido escalonado: (i) não-conhecimento do agravo; (ii) negativa de\nprovimento; (iii) desprovimento do REsp/RE no mérito. Honorários\nrecursais (CPC 85 §11 + Tema 1.059 STJ). Sem preparo (CPC 1.042 §2)."
+description: "Usar para redigir ou revisar: Contrarrazões a Agravo em REsp e RE. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões a Agravo em REsp e RE
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e prazo
 

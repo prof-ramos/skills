@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/iof-cf-153-v.md"
+sourcePath: "legalbr/materia/tributario/iof-cf-153-v/SKILL.md"
 triggers:
   - "IOF"
   - "CF 153 V"
@@ -23,10 +23,15 @@ triggers:
   - "IOF mútuo"
   - "Tema 104 STF"
   - "Lei 9.779 art. 13"
-description: "IOF CF 153 V União (crédito + câmbio + seguros + TVM + OURO\nativo financeiro/cambial §5, mínimo 1%); função EXTRAFISCAL:\nalíquota por DECRETO CF 153 §1 + SEM anterioridade (CF 150 §1);\nSúm. 664 STF (não incide IOF sobre saque em caderneta de\npoupança, RE 232.467); 2025-2026: Decretos 12.466/12.467/12.499\n+ Decreto Legislativo 176/2025 (sustação); STF ADC 96 + ADIs\n7.827/7.839 (VALIDOU a majoração por decreto; INCONSTITUCIONAL\na incidência sobre \"risco sacado\"); mútuo entre PJs: Tema 104 STF\n(Lei 9.779 art. 13)."
+description: "Usar para pesquisar ou analisar: IOF (CF 153 V + Dec. 6.306/2007 + ADC 96/2025 + Súm. 664 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IOF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153 V
 

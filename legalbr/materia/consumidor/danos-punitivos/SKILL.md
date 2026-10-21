@@ -5,8 +5,8 @@ title: "Danos Punitivos (função punitivo-pedagógica)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/danos-punitivos.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/danos-punitivos/SKILL.md"
 triggers:
   - "punitive damages"
   - "danos punitivos"
@@ -15,10 +15,15 @@ triggers:
   - "indenização punitiva"
   - "caráter pedagógico da indenização"
   - "art. 944 CC"
-description: "Função punitivo-pedagógica do dano moral (CC 944 + 884 +\nCDC 6º VI): teoria do desestímulo embutida no quantum\n(Enunciado 379 CJF); método bifásico do STJ (REsp 1.152.541);\nlimites do enriquecimento sem causa (CC 884); aplicação ampla\nem dano moral coletivo destinado ao FDD."
+description: "Usar para pesquisar ou analisar: Danos Punitivos (função punitivo-pedagógica). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Danos Punitivos (função punitivo-pedagógica)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

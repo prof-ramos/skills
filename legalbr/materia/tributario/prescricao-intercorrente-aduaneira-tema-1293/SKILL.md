@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente em Processo Aduaneiro NÃO Tributário (Tema 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/prescricao-intercorrente-aduaneira-tema-1293.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-intercorrente-aduaneira-tema-1293/SKILL.md"
 triggers:
   - "Tema 1.293 STJ"
   - "prescrição intercorrente aduaneira"
@@ -15,10 +15,15 @@ triggers:
   - "3 anos paralisado"
   - "infração aduaneira não tributária"
   - "controle trânsito mercadorias"
-description: "Tema 1.293 STJ (1ª Seção): aplica-se a prescrição intercorrente\ndo art. 1 §1 da Lei 9.873/99 ao processo administrativo aduaneiro\nque apura infração NÃO TRIBUTÁRIA, paralisado por mais de 3\nanos. Natureza administrativa quando a norma visa controle do\ntrânsito internacional ou regularidade aduaneira, ainda que\nreflexamente auxilie a arrecadação."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente em Processo Aduaneiro NÃO Tributário (Tema 1.293 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente em Processo Aduaneiro NÃO Tributário (Tema 1.293 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.293 STJ, 1ª Seção)
 

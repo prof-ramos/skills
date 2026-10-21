@@ -5,8 +5,8 @@ title: "Foro por Prerrogativa de Função (Lei 8.038/1990 + AP 937 QO STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/foro-privilegiado-lei-8038.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/foro-privilegiado-lei-8038/SKILL.md"
 triggers:
   - "foro privilegiado"
   - "foro por prerrogativa de função"
@@ -17,10 +17,15 @@ triggers:
   - "perpetuatio jurisdictionis"
   - "prerrogativa mandato"
   - "improbidade sem foro Pet 3.240 STF"
-description: "Foro por prerrogativa de função (CF 102 + 105 + Lei 8.038/1990 +\nAP 937 QO STF + Súm. 702/703 STF): competência originária\nde tribunais superiores para julgar agentes com função; restrição\npós-AP 937 a crimes praticados no cargo e em razão dele; desde o\nHC 232.627 + Inq 4.787 QO (STF, j. 11/03/2025) o foro SUBSISTE\nmesmo após o afastamento do cargo para esses crimes; improbidade\nsem prerrogativa de foro (STF Pet 3.240 AgR); rito específico\n(denúncia + defesa prévia + audiência + julgamento)."
+description: "Usar para pesquisar ou analisar: Foro por Prerrogativa de Função (Lei 8.038/1990 + AP 937 QO STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Foro por Prerrogativa de Função
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

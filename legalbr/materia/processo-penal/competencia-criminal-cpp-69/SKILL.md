@@ -5,8 +5,8 @@ title: "Competência Criminal (CPP 69-91 + CF 109)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/competencia-criminal-cpp-69.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/competencia-criminal-cpp-69/SKILL.md"
 triggers:
   - "competência criminal"
   - "CPP 69"
@@ -18,10 +18,15 @@ triggers:
   - "CF 109"
   - "crimes da justiça federal"
   - "jurisdição militar"
-description: "Competência criminal CPP 69-91: ratione loci (lugar consumação,\nart. 70); ratione materiae (federal CF 109, militar, eleitoral,\njúri); ratione personae (foro prerrogativa); conexão (CPP 76) e\ncontinência (77) atraem; prevenção (83); foro prerrogativa STF\nAP 937 (restritivo aos crimes em razão do cargo); estelionato\neletrônico: competência do domicílio da vítima (Lei 14.155/21\n+ REsp 1.971.260 STJ)."
+description: "Usar para pesquisar ou analisar: Competência Criminal (CPP 69-91 + CF 109). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Critérios de fixação
 

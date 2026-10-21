@@ -5,8 +5,8 @@ title: "Embargos de Terceiro (CPC 674-681)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/embargos-de-terceiro-cpc-674.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/embargos-de-terceiro-cpc-674/SKILL.md"
 triggers:
   - "embargos de terceiro"
   - "CPC 674"
@@ -17,10 +17,15 @@ triggers:
   - "bem de família"
   - "desconsideração inversa"
   - "liminar de manutenção"
-description: "Embargos de terceiro sob CPC 674-681: defesa de quem sofre\nconstrição sem ser parte (cônjuge, possuidor, adquirente de boa-\nfé); prazo do art. 675; liminar de manutenção/reintegração (CPC\n678); resposta em 15 dias (679); Súm. 84 STJ (compromisso sem\nregistro); Súm. 375 STJ (fraude à execução); Súm. 195 STJ (fraude\ncontra credores exige pauliana)."
+description: "Usar para pesquisar ou analisar: Embargos de Terceiro (CPC 674-681). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Terceiro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 674)
 

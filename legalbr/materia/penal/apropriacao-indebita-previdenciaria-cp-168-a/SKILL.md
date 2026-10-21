@@ -5,8 +5,8 @@ title: "Apropriação Indébita Previdenciária (CP 168-A)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/apropriacao-indebita-previdenciaria-cp-168-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/apropriacao-indebita-previdenciaria-cp-168-a/SKILL.md"
 triggers:
   - "CP 168-A"
   - "apropriação previdenciária"
@@ -18,10 +18,15 @@ triggers:
   - "princípio da insignificância"
   - "extinção pagamento Lei 10.684"
   - "parcelamento previdenciário"
-description: "CP 168-A (Lei 9.983/2000): deixar de repassar contribuição\nprevidenciária descontada/recolhida; recl. 2-5 + multa; dispensa\ndolo específico (STJ); STJ Tema 1.166, delito MATERIAL, consuma\ncom a constituição definitiva do crédito (SV 24); STJ Tema 1.353,\nsem continuidade delitiva com CP 337-A; insignificância controversa\n(STF restritivo; parâmetro R$ 20 mil do STJ Tema 157); §3 perdão\njudicial; pagamento integral extingue punibilidade (Lei 10.684\nart. 9); parcelamento suspende prescrição."
+description: "Usar para pesquisar ou analisar: Apropriação Indébita Previdenciária (CP 168-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apropriação Indébita Previdenciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 168-A)
 

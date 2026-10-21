@@ -5,8 +5,8 @@ title: "ICMS-ST Fora da Base do PIS/COFINS do Substituído (Tema 1.125 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/icms-st-base-pis-cofins-tema-1125.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-st-base-pis-cofins-tema-1125-stj/SKILL.md"
 triggers:
   - "Tema 1.125 STJ"
   - "ICMS-ST base PIS COFINS"
@@ -15,10 +15,15 @@ triggers:
   - "Tema 69 ICMS-ST"
   - "substituição tributária progressiva PIS COFINS"
   - "exclusão ICMS-ST da base de cálculo"
-description: "Tema 1.125 STJ (REsp 1.896.678 + 1.958.265, 2023): o ICMS-ST\nNÃO INTEGRA a base de cálculo de PIS/COFINS do substituído,\npor mesma lógica do Tema 69 STF (ICMS não é receita do\ncontribuinte). Modulação: efeitos a partir de 15/03/2017\n(mesma data do Tema 69). Parecer SEI PGFN 4.090/2024\nconsolidou."
+description: "Usar para pesquisar ou analisar: ICMS-ST Fora da Base do PIS/COFINS do Substituído (Tema 1.125 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS-ST Fora da Base do PIS/COFINS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Tomada de Decisão Apoiada (TDA)"
 category: "forma"
 materia: null
 documentType: "tomada-decisao-apoiada"
-version: 1
-sourcePath: "lib/skills/official/forma/tomada-decisao-apoiada.md"
+version: 2
+sourcePath: "legalbr/forma/tomada-decisao-apoiada/SKILL.md"
 triggers:
   - "tomada de decisão apoiada"
   - "TDA art. 1.783-A CC"
@@ -15,10 +15,15 @@ triggers:
   - "alternativa menos gravosa que a curatela"
   - "preservação da capacidade civil da pessoa com deficiência"
   - "termo de apoio homologado pelo juiz"
-description: "Tomada de Decisão Apoiada (CC 1.783-A; Lei 13.146/15): adulto com deficiência\nmantém plena capacidade e nomeia até 2 apoiadores para decisões patrimoniais\ne negociais; termo especifica decisões e duração; cessa a pedido do apoiado."
+description: "Usar para redigir ou revisar: Tomada de Decisão Apoiada (TDA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tomada de Decisão Apoiada (TDA)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

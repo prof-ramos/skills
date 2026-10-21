@@ -5,8 +5,8 @@ title: "Carta Conforto e Side Letter (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/carta-conforto-side-letter.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/carta-conforto-side-letter/SKILL.md"
 triggers:
   - "carta conforto"
   - "comfort letter"
@@ -15,10 +15,15 @@ triggers:
   - "obrigação acessória"
   - "declaração colateral"
   - "representação contratual"
-description: "Carta conforto (comfort letter) e side letter como instrumentos\nacessórios em M&A, financiamento e ofertas públicas: natureza\nobrigacional (CC 113 + 421), graduação de comprometimento (best\nefforts × obrigação de fim), oponibilidade entre partes,\nhierarquia em relação ao contrato principal, sigilo e impactos\nna due diligence subsequente."
+description: "Usar para pesquisar ou analisar: Carta Conforto e Side Letter (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Conforto e Side Letter
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Definições
 

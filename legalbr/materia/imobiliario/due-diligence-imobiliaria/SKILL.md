@@ -5,8 +5,8 @@ title: "Due Diligence Imobiliária (Análise de Viabilidade e Ônus Reais)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/due-diligence-imobiliaria.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/due-diligence-imobiliaria/SKILL.md"
 triggers:
   - "due diligence imobiliária"
   - "viabilidade aquisição"
@@ -22,10 +22,15 @@ triggers:
   - "fraude contra credores"
   - "Súm. 375 STJ"
   - "DD imobiliária"
-description: "Due diligence imobiliária - protocolo de análise prévia à\naquisição: matrícula atualizada + certidão vintenária; PRINCÍPIO\nDA CONCENTRAÇÃO art. 54 Lei 13.097/2015 (só vale o que está\nregistrado/averbado); certidões negativas (cíveis, trabalhistas,\ntributárias, fiscais); habite-se; viabilidade urbanística;\ncertidões dos alienantes; fraude execução Súm. 375 STJ; AF\nlaudêmio quando União; checklist preventivo de evicção."
+description: "Usar para pesquisar ou analisar: Due Diligence Imobiliária (Análise de Viabilidade e Ônus Reais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence Imobiliária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal aplicável
 

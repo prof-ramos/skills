@@ -5,8 +5,8 @@ title: "Seguro-Desemprego, Requisitos, Prazo e Restituição (Lei 7.998/90 + Tem
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/seguro-desemprego-lei-7998-tema-1136.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/seguro-desemprego-lei-7998-tema-1136/SKILL.md"
 triggers:
   - "seguro-desemprego"
   - "Lei 7.998"
@@ -20,10 +20,15 @@ triggers:
   - "cancelamento do seguro-desemprego"
   - "bolsa de qualificação profissional"
   - "Fundo de Amparo ao Trabalhador"
-description: "Seguro-desemprego (Lei 7.998/90): requisitos (art. 3º), parcelas (art. 4º),\nsuspensão e cancelamento (arts. 7º-8º) e restituição; prazo máximo de 120\ndias fixado por resolução do CODEFAT é legal (Tema 1.136 STJ); competência\nJF x Justiça do Trabalho (guias, Súm. 389 TST) e MS contra indeferimento."
+description: "Usar para pesquisar ou analisar: Seguro-Desemprego, Requisitos, Prazo e Restituição (Lei 7.998/90 + Tema 1.136 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro-Desemprego: Requisitos, Prazo e Restituição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

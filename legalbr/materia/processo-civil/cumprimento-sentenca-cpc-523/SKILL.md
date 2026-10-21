@@ -5,8 +5,8 @@ title: "Cumprimento de Sentença, Impugnação, Medidas Atípicas e Prescrição
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/cumprimento-sentenca-cpc-523.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumprimento-sentenca-cpc-523/SKILL.md"
 triggers:
   - "cumprimento de sentença"
   - "CPC 513"
@@ -22,10 +22,15 @@ triggers:
   - "medidas atípicas"
   - "CPC 139 IV"
   - "CPC 921"
-description: "Cumprimento sob CPC 513-538: definitivo × provisório (520-522);\npagar quantia (523): 15 dias + multa 10% + honorários 10% (Súm.\n517 + Tema 407); impugnação 525 (7 hipóteses taxativas); Temas\n407/408/1.190/1.232/1.296; Fazenda (534-535); medidas atípicas CPC\n139 IV (Tema 1.137 STJ + ADI 5.941 STF); prescrição intercorrente\nCPC 921 (Tema 568 STJ); Lei 14.711/23."
+description: "Usar para pesquisar ou analisar: Cumprimento de Sentença, Impugnação, Medidas Atípicas e Prescrição. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento Definitivo de Sentença: Obrigação de Pagar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

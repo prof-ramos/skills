@@ -5,8 +5,8 @@ title: "Decisão Interlocutória nos Juizados Especiais"
 category: "forma"
 materia: null
 documentType: "decisao-interlocutoria-juizados"
-version: 1
-sourcePath: "lib/skills/official/forma/decisao-interlocutoria-juizados.md"
+version: 2
+sourcePath: "legalbr/forma/decisao-interlocutoria-juizados/SKILL.md"
 triggers:
   - "decisão interlocutória no juizado especial"
   - "interlocutória irrecorrível no juizado"
@@ -17,10 +17,15 @@ triggers:
   - "preclusão diferida nos juizados"
   - "Súmula 376 STJ"
   - "indeferimento de prova em audiência art. 33"
-description: "Decisão interlocutória no microssistema dos Juizados (Leis 9.099/95,\n10.259/01 e 12.153/09): no JEC não há recurso imediato (arts. 41-42;\nTema 77 STF veda até MS contra interlocutória) e a questão não preclui,\npodendo ser renovada no recurso inominado; no JEF e no JEFP a decisão\nsobre cautelares e antecipatórias é recorrível (art. 5º da 10.259 e\nart. 4º da 12.153); nunca indicar agravo de instrumento no JEC."
+description: "Usar para redigir ou revisar: Decisão Interlocutória nos Juizados Especiais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decisão Interlocutória nos Juizados Especiais
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime recursal por microssistema
 

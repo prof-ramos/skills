@@ -5,8 +5,8 @@ title: "Pedido de Indulto, Comutação e Graça"
 category: "forma"
 materia: null
 documentType: "pedido-indulto"
-version: 1
-sourcePath: "lib/skills/official/forma/pedido-indulto.md"
+version: 2
+sourcePath: "legalbr/forma/pedido-indulto/SKILL.md"
 triggers:
   - "pedido de indulto"
   - "indulto natalino"
@@ -14,10 +14,15 @@ triggers:
   - "graça presidencial"
   - "art. 84 XII CF"
   - "LEP 187-193"
-description: "Indulto, comutação e graça sob a CF 84 XII, CP 107 II e LEP\n187-193: indulto e comutação coletivos por decreto presidencial;\ngraça individual por petição; vedação aos crimes do art. 5º XLIII\n(hipóteses humanitárias conforme o decreto vigente); procedimento\nperante o juiz da execução com manifestação do MP e cabimento de\nagravo em execução."
+description: "Usar para redigir ou revisar: Pedido de Indulto, Comutação e Graça. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indulto, Comutação e Graça
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

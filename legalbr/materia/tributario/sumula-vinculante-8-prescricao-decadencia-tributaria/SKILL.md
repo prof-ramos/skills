@@ -5,8 +5,8 @@ title: "Súmula Vinculante 8, Prescrição e Decadência Tributária só por LC"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/sumula-vinculante-8-prescricao-decadencia-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-8-prescricao-decadencia-tributaria/SKILL.md"
 triggers:
   - "SV 8"
   - "Súmula Vinculante 8"
@@ -19,10 +19,15 @@ triggers:
   - "RE 559943"
   - "RE 556664"
   - "prazo decenal contribuição previdenciária"
-description: "SV 8 STF (12/06/2008): \"São inconstitucionais o parágrafo único\ndo art. 5 do DL 1.569/1977 e os arts. 45 e 46 da Lei 8.212/91,\nque tratam de prescrição e decadência de crédito tributário.\"\nReserva de LC (CF 146 III b); prazos quinquenais do CTN (173 e 174)\nprevalecem; modulação veda restituição salvo ação ajuizada até\n11/06/2008; aplicável apenas a créditos tributários."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 8, Prescrição e Decadência Tributária só por LC. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 8, Prescrição e Decadência Tributária só por LC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

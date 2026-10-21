@@ -5,8 +5,8 @@ title: "MOU, LOI e Term Sheet (instrumentos pré-contratuais)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/mou-loi-term-sheet.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/mou-loi-term-sheet/SKILL.md"
 triggers:
   - "MOU"
   - "memorandum of understanding"
@@ -16,10 +16,15 @@ triggers:
   - "heads of agreement"
   - "carta de intenção"
   - "pré-contrato"
-description: "Instrumentos pré-contratuais: MOU (memorando de entendimento),\nLOI (carta de intenção) e Term Sheet: natureza jurídica\n(binding × non-binding), cláusulas vinculantes (exclusividade\n+ confidencialidade + lei + foro + break-up fee + custos +\nno-shop) × não-vinculantes (preço + estrutura + cronograma),\nresponsabilidade pré-contratual (CC 422 + 187), risco de\nconversão em contrato preliminar (CC 462-466) e estruturação."
+description: "Usar para pesquisar ou analisar: MOU, LOI e Term Sheet (instrumentos pré-contratuais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MOU, LOI e Term Sheet
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Definições
 

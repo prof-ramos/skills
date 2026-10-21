@@ -5,8 +5,8 @@ title: "Provas no Processo Civil (CPC 369-484)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/provas-cpc-369-380.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/provas-cpc-369-380/SKILL.md"
 triggers:
   - "ônus da prova"
   - "CPC 369"
@@ -22,10 +22,15 @@ triggers:
   - "ata notarial"
   - "produção antecipada de provas"
   - "cerceamento de defesa"
-description: "Provas no processo civil (CPC 369-484): direito amplo (369);\niniciativa supletiva (370); livre apreciação motivada (371);\nprova emprestada (372, jurisprudência da Corte Especial do STJ\ndispensa identidade de partes); ônus estático + DISTRIBUIÇÃO\nDINÂMICA (373 §1, regra de instrução, não de julgamento); prova\ndigital e cadeia de custódia (integridade técnica: ata notarial,\nhash, metadados); ata notarial como meio de prova robusto."
+description: "Usar para pesquisar ou analisar: Provas no Processo Civil (CPC 369-484). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Provas no Processo Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Imposto Seletivo (CF 153 VIII + EC 132/2023 + LC 214/2025 art. 409)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-seletivo-cf-153-viii.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/imposto-seletivo-cf-153-viii/SKILL.md"
 triggers:
   - "imposto seletivo"
   - "CF 153 VIII"
@@ -20,10 +20,15 @@ triggers:
   - "bebidas açucaradas"
   - "extrafiscalidade"
   - "ADI 7.751"
-description: "IS CF 153 VIII (EC 132/2023) federal — produção/extração/comerc./\nimport. de BENS+SERVIÇOS PREJUDICIAIS à SAÚDE ou AMBIENTE\n(extrafiscal sin tax); CF 153 §6 alíq. por DECRETO + CF 150 §1\nsó NONAGESIMAL; CUMULA CBS+IBS (integra base); LC 214/2025 art.\n409 lista TAXATIVA (veículos+embarcações+aeronaves+fumígenos+\nbebidas alcóol/açúcar+minerais máx 1%+prognósticos/fantasy);\nvigência 2027 plena; ADI 7.751 pendente."
+description: "Usar para pesquisar ou analisar: Imposto Seletivo (CF 153 VIII + EC 132/2023 + LC 214/2025 art. 409). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imposto Seletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153 VIII (EC 132/2023)
 

@@ -5,8 +5,8 @@ title: "Depósito Judicial NÃO Extingue Mora (Tema 677 STJ revisado + CPC 904)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/deposito-judicial-juros-mora-tema-677.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/deposito-judicial-juros-mora-tema-677/SKILL.md"
 triggers:
   - "Tema 677 STJ"
   - "depósito judicial juros"
@@ -19,10 +19,15 @@ triggers:
   - "encargos moratórios"
   - "Súm. 179 STJ"
   - "revisão tese 677"
-description: "Tema 677 STJ (revisado em 2022): em fase de execução, o depósito\njudicial NÃO extingue a obrigação do devedor nem cessa juros e\ncorreção a seu cargo. Os encargos moratórios continuam fluindo\naté a efetiva entrega ao credor; quando liberado, o saldo da\nconta judicial é ABATIDO. QO no REsp 1.820.963/SP, Corte Especial,\nj. 21/10/2022. Distingue-se depósito em consignação (extingue) e\ndepósito em garantia (não extingue)."
+description: "Usar para pesquisar ou analisar: Depósito Judicial NÃO Extingue Mora (Tema 677 STJ revisado + CPC 904). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Depósito Judicial e Juros de Mora (Tema 677 STJ revisado)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 677 STJ revisada em 2022)
 

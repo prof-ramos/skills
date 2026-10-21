@@ -5,8 +5,8 @@ title: "Dívida Prescrita - Cobrança Extrajudicial e Plataformas de Renegociaç
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/divida-prescrita-cobranca-extrajudicial-tema-1264.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/divida-prescrita-cobranca-extrajudicial-tema-1264/SKILL.md"
 triggers:
   - "dívida prescrita"
   - "Tema 1.264 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "indiferença das vias"
   - "CC 882 dívida prescrita"
   - "sobrestamento dívida prescrita"
-description: "Cobrança extrajudicial de dívida prescrita e inscrição em plataformas de\nrenegociação (Serasa Limpa Nome, Acordo Certo): Tema 1.264 STJ afetado com\nsuspensão nacional; REsp 2.088.100/SP (prescrição impede cobrança judicial\ne extrajudicial, indiferença das vias, CC 189) e REsp 2.103.726/SP (mera\ninclusão na plataforma não é cobrança); CC 189 + 206 §5 I + 882; distinção\nfrente à Súm. 323 STJ e ao cadastro de inadimplentes."
+description: "Usar para pesquisar ou analisar: Dívida Prescrita - Cobrança Extrajudicial e Plataformas de Renegociação (Tema 1.264 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dívida Prescrita: Cobrança Extrajudicial e Plataformas de Renegociação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Controvérsia distinta da negativação em cadastro restritivo (CDC 43 §1 + Súm. 323 STJ, tratada na skill de bancos de dados): aqui se discute se a dívida prescrita pode continuar sendo **cobrada por via extrajudicial** e exibida em **plataformas de renegociação** (Serasa Limpa Nome, Acordo Certo).
 

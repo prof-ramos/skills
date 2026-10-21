@@ -5,8 +5,8 @@ title: "Contribuição Previdenciária Patronal + Aprendiz (Tema 1.342 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/contribuicao-aprendiz-tema-1342.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-aprendiz-tema-1342/SKILL.md"
 triggers:
   - "Tema 1.342 STJ"
   - "contribuição previdenciária aprendiz"
@@ -15,10 +15,15 @@ triggers:
   - "terceiros contribuição aprendiz"
   - "SAT aprendiz"
   - "jovem aprendiz tributação"
-description: "Tema 1.342 STJ (1ª Seção, abr/2025): a remuneração paga ao aprendiz\n(CLT art. 428) INTEGRA a base de cálculo da contribuição\nprevidenciária PATRONAL, do GIIL-RAT (SAT) e das contribuições a\nTERCEIROS (Sistema S). Aprendiz é segurado obrigatório\n(empregado), submetido ao regime ordinário das contribuições\nsobre a folha."
+description: "Usar para pesquisar ou analisar: Contribuição Previdenciária Patronal + Aprendiz (Tema 1.342 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição Previdenciária Patronal + Aprendiz (Tema 1.342 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.342 STJ, 1ª Seção)
 

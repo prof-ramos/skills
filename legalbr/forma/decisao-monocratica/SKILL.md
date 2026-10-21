@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "decisao-monocratica"
 version: 2
-sourcePath: "lib/skills/official/forma/decisao-monocratica.md"
+sourcePath: "legalbr/forma/decisao-monocratica/SKILL.md"
 triggers:
   - "decisão monocrática do relator"
   - "poderes do relator art. 932 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "provimento monocrático art. 932 V"
   - "fundamentação art. 489 §1º"
   - "decisão monocrática recorrível por agravo interno"
-description: "Decisão monocrática do relator sob o art. 932 do CPC: hipóteses\ntaxativas (incisos III, IV e V) para não conhecimento ou julgamento\nmonocrático de mérito fundado em precedente qualificado; prazo do\nparágrafo único (5 dias) para sanar vícios; impugnação por agravo\ninterno do art. 1.021 com vedação de mera reprodução (§3º) e multa do\n§4º apenas em votação unânime; observância da fundamentação do art. 489\n§1º (V e VI) com ratio decidendi identificada."
+description: "Usar para redigir ou revisar: Decisão Monocrática (Relator). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decisão Monocrática (Relator)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Poderes do relator (art. 932)
 

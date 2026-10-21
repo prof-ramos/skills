@@ -5,8 +5,8 @@ title: "Direito Internacional Público + Tratados + Ordem Pública Internacional
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/direito-internacional-publico.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/direito-internacional-publico/SKILL.md"
 triggers:
   - "direito internacional público"
   - "tratado internacional"
@@ -18,10 +18,15 @@ triggers:
   - "pacta sunt servanda"
   - "Tribunal Penal Internacional"
   - "homologação sentença estrangeira"
-description: "Direito internacional público sob CF 4, 5 §§2-3, 84 VIII e 49 I + Convenção de\nViena 1969 (Decreto 7.030/2009): fontes (tratados, costume, ius cogens);\nincorporação em quatro fases e hierarquia (constitucional, supralegal RE 466.343\ne legal); órgãos (ONU, Corte IDH, TPI); responsabilidade internacional,\nextradição e ordem pública internacional."
+description: "Usar para pesquisar ou analisar: Direito Internacional Público + Tratados + Ordem Pública Internacional. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Internacional Público + Tratados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

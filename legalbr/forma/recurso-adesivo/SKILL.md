@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-adesivo"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-adesivo.md"
+sourcePath: "legalbr/forma/recurso-adesivo/SKILL.md"
 triggers:
   - "recurso adesivo"
   - "apelação adesiva"
@@ -14,10 +14,15 @@ triggers:
   - "REsp adesivo"
   - "RE adesivo"
   - "contrarrazões com adesivo"
-description: "Recurso adesivo (art. 997 §§1º-2º CPC): cabível em apelação, REsp e RE;\nexige sucumbência recíproca; prazo das contrarrazões; cai se o principal\ncair; não cabe em agravo, ED ou agravo em REsp/RE."
+description: "Usar para redigir ou revisar: Recurso Adesivo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Adesivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 997 §1º)
 

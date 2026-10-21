@@ -5,8 +5,8 @@ title: "Creditamento de IPI nas Saídas Isentas / Alíquota Zero / Imunes (Tema 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/creditamento-ipi-isentos-alq-zero-imunes-tema-1247.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/creditamento-ipi-isentos-alq-zero-imunes-tema-1247/SKILL.md"
 triggers:
   - "Tema 1.247 STJ"
   - "creditamento IPI Lei 9.779"
@@ -15,10 +15,15 @@ triggers:
   - "produto imune IPI crédito"
   - "NT não tributado IPI"
   - "aproveitamento crédito IPI saída desonerada"
-description: "Tema 1.247 STJ (1ª Seção, 09/04/2025): o creditamento de IPI do\nart. 11 da Lei 9.779/1999, decorrente de matéria-prima, produto\nintermediário e embalagem ADQUIRIDOS TRIBUTADOS, abrange saída\nde produtos ISENTOS, com ALÍQUOTA ZERO e IMUNES. Produtos com\nnotação NT na TIPI por imunidade estão abrangidos pela tese (o\ncaso paradigma era imune, CF 155 §3); para NT por não incidência\npura há julgados estendendo a mesma ratio, sem tese vinculante."
+description: "Usar para pesquisar ou analisar: Creditamento de IPI nas Saídas Isentas / Alíquota Zero / Imunes (Tema 1.247 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Creditamento de IPI nas Saídas Isentas / Alíquota Zero / Imunes (Tema 1.247 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.247 STJ, 1ª Seção, 09/04/2025; trânsito em julgado em março/2026)
 

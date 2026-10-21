@@ -5,8 +5,8 @@ title: "Devolução em Dobro: CDC 42 par. único e EAREsp 676.608 STJ (Corte Esp
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/devolucao-dobro-cdc-42-earesp-676608.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/devolucao-dobro-cdc-42-earesp-676608/SKILL.md"
 triggers:
   - "devolução em dobro"
   - "repetição em dobro"
@@ -16,10 +16,15 @@ triggers:
   - "boa-fé objetiva"
   - "engano justificável"
   - "modulação 30/03/2021"
-description: "Repetição em dobro (CDC 42 par. único) à luz do EAREsp 676.608/RS\n(STJ, Corte Especial, j. 21/10/2020, acórdão publicado 30/03/2021;\nsem número de tema repetitivo): basta contrariedade à boa-fé\nobjetiva (dispensa má-fé subjetiva); modulação: indébitos\nposteriores a 30/03/2021, em TODAS as relações de consumo;\nengano justificável é exceção; pagamento efetivo é pressuposto;\naplicação a serviços continuados e cobranças repetidas."
+description: "Usar para pesquisar ou analisar: Devolução em Dobro: CDC 42 par. único e EAREsp 676.608 STJ (Corte Especial). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Devolução em Dobro: CDC 42 par. único
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto legal
 

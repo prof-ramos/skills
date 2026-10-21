@@ -5,8 +5,8 @@ title: "Gratuidade de Justiça + Critérios Objetivos (Tema 1.178 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/gratuidade-criterios-objetivos-tema-1178.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/gratuidade-criterios-objetivos-tema-1178/SKILL.md"
 triggers:
   - "Tema 1.178 STJ"
   - "gratuidade de justiça"
@@ -17,10 +17,15 @@ triggers:
   - "comprovação hipossuficiência"
   - "justiça gratuita indeferimento"
   - "parâmetros remuneratórios gratuidade"
-description: "Tema 1.178 STJ (Corte Especial, 17/09/2025): VEDADO indeferimento\nIMEDIATO da gratuidade por critério objetivo (valor da causa, renda,\n3 SM etc). Presunção do CPC 99 §3 só cai com elementos concretos\nnos autos; juiz deve INTIMAR para comprovação indicando razões.\nCritério objetivo é SUPLEMENTAR, nunca fundamento exclusivo."
+description: "Usar para pesquisar ou analisar: Gratuidade de Justiça + Critérios Objetivos (Tema 1.178 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gratuidade de Justiça + Critérios Objetivos (Tema 1.178 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.178 STJ, Corte Especial, 17/09/2025, Rel. Min. Og Fernandes)
 

@@ -5,8 +5,8 @@ title: "Publicidade Enganosa e Abusiva (CDC 30-38 + 67)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/publicidade-enganosa-cdc-30-37.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/publicidade-enganosa-cdc-30-37/SKILL.md"
 triggers:
   - "publicidade enganosa"
   - "publicidade abusiva"
@@ -19,10 +19,15 @@ triggers:
   - "publicidade infantil"
   - "inversão ope legis publicidade"
   - "greenwashing"
-description: "Publicidade CDC 30-38 + 60-68: vinculação (30); tripla opção (35);\nenganosa/abusiva (37, publicidade infantil abusiva, REsp\n1.558.086); inversão ope legis (38); crime (67); influenciadores +\ngreenwashing."
+description: "Usar para pesquisar ou analisar: Publicidade Enganosa e Abusiva (CDC 30-38 + 67). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Publicidade Enganosa e Abusiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CDC 30, princípio da VINCULAÇÃO
 

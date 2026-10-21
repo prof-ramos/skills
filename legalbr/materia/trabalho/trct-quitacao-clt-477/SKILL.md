@@ -5,8 +5,8 @@ title: "TRCT e Quitação (CLT 477 + 477-A + 477-B)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/trct-quitacao-clt-477.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trct-quitacao-clt-477/SKILL.md"
 triggers:
   - "TRCT"
   - "termo de rescisão"
@@ -18,10 +18,15 @@ triggers:
   - "plano de demissão voluntária"
   - "Tema 152 STF"
   - "quitação anual CLT 507-B"
-description: "TRCT e quitação (CLT 477): Reforma dispensou a homologação sindical;\npagamento e entrega de documentos em 10 dias do término do contrato;\nmulta 477 §8 (1 salário) por atraso (salvo culpa do empregado);\nquitação adstrita ao declarado (Súm. 330); PDV via ACT/CCT = quitação\nampla (Tema 152 STF; CLT 477-B)."
+description: "Usar para pesquisar ou analisar: TRCT e Quitação (CLT 477 + 477-A + 477-B). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo de Rescisão (TRCT) e Quitação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

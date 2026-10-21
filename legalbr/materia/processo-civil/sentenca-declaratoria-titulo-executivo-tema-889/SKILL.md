@@ -5,8 +5,8 @@ title: "Sentença Declaratória como Título Executivo (Temas 889 e 509 STJ + CP
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/sentenca-declaratoria-titulo-executivo-tema-889.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/sentenca-declaratoria-titulo-executivo-tema-889/SKILL.md"
 triggers:
   - "sentença declaratória título executivo"
   - "executividade da sentença declaratória"
@@ -19,10 +19,15 @@ triggers:
   - "cumprimento de sentença arbitral"
   - "execução de sentença declaratória"
   - "REsp 1.324.152"
-description: "Executividade da sentença declaratória e o rol do CPC 515: Tema 889 STJ\n(Corte Especial, REsp 1.324.152/SP: qualquer sentença, de procedência ou\nimprocedência, é título executivo se estabelece obrigação de pagar, fazer,\nnão fazer ou entregar coisa) + Tema 509 (eficácia executiva da declaratória\nde obrigação de pagar) + Súm. 461 STJ (indébito: precatório ou compensação)\n+ Tema 893 (multa no cumprimento de sentença arbitral)."
+description: "Usar para pesquisar ou analisar: Sentença Declaratória como Título Executivo (Temas 889 e 509 STJ + CPC 515). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Declaratória como Título Executivo Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa: CPC 515
 

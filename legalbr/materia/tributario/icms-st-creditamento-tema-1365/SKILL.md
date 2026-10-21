@@ -5,8 +5,8 @@ title: "ICMS-ST Aproveitamento como Crédito de PIS/COFINS (Tema 1.365 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-st-creditamento-tema-1365.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-st-creditamento-tema-1365/SKILL.md"
 triggers:
   - "Tema 1.365 STF"
   - "ICMS-ST crédito PIS COFINS"
@@ -15,10 +15,15 @@ triggers:
   - "substituído creditamento"
   - "ICMS-ST custo de aquisição"
   - "Tema 1.364 STJ"
-description: "Tema 1.365 STF (RE 1.509.608): controvérsia INFRACONSTITUCIONAL.\nO STF não enfrentou o mérito do aproveitamento de ICMS-ST pelo\ncontribuinte SUBSTITUÍDO para creditamento de PIS/COFINS. O\nmérito coube ao STJ: Tema 1.231 STJ decidiu que o ICMS-ST NÃO\nintegra o custo de aquisição e NÃO gera crédito de PIS/COFINS\nao substituído. Distinção com o ICMS próprio na aquisição\n(Lei 14.592/23; controvérsia infraconstitucional no STF Tema\n1.394, mérito no STJ Tema 1.364)."
+description: "Usar para pesquisar ou analisar: ICMS-ST Aproveitamento como Crédito de PIS/COFINS (Tema 1.365 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS-ST: Creditamento de PIS/COFINS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

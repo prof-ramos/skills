@@ -5,8 +5,8 @@ title: "NR-1 + Riscos Psicossociais (Portaria MTE 1.419/2024 + GRO + PGR)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/nr-1-riscos-psicossociais-2024.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/nr-1-riscos-psicossociais-2024/SKILL.md"
 triggers:
   - "NR-1 atualizada"
   - "riscos psicossociais"
@@ -18,10 +18,15 @@ triggers:
   - "assédio moral NR"
   - "violência trabalho NR"
   - "Portaria MTE 765"
-description: "NR-1 atualizada, **Portaria MTE 1.419/2024**: desde **26/05/2026**\n(vigência fixada pela Portaria MTE 765/2025) é obrigatória a\ninclusão dos **fatores de risco psicossociais** no Gerenciamento de\nRiscos Ocupacionais (GRO) e Programa de Gerenciamento de Riscos\n(PGR). Antes do prazo: caráter educativo (maio/2025-maio/2026).\nInclui: estresse, **burnout** (CID-11), assédio moral/sexual,\nviolência, sobrecarga, metas impossíveis, isolamento, desequilíbrio\nesforço/recompensa. Convergência com **Lei 14.457/2022** (assédio +\nCIPA+A) + **Lei 8.213** (NTEP + estabilidade). Empresas devem\n**inventariar + avaliar + monitorar + intervir**. Sanções: multas +\nautuações. Acionamento da Justiça do Trabalho + indenização (CLT\n223-B)."
+description: "Usar para pesquisar ou analisar: NR-1 + Riscos Psicossociais (Portaria MTE 1.419/2024 + GRO + PGR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # NR-1 + Riscos Psicossociais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

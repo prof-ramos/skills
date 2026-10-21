@@ -5,8 +5,8 @@ title: "Contrato de Fornecimento Empresarial (Supply): Take or Pay e Denúncia (
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-fornecimento-empresarial-supply.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-fornecimento-empresarial-supply/SKILL.md"
 triggers:
   - "contrato de fornecimento"
   - "fornecimento contínuo B2B"
@@ -20,10 +20,15 @@ triggers:
   - "rescisão de fornecimento"
   - "aviso prévio proporcional investimentos"
   - "fornecimento de insumos indústria"
-description: "Contrato de fornecimento empresarial (supply) de trato sucessivo:\ncompra e venda continuada (CC 481) entre empresários paritários\n(CC 421-A); cláusulas take or pay e ship or pay válidas no B2B\n(REsp 1.984.655/SP: natureza obrigacional, lastreia duplicata;\nREsp 2.048.957/MG: mínimo pago não gera crédito de volume); denúncia\ndo CC 473 par. único com prazo compatível aos investimentos;\nonerosidade excessiva CC 478-480."
+description: "Usar para pesquisar ou analisar: Contrato de Fornecimento Empresarial (Supply): Take or Pay e Denúncia (CC 473 + 421-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Fornecimento Empresarial (Supply)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza e base legal
 

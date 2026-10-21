@@ -5,8 +5,8 @@ title: "Direito de Greve (CF 9 + 37 VII + Lei 7.783/1989 + MI 670 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/direito-greve-cf-9.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/direito-greve-cf-9/SKILL.md"
 triggers:
   - "direito de greve"
   - "CF 9"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 541 STF"
   - "greve de servidor público"
   - "greve de militares"
-description: "Greve sob CF 9 + 37 VII + Lei 7.783/1989: MI 670/708/712 STF\n(concretista: aplicação supletiva ao servidor público com efeitos\nerga omnes); Tema 531 (RE 693.456: desconto obrigatório dos dias\nparados, permitida compensação por acordo); Tema 544 (RE 846.854:\nJustiça Comum julga a abusividade de greve de servidores públicos\nceletistas da Administração direta, autarquias e fundações, não a\nJT); Tema 541 (vedada a policiais); vedada\na militares (CF 142 §3 IV); manutenção de serviços essenciais (Lei\n7.783 art. 10-11)."
+description: "Usar para pesquisar ou analisar: Direito de Greve (CF 9 + 37 VII + Lei 7.783/1989 + MI 670 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Greve
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

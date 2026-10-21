@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/cannabis-medicinal-anvisa-rdc-660.md"
+sourcePath: "legalbr/materia/saude/cannabis-medicinal-anvisa-rdc-660/SKILL.md"
 triggers:
   - "cannabis medicinal"
   - "canabidiol"
@@ -22,10 +22,15 @@ triggers:
   - "habeas corpus maconha medicinal"
   - "prescrição CBD"
   - "Anvisa cannabis"
-description: "Regimes distintos de cannabis medicinal: importação pessoal, cultivos\nsob AE, sandbox temporário da RDC 1.014, produtos autorizados pela RDC\n1.015 e cultivo individual sob tutela judicial."
+description: "Usar para pesquisar ou analisar: Cannabis Medicinal (RDC 660/2022 + RDCs 1.012 a 1.015/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cannabis Medicinal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

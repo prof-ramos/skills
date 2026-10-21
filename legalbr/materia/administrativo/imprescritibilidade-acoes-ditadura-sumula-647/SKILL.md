@@ -5,8 +5,8 @@ title: "Imprescritibilidade de Ações por Atos da Ditadura (Súm. 647 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/imprescritibilidade-acoes-ditadura-sumula-647.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/imprescritibilidade-acoes-ditadura-sumula-647/SKILL.md"
 triggers:
   - "Súmula 647 STJ"
   - "indenização tortura regime militar"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 9.140/1995 anistia política"
   - "Lei 10.559/2002 reparação"
   - "responsabilidade Estado violações direitos humanos"
-description: "Súm. 647 STJ: SÃO IMPRESCRITÍVEIS as ações indenizatórias por\ndanos morais e materiais decorrentes de atos de perseguição\npolítica com violação de direitos fundamentais durante o regime\nmilitar (1964-1985). Imprescritibilidade contra o ESTADO; ação\ncontra agente privado segue regime ordinário. Juros desde o\nevento danoso (Tema 1.251 STJ + Súm. 54)."
+description: "Usar para pesquisar ou analisar: Imprescritibilidade de Ações por Atos da Ditadura (Súm. 647 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imprescritibilidade de Ações por Atos da Ditadura (Súm. 647 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula 647 STJ
 

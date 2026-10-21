@@ -5,8 +5,8 @@ title: "URV 11,98%, Servidores Estaduais e Municipais (Lei 8.880/94 + Súm. 682 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/urv-11-98-lei-8880.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/urv-11-98-lei-8880/SKILL.md"
 triggers:
   - "URV"
   - "11,98%"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 5 STF"
   - "Plano Real"
   - "recomposição salarial servidores"
-description: "Conversão cruzeiro real → URV (MP 434/94, Lei 8.880/94): servidores\nestaduais/municipais com remuneração paga no último dia útil do mês\nsofreram perda de até 11,98%; Súm. 682 STF + Tema 5 STF (RE 561.836)\nreconheceram direito à recomposição (até reestruturação remuneratória);\nprescrição quinquenal (Súm. 85 STJ + Dec. 20.910/32); União, Estados,\nMunicípios, MP e Judiciário podem deferir individualmente."
+description: "Usar para pesquisar ou analisar: URV 11,98%, Servidores Estaduais e Municipais (Lei 8.880/94 + Súm. 682 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # URV 11,98%, Servidores Estaduais e Municipais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

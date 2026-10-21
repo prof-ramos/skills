@@ -5,8 +5,8 @@ title: "Empregado Hipersuficiente (CLT 444 par. único, 507-A e 507-B)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/empregado-hipersuficiente-clt-444.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/empregado-hipersuficiente-clt-444/SKILL.md"
 triggers:
   - "empregado hipersuficiente"
   - "hipersuficiente"
@@ -19,10 +19,15 @@ triggers:
   - "negociação individual executivo"
   - "duas vezes teto RGPS"
   - "compromisso arbitral trabalhista"
-description: "Estatuto do empregado hipersuficiente (Lei 13.467/17): negociação\nindividual com eficácia de norma coletiva (CLT 444 par. único, diploma\nsuperior + salário ≥ 2x teto RGPS, limitada ao rol do 611-A e vedações\ndo 611-B), cláusula compromissória de arbitragem (CLT 507-A) e termo de\nquitação anual perante o sindicato (CLT 507-B)."
+description: "Usar para pesquisar ou analisar: Empregado Hipersuficiente (CLT 444 par. único, 507-A e 507-B). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Empregado Hipersuficiente (CLT 444 par. único, 507-A e 507-B)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

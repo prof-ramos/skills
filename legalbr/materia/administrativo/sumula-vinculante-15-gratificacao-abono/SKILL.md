@@ -5,8 +5,8 @@ title: "Súmula Vinculante 15, Gratificações Não Incidem Sobre Abono do Míni
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-15-gratificacao-abono.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-15-gratificacao-abono/SKILL.md"
 triggers:
   - "Súmula Vinculante 15"
   - "SV 15"
@@ -17,10 +17,15 @@ triggers:
   - "indexação indireta mínimo"
   - "base de cálculo gratificação"
   - "vencimento básico inferior mínimo"
-description: "SV 15 STF (25/06/2009): \"O cálculo de gratificações e outras\nvantagens do servidor público não incide sobre o abono utilizado\npara se atingir o salário mínimo\"; RE 439.360; vencimento básico\npode ser inferior ao salário mínimo desde que o total da\nremuneração o alcance (SV 16); gratificações incidem apenas sobre\nvencimento, não sobre o abono complementar; evita indexação\nindireta vedada pela SV 4."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 15, Gratificações Não Incidem Sobre Abono do Mínimo (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 15, Gratificações e Abono Complementar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

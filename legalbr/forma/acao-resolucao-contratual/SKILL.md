@@ -6,17 +6,22 @@ category: "forma"
 materia: null
 documentType: "acao-resolucao-contratual"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-resolucao-contratual.md"
+sourcePath: "legalbr/forma/acao-resolucao-contratual/SKILL.md"
 triggers:
   - "resolução contratual"
   - "rescisão contratual"
   - "inadimplemento contratual"
   - "cláusula resolutiva"
   - "exceção do contrato não cumprido em ação de resolução contratual"
-description: "Resolução por inadimplemento (CC 474-475): cláusula expressa opera de pleno\ndireito; tácita exige interpelação. Cumula perdas e danos (CC 389) e\nreintegração. CDC 53 veda perda total em compra a prazo."
+description: "Usar para redigir ou revisar: Ação de Resolução Contratual. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Resolução Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinção terminológica
 

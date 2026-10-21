@@ -5,8 +5,8 @@ title: "Isonomia de Vencimentos e SV 37 (Tema 339 STF + AI 791.292)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/isonomia-vencimentos-sv-37-tema-339.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/isonomia-vencimentos-sv-37-tema-339/SKILL.md"
 triggers:
   - "Tema 339"
   - "SV 37"
@@ -22,10 +22,15 @@ triggers:
   - "aumento de vencimentos por isonomia"
   - "revisão geral anual"
   - "Tema 624 STF"
-description: "Tema 339 STF (AI 791.292 QO-RG, Min. Gilmar, 23/06/2010) + SV 37\n(16/10/2014): vedado ao Judiciário aumentar vencimentos de\nservidores sob fundamento de isonomia (CF 37 X). Tese conexa: o\nart. 93 IX exige fundamentação ainda que sucinta dos acórdãos, sem\nexigir exame pormenorizado de cada alegação ou prova."
+description: "Usar para pesquisar ou analisar: Isonomia de Vencimentos e SV 37 (Tema 339 STF + AI 791.292). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Isonomia de Vencimentos e SV 37 (Tema 339 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

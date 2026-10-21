@@ -5,8 +5,8 @@ title: "EPI Eficaz + Descaracterização do Tempo Especial (Tema 1.090 STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/epi-tempo-especial-tema-1090.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/epi-tempo-especial-tema-1090/SKILL.md"
 triggers:
   - "Tema 1.090 STJ"
   - "EPI tempo especial"
@@ -15,10 +15,15 @@ triggers:
   - "certificado aprovação CA"
   - "LTCAT atividade especial"
   - "benefício da dúvida segurado"
-description: "Tema 1.090 STJ (1ª Seção): a anotação POSITIVA sobre\nuso adequado de EPI no PPP DESCARACTERIZA, em princípio, o risco\nlaboral para tempo especial. Ônus do trabalhador é demonstrar\nINEFICÁCIA (inadequação, ausência de CA, falta de treinamento,\netc.). Em caso de DÚVIDA ou DIVERGÊNCIA na prova, conclusão\nfavorável ao SEGURADO."
+description: "Usar para pesquisar ou analisar: EPI Eficaz + Descaracterização do Tempo Especial (Tema 1.090 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # EPI Eficaz + Descaracterização do Tempo Especial (Tema 1.090 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.090 STJ, 1ª Seção)
 

@@ -5,8 +5,8 @@ title: "ADI / ADC / ADPF (Controle Concentrado)"
 category: "forma"
 materia: null
 documentType: "controle-concentrado"
-version: 1
-sourcePath: "lib/skills/official/forma/adi-adc-adpf.md"
+version: 2
+sourcePath: "legalbr/forma/adi-adc-adpf/SKILL.md"
 triggers:
   - "ADI"
   - "ADC"
@@ -18,10 +18,15 @@ triggers:
   - "violação a preceito fundamental"
   - "pertinência temática"
   - "modulação dos efeitos da declaração"
-description: "Controle concentrado de constitucionalidade no STF sob a CF 102 I \"a\"\ne 103 e as Leis 9.868/99 e 9.882/99: ADI contra lei vigente em face\nda CF; ADC contra lei federal com controvérsia relevante; ADPF\nsubsidiária contra ato do Poder Público que lesa preceito fundamental;\nlegitimados, pertinência temática e modulação dos efeitos."
+description: "Usar para redigir ou revisar: ADI / ADC / ADPF (Controle Concentrado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI / ADC / ADPF
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

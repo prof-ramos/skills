@@ -5,8 +5,8 @@ title: "Assistência Judiciária Gratuita"
 category: "forma"
 materia: null
 documentType: "assistencia-judiciaria-gratuita"
-version: 1
-sourcePath: "lib/skills/official/forma/assistencia-judiciaria-gratuita.md"
+version: 2
+sourcePath: "legalbr/forma/assistencia-judiciaria-gratuita/SKILL.md"
 triggers:
   - "justiça gratuita"
   - "gratuidade da justiça"
@@ -15,10 +15,15 @@ triggers:
   - "benefício da gratuidade"
   - "impugnação à gratuidade"
   - "art. 98 CPC"
-description: "Gratuidade da justiça (arts. 98-102 CPC): presunção legal para pessoa\nfísica (99 §3º); ônus para PJ (Súm 481/STJ); pedido em inicial, defesa,\nrecurso ou peça avulsa; impugnação no 100; AI (1.015 V)."
+description: "Usar para redigir ou revisar: Assistência Judiciária Gratuita. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assistência Judiciária Gratuita
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 98)
 

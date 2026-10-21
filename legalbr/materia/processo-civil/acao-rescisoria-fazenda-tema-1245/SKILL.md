@@ -5,8 +5,8 @@ title: "Ação Rescisória pela Fazenda Pública (CPC 966 + Tema 1.245 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/acao-rescisoria-fazenda-tema-1245.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/acao-rescisoria-fazenda-tema-1245/SKILL.md"
 triggers:
   - "ação rescisória fazenda"
   - "CPC 966"
@@ -16,10 +16,15 @@ triggers:
   - "inconstitucionalidade superveniente"
   - "art 535 §8 CPC"
   - "prazo 2 anos rescisória"
-description: "Ação rescisória pela Fazenda Pública (CPC arts. 966-975 + Tema 1.245\nSTJ): hipóteses específicas (manifesta violação de norma jurídica,\ninconstitucionalidade declarada pelo STF, prova falsa, dolo ou\ncoação); prazo decadencial de 2 anos do trânsito ou, na hipótese de\ndecisão do STF posterior, do trânsito da decisão do STF (CPC 535\n§8); foro do tribunal que prolatou a decisão;\nhonorários sucumbenciais (CPC 968 §5); aplicação massiva pela PGFN\npós-Tema 69 (exclusão do ICMS da base de cálculo do PIS/Cofins)."
+description: "Usar para pesquisar ou analisar: Ação Rescisória pela Fazenda Pública (CPC 966 + Tema 1.245 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Rescisória pela Fazenda Pública (CPC 966-975 + Tema 1.245 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

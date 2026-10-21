@@ -5,8 +5,8 @@ title: "Fideicomisso (CC 1.951-1.960)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/fideicomisso-cc-1951.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/fideicomisso-cc-1951/SKILL.md"
 triggers:
   - "fideicomisso"
   - "CC 1.951"
@@ -16,10 +16,15 @@ triggers:
   - "sucessão testamentária"
   - "caducidade fideicomisso"
   - "não concebido herdeiro"
-description: "Fideicomisso (CC 1.951-1.960): substituição testamentária em que o\ntestador institui **fiduciário** (recebe a herança/legado com\nobrigação de transmitir) e **fideicomissário** (beneficiário final\napós termo ou condição). **Pressuposto crítico** (CC 1.952):\nfideicomissário deve ser **não concebido** ao tempo da morte do\ntestador; se já nascido, adquire a propriedade e o fiduciário vira\nusufrutuário (CC 1.952 par.). **Limite**: fideicomisso até o **2º\ngrau** (CC 1.959, nulos os posteriores). Fiduciário inventaria +\npaga ITCMD + presta caução se exigida. Caducidade: morte do\nfideicomissário antes do fiduciário. Aplicação rara, comum em\nestruturação familiar para neto não concebido."
+description: "Usar para pesquisar ou analisar: Fideicomisso (CC 1.951-1.960). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fideicomisso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "LGPD: Lei Geral de Proteção de Dados (Lei 13.709/2018 + EC 115/2022)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/lgpd-protecao-dados.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/lgpd-protecao-dados/SKILL.md"
 triggers:
   - "LGPD"
   - "Lei 13.709/2018"
@@ -18,10 +18,15 @@ triggers:
   - "bases legais de tratamento"
   - "reconhecimento facial"
   - "identificação biométrica"
-description: "Proteção de dados pessoais sob a Lei 13.709/2018 (LGPD) e CF/88\n(art. 5º LXXIX): princípios do tratamento (art. 6º); bases legais\n(art. 7º) e regime dos dados sensíveis (art. 11); direitos do titular\n(art. 18); papéis de controlador, operador e encarregado; transferência\ninternacional, incidentes de segurança e sanções aplicáveis pela ANPD;\nbiometria e reconhecimento facial (art. 11 + Lei 14.597/2023 art. 148)."
+description: "Usar para pesquisar ou analisar: LGPD: Lei Geral de Proteção de Dados (Lei 13.709/2018 + EC 115/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD: Lei Geral de Proteção de Dados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

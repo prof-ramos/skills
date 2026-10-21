@@ -5,8 +5,8 @@ title: "Negativação no SPC/Serasa + Notificação Prévia (Súm. 359 + 385 STJ
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/negativacao-aviso-previo-sumula-359-385.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/negativacao-aviso-previo-sumula-359-385/SKILL.md"
 triggers:
   - "Súmula 359 STJ"
   - "Súmula 385 STJ"
@@ -14,10 +14,15 @@ triggers:
   - "CDC 43 § 2"
   - "inscrição cadastro proteção crédito"
   - "dano moral negativação anterior"
-description: "Súm. 359 STJ: o ÓRGÃO MANTENEDOR do cadastro (SPC/Serasa) tem\no dever de NOTIFICAR PREVIAMENTE o consumidor antes da inscrição\n(CDC 43 §2). Súm. 385: havendo INSCRIÇÃO ANTERIOR LEGÍTIMA,\nafasta-se o dano moral pela nova inscrição irregular, ressalvado\no direito ao cancelamento. Notificação por correspondência ao\nendereço, sem necessidade de AR; meio eletrônico também é válido\ncom envio e entrega comprovados (Tema 1.315 STJ)."
+description: "Usar para pesquisar ou analisar: Negativação no SPC/Serasa + Notificação Prévia (Súm. 359 + 385 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Negativação no SPC/Serasa + Notificação Prévia (Súm. 359 + 385 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula 359 STJ
 

@@ -5,8 +5,8 @@ title: "ICMS na TUST/TUSD: Natureza Infraconstitucional no STF (Tema 956 STF + L
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-energia-tust-tusd-tema-986.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-energia-tust-tusd-tema-986/SKILL.md"
 triggers:
   - "Tema 956 STF"
   - "TUST TUSD ICMS STF"
@@ -16,10 +16,15 @@ triggers:
   - "encargos transmissão energia"
   - "base ICMS energia elétrica"
   - "natureza infraconstitucional TUSD"
-description: "No STF, a controvérsia sobre a inclusão da TUST/TUSD na base do\nICMS-energia (RE 1.041.816, Tema 956) foi reconhecida como\nINFRACONSTITUCIONAL (interpretação da LC 87/1996 anterior à LC\n194/2022); o STF reafirmou esse entendimento em 2025. O mérito\ninfraconstitucional coube ao STJ (Tema 986 STJ: TUST/TUSD\ndestacadas na fatura INTEGRAM a base, pré-LC 194). A exclusão\nprospectiva decorre da LC 194/2022 (não da Lei 14.385/2022,\nque trata de devolução de PIS/COFINS via ANEEL)."
+description: "Usar para pesquisar ou analisar: ICMS na TUST/TUSD: Natureza Infraconstitucional no STF (Tema 956 STF + LC 194/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # TUST/TUSD na Base do ICMS sobre Energia (Plano STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

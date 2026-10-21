@@ -5,8 +5,8 @@ title: "Aposentadoria Especial (Lei 8.213 arts. 57-58 + EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-especial.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-especial/SKILL.md"
 triggers:
   - "aposentadoria especial"
   - "tempo especial"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 709 STF"
   - "Tema 1.090 STJ"
   - "ruído 85 decibéis"
-description: "Aposentadoria especial (Lei 8.213/91 arts. 57-58; Decreto 3.048/99\nAnexo IV; EC 103/2019): exposição habitual e\npermanente a agentes nocivos em 3 níveis (15/20/25 anos); prova\npor PPP e LTCAT; sem idade mínima pós EC 103 (ADI 6.309 STF) e\ntransição por pontos; EPI e ruído (Tema 555 STF); conversão de\ntempo especial em comum."
+description: "Usar para pesquisar ou analisar: Aposentadoria Especial (Lei 8.213 arts. 57-58 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria Especial (Lei 8.213 arts. 57-58)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

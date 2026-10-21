@@ -5,8 +5,8 @@ title: "Continuidade Delitiva em Crimes Sexuais (Tema 1.202 STJ, fração máxim
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/continuidade-delitiva-crimes-sexuais-tema-1202.md"
+version: 2
+sourcePath: "legalbr/materia/penal/continuidade-delitiva-crimes-sexuais-tema-1202/SKILL.md"
 triggers:
   - "Tema 1.202 STJ"
   - "continuidade delitiva estupro de vulnerável"
@@ -16,10 +16,15 @@ triggers:
   - "abuso sexual intrafamiliar continuado"
   - "sete ou mais repetições"
   - "concurso material estupro 213 217-A"
-description: "Tema 1.202 STJ (3ª Seção, 17/10/2023): no estupro de vulnerável cabe a\nfração MÁXIMA de 2/3 do CP 71 mesmo sem delimitação precisa do número de\natos, desde que longo período + recorrência permitam concluir por 7 ou\nmais repetições. Mesmo julgado: sem continuidade entre CP 213 §1 e CP\n217-A (espécies diversas, concurso material)."
+description: "Usar para pesquisar ou analisar: Continuidade Delitiva em Crimes Sexuais (Tema 1.202 STJ, fração máxima do CP 71). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Continuidade Delitiva em Crimes Sexuais (Tema 1.202 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.202 STJ)
 

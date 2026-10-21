@@ -5,8 +5,8 @@ title: "Deserdação (CC 1.961-1.965) + Herdeiros Necessários"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/deserdacao-herdeiro-necessario-cc-1961.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/deserdacao-herdeiro-necessario-cc-1961/SKILL.md"
 triggers:
   - "deserdação"
   - "CC 1.961"
@@ -18,10 +18,15 @@ triggers:
   - "indignidade"
   - "testamento deserdação"
   - "prazo decadência 4 anos"
-description: "Deserdação (**CC 1.961-1.965**): única forma de **excluir herdeiro\nnecessário** (descendente + ascendente + cônjuge, CC 1.845) da\nsucessão. Requisitos: (i) **testamento** com declaração expressa\n+ **causa** especificada (CC 1.964); (ii) causa prevista em lei\n(CC 1.961-1.963 + 1.814 indignidade); (iii) **prova judicial**\nem ação própria (CC 1.965); (iv) **prazo decadencial de 4 anos**\nda abertura do testamento. Causas: ofensa física + injúria\ngrave + desamparo + abandono + crime + outras. Distingue-se de\n**indignidade** (CC 1.814, declaração judicial post-mortem,\nherdeiro qualquer; legitimidade ampla). Procedimento + provas\n+ ação declaratória."
+description: "Usar para pesquisar ou analisar: Deserdação (CC 1.961-1.965) + Herdeiros Necessários. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Deserdação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

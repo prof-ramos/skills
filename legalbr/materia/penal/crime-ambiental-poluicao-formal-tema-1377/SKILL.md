@@ -5,8 +5,8 @@ title: "Crime de Poluição (Lei 9.605 art. 54) + Natureza Formal (Tema 1.377 ST
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crime-ambiental-poluicao-formal-tema-1377.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crime-ambiental-poluicao-formal-tema-1377/SKILL.md"
 triggers:
   - "Tema 1.377 STJ"
   - "crime poluição Lei 9.605 art 54"
@@ -15,10 +15,15 @@ triggers:
   - "crime ambiental formal"
   - "dispensa perícia poluição"
   - "dano ambiental potencial"
-description: "Tema 1.377 STJ (3ª Seção, 08/10/2025): o tipo do art. 54, caput,\nprimeira parte, da Lei 9.605/98 (crime de POLUIÇÃO) é de natureza\nFORMAL. Basta a POTENCIALIDADE de dano à saúde humana, DISPENSA\no efetivo dano e a perícia técnica. Comprovação por qualquer meio\nidôneo (testemunhas, documentos)."
+description: "Usar para pesquisar ou analisar: Crime de Poluição (Lei 9.605 art. 54) + Natureza Formal (Tema 1.377 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crime de Poluição (Lei 9.605 art. 54) + Natureza Formal (Tema 1.377 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.377 STJ, 3ª Seção, 08/10/2025, Min. Joel Ilan Paciornik)
 

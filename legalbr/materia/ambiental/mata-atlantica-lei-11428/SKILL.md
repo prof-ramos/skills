@@ -5,8 +5,8 @@ title: "Mata Atlântica (Lei 11.428/2006): supressão por estágio sucessional, 
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/mata-atlantica-lei-11428.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/mata-atlantica-lei-11428/SKILL.md"
 triggers:
   - "Mata Atlântica"
   - "Lei 11.428"
@@ -18,10 +18,15 @@ triggers:
   - "compensação ambiental mesma bacia hidrográfica"
   - "crime art. 38-A Lei 9.605"
   - "restinga e manguezal APP"
-description: "Bioma Mata Atlântica (Lei 11.428/2006 + Dec. 6.660/2008; CF 225 §4,\npatrimônio nacional): regime de corte e supressão por estágio sucessional\n(primária; secundária avançado, médio, inicial); utilidade pública e\ninteresse social (art. 14); vedações (art. 11); compensação ambiental\nem área equivalente na mesma bacia (art. 17); regras em área urbana\n(arts. 30-31), mineração (art. 32), RL/CRA (art. 35) e crime do art. 38-A\nda Lei 9.605/98."
+description: "Usar para pesquisar ou analisar: Mata Atlântica (Lei 11.428/2006): supressão por estágio sucessional, vedações e compensação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mata Atlântica (Lei 11.428/2006)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

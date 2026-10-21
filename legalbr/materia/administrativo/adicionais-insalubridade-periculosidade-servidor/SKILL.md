@@ -5,8 +5,8 @@ title: "Adicionais de Insalubridade e Periculosidade do Servidor (Lei 8.112 arts
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/adicionais-insalubridade-periculosidade-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/adicionais-insalubridade-periculosidade-servidor/SKILL.md"
 triggers:
   - "adicional de insalubridade servidor"
   - "adicional de periculosidade servidor"
@@ -19,10 +19,15 @@ triggers:
   - "adicional irradiação ionizante"
   - "Tema 448 STF"
   - "insalubridade servidor estadual retroação"
-description: "Regime estatutário dos adicionais ocupacionais (Lei 8.112 arts. 68-72 +\npercentuais da Lei 8.270/91): PUIL 413 STJ fixa o termo inicial na data do\nlaudo pericial, sem retroação (Dec. 97.458/89 art. 6), com distinguishing\npara regimes estaduais/municipais; opção entre adicionais, cessação com a\neliminação do risco, SV 4 e Tema 448 STF (inextensível a inativos)."
+description: "Usar para pesquisar ou analisar: Adicionais de Insalubridade e Periculosidade do Servidor (Lei 8.112 arts. 68-72 + PUIL 413 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicionais de Insalubridade e Periculosidade do Servidor Estatutário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Regime distinto do celetista (CLT arts. 189 e seguintes, vide [[insalubridade-periculosidade-clt-189]]): para o servidor estatutário federal valem a Lei 8.112/90, a Lei 8.270/91 e o Decreto 97.458/89.
 

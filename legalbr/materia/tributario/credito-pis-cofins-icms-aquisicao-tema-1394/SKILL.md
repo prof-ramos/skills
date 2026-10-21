@@ -5,8 +5,8 @@ title: "Crédito de PIS/COFINS sobre ICMS na Aquisição (Tema 1.394 STF + MP 1.
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/credito-pis-cofins-icms-aquisicao-tema-1394.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/credito-pis-cofins-icms-aquisicao-tema-1394/SKILL.md"
 triggers:
   - "Tema 1.394 STF"
   - "MP 1.159/2023"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 10.637 art. 3"
   - "Lei 10.833 art. 3"
   - "não-cumulatividade PIS COFINS"
-description: "Tema 1.394 STF (RE 1.542.700, 07/05/2025): controvérsia\nINFRACONSTITUCIONAL. STF reafirma Tema 756: legislador\nordinário tem competência ampla para regular a não\ncumulatividade do PIS/COFINS (CF 195 §12). MP 1.159/2023\n(a partir de 01/05/2023) + Lei 14.592/2023 (30/06/2023)\nVEDARAM o crédito de PIS/COFINS sobre ICMS na aquisição.\nAnterioridade nonagesimal observada. Tema 1.364 STJ afetado."
+description: "Usar para pesquisar ou analisar: Crédito de PIS/COFINS sobre ICMS na Aquisição (Tema 1.394 STF + MP 1.159 + Lei 14.592). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crédito de PIS/COFINS sobre ICMS na Aquisição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Uso Pessoal de Drogas (Lei 11.343/2006 art. 28 + STF Tema 506)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/uso-pessoal-lei-11343-28.md"
+version: 2
+sourcePath: "legalbr/materia/penal/uso-pessoal-lei-11343-28/SKILL.md"
 triggers:
   - "uso pessoal de drogas"
   - "Lei 11.343 art. 28"
@@ -20,10 +20,15 @@ triggers:
   - "cannabis sativa"
   - "porte de drogas uso pessoal"
   - "posse droga consumo pessoal"
-description: "Uso pessoal sob Lei 11.343/2006 art. 28 + STF Tema 506 (RE\n635.659, Rel. Min. Gilmar Mendes, j. 26/06/2024, acórdão publ.\n27/09/2024): conduta atípica criminalmente quanto à MACONHA até\n40g ou 6 plantas fêmeas (presunção relativa); para outras drogas\nmantém-se art. 28 (advertência + PSC + medida educativa, SEM PPL);\nprocedimento não penal no JECrim, sem antecedentes nem\nreincidência; §2 (natureza + quantidade + local + circunstâncias)\npara distinção uso × tráfico; presunção AFASTÁVEL por\ncircunstâncias concretas."
+description: "Usar para pesquisar ou analisar: Uso Pessoal de Drogas (Lei 11.343/2006 art. 28 + STF Tema 506). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Uso Pessoal de Drogas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 11.343/2006 art. 28
 

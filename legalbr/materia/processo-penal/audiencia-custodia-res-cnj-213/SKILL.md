@@ -5,8 +5,8 @@ title: "Audiência de Custódia (Res. CNJ 213/2015 + CPP 310 + ADPF 347)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/audiencia-custodia-res-cnj-213.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/audiencia-custodia-res-cnj-213/SKILL.md"
 triggers:
   - "audiência de custódia"
   - "Res. CNJ 213/2015"
@@ -21,10 +21,15 @@ triggers:
   - "controle prisão flagrante"
   - "adolescente ECA custódia"
   - "conversão do flagrante em preventiva"
-description: "Audiência de custódia sob Res. CNJ 213/2015 + CPP 310 + ADPF 347\nSTF: 24h após prisão; juiz decide relaxar/converter/conceder\nliberdade; conversão em preventiva exige requerimento (vedada de\nofício, Súm. 676 STJ) e fundamentação (HC 188.888); ADPF 347 +\nADIs 6.298+: universal para toda modalidade de prisão; Lei\n15.272/2025 (CPP 310 §§5-6: circunstâncias da conversão); Lei\n15.358/2026 (Antifacção) tornou a videoconferência a forma de\nregra (CPP 310 + 3-B §1); ilegalidade = relaxamento."
+description: "Usar para pesquisar ou analisar: Audiência de Custódia (Res. CNJ 213/2015 + CPP 310 + ADPF 347). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Custódia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

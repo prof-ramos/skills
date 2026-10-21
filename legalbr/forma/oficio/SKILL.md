@@ -5,8 +5,8 @@ title: "Ofício"
 category: "forma"
 materia: null
 documentType: "oficio"
-version: 1
-sourcePath: "lib/skills/official/forma/oficio.md"
+version: 2
+sourcePath: "legalbr/forma/oficio/SKILL.md"
 triggers:
   - "modelo de ofício"
   - "comunicação oficial entre órgãos"
@@ -19,10 +19,15 @@ triggers:
   - "assunto em negrito"
   - "corpo com parágrafos numerados"
   - "linguagem impessoal formal e concisa"
-description: "Ofício no padrão único do Manual de Redação da Presidência (3ª ed.,\n2018): cabeçalho ou timbre, identificação (nº, sigla, ano), local e\ndata, destinatário, assunto (em negrito), vocativo, corpo numerado\n(a partir do §2º), fecho (\"Respeitosamente\" para superior;\n\"Atenciosamente\" para igual ou inferior), assinatura. Impessoal,\nformal, claro e conciso."
+description: "Usar para redigir ou revisar: Ofício. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ofício
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Padrão único (Manual de Redação da Presidência, 3ª ed., 2018)
 

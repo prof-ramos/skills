@@ -5,8 +5,8 @@ title: "Bom Comportamento para Livramento Condicional"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/livramento-bom-comportamento-tema-1377.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/livramento-bom-comportamento-tema-1377/SKILL.md"
 triggers:
   - "Tema 1.377 STF"
   - "comportamento satisfatório execução"
@@ -17,10 +17,15 @@ triggers:
   - "REsp 1.970.217"
   - "requisito subjetivo livramento"
   - "12 meses bom desempenho"
-description: "Tema 1.377 STF (ARE 1.481.688, 01/03/2025): controvérsia\nINFRACONSTITUCIONAL (ausência de RG). Prevalece Tema 1.161\nSTJ (REsp 1.970.217, 24/05/2023): valoração do requisito\nSUBJETIVO (art. 83 III \"a\" CP) considera TODO o histórico\nprisional, não apenas 12 meses. Limite dos 12 meses\naplica-se EXCLUSIVAMENTE ao bom desempenho NO TRABALHO\n(alínea \"b\"). LEP 131-137 + atestado da direção."
+description: "Usar para pesquisar ou analisar: Bom Comportamento para Livramento Condicional. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Livramento Condicional: Período de Bom Comportamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

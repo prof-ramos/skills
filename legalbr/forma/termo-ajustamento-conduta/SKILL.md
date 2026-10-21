@@ -5,8 +5,8 @@ title: "Termo de Ajustamento de Conduta (TAC)"
 category: "forma"
 materia: null
 documentType: "termo-ajustamento-conduta"
-version: 1
-sourcePath: "lib/skills/official/forma/termo-ajustamento-conduta.md"
+version: 2
+sourcePath: "legalbr/forma/termo-ajustamento-conduta/SKILL.md"
 triggers:
   - "TAC"
   - "termo de ajustamento de conduta"
@@ -16,10 +16,15 @@ triggers:
   - "acordo MP entidade pública"
   - "extrajudicial transação coletiva"
   - "Res. 179 CNMP"
-description: "Termo de Ajustamento de Conduta (Lei 7.347/1985 art. 5 §6 +\nRes. 179/2017 CNMP + Lei 13.140/2015): título executivo extrajudicial;\nlegitimidade exclusiva dos órgãos públicos (MP + ente lesado + Defensoria\n+ Adm Pública); descumprimento gera execução por ACP; conteúdo:\nobrigações de fazer + não fazer + reparação + multa cominatória;\nhomologação judicial opcional + arquivamento do inquérito civil\n(Res. 23 CNMP); diferença com transação penal."
+description: "Usar para redigir ou revisar: Termo de Ajustamento de Conduta (TAC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo de Ajustamento de Conduta (TAC)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

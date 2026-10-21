@@ -5,8 +5,8 @@ title: "PAT (Programa de Alimentação do Trabalhador) + Dedução do IRPJ"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/pat-deducao-irpj-lucro-tributavel-tema-1174.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pat-deducao-irpj-lucro-tributavel-tema-1174/SKILL.md"
 triggers:
   - "PAT dedução IRPJ"
   - "Programa Alimentação Trabalhador dedução"
@@ -15,10 +15,15 @@ triggers:
   - "Decreto 10.854/2021 limitação ilegal"
   - "dedução em dobro alimentação trabalhador"
   - "dedução PAT lucro tributável"
-description: "PAT (Lei 6.321/76): a dedução das despesas com PAT incide\nsobre o LUCRO TRIBUTÁVEL (LUCRO REAL), NÃO sobre o imposto\ndevido, e o Decreto 10.854/2021 (que limitou) é ILEGAL por\nextrapolar o poder regulamentar. Orientação consolidada das\nTurmas de Direito Público do STJ, NÃO julgada em recurso\nrepetitivo, a Controvérsia 606, que buscava afetá-la ao rito\ndos repetitivos, foi CANCELADA em 29/08/2024.\nATENÇÃO: Tema 1.174 STJ trata de tema DIVERSO (base de cálculo\nda contribuição previdenciária patronal)."
+description: "Usar para pesquisar ou analisar: PAT (Programa de Alimentação do Trabalhador) + Dedução do IRPJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PAT (Programa de Alimentação do Trabalhador) + Dedução do IRPJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Atenção, não é matéria de recurso repetitivo
 

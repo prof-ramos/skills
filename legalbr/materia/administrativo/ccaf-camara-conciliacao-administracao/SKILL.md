@@ -5,8 +5,8 @@ title: "Câmaras de Conciliação na Administração Pública (CCAF e similares)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/ccaf-camara-conciliacao-administracao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ccaf-camara-conciliacao-administracao/SKILL.md"
 triggers:
   - "CCAF"
   - "Câmara de Conciliação Arbitragem AGU"
@@ -16,10 +16,15 @@ triggers:
   - "solução consensual entes federativos"
   - "conflitos órgãos públicos"
   - "acordo extrajudicial fazenda"
-description: "Câmaras de conciliação na Administração Pública (CCAF da AGU + similares\nestaduais/municipais): instrumento de solução consensual de conflitos\nentre órgãos públicos (Lei 9.469/1997 art. 4 + Lei 13.140/2015 art. 32);\ncomposição interfederativa e interministerial; termo de acordo como\ntítulo executivo extrajudicial; aplicação a conflitos sobre repasses,\ncompetências, repartição de receitas, contratos administrativos;\nLei 13.988 (transação tributária) como instituto correlato."
+description: "Usar para pesquisar ou analisar: Câmaras de Conciliação na Administração Pública (CCAF e similares). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Câmaras de Conciliação na Administração Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

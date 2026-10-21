@@ -5,8 +5,8 @@ title: "Trabalho Marítimo, Aquaviário, Offshore e em Navios de Cruzeiro"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-maritimo-aquaviario-offshore.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-maritimo-aquaviario-offshore/SKILL.md"
 triggers:
   - "trabalho marítimo"
   - "trabalhador aquaviário"
@@ -18,10 +18,15 @@ triggers:
   - "tripulante de navio de cruzeiro"
   - "lei do pavilhão"
   - "Convenção sobre Trabalho Marítimo 2006"
-description: "Trabalho marítimo, aquaviário e offshore: regime de embarque e jornada\ndo tripulante (CLT 248-252; Súm. 96 TST); Convenção sobre Trabalho\nMarítimo (CTM/MLC 2006, Dec. 10.671/2021); petroleiros em regime de\nrevezamento (Lei 5.811/1972; Súm. 391 TST); e contencioso de\ncruzeiristas contratados no Brasil (Lei 7.064/1982, norma mais favorável,\nx lei do pavilhão do Código de Bustamante)."
+description: "Usar para pesquisar ou analisar: Trabalho Marítimo, Aquaviário, Offshore e em Navios de Cruzeiro. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Marítimo, Aquaviário, Offshore e em Navios de Cruzeiro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Categoria de trabalho a bordo de embarcações e plataformas, com regime próprio de jornada e forte incidência de norma internacional. Cobre quatro subtemas: marítimo/aquaviário celetista, Convenção sobre Trabalho Marítimo, petroleiros/offshore e cruzeiristas.
 

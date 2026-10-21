@@ -5,8 +5,8 @@ title: "Suspensão de Segurança + Suspensão de Liminar (Lei 8.437 + 12.016 + 9
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/suspensao-seguranca-lei-8437.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/suspensao-seguranca-lei-8437/SKILL.md"
 triggers:
   - "suspensão de segurança"
   - "suspensão de liminar"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 626 STF"
   - "suspensão de tutela antecipada"
   - "contracautela"
-description: "Suspensão de segurança/liminar (Lei 8.437/92 + 12.016/09 +\n9.494/97): contracautela ao Presidente do Tribunal por grave\nlesão à ordem/saúde/segurança/economia; agravo interno em 5 dias\n(Lei 8.437 art. 4 §3); vigência da suspensão até o trânsito em\njulgado (Súm. 626 STF); efeito multiplicador (art. 4 §8); ADC 4 +\nSúm. 729 STF; ADI 4.296 (inconstitucionalidade do art. 7 §2 da\nLei 12.016)."
+description: "Usar para pesquisar ou analisar: Suspensão de Segurança + Suspensão de Liminar (Lei 8.437 + 12.016 + 9.494). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão de Segurança + Suspensão de Liminar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo (microssistema unitário)
 

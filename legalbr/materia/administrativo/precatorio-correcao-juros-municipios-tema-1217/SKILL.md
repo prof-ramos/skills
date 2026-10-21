@@ -5,8 +5,8 @@ title: "Municípios: Correção e Juros de Créditos Fiscais no Limite da SELIC 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/precatorio-correcao-juros-municipios-tema-1217.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/precatorio-correcao-juros-municipios-tema-1217/SKILL.md"
 triggers:
   - "Tema 1.217 STF"
   - "municípios juros tributário"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 1.062 STF"
   - "lei municipal juros"
   - "lei municipal correção"
-description: "Tema 1.217 STF (RE 1.346.152, Rel. Min. Cármen Lúcia, acórdão\npublicado 05/03/2026): MUNICÍPIOS NÃO podem adotar índices de\ncorreção monetária e taxas de juros de mora incidentes sobre seus\nCRÉDITOS FISCAIS em percentuais que superem a taxa Selic praticada\npela União (SELIC = teto). A tese trata do Município como CREDOR\ntributário; a atualização dos débitos da Fazenda (condenações e\nprecatórios) segue Tema 905 STJ + Tema 810 STF e, pós-EC 113/21,\na SELIC (Tema 1.419 STF). Reafirma Tema 1.062 STF (Estados/DF)."
+description: "Usar para pesquisar ou analisar: Municípios: Correção e Juros de Créditos Fiscais no Limite da SELIC (Tema 1.217 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Municípios: Limite de Correção e Juros sobre Créditos Fiscais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "empresarial"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/empresarial/criptoativos-vasp-lei-14478.md"
+sourcePath: "legalbr/materia/empresarial/criptoativos-vasp-lei-14478/SKILL.md"
 triggers:
   - "criptoativos"
   - "VASP"
@@ -22,10 +22,15 @@ triggers:
   - "Resolução BCB 580"
   - "Resolução CVM 175"
   - "enquadramento prudencial PSAV"
-description: "Regime de criptoativos e PSAVs sob a Lei 14.478/2022 e Resoluções BCB\n519, 520, 521 e 580: autorização, serviços, câmbio, PLD/FT, proteção ao\ncliente, enquadramento prudencial e competência da CVM sobre valores mobiliários."
+description: "Usar para pesquisar ou analisar: Criptoativos e VASP/PSAV (Lei 14.478). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Criptoativos e VASP (Lei 14.478)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

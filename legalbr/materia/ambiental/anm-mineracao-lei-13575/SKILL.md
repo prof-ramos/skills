@@ -5,8 +5,8 @@ title: "ANM + Mineração (Lei 13.575/2017 + CFEM + Lei 14.066/2020 Barragens)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/anm-mineracao-lei-13575.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/anm-mineracao-lei-13575/SKILL.md"
 triggers:
   - "ANM Agência Nacional Mineração"
   - "Lei 13.575"
@@ -18,10 +18,15 @@ triggers:
   - "lavra extração mineral"
   - "resíduo minerário"
   - "PNSB"
-description: "Mineração + regulação — **Lei 13.575/2017** criou a **Agência\nNacional de Mineração (ANM)**, substituindo o DNPM. Regulamenta\nexploração + lavra + fiscalização do CFEM (Compensação Financeira\npela Exploração de Recursos Minerais). **CFEM** (Lei 13.540/2017\n+ 8.001/1990): 1-3,5% da receita bruta; distribuída: 60% município\nprodutor + 15% município afetado + 15% estado + 10% União.\n**Lei 14.066/2020** (Política Nacional de Segurança de Barragens —\nPNSB pós-Brumadinho): barramento de rejeitos + fiscalização +\nresponsabilidade objetiva. Decreto-Lei 227/67 (Código de Mineração)\n+ reformas. CF 176 — empresa brasileira de capital nacional."
+description: "Usar para pesquisar ou analisar: ANM + Mineração (Lei 13.575/2017 + CFEM + Lei 14.066/2020 Barragens). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mineração — ANM + CFEM
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

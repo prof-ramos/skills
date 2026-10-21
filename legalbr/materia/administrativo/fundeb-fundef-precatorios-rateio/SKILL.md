@@ -5,8 +5,8 @@ title: "FUNDEB e Precatórios do FUNDEF: Complementação da União e Rateio aos
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/fundeb-fundef-precatorios-rateio.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/fundeb-fundef-precatorios-rateio/SKILL.md"
 triggers:
   - "FUNDEF"
   - "FUNDEB Lei 14.113"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 1.326 STJ FUNDEB"
   - "EC 114/2021 FUNDEF"
   - "Lei 14.325/2022"
-description: "Microssistema do FUNDEB permanente (CF 212-A, EC 108/2020 + Lei\n14.113/2020: complementações VAAF/VAAT/VAAR de 23%) e do contencioso\ndos precatórios do FUNDEF: VMAA pela média nacional (Tema 416 STF e\nTema 322 STJ), prescrição mês a mês (Tema 1.326 STJ), rateio mínimo de\n60% aos profissionais do magistério como abono indenizatório (EC\n114/2021, art. 5º + Lei 14.325/2022, art. 47-A) e vedação de honorários\ncontratuais sobre a verba principal (Tema 1256 STF)."
+description: "Usar para pesquisar ou analisar: FUNDEB e Precatórios do FUNDEF: Complementação da União e Rateio aos Professores (Lei 14.113/2020 + EC 114/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FUNDEB e Precatórios do FUNDEF: Complementação da União e Rateio aos Professores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

@@ -5,8 +5,8 @@ title: "Trabalho Temporário (Lei 6.019/1974)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/trabalho-temporario.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-temporario/SKILL.md"
 triggers:
   - "trabalho temporário"
   - "Lei 6.019/1974"
@@ -14,10 +14,15 @@ triggers:
   - "quarentena 90 dias temporário"
   - "acréscimo extraordinário de serviços"
   - "substituição transitória de pessoal"
-description: "Trabalho temporário sob a Lei 6.019/74 (com Leis 13.429/17 e\n13.467/17): hipóteses de necessidade transitória ou acréscimo\nextraordinário; regime jurídico da ETT, da tomadora e do\ntrabalhador; duração, prorrogação e quarentena; direitos\nequiparados e responsabilidade subsidiária; estabilidade\ngestante e diferença para o trabalho intermitente."
+description: "Usar para pesquisar ou analisar: Trabalho Temporário (Lei 6.019/1974). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Temporário (Lei 6.019/1974)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

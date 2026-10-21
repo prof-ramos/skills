@@ -5,8 +5,8 @@ title: "Alegações Finais Penais (Memoriais)"
 category: "forma"
 materia: null
 documentType: "alegacoes-finais-penais"
-version: 1
-sourcePath: "lib/skills/official/forma/alegacoes-finais-penais.md"
+version: 2
+sourcePath: "legalbr/forma/alegacoes-finais-penais/SKILL.md"
 triggers:
   - "alegações finais penais"
   - "memoriais penais"
@@ -15,10 +15,15 @@ triggers:
   - "memoriais escritos por complexidade art. 403 §3º"
   - "tese de absolvição desclassificação ou atenuantes"
   - "princípio da congruência e correlação acusação sentença"
-description: "Alegações finais penais sob o art. 403 do CPP: orais em audiência una\n(20 + 10 min) ou memoriais escritos em caso de complexidade (5 dias\nsucessivos, §3º); estrutura defensiva pela eventualidade com pleitos\nde absolvição pelo inciso específico do art. 386 e teses subsidiárias\n(desclassificação, atenuantes, prescrição, detração, regime e\nsubstituição); acusação com análise crítica da prova e proposta de\ndosimetria; vedação de inovação da imputação após o encerramento da\ninstrução (sem mutatio libelli, art. 384)."
+description: "Usar para redigir ou revisar: Alegações Finais Penais (Memoriais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alegações Finais Penais
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e modalidades
 

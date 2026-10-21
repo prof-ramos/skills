@@ -5,8 +5,8 @@ title: "Comissão de Corretagem + Prescrição Decenal por Atraso na Entrega (Te
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/corretagem-prescricao-decenal-atraso-tema-1099.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/corretagem-prescricao-decenal-atraso-tema-1099/SKILL.md"
 triggers:
   - "Tema 1.099 STJ"
   - "prescrição corretagem decenal"
@@ -14,10 +14,15 @@ triggers:
   - "atraso entrega imóvel resolução"
   - "CC 205 prescrição"
   - "ciência recusa termo inicial"
-description: "Tema 1.099 STJ (2ª Seção, 26/08/2025): a pretensão de restituição\nda comissão de CORRETAGEM por RESOLUÇÃO contratual decorrente de\nATRASO na entrega do imóvel (responsabilidade da construtora/\nincorporadora) prescreve em DEZ ANOS (CC 205). Termo inicial:\nCIÊNCIA da RECUSA da incorporadora em devolver. Distingue-se do\nTema 938 (prescrição trienal, cláusula abusiva)."
+description: "Usar para pesquisar ou analisar: Comissão de Corretagem + Prescrição Decenal por Atraso na Entrega (Tema 1.099 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comissão de Corretagem + Prescrição Decenal por Atraso na Entrega (Tema 1.099 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.099 STJ, 2ª Seção, 26/08/2025)
 

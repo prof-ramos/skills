@@ -5,8 +5,8 @@ title: "Tarifas Bancárias e Serviços de Terceiros (Tema 958 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/tarifas-bancarias-servicos-terceiros-tema-958.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/tarifas-bancarias-servicos-terceiros-tema-958/SKILL.md"
 triggers:
   - "Tema 958 STJ"
   - "REsp 1.578.553"
@@ -22,10 +22,15 @@ triggers:
   - "TEC tarifa emissão carnê"
   - "venda casada bancária"
   - "Súm. 565 STJ"
-description: "Tema 958 STJ: ABUSIVA tarifa de serviços de terceiros sem\nespecificação; ABUSIVO repassar comissão de correspondente após\n25/02/2011 (Res. CMN 3.954); VÁLIDAS tarifa avaliação + registro,\nsalvo serviço não prestado ou onerosidade excessiva. TAC/TEC\nvedadas após 30/04/2008."
+description: "Usar para pesquisar ou analisar: Tarifas Bancárias e Serviços de Terceiros (Tema 958 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifas Bancárias e Serviços de Terceiros (Tema 958 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 958 STJ)
 

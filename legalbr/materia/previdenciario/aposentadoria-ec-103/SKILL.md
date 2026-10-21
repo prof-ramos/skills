@@ -5,8 +5,8 @@ title: "Aposentadoria RGPS pós-EC 103/2019 + Regras de Transição"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-ec-103.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-ec-103/SKILL.md"
 triggers:
   - "EC 103/2019"
   - "reforma da previdência 2019"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1.102 STF"
   - "ADI 6.096"
   - "revisão da vida toda"
-description: "Aposentadoria RGPS pós-EC 103/2019: idade 65/62 + 20/15 anos;\ncinco regras de transição (pontos, idade progressiva, pedágio\n50%/100%, idade mulher); cálculo 60%+2%/ano além de 20/15;\ntempus regit actum (Súm. 359 STF por analogia); Tema 1.102\n(revisão da vida toda inviável); PCD LC 142."
+description: "Usar para pesquisar ou analisar: Aposentadoria RGPS pós-EC 103/2019 + Regras de Transição. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria RGPS pós-EC 103/2019
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## EC 103/2019: marco
 

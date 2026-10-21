@@ -5,8 +5,8 @@ title: "Cumulação Salário + Benefício por Incapacidade Retroativo (Tema 1.01
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/cumulacao-salario-beneficio-incapacidade-tema-1013-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/cumulacao-salario-beneficio-incapacidade-tema-1013-stj/SKILL.md"
 triggers:
   - "Tema 1.013 STJ"
   - "cumulação salário benefício"
@@ -21,10 +21,15 @@ triggers:
   - "DIB DER incapacidade"
   - "art. 59 Lei 8.213"
   - "art. 124 Lei 8.213"
-description: "Tema 1.013 STJ: no período entre o indeferimento administrativo e\na efetiva implantação judicial do auxílio-doença ou aposentadoria\npor invalidez, segurado pode receber CONJUNTAMENTE rendas do\ntrabalho (ainda que incompatíveis com a incapacidade) e o benefício\npago retroativamente. Exceção legítima ao art. 124 Lei 8.213."
+description: "Usar para pesquisar ou analisar: Cumulação Salário + Benefício por Incapacidade Retroativo (Tema 1.013 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumulação Salário + Benefício por Incapacidade (Tema 1.013 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.013 STJ)
 

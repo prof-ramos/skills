@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais Previdenciários (Súm. 111 STJ + Tema 1.105 +
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/honorarios-previdenciarios-sucumbencia.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/honorarios-previdenciarios-sucumbencia/SKILL.md"
 triggers:
   - "honorários previdenciários"
   - "Súm. 111 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "sucumbência previdenciária"
   - "parcelas vencidas até sentença"
   - "condenação previdenciária"
-description: "Honorários sucumbenciais em ação previdenciária (Súm. 111 STJ + Tema\n1.050 STJ + Tema 1.105 STJ + Súm. 345 STJ + Tema 1.076): base = parcelas\nvencidas até a SENTENÇA (Súm. 111, eficaz pós-CPC/2015 por força do Tema\n1.105); pagamento administrativo pós-citação não altera a base (Tema\n1.050); em execução individual de sentença coletiva cabem honorários\nmesmo sem embargos (Súm. 345); JEF: só em recurso; equidade vedada em\nalto valor (Tema 1.076 STJ)."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais Previdenciários (Súm. 111 STJ + Tema 1.105 + Tema 1.050). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais Previdenciários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

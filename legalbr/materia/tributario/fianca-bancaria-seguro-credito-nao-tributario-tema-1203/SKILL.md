@@ -5,8 +5,8 @@ title: "Fiança Bancária / Seguro-Garantia + Crédito NÃO Tributário (Tema 1.
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/fianca-bancaria-seguro-credito-nao-tributario-tema-1203.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/fianca-bancaria-seguro-credito-nao-tributario-tema-1203/SKILL.md"
 triggers:
   - "Tema 1.203 STJ"
   - "seguro garantia crédito não tributário"
@@ -15,10 +15,15 @@ triggers:
   - "acréscimo 30 por cento garantia"
   - "multa administrativa suspensão"
   - "débito não tributário garantia"
-description: "Tema 1.203 STJ (1ª Seção): oferta de fiança bancária ou\nseguro-garantia, no valor ATUALIZADO do débito + 30%, SUSPENDE\na exigibilidade do crédito NÃO TRIBUTÁRIO. Credor não pode\nrejeitar, salvo se demonstrar insuficiência, defeito formal ou\ninidoneidade. Aplicação analógica do LEF 9 §3. Correlato: Tema\n1.385 STJ (em EF tributária, fiança/seguro não recusáveis pela\nordem legal da penhora)."
+description: "Usar para pesquisar ou analisar: Fiança Bancária / Seguro-Garantia + Crédito NÃO Tributário (Tema 1.203 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fiança Bancária / Seguro-Garantia + Crédito NÃO Tributário (Tema 1.203 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.203 STJ, 1ª Seção)
 

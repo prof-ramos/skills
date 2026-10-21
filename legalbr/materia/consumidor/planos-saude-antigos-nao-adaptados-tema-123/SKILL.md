@@ -6,7 +6,7 @@ category: "materia"
 materia: "consumidor"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/planos-saude-antigos-nao-adaptados-tema-123.md"
+sourcePath: "legalbr/materia/consumidor/planos-saude-antigos-nao-adaptados-tema-123/SKILL.md"
 triggers:
   - "plano de saúde antigo não adaptado"
   - "Tema 123 STF"
@@ -18,10 +18,15 @@ triggers:
   - "art. 35-E plano de saúde"
   - "migração de plano antigo"
   - "irretroatividade Lei 9.656"
-description: "Regime intertemporal dos planos de saúde: Tema 123 STF (RE 948.634:\nLei 9.656/98 só incide sobre contratos posteriores ou adaptados;\nato jurídico perfeito) + ADI 1.931 (inconstitucionalidade dos arts.\n10 § 2º e 35-E para contratos antigos); adaptação/migração\nfacultativa do art. 35 (vedada a unilateral, § 4º); CDC como piso\nprotetivo dos contratos antigos (Súm. 608 STJ)."
+description: "Usar para pesquisar ou analisar: Planos de Saúde Antigos Não Adaptados (Tema 123 STF + Lei 9.656 arts. 35 e 35-E). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Planos de Saúde Antigos Não Adaptados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Define o PARÂMETRO NORMATIVO de julgamento: antes de aplicar rol, reajuste ou cobertura da Lei 9.656/1998, verificar a data de celebração e a existência de termo de adaptação. Para negativa de cobertura em geral, ver skill `plano-saude-negativa-cobertura`; para rol ANS e Lei 14.454, ver `planos-saude-rol-ans-lei-14454`; para reajuste etário, ver `plano-saude-reajuste-faixa-etaria-tema-952`.
 

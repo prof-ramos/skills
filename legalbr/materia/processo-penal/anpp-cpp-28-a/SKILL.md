@@ -5,8 +5,8 @@ title: "Acordo de Não Persecução Penal (ANPP, CPP 28-A)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/anpp-cpp-28-a.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/anpp-cpp-28-a/SKILL.md"
 triggers:
   - "ANPP"
   - "CPP 28-A"
@@ -16,10 +16,15 @@ triggers:
   - "vedação do acordo em violência doméstica"
   - "HC 185.913 STF"
   - "Tema 1.098 STJ"
-description: "ANPP sob CPP 28-A (Lei 13.964/2019): requisitos cumulativos\n(confissão formal + sem violência/grave ameaça + pena mín. < 4\nanos + não reincidente nem conduta habitual); vedação em violência doméstica\n(§2 IV); condições (I-V); homologação pelo juiz (legalidade +\nvoluntariedade + adequação); retroatividade enquanto não houver\ntrânsito em julgado (STF HC 185.913 + STJ Tema 1.098)."
+description: "Usar para pesquisar ou analisar: Acordo de Não Persecução Penal (ANPP, CPP 28-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Não Persecução Penal, ANPP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base + natureza
 

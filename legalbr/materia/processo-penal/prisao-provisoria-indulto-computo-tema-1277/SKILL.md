@@ -5,8 +5,8 @@ title: "Cômputo da Prisão Provisória no Indulto e Comutação (Tema 1.277 STJ
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/prisao-provisoria-indulto-computo-tema-1277.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prisao-provisoria-indulto-computo-tema-1277/SKILL.md"
 triggers:
   - "Tema 1.277 STJ"
   - "cômputo prisão provisória indulto"
@@ -14,10 +14,15 @@ triggers:
   - "detração CP 42"
   - "indulto natalino prisão provisória"
   - "in bonam partem CP 42"
-description: "Tema 1.277 STJ (3ª Seção, 06/02/2025): é POSSÍVEL o cômputo do\nperíodo de prisão PROVISÓRIA na análise dos requisitos para\nconcessão de INDULTO e COMUTAÇÃO (CP art. 42). Norma sem\nlimitação expressa, interpretação in bonam partem."
+description: "Usar para pesquisar ou analisar: Cômputo da Prisão Provisória no Indulto e Comutação (Tema 1.277 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cômputo da Prisão Provisória no Indulto e Comutação (Tema 1.277 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.277 STJ, 3ª Seção, 06/02/2025)
 

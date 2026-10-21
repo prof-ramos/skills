@@ -5,8 +5,8 @@ title: "Piso Salarial do Magistério a Temporários e Assistentes (Temas 1.308 e
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/piso-magisterio-temporarios-temas-1308-1378.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/piso-magisterio-temporarios-temas-1308-1378/SKILL.md"
 triggers:
   - "Tema 1.308 STF"
   - "Tema 1.378 STF"
@@ -18,10 +18,15 @@ triggers:
   - "piso PSPN"
   - "magistério educação básica"
   - "Lei 15.437 piso magistério"
-description: "Piso nacional do magistério (Lei 11.738/2008) e alcance dos\ncontratados temporários: a Lei 15.437/2026 incluiu EXPRESSAMENTE\nno art. 2 §2 os profissionais contratados por tempo determinado,\nfixou o piso em R$ 5.130,63 (formação de nível médio) e criou nova\nregra de atualização anual (INPC + parcela da variação real da\nreceita do Fundeb). Tema 1.308 STF (ARE 1.487.739, j. 16/04/2026):\no piso aplica-se a TODOS os profissionais do magistério público da\neducação básica, independentemente da natureza do vínculo; cessão\nde professores efetivos limitada a 5% do quadro. Tema 1.378 STF\n(RE 1.513.277): repercussão geral NEGADA (questão\ninfraconstitucional). Tema 958 STF: 1/3 extraclasse."
+description: "Usar para pesquisar ou analisar: Piso Salarial do Magistério a Temporários e Assistentes (Temas 1.308 e 1.378 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Piso Salarial do Magistério a Temporários e Assistentes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

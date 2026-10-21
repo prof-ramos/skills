@@ -5,8 +5,8 @@ title: "Propaganda Eleitoral (Lei 9.504/97 arts. 36-58)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/propaganda-eleitoral.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/propaganda-eleitoral/SKILL.md"
 triggers:
   - "propaganda eleitoral"
   - "horário eleitoral gratuito"
@@ -16,10 +16,15 @@ triggers:
   - "Res. TSE 23.610"
   - "Res. TSE 23.732"
   - "condutas vedadas agentes públicos"
-description: "Propaganda eleitoral sob a Lei 9.504/97 (arts. 36-58) e a CF 17 e\n5 IV/IX: modalidades partidária, intrapartidária, antecipada e regular;\nlimites de pré-campanha e Horário Eleitoral Gratuito; propaganda na\ninternet, impulsionamento e regras sobre IA e deepfakes; condutas\nvedadas a agentes públicos e captação ilícita de sufrágio."
+description: "Usar para pesquisar ou analisar: Propaganda Eleitoral (Lei 9.504/97 arts. 36-58). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Propaganda Eleitoral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "DIFAL ICMS + Anterioridade (STF Tema 1.093 + LC 190/2022)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/difal-anterioridade-tema-1093-stf.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/difal-anterioridade-tema-1093-stf/SKILL.md"
 triggers:
   - "DIFAL ICMS anterioridade"
   - "LC 190/2022"
@@ -14,10 +14,15 @@ triggers:
   - "STJ Tema 1.369 DIFAL contribuinte"
   - "05/04/2022 marco DIFAL"
   - "diferencial alíquota consumidor não contribuinte"
-description: "STF Tema 1.093 + Tema 1.266 e Lei Complementar 190/2022:\ncobrança do DIFAL aos consumidores NÃO CONTRIBUINTES só a\npartir de 05/04/2022 (anterioridade NONAGESIMAL). Modulação:\npreserva quem ajuizou ação até 29/11/2023. STJ Tema 1.369\n(pendente — DIFAL contra contribuintes do ICMS)."
+description: "Usar para pesquisar ou analisar: DIFAL ICMS + Anterioridade (STF Tema 1.093 + LC 190/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DIFAL ICMS + Anterioridade (STF Tema 1.093 + LC 190/2022)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas
 

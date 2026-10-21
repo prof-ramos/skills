@@ -5,8 +5,8 @@ title: "Recursos, Honorários, Preparo e Reexame Necessário (Súmulas STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recursos-honorarios-preparo-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recursos-honorarios-preparo-stj-sumulas/SKILL.md"
 triggers:
   - "honorários advocatícios"
   - "preparo recursal"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 318 STJ"
   - "Súm. 421 STJ cancelada"
   - "Súm. 490 STJ"
-description: "Súmulas STJ sobre recursos cíveis, honorários, preparo, reexame necessário,\nreconvenção em monitória, depositário, embargos infringentes/divergência,\nprazo em dobro Fazenda Pública, e formas correlatas. Inclui sentença ilíquida,\nabandono da causa e sentença trabalhista."
+description: "Usar para pesquisar ou analisar: Recursos, Honorários, Preparo e Reexame Necessário (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos e Procedimento Cível, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Honorários advocatícios e preparo
 

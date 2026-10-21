@@ -5,8 +5,8 @@ title: "Fraudes de Investimento e Pirâmides Financeiras (CP 171-A + Lei 1.521/5
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/fraude-investimento-piramide-cp-171-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/fraude-investimento-piramide-cp-171-a/SKILL.md"
 triggers:
   - "pirâmide financeira"
   - "CP 171-A"
@@ -20,10 +20,15 @@ triggers:
   - "marketing multinível fraudulento"
   - "CC 170.392 STJ"
   - "usura pecuniária"
-description: "Cluster criminal das pirâmides e fraudes de investimento: CP 171-A\n(fraude com ativos virtuais/valores mobiliários, recl. 4-8, Lei\n14.478/2022), economia popular (Lei 1.521/51 art. 2 IX e art. 4;\nSúm. 498 STF: Justiça Estadual) e fronteira com a Lei 7.492 (arts.\n4, 7, 16 e 26: Justiça Federal); STJ CC 170.392 (pirâmide com\ncriptomoedas = economia popular)."
+description: "Usar para pesquisar ou analisar: Fraudes de Investimento e Pirâmides Financeiras (CP 171-A + Lei 1.521/51). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fraudes de Investimento e Pirâmides Financeiras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Mapa do cluster típico
 

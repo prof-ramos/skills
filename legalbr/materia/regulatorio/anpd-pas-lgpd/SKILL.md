@@ -5,8 +5,8 @@ title: "ANPD: PAS LGPD e Regime Sancionador"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/anpd-pas-lgpd.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/anpd-pas-lgpd/SKILL.md"
 triggers:
   - "ANPD"
   - "PAS LGPD"
@@ -19,10 +19,15 @@ triggers:
   - "encarregado DPO"
   - "data breach"
   - "vazamento dados"
-description: "Processo administrativo sancionador da Autoridade Nacional de Proteção de Dados (ANPD).\nBase: Lei 13.709/18 (LGPD); Lei 14.010/20; Lei 13.853/19 (cria ANPD);\nRes. CD/ANPD 1/2021 (regulamento de fiscalização e PAS); Res. CD/ANPD\n4/2023 (dosimetria e sanções); Res. CD/ANPD 15/2024 (comunicação de\nincidente). Procedimento: fiscalização preventiva, sancionatória,\nmonitoramento. Sanções: advertência, multa simples (até R$ 50 milhões),\nmulta diária, publicização, bloqueio e eliminação. Notificação de\nincidente em 3 dias úteis. Coordenação com Procon, CADE, CVM, BCB."
+description: "Usar para pesquisar ou analisar: ANPD: PAS LGPD e Regime Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANPD: PAS LGPD e Regime Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

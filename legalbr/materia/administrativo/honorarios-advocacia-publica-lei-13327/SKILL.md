@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais da Advocacia Pública (Lei 13.327/2016)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/honorarios-advocacia-publica-lei-13327.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/honorarios-advocacia-publica-lei-13327/SKILL.md"
 triggers:
   - "honorários advocacia pública"
   - "Lei 13.327/2016"
@@ -18,10 +18,15 @@ triggers:
   - "subsídio Ministro STF"
   - "Tema 1.076 STJ"
   - "Tema 1.190 STJ"
-description: "Honorários sucumbenciais da Advocacia Pública (Lei 13.327/2016 e\nlegislações locais): pertencimento aos procuradores (ADI 6.053 STF\ne ADIs estaduais 6.159 e 6.166); limites do teto remuneratório (subsídio\ndo Ministro do STF, CF 37 XI); destinação separada da remuneração-base;\nTema 1.076 STJ (equidade vedada em alto valor); Tema 1.190 STJ (sem\nimpugnação, sem honorários no cumprimento contra a Fazenda, mesmo em\nRPV); Súm. 519 STJ; Tema 18 STF e Súm. Vinc. 47 (natureza alimentar,\nrequisição autônoma)."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais da Advocacia Pública (Lei 13.327/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais da Advocacia Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

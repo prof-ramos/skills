@@ -5,8 +5,8 @@ title: "Registro Público de Empresas Mercantis (Lei 8.934/1994 + DREI)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/registro-publico-empresarial-lei-8934.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/registro-publico-empresarial-lei-8934/SKILL.md"
 triggers:
   - "Lei 8.934"
   - "Junta Comercial"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 14.195"
   - "IN DREI 81"
   - "SERP Lei 14.382"
-description: "Registro Público de Empresas Mercantis: Lei 8.934/1994 + Decreto\n1.800/1996 (regulamento, atualizado pelo Dec. 11.250/2022) + IN\nDREI 81/2020. Estrutura: **DREI** (Departamento Nacional de Registro\nEmpresarial e Integração, MDIC) coordena + Junta Comercial\nestadual executa. Objetivos: dar **garantia + publicidade +\nautenticidade + segurança + eficácia** aos atos. Atos sujeitos:\nmatrícula + arquivamento (contratos sociais + atas + alterações).\n**Prazo decisional**: 5 dias úteis (após sem manifestação, ato\nconsiderado arquivado). **Lei 14.195/2021** + **Lei 14.382/2022**\n(SERP) facilitaram. Cooperação SERP + REDESIM. Aplica também a\nagentes auxiliares (leiloeiros, tradutores)."
+description: "Usar para pesquisar ou analisar: Registro Público de Empresas Mercantis (Lei 8.934/1994 + DREI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Registro Público de Empresas Mercantis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

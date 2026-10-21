@@ -6,7 +6,7 @@ category: "materia"
 materia: "bancario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/bancario/poupanca-planos-economicos.md"
+sourcePath: "legalbr/materia/bancario/poupanca-planos-economicos/SKILL.md"
 triggers:
   - "caderneta de poupança"
   - "expurgos inflacionários"
@@ -22,10 +22,15 @@ triggers:
   - "rendimento da poupança TR Selic"
   - "Resolução CMN 4.819"
   - "Lei 8.177 TR"
-description: "Regime da poupança, fórmula vinculada à Selic e controvérsias dos Planos\nBresser, Verão e Collor, com ADPF 165, Temas 303, 304, 515 e 877 STJ,\nprescrição, acordo coletivo e garantia ordinária do FGC."
+description: "Usar para pesquisar ou analisar: Poupança e Planos Econômicos (expurgos inflacionários). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Poupança + Planos Econômicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

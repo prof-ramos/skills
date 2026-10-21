@@ -5,8 +5,8 @@ title: "Execução Fiscal, Procedimento (Súmulas STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/execucao-fiscal-procedimento-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/execucao-fiscal-procedimento-stj-sumulas/SKILL.md"
 triggers:
   - "execução fiscal LEF"
   - "Súm. 66 STJ"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 558 STJ"
   - "Súm. 653 STJ"
   - "Súm. 673 STJ"
-description: "Execução fiscal (Lei 6.830/80), súmulas do STJ: legitimidade (PFN para o ITR,\nSúm. 139; EF de conselho profissional na Justiça Federal, Súm. 66); CDA e\nsubstituição (Súm. 392); intervenção do MP desnecessária (Súm. 189);\nprescrição intercorrente (Súm. 314) e parcelamento indeferido interrompe\n(Súm. 653); redirecionamento (Súm. 430/435); multa fiscal em concordata\n(Súm. 250), encargo DL 1.025/69 contra massa (Súm. 400); reunião de EFs como\nfaculdade do juiz (Súm. 515); pré-executividade (Súm. 393); leilão com\nintimação pessoal (Súm. 121); notificação de anuidades (Súm. 673)."
+description: "Usar para pesquisar ou analisar: Execução Fiscal, Procedimento (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Fiscal, Procedimento (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

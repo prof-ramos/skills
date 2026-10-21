@@ -5,8 +5,8 @@ title: "Indulto Natalino 2023 + Tráfico de Drogas (Tema 1.336 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/indulto-2023-trafico-multa-tema-1336.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/indulto-2023-trafico-multa-tema-1336/SKILL.md"
 triggers:
   - "Tema 1.336 STJ"
   - "Decreto 11.846/2023 indulto natalino"
@@ -14,10 +14,15 @@ triggers:
   - "pena multa tráfico indulto"
   - "art 33 § 4 tráfico privilegiado"
   - "hediondo equiparado indulto"
-description: "Tema 1.336 STJ (3ª Seção, 2025): o indulto do Decreto 11.846/2023\nNÃO se aplica a condenados por tráfico de drogas (art. 33 caput\ne §1 Lei 11.343/06), e a vedação se estende à PENA DE MULTA,\nSALVO se incidente o redutor especial do art. 33 §4 (tráfico\nprivilegiado, não equiparado a hediondo)."
+description: "Usar para pesquisar ou analisar: Indulto Natalino 2023 + Tráfico de Drogas (Tema 1.336 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indulto Natalino 2023 + Tráfico de Drogas (Tema 1.336 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.336 STJ, 3ª Seção, 2025)
 

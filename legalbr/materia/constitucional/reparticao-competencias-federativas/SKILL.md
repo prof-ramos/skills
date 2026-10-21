@@ -5,8 +5,8 @@ title: "Repartição de Competências Federativas"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/reparticao-competencias-federativas.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/reparticao-competencias-federativas/SKILL.md"
 triggers:
   - "competências federativas"
   - "art. 21 CF"
@@ -18,10 +18,15 @@ triggers:
   - "predominância do interesse"
   - "interesse local"
   - "LC 140/2011"
-description: "Repartição de competências federativas sob a CF (arts. 18-43; núcleo\n21-30): competências materiais (exclusiva da União, comum, residual\nestadual e local municipal) e legislativas (privativa, concorrente com\nnormas gerais e suplementação); princípio da predominância do interesse\ne controle de inconstitucionalidade por usurpação."
+description: "Usar para pesquisar ou analisar: Repartição de Competências Federativas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repartição de Competências Federativas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

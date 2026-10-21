@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "repeticao-indebito"
 version: 2
-sourcePath: "lib/skills/official/forma/repeticao-indebito.md"
+sourcePath: "legalbr/forma/repeticao-indebito/SKILL.md"
 triggers:
   - "repetição de indébito tributário"
   - "restituição de tributo pago indevidamente arts. 165 a 169 CTN"
@@ -15,10 +15,15 @@ triggers:
   - "prova do não repasse do encargo financeiro"
   - "correção pela SELIC sobre o indébito"
   - "repetição de indébito cumulada com declaratória ou anulatória"
-description: "Repetição de indébito tributário sob o CTN (arts. 165-169) e a\nLC 118/2005: ação condenatória para reaver tributo pago\nindevidamente, com opção entre restituição e compensação;\nhipóteses materiais; legitimidade em tributos diretos e indiretos\n(art. 166); prazo prescricional de 5 anos e termo inicial;\natualização pela Selic."
+description: "Usar para redigir ou revisar: Repetição de Indébito Tributário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repetição de Indébito Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

@@ -5,8 +5,8 @@ title: "Impugnação ao Auto de Infração (PAF, 1ª instância)"
 category: "forma"
 materia: null
 documentType: "defesa-paf"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-paf.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-paf/SKILL.md"
 triggers:
   - "impugnação ao auto de infração"
   - "processo administrativo fiscal PAF"
@@ -16,10 +16,15 @@ triggers:
   - "decadência CTN 173 I e prescrição CTN 174"
   - "denúncia espontânea CTN 138"
   - "DRJ Delegacia de Julgamento"
-description: "Impugnação ao AI no PAF (Dec. 70.235/1972 arts. 14 a 17): 30 dias da\nciência; instaura litígio e SUSPENDE EXIGIBILIDADE (art. 151 III CTN).\nTODA prova documental e os quesitos de perícia DEVEM acompanhar a peça\n(art. 16 §§ 1º e 4º, sob pena de preclusão). Preliminares (decadência,\nnulidade) e mérito, com atenção à multa (proporcionalidade e\nretroatividade benigna). Ajuizar ação judicial concomitante implica\nRENÚNCIA (Súm. CARF 1)."
+description: "Usar para redigir ou revisar: Impugnação ao Auto de Infração (PAF, 1ª instância). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação ao Auto de Infração (PAF, 1ª instância)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

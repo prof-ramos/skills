@@ -5,8 +5,8 @@ title: "Autuação Eletrônica e Radares. Validade da Multa de Trânsito (CTB 28
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/autuacao-eletronica-radares-validade.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/autuacao-eletronica-radares-validade/SKILL.md"
 triggers:
   - "multa por radar"
   - "radar de velocidade"
@@ -19,10 +19,15 @@ triggers:
   - "excesso de velocidade CTB 218"
   - "radar portátil requisitos"
   - "competência para multar em rodovia federal"
-description: "Validade da autuação eletrônica de velocidade: CTB 280 §2 (comprovação\npor equipamento regulamentado, sem necessidade de abordagem), Res.\nCONTRAN 798/2020 (tipos fixo/portátil, aprovação e verificação\nmetrológica Inmetro mínima anual, estudo/levantamento técnico, placa\nR-19, requisitos do AIT), CTB 90 e competência do órgão autuador\n(Temas 472 STF e 965 STJ)."
+description: "Usar para pesquisar ou analisar: Autuação Eletrônica e Radares. Validade da Multa de Trânsito (CTB 280 §2 + Res. CONTRAN 798/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Autuação Eletrônica e Radares: Validade da Multa de Trânsito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Anulatórias e recursos administrativos contra multas de velocidade aplicadas por equipamento eletrônico. A notificação em 30 dias (Tema 105 STJ, CTB 281 §1 II), a dupla notificação (Súm. 312 STJ) e o processo de suspensão da CNH estão nas skills processo-administrativo-transito-suspensao-cnh e transito-multas-conselhos-stj-sumulas; esta skill cobre a **validade do auto eletrônico em si**.
 

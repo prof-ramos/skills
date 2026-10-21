@@ -5,8 +5,8 @@ title: "Contrato Estimatório / Venda em Consignação (CC 534-537)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-estimatorio-cc-534.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-estimatorio-cc-534/SKILL.md"
 triggers:
   - "contrato estimatório"
   - "venda em consignação"
@@ -16,10 +16,15 @@ triggers:
   - "não repasse do preço consignação"
   - "consignante e consignatário"
   - "preço de estima"
-description: "Contrato estimatório (CC 534-537): consignante entrega bem móvel ao\nconsignatário, que vende pelo preço de estima ou restitui; risco do\nconsignatário (CC 535), impenhorabilidade (CC 536), indisponibilidade\n(CC 537). Consignação de veículos: responsabilidade da loja, boa-fé do\ncomprador, CDC 18 e 34, REsp 1.934.930 (crédito na RJ), CP 168."
+description: "Usar para pesquisar ou analisar: Contrato Estimatório / Venda em Consignação (CC 534-537). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato Estimatório (Venda em Consignação)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

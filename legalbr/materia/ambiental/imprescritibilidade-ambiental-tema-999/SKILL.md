@@ -5,8 +5,8 @@ title: "Imprescritibilidade Ambiental (Tema 999 STF + RE 654.833)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/imprescritibilidade-ambiental-tema-999.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/imprescritibilidade-ambiental-tema-999/SKILL.md"
 triggers:
   - "Tema 999 STF"
   - "RE 654.833"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.268 STF"
   - "imprescritibilidade ressarcimento doloso"
   - "direito intergeracional"
-description: "Tema 999 STF (RE 654.833, Min. Alexandre de Moraes, 20/04/2020):\n\"É imprescritível a pretensão de reparação civil de dano\nambiental.\" Decisão por maioria. Fundamento na CF 225 e na\nfunção social da propriedade. Não se confunde com Tema 897\n(ressarcimento doloso ao erário, imprescritível) nem com\nimprobidade. Alcança recomposição in natura, indenização\nsubstitutiva e dano moral coletivo. Tema 1.194 STF: imprescritível\ntambém a pretensão executória, sem prescrição intercorrente."
+description: "Usar para pesquisar ou analisar: Imprescritibilidade Ambiental (Tema 999 STF + RE 654.833). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imprescritibilidade Ambiental (Tema 999 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

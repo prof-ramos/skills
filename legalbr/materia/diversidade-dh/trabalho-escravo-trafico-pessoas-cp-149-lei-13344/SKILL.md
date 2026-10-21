@@ -5,8 +5,8 @@ title: "Trabalho Escravo e Tráfico de Pessoas"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/trabalho-escravo-trafico-pessoas-cp-149-lei-13344.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/trabalho-escravo-trafico-pessoas-cp-149-lei-13344/SKILL.md"
 triggers:
   - "trabalho escravo"
   - "trabalho análogo a escravo"
@@ -18,10 +18,15 @@ triggers:
   - "jornada exaustiva condições degradantes"
   - "servidão por dívida"
   - "Brasil Verde Corte IDH"
-description: "Trabalho escravo contemporâneo (CP 149 com Lei 10.803/2003: condições\ndegradantes + jornada exaustiva + servidão por dívida + restrição de\nliberdade) + tráfico de pessoas (CP 149-A pela Lei 13.344/2016 +\nConvenção de Palermo); Lista Suja (hoje Portaria Interministerial\nMTE/MDHC/MIR 18/2024); ADPF 509 (lista constitucional, 2020); Caso\nBrasil Verde Corte IDH (2016); resgate, reparação, indenização\nsocial, expropriação CF 243."
+description: "Usar para pesquisar ou analisar: Trabalho Escravo e Tráfico de Pessoas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Escravo e Tráfico de Pessoas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

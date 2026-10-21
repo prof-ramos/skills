@@ -5,8 +5,8 @@ title: "ICMS na Transferência entre Estabelecimentos (Tema 1.099 STF + ADC 49)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-transferencia-estabelecimentos-tema-1099.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-transferencia-estabelecimentos-tema-1099/SKILL.md"
 triggers:
   - "Tema 1.099"
   - "ARE 1.255.885"
@@ -18,10 +18,15 @@ triggers:
   - "Convênio 178/2023"
   - "transferência de créditos"
   - "matriz filial"
-description: "Tema 1.099 STF (ARE 1.255.885, Min. Toffoli, 14/08/2020) + ADC 49\n(Min. Fachin, 19/04/2023, ED 12/04/2024): não incide ICMS no\ndeslocamento de bens entre estabelecimentos do mesmo titular,\nausente ato de mercancia. Créditos devem ser transferidos ao\ndestino. LC 204/2023 disciplinou; Convênio 178/2023 gerou nova\njudicialização. Eficácia a partir de 2024 (ações até 29/04/2021 ressalvadas)."
+description: "Usar para pesquisar ou analisar: ICMS na Transferência entre Estabelecimentos (Tema 1.099 STF + ADC 49). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS na Transferência entre Estabelecimentos (Tema 1.099 STF + ADC 49)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

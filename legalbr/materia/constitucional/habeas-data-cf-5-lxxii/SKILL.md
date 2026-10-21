@@ -5,8 +5,8 @@ title: "Habeas Data (CF 5 LXXII + Lei 9.507/1997 + LGPD)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/habeas-data-cf-5-lxxii.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/habeas-data-cf-5-lxxii/SKILL.md"
 triggers:
   - "habeas data"
   - "CF 5 LXXII"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 582 STF"
   - "SINCOR"
   - "banco de dados de caráter público"
-description: "Habeas data sob CF 5 LXXII + Lei 9.507/1997 + LGPD: conhecimento\n+ retificação de dados pessoais em bancos governamentais e de\ncaráter público (SPC + SERASA); Súm. 2 STJ (esgotamento\nadministrativo prévio); STF Tema 582 (cabe contra dados fazendários:\nSINCOR/CADIN); LGPD complementa (art. 18); gratuidade (CF 5\nLXXVII); procedimento da Lei 9.507."
+description: "Usar para pesquisar ou analisar: Habeas Data (CF 5 LXXII + Lei 9.507/1997 + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Habeas Data
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

@@ -5,8 +5,8 @@ title: "PIS/COFINS e ICMS na Base do IRPJ/CSLL no Lucro Presumido"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/pis-cofins-icms-base-irpj-csll-presumido-temas-1345-1379.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-icms-base-irpj-csll-presumido-temas-1345-1379/SKILL.md"
 triggers:
   - "Tema 1.345 STF"
   - "Tema 1.379 STF"
@@ -19,10 +19,15 @@ triggers:
   - "ARE 1.493.235"
   - "ARE 1.524.946"
   - "receita bruta Lei 9.249"
-description: "Temas 1.345 STF (26/10/2024) e 1.379 STF (01/03/2025):\ncontrovérsias INFRACONSTITUCIONAIS. ICMS e PIS/COFINS NA\nBASE de IRPJ e CSLL no LUCRO PRESUMIDO. STJ consolidou que\nCOMPÕEM a base: Tema 1.008 (ICMS), Tema 1.240 (ISS) e\nTema 1.312 (PIS/COFINS). Receita bruta legal (Lei 9.249/95 +\nart. 12 DL 1.598/77) inclui tributos incidentes. Não há\nsimetria com o Tema 69 STF (que cuida de PIS/COFINS, base distinta)."
+description: "Usar para pesquisar ou analisar: PIS/COFINS e ICMS na Base do IRPJ/CSLL no Lucro Presumido. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS e ICMS na Base do IRPJ/CSLL Lucro Presumido
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

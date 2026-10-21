@@ -5,8 +5,8 @@ title: "Medidas Assecuratórias (CPP 125-144-A)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/medidas-assecuratorias-cpp-125.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/medidas-assecuratorias-cpp-125/SKILL.md"
 triggers:
   - "CPP 125"
   - "sequestro penal"
@@ -18,10 +18,15 @@ triggers:
   - "confisco alargado"
   - "alienação antecipada"
   - "perdimento bens"
-description: "Medidas assecuratórias CPP 125-144-A: sequestro de bens\nimóveis/móveis produto/proveito do crime (125-133); arresto e\nhipoteca legal sobre bens lícitos para garantir reparação\n(134-144); alienação antecipada (144-A, Lei 12.694); destinação\ndos bens (Lei 9.613 arts. 4 e 7, red. Lei 15.358/2026) + confisco\nalargado CP 91-A; requisitos cumulativos: indícios + finalidade\ncautelar; decisão fundamentada."
+description: "Usar para pesquisar ou analisar: Medidas Assecuratórias (CPP 125-144-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medidas Assecuratórias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Funções
 

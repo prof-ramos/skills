@@ -5,8 +5,8 @@ title: "Transferência do Empregado (CLT 469-470)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/transferencia-empregado-clt-469.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/transferencia-empregado-clt-469/SKILL.md"
 triggers:
   - "transferência de empregado"
   - "CLT 469"
@@ -18,10 +18,15 @@ triggers:
   - "CLT 468"
   - "alteração contratual lesiva"
   - "jus variandi"
-description: "Transferência (CLT 469-470): regra geral é vedada mudança de\ndomicílio sem consentimento; exceções (cargo de confiança, cláusula\nexpressa, extinção do estabelecimento); transferência provisória gera\nadicional de 25% (CLT 469 §3); despesas pelo empregador (CLT 470);\nSúm. 43 TST (presunção de abusividade). Inclui o quadro geral da\nalteração contratual (CLT 468: mútuo consentimento + ausência de\nprejuízo) e os limites do jus variandi."
+description: "Usar para pesquisar ou analisar: Transferência do Empregado (CLT 469-470). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transferência do Empregado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

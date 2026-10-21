@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/depositos-custas-clt-789-899.md"
+sourcePath: "legalbr/materia/trabalho/depositos-custas-clt-789-899/SKILL.md"
 triggers:
   - "custas trabalhistas"
   - "depósito recursal"
@@ -17,10 +17,15 @@ triggers:
   - "valores do depósito recursal"
   - "Súm. 245 TST"
   - "seguro garantia judicial"
-description: "Custas (CLT 789: 2% sobre valor da causa/condenação, mín. R$ 10,64\ne máx. 4× o teto do RGPS) e depósito recursal (CLT 899, tetos por\nato SEGJUD.GP do TST reajustados pelo INPC em 1º/08 de cada ano;\naplica-se o teto vigente na data da interposição); metade para\npessoa física, ME/EPP e doméstico (CLT 899 §9); substituição por\nfiança bancária/seguro garantia (CLT 899 §11); Fazenda com regime\ndo DL 779/69; gratuidade isenta (CLT 899 §10)."
+description: "Usar para pesquisar ou analisar: Custas e Depósito Recursal (CLT 789 a 790-A + 899). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Custas e Depósito Recursal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

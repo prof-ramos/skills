@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/responsabilidade-medica-direito-medico.md"
+sourcePath: "legalbr/materia/saude/responsabilidade-medica-direito-medico/SKILL.md"
 triggers:
   - "responsabilidade médica"
   - "erro médico"
@@ -20,10 +20,15 @@ triggers:
   - "telemedicina"
   - "Lei 15.448 tromboembolismo venoso"
   - "prevenção tromboembolismo internação"
-description: "Responsabilidade médica sob CC, CDC e CEM: culpa do profissional liberal,\nresponsabilidade objetiva hospitalar, obrigações de meio/resultado, TCLE,\nônus da prova, recusa de tratamento, telemedicina e prescrição."
+description: "Usar para pesquisar ou analisar: Responsabilidade Médica + Direito Médico + TCLE (erro médico). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Médica + Direito Médico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

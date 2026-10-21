@@ -5,8 +5,8 @@ title: "Execução Trabalhista (CLT 876 a 892)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/execucao-trabalhista-clt-876.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/execucao-trabalhista-clt-876/SKILL.md"
 triggers:
   - "execução trabalhista"
   - "CLT 876"
@@ -16,10 +16,15 @@ triggers:
   - "penhora online"
   - "execução de ofício"
   - "Súm. 417 TST"
-description: "Execução trabalhista (CLT 876-892): impulso de ofício (CLT 878 +\nReforma: sem impulso quando representado por advogado); títulos\nexecutivos judicial (sentença) e extrajudicial (TAC/CCP); citação +\n48h para pagar (880); penhora online (Sisbajud; Tema 1.325 STJ:\nreiteração automática \"teimosinha\" legítima); responsabilidade\npatrimonial (CPC 789); ordem de preferência da penhora (CPC 835)."
+description: "Usar para pesquisar ou analisar: Execução Trabalhista (CLT 876 a 892). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

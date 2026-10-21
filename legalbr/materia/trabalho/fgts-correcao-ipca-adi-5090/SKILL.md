@@ -5,8 +5,8 @@ title: "FGTS, Correção Monetária IPCA (ADI 5.090 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/fgts-correcao-ipca-adi-5090.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/fgts-correcao-ipca-adi-5090/SKILL.md"
 triggers:
   - "revisão FGTS"
   - "correção FGTS"
@@ -16,10 +16,15 @@ triggers:
   - "rendimento FGTS"
   - "Lei 8.036/90"
   - "distribuição de resultados FGTS"
-description: "ADI 5.090 STF (j. 12/06/2024, pub. 09/10/2024): saldos do FGTS devem\nser corrigidos por TR + 3% + distribuição de resultados, observando-se PISO IPCA. Modulação\nex nunc: aplica-se a partir de 17/06/2024; PERDAS PRETÉRITAS NÃO são\nrecompostas (sem retroativo). Conselho Curador (Lei 8.036 art. 3) é\nresponsável pela compensação. Ações pendentes pré-modulação: extintas."
+description: "Usar para pesquisar ou analisar: FGTS, Correção Monetária IPCA (ADI 5.090 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FGTS: Correção Monetária pelo IPCA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "previdenciario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/previdenciario/complementacao-aposentadoria-ferroviarios-rffsa-tema-473.md"
+sourcePath: "legalbr/materia/previdenciario/complementacao-aposentadoria-ferroviarios-rffsa-tema-473/SKILL.md"
 triggers:
   - "complementação de aposentadoria de ferroviário"
   - "ferroviário da RFFSA"
@@ -19,10 +19,15 @@ triggers:
   - "paridade ferroviário ativo e inativo"
   - "sucessão da RFFSA pela União"
   - "quadro de pessoal especial da VALEC"
-description: "Complementação estatutária de aposentadoria e pensão dos\nferroviários da RFFSA paga pela União (DL 956/69, Lei 8.186/91\ne Lei 10.478/2002): paridade com a remuneração do cargo do\npessoal em atividade; Tema 473 STJ estende à pensão; sucessão\npela União (Lei 11.483/2007), paradigma do art. 118 da Lei\n10.233/2001 e prescrição de trato sucessivo (Súm. 85 STJ)."
+description: "Usar para pesquisar ou analisar: Complementação de Aposentadoria e Pensão dos Ferroviários da RFFSA (Lei 8.186/91 + Tema 473 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Complementação de Aposentadoria e Pensão dos Ferroviários da RFFSA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

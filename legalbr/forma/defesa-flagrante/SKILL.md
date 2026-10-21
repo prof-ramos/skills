@@ -6,17 +6,22 @@ category: "forma"
 materia: null
 documentType: "defesa-flagrante"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-flagrante.md"
+sourcePath: "legalbr/forma/defesa-flagrante/SKILL.md"
 triggers:
   - "liberdade provisória"
   - "Resolução CNJ 213"
   - "defesa em audiência de custódia"
   - "relaxamento da prisão em flagrante"
   - "nulidade do auto de prisão em flagrante"
-description: "Audiência de custódia e defesa em flagrante (CPP 282, 301 a 310; Res.\nCNJ 213/2015; Lei 13.964/2019): audiência em até 24h com as quatro\ndecisões do art. 310 (relaxamento, conversão em preventiva sob\nrequerimento, liberdade provisória com ou sem fiança, cautelar\ndiversa do art. 319); arguição de nulidade do APF, tortura, ingresso\ndomiciliar (RE 603.616, Tema 280 STF) e reconhecimento (HC 598.886\nSTJ); Súm. 676 STJ veda conversão de ofício; juiz das garantias\n(ADIs 6.298 a 6.305)."
+description: "Usar para redigir ou revisar: Defesa em Flagrante e Audiência de Custódia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Flagrante e Audiência de Custódia
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

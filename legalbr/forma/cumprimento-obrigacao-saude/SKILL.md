@@ -5,8 +5,8 @@ title: "Cumprimento de Obrigação de Fazer em Saúde (plano de saúde / SUS / m
 category: "forma"
 materia: null
 documentType: "cumprimento-obrigacao-saude"
-version: 1
-sourcePath: "lib/skills/official/forma/cumprimento-obrigacao-saude.md"
+version: 2
+sourcePath: "legalbr/forma/cumprimento-obrigacao-saude/SKILL.md"
 triggers:
   - "cumprimento obrigação fazer saúde"
   - "astreintes plano de saúde"
@@ -15,10 +15,15 @@ triggers:
   - "cirurgia descumprimento liminar"
   - "bloqueio valores SUS"
   - "sequestro medicamento"
-description: "Cumprimento de obrigação de fazer em saúde (CPC 536-537 + Lei 9.656/98\n+ Lei 8.080/90): astreintes proporcionais e revisáveis (Temas 98 e\n706 STJ); bloqueio + sequestro de valores para aquisição direta\n(Tema 84 STJ; Res. CNJ 238); intimação pessoal (Súm. 410, mantida\npelo Tema 1.296 STJ); solidariedade União/Estado/Município no SUS e\ndirecionamento do cumprimento (Tema 793 STF); competência foro do\nbeneficiário; prazos de cumprimento por tipo de prestação."
+description: "Usar para redigir ou revisar: Cumprimento de Obrigação de Fazer em Saúde (plano de saúde / SUS / medicamento). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Obrigação de Fazer em Saúde
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

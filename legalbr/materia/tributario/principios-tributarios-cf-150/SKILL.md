@@ -5,8 +5,8 @@ title: "Princípios Tributários (CF 150 + EC 132/2023 + LC 214/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/principios-tributarios-cf-150.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/principios-tributarios-cf-150/SKILL.md"
 triggers:
   - "princípios tributários"
   - "limitações constitucionais ao poder de tributar"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 1.383 STF"
   - "EC 132/2023 reforma tributária"
   - "LC 214/2025 IBS CBS"
-description: "Princípios tributários CF 150: LEGALIDADE (exceções II/IE/IPI/\nIOF + ICMS/CIDE combustíveis); IGUALDADE + capacidade contributiva\nCF 145 §1 (RE 562.045 ITCMD progressivo); IRRETROATIVIDADE +\nanterioridade ANUAL \"b\" + NOVENTENA \"c\" (IR só anual; IPTU/IPVA\nbases só noventena); vedação ao CONFISCO (Tema 863 multa máx\n100%/150%); Tema 1.383 (benefício fiscal); EC 132 + LC 214/2025."
+description: "Usar para pesquisar ou analisar: Princípios Tributários (CF 150 + EC 132/2023 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios Tributários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 150 I: LEGALIDADE TRIBUTÁRIA
 

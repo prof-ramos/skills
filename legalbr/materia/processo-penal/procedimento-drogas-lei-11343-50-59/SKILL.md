@@ -5,8 +5,8 @@ title: "Procedimento Penal Lei 11.343 (arts. 50-59)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/procedimento-drogas-lei-11343-50-59.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/procedimento-drogas-lei-11343-50-59/SKILL.md"
 triggers:
   - "procedimento drogas"
   - "Lei 11.343 art. 50"
@@ -17,10 +17,15 @@ triggers:
   - "perícia toxicológica"
   - "prisão tráfico"
   - "rito especial drogas"
-description: "Procedimento especial da Lei 11.343/2006 (arts. 50-59): comunicação\ndo flagrante em 24h (50); LAUDO PROVISÓRIO de constatação (50\n§1) para autorizar prisão; LAUDO DEFINITIVO até audiência (58).\nPrazo IP: 30 dias preso (prorrogáveis) + 90 solto (51). Denúncia\n10 dias (54). DEFESA PRELIMINAR 10 dias (55) ANTES do recebimento.\nRecebimento + AIJ + alegações orais + sentença em audiência\n(56-59). CPP subsidiário (48 §1). Nulidade RELATIVA com prejuízo.\nSV 59 e SV 63 (tráfico privilegiado); Tema 506 STF (cannabis\nconsumo pessoal)."
+description: "Usar para pesquisar ou analisar: Procedimento Penal Lei 11.343 (arts. 50-59). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procedimento Penal da Lei 11.343/2006
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura geral
 

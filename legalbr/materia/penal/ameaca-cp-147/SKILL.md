@@ -5,8 +5,8 @@ title: "Crime de Ameaça (CP 147)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/ameaca-cp-147.md"
+version: 2
+sourcePath: "legalbr/materia/penal/ameaca-cp-147/SKILL.md"
 triggers:
   - "ameaça"
   - "CP 147"
@@ -18,10 +18,15 @@ triggers:
   - "CP 147-A"
   - "stalking"
   - "CP 147-B"
-description: "Ameaça sob CP 147: ameaçar de mal INJUSTO e GRAVE por palavra +\nescrito + gesto + meio simbólico, det. 1-6m + multa; crime\nFORMAL (consuma com conhecimento da vítima); AP pública CONDICIONADA\nà representação (regra geral); contra mulher por razões do sexo\nfeminino: pena em dobro (§1) + AP INCONDICIONADA (§2, Lei\n14.994/2024); decadência 6 meses (12 meses em VDFM, Lei\n15.438/2026); consunção com 157/158/146/147-A/147-B; JECrim cabe\n(IMPO), vedado em violência doméstica."
+description: "Usar para pesquisar ou analisar: Crime de Ameaça (CP 147). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crime de Ameaça (CP 147)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal
 

@@ -5,8 +5,8 @@ title: "Revista Íntima de Visitante em Estabelecimento Prisional (Tema 998 STF)
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/revista-intima-visitante-tema-998.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/revista-intima-visitante-tema-998/SKILL.md"
 triggers:
   - "Tema 998 STF"
   - "revista íntima visitante"
@@ -18,10 +18,15 @@ triggers:
   - "Regras Bangkok"
   - "dignidade pessoa presa"
   - "acesso visita"
-description: "Tema 998 STF (ARE 959.620, 02/04/2025): INADMISSÍVEIS\nrevistas íntimas vexatórias (desnudamento, exames invasivos)\nem visitas sociais. Provas obtidas dessa forma são INVÁLIDAS.\nExcepcionalmente cabível com consentimento + indícios robustos\n+ impossibilidade de body scanner/raio-X + maior de idade.\nVedada em criança/adolescente/PCD intelectual (substitui pela\nrevista REVERSA do visitado). Prazo 24 meses para equipamentos."
+description: "Usar para pesquisar ou analisar: Revista Íntima de Visitante em Estabelecimento Prisional (Tema 998 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revista Íntima de Visitante em Estabelecimento Prisional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

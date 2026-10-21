@@ -5,8 +5,8 @@ title: "Desaposentação (Tema 503 STF + RE 661.256)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/desaposentacao-tema-503.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/desaposentacao-tema-503/SKILL.md"
 triggers:
   - "Tema 503"
   - "RE 661.256"
@@ -16,10 +16,15 @@ triggers:
   - "solidariedade intergeracional"
   - "Tema 563 STJ"
   - "aposentado retorno trabalho"
-description: "Tema 503 STF (RE 661.256/827.833/381.367, red. Min. Dias Toffoli,\n26-27/10/2016; ED 06/02/2020): inexiste no RGPS direito à\ndesaposentação ou reaposentação, pois somente lei pode criar\nbenefício (CF 195 §5). Constitucional o art. 18 §2 Lei 8.213.\nModulação preserva valores recebidos até 06/02/2020 (boa-fé +\ncaráter alimentar)."
+description: "Usar para pesquisar ou analisar: Desaposentação (Tema 503 STF + RE 661.256). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desaposentação (Tema 503 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

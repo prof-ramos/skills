@@ -5,8 +5,8 @@ title: "Furto, Consumação (Amotio) e Repetitivos (Temas 934, 1.144 e 1.205 STJ
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/furto-consumacao-amotio-tema-934.md"
+version: 2
+sourcePath: "legalbr/materia/penal/furto-consumacao-amotio-tema-934/SKILL.md"
 triggers:
   - "Tema 934 STJ"
   - "amotio"
@@ -19,10 +19,15 @@ triggers:
   - "repouso noturno Tema 1.144"
   - "Tema 1.205 STJ"
   - "restituição imediata do bem furtado"
-description: "Consumação do furto pela teoria da amotio (Tema 934 STJ, REsp\n1.524.450/RJ): posse de fato da res, ainda que breve e sob\nperseguição, prescindível posse mansa/pacífica; distinguishing 2026\n(apprehensio x amotio, agente detido dentro do estabelecimento =\ntentativa); Tema 1.144 STJ (4 teses do repouso noturno, local\nirrelevante) com fração alterada pela Lei 15.397/2026 (+1/2); Tema\n1.205 STJ (restituição imediata não basta para insignificância)."
+description: "Usar para pesquisar ou analisar: Furto, Consumação (Amotio) e Repetitivos (Temas 934, 1.144 e 1.205 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Furto: Consumação (Amotio) e Repetitivos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

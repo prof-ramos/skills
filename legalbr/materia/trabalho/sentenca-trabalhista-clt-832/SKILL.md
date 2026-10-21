@@ -5,8 +5,8 @@ title: "Sentença Trabalhista: Estrutura (CLT 832)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/sentenca-trabalhista-clt-832.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sentenca-trabalhista-clt-832/SKILL.md"
 triggers:
   - "sentença trabalhista"
   - "CLT 832"
@@ -17,10 +17,15 @@ triggers:
   - "pedidos líquidos"
   - "Súm. 362 TST"
   - "Lei 13.467/2017"
-description: "Sentença trabalhista sob CLT 832 (Reforma Lei 13.467/2017): pedidos\ncertos, determinados e líquidos (CLT 840 §1); honorários\nsucumbenciais (CLT 791-A, 5-15%); ADI 5.766 (gratuidade não paga);\nprescrição CF 7 XXIX (5+2); contribuições previdenciárias (CLT 876-\n879); FGTS quinquenal (Súm. 362 TST + ARE 709.212)."
+description: "Usar para pesquisar ou analisar: Sentença Trabalhista: Estrutura (CLT 832). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CLT 832: requisitos
 

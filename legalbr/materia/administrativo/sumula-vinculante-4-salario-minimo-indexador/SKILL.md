@@ -5,8 +5,8 @@ title: "Súmula Vinculante 4, Salário Mínimo como Indexador (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-4-salario-minimo-indexador.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-4-salario-minimo-indexador/SKILL.md"
 triggers:
   - "Súmula Vinculante 4"
   - "SV 4"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 256 STF"
   - "Súm. 228 TST suspensa"
   - "vantagem servidor"
-description: "SV 4 STF (30/04/2008): salvo casos previstos na Constituição,\nsalário mínimo não pode ser usado como indexador de base de\ncálculo de vantagem de servidor público ou empregado, nem ser\nsubstituído por decisão judicial; RE 565.714 (caso paradigma);\nadicional de insalubridade não pode ter base salário mínimo,\nmas o STF vedou ao Judiciário fixar nova base, devendo o\nlegislador/negociação coletiva resolver."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 4, Salário Mínimo como Indexador (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 4, Salário Mínimo como Indexador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

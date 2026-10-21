@@ -5,8 +5,8 @@ title: "Contribuição Assistencial Sindical (Tema 935 STF + ARE 1.018.459)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/contribuicao-assistencial-tema-935.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-assistencial-tema-935/SKILL.md"
 triggers:
   - "Tema 935"
   - "ARE 1.018.459"
@@ -17,10 +17,15 @@ triggers:
   - "direito de oposição"
   - "contribuição não filiados"
   - "Lei 13.467/2017"
-description: "Tema 935 STF (ARE 1.018.459, Min. Gilmar Mendes, originalmente\n23/02/2017; reviravolta em ED finalizados em 12/09/2023):\nconstitucional instituir por CCT/ACT contribuição assistencial\ncobrável de todos os empregados da categoria, sindicalizados ou\nnão, desde que assegurado direito de oposição efetivo. Vedada\ncobrança retroativa. Distinta da confederativa (SV 40: só\nfiliados) e da sindical (Lei 13.467: autorização expressa)."
+description: "Usar para pesquisar ou analisar: Contribuição Assistencial Sindical (Tema 935 STF + ARE 1.018.459). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição Assistencial (Tema 935 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

@@ -5,8 +5,8 @@ title: "Recuperação Judicial (Lei 11.101/2005 + Lei 14.112/2020)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/recuperacao-judicial-lrf.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/recuperacao-judicial-lrf/SKILL.md"
 triggers:
   - "recuperação judicial"
   - "Lei 11.101/2005"
@@ -20,10 +20,15 @@ triggers:
   - "Sociedade Anônima do Futebol"
   - "recuperação judicial do produtor rural"
   - "CPR liquidação física"
-description: "Recuperação judicial sob Lei 11.101/2005 + Lei 14.112/2020:\nfinalidade (preservar empresa, emprego, interesse social, art.\n47); requisitos do devedor (art. 48: > 2 anos, sem falência, sem\nRJ nos 5 anos); stay period de 180 + 180 dias (art. 6 §4);\napresentação do plano (60 dias, art. 53); aprovação por classes\n(art. 45) + cram down (58 §1); DIP financing; SAF (Lei 14.193/\n2021); créditos tributários fora; produtor rural (48 §§2-5,\n49 §6, 70-A, Tema 1.145 STJ, CPR física fora)."
+description: "Usar para pesquisar ou analisar: Recuperação Judicial (Lei 11.101/2005 + Lei 14.112/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recuperação Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

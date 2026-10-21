@@ -5,8 +5,8 @@ title: "Bem de Família + Regimes de Bens + Adoção + Tutela e Curatela"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/bem-familia-regimes-bens.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/bem-familia-regimes-bens/SKILL.md"
 triggers:
   - "bem de família"
   - "Lei 8.009/90"
@@ -17,10 +17,15 @@ triggers:
   - "tutela e curatela"
   - "Estatuto da Pessoa com Deficiência"
   - "Tema 1.127 STF"
-description: "Bem de família, regimes de bens, adoção e tutela/curatela (CC\n1.711-1.722, 1.639-1.688, 1.618-1.619 e 1.728-1.783; Lei 8.009/90;\nECA 39-52; Lei 13.146/2015 LBI): impenhorabilidade legal e suas\nexceções (Tema 1.127 STF); regimes e Súm. 377 STF (releitura STJ\nexige prova do esforço comum) + Tema 1.236 STF (afastamento da\nseparação obrigatória >70); adoção e multiparentalidade (Tema 622 STF); curatela proporcional\ne tomada de decisão apoiada."
+description: "Usar para pesquisar ou analisar: Bem de Família + Regimes de Bens + Adoção + Tutela e Curatela. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bem de Família + Regimes + Adoção + Tutela/Curatela
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

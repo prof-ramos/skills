@@ -5,8 +5,8 @@ title: "Audiência Pública e Consulta Pública (Lei 9.784 + Dec. 8.243/2014)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/audiencia-consulta-publica.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/audiencia-consulta-publica/SKILL.md"
 triggers:
   - "audiência pública"
   - "consulta pública"
@@ -18,10 +18,15 @@ triggers:
   - "Dec. 8.243/2014"
   - "PMI manifestação interesse"
   - "Lei 14.133 audiência"
-description: "Audiência e consulta pública (Lei 9.784 arts. 31-32 + diplomas\nespecíficos): participação social no processo administrativo\n(CF 37 §3); audiência (presencial/oral) x consulta (escrita +\nonline); obrigatória em projetos de impacto (Lei 14.133 + 14.026\n+ 10.257 + ANEEL/ANATEL/ANVISA); regulamentada pelo Dec. 8.243/14\n+ Sistema Nacional de Participação Social."
+description: "Usar para pesquisar ou analisar: Audiência Pública e Consulta Pública (Lei 9.784 + Dec. 8.243/2014). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência Pública e Consulta Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

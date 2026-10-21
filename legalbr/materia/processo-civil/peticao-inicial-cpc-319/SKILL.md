@@ -5,8 +5,8 @@ title: "Petição Inicial + Emenda (CPC 319-321 + 330)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/peticao-inicial-cpc-319.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/peticao-inicial-cpc-319/SKILL.md"
 triggers:
   - "requisitos da petição inicial"
   - "CPC 319"
@@ -17,10 +17,15 @@ triggers:
   - "CPC 330"
   - "valor da causa"
   - "indeferimento da inicial"
-description: "Petição inicial CPC 319 (7 incisos: juízo + partes + fatos +\npedido + valor + provas + audiência); CPC 320 documentos\nindispensáveis; CPC 321 EMENDA 15 dias (jurisprudência STJ:\nprazo dilatório; vedado indeferir sem prévia oportunidade de\nemenda quando o vício é sanável); CPC 330 INDEFERIMENTO (4\nhipóteses: inépcia + ilegitimidade + sem interesse + arts.\n106/321); STJ: valor da causa não se altera em retratação."
+description: "Usar para pesquisar ou analisar: Petição Inicial + Emenda (CPC 319-321 + 330). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial + Emenda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 319: REQUISITOS (7 incisos)
 

@@ -5,8 +5,8 @@ title: "Subvenção à Cana no Nordeste (MP 1.374 e Decreto 13.092/2026)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/subvencao-cana-nordeste-mp-1374-decreto-13092.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/subvencao-cana-nordeste-mp-1374-decreto-13092/SKILL.md"
 triggers:
   - "subvenção cana Nordeste"
   - "MP 1.374/2026"
@@ -16,10 +16,15 @@ triggers:
   - "doze reais por tonelada cana"
   - "tarifa americana açúcar subvenção"
   - "dano climático cana Nordeste"
-description: "Subvenção extraordinária a produtores independentes de cana no Nordeste na safra 2025/2026: elegibilidade, R$ 12 por tonelada, documentos, prazo e impedimentos do Decreto 13.092/2026."
+description: "Usar para pesquisar ou analisar: Subvenção à Cana no Nordeste (MP 1.374 e Decreto 13.092/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Subvenção extraordinária à cana no Nordeste
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Âmbito
 

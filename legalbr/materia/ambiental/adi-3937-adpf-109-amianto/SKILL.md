@@ -5,8 +5,8 @@ title: "ADI 3937 + ADPF 109: Banimento do Amianto Crisotila"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/adi-3937-adpf-109-amianto.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/adi-3937-adpf-109-amianto/SKILL.md"
 triggers:
   - "ADI 3937"
   - "ADPF 109"
@@ -16,10 +16,15 @@ triggers:
   - "federalismo ambiental"
   - "vedação a retrocesso ambiental"
   - "SP RJ banimento estadual amianto"
-description: "ADI 3937 (Lei 12.684/2007 SP; rel. Marco Aurélio, red. Dias\nToffoli, 24/08/2017): art. 2 da Lei 9.055/1995 é inconstitucional,\npois o amianto crisotila é cancerígeno (Conv. 162 + 139 OIT).\nADPF 109 (rel. Fachin, 30/11/2017): válida a Lei 13.113/2001 do\nMunicípio de São Paulo. Banimentos estaduais e municipais são\nconstitucionais (CF 24 V + VIII + 30 II)."
+description: "Usar para pesquisar ou analisar: ADI 3937 + ADPF 109: Banimento do Amianto Crisotila. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 3937 + ADPF 109: Amianto
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

@@ -5,8 +5,8 @@ title: "Denúncia Espontânea (CTN 138 + Súm. 360 STJ + Tema 61 + 101 + 385 STJ
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/denuncia-espontanea-ctn-138.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/denuncia-espontanea-ctn-138/SKILL.md"
 triggers:
   - "denúncia espontânea"
   - "CTN 138"
@@ -19,10 +19,15 @@ triggers:
   - "pagamento integral"
   - "declaração e pagamento"
   - "exclusão de responsabilidade"
-description: "Denúncia espontânea CTN 138 (exclui multa quando confissão +\npagamento integral antes de qualquer procedimento fiscal); Súm.\n360 STJ + Tema 61 (NÃO aplicável a tributo sujeito a homologação\ndeclarado e pago em atraso); Tema 101 STJ (parcelamento NÃO\nalcança); Tema 385 STJ (configurada na retificação com pagamento\nda diferença a maior); exclui multa de mora E de ofício; juros mantidos."
+description: "Usar para pesquisar ou analisar: Denúncia Espontânea (CTN 138 + Súm. 360 STJ + Tema 61 + 101 + 385 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denúncia Espontânea
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

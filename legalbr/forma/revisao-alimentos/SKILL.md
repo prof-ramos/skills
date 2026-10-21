@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "revisao-alimentos"
 version: 2
-sourcePath: "lib/skills/official/forma/revisao-alimentos.md"
+sourcePath: "legalbr/forma/revisao-alimentos/SKILL.md"
 triggers:
   - "ação revisional de alimentos"
   - "revisão de pensão alimentícia"
@@ -15,10 +15,15 @@ triggers:
   - "alteração do binômio necessidade possibilidade art. 1.699 CC"
   - "mudança na situação financeira do alimentante"
   - "revisional de alimentos pelo rito da Lei 5.478/68"
-description: "Revisional de alimentos (CC 1.699): exige alteração superveniente no binômio\nnecessidade-possibilidade (perda de emprego, doença, novo filho); sentença\nretroage à citação (Súm. 621 STJ); distinta da exoneratória."
+description: "Usar para redigir ou revisar: Ação Revisional de Alimentos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Revisional de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

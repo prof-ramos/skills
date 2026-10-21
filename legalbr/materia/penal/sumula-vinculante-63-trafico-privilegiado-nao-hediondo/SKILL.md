@@ -5,8 +5,8 @@ title: "Súmula Vinculante 63 - Tráfico Privilegiado Não é Hediondo"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/sumula-vinculante-63-trafico-privilegiado-nao-hediondo.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sumula-vinculante-63-trafico-privilegiado-nao-hediondo/SKILL.md"
 triggers:
   - "SV 63"
   - "Súmula Vinculante 63"
@@ -17,10 +17,15 @@ triggers:
   - "HC 118.533"
   - "Tema 1.400"
   - "hediondez afastada"
-description: "SV 63 STF (2025, PSV 125): \"O tráfico privilegiado (art. 33, §4,\nda Lei 11.343/2006) não configura crime hediondo, afastando-se a\naplicação dos parâmetros mais rigorosos de progressão de regime\ne de livramento condicional.\""
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 63 - Tráfico Privilegiado Não é Hediondo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 63 - Tráfico Privilegiado Não é Hediondo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Debêntures e Notas Comerciais (LSA 52-74 + Lei 14.195)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/debentures-notas-comerciais-lsa-52.md"
+version: 2
+sourcePath: "legalbr/materia/societario/debentures-notas-comerciais-lsa-52/SKILL.md"
 triggers:
   - "debêntures"
   - "nota comercial"
@@ -21,10 +21,15 @@ triggers:
   - "Resolução CVM 160"
   - "vencimento antecipado da emissão"
   - "cédula de debêntures"
-description: "Emissão e litígio de debêntures (LSA 52-74) e notas comerciais (Lei\n14.195/2021 arts. 45-51): espécies e garantias (LSA 58), competência e\nrequisitos de emissão (59-62), agente fiduciário (66-70 + RCVM 17/2021),\nassembleia de debenturistas (71), oferta pública (RCVM 160/2022),\ndebêntures incentivadas (Lei 12.431 art. 2º) e de infraestrutura (Lei\n14.801/2024), execução (CPC 784 I) e tratamento na recuperação judicial\ne falência (Lei 11.101 arts. 49 §3º, 83)."
+description: "Usar para pesquisar ou analisar: Debêntures e Notas Comerciais (LSA 52-74 + Lei 14.195). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Debêntures e Notas Comerciais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "BPC — Benefício de Prestação Continuada (LOAS art. 20)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/bpc-loas-art-20.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/bpc-loas-art-20/SKILL.md"
 triggers:
   - "BPC"
   - "LOAS"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 27 STF"
   - "Tema 640 STF"
   - "miserabilidade"
-description: "BPC (LOAS Lei 8.742/93 art. 20 + CF 203 V): R$ 1 salário mínimo\nmensal a IDOSO ≥ 65 anos OU PCD que comprove impossibilidade de\nvida independente e trabalho; renda familiar per capita ≤ 1/4 SM\n(STF Tema 27 + 640: critério miserabilidade pode ser flexibilizado\ncom prova); avaliação biopsicossocial PCD; revisão periódica 2 anos;\nCADÚnico; intersecção com Bolsa Família (Lei 14.601); CRAS; defesa\ncontra cessação indevida pelo INSS."
+description: "Usar para pesquisar ou analisar: BPC — Benefício de Prestação Continuada (LOAS art. 20). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # BPC — Benefício de Prestação Continuada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

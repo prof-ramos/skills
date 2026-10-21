@@ -5,8 +5,8 @@ title: "Monitoramento Eletrônico (LEP arts. 146-B a 146-D)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/monitoramento-eletronico-lep.md"
+version: 2
+sourcePath: "legalbr/materia/penal/monitoramento-eletronico-lep/SKILL.md"
 triggers:
   - "monitoramento eletrônico"
   - "tornozeleira"
@@ -16,10 +16,15 @@ triggers:
   - "art. 319 CPP"
   - "prisão domiciliar com monitoração"
   - "Res. CNJ 412"
-description: "Monitoração eletrônica (LEP arts. 146-B a 146-D + Lei 12.258/2010 +\nRes. CNJ 412/2021): cabível em saída temporária, prisão domiciliar,\ncumprimento em regime aberto/semiaberto, e medida cautelar diversa\n(CPP 319 IX); requisitos: aceitação + consentimento + viabilidade\ntécnica + proporcionalidade; descumprimento gera regressão; vedação\nda estigmatização (Resolução CNJ); ônus do Estado fornecer e manter."
+description: "Usar para pesquisar ou analisar: Monitoramento Eletrônico (LEP arts. 146-B a 146-D). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Monitoramento Eletrônico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

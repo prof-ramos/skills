@@ -5,8 +5,8 @@ title: "Não-cumulatividade (CF 155 §2 + CF 153 §3 + Tema 756 STF + Tema 1.182
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/nao-cumulatividade-tema-756.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/nao-cumulatividade-tema-756/SKILL.md"
 triggers:
   - "não-cumulatividade"
   - "CF 155 §2"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 509 STJ"
   - "REsp 1.221.170"
   - "Súm. 411 STJ"
-description: "Não-cumulatividade: ICMS CF 155 §2 I (plena, débito/crédito;\nentrada isenta não gera crédito, CF 155 §2 II \"a\"); IPI CF 153\n§3 II (plena); PIS/COFINS CF 195 §12 (mitigada, Leis 10.637/2002\ne 10.833/2003); LC 87/96 Kandir; LC 24/1975 CONFAZ unânime\n(guerra fiscal); Súm. 509 STJ (boa-fé do adquirente em nota\ndeclarada inidônea); Súm. 411 STJ (correção do crédito de IPI\nante resistência ilegítima); Tema 756 STF (autonomia do\nlegislador em PIS/COFINS; insumo infraconstitucional, REsp\n1.221.170: essencialidade); EREsp 1.517.492 (crédito presumido\nfora do IRPJ/CSLL) + Tema 1.182 STJ + Lei 14.789/2023."
+description: "Usar para pesquisar ou analisar: Não-cumulatividade (CF 155 §2 + CF 153 §3 + Tema 756 STF + Tema 1.182 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Não-cumulatividade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

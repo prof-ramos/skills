@@ -5,8 +5,8 @@ title: "Remessa Necessária em Demanda Previdenciária (Tema 1.081 STJ + Súm. 4
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/remessa-necessaria-previdenciaria-tema-1081-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/remessa-necessaria-previdenciaria-tema-1081-stj/SKILL.md"
 triggers:
   - "remessa necessária previdenciária"
   - "Tema 1.081 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "REsp 1.882.236"
   - "mil salários mínimos condenação INSS"
   - "remessa necessária sentença de procedência benefício"
-description: "Remessa necessária em ação previdenciária após o Tema 1.081 STJ (REsp\n1.882.236, Corte Especial): dispensa quando a condenação for aferível por\nsimples cálculos aritméticos com base nos parâmetros da sentença e for\npossível estimar que não excede 1.000 salários mínimos (CPC 496 §3 I);\niliquidez aparente vs real; Tema 17 e Súm. 490 STJ seguem aplicáveis à\nsentença sem parâmetros mínimos; CPC 496 §4 (precedente qualificado); JEF\nsem reexame (Lei 10.259 art. 13)."
+description: "Usar para pesquisar ou analisar: Remessa Necessária em Demanda Previdenciária (Tema 1.081 STJ + Súm. 490). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remessa Necessária em Demanda Previdenciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Regime específico do capítulo de remessa necessária nas sentenças de procedência contra o INSS. Para o regime geral do instituto (natureza, procedimento, hipóteses do CPC 496), vide [[remessa-necessaria-cpc-496]].
 

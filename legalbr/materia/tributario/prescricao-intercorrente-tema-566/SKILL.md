@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente Fiscal (LEF 40 + Tema 566 STJ + Súm. 314)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/prescricao-intercorrente-tema-566.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-intercorrente-tema-566/SKILL.md"
 triggers:
   - "prescrição intercorrente"
   - "LEF 40"
@@ -16,10 +16,15 @@ triggers:
   - "arquivamento execução fiscal"
   - "não localização devedor"
   - "bens penhoráveis"
-description: "Prescrição intercorrente fiscal LEF 40 + Tema 566 STJ (REsp\n1.340.553): suspensão automática de 1 ano por não localização do\ndevedor/bens (independe de despacho); arquivamento e prazo\nprescricional de 5 anos a partir do término da suspensão (Tema\n567: início automático); despacho é mero ato declaratório; Súm.\n314 STJ confirma; interrupção só por efetiva constrição ou\nefetiva citação (Tema 568), com retroação à data do protocolo da\npetição frutífera; pedidos meramente protelatórios não bastam."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente Fiscal (LEF 40 + Tema 566 STJ + Súm. 314). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

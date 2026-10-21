@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/aposentadoria-servidor-ec-103.md"
+sourcePath: "legalbr/materia/administrativo/aposentadoria-servidor-ec-103/SKILL.md"
 triggers:
   - "aposentadoria servidor"
   - "EC 103 regras de transição servidor"
@@ -23,10 +23,15 @@ triggers:
   - "pedágio 100% servidor"
   - "Tema 763 STF"
   - "Tema 571 STF"
-description: "Aposentadoria do servidor (CF 40 + EC 103/2019 + Lei 9.717/98 +\nLei 10.887/04): idade 65H/62M; tempo contribuição 25 anos; pedágio\n100%/50%; integralidade/paridade só pelas regras de transição;\ncompulsória 75 (LC 152; não alcança comissionados, serventias não\nestatizadas e notários: Temas 763/571 STF + ADI 2.602); incapacidade\npermanente; SV 33 e Tema 942 STF; regras de cálculo pela média 100%."
+description: "Usar para pesquisar ou analisar: Aposentadoria do Servidor (EC 103/2019 + CF 40 + Lei 9.717). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria do Servidor (EC 103/2019)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Prisão em Flagrante (CPP 301-310 + audiência custódia + Lei 13.964)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/prisao-flagrante-cpp-301.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prisao-flagrante-cpp-301/SKILL.md"
 triggers:
   - "prisão em flagrante"
   - "CPP 301"
@@ -22,10 +22,15 @@ triggers:
   - "flagrante impróprio"
   - "flagrante presumido"
   - "nota de culpa"
-description: "Prisão em flagrante CPP 301-310: CPP 302 4 hipóteses (próprio +\nimpróprio \"quase\" + presumido \"ficto\") + CPP 303 permanente; CPP\n304 APF lavrado 24h; CPP 306 comunicação imediata (família +\njuiz 24h + MP + Defensoria); CPP 310 AUDIÊNCIA DE CUSTÓDIA 24h\npor videoconferência (Lei 15.358/2026), com circunstâncias da\nconversão do §5 (Lei 15.272/2025); ADPF 347 + Res. CNJ 213; HC\n598.051 (entrada em domicílio)."
+description: "Usar para pesquisar ou analisar: Prisão em Flagrante (CPP 301-310 + audiência custódia + Lei 13.964). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão em Flagrante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 301: quem pode/deve prender
 

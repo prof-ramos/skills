@@ -5,8 +5,8 @@ title: "Aposentadoria, Tempo de Serviço e Previdência Privada, Súmulas STJ"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-tempo-servico-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-tempo-servico-stj-sumulas/SKILL.md"
 triggers:
   - "aposentadoria por invalidez"
   - "tempo de serviço rural"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 557 STJ"
   - "Súm. 576 STJ"
   - "Súm. 577 STJ"
-description: "Aposentadoria/auxílios e tempo de serviço no STJ: ação declaratória de tempo\nde serviço (242); cálculo do salário-benefício; prescrição quinquenal de\nparcelas (291, 427); previdência privada, restituição contribuição (290);\nciência inequívoca (44); cálculo SAT do auxílio-doença (456); RMI invalidez\npós auxílio-doença (557); termo inicial aposentadoria por invalidez (576);\ntempo de serviço rural, prova testemunhal (577); REFER, Justiça Estadual (505)."
+description: "Usar para pesquisar ou analisar: Aposentadoria, Tempo de Serviço e Previdência Privada, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria, Tempo de Serviço e Previdência Privada, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

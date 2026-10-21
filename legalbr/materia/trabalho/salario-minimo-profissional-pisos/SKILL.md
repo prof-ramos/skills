@@ -5,8 +5,8 @@ title: "Salário Mínimo Profissional e Pisos (Leis 4.950-A e 3.999)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/salario-minimo-profissional-pisos.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/salario-minimo-profissional-pisos/SKILL.md"
 triggers:
   - "salário mínimo profissional"
   - "piso salarial de engenheiro"
@@ -19,10 +19,15 @@ triggers:
   - "6 salários mínimos engenheiro"
   - "piso salarial estadual LC 103"
   - "vinculação do piso ao salário mínimo"
-description: "Salário mínimo profissional: Lei 4.950-A/66 (engenheiros, químicos, arquitetos,\nagrônomos, veterinários: 6 SM para 6h) e Lei 3.999/61 (médicos e dentistas: 3 SM);\nSúm. 370 TST (sem jornada reduzida); SV 4 e congelamento da base pelas ADPFs\n53/149/171 e 325; piso estadual da LC 103/2000."
+description: "Usar para pesquisar ou analisar: Salário Mínimo Profissional e Pisos (Leis 4.950-A e 3.999). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário Mínimo Profissional e Pisos Salariais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Foro por Prerrogativa de Função (CF 102 + 105 + STF AP 937)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/foro-prerrogativa-cf-102.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/foro-prerrogativa-cf-102/SKILL.md"
 triggers:
   - "foro por prerrogativa"
   - "foro privilegiado"
@@ -19,10 +19,15 @@ triggers:
   - "Pet 8.090"
   - "INQ 4.483"
   - "cargos vitalícios"
-description: "Foro por prerrogativa sob CF 102 I \"b\"/105 I \"a\" + Lei 8.038/1990\n+ STF AP 937 QO: restringido a crimes praticados DURANTE o cargo\nE EM RAZÃO da função (cumulativo); modulação — instrução findada\nperpetua competência; cargos VITALÍCIOS mantêm foro amplo (STJ\n2026); Súm. 394 STF cancelada (1999); Lei 8.038 (notificação +\nresposta + recebimento + instrução)."
+description: "Usar para pesquisar ou analisar: Foro por Prerrogativa de Função (CF 102 + 105 + STF AP 937). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Foro por Prerrogativa de Função
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

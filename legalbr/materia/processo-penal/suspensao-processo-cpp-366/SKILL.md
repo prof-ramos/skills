@@ -5,8 +5,8 @@ title: "Suspensão do Processo e da Prescrição (CPP 366) + Outras Suspensões"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/suspensao-processo-cpp-366.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/suspensao-processo-cpp-366/SKILL.md"
 triggers:
   - "CPP 366"
   - "suspensão processo"
@@ -18,10 +18,15 @@ triggers:
   - "réu ausente"
   - "revelia x edital"
   - "sursis processual"
-description: "Suspensão do processo CPP 366: ausência de réu citado por edital\n→ suspensão do processo + suspensão da prescrição (Súm. 415 STJ\nlimita à prescrição pela pena máxima abstrata); produção\nantecipada de provas urgentes (Súm. 455 STJ); preventiva cabível\nna suspensão (preencher CPP 312); CPP 367 revelia (sem\nsuspensão); outras suspensões: incidente de insanidade, sursis\nprocessual (Tema 920 STJ), questão prejudicial (CPP 92-94)."
+description: "Usar para pesquisar ou analisar: Suspensão do Processo e da Prescrição (CPP 366) + Outras Suspensões. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão do Processo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 366: réu citado por edital
 

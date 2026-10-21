@@ -5,8 +5,8 @@ title: "Acesso à Justiça e Assistência Jurídica Integral (CF 5º LXXIV)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/acesso-justica-gratuidade-cf5-lxxiv.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/acesso-justica-gratuidade-cf5-lxxiv/SKILL.md"
 triggers:
   - "acesso à justiça"
   - "assistência jurídica integral"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.424 STJ"
   - "gratuidade pessoa jurídica"
   - "100 Regras de Brasília"
-description: "Acesso à Justiça + Assistência Jurídica Integral (CF 5º LXXIV +\nart. 134 EC 80/2014); gratuidade da justiça (CPC 98-102; Lei 1.060/50\nsubsistente em parte); presunção de hipossuficiência para pessoa\nnatural; pessoa jurídica: Súm. 481 STJ + Tema 1.424 STJ (exige\ndemonstração da situação financeira e patrimonial; inatividade ou\nqueda de faturamento não bastam); LC 80/94 (Lei Orgânica DP):\natribuições, prerrogativas (intimação pessoal, prazo em dobro);\nhonorários à DP contra qualquer ente público, inclusive o que\nintegra, destinados ao aparelhamento (Tema 1.002 STF, RE 1.140.005;\nSúm. 421 STJ cancelada em 2024); 100 Regras de Brasília (referência)."
+description: "Usar para pesquisar ou analisar: Acesso à Justiça e Assistência Jurídica Integral (CF 5º LXXIV). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acesso à Justiça e Assistência Jurídica Integral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

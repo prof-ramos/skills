@@ -5,8 +5,8 @@ title: "Atos Administrativos (Lei 9.784/1999 + LINDB + Súmulas 346/473)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/atos-administrativos-lei-9784.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/atos-administrativos-lei-9784/SKILL.md"
 triggers:
   - "ato administrativo"
   - "Lei 9.784/1999"
@@ -19,10 +19,15 @@ triggers:
   - "autoexecutoriedade"
   - "teoria dos motivos determinantes"
   - "Tema 138 STF contraditório"
-description: "Atos administrativos (Lei 9.784/99 + LINDB): 5 elementos + 4\natributos; anulação ex tunc × revogação ex nunc × cassação ×\ncaducidade; art. 54 decadência 5 anos (salvo má-fé); LINDB 20-30;\nSúm. 346/473 STF; Tema 138 STF (contraditório prévio); controle judicial dos discricionários."
+description: "Usar para pesquisar ou analisar: Atos Administrativos (Lei 9.784/1999 + LINDB + Súmulas 346/473). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atos Administrativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

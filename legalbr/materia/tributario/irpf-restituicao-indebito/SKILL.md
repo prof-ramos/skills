@@ -5,8 +5,8 @@ title: "IRPF + Restituição + Repetição de Indébito (Lei 7.713/88 + CTN 165-
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/irpf-restituicao-indebito.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf-restituicao-indebito/SKILL.md"
 triggers:
   - "IRPF"
   - "imposto de renda"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 368 STF rendimentos acumulados"
   - "PER/DCOMP"
   - "SELIC no indébito tributário"
-description: "IRPF + restituição/indébito sob CF 153 III + CTN 43-45 e 165-169\n+ Lei 7.713/88 + Lei 9.250/95 + Lei 15.270/2025 (vigor 01/01/2026:\nIRPFM + isenção até 5k + retenção 10% dividendos); deduções\n(saúde/educação/dependentes/PGBL); STF Tema 808 (juros mora) +\n368 (RRA); prescrição 5 anos do pagamento (RE 566.621); compensação\ncom trânsito (CTN 170-A; 5 anos do trânsito para pleitear, REsp 1.480.602 STJ)."
+description: "Usar para pesquisar ou analisar: IRPF + Restituição + Repetição de Indébito (Lei 7.713/88 + CTN 165-169). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF + Restituição + Repetição de Indébito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 
@@ -171,3 +176,7 @@ Tributação mínima de altas rendas:
 - Aplicar IRPJ/CSLL sobre **SELIC** em repetição (Tema 962);
 - Admitir compensação sem **trânsito** em julgado de crédito em contestação judicial (CTN 170-A);
 - Aplicar prazo decadencial 5+5 a pagamentos **pós-09/06/2005** (RE 566.621).
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

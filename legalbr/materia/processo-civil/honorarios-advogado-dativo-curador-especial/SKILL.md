@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-advogado-dativo-curador-especial.md"
+sourcePath: "legalbr/materia/processo-civil/honorarios-advogado-dativo-curador-especial/SKILL.md"
 triggers:
   - "advogado dativo"
   - "defensor dativo"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 984 STJ"
   - "Tema 182 STJ"
   - "EOAB 22 dativo"
-description: "Regime dos honorários do advogado dativo (EOAB 22 §1º: fixados pelo juiz e\npagos pelo Estado) e da curadoria especial (CPC 72): Tema 984 STJ (tabela OAB\nreferencial, não vinculante), Tema 305 STF (cobrança na Justiça comum\nestadual), Tema 182 STJ (curador dispensado de garantia), SV 47 e execução\ncontra a Fazenda via RPV/precatório."
+description: "Usar para pesquisar ou analisar: Honorários do Advogado Dativo e do Curador Especial (EOAB 22 §1º + Temas 305 STF, 984 e 182 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários do Advogado Dativo e do Curador Especial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

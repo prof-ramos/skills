@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "embargos-terceiro"
 version: 2
-sourcePath: "lib/skills/official/forma/embargos-terceiro.md"
+sourcePath: "legalbr/forma/embargos-terceiro/SKILL.md"
 triggers:
   - "embargos de terceiro"
   - "arts. 674 a 681 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "constrição judicial sobre bem de terceiro"
   - "desfazimento de penhora arresto ou sequestro"
   - "embargos de terceiro contra apreensão judicial da posse"
-description: "Embargos de terceiro (CPC 674-681): ação autônoma de quem, não sendo\nparte ou sendo parte em qualidade diversa, sofre constrição sobre\nposse ou propriedade; legitimados do §2º (cônjuge, adquirente,\ncredor com garantia real); prazo do art. 675; liminar do art. 678\npara suspender a constrição sobre o bem embargado; contestação em\n15 dias pelo art. 679."
+description: "Usar para redigir ou revisar: Embargos de Terceiro. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Terceiro
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

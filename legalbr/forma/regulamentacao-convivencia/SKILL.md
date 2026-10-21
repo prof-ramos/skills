@@ -5,8 +5,8 @@ title: "Ação de Regulamentação de Convivência"
 category: "forma"
 materia: null
 documentType: "regulamentacao-convivencia"
-version: 1
-sourcePath: "lib/skills/official/forma/regulamentacao-convivencia.md"
+version: 2
+sourcePath: "legalbr/forma/regulamentacao-convivencia/SKILL.md"
 triggers:
   - "regulamentação de visitas"
   - "regulamentação de convivência"
@@ -14,10 +14,15 @@ triggers:
   - "alienação parental"
   - "art. 1.589 CC"
   - "lei 12.318"
-description: "Regulamentação de convivência (CC 1.583-1.589; Lei 13.058/14): plano parental\ndetalhado; guarda compartilhada como regra; alienação parental (Lei 12.318/10);\nescuta da criança e equipe interdisciplinar obrigatórias."
+description: "Usar para redigir ou revisar: Ação de Regulamentação de Convivência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Regulamentação de Convivência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

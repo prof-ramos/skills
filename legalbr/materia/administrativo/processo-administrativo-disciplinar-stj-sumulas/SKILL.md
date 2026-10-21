@@ -5,8 +5,8 @@ title: "Processo Administrativo Disciplinar, Súmulas STJ"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/processo-administrativo-disciplinar-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/processo-administrativo-disciplinar-stj-sumulas/SKILL.md"
 triggers:
   - "súmulas PAD STJ"
   - "processo administrativo disciplinar"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 665 STJ"
   - "Súm. 672 STJ"
   - "Súm. 674 STJ"
-description: "Processo Administrativo Disciplinar, Súmulas STJ: limites do controle\njudicial; portaria de instauração; alteração de capitulação não anula;\ndemissão por improbidade pela autoridade administrativa independe de\ncondenação; prazo decadencial revisional (Lei 9.784/99 subsidiária); meio\nambiente, prescrição administrativa."
+description: "Usar para pesquisar ou analisar: Processo Administrativo Disciplinar, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Administrativo Disciplinar (PAD), Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "ANS: Regulação e Procedimento Sancionador"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/ans-regulatorio-sancionador.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/ans-regulatorio-sancionador/SKILL.md"
 triggers:
   - "ANS"
   - "Agência Nacional Saúde Suplementar"
@@ -18,10 +18,15 @@ triggers:
   - "rol ANS"
   - "operadora plano saúde"
   - "direção fiscal técnica"
-description: "Regulação e processo sancionador da Agência Nacional de Saúde Suplementar (ANS).\nBase: Lei 9.961/00 (cria a ANS), Lei 9.656/98 (planos de saúde), Lei\n14.454/22 (rol exemplificativo), RN ANS 489/22 (PAS), RN ANS 388/15\n(rol e DUT). Procedimentos: PAS sancionador (multa, suspensão de\ncomercialização, alienação de carteira, direção técnica e fiscal),\nNIP (Notificação de Intermediação Preliminar), recurso à DICOL. Tipos\ntípicos: negativa de cobertura, reajuste, rescisão unilateral, rede\ncredenciada. Coordenação com CDC + judicial."
+description: "Usar para pesquisar ou analisar: ANS: Regulação e Procedimento Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANS: Regulação e Procedimento Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

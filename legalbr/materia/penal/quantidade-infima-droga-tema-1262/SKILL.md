@@ -5,8 +5,8 @@ title: "Quantidade Ínfima de Droga + Vedação à Majoração da Pena-Base (Tem
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/quantidade-infima-droga-tema-1262.md"
+version: 2
+sourcePath: "legalbr/materia/penal/quantidade-infima-droga-tema-1262/SKILL.md"
 triggers:
   - "Tema 1.262 STJ"
   - "quantidade ínfima droga"
@@ -14,10 +14,15 @@ triggers:
   - "pena-base tráfico majoração"
   - "proporcionalidade dosimetria droga"
   - "natureza droga crack cocaína"
-description: "Tema 1.262 STJ (3ª Seção, 08/10/2025): na análise das vetoriais\ndo art. 42 da Lei 11.343/06 (natureza e quantidade da droga),\né DESPROPORCIONAL majorar a pena-base quando a droga apreendida\nfor de QUANTIDADE ÍNFIMA, INDEPENDENTEMENTE de sua natureza\n(crack, cocaína etc.)."
+description: "Usar para pesquisar ou analisar: Quantidade Ínfima de Droga + Vedação à Majoração da Pena-Base (Tema 1.262 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Quantidade Ínfima de Droga + Vedação à Majoração da Pena-Base (Tema 1.262 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.262 STJ, 3ª Seção, 08/10/2025)
 
