@@ -1,4 +1,5 @@
 """Structural regressions only; behavioral scenarios require agent evaluation."""
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -35,7 +36,7 @@ class LegalBRWorkflowTests(unittest.TestCase):
 
     def test_license_and_provenance(self):
         for skill in (HUB, NDA, COOKIES):
-            self.assertIn('Version 2.0, January 2004', (skill.parent/'references/Apache-2.0.txt').read_text())
+            self.assertEqual(hashlib.sha256((skill.parent/'references/Apache-2.0.txt').read_bytes()).hexdigest(), 'cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30')
         self.assertIn('33d3dea41a341b341d4f5da2e8801ae0c89be2b8', PROVENANCE.read_text())
 
     def test_behavioral_scenarios_are_explicit(self):

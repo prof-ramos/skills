@@ -32,3 +32,5 @@ Fontes brasileiras oficiais estão junto das afirmações nos módulos. Atualiza
 dos fluxos não significa revisão integral do acervo nem aprovação de um contrato
 ou site concreto. Não foram criadas skills duplicadas, integrações de assinatura
 ou operações externas.
+
+As três cópias de Apache-2.0 foram normalizadas pelo texto canônico de https://www.apache.org/licenses/LICENSE-2.0.txt em 22/10/2026, removendo texto alheio que estava anexado ao arquivo upstream. O teste estrutural confere o SHA-256 integral, não apenas o cabeçalho.

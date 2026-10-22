@@ -14,3 +14,5 @@ ação. Nenhuma regra estrangeira de penalidade/arbitragem foi transplantada.
 Não havia arquivo NOTICE no checkout upstream consultado. Nenhum texto de
 GeneralLegal/legal-templates foi incorporado. Preserve este aviso e a licença
 junto da skill em instalações individuais.
+
+A cópia da licença foi normalizada pelo [texto canônico da Apache](https://www.apache.org/licenses/LICENSE-2.0.txt), consultado em 22/10/2026: o arquivo upstream continha texto alheio após o fim da licença, que não integra esta distribuição. SHA-256 do texto canônico: `cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30`.
