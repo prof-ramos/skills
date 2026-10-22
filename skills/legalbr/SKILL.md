@@ -1,7 +1,7 @@
 ---
 name: legalbr
 description: "Hub unificado do ecossistema LegalSkillsBR com 2.149 habilidades jurídicas brasileiras: 299 minutas e peças processuais (petições iniciais, recursos, contestações, decisões) e 1.850 teses de mérito em 25 ramos jurídicos (Civil, Penal, Tributário, Trabalho, Constitucional, Administrativo, etc.), incluindo jurisprudência consolidada do STF e STJ, súmulas vinculantes, repercussão geral e repetitivos."
-license: "MIT"
+license: "MIT AND Apache-2.0"
 metadata:
   author: "prof-ramos"
   version: "1.0.0"
@@ -75,6 +75,18 @@ Ative ou consulte esta habilidade quando o usuário solicitar:
 ## 🔄 Fluxo Operacional Recomendado para o Agente
 
 Ao atuar em uma tarefa jurídica, componha a resposta unindo **Forma** + **Matéria**:
+
+### Revisão contratual, triagem de NDA e compliance
+
+Para revisão negocial ou verificação de conformidade, use primeiro
+[os fluxos operacionais](references/fluxos-operacionais.md), sem impor uma forma
+processual. Combine com os módulos existentes:
+- NDA: `legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md`.
+- Cookies: `legalbr/materia/digital-dados/cookies-consentimento-anpd-guia/SKILL.md`.
+
+Se o acervo não estiver disponível na instalação, peça o arquivo ou indique a
+limitação; não afirme tê-lo consultado. Recomendações de revisão não autorizam
+assinar, enviar, publicar, protocolar nem alterar sistemas externos.
 
 ### 1. Seleção da Forma (Estrutura Processual)
 1. Localize a peça adequada em `legalbr/forma/<slug>/SKILL.md`.

@@ -17,10 +17,76 @@ triggers:
   - "dark patterns"
   - "LGPD legítimo interesse cookies"
   - "identificadores online"
-description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Proteção\nde Dados Pessoais\" (out/2022)**: enquadramento de cookies sob LGPD;\nclassifica como **estritamente necessários** (base: legítimo\ninteresse ou execução de contrato) × **funcionalidade** × **analítico**\n× **publicidade**. Cookies não-necessários exigem **consentimento\nprévio + específico + revogável**. Princípios para banners: botões\ncom **mesmo tamanho** (aceitar/recusar/gerenciar); **não habilitar\npor padrão** cookies não-necessários; informação clara; segunda\ncamada de granularidade. Veda **cookie walls** abusivas + dark\npatterns. Aplicação extraterritorial LGPD (art. 3). DPIA\nrecomendado em rastreio massivo."
+description: "Cookies, LGPD e Guia ANPD: inventário técnico, bases legais por finalidade, consentimento, banner, evidências e plano de correção. Não presume conformidade nem autorização para publicar."
 ---
 
 # Cookies + Consentimento
+
+## Verificação operacional de cookies e evidências
+
+Adição de 22/10/2026; organização de compliance adaptada conforme
+[proveniência](references/PROVENIENCIA.md), Apache-2.0.
+
+**Escopo:** URL/domínios, ambiente, páginas/fluxos, data, navegador, região,
+login e versão do banner/CMP/política. Não alegue auditoria técnica se só recebeu
+texto ou captura. Sem acesso ao site ou logs, entregue roteiro e marque o
+funcionamento como **desconhecido**. Não publique política nem altere CMP/site.
+
+### Inventário observado, não lista genérica de fornecedores
+
+| Nome/identificador | Domínio e fornecedor | Tipo (cookie/pixel/SDK/storage) | Finalidade e dados | Destinatários/países | Duração observada | Base proposta e justificativa | Evidência/data | Responsável |
+|---|---|---|---|---|---|---|---|---|
+| [realmente observado ou informado, distinguindo ambos] | [ou desconhecido] | [tipo] | [ou a confirmar] | [ou desconhecidos] | [sessão/expiração ou não verificada] | [por operação, sujeita à análise] | [rede/storage/configuração/log com origem] | [confirmado ou a designar] |
+
+Inclua rastreadores server-side e integrações apenas quando houver evidência;
+ausência no navegador não prova ausência no servidor. Redija a política a partir
+do inventário validado; não invente Google/Meta, prazos, países ou controlador.
+Oculte dados pessoais nos registros de teste antes de compartilhar evidências.
+
+### Teste reproduzível do banner
+
+Em ambiente autorizado, sem alterar produção, registre requisições e armazenamento
+em sessão limpa e após recarregar/navegar em cada cenário:
+1. Primeira visita, antes de qualquer escolha.
+2. Rejeitar não necessários.
+3. Aceitar somente uma categoria (verificar as demais).
+4. Aceitar todos.
+5. Reabrir preferências e revogar; verificar o comportamento posterior.
+
+Confronte execução observada, escolhas registradas e inventário. Teste se
+rastreadores **baseados em consentimento** ficam inativos antes do aceite e após
+recusa/revogação; um botão visualmente correto não prova bloqueio efetivo.
+Verifique opções acessíveis, rejeição e gerenciamento sem destaque manipulativo,
+finalidades claras, granularidade, link da política, registro da escolha e meio
+simples de alterá-la. Registre também falhas, rotas não testadas e limitações.
+
+### Conclusão e plano de ação
+
+| Requisito/fonte | Evidência e cenário | Status | Risco | Ação | Responsável/prazo | Reteste |
+|---|---|---|---|---|---|---|
+| [lei, recomendação ANPD ou critério interno] | [observada ou ausente] | [atendido / não atendido / desconhecido / não aplicável com motivo] | [fundamentado] | [correção/prova] | [confirmados ou a definir] | [pendente/evidência] |
+
+Sem teste de execução, bloqueio permanece desconhecido; sem inventário, não
+conclua adequação da política. Achado crítico ou lacuna material exige revisão
+jurídica/técnica, não "site conforme". Sugestão de correção não é implementação.
+
+### Calibração jurídica obrigatória
+
+Leia o restante como material de referência, não como regra automática. A base
+legal depende da operação concreta; nem todo cookie de terceiro exige, só por
+ser de terceiro, consentimento. Não trate legítimo interesse como dispensa de
+análise. **LGPD arts. 7º–10** e **Guia ANPD, pp. 17–26** orientam essa avaliação.
+O guia é orientativo; recomendações de interface (pp. 29–33) não devem ser
+apresentadas como lei autônoma que fixa dimensões exatas de botões. Referências
+estrangeiras dependem de incidência própria e não são lei brasileira.
+
+Fontes oficiais consultadas em 22/10/2026; revalidar no caso:
+- [LGPD, texto compilado](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
+- [ANPD — Guia de cookies](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-cookies-e-protecao-de-dados-pessoais.pdf).
+
+Não presuma adequação internacional, prazos de incidentes, regras para crianças
+ou sanções a partir de sínteses abaixo: verifique norma oficial vigente e escopo.
+A revisão deste fluxo não constitui validação integral das demais teses do acervo.
 
 ## Marco legal
 
@@ -48,9 +114,9 @@ description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Prote
 |---|---|---|
 | **Estritamente necessários** | Imprescindíveis ao funcionamento (login, carrinho, segurança) | Execução de contrato + legítimo interesse |
 | **Funcionalidade** | Memorizar preferências (idioma, configurações) | Consentimento ou legítimo interesse |
-| **Analítico/desempenho** | Estatísticas de uso | Consentimento ou legítimo interesse (anonimizado) |
+| **Analítico/desempenho** | Estatísticas de uso | Análise contextual de consentimento ou legítimo interesse; anonimização não se presume |
 | **Publicidade/marketing** | Direcionamento + remarketing | **Consentimento** (regra) |
-| **Terceiros** | Cookies de provedores externos | **Consentimento** + transparência |
+| **Terceiros** | Cookies de provedores externos | Base por finalidade/operação + transparência |
 
 ## Classificação por duração
 
@@ -65,7 +131,7 @@ description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Prote
 
 | Base | Aplicação a cookies |
 |---|---|
-| **Consentimento** (I) | Cookies **não-necessários**: regra |
+| **Consentimento** (I) | Avaliar por finalidade; obter antes do tratamento que depender desta base |
 | **Cumprimento de obrigação legal** (II) | Casos específicos |
 | **Execução de contrato** (V) | Cookies essenciais ao serviço |
 | **Legítimo interesse** (IX) | Estritamente necessários + alguns funcionais (após balancing test) |
@@ -91,8 +157,8 @@ description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Prote
 |---|---|
 | **Primeira camada** | Aviso conciso + 3 botões equivalentes |
 | **Segunda camada** | Detalhamento + opções granulares |
-| **Botões** | "Aceitar todos" + "Recusar todos" + "Gerenciar/Personalizar", **mesmo tamanho + destaque** |
-| **Padrão** | Cookies não-necessários **NÃO** habilitados por padrão |
+| **Botões** | "Aceitar todos" + "Recusar todos" + "Gerenciar/Personalizar", sem destaque manipulativo ao aceite |
+| **Padrão** | Cookies baseados em consentimento **NÃO** habilitados por padrão |
 | **Política de cookies** | Link claro |
 | **Linguagem** | Portuguesa + clara |
 
@@ -101,12 +167,12 @@ description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Prote
 | | Conteúdo |
 |---|---|
 | **Botão "Aceitar" maior** | Desigualdade visual |
-| **Sem opção "Recusar"** na primeira camada | Vedado |
-| **Cookies não-necessários habilitados** por padrão | Vedado |
+| **Sem opção "Recusar"** na primeira camada | Contraria recomendação do Guia ANPD |
+| **Cookies baseados em consentimento habilitados** por padrão | Incompatível com essa base |
 | **Cookie walls** sem alternativa real | Coerção |
 | **Informação em idioma estrangeiro** apenas | Inadequado |
 | **Granularidade excessiva** confusa | Manipulação |
-| **Cookies habilitados antes de consentir** | Vedado |
+| **Cookies baseados em consentimento antes de consentir** | Incompatível com essa base |
 | **Mudança de preferências difícil** | Vedado |
 
 ## Cookie walls
@@ -258,7 +324,7 @@ description: "Cookies + Consentimento, **Guia Orientativo ANPD \"Cookies e Prote
 
 ## Erros a evitar
 
-- Habilitar **cookies não-necessários** por padrão (vedado);
+- Habilitar **cookies baseados em consentimento** antes de obtê-lo;
 - **Cookie wall** sem alternativa real (consentimento não-livre);
 - Botão "Aceitar" **maior** que "Recusar" (dark pattern);
 - Não oferecer **"Recusar"** na primeira camada;
