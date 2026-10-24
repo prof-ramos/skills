@@ -31,6 +31,54 @@ sources: []
 
 Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
+## Triagem operacional brasileira (triage-nda)
+
+Adaptação identificada em [proveniência](references/PROVENIENCIA.md),
+Apache-2.0; adicionada em 22/10/2026. Preserve os metadados canônicos do acervo.
+
+**Entrada mínima:** NDA integral e anexos/versão, parte assistida (divulgadora,
+receptora ou ambas), finalidade e fluxo real das informações, tipo unilateral ou
+mútuo, dados pessoais/segredos envolvidos, jurisdição, prazo de decisão e critérios
+aprovados do cliente. Reutilize informações já fornecidas. Sem texto, solicite-o;
+sem lado/finalidade ou critérios decisivos, sinalize análise preliminar e pendência.
+
+**Verificação:** registre cláusula/página, evidência, risco, alteração proposta e
+responsável. Confira definição e marcação compatíveis com o fluxo; exclusões
+(domínio público, posse anterior, terceiro lícito, desenvolvimento independente);
+divulgação compulsória com aviso somente quando permitido; destinatários e uso
+restrito; vigência e sobrevivência; retenção legal/backup e destruição possível;
+residuals, PI, não concorrência, não aliciamento, exclusividade, multas,
+responsabilidade e foro/arbitragem. Avalie dados pessoais separadamente: NDA não
+substitui análise LGPD ou instrumento adequado às operações de tratamento.
+
+**Encaminhamento, nunca autorização de assinatura:**
+- **Pendente de informação**: documento/anexo ou evidência material faltante;
+  critério do cliente desconhecido. Liste a pergunta e quem deve responder.
+- **Baixo risco nos critérios verificados**: todos os critérios relevantes
+  documentados atendidos, sem lacuna material; enviar a conclusão apenas para
+  decisão do responsável humano. Não significa aprovação nem poder de assinar.
+- **Revisão jurídica pontual**: desvio delimitado, com redline e alternativa
+  sujeitas à aceitação do cliente; indicar aprovador confirmado ou "a designar".
+- **Revisão jurídica aprofundada**: restrição concorrencial, cessão/licença de PI,
+  exposição material, conflito de jurisdição ou obrigações inexequíveis; explicar
+  o risco concreto, sem presumir nulidade automática.
+
+Se houver risco material conhecido e lacunas, mantenha o encaminhamento agravado
+**e** as pendências; informação incompleta nunca reduz a prioridade. Não use
+pontuação média para neutralizar uma cláusula crítica.
+
+Os prazos, multas e escolhas de foro abaixo são exemplos negociais históricos,
+não limites legais nem posições aprovadas. Não aplique automaticamente definição
+ampla (pode prejudicar a receptora), prazo de 2–5 anos, multa em reais, residuals
+ou câmara arbitral. Tampouco importe veto estrangeiro a cláusula penal/arbitragem.
+Confira [CC arts. 408–416 e 421–425](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)
+e a [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
+em fonte oficial para o caso. Não assine, envie nem protocole neste fluxo.
+
+**Saída:** conclusão limitada ao escopo + matriz de cláusulas (preferida,
+aceitável, desvio, redline, fallback, aprovador) + pendências e fontes. Sem critérios
+do cliente, "preferida/aceitável" ficam não fornecidas, nunca inferidas.
+
 ## Base legal
 
 - **CC 422** (boa-fé objetiva: confidencialidade decorre da boa-fé mesmo sem cláusula);

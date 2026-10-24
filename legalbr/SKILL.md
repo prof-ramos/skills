@@ -48,3 +48,7 @@ Apresentar conclusão, fundamento confirmado, aplicação aos fatos, riscos e pe
 ## Manter o acervo
 
 Revisar trimestralmente os itens utilizados com frequência e imediatamente após alteração relevante. Não criar agendamento sem solicitação. Ao corrigir um tema, buscar todas as referências correlatas e registrar quais foram corrigidas e quais permanecem pendentes. Usar `scripts/catalogo.py` para validar e regenerar o índice; esse script não verifica direito nem acessa fontes.
+
+## Revisão contratual e compliance
+
+Para contratos, NDA e cookies, consultar os [fluxos operacionais](../skills/legalbr/references/fluxos-operacionais.md), com [proveniência e licenças](PROVENIENCIA-FLUXOS.md). Aplicar também este protocolo; o fluxo operacional não substitui verificação jurídica. Usar [triagem NDA](materia/contratos/nda-acordo-confidencialidade/SKILL.md) e [cookies com evidências](materia/digital-dados/cookies-consentimento-anpd-guia/SKILL.md). Sem referências disponíveis na instalação isolada, indicar a limitação e solicitar os arquivos antes de afirmar sua consulta.

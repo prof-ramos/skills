@@ -1,0 +1,10 @@
+{
+  "commit": "7b43e3aff84574f0a481ebdad73a7e1de636de62",
+  "sha256": {
+    "skills/legalbr/SKILL.md": "629f7b13296c076df3a185d42c86baa6b8ae21aec8717ea21448de76c1b76743",
+    "skills/legalbr/references/fluxos-operacionais.md": "d610d142e2f4519a5b85f3e30723e1641de1551b6eef4c64b9dbcbba18cab9c2",
+    "legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md": "da47c70f54d0fbe2cca5a0ed1f70aa914a7938a4e7294d21c9c5e68c039e3154",
+    "legalbr/materia/digital-dados/cookies-consentimento-anpd-guia/SKILL.md": "0929692d9868a5981b8501208ecdb29c6fb370a4d74491343d2267550c5b2078"
+  },
+  "rubrica_sha256": "b51ca4e3d1f4af62cb089b6f96535f7bb2a27784a2f135c19021db4875634058"
+}

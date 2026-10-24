@@ -3,7 +3,7 @@
 PYTHON ?= python3
 NODE ?= node
 
-check: check-python check-shell check-node check-skills check-skills-sh check-khaos-smoke check-learn-patch
+check: check-legalbr check-python check-shell check-node check-skills check-skills-sh check-khaos-smoke check-learn-patch
 
 check-python:
 	$(PYTHON) scripts/check-python-syntax.py
@@ -32,3 +32,8 @@ check-khaos-smoke:
 
 check-learn-patch:
 	$(PYTHON) skills/agent-workflows/learn/scripts/tests/test_learn_patch.py
+
+.PHONY: check-legalbr
+check-legalbr:
+	$(PYTHON) legalbr/scripts/catalogo.py --check
+	$(PYTHON) tests/test_legalbr_workflows.py
