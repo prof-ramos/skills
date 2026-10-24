@@ -5,8 +5,8 @@ title: "Mandado de Soltura + Cumprimento de Alvará (CPP + LEP)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/intimacao-mandado-soltura.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/intimacao-mandado-soltura/SKILL.md"
 triggers:
   - "mandado de soltura"
   - "alvará de soltura"
@@ -16,10 +16,15 @@ triggers:
   - "CPP 660"
   - "cumprimento de soltura"
   - "execução de alvará"
-description: "Mandado/alvará de soltura: instrumento judicial para CESSAR\nrestrição à liberdade. Cumprimento IMEDIATO (CF 5 LXV + CPP 660\n§§1-2). Emite-se na concessão de HC + relaxamento + liberdade\nprovisória + revogação da preventiva + absolvição + cumprimento\npena + extinção. Cabe TUTELA URGENTE quando demora gera novo\nconstrangimento. Mandado de prisão tem rito próprio (CPP\n282-289). Cumprimento por OFICIAL DE JUSTIÇA OU Polícia\nJudiciária. Contramandado cessa eficácia do anterior."
+description: "Usar para pesquisar ou analisar: Mandado de Soltura + Cumprimento de Alvará (CPP + LEP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Soltura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

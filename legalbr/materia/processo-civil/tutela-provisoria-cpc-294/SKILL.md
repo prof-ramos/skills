@@ -5,8 +5,8 @@ title: "Tutela Provisória (CPC 294-311)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/tutela-provisoria/tutela-provisoria-cpc-294.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tutela-provisoria-cpc-294/SKILL.md"
 triggers:
   - "tutela de urgência"
   - "tutela de evidência"
@@ -22,10 +22,15 @@ triggers:
   - "CPC 303"
   - "CPC 304"
   - "CPC 311"
-description: "Tutela provisória (CPC 294-311): urgência (cautelar/antecipada,\nCPC 300) ou evidência (CPC 311, 4 hipóteses); antecedente ou\nincidental; estabilização (CPC 304, revisão em 2 anos); efetivação\n(CPC 297/301/537) + responsabilidade objetiva (302)."
+description: "Usar para pesquisar ou analisar: Tutela Provisória (CPC 294-311). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Provisória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 294: arquitetura unificada
 

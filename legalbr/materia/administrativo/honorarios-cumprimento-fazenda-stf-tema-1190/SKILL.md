@@ -5,18 +5,23 @@ title: "Honorários no Cumprimento de Sentença contra a Fazenda (Tema 1.190 STJ
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/honorarios-cumprimento-fazenda-stf-tema-1190.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/honorarios-cumprimento-fazenda-stf-tema-1190/SKILL.md"
 triggers:
   - "Tema 1.190 STJ"
   - "honorários cumprimento Fazenda"
   - "RE 420.816 STF"
   - "CPC art. 85 §7"
   - "execução não embargada Fazenda"
-description: "Tema 1.190 STJ (Corte Especial, 20/06/2024, Rel. Min. Herman\nBenjamin): na ausência de impugnação, NÃO cabem honorários no\ncumprimento de sentença contra a Fazenda, ainda que por RPV\n(CPC art. 85 §7). Com impugnação rejeitada, cabem honorários\nsobre a parcela controvertida. A constitucionalidade do art. 85\n§7 já fora reconhecida pelo STF no RE 420.816; o STF não\nreconheceu repercussão geral nesta controvérsia (infraconstitucional)."
+description: "Usar para pesquisar ou analisar: Honorários no Cumprimento de Sentença contra a Fazenda (Tema 1.190 STJ + RE 420.816 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários em Cumprimento contra a Fazenda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

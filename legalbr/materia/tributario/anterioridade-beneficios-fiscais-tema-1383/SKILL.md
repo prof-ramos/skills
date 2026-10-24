@@ -5,8 +5,8 @@ title: "Anterioridade na Redução/Supressão de Benefícios Fiscais (Tema 1.383
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/anterioridade-beneficios-fiscais-tema-1383.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/anterioridade-beneficios-fiscais-tema-1383/SKILL.md"
 triggers:
   - "Tema 1.383 STF"
   - "anterioridade tributária"
@@ -18,10 +18,15 @@ triggers:
   - "Súmula 544 STF"
   - "revogação isenção"
   - "SV 50"
-description: "Tema 1.383 STF (RE 1.473.645, 22/03/2025): a anterioridade\ntributária GERAL e NONAGESIMAL se aplica às hipóteses de\nREDUÇÃO ou SUPRESSÃO de benefícios/incentivos fiscais que\nresultem em MAJORAÇÃO INDIRETA de tributos, observadas as\nexceções constitucionais de cada tributo. CF 150 III b/c +\n195 §6. Reafirma SV 50 (atualização sem majoração não exige).\nCTN art. 178: benefício por prazo certo + condição."
+description: "Usar para pesquisar ou analisar: Anterioridade na Redução/Supressão de Benefícios Fiscais (Tema 1.383 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anterioridade nas Reduções/Supressões de Benefícios Fiscais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

@@ -5,8 +5,8 @@ title: "União Homoafetiva (ADI 4.277/ADPF 132 + Tema 1.072 STF)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/uniao-homoafetiva-adi-4277-tema-1072.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/uniao-homoafetiva-adi-4277-tema-1072/SKILL.md"
 triggers:
   - "ADI 4.277"
   - "ADPF 132"
@@ -18,10 +18,15 @@ triggers:
   - "licença-maternidade mãe não gestante"
   - "adoção homoafetiva"
   - "união estável homoafetiva"
-description: "ADI 4.277 + ADPF 132 (Min. Ayres Britto, 05/05/2011): equiparação\nplena da união homoafetiva à união estável (CC 1.723). Tema 1.072\nSTF (RE 1.211.446, Min. Luiz Fux, 13/03/2024): mãe não gestante\nem união homoafetiva tem direito à licença-maternidade; se a\ncompanheira já usou, equipara-se à paternidade. Resolução CNJ\n175/2013 (casamento) e Provimento CNJ 63/2017 (registro civil)."
+description: "Usar para pesquisar ou analisar: União Homoafetiva (ADI 4.277/ADPF 132 + Tema 1.072 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # União Homoafetiva (ADI 4.277/ADPF 132 + Tema 1.072 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

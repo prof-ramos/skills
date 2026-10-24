@@ -5,8 +5,8 @@ title: "PPPs e Concessões (modelagem, MIP, PMI, Lei 11.079 + 8.987 + 14.133)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/ppp-modelagem-mip-licitacao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ppp-modelagem-mip-licitacao/SKILL.md"
 triggers:
   - "PPP"
   - "parceria público-privada"
@@ -17,10 +17,15 @@ triggers:
   - "VFM"
   - "value for money"
   - "modelagem PPP"
-description: "Modelagem de PPPs (Lei 11.079/04), concessões comuns (Lei 8.987/95) e\ncontrato de obra/serviço/concessão (Lei 14.133/21). MIP (manifestação\nde interesse privado), PMI (procedimento de manifestação de\ninteresse), VFM (value for money), garantias contra a Administração\n(FGP, FGI), step-in right, alocação de risco e financiamento\n(project finance)."
+description: "Usar para pesquisar ou analisar: PPPs e Concessões (modelagem, MIP, PMI, Lei 11.079 + 8.987 + 14.133). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PPPs e Concessões: Modelagem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

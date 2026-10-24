@@ -5,8 +5,8 @@ title: "Substituição Processual Sindical (Tema 823 STF + Tema 1.130 STJ)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/substituicao-processual-sindical-tema-823.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/substituicao-processual-sindical-tema-823/SKILL.md"
 triggers:
   - "substituição processual sindical"
   - "Tema 823 STF"
@@ -18,10 +18,15 @@ triggers:
   - "liquidação individual de sentença coletiva sindical"
   - "Súm. 629 STF"
   - "honorários assistenciais Lei 5.584"
-description: "Substituição processual sindical: legitimidade ampla do Tema 823 STF\n(CF 8 III, inclusive liquidação e execução, sem rol nem autorização) e\nlimites subjetivos do título pelo Tema 1.130 STJ (domicílio necessário na\nbase territorial, CC 76 par. único; unicidade sindical CF 8 II; CDC 103 II)."
+description: "Usar para pesquisar ou analisar: Substituição Processual Sindical (Tema 823 STF + Tema 1.130 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Substituição Processual Sindical (Tema 823 STF + Tema 1.130 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

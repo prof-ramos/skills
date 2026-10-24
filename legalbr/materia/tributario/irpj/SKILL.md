@@ -5,8 +5,8 @@ title: "IRPJ, Imposto de Renda Pessoa Jurídica (Lei 9.430/96 + Lei 9.249/95)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpj.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpj/SKILL.md"
 triggers:
   - "IRPJ"
   - "Lucro Real"
@@ -16,10 +16,15 @@ triggers:
   - "trava 30% prejuízos fiscais"
   - "LC 224/2025"
   - "Tema 69 STF"
-description: "IRPJ sob CF 153 III + CTN 43-45 + Lei 9.430/96 + Lei 9.249/95 + LC\n123/06: regimes Lucro Real, Presumido, Arbitrado e Simples Nacional;\nalíquota 15% + adicional 10% sobre excedente; compensação de\nprejuízos limitada a 30%; PIS/COFINS cumulativo e não cumulativo;\nTema 69 STF e Reforma Tributária."
+description: "Usar para pesquisar ou analisar: IRPJ, Imposto de Renda Pessoa Jurídica (Lei 9.430/96 + Lei 9.249/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPJ, Imposto de Renda Pessoa Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Provas Ilícitas (CPP 157 + CF 5 LVI)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/provas-ilicitas-cpp-157.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/provas-ilicitas-cpp-157/SKILL.md"
 triggers:
   - "CPP 157"
   - "prova ilícita"
@@ -18,10 +18,15 @@ triggers:
   - "descoberta inevitável"
   - "desentranhamento"
   - "CF 5 LVI"
-description: "Provas ilícitas CPP 157 + CF 5 LVI: inadmissíveis em qualquer\nprocesso as provas obtidas por meios ilícitos; teoria dos frutos\nda árvore envenenada (§1); exceções consagradas: fonte\nindependente (§1 fine), descoberta inevitável (jurisprudência),\nprova ilícita PRO REO (admitida, proporcionalidade);\ndesentranhamento (§3); §5 (juiz que conheceu da prova ilícita)\ndeclarado inconstitucional pelo STF (ADI 6.298): o juiz pode julgar."
+description: "Usar para pesquisar ou analisar: Provas Ilícitas (CPP 157 + CF 5 LVI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Provas Ilícitas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

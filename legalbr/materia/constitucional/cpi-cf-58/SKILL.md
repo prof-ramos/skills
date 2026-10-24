@@ -5,8 +5,8 @@ title: "Comissão Parlamentar de Inquérito (CPI): CF 58 §3 + Lei 1.579/1952"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/cpi-cf-58.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/cpi-cf-58/SKILL.md"
 triggers:
   - "CPI"
   - "comissão parlamentar de inquérito"
@@ -18,10 +18,15 @@ triggers:
   - "HC 79.244"
   - "direito ao silêncio"
   - "Súm. Vinc. 14"
-description: "CPI sob CF 58 §3 + Lei 1.579/1952: criação por 1/3 do CN/CD/SF\n+ fato determinado + prazo certo; poderes de investigação próprios\ndas autoridades judiciais (STF MS 23.452: quebra de sigilo\nbancário/fiscal/dados telefônicos com fundamentação); RESERVA\nDE JURISDIÇÃO veda prisão preventiva + busca domiciliar +\ninterceptação; direito ao silêncio (CF 5 LXIII)."
+description: "Usar para pesquisar ou analisar: Comissão Parlamentar de Inquérito (CPI): CF 58 §3 + Lei 1.579/1952. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comissão Parlamentar de Inquérito (CPI)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

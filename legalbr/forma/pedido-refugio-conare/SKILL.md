@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "pedido-refugio"
 version: 2
-sourcePath: "lib/skills/official/forma/pedido-refugio-conare.md"
+sourcePath: "legalbr/forma/pedido-refugio-conare/SKILL.md"
 triggers:
   - "pedido de refúgio"
   - "Lei 9.474 refúgio"
@@ -17,10 +17,15 @@ triggers:
   - "cláusula de Cartagena"
   - "solicitante de refúgio"
   - "distinção entre refúgio e asilo político"
-description: "Pedido de refúgio (Lei 9.474/1997 + Convenção 1951 + Protocolo 1967):\nhipóteses (fundado temor de perseguição por raça, religião, nacionalidade,\nopinião política, grupo social OU violação grave de direitos humanos);\nCONARE julga em 1ª instância; recurso ao Ministro da Justiça em 15 dias;\nprincípio NON-REFOULEMENT (vedação devolução); enquanto pendente,\nproibida expulsão/deportação/extradição; CPF + autorização de trabalho;\nreunião familiar; DPU atua institucionalmente."
+description: "Usar para redigir ou revisar: Pedido de Refúgio (CONARE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Refúgio
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

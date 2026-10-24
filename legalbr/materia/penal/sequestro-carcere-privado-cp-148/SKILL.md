@@ -5,8 +5,8 @@ title: "Sequestro e Cárcere Privado (CP 148 + Lei 14.811/2024 + Súm. 711 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/sequestro-carcere-privado-cp-148.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sequestro-carcere-privado-cp-148/SKILL.md"
 triggers:
   - "sequestro de pessoa"
   - "cárcere privado"
@@ -17,10 +17,15 @@ triggers:
   - "crime permanente"
   - "CP 159"
   - "extorsão mediante sequestro"
-description: "Sequestro/cárcere privado sob CP 148 + Lei 14.811/2024: caput\nrecl. 1-3; §1 qualificadoras (ascendente/descendente + > 60 +\ninternamento + > 15 dias + MENOR de 18, HEDIONDO Lei 14.811 +\nfim libidinoso); §2 sofrimento físico/moral (recl. 2-8); §3\nfacção 12-20 (Lei 15.358/2026); crime PERMANENTE (Súm. 711);\ndistinção CP 159 (extorsão mediante sequestro, exige fim de\nresgate); consunção com crime-fim."
+description: "Usar para pesquisar ou analisar: Sequestro e Cárcere Privado (CP 148 + Lei 14.811/2024 + Súm. 711 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sequestro e Cárcere Privado (CP 148)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal base
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-internacao-involuntaria"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-internacao-involuntaria.md"
+sourcePath: "legalbr/forma/defesa-internacao-involuntaria/SKILL.md"
 triggers:
   - "Lei 10.216"
   - "reforma psiquiátrica"
@@ -17,10 +17,15 @@ triggers:
   - "defesa contra internação psiquiátrica involuntária"
   - "impugnação à internação compulsória"
   - "defesa em medida de segurança"
-description: "Defesa contra internação psiquiátrica (Lei 10.216/2001): modalidades\nvoluntária, involuntária (a pedido de terceiro) e compulsória (ordem\njudicial); internação como última ratio, com comunicação ao MP em 72h\n(art. 8 §1) e vedação ao tratamento asilar; roteiro da peça (preliminares\nde forma, alternativas na RAPS, pedidos de alta e perícia independente);\ndefesa em medida de segurança (CP 97; Súm. 527 STJ; Res. CNJ 487/2023);\nrecursos (agravo de instrumento, RESE, agravo em execução, HC, MS)."
+description: "Usar para redigir ou revisar: Defesa em Internação Psiquiátrica Involuntária/Compulsória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Internação Psiquiátrica Involuntária / Compulsória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

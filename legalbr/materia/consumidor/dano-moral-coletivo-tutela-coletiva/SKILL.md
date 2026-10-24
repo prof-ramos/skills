@@ -5,8 +5,8 @@ title: "Dano Moral Coletivo + Tutela Coletiva (LACP + CDC)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/dano-moral-coletivo-tutela-coletiva.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dano-moral-coletivo-tutela-coletiva/SKILL.md"
 triggers:
   - "dano moral coletivo"
   - "dano moral em massa"
@@ -22,10 +22,15 @@ triggers:
   - "in re ipsa coletivo"
   - "Lei 14.230/2021"
   - "Lei 14.181/2021"
-description: "Dano moral coletivo e tutela coletiva sob LACP (Lei 7.347/85)\n+ CDC 81-104: lesão a interesses extrapatrimoniais da\ncoletividade, reconhecida pela jurisprudência do STJ\n(REsp 1.057.274/RS; REsp 1.221.756/RJ; critérios objetivos da\n1ª Turma em 2025); legitimidade ampla (MP, Defensoria, entes,\nassociações); categorias do CDC 81 (difusos, coletivos,\nindividuais homogêneos); FDD e fluid recovery."
+description: "Usar para pesquisar ou analisar: Dano Moral Coletivo + Tutela Coletiva (LACP + CDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Moral Coletivo + Tutela Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

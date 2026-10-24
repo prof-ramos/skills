@@ -5,8 +5,8 @@ title: "Desconsideração da Personalidade Jurídica no Trabalho (CLT 855-A + CP
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/desconsideracao-pj-trabalhista.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/desconsideracao-pj-trabalhista/SKILL.md"
 triggers:
   - "desconsideração da personalidade jurídica"
   - "IDPJ trabalhista"
@@ -14,10 +14,15 @@ triggers:
   - "CPC 133"
   - "sócio responsável"
   - "grupo econômico"
-description: "Desconsideração da PJ no trabalho (CLT 855-A + CPC 133-137): IDPJ\nincidente com defesa em 15 dias; teoria menor aplicável (basta\ninsolvência); sócios respondem pelos créditos trabalhistas (CLT 10-A\nna sucessão); grupo econômico (CLT 2 §§ 2-3: a Reforma exigiu\ninteresse integrado + atuação conjunta); Tema 1.232 STF (execução não\nalcança quem não participou da fase de conhecimento, salvo sucessão ou\nabuso da personalidade, via IDPJ)."
+description: "Usar para pesquisar ou analisar: Desconsideração da Personalidade Jurídica no Trabalho (CLT 855-A + CPC 133-137). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desconsideração da Personalidade Jurídica no Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

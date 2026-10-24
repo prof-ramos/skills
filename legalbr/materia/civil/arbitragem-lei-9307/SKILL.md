@@ -5,8 +5,8 @@ title: "Arbitragem (Lei 9.307/96 + Lei 13.129/2015)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/arbitragem-lei-9307.md"
+version: 2
+sourcePath: "legalbr/materia/civil/arbitragem-lei-9307/SKILL.md"
 triggers:
   - "convenção de arbitragem"
   - "Lei 9.307 arbitragem"
@@ -19,10 +19,15 @@ triggers:
   - "ação anulatória Lei 9.307 art. 33"
   - "Súm. 485 STJ"
   - "Convenção de Nova York"
-description: "Arbitragem sob Lei 9.307/96 + Lei 13.129/2015: método\nheterocompositivo com sentença equivalente à judicial (CPC 515\nVII); requisitos (direitos patrimoniais disponíveis + capazes +\nconsentimento + ímpar); kompetenz-kompetenz; cláusula\ncompromissória × compromisso arbitral; ação anulatória em 90 dias\n(art. 33); Fazenda admitida (Lei 13.129); CLT 507-A (trabalhista\npara hipersuficiente)."
+description: "Usar para pesquisar ou analisar: Arbitragem (Lei 9.307/96 + Lei 13.129/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arbitragem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito + natureza
 

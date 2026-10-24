@@ -5,8 +5,8 @@ title: "Recuperação Extrajudicial (REJ, LRF 161-167)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/recuperacao-extrajudicial-lrf-161.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/recuperacao-extrajudicial-lrf-161/SKILL.md"
 triggers:
   - "recuperação extrajudicial"
   - "REJ"
@@ -15,10 +15,15 @@ triggers:
   - "plano extrajudicial"
   - "adesão de credores"
   - "Lei 14.112"
-description: "Recuperação extrajudicial (Lei 11.101/05 arts. 161-167, com alterações\nda Lei 14.112/20). Diferenças para RJ; quórum de adesão (1/2 +\nestendido); homologação judicial; cram down de credores não aderentes;\nclasses de credores; suspensão das execuções; conexão com tax\ntransação (Lei 13.988/20) e Marco das Garantias (Lei 14.711/23)."
+description: "Usar para pesquisar ou analisar: Recuperação Extrajudicial (REJ, LRF 161-167). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recuperação Extrajudicial (LRF 161-167)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

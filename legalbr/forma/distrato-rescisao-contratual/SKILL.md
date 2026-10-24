@@ -5,8 +5,8 @@ title: "Distrato / Rescisão Contratual (amigável)"
 category: "forma"
 materia: null
 documentType: "distrato"
-version: 1
-sourcePath: "lib/skills/official/forma/distrato-rescisao-contratual.md"
+version: 2
+sourcePath: "legalbr/forma/distrato-rescisao-contratual/SKILL.md"
 triggers:
   - "distrato"
   - "rescisão contratual"
@@ -14,10 +14,15 @@ triggers:
   - "rescisão amigável"
   - "dissolução do contrato"
   - "termo de quitação"
-description: "Distrato e rescisão amigável de contrato: CC 472-477 (resilição\nbilateral), CC 478-480 (onerosidade excessiva), CC 421-A (revisão).\nDistingue distrato × resolução × resilição × resgate. Em locação:\nLei 8.245 + Lei 13.786. Cláusulas essenciais (quitação, multa,\npreservação) e efeitos sobre garantias."
+description: "Usar para redigir ou revisar: Distrato / Rescisão Contratual (amigável). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Distrato / Rescisão Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito e bases
 

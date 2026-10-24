@@ -5,8 +5,8 @@ title: "Seguro de Vida: Doença Preexistente e Recusa (Súm. 609 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/seguro-vida-doenca-preexistente.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/seguro-vida-doenca-preexistente/SKILL.md"
 triggers:
   - "seguro de vida"
   - "doença preexistente"
@@ -19,10 +19,15 @@ triggers:
   - "suicídio"
   - "diária de incapacidade temporária"
   - "Tema 1.068 STJ"
-description: "Seguro de vida sob CC arts. 757-802 + Súm. 609/610 STJ + CDC:\ndoença preexistente (CC 766), recusa só com prova de má-fé do\nsegurado e dispensa de exames pela seguradora; suicídio (Súm.\n610), coberto após 2 anos; IFPD em seguro de vida em grupo\n(Tema 1.068 STJ); pagamento por DIT (diária de incapacidade\ntemporária), necessária comprovação técnica; prazo prescricional\nanual (Súm. 101); cobertura ampla na boa-fé contratual."
+description: "Usar para pesquisar ou analisar: Seguro de Vida: Doença Preexistente e Recusa (Súm. 609 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro de Vida: Doença Preexistente e Recusa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

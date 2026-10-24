@@ -5,8 +5,8 @@ title: "Imunidade Material Parlamentar (Tema 469 STF + Tema 950)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/imunidade-vereador-tema-469.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/imunidade-vereador-tema-469/SKILL.md"
 triggers:
   - "Tema 469"
   - "RE 600.063"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 950"
   - "RE 632.115"
   - "imunidade formal"
-description: "Tema 469 STF (RE 600.063, red. Min. Barroso, 25/02/2015): vereador\ntem imunidade material limitada à circunscrição do Município e à\npertinência com o mandato (CF 29 VIII). Imunidade material (CF 53\ncaput) é absoluta dentro de seus contornos; alcança esfera cível\ne penal. Tema 950 (RE 632.115, rel. Min. Barroso, 27/09/2025): a\nimunidade material EXCLUI a responsabilidade civil objetiva do\nEstado por atos imunes. Vereador NÃO tem imunidade formal."
+description: "Usar para pesquisar ou analisar: Imunidade Material Parlamentar (Tema 469 STF + Tema 950). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imunidade Material Parlamentar (Tema 469 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

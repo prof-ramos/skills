@@ -5,8 +5,8 @@ title: "Princípio da Insignificância em Porte ou Posse de Munição (STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/insignificancia-porte-municao-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/insignificancia-porte-municao-stj/SKILL.md"
 triggers:
   - "princípio insignificância munição"
   - "porte ilegal munição"
@@ -20,10 +20,15 @@ triggers:
   - "crime perigo abstrato"
   - "munição desacompanhada arma"
   - "pequena quantidade munição"
-description: "Jurisprudência consolidada do STJ (5ª e 6ª Turmas; EREsp\n1.856.980/SC, 3ª Seção, j. 22/09/2021): porte ou posse de munição\né crime de PERIGO ABSTRATO e MERA CONDUTA, em regra NÃO comporta\ninsignificância. ADMITE-SE excepcionalmente quando\nCUMULATIVAMENTE: (i) pequena quantidade; (ii) munição\nDESACOMPANHADA de arma apta; (iii) peculiaridades do caso\nrevelando ausência de lesividade. NÃO aplica em contexto de\ntráfico ou outro crime."
+description: "Usar para pesquisar ou analisar: Princípio da Insignificância em Porte ou Posse de Munição (STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Insignificância + Porte/Posse de Munição (STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Entendimento consolidado (STJ)
 

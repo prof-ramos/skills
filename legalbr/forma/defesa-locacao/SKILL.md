@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-locacao"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-locacao.md"
+sourcePath: "legalbr/forma/defesa-locacao/SKILL.md"
 triggers:
   - "defesa locatário"
   - "contestação despejo"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 8.245/1991 defesa"
   - "art. 62 purga"
   - "contestação despejo falta de pagamento"
-description: "Defesa do locatário em ações de despejo + cobrança (Lei 8.245/1991):\npurga da mora em 15 dias (art. 62), vedada nova emenda nos 24 meses;\npreliminares típicas; impugnação da liminar de despejo (art. 59 §1);\nresposta + reconvenção (caução, benfeitorias); prescrição trienal do\naluguel como prejudicial; fiador sem citação no despejo não responde\npela execução (Súm. 268 STJ); foro do imóvel; estrutura da contestação\ne documentos essenciais."
+description: "Usar para redigir ou revisar: Defesa do Locatário (despejo + cobrança de aluguel). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa do Locatário em Despejo + Cobrança
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

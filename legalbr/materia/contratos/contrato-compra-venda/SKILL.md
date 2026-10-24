@@ -5,8 +5,8 @@ title: "Contrato de Compra e Venda"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-compra-venda.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-compra-venda/SKILL.md"
 triggers:
   - "contrato de compra e venda"
   - "compra e venda civil"
@@ -22,10 +22,15 @@ triggers:
   - "venda ad corpus"
   - "Súm 84 STJ"
   - "Súm 308 STJ"
-description: "Compra e venda civil (CC 481-532): cláusulas especiais\n(retrovenda 505, preempção 513, reserva 521); evicção (447);\nvícios (441); forma (108); ITBI só no registro (CC 1.245)."
+description: "Usar para pesquisar ou analisar: Contrato de Compra e Venda. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Compra e Venda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Sentença Cível"
 category: "forma"
 materia: null
 documentType: "sentenca-civel"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-civel.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-civel/SKILL.md"
 triggers:
   - "sentença cível"
   - "sentença de mérito art. 487"
@@ -15,10 +15,15 @@ triggers:
   - "dever de fundamentação art. 489 §1º"
   - "conceito de sentença art. 203 §1º"
   - "julgamento de procedência ou improcedência"
-description: "Sentença cível sob o CPC/15 (arts. 203 §1º, 485, 487, 489, 491, 496):\nfundamentação real do art. 489 §1º; congruência (arts. 141, 492);\nliquidez sobre pedido líquido (art. 491); honorários art. 85 (Tema 1.076\nSTJ veda equidade em causa de valor elevado; §§ 6º-A e 8º-A da Lei\n14.365/2022); juros e correção pós Lei 14.905/2024 (privado: IPCA mais\ntaxa SELIC menos IPCA) e, contra a Fazenda, regime por período (Temas\n810 STF e 905 STJ; EC 113/2021; EC 136/2025)."
+description: "Usar para redigir ou revisar: Sentença Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Definição (art. 203 §1º)
 

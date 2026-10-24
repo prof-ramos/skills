@@ -5,8 +5,8 @@ title: "Acordo de Não Persecução Cível (ANPC)"
 category: "forma"
 materia: null
 documentType: "acordo-nao-persecucao-civel"
-version: 1
-sourcePath: "lib/skills/official/forma/acordo-nao-persecucao-civel.md"
+version: 2
+sourcePath: "legalbr/forma/acordo-nao-persecucao-civel/SKILL.md"
 triggers:
   - "acordo não persecução cível"
   - "ANPC"
@@ -18,10 +18,15 @@ triggers:
   - "ressarcimento integral e multa civil"
   - "homologação judicial do acordo"
   - "Tema 1.199 STF"
-description: "Acordo de não persecução cível (LIA art. 17-B, Lei 13.964/19 e Lei 14.230/21):\nressarcimento integral, multa e homologação judicial; anuência do ente lesado;\nSTF Tema 1.199; distinção com TAC e ANPP."
+description: "Usar para redigir ou revisar: Acordo de Não Persecução Cível (ANPC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Não Persecução Cível (ANPC)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

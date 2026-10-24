@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/cibercrimes-lei-12737-14155.md"
+sourcePath: "legalbr/materia/penal/cibercrimes-lei-12737-14155/SKILL.md"
 triggers:
   - "cibercrimes"
   - "Lei 12.737/2012"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 15.487 violência sexual digital"
   - "furto eletrônico"
   - "phishing"
-description: "Invasão de dispositivo, furto e estelionato eletrônicos, competência,\nprova digital e cooperação, além da ronda virtual e dos crimes digitais\ncontra crianças alterados pela Lei 15.487/2026."
+description: "Usar para pesquisar ou analisar: Cibercrimes (Lei 12.737/2012 + Lei 14.155/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cibercrimes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.737/2012 (Carolina Dieckmann): CP 154-A
 

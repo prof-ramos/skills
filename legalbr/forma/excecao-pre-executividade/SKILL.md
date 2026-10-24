@@ -5,8 +5,8 @@ title: "Exceção (Objeção) de Pré-Executividade"
 category: "forma"
 materia: null
 documentType: "excecao-pre-executividade"
-version: 1
-sourcePath: "lib/skills/official/forma/excecao-pre-executividade.md"
+version: 2
+sourcePath: "legalbr/forma/excecao-pre-executividade/SKILL.md"
 triggers:
   - "exceção de pré-executividade"
   - "objeção de pré-executividade"
@@ -15,10 +15,15 @@ triggers:
   - "defesa na execução sem garantia do juízo"
   - "prescrição ou nulidade do título executivo"
   - "ilegitimidade passiva sem dilação probatória"
-description: "Exceção (objeção) de pré-executividade: defesa endoprocessual\natípica admitida pela\nSúm. 393 STJ: nos próprios autos, sem garantia, sem prazo e sem\ncustas; requisitos cumulativos de matéria de ordem pública e prova\npré-constituída; matérias típicas (inexequibilidade, prescrição,\nilegitimidade, pagamento, imunidade)."
+description: "Usar para redigir ou revisar: Exceção (Objeção) de Pré-Executividade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exceção (Objeção) de Pré-Executividade
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

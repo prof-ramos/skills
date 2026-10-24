@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "execucao-quantia-certa"
 version: 2
-sourcePath: "lib/skills/official/forma/execucao-quantia-certa.md"
+sourcePath: "legalbr/forma/execucao-quantia-certa/SKILL.md"
 triggers:
   - "execução por quantia certa"
   - "título executivo extrajudicial art. 784"
@@ -15,10 +15,15 @@ triggers:
   - "penhora avaliação e expropriação de bens"
   - "honorários reduzidos pelo pagamento art. 827 §1º"
   - "petição inicial de execução com demonstrativo art. 798"
-description: "Execução por quantia certa contra devedor solvente (CPC 824 a 925):\ninicial com título e demonstrativo do art. 798; citação para pagar\nem 3 dias com honorários do art. 827 §1º (reduzidos à metade no\npagamento); penhora pela ordem do art. 835 e SISBAJUD (854); defesa\npor embargos (914) ou exceção de pré-executividade (Súm. 393 STJ);\nexpropriação por adjudicação, alienação particular ou leilão\neletrônico (876 a 903); prescrição intercorrente (921 §§ 1º a 5º;\nTema 568 STJ); medidas atípicas (Tema 1.137 STJ)."
+description: "Usar para redigir ou revisar: Execução por Quantia Certa (Título Extrajudicial). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução por Quantia Certa (Título Extrajudicial)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e distinções
 

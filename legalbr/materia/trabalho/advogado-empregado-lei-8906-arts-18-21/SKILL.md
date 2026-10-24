@@ -5,8 +5,8 @@ title: "Advogado Empregado (EAOAB arts. 18-21, Lei 14.365/2022 e OJ 403 SBDI-1)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/advogado-empregado-lei-8906-arts-18-21.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/advogado-empregado-lei-8906-arts-18-21/SKILL.md"
 triggers:
   - "advogado empregado"
   - "jornada do advogado empregado"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 102 TST advogado"
   - "isenção técnica do advogado empregado"
   - "adicional de 100% hora extra advogado"
-description: "Regime híbrido do advogado empregado: EAOAB arts. 18-21 (isenção técnica,\nsalário mínimo profissional, jornada com marcos da Lei 14.365/2022, HE a\n100%, noturno das 20h às 5h com 25%), dedicação exclusiva (Regulamento Geral\nart. 12; OJ 403 SBDI-1), honorários de sucumbência (art. 21 com interpretação\nconforme da ADI 1.194 STF) e advogado de banco (Súm. 102, V, TST)."
+description: "Usar para pesquisar ou analisar: Advogado Empregado (EAOAB arts. 18-21, Lei 14.365/2022 e OJ 403 SBDI-1). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Advogado Empregado (Lei 8.906/94, arts. 18 a 21)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

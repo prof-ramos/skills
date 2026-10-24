@@ -5,8 +5,8 @@ title: "RPPS: Organização e Gestão do Regime Próprio (Lei 9.717/98 + EC 103/
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/rpps-lei-9717.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/rpps-lei-9717/SKILL.md"
 triggers:
   - "regime próprio de previdência social"
   - "Lei 9.717/98"
@@ -18,10 +18,15 @@ triggers:
   - "Portaria MTP 1.467"
   - "certificado regularidade previdenciária"
   - "Funpresp"
-description: "RPPS (Lei 9.717/98 + EC 103/2019 + CF 40): regime próprio dos\nservidores efetivos; caráter contributivo + solidário + equilíbrio\nfinanceiro/atuarial; alíquotas mínimas (14%) + extraordinárias;\nvedações (Lei 9.717 art. 5); segregação de massas; Pró-Gestão;\nPortaria MTP 1.467/2022; Funpresp (Lei 12.618)."
+description: "Usar para pesquisar ou analisar: RPPS: Organização e Gestão do Regime Próprio (Lei 9.717/98 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regime Próprio de Previdência Social (RPPS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

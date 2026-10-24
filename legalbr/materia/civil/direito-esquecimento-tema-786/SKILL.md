@@ -5,8 +5,8 @@ title: "Direito ao Esquecimento na Esfera Civil (Tema 786 STF)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/direito-esquecimento-tema-786.md"
+version: 2
+sourcePath: "legalbr/materia/civil/direito-esquecimento-tema-786/SKILL.md"
 triggers:
   - "Tema 786 STF"
   - "direito ao esquecimento"
@@ -16,10 +16,17 @@ triggers:
   - "fatos veridicos preteritos"
   - "desindexacao em mecanismo de busca"
   - "direito ao esquecimento LGPD"
-description: "Tema 786 STF (RE 1.010.606, 11/02/2021): É INCOMPATÍVEL com\na CF o \"direito ao esquecimento\" como matéria autônoma a\nvedar publicação de fatos verídicos pretéritos. Liberdade\nde expressão (CF 5 IV) prevalece. Cabe responsabilização\nex post por abuso (CF 5 X). Distinção: dados pessoais\nprotegidos pela LGPD."
+description: "Usar para pesquisar ou analisar: Direito ao Esquecimento na Esfera Civil (Tema 786 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5263701&numeroProcesso=1075412&numeroTema=995"]
+reviewedAt: "2026-10-21"
+reviewScope: "Tema 995: requisito de culpa grave e busca de contraditório; demais fundamentos pendentes"
 ---
 
 # Direito ao Esquecimento Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 
@@ -66,7 +73,7 @@ description: "Tema 786 STF (RE 1.010.606, 11/02/2021): É INCOMPATÍVEL com\na C
 |---|---|
 | **Tema 786 STF** | Esquecimento incompatível como direito autônomo (tese acima) |
 | **Tema 837 STF** (RE 662.055, j. 11/02/2026) | Tese fixada: campanhas de mobilização social de entidades da sociedade civil, com base em pautas de direitos fundamentais, voltadas a desestimular financiamento/apoio a eventos ou organizações, estão protegidas pela liberdade de expressão; responsabilização civil (inclusive cessação da campanha e retirada de conteúdo) só com **má-fé comprovada**: dolo (conhecimento prévio da falsidade) ou culpa grave (evidente negligência na apuração da veracidade) |
-| **Tema 995 STF** | Empresa jornalística só responde por entrevista em que o entrevistado imputa falsamente crime a terceiro se comprovada **má-fé** (dolo pelo conhecimento prévio da falsidade OU culpa grave na apuração); em transmissão **ao vivo**, exclui-se a responsabilidade por ato exclusivo de terceiro, assegurado o **direito de resposta**; constatada a falsidade, deve haver **remoção** do conteúdo em plataformas digitais |
+| **Tema 995 STF** | Empresa jornalística só responde por entrevista em que o entrevistado imputa falsamente crime a terceiro se comprovada **má-fé** (dolo pelo conhecimento prévio da falsidade OU culpa grave por evidente negligência na apuração e na divulgação sem resposta da pessoa ofendida ou tentativa de ouvi-la); em transmissão **ao vivo**, exclui-se a responsabilidade por ato exclusivo de terceiro, assegurado o **direito de resposta**; constatada a falsidade, deve haver **remoção** do conteúdo em plataformas digitais |
 | **Tema 987 STF** | **Julgado** (ED parcialmente acolhidos em 17/06/2026, com trânsito em julgado): inconstitucionalidade parcial e progressiva do art. 19 do Marco Civil da Internet; enquanto não houver nova lei, provedores respondem nos termos do **art. 21 do MCI** a partir de **notificação extrajudicial** em caso de crime ou ato ilícito, de forma **solidária** com o autor do conteúdo (salvo dúvida razoável sobre a ilicitude após diligência qualificada); crimes contra a honra permanecem sob o art. 19 (sem prejuízo de remoção por notificação); dever de indisponibilização imediata para rol taxativo de crimes graves |
 | **LGPD Lei 13.709/18** | Dados pessoais |
 | **CF 5 IV + IX + X** | Liberdades + intimidade |
@@ -81,3 +88,7 @@ description: "Tema 786 STF (RE 1.010.606, 11/02/2021): É INCOMPATÍVEL com\na C
 - A vítima de crime sujeita-se a regime próprio (proteção da vítima e dados sensíveis), não apenas ao Tema 786;
 - Não tratar o **Tema 837 STF** como pendente: tese fixada em 11/02/2026 (responsabilização por campanha de mobilização social exige má-fé: dolo ou culpa grave);
 - Não tratar o **Tema 987 STF** como pendente: foi julgado, com inconstitucionalidade parcial e progressiva do art. 19 do MCI.
+
+## Conferência pontual do Tema 995
+
+Consulta em 21/10/2026: conferir a tese completa e os ED de 20/03/2025 na [página oficial do STF](https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5263701&numeroProcesso=1075412&numeroTema=995). O ajuste desta seção não valida integralmente as demais teses deste arquivo.

@@ -5,8 +5,8 @@ title: "Direito Digital Civil + Marco Civil + LGPD + Tema 987 STF (Plataformas)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/direito-digital-civil-lgpd-plataformas.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/direito-digital-civil-lgpd-plataformas/SKILL.md"
 triggers:
   - "LGPD"
   - "Lei 13.709/2018"
@@ -18,10 +18,15 @@ triggers:
   - "ANPD"
   - "EC 115/2022"
   - "PL 2.338/2023"
-description: "Direito digital civil sob Marco Civil (Lei 12.965/2014) + LGPD (Lei 13.709/2018)\n+ CF 5 LXXIX (EC 115/2022): responsabilidade de plataformas (Tema 987 STF —\nregime escalonado pós-2024) e art. 19 MCI; princípios, bases legais e direitos\ndos titulares na LGPD; sanções da ANPD; afastamento do direito ao esquecimento\n(Tema 786); responsabilidade objetiva em vazamentos e golpes (Tema 1.110)."
+description: "Usar para pesquisar ou analisar: Direito Digital Civil + Marco Civil + LGPD + Tema 987 STF (Plataformas). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Digital Civil + LGPD + Plataformas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

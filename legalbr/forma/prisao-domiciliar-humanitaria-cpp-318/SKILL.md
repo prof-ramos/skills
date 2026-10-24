@@ -5,8 +5,8 @@ title: "Prisão Domiciliar Humanitária (Idoso, Doença Grave)"
 category: "forma"
 materia: null
 documentType: "prisao-domiciliar"
-version: 1
-sourcePath: "lib/skills/official/forma/prisao-domiciliar-humanitaria-cpp-318.md"
+version: 2
+sourcePath: "legalbr/forma/prisao-domiciliar-humanitaria-cpp-318/SKILL.md"
 triggers:
   - "prisão domiciliar humanitária"
   - "CPP 318"
@@ -16,10 +16,15 @@ triggers:
   - "maior de 80 anos preso"
   - "PCD presa"
   - "substituição da preventiva por domiciliar"
-description: "Prisão domiciliar humanitária (CPP 318 I-III + LEP 117): hipóteses\nTAXATIVAS - maior de 80 anos; doença grave; imprescindível aos\ncuidados de pessoa < 6 anos ou com deficiência; gestante (IV);\nmãe (V); pai único responsável (VI - Lei 13.257); LEP 117 cobre\nexecução; aplicação ampliativa em condições degradantes (ADPF 347 + RE 580.252/Tema 365 STF);\ndoença grave dispensa terminalidade (jurisprudência STJ); art.\n318-A regra obrigatória (mãe + Lei 13.769)."
+description: "Usar para redigir ou revisar: Prisão Domiciliar Humanitária (Idoso, Doença Grave). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão Domiciliar Humanitária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

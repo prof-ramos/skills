@@ -5,8 +5,8 @@ title: "Acordo de Acionistas (LSA art. 118)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/acordo-acionistas.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/acordo-acionistas/SKILL.md"
 triggers:
   - "acordo de acionistas"
   - "LSA 118"
@@ -23,10 +23,15 @@ triggers:
   - "voto em bloco"
   - "controle compartilhado"
   - "shareholders agreement"
-description: "Acordo de acionistas (LSA 118): voto, compra e venda,\npreferência, controle; arquivamento + averbação; execução\nespecífica (§3); presidente desconsidera (§8); tag/drag, RoFR."
+description: "Usar para pesquisar ou analisar: Acordo de Acionistas (LSA art. 118). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Acionistas (LSA art. 118)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

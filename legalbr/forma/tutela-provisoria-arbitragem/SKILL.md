@@ -5,8 +5,8 @@ title: "Tutela Provisória em Arbitragem"
 category: "forma"
 materia: null
 documentType: "tutela-arbitragem"
-version: 1
-sourcePath: "lib/skills/official/forma/tutela-provisoria-arbitragem.md"
+version: 2
+sourcePath: "legalbr/forma/tutela-provisoria-arbitragem/SKILL.md"
 triggers:
   - "tutela arbitragem"
   - "cautelar arbitral"
@@ -18,10 +18,15 @@ triggers:
   - "medida urgência pré-arbitral"
   - "CAM-CCBC árbitro emergência"
   - "CAMARB urgência"
-description: "Tutela cautelar e antecipada em arbitragem (Lei 9.307/96 arts. 22-A\na 22-C, incluídos pela Lei 13.129/15). Antes da instituição: Judiciário\ncompetente, prazo de 30 dias da efetivação para requerer a instituição\nda arbitragem (art. 22-A p.ú.), sob pena de cessação. Após instituição:\nárbitro decide (com revisão da medida judicial). Árbitro de emergência\n(CAM-CCBC RA 44/2020; CAMARB RA 06/2020; CCI; opt-in/opt-out).\nExecução via carta arbitral (art. 22-C + CPC 237 IV)."
+description: "Usar para redigir ou revisar: Tutela Provisória em Arbitragem. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Provisória em Arbitragem
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

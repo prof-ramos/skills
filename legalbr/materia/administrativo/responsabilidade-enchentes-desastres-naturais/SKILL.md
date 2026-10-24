@@ -5,8 +5,8 @@ title: "Responsabilidade do Estado por Enchentes, Deslizamentos e Desastres Natu
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-enchentes-desastres-naturais.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-enchentes-desastres-naturais/SKILL.md"
 triggers:
   - "enchente indenização município"
   - "alagamento omissão limpeza de bueiros"
@@ -18,10 +18,15 @@ triggers:
   - "chuvas excepcionais força maior"
   - "desastre natural responsabilidade civil"
   - "remoção de ocupação em área de risco"
-description: "Responsabilidade do ente por enchentes, alagamentos e deslizamentos: força\nmaior (CC 393) x concausa estatal por omissão específica (drenagem, limpeza\nde galerias, encostas), deveres da Lei 12.608/2012 (mapear e fiscalizar áreas\nde risco, vedar ocupações, remover e reassentar), interdição e moradia\ntemporária, prova técnica do nexo e previsibilidade das chuvas."
+description: "Usar para pesquisar ou analisar: Responsabilidade do Estado por Enchentes, Deslizamentos e Desastres Naturais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade do Estado por Enchentes, Deslizamentos e Desastres Naturais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

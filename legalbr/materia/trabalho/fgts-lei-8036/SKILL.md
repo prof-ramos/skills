@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/fgts-lei-8036.md"
+sourcePath: "legalbr/materia/trabalho/fgts-lei-8036/SKILL.md"
 triggers:
   - "FGTS"
   - "Lei 8.036/1990"
@@ -19,10 +19,15 @@ triggers:
   - "multa 40%"
   - "CEF gestor"
   - "Lei 15.486 crédito FGTS filantrópicas"
-description: "Regime do FGTS: depósitos, remuneração, saques, saque-aniversário,\nprescrição, correção da ADI 5.090 STF e crédito até 2030 para hospitais\nfilantrópicos e entidades sem fins lucrativos participantes do SUS."
+description: "Usar para pesquisar ou analisar: FGTS (Lei 8.036/1990 + ADI 5.090 STF + Lei 13.932/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FGTS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 8.036/1990
 

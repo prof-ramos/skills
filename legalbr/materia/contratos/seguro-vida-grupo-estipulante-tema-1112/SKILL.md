@@ -5,8 +5,8 @@ title: "Seguro de Vida em Grupo e Dever de Informação do Estipulante (Tema 111
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/seguro-vida-grupo-estipulante-tema-1112.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/seguro-vida-grupo-estipulante-tema-1112/SKILL.md"
 triggers:
   - "Tema 1.112 STJ"
   - "REsp 1.874.788"
@@ -22,10 +22,15 @@ triggers:
   - "CC 801"
   - "Res. CNSP 107"
   - "dever de informação seguro coletivo"
-description: "Tema 1112 STJ: em seguro de vida COLETIVO próprio, o dever de\ninformação prévia sobre cláusulas limitativas/restritivas é\nEXCLUSIVO do ESTIPULANTE (representante legal do grupo). Não\nalcança estipulação imprópria nem falso estipulante (que viram\napólices individuais com a seguradora)."
+description: "Usar para pesquisar ou analisar: Seguro de Vida em Grupo e Dever de Informação do Estipulante (Tema 1112 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro de Vida em Grupo (Tema 1112 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1112 STJ)
 

@@ -5,8 +5,8 @@ title: "Tarifas Bancárias e TAC/TEC (Res. CMN 3.919/10, Temas 618 e 958 STJ)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/tarifas-bancarias-res-3919.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/tarifas-bancarias-res-3919/SKILL.md"
 triggers:
   - "tarifas bancárias"
   - "Resolução CMN 3.919"
@@ -22,10 +22,15 @@ triggers:
   - "venda casada"
   - "Súm. 565 STJ"
   - "REsp 1.578.553"
-description: "Tarifas bancárias regidas pela Res. CMN 3.919/10 (segmentação serviços\nessenciais/prioritários/especiais/diferenciados); TAC/TEC vedadas após\n30.04.2008 (Tema 618 + Súm. 565); tarifa de cadastro válida só uma vez\nno início do relacionamento (Súm. 566); avaliação do bem e registro\nadmitidos se prova do serviço (Tema 958); \"serviços de terceiros\" e\ncomissão de correspondente (pós-25.02.2011) abusivos (Tema 958);\nseguro imposto sem liberdade de escolha e pré-gravame pós-25.02.2011\nvedados (Tema 972); devolução em dobro só após 30.03.2021 (EAREsp\n676.608, Corte Especial)."
+description: "Usar para pesquisar ou analisar: Tarifas Bancárias e TAC/TEC (Res. CMN 3.919/10, Temas 618 e 958 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifas Bancárias + TAC/TEC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

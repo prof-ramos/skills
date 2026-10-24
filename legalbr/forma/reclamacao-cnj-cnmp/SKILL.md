@@ -5,8 +5,8 @@ title: "Reclamação Disciplinar ao CNJ e CNMP"
 category: "forma"
 materia: null
 documentType: "reclamacao-cnj-cnmp"
-version: 1
-sourcePath: "lib/skills/official/forma/reclamacao-cnj-cnmp.md"
+version: 2
+sourcePath: "legalbr/forma/reclamacao-cnj-cnmp/SKILL.md"
 triggers:
   - "reclamação CNJ"
   - "reclamação CNMP"
@@ -17,10 +17,15 @@ triggers:
   - "corregedoria CNJ"
   - "PCA CNJ"
   - "avocação CNJ"
-description: "Reclamação ao CNJ (CF 103-B + Lei 11.364/06 + Resoluções CNJ 135/2011\ne 67/2009) e ao CNMP (CF 130-A + LC 75/93 + Resoluções CNMP).\nControle administrativo, financeiro, disciplinar dos juízes e\nmembros do MP. Independente do controle jurisdicional. Procedimentos:\nProcedimento de Controle Administrativo (PCA), Pedido de Providências\n(PP), Avocação, Reclamação Disciplinar. Sanções: advertência,\ncensura, remoção, aposentadoria compulsória, demissão (não pode atingir\nvitaliciedade, que exige sentença judicial). Veículo importante quando\nesgotados recursos judiciais ou diante de irregularidade administrativa."
+description: "Usar para redigir ou revisar: Reclamação Disciplinar ao CNJ e CNMP. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reclamação Disciplinar ao CNJ e CNMP
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

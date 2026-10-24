@@ -5,8 +5,8 @@ title: "Preços de Transferência (Lei 14.596/2023 + OECD Guidelines)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/precos-transferencia-lei-14596.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/precos-transferencia-lei-14596/SKILL.md"
 triggers:
   - "preços de transferência"
   - "transfer pricing"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 9.430/96 transfer"
   - "operações vinculadas"
   - "paraíso fiscal"
-description: "Preços de transferência Lei 14.596/2023 + Decreto 11.835/23 +\nIN RFB 2.161/23: adota integralmente o PADRÃO OECD (Princípio\nArm's Length); aplicação obrigatória 2024; opcional 2023;\nmétodos CUP/CPL/RPL/TNMM/PSM; comparáveis; análise funcional;\najustes primário/correspondente; sanções; documentação local\nfile/master file/CBC report; paraísos fiscais sujeitos."
+description: "Usar para pesquisar ou analisar: Preços de Transferência (Lei 14.596/2023 + OECD Guidelines). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Preços de Transferência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

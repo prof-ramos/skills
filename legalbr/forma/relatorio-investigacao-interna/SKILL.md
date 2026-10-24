@@ -5,8 +5,8 @@ title: "Relatório de Investigação Interna"
 category: "forma"
 materia: null
 documentType: "relatorio-investigacao-interna"
-version: 1
-sourcePath: "lib/skills/official/forma/relatorio-investigacao-interna.md"
+version: 2
+sourcePath: "legalbr/forma/relatorio-investigacao-interna/SKILL.md"
 triggers:
   - "investigação interna"
   - "relatório de investigação"
@@ -14,10 +14,15 @@ triggers:
   - "sindicância corporativa"
   - "whistleblowing"
   - "canal de denúncia"
-description: "Relatório de investigação interna: documenta apuração de denúncia,\nirregularidade ou ato lesivo. Pilar do programa de integridade\n(Lei 12.846/13 + Dec. 11.129/22 art. 56 X). EAOAB art. 7º II\n(privilege), Lei 13.608/18 art. 4º-C (não retaliação, incluído pela\nLei 13.964/19), LGPD (Lei 13.709 arts. 7-11). Conexão com leniência,\nTAC e fato relevante."
+description: "Usar para redigir ou revisar: Relatório de Investigação Interna. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Relatório de Investigação Interna
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Objetivo
 

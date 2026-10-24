@@ -5,8 +5,8 @@ title: "Sanções Internacionais e Controle de Exportação"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/sanctions-screening-ofac-exportacao.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/sanctions-screening-ofac-exportacao/SKILL.md"
 triggers:
   - "OFAC"
   - "sanctions"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 13.810"
   - "sanções ONU"
   - "controle de exportação"
-description: "Compliance de sanções internacionais (OFAC, EU, UN, Lei\n13.810/2019, UK HMT, OFSI) e controle de exportação (BR Lei   9.112/95, dual-use, regime ICP, ITAR/EAR USA, EU Regulation\n2021/821), sanctions screening multi-listas, due diligence\npor jurisdição (Rússia, Irã, Coreia do Norte, Cuba, Síria,\nVenezuela), secondary sanctions (extraterritoriais) e crypto\nsanctions (OFAC SDN com endereços crypto)."
+description: "Usar para pesquisar ou analisar: Sanções Internacionais e Controle de Exportação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sanções e Controle de Exportação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Listas restritivas
 

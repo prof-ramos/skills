@@ -5,8 +5,8 @@ title: "Cláusula Penal e Arras (CC 408-420)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/clausula-penal-arras-cc-408.md"
+version: 2
+sourcePath: "legalbr/materia/civil/clausula-penal-arras-cc-408/SKILL.md"
 triggers:
   - "clausula penal"
   - "CC 408"
@@ -22,10 +22,15 @@ triggers:
   - "arras confirmatorias"
   - "arras penitenciais"
   - "Tema 938 STJ"
-description: "Cláusula penal e arras (CC 408-420): cláusula penal compensatória\n(CC 410) × moratória (CC 411); arras confirmatórias (CC 417) ×\npenitenciais (CC 420); redução equitativa (CC 413); cumulação\ncom perdas e danos; Lei 13.786/2018; STJ Tema 938 (corretagem)."
+description: "Usar para pesquisar ou analisar: Cláusula Penal e Arras (CC 408-420). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cláusula Penal e Arras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 408, conceito
 

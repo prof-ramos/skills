@@ -5,8 +5,8 @@ title: "Súmula Vinculante 46, Crimes de Responsabilidade (Competência Privativ
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-46-crimes-responsabilidade-uniao.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-46-crimes-responsabilidade-uniao/SKILL.md"
 triggers:
   - "SV 46"
   - "Súmula Vinculante 46"
@@ -18,10 +18,15 @@ triggers:
   - "Súmula 722 STF"
   - "ADI 3.466"
   - "ADI 1.628"
-description: "SV 46 STF (09/04/2015): \"A definição dos crimes de\nresponsabilidade e o estabelecimento das respectivas normas\nde processo e julgamento são da competência legislativa\nprivativa da União.\" Conversão da Súmula 722. Bloqueia leis\nestaduais e regimentos sobre tipificação ou rito; reservam-se\nà União, Lei 1.079/1950 (chefes do Executivo e Ministros) e\nDL 201/1967 (prefeitos)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 46, Crimes de Responsabilidade (Competência Privativa da União). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 46, Crimes de Responsabilidade (Competência Privativa da União)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

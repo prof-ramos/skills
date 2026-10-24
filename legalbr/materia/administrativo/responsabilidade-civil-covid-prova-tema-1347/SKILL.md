@@ -5,8 +5,8 @@ title: "Responsabilidade por Adiamento de Prova de Concurso na Pandemia"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/responsabilidade-civil-covid-prova-tema-1347.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-civil-covid-prova-tema-1347/SKILL.md"
 triggers:
   - "Tema 1.347 STF"
   - "responsabilidade civil concurso pandemia"
@@ -17,10 +17,15 @@ triggers:
   - "dano moral concurso"
   - "pandemia COVID prova"
   - "cancelamento de prova por fraude"
-description: "Tema 1.347 STF (RE 1.455.038): o adiamento de exame de concurso\npúblico por motivo de biossegurança relacionado à pandemia do\nCOVID-19 não impõe ao Estado o dever de indenizar. Distinções:\nTema 512 STF (responsabilidade subsidiária por danos materiais\nquando exames são cancelados por indícios de fraude), Tema 973\nSTF (remarcação do teste físico de candidata grávida é\nconstitucional) e Tema 335 STF (sem direito a segunda chamada\nem teste de aptidão física, salvo previsão editalícia)."
+description: "Usar para pesquisar ou analisar: Responsabilidade por Adiamento de Prova de Concurso na Pandemia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil + Adiamento de Concurso (Pandemia)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

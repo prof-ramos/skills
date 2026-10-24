@@ -5,8 +5,8 @@ title: "Conversão de Tempo Especial do Servidor (Tema 942 STF + RE 1.014.286)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/conversao-tempo-especial-servidor-tema-942.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/conversao-tempo-especial-servidor-tema-942/SKILL.md"
 triggers:
   - "Tema 942"
   - "RE 1.014.286"
@@ -16,10 +16,15 @@ triggers:
   - "tempo especial até EC 103"
   - "art. 40 §4 III CF"
   - "contagem recíproca"
-description: "Tema 942 STF (RE 1.014.286, Min. Luiz Fux, 31/08/2020): até a\nEC 103/2019 (13/11/2019) o servidor com tempo em condições\nespeciais tem direito à conversão em comum (fator 1,4 H / 1,2 M),\naplicando-se as normas da Lei 8.213/91 enquanto não sobrevier LC\ndo ente. Após 13/11/2019: conversão depende de LC do ente. SV 33\nreforça o direito à aposentadoria especial do servidor."
+description: "Usar para pesquisar ou analisar: Conversão de Tempo Especial do Servidor (Tema 942 STF + RE 1.014.286). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conversão de Tempo Especial do Servidor (Tema 942 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

@@ -5,8 +5,8 @@ title: "Revogação e Anulação de Licitação, Efeitos e Indenização (Lei 14
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/revogacao-anulacao-licitacao-efeitos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/revogacao-anulacao-licitacao-efeitos/SKILL.md"
 triggers:
   - "revogação de licitação"
   - "anulação de licitação"
@@ -20,10 +20,15 @@ triggers:
   - "preterição da ordem de classificação"
   - "despesas de participação no certame"
   - "licitante vencedor não contratado"
-description: "Desfazimento do certame (Lei 14.133 art. 71 + Súm. 473 STF): revogação por\nconveniência fundada em fato superveniente comprovado x anulação por\nilegalidade insanável; prévia manifestação dos interessados (§ 3º);\nadjudicatário tem expectativa de direito, vedada a preterição; indenização\nde despesas e controle judicial dos motivos."
+description: "Usar para pesquisar ou analisar: Revogação e Anulação de Licitação, Efeitos e Indenização (Lei 14.133 art. 71 + Súm. 473 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revogação e Anulação de Licitação: Efeitos e Indenização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

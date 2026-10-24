@@ -5,8 +5,8 @@ title: "ADPF 828: Suspensão de Despejos Coletivos na Pandemia"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/adpf-828-despejos-pandemia.md"
+version: 2
+sourcePath: "legalbr/materia/civil/adpf-828-despejos-pandemia/SKILL.md"
 triggers:
   - "ADPF 828"
   - "despejos coletivos"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 14.216/2021"
   - "Res. CNJ 510/2023"
   - "despejos sem violência"
-description: "ADPF 828 (Barroso, cautelares 2021-2022 + regime de transição\nreferendado pelo Plenário em 11/2022): suspendeu despejos\ncoletivos na pandemia e fixou protocolo: mediação prévia,\ndefensoria, comunicação ao Estado, alternativas (CF 6 +\nRes. CNJ 510/2023)."
+description: "Usar para pesquisar ou analisar: ADPF 828: Suspensão de Despejos Coletivos na Pandemia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 828: Despejos Coletivos na Pandemia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

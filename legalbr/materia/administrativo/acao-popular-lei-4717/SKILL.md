@@ -5,8 +5,8 @@ title: "Ação Popular (Lei 4.717/1965 + CF 5 LXXIII)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/acao-popular-lei-4717.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acao-popular-lei-4717/SKILL.md"
 triggers:
   - "ação popular"
   - "Lei 4.717/1965"
@@ -19,10 +19,15 @@ triggers:
   - "vícios do ato"
   - "prescrição 5 anos popular"
   - "Súmula 365 STF"
-description: "Ação popular (Lei 4.717/1965 + CF 5 LXXIII): legitimidade do\ncidadão (eleitor em pleno gozo); proteção de patrimônio público\n+ moralidade + meio ambiente + patrimônio histórico-cultural;\nvícios do ato (incompetência + vício forma + ilegalidade objeto\n+ inexistência motivos + desvio finalidade); prescrição 5 anos\n(art. 21); efeito erga omnes; isenção de custas (salvo má-fé)."
+description: "Usar para pesquisar ou analisar: Ação Popular (Lei 4.717/1965 + CF 5 LXXIII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Popular (Lei 4.717/1965)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Denúncia + Resposta à Acusação + AIJ (CPP 395-405)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/denuncia-resposta-aij-cpp-395.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/denuncia-resposta-aij-cpp-395/SKILL.md"
 triggers:
   - "denúncia genérica"
   - "inépcia da denúncia"
@@ -20,10 +20,15 @@ triggers:
   - "CPP 402"
   - "interrogatório ao final"
   - "juiz das garantias"
-description: "Denúncia + resposta à acusação + AIJ sob CPP 395-405: requisitos\ndo CPP 41 (vedada denúncia genérica); rejeição liminar (395,\ninepta, sem pressuposto, sem justa causa); recebimento e citação\n(396); RA em 10 dias (396-A); absolvição sumária (397, excludentes\n+ atipicidade + extinção); AIJ concentrada (400-403, interrogatório\nao final pela Lei 11.719/2008)."
+description: "Usar para pesquisar ou analisar: Denúncia + Resposta à Acusação + AIJ (CPP 395-405). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denúncia + Resposta à Acusação + AIJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Denúncia (CPP 41)
 

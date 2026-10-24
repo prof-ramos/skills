@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-sentido-estrito"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-sentido-estrito.md"
+sourcePath: "legalbr/forma/recurso-sentido-estrito/SKILL.md"
 triggers:
   - "recurso em sentido estrito"
   - "RSE RESE"
@@ -15,10 +15,15 @@ triggers:
   - "juízo de retratação prazo de 5 dias"
   - "RSE contra rejeição da denúncia ou queixa"
   - "recurso em sentido estrito contra decisão de pronúncia"
-description: "Recurso em sentido estrito sob o CPP (arts. 581-592): rol taxativo\ndo art. 581 com interpretação extensiva; prazos de 5 dias para\ninterpor e 2 para razões; juízo de retratação obrigatório;\nausência, em regra, de efeito suspensivo; fungibilidade recursal\nem hipóteses de dúvida objetiva."
+description: "Usar para redigir ou revisar: Recurso em Sentido Estrito (RSE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso em Sentido Estrito (RSE)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e natureza
 

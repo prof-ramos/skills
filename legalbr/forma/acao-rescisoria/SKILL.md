@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "acao-rescisoria"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-rescisoria.md"
+sourcePath: "legalbr/forma/acao-rescisoria/SKILL.md"
 triggers:
   - "ação rescisória"
   - "arts. 966 a 975 CPC"
@@ -16,10 +16,15 @@ triggers:
   - "prova nova art. 966 VII"
   - "prazo decadencial bienal art. 975"
   - "depósito prévio de 5%"
-description: "Ação rescisória sob os arts. 966-975 do CPC: desconstituição da\ncoisa julgada material; hipóteses taxativas do art. 966; prazo\ndecadencial bienal do art. 975 com exceções; depósito prévio de\n5% e competência originária dos tribunais; pedido bifronte em\njuízo rescindente e rescisório."
+description: "Usar para redigir ou revisar: Ação Rescisória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Rescisória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 966)
 

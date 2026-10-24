@@ -6,7 +6,7 @@ category: "materia"
 materia: "digital-dados"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/digital-dados/direito-digital-cibercrimes.md"
+sourcePath: "legalbr/materia/digital-dados/direito-digital-cibercrimes/SKILL.md"
 triggers:
   - "cibercrimes"
   - "Lei 14.155/2021"
@@ -19,10 +19,15 @@ triggers:
   - "conteúdo íntimo sintético"
   - "Lei 15.123"
   - "Lei 15.487 deepfake infantil"
-description: "Crimes digitais, honra na internet, invasão, fraudes, perseguição e\nconteúdo íntimo sintético, com prova digital e regras da Lei 15.487/2026\nsobre violência sexual infantil, IA, ronda virtual e anonimização."
+description: "Usar para pesquisar ou analisar: Direito Digital + Cibercrimes + Crimes contra Honra na Internet. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Digital + Cibercrimes + Crimes contra Honra
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

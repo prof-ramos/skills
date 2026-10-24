@@ -5,8 +5,8 @@ title: "Súmula Vinculante 59 - Tráfico Privilegiado, Regime Aberto e PRD"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/sumula-vinculante-59-trafico-privilegiado-regime-prd.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sumula-vinculante-59-trafico-privilegiado-regime-prd/SKILL.md"
 triggers:
   - "SV 59"
   - "Súmula Vinculante 59"
@@ -17,10 +17,15 @@ triggers:
   - "HC 118.533"
   - "vetores negativos primeira fase"
   - "dosimetria tráfico minorante"
-description: "SV 59 STF (04/10/2023): \"É impositiva a fixação do regime aberto\ne a substituição da PPL por PRD quando reconhecida a figura do\ntráfico privilegiado (art. 33 §4 Lei 11.343/06) e ausentes\nvetores negativos na primeira fase.\""
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 59 - Tráfico Privilegiado, Regime Aberto e PRD. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 59 - Tráfico Privilegiado, Regime Aberto e PRD
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

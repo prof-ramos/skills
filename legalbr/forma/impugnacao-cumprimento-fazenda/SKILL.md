@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "impugnacao-cumprimento-fazenda"
 version: 2
-sourcePath: "lib/skills/official/forma/impugnacao-cumprimento-fazenda.md"
+sourcePath: "legalbr/forma/impugnacao-cumprimento-fazenda/SKILL.md"
 triggers:
   - "impugnação cumprimento sentença fazenda"
   - "CPC 535"
@@ -16,10 +16,15 @@ triggers:
   - "prerrogativa fazenda execução"
   - "impugnação da Fazenda ao cumprimento de sentença"
   - "defesa da Fazenda Pública no cumprimento por quantia certa"
-description: "Impugnação ao cumprimento de sentença contra Fazenda (CPC 534-535):\n30 dias úteis em dobro; sem penhora prévia; matérias específicas\n(inexigibilidade do título, ilegitimidade, excesso, cumprimento já\nfeito, incompetência, penhora ineficaz); coisa julgada com base em\nnorma declarada inconstitucional (§5); precatório x RPV (CF 100);\nTema 1.190 STJ (sem honorários se não impugnado, mesmo em RPV)."
+description: "Usar para redigir ou revisar: Impugnação ao Cumprimento de Sentença contra a Fazenda Pública. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação ao Cumprimento de Sentença contra a Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

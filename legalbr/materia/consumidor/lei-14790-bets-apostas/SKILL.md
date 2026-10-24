@@ -5,8 +5,8 @@ title: "Apostas Esportivas Online (Bets, Lei 14.790/2023 + SPA)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/lei-14790-bets-apostas.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/lei-14790-bets-apostas/SKILL.md"
 triggers:
   - "Lei 14.790"
   - "apostas esportivas online"
@@ -20,10 +20,15 @@ triggers:
   - "publicidade apostas"
   - "dívida de jogo"
   - "CC 814"
-description: "Lei das Bets, **Lei 14.790/2023** (29/12/2023): regulamentou\n**apostas de quota fixa** online + jogos de fortuna. Criou a\n**SPA** (Secretaria de Prêmios e Apostas, Ministério da Fazenda),\nreguladora. Autorização prévia obrigatória + capital social mínimo\n+ identificação biométrica + KYC. **Tributação**: IRPF **15%**\nsobre prêmio líquido > faixa de isenção; **GGR (Gross Gaming\nRevenue)**: 12% para a União. **CPF** + KYC obrigatórios.\nVedações do art. 26 (menores, ligados ao operador, quem influencia\nresultado, ludopatas). **Publicidade restrita**:\nproibida em conteúdo infantil + necessária autorrotulagem.\nAplicação CDC + LGPD. Convergência com **IS** da reforma tributária.\nRegime civil do jogo (CC 814-817): dívida de jogo não autorizado\ninexigível e irrepetível; aposta autorizada é legalmente permitida\n(CC 814 §2)."
+description: "Usar para pesquisar ou analisar: Apostas Esportivas Online (Bets, Lei 14.790/2023 + SPA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.790/2023: Apostas Esportivas (Bets)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

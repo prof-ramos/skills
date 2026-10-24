@@ -5,8 +5,8 @@ title: "VPNI / Quintos / Décimos do Servidor Federal (Lei 8.112 + MP 2.225 + RE
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/vpni-quintos-decimos-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/vpni-quintos-decimos-servidor/SKILL.md"
 triggers:
   - "VPNI"
   - "incorporação de quintos"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 503 STJ"
   - "servidor federal cargo comissionado"
   - "incorporação remuneração"
-description: "VPNI/quintos/décimos por exercício de cargo comissionado (Lei 8.112/90\n+ Lei 8.911/94 + Lei 9.624/98 + MP 2.225-45/2001): STF RE 638.115 +\nTema 503 STJ (readequado em 02/2021): NÃO há direito à incorporação\nentre 02/04/1998 (Lei 9.624) e 04/09/2001 (MP 2.225); modulação preserva\nservidores com decisão judicial transitada; cabe atualização da VPNI\npara reajustes gerais; aposentados com paridade mantêm; prescrição\nquinquenal das parcelas (Súm. 85 STJ)."
+description: "Usar para pesquisar ou analisar: VPNI / Quintos / Décimos do Servidor Federal (Lei 8.112 + MP 2.225 + RE 638.115). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # VPNI / Quintos / Décimos do Servidor Federal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

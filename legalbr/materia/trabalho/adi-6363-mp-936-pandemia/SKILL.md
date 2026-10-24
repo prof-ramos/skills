@@ -5,8 +5,8 @@ title: "ADI 6363: MP 936/2020 e Acordo Individual em Pandemia (Lei 14.020)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/adi-6363-mp-936-pandemia.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/adi-6363-mp-936-pandemia/SKILL.md"
 triggers:
   - "ADI 6363"
   - "MP 936"
@@ -16,10 +16,15 @@ triggers:
   - "redução jornada salário"
   - "suspensão contrato pandemia"
   - "CF 7 VI"
-description: "ADI 6363 (Rel. Min. Ricardo Lewandowski; Plenário 17/04/2020):\npor maioria, o Pleno NÃO referendou a liminar e validou o\nACORDO INDIVIDUAL para redução de jornada/salário e suspensão\ndo contrato durante a pandemia (MP 936/2020 → Lei 14.020/2020),\nINDEPENDENTEMENTE de anuência sindical. Tese: emergência\nsanitária autoriza exceção temporária ao CF 7 VI; a comunicação\nao sindicato em 10 dias é dever legal de informação (Lei 14.020),\nnão condição de validade; preservação do emprego como vetor."
+description: "Usar para pesquisar ou analisar: ADI 6363: MP 936/2020 e Acordo Individual em Pandemia (Lei 14.020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 6363: MP 936 / Lei 14.020
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

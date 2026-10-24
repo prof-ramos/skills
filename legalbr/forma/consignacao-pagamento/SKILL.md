@@ -5,8 +5,8 @@ title: "Ação de Consignação em Pagamento"
 category: "forma"
 materia: null
 documentType: "consignacao-pagamento"
-version: 1
-sourcePath: "lib/skills/official/forma/consignacao-pagamento.md"
+version: 2
+sourcePath: "legalbr/forma/consignacao-pagamento/SKILL.md"
 triggers:
   - "ação de consignação em pagamento"
   - "arts. 539 a 549 CPC"
@@ -16,10 +16,15 @@ triggers:
   - "dúvida sobre quem deva legitimamente receber"
   - "consignação extrajudicial em banco art. 539 §1º"
   - "consignação de aluguéis Lei 8.245/91 art. 67"
-description: "Ação de consignação em pagamento sob os arts. 539-549 do CPC e\n334-345 do CC: hipóteses materiais de recusa, dúvida ou litígio\nsobre o credor; modalidades extrajudicial bancária e judicial com\ndepósito da prestação; defesa restrita às matérias do art. 544 com\nônus de indicação do valor correto em caso de insuficiência;\nregimes especiais em locação e tributário (CTN 164)."
+description: "Usar para redigir ou revisar: Ação de Consignação em Pagamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Consignação em Pagamento
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-cade-pa"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-cade-pa.md"
+sourcePath: "legalbr/forma/defesa-cade-pa/SKILL.md"
 triggers:
   - "defesa CADE"
   - "processo administrativo CADE"
@@ -18,10 +18,15 @@ triggers:
   - "conduta anticoncorrencial"
   - "gun jumping"
   - "defesa após nota técnica CADE"
-description: "Defesa em processo administrativo sancionador no CADE (Lei 12.529/11\n+ RICADE Res. 1/2012, atual. Res. 22/2019; Res. 21/2018: leniência;\nRes. 5/2013 + 30/2024: TCC). Rito bifásico (Superintendência Geral +\nTribunal), 30 dias para defesa após nota técnica, alegações finais 15\ndias após instrução, sustentação oral no Tribunal. Dosimetria conforme\nGuia 2020 (faturamento bruto x potencial lesivo x dolo x atenuantes).\nTCC e leniência como saídas alternativas."
+description: "Usar para redigir ou revisar: Defesa em Processo Administrativo Sancionador (CADE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Processo Administrativo Sancionador (CADE)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

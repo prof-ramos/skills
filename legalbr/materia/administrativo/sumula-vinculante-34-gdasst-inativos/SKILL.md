@@ -5,8 +5,8 @@ title: "Súmula Vinculante 34, GDASST aos Inativos (60 pontos)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-34-gdasst-inativos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-34-gdasst-inativos/SKILL.md"
 triggers:
   - "Súmula Vinculante 34"
   - "SV 34"
@@ -19,10 +19,15 @@ triggers:
   - "60 pontos"
   - "gratificação genérica inativos"
   - "RE 631.389"
-description: "SV 34 STF (aprovada 16/10/2014): \"A GDASST (Lei 10.483/2002) deve ser estendida\naos inativos no valor correspondente a 60 pontos desde a MP 198/2004\n(Lei 10.971/2004), quando façam jus à paridade constitucional\".\nGratificação pro labore faciendo sem regulamentação assume caráter\ngenérico e segue aos inativos com paridade (pré-EC 41/2003)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 34, GDASST aos Inativos (60 pontos). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 34, GDASST aos Inativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Prisão Temporária (Lei 7.960/1989 + Lei 13.964/2019)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/prisao-temporaria-lei-7960.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prisao-temporaria-lei-7960/SKILL.md"
 triggers:
   - "prisão temporária"
   - "Lei 7.960/1989"
@@ -18,10 +18,15 @@ triggers:
   - "5 dias comum"
   - "audiência de custódia"
   - "ADI 3.360 STF"
-description: "Prisão temporária sob Lei 7.960/1989 + Lei 13.964/2019: pré-processual\npara investigação; 5+5 dias (comuns) ou 30+30 (hediondos); STF\nADIs 3.360 + 4.109 (2022): cinco condições cumulativas\n(imprescindibilidade + fundadas razões em crime do rol taxativo +\nfatos novos/contemporâneos + adequação + insuficiência de\ncautelares diversas); decretação só por juiz (não de ofício\npós-Anticrime); audiência de custódia 24h (Res. CNJ 213); soltura\nimediata pós-prazo (art. 2 §7) salvo conversão fundamentada em\npreventiva."
+description: "Usar para pesquisar ou analisar: Prisão Temporária (Lei 7.960/1989 + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão Temporária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

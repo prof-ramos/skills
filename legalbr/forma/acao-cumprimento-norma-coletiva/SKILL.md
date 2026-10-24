@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "acao-cumprimento-norma-coletiva"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-cumprimento-norma-coletiva.md"
+sourcePath: "legalbr/forma/acao-cumprimento-norma-coletiva/SKILL.md"
 triggers:
   - "ação de cumprimento"
   - "descumprimento de norma coletiva"
@@ -16,10 +16,15 @@ triggers:
   - "contribuição assistencial Tema 935 STF"
   - "cumprimento de convenção coletiva de trabalho CCT"
   - "cumprimento de acordo coletivo de trabalho ACT"
-description: "Ação de cumprimento (CLT 872 p.ú.): sindicato em substituição processual\n(CF 8º III) exige cláusula de CCT/ACT vigente (Súm. 286 TST); prescrição\nquinquenal (CF 7º XXIX) e, para decisão normativa, fluência do trânsito\nem julgado (Súm. 350 TST); STF Tema 823."
+description: "Usar para redigir ou revisar: Ação de Cumprimento de Norma Coletiva. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Cumprimento de Norma Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e finalidade
 

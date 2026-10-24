@@ -5,8 +5,8 @@ title: "Estupro e Crimes Sexuais (CP 213-218 + assédio 216-A + Leis 12.015, 13.
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/estupro-crimes-sexuais.md"
+version: 2
+sourcePath: "legalbr/materia/penal/estupro-crimes-sexuais/SKILL.md"
 triggers:
   - "estupro"
   - "estupro de vulnerável"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 13.718/2018"
   - "Lei Mariana Ferrer"
   - "Lei 15.353/2026"
-description: "Crimes sexuais sob CP 213-218 + Leis 12.015/09, 13.718/18, 14.245/21,\n15.280/25 e 15.353/26: estupro (213) e estupro de vulnerável (217-A);\nimportunação sexual (215-A) sem hierarquia; assédio sexual (216-A)\nexige hierarquia laboral; divulgação não consentida (218-C);\npresunção absoluta de vulnerabilidade; ação penal pública\nincondicionada (CP 225); hediondez e progressão diferenciada."
+description: "Usar para pesquisar ou analisar: Estupro e Crimes Sexuais (CP 213-218 + assédio 216-A + Leis 12.015, 13.718, 14.245, 15.280, 15.353). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estupro e Crimes Sexuais (CP 213-218)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Acordo / Transação"
 category: "forma"
 materia: null
 documentType: "acordo-transacao"
-version: 1
-sourcePath: "lib/skills/official/forma/acordo-transacao.md"
+version: 2
+sourcePath: "legalbr/forma/acordo-transacao/SKILL.md"
 triggers:
   - "acordo extrajudicial"
   - "termo de transação"
@@ -16,10 +16,15 @@ triggers:
   - "instrumento particular com 2 testemunhas CPC 784 III"
   - "poderes específicos para transigir CPC 105"
   - "homologação de acordo entre as partes"
-description: "Transação sob o CC 840 a 850 e o CPC: negócio bilateral sobre direitos\npatrimoniais com concessões recíprocas; homologação judicial com\nresolução de mérito (art. 487 III \"b\"), gerando título executivo\njudicial (CPC 515 II); o instrumento extrajudicial com 2 testemunhas\né título do art. 784 III; exige poderes específicos do procurador\n(CPC 105)."
+description: "Usar para redigir ou revisar: Acordo / Transação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo / Transação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

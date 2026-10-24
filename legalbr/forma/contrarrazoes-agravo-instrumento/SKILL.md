@@ -5,8 +5,8 @@ title: "Contrarrazões de Agravo de Instrumento e de Agravo Interno (Contraminut
 category: "forma"
 materia: null
 documentType: "contrarrazoes-agravo-instrumento"
-version: 1
-sourcePath: "lib/skills/official/forma/contrarrazoes-agravo-instrumento.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-agravo-instrumento/SKILL.md"
 triggers:
   - "contrarrazões de agravo de instrumento"
   - "contraminuta de agravo de instrumento"
@@ -18,10 +18,15 @@ triggers:
   - "taxatividade mitigada como óbice"
   - "multa do agravo interno Tema 1.201"
   - "manutenção da decisão agravada"
-description: "Contraminuta do agravado ao agravo de instrumento (CPC 1.019 II, 15\ndias) e ao agravo interno (CPC 1.021 §2): preliminares de não\ncabimento (rol do 1.015 sem urgência do Tema 988), dialeticidade\n(932 III + Súm. 182 STJ), ônus do 1.018 §3 nos autos físicos,\nimpugnação ao efeito suspensivo (1.019 I + 995 p.ú.), defesa da\nmonocrática com Súm. 568 STJ e pedido de multa do 1.021 §4 nos\ncontornos do Tema 1.201 STJ."
+description: "Usar para redigir ou revisar: Contrarrazões de Agravo de Instrumento e de Agravo Interno (Contraminuta). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões de Agravo de Instrumento e de Agravo Interno
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e prazos
 

@@ -5,8 +5,8 @@ title: "Negócio Jurídico + Vícios + Boa-fé + Função Social + Lesão + Esta
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/negocio-juridico-vicios.md"
+version: 2
+sourcePath: "legalbr/materia/civil/negocio-juridico-vicios/SKILL.md"
 triggers:
   - "negócio jurídico"
   - "CC 104"
@@ -21,10 +21,15 @@ triggers:
   - "anulabilidade CC 171"
   - "onerosidade excessiva CC 478"
   - "Lei 13.874/2019"
-description: "Negócio jurídico sob o CC/02 (arts. 104-184): escada ponteana (existência,\nvalidade e eficácia); invalidade (nulidade art. 166 e anulabilidade art. 171);\nvícios de consentimento (erro, dolo, coação, estado de perigo, lesão) e vícios\nsociais (fraude contra credores, simulação); boa-fé objetiva e função social\n(arts. 421-422) e revisão por onerosidade excessiva (arts. 478-480 e CDC 6 V)."
+description: "Usar para pesquisar ou analisar: Negócio Jurídico + Vícios + Boa-fé + Função Social + Lesão + Estado de Perigo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Negócio Jurídico + Vícios + Boa-fé + Função Social
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

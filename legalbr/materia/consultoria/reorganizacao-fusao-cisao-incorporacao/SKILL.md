@@ -5,8 +5,8 @@ title: "Reorganização Societária (Fusão, Cisão, Incorporação, Transforma�
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/reorganizacao-fusao-cisao-incorporacao.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/reorganizacao-fusao-cisao-incorporacao/SKILL.md"
 triggers:
   - "reorganização societária"
   - "fusão de sociedades"
@@ -16,10 +16,15 @@ triggers:
   - "drop down"
   - "reorganização corporativa"
   - "LSA 220 transformação"
-description: "Reorganização societária sob LSA 220-234 e CC 1.113-1.122:\nfusão, cisão (total + parcial), incorporação, transformação e\nincorporação de ações (LSA 252); protocolo + justificação,\nlaudos de avaliação (LSA 8 + 256 + 264), aprovação assemblear,\ndireito de retirada (LSA 137), sucessão (CTN 132 + CLT 448),\nCADE Resolução 33, tratamento contábil-fiscal (Lei 12.973) e\ndrop-down (versão de ativos a NewCo)."
+description: "Usar para pesquisar ou analisar: Reorganização Societária (Fusão, Cisão, Incorporação, Transformação). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reorganização Societária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Operações (LSA 220-234 + CC 1.113-1.122)
 

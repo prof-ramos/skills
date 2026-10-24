@@ -5,8 +5,8 @@ title: "Embargos de Declaração"
 category: "forma"
 materia: null
 documentType: "embargos-declaracao"
-version: 3
-sourcePath: "lib/skills/official/forma/embargos-declaracao.md"
+version: 2
+sourcePath: "legalbr/forma/embargos-declaracao/SKILL.md"
 triggers:
   - "embargos de declaração"
   - "omissão no julgado"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 1.022 vícios da decisão"
   - "embargos de declaração criminais"
   - "CPP 619 dois dias"
-description: "Embargos de declaração (arts. 1.022 a 1.026): apontam obscuridade,\ncontradição, omissão (inclui art. 489 §1º, conforme art. 1.022 p.ú.) ou\nerro material; prazo de 5 dias; interrompem prazo de TODOS os recursos\ncabíveis para AMBAS as partes (art. 1.026); efeito modificativo\nprecedido de contraditório (art. 1.023 §2º); prequestionamento ficto\npelo art. 1.025; multas progressivas (§§ 2º, 3º, 4º) para protelatórios.\nRegime criminal: CPP 382 e 619-620 (prazo de 2 dias corridos; inclui\nambiguidade; JECrim 5 dias, Lei 9.099 art. 83)."
+description: "Usar para redigir ou revisar: Embargos de Declaração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Declaração
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 1.022)
 

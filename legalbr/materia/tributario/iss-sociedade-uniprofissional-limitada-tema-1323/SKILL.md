@@ -5,8 +5,8 @@ title: "ISS Fixo + Sociedade Uniprofissional Limitada (Tema 1.323 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iss-sociedade-uniprofissional-limitada-tema-1323.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iss-sociedade-uniprofissional-limitada-tema-1323/SKILL.md"
 triggers:
   - "Tema 1.323 STJ"
   - "ISS fixo uniprofissional"
@@ -15,10 +15,15 @@ triggers:
   - "alíquota fixa ISS profissionais"
   - "prestação pessoal serviço"
   - "responsabilidade técnica individual"
-description: "Tema 1.323 STJ (1ª Seção, 22/10/2025): a forma societária de\nresponsabilidade limitada NÃO impede o regime do ISS por alíquota\nfixa do DL 406/68 art. 9 §1 e §3. Requisitos CUMULATIVOS:\n(a) prestação PESSOAL dos serviços pelos sócios; (b) assunção\nde responsabilidade técnica individual; (c) inexistência de\nestrutura empresarial que descaracterize o caráter personalíssimo."
+description: "Usar para pesquisar ou analisar: ISS Fixo + Sociedade Uniprofissional Limitada (Tema 1.323 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ISS Fixo + Sociedade Uniprofissional Limitada (Tema 1.323 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.323 STJ, 1ª Seção, 22/10/2025)
 

@@ -5,8 +5,8 @@ title: "Notificação Extrajudicial Consumerista"
 category: "forma"
 materia: null
 documentType: "notificacao-extrajudicial-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/notificacao-extrajudicial-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/notificacao-extrajudicial-consumerista/SKILL.md"
 triggers:
   - "notificação extrajudicial consumerista"
   - "reclamação prévia ao fornecedor"
@@ -15,10 +15,15 @@ triggers:
   - "exigir reparo troca ou abatimento do preço"
   - "constituição em mora do fornecedor"
   - "notificação por carta com AR ou cartório"
-description: "Notificação extrajudicial consumerista (CC 397; CDC 18 §1º e 26 §2º I):\nconstitui em mora, marca o termo inicial do prazo de 30 dias para\nsanar vício, OBSTA decadência, evidencia dano moral pela inércia e\npré-constitui prova. Vias: AR, cartório de títulos e documentos ou\ntabelionato (com fé pública), e-mail, consumidor.gov, Procon e SAC\ncom protocolo."
+description: "Usar para redigir ou revisar: Notificação Extrajudicial Consumerista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Notificação Extrajudicial Consumerista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

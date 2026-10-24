@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "suspensao-seguranca"
 version: 2
-sourcePath: "lib/skills/official/forma/suspensao-seguranca.md"
+sourcePath: "legalbr/forma/suspensao-seguranca/SKILL.md"
 triggers:
   - "suspensão de segurança em mandado de segurança"
   - "art. 15 Lei 12.016/09"
@@ -15,10 +15,15 @@ triggers:
   - "grave lesão à ordem e à economia públicas"
   - "requerimento da pessoa jurídica de direito público"
   - "pedido de suspensão de segurança ao presidente do tribunal"
-description: "Suspensão de segurança sob a Lei 12.016/2009 (art. 15): incidente\natípico de contracautela específico do mandado de segurança;\nlegitimidade da pessoa jurídica e da autoridade coatora (única\nhipótese de legitimidade autônoma da autoridade); requisitos de grave\nlesão à ordem, saúde, segurança ou economia públicas; agravo interno\nem 5 dias; cabimento per saltum."
+description: "Usar para redigir ou revisar: Suspensão de Segurança (MS). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão de Segurança (MS)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

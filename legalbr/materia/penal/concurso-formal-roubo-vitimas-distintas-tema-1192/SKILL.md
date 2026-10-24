@@ -5,8 +5,8 @@ title: "Roubo + Concurso Formal por Vítimas Distintas (Tema 1.192 STJ)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/concurso-formal-roubo-vitimas-distintas-tema-1192.md"
+version: 2
+sourcePath: "legalbr/materia/penal/concurso-formal-roubo-vitimas-distintas-tema-1192/SKILL.md"
 triggers:
   - "Tema 1.192 STJ"
   - "concurso formal roubo"
@@ -14,10 +14,15 @@ triggers:
   - "vítimas diferentes contexto único"
   - "CP 70 concurso formal"
   - "desígnios autônomos roubo"
-description: "Tema 1.192 STJ (3ª Seção, mérito 08/10/2025): roubo praticado mediante\nUMA ÚNICA CONDUTA, em um mesmo contexto fático, sem desígnios\nautônomos, contra patrimônios de DIFERENTES VÍTIMAS, configura\nCONCURSO FORMAL de crimes (CP 70). Aplica-se aumento de 1/6 a\n1/2 sobre a maior pena."
+description: "Usar para pesquisar ou analisar: Roubo + Concurso Formal por Vítimas Distintas (Tema 1.192 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Roubo + Concurso Formal por Vítimas Distintas (Tema 1.192 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.192 STJ, 3ª Seção, mérito 08/10/2025, Min. Og Fernandes)
 

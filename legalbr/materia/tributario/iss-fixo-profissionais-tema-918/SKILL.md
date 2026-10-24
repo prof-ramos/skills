@@ -5,8 +5,8 @@ title: "ISS Fixo de Profissionais Regulamentados (DL 406/68 + Tema 918 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iss-fixo-profissionais-tema-918.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iss-fixo-profissionais-tema-918/SKILL.md"
 triggers:
   - "ISS fixo"
   - "DL 406/68 art. 9 §1 §3"
@@ -16,10 +16,15 @@ triggers:
   - "sociedade uniprofissional"
   - "sociedade simples"
   - "ISS por valor anual"
-description: "ISS fixo profissionais DL 406/68 art. 9 §1 (PF profissionais) +\n§3 (sociedades uniprofissionais): regime ESPECIAL com base\nANUAL/MENSAL fixa por profissional habilitado (não receita); STF\nTema 918 (RE 940.769): inconstitucional lei municipal que crie\nimpeditivos ao regime fixo de sociedades profissionais; Municípios\nNÃO podem revogar/restringir além do DL 406; Súm. 663 STF (recepção\ndos §§1 e 3); Tema 1.323 STJ (limitada uniprofissional); profissões\nregulamentadas (advocacia, medicina, contabilidade, arquitetura,\nengenharia, etc.)."
+description: "Usar para pesquisar ou analisar: ISS Fixo de Profissionais Regulamentados (DL 406/68 + Tema 918 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ISS Fixo de Profissionais Regulamentados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

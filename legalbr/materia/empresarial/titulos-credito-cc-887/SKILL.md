@@ -5,8 +5,8 @@ title: "Títulos de Crédito (CC 887-926 + Lei do Cheque 7.357 + Duplicata 5.474
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/titulos-credito-cc-887.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/titulos-credito-cc-887/SKILL.md"
 triggers:
   - "títulos de crédito"
   - "CC 887"
@@ -21,10 +21,15 @@ triggers:
   - "literalidade"
   - "autonomia cambiária"
   - "abstração"
-description: "Títulos de crédito CC 887-926: 4 princípios (cartularidade +\nliteralidade + autonomia + abstração); CC 898 aval no próprio\ntítulo; CC 897 par. único veda aval parcial (mas LU admite);\nprescrição 3a (CC 206 §3 VIII, salvo lei especial); cheque Lei\n7.357 (apresentação 30/60d + execução 6m); Súm. 503 STJ\n(monitória 5a do dia seguinte); duplicata Lei 5.474 +\n13.775/2018 (escritural)."
+description: "Usar para pesquisar ou analisar: Títulos de Crédito (CC 887-926 + Lei do Cheque 7.357 + Duplicata 5.474). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Títulos de Crédito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 887: conceito + princípios
 

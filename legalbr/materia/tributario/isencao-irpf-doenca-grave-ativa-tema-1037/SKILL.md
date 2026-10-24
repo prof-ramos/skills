@@ -5,8 +5,8 @@ title: "Isenção IRPF + Servidor da Ativa com Doença Grave (Tema 1.037 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/isencao-irpf-doenca-grave-ativa-tema-1037.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/isencao-irpf-doenca-grave-ativa-tema-1037/SKILL.md"
 triggers:
   - "Tema 1.037 STJ"
   - "isenção IRPF doença grave servidor ativa"
@@ -14,10 +14,15 @@ triggers:
   - "interpretação literal CTN 111"
   - "rol exaustivo moléstia grave"
   - "aposentadoria isenção"
-description: "Tema 1.037 STJ (1ª Seção, 31/03/2021): NÃO se aplica a isenção\nde IRPF do art. 6 XIV da Lei 7.713/88 a rendimentos de pessoa\ncom doença grave que está EM ATIVIDADE laboral. Isenção restringe-\nse aos PROVENTOS DE INATIVIDADE (aposentadoria, pensão, reforma).\nInterpretação LITERAL (CTN 111)."
+description: "Usar para pesquisar ou analisar: Isenção IRPF + Servidor da Ativa com Doença Grave (Tema 1.037 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Isenção IRPF + Servidor da Ativa com Doença Grave (Tema 1.037 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.037 STJ, 1ª Seção, 31/03/2021)
 

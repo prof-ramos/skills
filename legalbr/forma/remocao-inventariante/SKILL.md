@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "remocao-inventariante"
 version: 2
-sourcePath: "lib/skills/official/forma/remocao-inventariante.md"
+sourcePath: "legalbr/forma/remocao-inventariante/SKILL.md"
 triggers:
   - "remoção de inventariante"
   - "destituição de inventariante"
@@ -17,10 +17,15 @@ triggers:
   - "ordem de nomeação CPC 617"
   - "sonegação de bens do espólio"
   - "remoção do inventariante por não prestar contas"
-description: "Incidente de remoção de inventariante (CPC 622-625): hipóteses do\nart. 622, de ofício ou a requerimento; processamento em apenso com\ndefesa em 15 dias (623); decisão nomeia substituto pela ordem do\nCPC 617 (624); entrega imediata dos bens sob pena de busca e\napreensão/imissão e multa de até 3% (625). Recurso: agravo de\ninstrumento (CPC 1.015 parágrafo único)."
+description: "Usar para redigir ou revisar: Remoção e Destituição de Inventariante (CPC 622-625). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remoção e Destituição de Inventariante (CPC 622-625)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e legitimidade
 

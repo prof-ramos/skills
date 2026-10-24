@@ -5,8 +5,8 @@ title: "Execução Fiscal (Lei 6.830/1980 + Tema 566 STJ + Tema 1.184 STF + SV 8
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/execucao-fiscal-lef-6830.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/execucao-fiscal-lef-6830/SKILL.md"
 triggers:
   - "execução fiscal"
   - "Lei 6.830/1980"
@@ -22,10 +22,15 @@ triggers:
   - "SV 8"
   - "Súm. 392 STJ"
   - "Súm. 559 STJ"
-description: "LEF Lei 6.830/1980 (CPC subsidiário); LEF 8 prazo 5 dias para\npagar/garantir (depósito + fiança + seguro + penhora); LEF 16\n§1 embargos 30d da intimação penhora; CDA presunção liquidez\n+ certeza (LEF 3), substituível até sentença sem trocar SP\n(Súm. 392) nem mudar fundamento legal (Tema 1.350 STJ); fiança/\nseguro não recusáveis pela ordem da penhora (Tema 1.385 STJ);\nSV 8 prescrição/decadência só LC; Tema 566 STJ intercorrente\nautomática + interrupção só por efetiva constrição/citação\n(Tema 568 STJ); honorários na quitação pós-ajuizamento (Tema\n1.413 STJ); Tema 1.184 STF + Res. CNJ 547/2024 (baixo valor)."
+description: "Usar para pesquisar ou analisar: Execução Fiscal (Lei 6.830/1980 + Tema 566 STJ + Tema 1.184 STF + SV 8). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## LEF (Lei 6.830/1980)
 

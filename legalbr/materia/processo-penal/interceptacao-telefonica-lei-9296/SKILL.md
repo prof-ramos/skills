@@ -5,8 +5,8 @@ title: "Interceptação Telefônica e Telemática (Lei 9.296/96)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/interceptacao-telefonica-lei-9296.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/interceptacao-telefonica-lei-9296/SKILL.md"
 triggers:
   - "Lei 9.296"
   - "interceptação telefônica"
@@ -18,10 +18,15 @@ triggers:
   - "reserva jurisdição"
   - "art. 10 Lei 9.296"
   - "Tema 661 STF"
-description: "Lei 9.296/96: interceptação telefônica + telemática só por ordem\njudicial fundamentada (CF 5 XII); requisitos: indícios razoáveis,\nprova não obtenível por outro meio, infração punida com reclusão;\nprazo 15 dias renováveis (Tema 661 STF: prorrogações sucessivas\nlícitas com motivação concreta; vedadas motivações padronizadas);\nart. 10 crime de interceptar sem autorização (recl. 2-4);\nserendipidade admitida; Marco Civil regula telemática armazenada."
+description: "Usar para pesquisar ou analisar: Interceptação Telefônica e Telemática (Lei 9.296/96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interceptação Telefônica e Telemática
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

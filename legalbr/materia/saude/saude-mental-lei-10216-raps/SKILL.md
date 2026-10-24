@@ -5,8 +5,8 @@ title: "Saúde Mental — Lei 10.216 + RAPS + Política Nacional de Atenção Ps
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/saude-mental-lei-10216-raps.md"
+version: 2
+sourcePath: "legalbr/materia/saude/saude-mental-lei-10216-raps/SKILL.md"
 triggers:
   - "Lei 10.216"
   - "reforma psiquiátrica"
@@ -18,10 +18,15 @@ triggers:
   - "direitos pessoa transtorno mental"
   - "antimanicomial"
   - "medida de segurança"
-description: "Saúde Mental — Lei 10.216/2001 (Paulo Delgado, \"Antimanicomial\"):\nredirecionou o modelo asilar para o **comunitário** + territorial.\nTrês modalidades de internação: **voluntária** (consentimento),\n**involuntária** (terceiros — **MP avisado em 72h**) e **compulsória**\n(judicial). Princípios: tratamento humanizado + ambulatorial +\npreservação de vínculos. **RAPS** (Portaria GM/MS 3.088/2011 +\natualizações 2024) — Centros de Atenção Psicossocial (CAPS),\nServiços Residenciais Terapêuticos (SRT), Consultório na Rua,\nUPA + UBS, leitos hospitalares de saúde mental. Pessoa com\ntranstorno: direitos do **art. 2** + LBI (Lei 13.146). Medida de\nsegurança (CP 96-99) com tratamento e duração-limite."
+description: "Usar para pesquisar ou analisar: Saúde Mental — Lei 10.216 + RAPS + Política Nacional de Atenção Psicossocial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Saúde Mental — Lei 10.216 + RAPS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

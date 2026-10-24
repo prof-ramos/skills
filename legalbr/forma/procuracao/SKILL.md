@@ -5,8 +5,8 @@ title: "Procuração"
 category: "forma"
 materia: null
 documentType: "procuracao"
-version: 1
-sourcePath: "lib/skills/official/forma/procuracao.md"
+version: 2
+sourcePath: "legalbr/forma/procuracao/SKILL.md"
 triggers:
   - "procuração"
   - "mandato CC 653 a 692"
@@ -15,10 +15,15 @@ triggers:
   - "poderes específicos para transigir desistir e firmar acordo"
   - "substabelecimento com ou sem reserva"
   - "procuração ad negotia poderes gerais"
-description: "Procuração (CC 653 a 692; CPC 105; EOAB art. 5º): pública (escritura)\nou particular (CPC 105 §1º; Lei 13.726/2018 dispensa firma para foro\nem geral); cláusula ad judicia para foro em geral; PODERES\nESPECÍFICOS exigem menção expressa (receber citação, confessar,\ntransigir, renunciar, desistir, receber valores, dar quitação,\nsubstabelecer). Substabelecimento com ou sem reservas (CC 655 e 667)."
+description: "Usar para redigir ou revisar: Procuração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procuração
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

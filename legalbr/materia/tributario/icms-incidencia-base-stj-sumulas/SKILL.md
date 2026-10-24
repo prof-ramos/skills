@@ -5,8 +5,8 @@ title: "ICMS, Incidência e Base de Cálculo (Súmulas STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-incidencia-base-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-incidencia-base-stj-sumulas/SKILL.md"
 triggers:
   - "ICMS incidência"
   - "ICMS base de cálculo"
@@ -22,10 +22,15 @@ triggers:
   - "provedor de acesso à internet"
   - "pauta fiscal ICMS"
   - "venda a prazo ICMS"
-description: "ICMS no STJ: incidência (filmes/videoteipes, provedor internet, importação,\nrações, gravação, transporte exterior, bares/restaurantes); base de cálculo\n(venda a prazo, descontos incondicionais, pauta fiscal vedada, café exportação,\nproduto semielaborado LC 65/91); isenções no SFH/Conv. Genebra; relação com\nIPI/II/ISS."
+description: "Usar para pesquisar ou analisar: ICMS, Incidência e Base de Cálculo (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS, Incidência e Base de Cálculo (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

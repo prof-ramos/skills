@@ -5,8 +5,8 @@ title: "Crimes contra o Sistema Financeiro (Lei 7.492/1986 + Lei 14.478/2022)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/sistema-financeiro-lei-7492.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/sistema-financeiro-lei-7492/SKILL.md"
 triggers:
   - "crimes sistema financeiro"
   - "Lei 7.492/1986"
@@ -19,10 +19,15 @@ triggers:
   - "criptoativos"
   - "Súm. 522 STF"
   - "CBE BACEN"
-description: "Sistema financeiro Lei 7.492/86: art. 1 conceito amplo de IF\n(Lei 14.478/2022 inclui ativos virtuais); art. 4 caput GESTÃO\nFRAUDULENTA (recl. 3-12a — mais grave) × par. único TEMERÁRIA\n(2-8a); art. 22 EVASÃO DE DIVISAS (depósitos não declarados —\nCBE — STJ inclui CRIPTOATIVOS HC 711.555); competência JF (CF\n109 VI + art. 26 + Súm. 522 STF); ANPP cabível."
+description: "Usar para pesquisar ou analisar: Crimes contra o Sistema Financeiro (Lei 7.492/1986 + Lei 14.478/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra o Sistema Financeiro Nacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 7.492/1986 — "Lei do Colarinho Branco"
 

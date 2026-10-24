@@ -5,8 +5,8 @@ title: "Cheque: Regime Jurídico (Lei 7.357/85)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cheque-lei-7357.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cheque-lei-7357/SKILL.md"
 triggers:
   - "Lei 7.357"
   - "lei do cheque"
@@ -22,10 +22,15 @@ triggers:
   - "aval cheque"
   - "endosso cheque"
   - "cheque sem fundos"
-description: "Cheque: ordem de pagamento à vista (Lei 7.357/85 art. 32), título\nexecutivo extrajudicial (CPC 784 I); apresentação 30 dias (mesma praça)\nou 60 (outra praça); prescrição execução 6 meses após apresentação\n(art. 59); ação causal 5 anos (Súm. 503 STJ); cheque pré-datado é\npromessa de pagamento, apresentação antecipada gera dano moral\n(Súm. 370 STJ); cruzamento, sustação, oposição e CCF."
+description: "Usar para pesquisar ou analisar: Cheque: Regime Jurídico (Lei 7.357/85). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cheque: Regime Jurídico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

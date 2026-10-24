@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "apuracao-haveres"
 version: 2
-sourcePath: "lib/skills/official/forma/apuracao-haveres.md"
+sourcePath: "legalbr/forma/apuracao-haveres/SKILL.md"
 triggers:
   - "apuração de haveres"
   - "balanço de determinação"
@@ -16,10 +16,15 @@ triggers:
   - "data-base da apuração art. 605"
   - "CC 1.031 reembolso ao sócio"
   - "apuração de haveres na dissolução parcial de sociedade"
-description: "Apuração de haveres (CPC 604-609): liquidação da dissolução parcial; data-base\n(605); balanço de determinação a valor de mercado com intangíveis (606);\npagamento em 90 dias (CC 1.031 §2º)."
+description: "Usar para redigir ou revisar: Apuração de Haveres. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apuração de Haveres
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e contexto
 

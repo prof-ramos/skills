@@ -5,8 +5,8 @@ title: "Prova Documental (CPC 405-441)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/prova-documental-cpc-405.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prova-documental-cpc-405/SKILL.md"
 triggers:
   - "prova documental"
   - "CPC 405"
@@ -19,10 +19,15 @@ triggers:
   - "documento publico"
   - "autenticidade de documento"
   - "falsidade documental"
-description: "Prova documental (CPC 405-441): documento público (CPC 405-407);\nparticular (CPC 408-412, presunção de veracidade das declarações\nquanto ao signatário); autenticidade (CPC 411); reproduções e\nfotografias digitais (CPC 422); cópias e certidões (CPC 425);\nfalsidade (CPC 427-433, incidental ou principal com coisa julgada);\njuntada e contraditório (CPC 434-437); documento eletrônico (CPC\n439-441 + MP 2.200-2 + Lei 14.063/2020)."
+description: "Usar para pesquisar ou analisar: Prova Documental (CPC 405-441). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prova Documental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 405-407, DOCUMENTO PÚBLICO
 

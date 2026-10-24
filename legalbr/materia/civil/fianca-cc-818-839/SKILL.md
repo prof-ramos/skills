@@ -5,8 +5,8 @@ title: "Fiança (CC 818-839 + Lei 8.245/91 + Súm. 332/549 + Tema 1.127 STF)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/fianca-cc-818-839.md"
+version: 2
+sourcePath: "legalbr/materia/civil/fianca-cc-818-839/SKILL.md"
 triggers:
   - "contrato de fiança CC 818"
   - "CC 819"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 1.127 STF"
   - "fiança sem vênia conjugal"
   - "bem de família do fiador"
-description: "Fiança CC 818-839: SOLENE, forma escrita é da SUBSTÂNCIA (819);\ngarantia de obrigação alheia + não excede a principal (825); CC 827\nBENEFÍCIO DE ORDEM (renunciável, 828); CC 836 morte transmite\nsó pretéritas; Lei 8.245 art. 39 (garantia até a entrega das\nchaves, salvo disposição em contrário); STF Tema 1.127 (bem de\nfamília do fiador PENHORÁVEL em locação); Súm. 332 (sem vênia:\nINEFICÁCIA TOTAL da garantia)."
+description: "Usar para pesquisar ou analisar: Fiança (CC 818-839 + Lei 8.245/91 + Súm. 332/549 + Tema 1.127 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fiança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 818-825: conceito + forma
 

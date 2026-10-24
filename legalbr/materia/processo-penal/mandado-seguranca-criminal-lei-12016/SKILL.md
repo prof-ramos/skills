@@ -5,8 +5,8 @@ title: "Mandado de Segurança em Matéria Criminal (Lei 12.016/2009)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/mandado-seguranca-criminal-lei-12016.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/mandado-seguranca-criminal-lei-12016/SKILL.md"
 triggers:
   - "mandado de segurança criminal"
   - "MS criminal"
@@ -17,10 +17,15 @@ triggers:
   - "decisão sem recurso específico"
   - "Súm. 267 STF"
   - "Súm. 268 STF"
-description: "Mandado de segurança em matéria criminal (CF 5 LXIX + Lei\n12.016/2009): cabível contra ATO JUDICIAL coator quando NÃO há\nrecurso típico que dê efeito suspensivo + viole DIREITO LÍQUIDO\nE CERTO. Súm. 267 STF: NÃO cabe contra ato judicial passível de\nrecurso ou correição. Súm. 268 STF: NÃO cabe contra decisão\ntransitada em julgado. Prazo DECADENCIAL 120 dias. Não substitui\nHC quando há liberdade ameaçada. Cumulativo com HC em algumas\nhipóteses."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança em Matéria Criminal (Lei 12.016/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 5 LXIX + Lei 12.016/2009
 

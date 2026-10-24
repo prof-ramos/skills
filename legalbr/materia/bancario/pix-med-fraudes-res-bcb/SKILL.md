@@ -5,8 +5,8 @@ title: "Pix e MED: Mecanismo Especial de Devolução (Res. BCB 1/2020 e 103/2021
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/pix-med-fraudes-res-bcb.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/pix-med-fraudes-res-bcb/SKILL.md"
 triggers:
   - "Pix"
   - "MED"
@@ -20,10 +20,15 @@ triggers:
   - "golpe da falsa central"
   - "conta laranja"
   - "estelionato eletrônico"
-description: "Pix: regulado pela Res. BCB 1/2020 (Regulamento do Pix) + Res. BCB\n103/2021 (MED, Mecanismo Especial de Devolução); responsabilidade\nda IF por falha de segurança é objetiva (CDC 14 + Súm. 479 STJ,\nfortuito interno); MED tem prazo de 80 dias para acionamento;\nreembolso depende de saldo na conta recebedora; chave Pix no DICT;\nPix Saque/Troco (Res. BCB 142/2021); limite de R$ 15 mil por\ntransação para IPs não autorizadas e participantes via PSTI\n(Res. BCB 496-498/2025); SLA de bloqueio cautelar."
+description: "Usar para pesquisar ou analisar: Pix e MED: Mecanismo Especial de Devolução (Res. BCB 1/2020 e 103/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pix + MED: Responsabilidade e Devolução
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

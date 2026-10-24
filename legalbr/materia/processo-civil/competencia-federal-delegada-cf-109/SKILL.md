@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-federal-delegada-cf-109.md"
+sourcePath: "legalbr/materia/processo-civil/competencia-federal-delegada-cf-109/SKILL.md"
 triggers:
   - "competência federal delegada"
   - "competência delegada"
@@ -18,10 +18,15 @@ triggers:
   - "Súmula 689 STF"
   - "IAC 6 STJ"
   - "juiz estadual investido de jurisdição federal"
-description: "Delegação de competência federal à Justiça Estadual (CF 109 §3º, redação EC\n103/2019): causas previdenciárias em comarca a mais de 70 km de vara federal\n(Lei 5.010/66 art. 15 III, redação Lei 13.876/2019), Tema 820 STF, opção de\nforo da Súmula 689 STF, IAC 6 STJ (processos anteriores a 2020), recurso ao\nTRF (CF 109 §4º) e Súmulas 3 e 55 STJ."
+description: "Usar para pesquisar ou analisar: Competência Federal Delegada (CF 109 §3º + Lei 13.876/2019 + Tema 820 STF + IAC 6 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Federal Delegada (CF 109 §3º)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

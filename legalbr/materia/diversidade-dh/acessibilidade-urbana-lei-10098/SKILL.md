@@ -6,7 +6,7 @@ category: "materia"
 materia: "diversidade-dh"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/diversidade-dh/acessibilidade-urbana-lei-10098.md"
+sourcePath: "legalbr/materia/diversidade-dh/acessibilidade-urbana-lei-10098/SKILL.md"
 triggers:
   - "acessibilidade urbana"
   - "Lei 10.098/2000"
@@ -22,10 +22,15 @@ triggers:
   - "desenho universal adaptação razoável"
   - "Lei 15.459 símbolo acessibilidade"
   - "piso tátil mapa tátil acessibilidade"
-description: "Acessibilidade urbana e predial: Lei 10.098/2000, LBI 53-62, Dec. 5.296/2004 e NBR 9050; desenho universal, adaptação razoável, alvará/habite-se, RE 440.028 STF, passe livre (Lei 8.899/1994; ADI 2.649) e Lei 15.459/2026."
+description: "Usar para pesquisar ou analisar: Acessibilidade Urbana e em Edificações (Lei 10.098/2000 + LBI arts. 53-62). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acessibilidade Urbana e em Edificações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

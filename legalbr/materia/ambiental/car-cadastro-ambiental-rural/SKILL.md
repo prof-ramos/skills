@@ -5,8 +5,8 @@ title: "CAR: Cadastro Ambiental Rural + SICAR + PRA (Lei 12.651/2012)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/car-cadastro-ambiental-rural.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/car-cadastro-ambiental-rural/SKILL.md"
 triggers:
   - "CAR"
   - "Cadastro Ambiental Rural"
@@ -18,10 +18,15 @@ triggers:
   - "área rural consolidada 22/07/2008"
   - "cota de reserva ambiental"
   - "inscrição imóvel rural cadastro"
-description: "CAR (Cadastro Ambiental Rural): registro **eletrônico + obrigatório**\nde todos os imóveis rurais, criado pela **Lei 12.651/2012** (Código\nFlorestal). **SICAR** (Sistema de Cadastro Ambiental Rural) integra\nao SINIMA. Conteúdo: dados do imóvel + APP (Área de Preservação\nPermanente) + Reserva Legal + áreas de uso restrito. Caráter\n**declaratório + permanente**. **PRA** (Programa de Regularização\nAmbiental): adesão suspende sanções para irregularidades anteriores\na 22/07/2008. Sem CAR: vedado obter financiamento + autorização\nambiental. Coordenação MMA + Estados. Prazo de inscrição prorrogado\ndiversas vezes. STF ADC 42 reconheceu constitucionalidade da Lei."
+description: "Usar para pesquisar ou analisar: CAR: Cadastro Ambiental Rural + SICAR + PRA (Lei 12.651/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CAR: Cadastro Ambiental Rural
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

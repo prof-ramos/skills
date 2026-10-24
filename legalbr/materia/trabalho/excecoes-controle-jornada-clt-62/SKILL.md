@@ -5,8 +5,8 @@ title: "Exceções ao Controle de Jornada (CLT 62 - Externo, Gestão e Teletraba
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/excecoes-controle-jornada-clt-62.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/excecoes-controle-jornada-clt-62/SKILL.md"
 triggers:
   - "CLT 62 trabalho externo"
   - "atividade externa incompatível com controle"
@@ -18,10 +18,15 @@ triggers:
   - "OJ 332 SDI-1 tacógrafo"
   - "Súm. 287 TST"
   - "ônus da prova fato impeditivo CLT 818"
-description: "Cluster de defesa do art. 62 da CLT nas ações de horas extras: trabalho\nexterno incompatível com controle (inciso I), cargo de gestão com padrão\nremuneratório de 40% (inciso II e par. único) e teletrabalho por produção\nou tarefa (inciso III, Lei 14.442/2022). Ônus da prova do CLT 818 II."
+description: "Usar para pesquisar ou analisar: Exceções ao Controle de Jornada (CLT 62 - Externo, Gestão e Teletrabalho). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exceções ao Controle de Jornada (CLT 62)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

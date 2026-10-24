@@ -5,8 +5,8 @@ title: "Cessão de Crédito de Precatório (CF 100 §§13-14 + CPC 778)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/cessao-credito-precatorio-cf-100.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/cessao-credito-precatorio-cf-100/SKILL.md"
 triggers:
   - "cessão de precatório"
   - "cessão de crédito de precatório"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 361 STF"
   - "RE 631.537"
   - "Resolução CNJ 303 cessão"
-description: "Cessão de crédito de precatório (CF 100 §§13-14 + CPC 778 §1º III):\ncessão livre e independente da concordância do devedor; superpreferência\n(§§2º-3º) não se transfere ao cessionário; natureza alimentar preservada\n(Tema 361 STF, RE 631.537); eficácia condicionada à comunicação por\npetição ao tribunal de origem e ao ente devedor; registro e habilitação\n(Res. CNJ 303/2019 arts. 42-45)."
+description: "Usar para pesquisar ou analisar: Cessão de Crédito de Precatório (CF 100 §§13-14 + CPC 778). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cessão de Crédito de Precatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

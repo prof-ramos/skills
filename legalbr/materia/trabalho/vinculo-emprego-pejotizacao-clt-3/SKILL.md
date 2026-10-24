@@ -5,8 +5,8 @@ title: "Vínculo de Emprego + Pejotização (CLT 2-3 + Tema 725 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/vinculo-emprego-pejotizacao-clt-3.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/vinculo-emprego-pejotizacao-clt-3/SKILL.md"
 triggers:
   - "vínculo de emprego"
   - "CLT 3"
@@ -23,10 +23,15 @@ triggers:
   - "serviço voluntário Lei 9.608"
   - "vínculo empregatício igreja"
   - "ministro de confissão religiosa"
-description: "Vínculo de emprego sob CLT 2-3: cinco requisitos cumulativos (PF +\npessoalidade + habitualidade + onerosidade + subordinação); primazia\nda realidade (Súm. 12 e 386 TST); pejotização e terceirização sob o\nSTF Tema 725 (atividade-fim lícita) + Tema 1.046 (negociado ×\nlegislado); Tema 1.291 STF uberização (pendente); CLT 442-B autônomo;\nSúm. 363 TST (nulidade em servidor); trabalho voluntário (Lei\n9.608/98: termo de adesão, sem vínculo) e trabalho religioso\nvocacional (CC 44 IV + Lei 8.212 art. 12 V c e art. 22 § 13)."
+description: "Usar para pesquisar ou analisar: Vínculo de Emprego + Pejotização (CLT 2-3 + Tema 725 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vínculo de Emprego + Pejotização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CLT 3: requisitos cumulativos
 

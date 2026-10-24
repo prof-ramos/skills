@@ -5,8 +5,8 @@ title: "Prévio Requerimento Administrativo para Auxílio-Acidente (Tema 1.105 S
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/previo-requerimento-auxilio-acidente-tema-1105.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/previo-requerimento-auxilio-acidente-tema-1105/SKILL.md"
 triggers:
   - "Tema 1.105 STF"
   - "prévio requerimento auxílio-acidente"
@@ -15,10 +15,15 @@ triggers:
   - "cessação auxílio-doença"
   - "interesse de agir auxílio"
   - "Tema 350 STF"
-description: "Tema 1.105 STF (RE 1.287.510): o STF reconheceu o caráter\nINFRACONSTITUCIONAL da controvérsia e NEGOU repercussão geral,\nremetendo ao RE 631.240 (Tema 350). Pela aplicação do Tema 350, é\nEXIGÍVEL prévio requerimento administrativo ao INSS para ajuizar\nação de AUXÍLIO-ACIDENTE precedido de cessação de auxílio-doença\nacidentário; a cessação do auxílio-doença não substitui o pedido\nautônomo de auxílio-acidente."
+description: "Usar para pesquisar ou analisar: Prévio Requerimento Administrativo para Auxílio-Acidente (Tema 1.105 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prévio Requerimento Administrativo: Auxílio-Acidente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

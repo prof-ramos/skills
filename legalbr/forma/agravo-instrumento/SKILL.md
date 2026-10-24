@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "agravo-instrumento"
 version: 2
-sourcePath: "lib/skills/official/forma/agravo-instrumento.md"
+sourcePath: "legalbr/forma/agravo-instrumento/SKILL.md"
 triggers:
   - "agravo de instrumento"
   - "hipóteses taxativas do art. 1.015 CPC"
@@ -16,10 +16,15 @@ triggers:
   - "preclusão diferida art. 1.009 §1º"
   - "agravo de instrumento contra decisão interlocutória"
   - "agravo de instrumento contra decisão sobre tutela provisória de urgência"
-description: "Agravo de instrumento sob os arts. 1.015 a 1.020 do CPC: hipóteses\ntaxativas (caput) mitigadas pelo Tema 988 STJ (urgência demonstrada);\ncabimento amplo na liquidação, cumprimento de sentença, execução e\ninventário (parágrafo único); prazo de 15 dias úteis com interposição\ndireta no tribunal (art. 1.016); ausência de efeito suspensivo\nautomático e possibilidade de tutela recursal (art. 1.019 I);\npreclusão diferida para preliminar de apelação fora das hipóteses\n(art. 1.009 §1º)."
+description: "Usar para redigir ou revisar: Agravo de Instrumento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Instrumento
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento, hipóteses taxativas (art. 1.015)
 

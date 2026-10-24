@@ -5,8 +5,8 @@ title: "Lei 14.811/2024 (Feminicídio Autônomo + Crimes Contra Criança)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lei-14811-feminicidio-violencia-crianca.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-14811-feminicidio-violencia-crianca/SKILL.md"
 triggers:
   - "Lei 14.811"
   - "feminicídio autônomo"
@@ -15,10 +15,15 @@ triggers:
   - "bullying"
   - "cyberbullying"
   - "hediondo Lei 14.811"
-description: "Lei 14.811/2024: 1) feminicídio passa a ser tipo penal AUTÔNOMO\n(CP 121-A), pena 20 a 40 anos, qualificado em hipóteses (mulher\ntrans incluída na proteção); 2) bullying (CP 147-D) e cyberbullying\n(CP 147-E) como crimes autônomos; 3) crimes contra criança e\nadolescente adicionados ao rol de HEDIONDOS (Lei 8.072); 4) novas\nqualificadoras e causas de aumento; vigência abril/2024;\nirretroatividade in pejus."
+description: "Usar para pesquisar ou analisar: Lei 14.811/2024 (Feminicídio Autônomo + Crimes Contra Criança). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.811/2024 — Feminicídio Autônomo + Crimes Contra Criança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

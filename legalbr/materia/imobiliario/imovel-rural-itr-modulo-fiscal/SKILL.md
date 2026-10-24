@@ -5,8 +5,8 @@ title: "Imóvel Rural + ITR + Módulo Fiscal (Lei 9.393/1996 + Lei 8.629/1993)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/imovel-rural-itr-modulo-fiscal.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/imovel-rural-itr-modulo-fiscal/SKILL.md"
 triggers:
   - "imóvel rural"
   - "ITR"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 11.952/2009"
   - "usucapião rural"
   - "CF 186 função social"
-description: "Imóvel rural: definição funcional (Lei 8.629/93 - destinação\nagrária independe da localização); MÓDULO FISCAL = pequena\n(≤4) - média (4-15) - grande (+15) - influencia ITR + bem\nfamília rural + impenhorabilidade; ITR Lei 9.393/96 (CF 153\nVI - união - municipios podem arrecadar); função social CF 186\n(4 requisitos); reforma agrária CF 184-185 (CF 185: I pequena\ne média única do proprietário; II propriedade produtiva); CCIR\n+ georreferenciamento Lei 10.267."
+description: "Usar para pesquisar ou analisar: Imóvel Rural + ITR + Módulo Fiscal (Lei 9.393/1996 + Lei 8.629/1993). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imóvel Rural + ITR + Módulo Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Ação Rescisória (CPC 966-975)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/acao-rescisoria-cpc-966.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/acao-rescisoria-cpc-966/SKILL.md"
 triggers:
   - "ação rescisória"
   - "CPC 966"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 881 STF"
   - "Tema 885 STF"
   - "querela nullitatis"
-description: "Ação rescisória sob CPC 966-975: hipóteses taxativas (I-VIII +\nviolação manifesta da norma jurídica e prova nova, CPC/2015);\nprazo decadencial de 2 anos do trânsito (CPC 975); depósito de\n5% (CPC 968); Súm. 343 STF como filtro contra sucedâneo recursal;\nSTF Temas 881-885 (coisa julgada tributária trato sucessivo cessa\nautomaticamente)."
+description: "Usar para pesquisar ou analisar: Ação Rescisória (CPC 966-975). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Rescisória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 966)
 

@@ -5,8 +5,8 @@ title: "Direito do Comércio Internacional: OMC + MERCOSUL + Tratados de Livre C
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/comercio-internacional-omc-mercosul.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/comercio-internacional-omc-mercosul/SKILL.md"
 triggers:
   - "OMC"
   - "MERCOSUL"
@@ -18,10 +18,15 @@ triggers:
   - "tratado de livre comércio"
   - "tarifa externa comum"
   - "defesa comercial"
-description: "Direito do Comércio Internacional sob OMC + MERCOSUL + Tratados\nde Livre Comércio: princípios da NMF e tratamento nacional (GATT\nI e III); solução de controvérsias (DSU/OSC); defesa comercial\n(antidumping, salvaguardas, subsídios); CISG (Dec. 8.327/2014);\nintegração regional, compromissos tarifários e instrumentos de\npolítica comercial brasileira."
+description: "Usar para pesquisar ou analisar: Direito do Comércio Internacional: OMC + MERCOSUL + Tratados de Livre Comércio. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito do Comércio Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

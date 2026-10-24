@@ -5,8 +5,8 @@ title: "Artistas e Radialistas, Regimes Profissionais das Leis 6.533/1978 e 6.61
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/artistas-radialistas-leis-6533-6615.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/artistas-radialistas-leis-6533-6615/SKILL.md"
 triggers:
   - "radialista"
   - "Lei 6.533 artista"
@@ -18,10 +18,15 @@ triggers:
   - "contrato de trabalho de artista"
   - "empresa de radiodifusão vínculo"
   - "adicional de acumulação de funções"
-description: "Regimes profissionais especiais dos artistas e técnicos em espetáculos (Lei\n6.533/1978, Decreto 82.385/1978) e dos radialistas (Lei 6.615/1978, Decreto\n84.134/1979): contrato padronizado com visto sindical, nota contratual de até\n7 dias, jornadas reduzidas por setor, adicionais de acumulação de funções\n(40%/20%/10%), vedação de cessão de direitos conexos e CLT subsidiária."
+description: "Usar para pesquisar ou analisar: Artistas e Radialistas, Regimes Profissionais das Leis 6.533/1978 e 6.615/1978. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Artistas e Radialistas: Regimes das Leis 6.533/1978 e 6.615/1978
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Âmbito de cada lei
 

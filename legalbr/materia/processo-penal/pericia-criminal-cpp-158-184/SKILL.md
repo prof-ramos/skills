@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-penal/provas/pericia-criminal-cpp-158-184.md"
+sourcePath: "legalbr/materia/processo-penal/pericia-criminal-cpp-158-184/SKILL.md"
 triggers:
   - "perícia criminal"
   - "exame corpo de delito"
@@ -22,10 +22,15 @@ triggers:
   - "relatório IA versus perícia"
   - "confiabilidade epistêmica prova"
   - "validação humana relatório técnico"
-description: "Perícia criminal (CPP 158-184): corpo de delito, peritos, prazo, quesitos, vestígios desaparecidos, cadeia de custódia, efeitos de falhas concretas e distinção entre laudo pericial e relatório produzido com IA generativa."
+description: "Usar para pesquisar ou analisar: Perícia Criminal e Corpo de Delito (CPP 158-184). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Perícia Criminal e Corpo de Delito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

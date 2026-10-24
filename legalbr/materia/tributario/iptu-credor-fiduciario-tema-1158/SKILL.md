@@ -5,8 +5,8 @@ title: "IPTU + Credor Fiduciário antes da Consolidação (Tema 1.158 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iptu-credor-fiduciario-tema-1158.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iptu-credor-fiduciario-tema-1158/SKILL.md"
 triggers:
   - "Tema 1.158 STJ"
   - "IPTU alienação fiduciária"
@@ -15,10 +15,15 @@ triggers:
   - "CTN 34 sujeito passivo IPTU"
   - "banco fiduciário imissão posse"
   - "responsabilidade tributária fiduciário"
-description: "Tema 1.158 STJ (1ª Seção, 31/03/2025): credor fiduciário NÃO É\nsujeito passivo do IPTU ANTES da consolidação da propriedade e\nda imissão na posse do imóvel. Propriedade fiduciária é\nresolúvel/indireta, sem ânimo de domínio. CTN 34: proprietário,\ntitular de domínio útil ou possuidor a qualquer título; o fiduciário\nNÃO se enquadra."
+description: "Usar para pesquisar ou analisar: IPTU + Credor Fiduciário antes da Consolidação (Tema 1.158 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPTU + Credor Fiduciário antes da Consolidação (Tema 1.158 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.158 STJ, 1ª Seção, 31/03/2025)
 

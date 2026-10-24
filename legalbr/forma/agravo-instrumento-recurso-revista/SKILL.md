@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "agravo-instrumento-recurso-revista"
 version: 2
-sourcePath: "lib/skills/official/forma/agravo-instrumento-recurso-revista.md"
+sourcePath: "legalbr/forma/agravo-instrumento-recurso-revista/SKILL.md"
 triggers:
   - "AIRR"
   - "agravo de instrumento em recurso de revista"
@@ -18,10 +18,15 @@ triggers:
   - "transcendência no agravo de instrumento"
   - "agravo de instrumento contra denegatória de recurso de revista"
   - "AIRR ou agravo interno da IN 40 art. 1º-A"
-description: "AIRR para destrancar recurso de revista denegado (CLT 897 \"b\" e §§4\na 7; 896 §12): prazo de 8 dias, depósito de 50% (CLT 899 §7, dispensa\ndo §8), impugnação por capítulo denegado (IN 40/2016 art. 1º, pena de\npreclusão), dialeticidade da Súm. 422 TST e fronteira com o agravo\ninterno ao TRT da Res. TST 224/2024 (IN 40 art. 1º-A: denegatória\nfundada em precedente qualificado; fungibilidade vedada)."
+description: "Usar para redigir ou revisar: Agravo de Instrumento em Recurso de Revista (AIRR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Instrumento em Recurso de Revista (AIRR)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e competência
 

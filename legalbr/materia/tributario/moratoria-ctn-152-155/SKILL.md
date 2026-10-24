@@ -5,8 +5,8 @@ title: "Moratória Tributária (CTN 152-155 + LC 24/75)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/moratoria-ctn-152-155.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/moratoria-ctn-152-155/SKILL.md"
 triggers:
   - "moratória tributária"
   - "CTN 151 I"
@@ -17,10 +17,15 @@ triggers:
   - "moratória geral"
   - "moratória individual"
   - "dilação prazo pagamento"
-description: "Moratória CTN 151 I + 152-155: dilação por lei do prazo de\npagamento do tributo já vencido ou a vencer; suspende\nexigibilidade; geral (todos os sujeitos passivos) ou individual\n(por despacho); exige requisitos materiais (LC para União);\nexclui multa de mora; pode ser revogada por descumprimento\n(CTN 155); não se confunde com parcelamento (CTN 155-A) ou\nisenção."
+description: "Usar para pesquisar ou analisar: Moratória Tributária (CTN 152-155 + LC 24/75). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Moratória Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

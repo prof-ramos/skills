@@ -5,8 +5,8 @@ title: "Prerrogativas da Fazenda Pública (CPC 183-184 + 535 + 910)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/fazenda-publica-prerrogativas-cpc-183.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/fazenda-publica-prerrogativas-cpc-183/SKILL.md"
 triggers:
   - "fazenda publica"
   - "CPC 183"
@@ -19,10 +19,17 @@ triggers:
   - "execucao fazenda"
   - "Sum 196 STJ"
   - "Sum 392 STJ"
-description: "Prerrogativas da Fazenda Pública (CPC 183-184): prazos em dobro;\nintimação pessoal por carga, remessa ou meio eletrônico; remessa\nnecessária (CPC 496); execução contra Fazenda (CPC 910, embargos\n+ precatório/RPV); impugnação ao cumprimento (CPC 535); EC 113/2021\n(compensação automática)."
+description: "Usar para pesquisar ou analisar: Prerrogativas da Fazenda Pública (CPC 183-184 + 535 + 910). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm", "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm"]
+reviewedAt: "2026-10-21"
+reviewScope: "Corrigida atribuição de compensação automática e localização da cessão; ADIs 7047/7064 e demais tópicos exigem revisão integral"
 ---
 
 # Prerrogativas da Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 183, PRAZOS EM DOBRO
 
@@ -142,13 +149,13 @@ description: "Prerrogativas da Fazenda Pública (CPC 183-184): prazos em dobro;\
 | Contra **Municípios** + autarquias municipais | Até **100 sm** |
 | Súmula vinculante / orientação plenária / repetitivos | Não cabe (CPC 496 §4) |
 
-## EC 113/2021, compensação automática
+## Precatórios: oferta de créditos, cessão e limites
 
 | | Conteúdo |
 |---|---|
-| **CF 100 §11** | Permite compensação **automática** de precatórios com **débitos tributários** |
-| **CF 100 §12** | Cessão de precatórios |
-| Aplicação | Após inscrição em sequência cronológica |
+| **CF 100 §11** | Oferta de créditos por iniciativa do credor, nas hipóteses e condições legais; não equivale a compensação unilateral automática |
+| **CF 100 §§13–14** | Cessão de créditos, observados os requisitos constitucionais |
+| Aplicação | Identificar instituto e fase; conferir art. 100 compilado, regulamentação e decisões de controle |
 
 ## Modulação de efeitos (CPC 927 §3)
 
@@ -193,6 +200,10 @@ description: "Prerrogativas da Fazenda Pública (CPC 183-184): prazos em dobro;\
 - Os honorários por equidade não cabem em causa de **valor elevado** (Tema 1.076 STJ);
 - Os embargos (CPC 914) e a impugnação (CPC 535) são figuras distintas;
 - A Fazenda não recolhe custas adiantadas (CPC 91);
-- A **EC 113/2021** prevê compensação automática de precatórios;
+- Não tratar a EC 113/2021 como autorização de compensação automática indistinta; conferir os institutos do art. 100 e o controle de constitucionalidade;
 - Pagamento acima do limite do RPV exige precatório (CF 100);
 - A prerrogativa de **citação por edital** em execução fiscal observa a Súm. 414 STJ.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

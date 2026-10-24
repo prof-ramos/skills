@@ -5,8 +5,8 @@ title: "Verbas Indenizatórias do Servidor (Lei 8.112 arts. 51 a 60-E)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/verbas-indenizatorias-servidor-lei-8112.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/verbas-indenizatorias-servidor-lei-8112/SKILL.md"
 triggers:
   - "ajuda de custo servidor"
   - "diárias servidor público"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 538 STJ"
   - "art. 60-B auxílio-moradia"
   - "verbas indenizatórias do servidor"
-description: "Indenizações do servidor federal (Lei 8.112 arts. 51 a 60-E):\najuda de custo (teto de 3 remunerações, Tema 538 STJ valida\nlimitação temporal infralegal), diárias, indenização de transporte\ne auxílio-moradia (requisitos cumulativos do art. 60-B, limite do\nart. 60-D). Auxílio-transporte da MP 2.165-36/2001: devido a quem\nusa veículo próprio mediante simples declaração (STJ/TNU), sem IR\nnem contribuição."
+description: "Usar para pesquisar ou analisar: Verbas Indenizatórias do Servidor (Lei 8.112 arts. 51 a 60-E). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Verbas Indenizatórias do Servidor (Lei 8.112/90)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quadro geral
 

@@ -5,8 +5,8 @@ title: "Ação Anulatória de Débito Fiscal"
 category: "forma"
 materia: null
 documentType: "anulatoria-debito-fiscal"
-version: 1
-sourcePath: "lib/skills/official/forma/anulatoria-debito-fiscal.md"
+version: 2
+sourcePath: "legalbr/forma/anulatoria-debito-fiscal/SKILL.md"
 triggers:
   - "ação anulatória de débito fiscal"
   - "art. 38 LEF Lei 6.830/80"
@@ -15,10 +15,15 @@ triggers:
   - "suspensão da exigibilidade CTN 151"
   - "cumulação com repetição de indébito CTN 165"
   - "depósito do montante integral Súm. 112 STJ"
-description: "Ação anulatória de débito fiscal sob o art. 38 da LEF, CPC e CTN\n151/156/165-169: ação ordinária desconstitutiva do lançamento ou da\nCDA, com possível cumulação com repetição de indébito; dispensa de\ndepósito prévio e hipóteses de suspensão da exigibilidade pelo art.\n151; tutela provisória independente de garantia; prescrição\nquinquenal com prazo bienal do art. 169 após decisão administrativa."
+description: "Usar para redigir ou revisar: Ação Anulatória de Débito Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Anulatória de Débito Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

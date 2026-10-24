@@ -5,8 +5,8 @@ title: "Pedido de Restituição na Falência (LREF arts. 85 a 93)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/pedido-restituicao-falencia-lrf-85.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/pedido-restituicao-falencia-lrf-85/SKILL.md"
 triggers:
   - "pedido de restituição na falência"
   - "restituição de coisa vendida a crédito"
@@ -18,10 +18,15 @@ triggers:
   - "Súmula 495 STF"
   - "bem arrecadado de terceiro falência"
   - "embargos de terceiro falência"
-description: "Incidente de pedido de restituição na falência (LREF arts. 85 a 93): bem de\nterceiro arrecadado, coisa vendida a crédito nos 15 dias, restituição em\ndinheiro (ACC, tributos retidos), rito, apelação sem efeito suspensivo e\nSúmulas 36, 133 e 307 STJ e 417 e 495 STF."
+description: "Usar para pesquisar ou analisar: Pedido de Restituição na Falência (LREF arts. 85 a 93). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Restituição na Falência (LREF arts. 85 a 93)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

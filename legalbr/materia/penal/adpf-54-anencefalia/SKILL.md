@@ -5,8 +5,8 @@ title: "ADPF 54: Interrupção de Gestação de Feto Anencéfalo"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/adpf-54-anencefalia.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adpf-54-anencefalia/SKILL.md"
 triggers:
   - "ADPF 54"
   - "anencefalia"
@@ -16,10 +16,15 @@ triggers:
   - "vida intrauterina"
   - "feto inviável"
   - "Marco Aurélio aborto"
-description: "ADPF 54 (Marco Aurélio, 12/04/2012, 8×2): antecipação\nterapêutica de feto anencéfalo não é crime (interpretação\nconforme do CP 124-128). Sem autorização judicial, Res. CFM\n1.989/2012 disciplina (2 médicos + consentimento)."
+description: "Usar para pesquisar ou analisar: ADPF 54: Interrupção de Gestação de Feto Anencéfalo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 54: Anencefalia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

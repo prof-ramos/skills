@@ -5,8 +5,8 @@ title: "Inventário Judicial + Arrolamento (CPC 610-673)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/inventario-judicial-arrolamento.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/inventario-judicial-arrolamento/SKILL.md"
 triggers:
   - "inventário judicial"
   - "CPC 610"
@@ -19,10 +19,15 @@ triggers:
   - "cessão de direitos hereditários"
   - "ITCMD no inventário"
   - "EC 132/2023 ITCMD progressivo"
-description: "Inventário judicial + arrolamento sob CPC 610-673: ritos\ntradicional (incapaz/litígio), sumário (maiores/concordes) e\ncomum (até 1.000 salários mínimos); prazos (60 dias abertura + 12 meses\npartilha); nomeação do inventariante (CPC 617); ITCMD progressivo\nobrigatório (EC 132/2023); agravo de instrumento amplo (CPC\n1.015 par. único); sobrepartilha (669)."
+description: "Usar para pesquisar ou analisar: Inventário Judicial + Arrolamento (CPC 610-673). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inventário Judicial + Arrolamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

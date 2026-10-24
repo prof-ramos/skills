@@ -5,8 +5,8 @@ title: "Empréstimo Compulsório (CF 148 + RE 121.336 + Temas 65/66/67 STJ Eletr
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/emprestimo-compulsorio-cf-148.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/emprestimo-compulsorio-cf-148/SKILL.md"
 triggers:
   - "empréstimo compulsório"
   - "CF 148"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 553 STJ"
   - "calamidade"
   - "guerra externa"
-description: "Empréstimo compulsório CF 148 UNIÃO, SEMPRE por LC; 2 hipóteses:\nI despesas extraordinárias CALAMIDADE/GUERRA (sem anterioridade)\n+ II investimento público URGENTE + relevante (com anterioridade\nintegral); RESTITUÍVEL + vinculação à despesa (par. único); DL\n2.288/1986 inconst. (RE 121.336: devolução em quotas viola);\nEletrobras Lei 4.156/1962 até 1993; Temas 65/66/67 STJ (prescrição\nquinquenal + correção plena + juros, em revisão); Súm. 553 STJ."
+description: "Usar para pesquisar ou analisar: Empréstimo Compulsório (CF 148 + RE 121.336 + Temas 65/66/67 STJ Eletrobras). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Empréstimo Compulsório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 148
 

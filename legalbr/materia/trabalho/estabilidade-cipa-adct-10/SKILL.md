@@ -5,8 +5,8 @@ title: "Estabilidade do Membro da CIPA (ADCT 10 II \"a\" + CLT 165)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/estabilidade-cipa-adct-10.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estabilidade-cipa-adct-10/SKILL.md"
 triggers:
   - "CIPA"
   - "estabilidade CIPA"
@@ -15,10 +15,15 @@ triggers:
   - "NR-5"
   - "Súm. 339 TST"
   - "Súm. 676 STF"
-description: "Estabilidade do membro eleito da CIPA (ADCT 10 II \"a\" + CLT 165 +\nNR-5): registro da candidatura até 1 ano após o mandato; só eleitos\npelos empregados (suplentes — Súm. 339 I); não se aplica em contrato\npor prazo determinado (Súm. 339 II) nem em extinção do estabelecimento."
+description: "Usar para pesquisar ou analisar: Estabilidade do Membro da CIPA (ADCT 10 II \"a\" + CLT 165). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade do Membro da CIPA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

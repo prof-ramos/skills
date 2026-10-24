@@ -5,8 +5,8 @@ title: "ISS: Imposto Sobre Serviços (LC 116/2003 + LC 157/2016 + LC 175/2020)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iss-lc-116.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iss-lc-116/SKILL.md"
 triggers:
   - "ISS"
   - "imposto sobre serviços"
@@ -22,10 +22,15 @@ triggers:
   - "industrialização por encomenda"
   - "Tema 1.020 STF"
   - "retenção de ISS pelo tomador"
-description: "ISS sob CF 156 e LC 116: lista, local, alíquotas, retenção, software,\nindustrialização por encomenda e precedentes do STF, com transição\nao IBS/CBS e datas da NFS-e no Ato Conjunto 4/2026."
+description: "Usar para pesquisar ou analisar: ISS: Imposto Sobre Serviços (LC 116/2003 + LC 157/2016 + LC 175/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ISS: Imposto Sobre Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

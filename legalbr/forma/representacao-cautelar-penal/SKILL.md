@@ -5,8 +5,8 @@ title: "Representação por Medida Cautelar Penal (MP + Delegado)"
 category: "forma"
 materia: null
 documentType: "representacao-cautelar-penal"
-version: 1
-sourcePath: "lib/skills/official/forma/representacao-cautelar-penal.md"
+version: 2
+sourcePath: "legalbr/forma/representacao-cautelar-penal/SKILL.md"
 triggers:
   - "representação prisão preventiva"
   - "representação busca e apreensão"
@@ -17,10 +17,15 @@ triggers:
   - "art. 282 CPP"
   - "art. 240 CPP"
   - "Lei 9.296/96 interceptação"
-description: "Peça do MP ou Delegado para postular medida cautelar PENAL em\nfase de investigação ou processo: preventiva (CPP 311-316),\nbusca e apreensão (CPP 240-250), interceptação telefônica (Lei\n9.296/96), quebra de sigilo bancário/fiscal (LC 105/01 + CPP).\nCPP 282: fumus comissi delicti + periculum libertatis +\nproporcionalidade. Cláusula de reserva de jurisdição (CF 5 XI,\nXII). Fundamentação cabal. Possibilidade de cautelares menos\ngravosas (CPP 319) antes da prisão."
+description: "Usar para redigir ou revisar: Representação por Medida Cautelar Penal (MP + Delegado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Representação por Medida Cautelar Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa comum
 

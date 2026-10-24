@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "impugnacao-edital-licitacao"
 version: 2
-sourcePath: "lib/skills/official/forma/impugnacao-edital-licitacao.md"
+sourcePath: "legalbr/forma/impugnacao-edital-licitacao/SKILL.md"
 triggers:
   - "impugnação edital"
   - "Lei 14.133 art. 164"
@@ -16,10 +16,15 @@ triggers:
   - "restrição indevida à competitividade"
   - "Portal Nacional de Contratações Públicas"
   - "impugnação de edital na nova Lei de Licitações"
-description: "Impugnação a edital de licitação (Lei 14.133/2021 art. 164):\nprazo até 3 dias úteis antes da abertura; legitimidade (qualquer\npessoa); cláusulas restritivas + direcionamento +\nexigências indevidas + falta de orçamento estimado; análise pelo\npregoeiro/agente em 3 dias; decorrentes do princípio do julgamento\nobjetivo + competitividade (Lei 14.133 art. 5); cabimento\nparalelo de representação ao TCU/TC."
+description: "Usar para redigir ou revisar: Impugnação a Edital de Licitação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação a Edital de Licitação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

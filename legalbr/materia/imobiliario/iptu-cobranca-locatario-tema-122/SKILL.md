@@ -5,8 +5,8 @@ title: "IPTU + Locatário (Tema 122 STJ + Súm. 614)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/iptu-cobranca-locatario-tema-122.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/iptu-cobranca-locatario-tema-122/SKILL.md"
 triggers:
   - "IPTU locatário"
   - "Súmula 614 STJ"
@@ -16,10 +16,15 @@ triggers:
   - "responsabilidade tributária imóvel"
   - "repetição indébito IPTU"
   - "cláusula contratual IPTU"
-description: "IPTU + Locatário. **Súm. 614 STJ**: locatário **não tem\nlegitimidade ativa** para discutir relação jurídico-tributária do\nIPTU + taxas + repetir indébito. **Tema 122 STJ (REsp 1.111.202)**:\nmunicípio pode eleger como sujeito passivo o **proprietário,\ntitular de domínio útil ou possuidor (a qualquer título)**, CTN\nart. 34. Tanto **promitente comprador** quanto **proprietário\nregistral** podem ser contribuintes. **Cláusula contratual**\ntransferindo IPTU ao locatário (Lei 8.245 arts. 22 VIII e 25)\né inoponível ao Fisco. O locatário\nresponde **contratualmente** ao locador, não ao Município."
+description: "Usar para pesquisar ou analisar: IPTU + Locatário (Tema 122 STJ + Súm. 614). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPTU + Locatário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Valor Aduaneiro e Capatazia (Tema 1.014 STJ + AVA-GATT art. 8)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/valor-aduaneiro-capatazia-tema-1014.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/valor-aduaneiro-capatazia-tema-1014/SKILL.md"
 triggers:
   - "capatazia valor aduaneiro"
   - "Tema 1.014 STJ"
@@ -20,10 +20,15 @@ triggers:
   - "Regulamento Aduaneiro art. 77"
   - "despesas de capatazia importação"
   - "composição do valor aduaneiro"
-description: "Composição do valor aduaneiro (BC do imposto de importação): AVA-GATT\nart. 8 §§1-2 (Dec. 1.355/1994) + Regulamento Aduaneiro art. 77 (Dec.\n6.759/2009); Tema 1.014 STJ (REsp 1.799.306: capatazia INTEGRA o valor\naduaneiro, validando a IN SRF 327/2003); virada normativa do Dec.\n11.090/2022 + IN RFB 2.090/2022 (capatazia no destino destacada NÃO\nintegra desde 08/06/2022); THC origem vs destino; embargos, anulatórias\ne repetição de indébito de importadores."
+description: "Usar para pesquisar ou analisar: Valor Aduaneiro e Capatazia (Tema 1.014 STJ + AVA-GATT art. 8). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Valor Aduaneiro e Capatazia (Tema 1.014 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

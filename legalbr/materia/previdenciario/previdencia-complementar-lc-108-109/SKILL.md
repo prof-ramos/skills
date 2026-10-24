@@ -6,7 +6,7 @@ category: "materia"
 materia: "previdenciario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/previdenciario/previdencia-complementar-lc-108-109.md"
+sourcePath: "legalbr/materia/previdenciario/previdencia-complementar-lc-108-109/SKILL.md"
 triggers:
   - "previdência complementar"
   - "previdência privada fechada"
@@ -23,10 +23,15 @@ triggers:
   - "ferroviário da RFFSA"
   - "Lei 8.186/91"
   - "Tema 473 STJ"
-description: "Microssistema da previdência complementar (CF 202 + LC 108/109/2001): EFPC e\nEAPC, institutos obrigatórios (resgate, portabilidade, BPD, autopatrocínio),\ncusteio e equacionamento de déficit (LC 109 art. 21), PREVIC (Lei 12.154/2009),\ncompetência da justiça comum (Tema 190 STF), CDC só nas abertas (Súm. 563 STJ)\ne teses repetitivas STJ (Temas 907, 936, 943, 955, 977); complementação\nlegal dos ferroviários da RFFSA paga pela União (Lei 8.186/91 + Tema 473 STJ)."
+description: "Usar para pesquisar ou analisar: Previdência Complementar (LC 108/2001 e LC 109/2001): EFPC, PREVIC, Benefícios e Equacionamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Previdência Complementar (LC 108/2001 e LC 109/2001)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

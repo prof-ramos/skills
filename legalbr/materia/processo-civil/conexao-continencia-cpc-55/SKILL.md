@@ -5,8 +5,8 @@ title: "Conexão + Continência + Prevenção (CPC 55-59 + Súm. 235 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/conexao-continencia-cpc-55.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/conexao-continencia-cpc-55/SKILL.md"
 triggers:
   - "conexão"
   - "continência"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 235 STJ"
   - "local do dano ação coletiva"
   - "reunião de processos"
-description: "Conexão + continência + prevenção CPC 55-59: CPC 55 conexão\n(mesmo pedido OU causa de pedir) + §3 afinidade (risco decisões\nconflitantes); CPC 56 continência (mesmas partes + causa pedir\n+ pedido mais amplo); CPC 57 reunião (continente antes extingue\ncontida); CPC 58 juízo prevento; CPC 59 registro/distribuição\ntorna prevento; Súm. 235 STJ (não reúne se uma já julgada);\ncompetência de ação coletiva pelo local do dano (LACP + CDC)."
+description: "Usar para pesquisar ou analisar: Conexão + Continência + Prevenção (CPC 55-59 + Súm. 235 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conexão + Continência + Prevenção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 55: CONEXÃO
 

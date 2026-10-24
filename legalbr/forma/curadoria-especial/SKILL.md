@@ -5,8 +5,8 @@ title: "Curadoria Especial (Defensoria Pública)"
 category: "forma"
 materia: null
 documentType: "curadoria-especial"
-version: 1
-sourcePath: "lib/skills/official/forma/curadoria-especial.md"
+version: 2
+sourcePath: "legalbr/forma/curadoria-especial/SKILL.md"
 triggers:
   - "curador especial"
   - "curadoria especial"
@@ -18,10 +18,15 @@ triggers:
   - "incapaz sem representante"
   - "colidência de interesses"
   - "LC 80 art. 4 XVI"
-description: "Curadoria especial (CPC 72; LC 80/94 art. 4 XVI; Súm. 196 STJ):\natribuição PRIVATIVA da Defensoria Pública quando réu citado por\nEDITAL ou HORA CERTA não comparece, preso revel, incapaz sem\nrepresentante ou colidência. Defesa por NEGATIVA GERAL (CPC 341 III),\nRECONVENÇÃO vedada, e curador não responde por sucumbência."
+description: "Usar para redigir ou revisar: Curadoria Especial (Defensoria Pública). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Curadoria Especial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Sanções Administrativas de Consumo e Defesa perante o PROCON (CDC 55-6
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/sancoes-administrativas-cdc-procon.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/sancoes-administrativas-cdc-procon/SKILL.md"
 triggers:
   - "PROCON"
   - "multa do PROCON"
@@ -20,10 +20,15 @@ triggers:
   - "anulatória de multa PROCON"
   - "Lei 9.873 prescrição punitiva"
   - "contrapropaganda"
-description: "Regime sancionador administrativo do CDC (arts. 55-60): rol de sanções,\ndosimetria da multa (art. 57 par. único: 200 a 3.000.000 UFIR), rito do\nprocesso administrativo do Dec. 2.181/1997 (atualizado pelo Dec.\n10.887/2021), prescrição (Lei 9.873/1999; Tema 1.294 STJ) e defesa\nadministrativa e judicial (SV 21; Súm. 373 STJ) perante PROCON e Senacon."
+description: "Usar para pesquisar ou analisar: Sanções Administrativas de Consumo e Defesa perante o PROCON (CDC 55-60). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sanções Administrativas de Consumo e Defesa perante o PROCON
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

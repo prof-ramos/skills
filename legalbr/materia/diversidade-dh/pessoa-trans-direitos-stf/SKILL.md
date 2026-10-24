@@ -5,8 +5,8 @@ title: "Direitos da Pessoa Trans e Travesti"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/pessoa-trans-direitos-stf.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/pessoa-trans-direitos-stf/SKILL.md"
 triggers:
   - "pessoa trans"
   - "transexual"
@@ -20,10 +20,15 @@ triggers:
   - "nome social"
   - "hormonioterapia"
   - "cirurgia redesignação"
-description: "Direitos da pessoa trans e travesti consolidados: ADI 4275 + RE\n670.422 (Tema 761) STF (2018) retificação de prenome e gênero sem\ncirurgia/laudo, por via judicial ou administrativa; Provimento CNJ\n149/2023 (operacionaliza); Resolução CNJ 348/2020 (sistema prisional);\nSTJ 6ª Turma (REsp 1.977.124, 2022) mulher trans destinatária da LMP;\nvisita íntima com acesso igualitário onde admitida (Res. CNJ 348/2020\n+ atos do CNPCP); saúde trans\nno SUS (Portaria GM 2.803/2013); acesso a documentos, saúde,\neducação, trabalho, justiça."
+description: "Usar para pesquisar ou analisar: Direitos da Pessoa Trans e Travesti. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos da Pessoa Trans e Travesti
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

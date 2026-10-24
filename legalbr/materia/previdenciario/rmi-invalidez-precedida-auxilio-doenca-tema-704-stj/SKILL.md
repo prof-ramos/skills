@@ -5,8 +5,8 @@ title: "RMI da Aposentadoria por Invalidez Precedida de Auxílio-Doença (Tema 7
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/rmi-invalidez-precedida-auxilio-doenca-tema-704-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/rmi-invalidez-precedida-auxilio-doenca-tema-704-stj/SKILL.md"
 triggers:
   - "Tema 704 STJ"
   - "Súmula 557 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "benefícios intercalados com atividade"
   - "salário-de-benefício intercalado"
   - "conversão auxílio-doença aposentadoria"
-description: "Cálculo da RMI da aposentadoria por invalidez precedida de\nauxílio-doença: Tema 704 STJ e Súmula 557 STJ (conversão sem retorno\nao trabalho = 100% do salário-de-benefício do auxílio-doença, art. 36\n§7 do Decreto 3.048/99), Tema 88 STF (art. 29 §5 da Lei 8.213 só para\nperíodos intercalados com atividade) e regime pós-EC 103 para DII a\npartir de 13/11/2019."
+description: "Usar para pesquisar ou analisar: RMI da Aposentadoria por Invalidez Precedida de Auxílio-Doença (Tema 704 STJ + Tema 88 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RMI da Aposentadoria por Invalidez Precedida de Auxílio-Doença (Tema 704 STJ, Súmula 557 STJ e Tema 88 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Tese revisional recorrente em JEF: segurado aposentado por invalidez após período em auxílio-doença questiona o método de cálculo da RMI. A solução depende de uma distinção binária: **conversão direta sem retorno ao trabalho** versus **períodos de auxílio-doença intercalados com atividade** no período básico de cálculo (PBC).
 

@@ -5,8 +5,8 @@ title: "Cartão de Crédito: Juros do Rotativo (Lei 14.690/2023)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cartao-credito-juros-rotativo.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cartao-credito-juros-rotativo/SKILL.md"
 triggers:
   - "cartão de crédito"
   - "juros rotativo"
@@ -18,10 +18,15 @@ triggers:
   - "Res. CMN 5.112"
   - "encargos 100% do principal"
   - "Res. CMN 4.549"
-description: "Cartão de crédito e juros do rotativo sob Lei 14.690/2023 +\nRes. CMN 5.112/2023: rotativo limitado a 30 dias (Res. CMN 4.549);\nnovo teto de juros (encargos não podem superar 100% do principal,\noperações a partir de 03/01/2024); parcelamento automático; anuidade\ne encargos sujeitos a CDC; portabilidade de dívida de cartão\n(Res. CMN 5.057/5.112); Súm. 530 STJ (sem prova da taxa pactuada,\naplica-se a taxa média de mercado do Bacen); Súm. 539/541\n(capitalização); Súm. 472 (comissão de permanência)."
+description: "Usar para pesquisar ou analisar: Cartão de Crédito: Juros do Rotativo (Lei 14.690/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cartão de Crédito: Juros do Rotativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

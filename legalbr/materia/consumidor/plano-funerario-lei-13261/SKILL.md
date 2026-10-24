@@ -5,8 +5,8 @@ title: "Planos de Assistência Funerária (Lei 13.261/2016)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/plano-funerario-lei-13261.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-funerario-lei-13261/SKILL.md"
 triggers:
   - "plano funerário"
   - "plano de assistência funerária"
@@ -18,10 +18,15 @@ triggers:
   - "serviço funerário contratado"
   - "cancelamento de plano funeral"
   - "re-carência por atraso"
-description: "Planos de assistência funerária sob a Lei 13.261/2016 + CDC: conteúdo\nobrigatório do contrato (art. 8º: carência, rescisão a qualquer tempo,\nacionamento e abrangência), carência válida só se clara e destacada (CDC\n54 §4º) e re-carência por atraso abusiva (CDC 51 IV), vedação da perda das\nparcelas (CDC 51 e 53), negativa de cobertura no óbito e dano moral,\nproteção reforçada do contratante idoso (CDC 39 IV)."
+description: "Usar para pesquisar ou analisar: Planos de Assistência Funerária (Lei 13.261/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Planos de Assistência Funerária (Lei 13.261/2016)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

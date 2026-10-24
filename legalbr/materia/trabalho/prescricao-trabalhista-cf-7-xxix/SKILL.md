@@ -5,8 +5,8 @@ title: "Prescrição Trabalhista (CF 7 XXIX + Súm. 308 TST)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/prescricao-trabalhista-cf-7-xxix.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/prescricao-trabalhista-cf-7-xxix/SKILL.md"
 triggers:
   - "prescrição trabalhista"
   - "CF 7 XXIX"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 308 TST"
   - "Súm. 326 TST"
   - "CLT 11-A"
-description: "Prescrição trabalhista (CF 7 XXIX + CLT 11): bienal a partir da\nextinção do contrato; quinquenal das parcelas anteriores ao\najuizamento; FGTS Tema 608 STF (5 anos, modulada após 13/11/2014);\nintercorrente após Reforma (CLT 11-A, 2 anos); interrupção pelo\najuizamento quanto a pedidos idênticos (CLT 11 §3); prescrição total\ndo CLT 11 §2; causas suspensivas e interruptivas (CPC + CC 202)."
+description: "Usar para pesquisar ou analisar: Prescrição Trabalhista (CF 7 XXIX + Súm. 308 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

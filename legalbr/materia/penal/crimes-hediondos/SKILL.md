@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-hediondos.md"
+sourcePath: "legalbr/materia/penal/crimes-hediondos/SKILL.md"
 triggers:
   - "crimes hediondos"
   - "Lei 8.072/1990"
@@ -18,10 +18,15 @@ triggers:
   - "feminicídio crime hediondo"
   - "livramento condicional hediondo"
   - "Lei 15.487 crimes ECA hediondos"
-description: "Rol taxativo da Lei 8.072/1990, equiparados, consequências penais e\nexecução, com a enumeração estrita dos crimes do ECA tornados\nhediondos e ampliados pela Lei 15.487/2026."
+description: "Usar para pesquisar ou analisar: Crimes Hediondos (Lei 8.072/1990). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Hediondos (Lei 8.072/1990)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

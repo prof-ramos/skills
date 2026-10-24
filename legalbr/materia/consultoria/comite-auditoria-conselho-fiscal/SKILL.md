@@ -5,8 +5,8 @@ title: "Comitê de Auditoria + Conselho Fiscal"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/comite-auditoria-conselho-fiscal.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/comite-auditoria-conselho-fiscal/SKILL.md"
 triggers:
   - "comitê de auditoria"
   - "conselho fiscal"
@@ -16,10 +16,15 @@ triggers:
   - "Sarbanes-Oxley"
   - "SOX"
   - "financial expertise"
-description: "Comitê de Auditoria (estatutário ou não, CVM RCVM 80/22 + Lei\n13.303 + Novo Mercado B3) e Conselho Fiscal (LSA 161-165):\ncomposição, independência, financial expertise, atribuições\n(controles internos + auditoria + reportes financeiros + risk +\ncompliance + denúncias), interface com auditoria externa\n(RCVM 23, rotação), reporting ao Conselho, Sarbanes-Oxley\npara cias listadas SEC e PCAOB."
+description: "Usar para pesquisar ou analisar: Comitê de Auditoria + Conselho Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comitê de Auditoria + Conselho Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Comitê de Auditoria (CAE / CAUD)
 

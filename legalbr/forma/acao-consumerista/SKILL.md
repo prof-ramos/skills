@@ -5,8 +5,8 @@ title: "Ação Consumerista contra Fornecedor"
 category: "forma"
 materia: null
 documentType: "acao-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/acao-consumerista/SKILL.md"
 triggers:
   - "ação consumerista"
   - "acidente de consumo"
@@ -16,10 +16,15 @@ triggers:
   - "foro do domicílio do consumidor CDC 101 I"
   - "responsabilidade objetiva e inversão do ônus CDC 6º VIII"
   - "decadência CDC 26 e prescrição quinquenal CDC 27"
-description: "Ação consumerista contra fornecedor sob o CDC e o CPC: foro do\nconsumidor (art. 101 I); distinção entre vício (arts. 18 a 20, com\ndecadência do art. 26) e fato do produto ou serviço (arts. 12 a 14,\ncom prescrição quinquenal do art. 27); responsabilidade objetiva e\ninversão do ônus (art. 6º VIII, regra de instrução decidida no\nsaneamento); danos materiais e morais."
+description: "Usar para redigir ou revisar: Ação Consumerista contra Fornecedor. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Consumerista contra Fornecedor
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

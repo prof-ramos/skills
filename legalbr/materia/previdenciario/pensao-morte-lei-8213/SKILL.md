@@ -5,8 +5,8 @@ title: "Pensão por Morte (Lei 8.213/1991 + EC 103/2019 + Lei 13.135/2015)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/pensao-morte-lei-8213.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/pensao-morte-lei-8213/SKILL.md"
 triggers:
   - "pensão por morte"
   - "Lei 8.213/1991"
@@ -20,10 +20,15 @@ triggers:
   - "duração pensão"
   - "cota familiar 50%"
   - "Tema 1.421 STJ"
-description: "Pensão por morte (Lei 8.213/91 + EC 103/2019): dependentes\n(classe I presumida; II/III prova); cálculo 50% + 10%/dep\n(100% só com dependente inválido/deficiente, art. 23 §2 I, até\no teto; na acidentária, 100% é só a BASE de cálculo, art. 26 §3\nII); duração escalonada (vitalícia ≥ 45 anos + 18 contrib. +\n2 anos união); Súm. 340 STJ; união homoafetiva."
+description: "Usar para pesquisar ou analisar: Pensão por Morte (Lei 8.213/1991 + EC 103/2019 + Lei 13.135/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pensão por Morte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

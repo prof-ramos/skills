@@ -5,8 +5,8 @@ title: "Defesa em PAR (Lei Anticorrupção)"
 category: "forma"
 materia: null
 documentType: "defesa-par"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-par-anticorrupcao.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-par-anticorrupcao/SKILL.md"
 triggers:
   - "defesa PAR"
   - "processo administrativo responsabilização"
@@ -18,10 +18,15 @@ triggers:
   - "cadastro CNEP empresas punidas"
   - "programa de integridade"
   - "compliance anticorrupção"
-description: "Defesa em Processo Administrativo de Responsabilização (PAR) sob a Lei\n12.846/13 + Decreto 11.129/22 + IN CGU 13/2019. Investigação\npreliminar; comissão processante (≥2 servidores estáveis); defesa\nescrita em 30 dias após indiciamento; prescrição quinquenal e\nintercorrente (Lei 9.873/99) como prejudiciais; instrução; relatório\nfinal; decisão; pedido de reconsideração em 10 dias com efeito\nsuspensivo; inscrição em CEIS/CNEP; programa de integridade e acordo\nde leniência como eixos."
+description: "Usar para redigir ou revisar: Defesa em PAR (Lei Anticorrupção). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em PAR (Lei Anticorrupção)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

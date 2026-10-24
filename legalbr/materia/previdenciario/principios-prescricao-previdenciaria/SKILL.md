@@ -5,8 +5,8 @@ title: "Princípios da Seguridade Social + Prescrição e Decadência Previdenci
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/principios-prescricao-previdenciaria.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/principios-prescricao-previdenciaria/SKILL.md"
 triggers:
   - "princípios seguridade social"
   - "prescrição previdenciária"
@@ -15,10 +15,15 @@ triggers:
   - "Tema 544 STJ"
   - "Súm. 85 STJ"
   - "EC 113/2021"
-description: "Princípios da seguridade social e prescrição/decadência previdenciárias\nsob a CF 194 par. único, CF 201 e Lei 8.213/91 art. 103: universalidade,\nseletividade, irredutibilidade e equilíbrio atuarial; tempus regit actum\ne benefício mais vantajoso; prescrição quinquenal das parcelas e\nimprescritibilidade do fundo de direito; decadência decenal da revisão."
+description: "Usar para pesquisar ou analisar: Princípios da Seguridade Social + Prescrição e Decadência Previdenciária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios da Seguridade Social + Prescrição e Decadência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## I. Princípios da Seguridade (CF 194 par. único)
 

@@ -5,8 +5,8 @@ title: "Questões Prejudiciais, Exceções e Imparcialidade do Juiz Criminal (CP
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/excecoes-questoes-prejudiciais-cpp-92.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/excecoes-questoes-prejudiciais-cpp-92/SKILL.md"
 triggers:
   - "questão prejudicial penal"
   - "CPP 92"
@@ -21,10 +21,15 @@ triggers:
   - "litispendência criminal"
   - "exceção de coisa julgada penal"
   - "CPP 567"
-description: "Questões prejudiciais (CPP 92-94: obrigatória sobre estado civil,\nfacultativa sobre questão cível diversa; CP 116 I suspende a\nprescrição) e exceções do CPP 95 (suspeição, incompetência,\nlitispendência, ilegitimidade, coisa julgada) com rito dos arts.\n96-111; impedimento e suspeição do juiz (CPP 112 e 252-256);\nnulidade (CPP 564 I) e efeitos da incompetência (CPP 567)."
+description: "Usar para pesquisar ou analisar: Questões Prejudiciais, Exceções e Imparcialidade do Juiz Criminal (CPP 92-112 e 252-256). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Questões Prejudiciais, Exceções e Imparcialidade do Juiz Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Questões prejudiciais (CPP 92-94)
 

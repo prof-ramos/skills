@@ -5,8 +5,8 @@ title: "Súmula Vinculante 62, Revogação da Isenção da COFINS LC 70/91 pela 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/sumula-vinculante-62-isencao-cofins-lc-70-lei-9430.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-62-isencao-cofins-lc-70-lei-9430/SKILL.md"
 triggers:
   - "SV 62"
   - "Súmula Vinculante 62"
@@ -18,10 +18,15 @@ triggers:
   - "lei complementar formal material"
   - "RE 377457"
   - "CF 195 I"
-description: "SV 62 STF (16/12/2024, publicada 09/01/2025): é legítima a\nrevogação da isenção do art. 6 II da LC 70/91 pelo art. 56 da\nLei 9.430/96. LC 70/91 é formalmente complementar mas\nmaterialmente ordinária no ponto da COFINS; precedente RE\n377.457 (Pleno 17/09/2008); supera Súm. 276 STJ; CF 195 I."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 62, Revogação da Isenção da COFINS LC 70/91 pela Lei 9.430/96. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 62, Isenção COFINS LC 70/91
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

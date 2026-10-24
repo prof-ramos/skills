@@ -5,8 +5,8 @@ title: "OSCIPs (Lei 9.790/1999 + Dec. 3.100/1999)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/oscips-lei-9790.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/oscips-lei-9790/SKILL.md"
 triggers:
   - "OSCIP"
   - "Lei 9.790/1999"
@@ -15,10 +15,15 @@ triggers:
   - "concurso de projetos"
   - "organização da sociedade civil de interesse público"
   - "terceiro setor"
-description: "OSCIP (Lei 9.790/1999 + Dec. 3.100/99): qualificação vinculada\npelo Ministério da Justiça; áreas amplas (12: assistência,\ncultura, saúde, educação, voluntariado, meio ambiente, etc.);\ntermo de parceria como instrumento; concurso de projetos\nobrigatório na esfera federal (Dec. 3.100 art. 23, red. Dec.\n7.568/2011); seleção objetiva e impessoal (CF 37; ADI 1.923,\nsobre OS, por analogia); convive com MROSC (13.019);\nprestação de contas + sanções."
+description: "Usar para pesquisar ou analisar: OSCIPs (Lei 9.790/1999 + Dec. 3.100/1999). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # OSCIPs (Lei 9.790/1999)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

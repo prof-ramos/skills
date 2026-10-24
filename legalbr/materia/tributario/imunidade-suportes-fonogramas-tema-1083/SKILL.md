@@ -5,8 +5,8 @@ title: "Imunidade Tributária de Suportes Materiais de Fonogramas (Tema 1.083 ST
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/imunidade-suportes-fonogramas-tema-1083.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/imunidade-suportes-fonogramas-tema-1083/SKILL.md"
 triggers:
   - "Tema 1.083 STF"
   - "imunidade CF 150 VI e"
@@ -17,10 +17,15 @@ triggers:
   - "fonograma videofonograma"
   - "imunidade cultural"
   - "obras musicais brasileiras"
-description: "Tema 1.083 STF (ARE 1.244.302, 09/09/2024): a imunidade\ntributária do art. 150 VI \"e\" CF (EC 75/2013) NÃO se aplica\nàs importações de SUPORTES MATERIAIS PRODUZIDOS FORA DO BRASIL\n(CD, DVD, vinil estrangeiros), ainda que contenham obra musical\nde artista brasileiro. A imunidade protege a produção nacional;\nsuportes fabricados no exterior sofrem normalmente os impostos\nde importação (II, IPI, ICMS)."
+description: "Usar para pesquisar ou analisar: Imunidade Tributária de Suportes Materiais de Fonogramas (Tema 1.083 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imunidade de Suportes Materiais de Fonogramas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

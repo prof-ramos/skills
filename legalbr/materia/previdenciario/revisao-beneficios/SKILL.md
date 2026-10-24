@@ -5,8 +5,8 @@ title: "Revisão de Benefícios Previdenciários"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/revisao-beneficios.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/revisao-beneficios/SKILL.md"
 triggers:
   - "revisão de benefícios"
   - "revisão da vida toda"
@@ -18,10 +18,15 @@ triggers:
   - "decadência decenal revisão"
   - "Tema 1.070 STJ"
   - "atividades concomitantes"
-description: "Revisão de benefícios previdenciários sob a Lei 8.213/91 (arts. 29, 32,\n103 e 144): decadência decenal do direito de revisão e prescrição\nquinquenal das parcelas; revisão do teto (EC 20/98 e EC 41/03) com\nreadequação ao novo limite; revisões dos buracos negro e verde; revisão\ndas atividades concomitantes (Tema 1.070 STJ: soma dos\nsalários-de-contribuição pós-Lei 9.876/99); reflexos da superação da\ntese da vida toda pelo STF e divisor mínimo do art. 29-II."
+description: "Usar para pesquisar ou analisar: Revisão de Benefícios Previdenciários. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão de Benefícios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

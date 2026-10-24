@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "chamamento-processo"
 version: 2
-sourcePath: "lib/skills/official/forma/chamamento-processo.md"
+sourcePath: "legalbr/forma/chamamento-processo/SKILL.md"
 triggers:
   - "chamamento ao processo"
   - "fiador chama afiançado"
@@ -14,10 +14,15 @@ triggers:
   - "art. 130 CPC"
   - "chamamento ao processo do devedor solidário"
   - "chamamento dos demais devedores solidários"
-description: "Chamamento ao processo (arts. 130-132 CPC): réu fiador ou codevedor amplia\no polo passivo (afiançado, demais fiadores, codevedores solidários); só na\ncontestação; sentença vale como título de rateio. Vedado em consumo (CDC 88)."
+description: "Usar para redigir ou revisar: Chamamento ao Processo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Chamamento ao Processo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 130)
 

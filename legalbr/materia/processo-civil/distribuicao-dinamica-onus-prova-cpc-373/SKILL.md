@@ -5,8 +5,8 @@ title: "Ônus da Prova e Distribuição Dinâmica (CPC 373 + CDC 6 VIII)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/distribuicao-dinamica-onus-prova-cpc-373.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/distribuicao-dinamica-onus-prova-cpc-373/SKILL.md"
 triggers:
   - "onus da prova"
   - "CPC 373"
@@ -17,10 +17,15 @@ triggers:
   - "prova diabolica"
   - "Sum 297 STJ"
   - "regra de instrucao"
-description: "Ônus da prova (CPC 373): autor, fatos constitutivos; réu, fatos\nimpeditivos/modificativos/extintivos; distribuição dinâmica (CPC\n373 §1), quando peculiaridades + maior facilidade probatória ou\nimpossibilidade do contrário (prova diabólica); inversão consumerista\n(CDC 6 VIII); convenção (CPC 373 §3); momento do saneamento."
+description: "Usar para pesquisar ou analisar: Ônus da Prova e Distribuição Dinâmica (CPC 373 + CDC 6 VIII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ônus da Prova
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 373, REGRA ESTÁTICA
 

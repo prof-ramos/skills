@@ -5,8 +5,8 @@ title: "Ação Anulatória de Sentença Arbitral"
 category: "forma"
 materia: null
 documentType: "anulacao-sentenca-arbitral"
-version: 1
-sourcePath: "lib/skills/official/forma/anulacao-sentenca-arbitral.md"
+version: 2
+sourcePath: "legalbr/forma/anulacao-sentenca-arbitral/SKILL.md"
 triggers:
   - "anulação sentença arbitral"
   - "art. 32 Lei 9.307"
@@ -17,10 +17,15 @@ triggers:
   - "convenção nula"
   - "cerceamento defesa árbitro"
   - "ultra petita arbitral"
-description: "Ação anulatória de sentença arbitral (Lei 9.307/96 arts. 32-33).\nHipóteses taxativas: convenção nula, árbitro impedido, vício formal,\nultra/extra/citra petita, prevaricação/concussão/corrupção, fora do\nprazo, violação de contraditório/imparcialidade. Prazo decadencial\nde 90 dias do recebimento da sentença ou da decisão dos esclarecimentos\n(Lei 9.307 art. 33 §1). Cabe também em impugnação ao cumprimento de\nsentença arbitral, no mesmo prazo (STJ Tema 4/2022). Vedação ao reexame\nde mérito."
+description: "Usar para redigir ou revisar: Ação Anulatória de Sentença Arbitral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Anulatória de Sentença Arbitral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-improbidade"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-improbidade.md"
+sourcePath: "legalbr/forma/defesa-improbidade/SKILL.md"
 triggers:
   - "defesa improbidade"
   - "contestação improbidade"
@@ -17,10 +17,15 @@ triggers:
   - "manifestação prévia improbidade"
   - "art 17 §7 Lei 8429"
   - "impugnação ao bloqueio de bens improbidade"
-description: "Defesa em ação de improbidade (Lei 8.429/1992 + Lei 14.230/2021):\ncontestação em 30 dias (art. 17 §7, defesa prévia extinta; dobro com\nCPC 183); preliminares (legitimidade ativa MP + ente lesado: ADIs\n7.042/7.043 STF; inépcia sem individualização da conduta, art. 17 §10);\nprescrição do art. 23 como prejudicial (intercorrente de 8 anos + teto\nde 20 anos: ADIs 7.156/7.236); impugnação às cautelares com periculum\ndemonstrado (art. 16 §3); sem foro privilegiado; sem reexame necessário\nda improcedência (art. 17 §19 IV); ANPC (art. 17-B)."
+description: "Usar para redigir ou revisar: Defesa em Ação de Improbidade Administrativa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Ação de Improbidade Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

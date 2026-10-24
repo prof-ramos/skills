@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contrarrazoes-apelacao"
 version: 2
-sourcePath: "lib/skills/official/forma/contrarrazoes-apelacao.md"
+sourcePath: "legalbr/forma/contrarrazoes-apelacao/SKILL.md"
 triggers:
   - "contrarrazões de apelação"
   - "contrarrazões apelação cível"
@@ -20,10 +20,15 @@ triggers:
   - "efeito devolutivo em profundidade"
   - "Súmula 713 STF júri"
   - "CPP 600 contrarrazões de apelação criminal"
-description: "Contrarrazões à apelação cível (CPC 1.009-1.014; prazo 15 dias úteis),\ncriminal (CPP 593 e 600; 8 dias) e ao recurso ordinário trabalhista (CLT\n895 e 900; 8 dias). Técnica defensiva: óbices de admissibilidade e\ndialeticidade (CPC 932 III), preliminares do vencedor (CPC 1.009 §§1º-2º),\napelação adesiva (CPC 997), honorários recursais (85 §11 + Tema 1.059 STJ)\ne limites do devolutivo (1.013; Súm. 713 STF; Súm. 393 TST)."
+description: "Usar para redigir ou revisar: Contrarrazões de Apelação (cível, criminal e trabalhista). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões de Apelação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 O apelado quer **manter a sentença**. A peça cumpre três funções: barrar o conhecimento do recurso, blindar todos os fundamentos da sentença (inclusive os não examinados) e preservar pretensões próprias (preliminares do vencedor, adesiva, honorários recursais).
 

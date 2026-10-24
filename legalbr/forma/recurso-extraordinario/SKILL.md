@@ -5,8 +5,8 @@ title: "Recurso Extraordinário (RE)"
 category: "forma"
 materia: null
 documentType: "recurso-extraordinario"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-extraordinario.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-extraordinario/SKILL.md"
 triggers:
   - "recurso extraordinário"
   - "RE ao STF"
@@ -15,10 +15,15 @@ triggers:
   - "prequestionamento da questão constitucional"
   - "ofensa direta e frontal à Constituição"
   - "causa decidida em única ou última instância"
-description: "Recurso extraordinário ao STF sob a CF (art. 102, III) e o CPC/15\n(arts. 1.029 a 1.041): hipóteses das alíneas \"a\" a \"d\"; causa decidida\nem única ou última instância; ofensa direta e frontal à CF (não cabe\nofensa reflexa, Súm. 636 STF); prequestionamento explícito (Súms. 282\ne 356 STF) e ficto (art. 1.025 CPC); repercussão geral como preliminar\nautônoma e fundamentada; vedação ao reexame fático-probatório (Súm.\n279 STF)."
+description: "Usar para redigir ou revisar: Recurso Extraordinário (RE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Extraordinário (RE)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e hipóteses (CF 102 III)
 

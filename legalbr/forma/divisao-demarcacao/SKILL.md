@@ -5,8 +5,8 @@ title: "Ação de Divisão e Demarcação"
 category: "forma"
 materia: null
 documentType: "divisao-demarcacao"
-version: 1
-sourcePath: "lib/skills/official/forma/divisao-demarcacao.md"
+version: 2
+sourcePath: "legalbr/forma/divisao-demarcacao/SKILL.md"
 triggers:
   - "ação demarcatória de imóvel"
   - "ação divisória de imóvel comum"
@@ -15,10 +15,15 @@ triggers:
   - "aviventação de rumos apagados"
   - "extinção de condomínio sobre imóvel"
   - "perícia e arbitramento de marcos divisórios"
-description: "Ações de divisão e demarcação (CPC 569-598; CC 1.297 e 1.320):\ndemarcatória para fixar ou aviventar limites entre prédios contíguos;\ndivisória para extinguir condomínio; cumulação do art. 570;\nlitisconsórcio necessário dos confinantes ou condôminos; duas fases\n(cognitiva e executiva) com perícia e georreferenciamento; foro da\nsituação do imóvel e registro da sentença."
+description: "Usar para redigir ou revisar: Ação de Divisão e Demarcação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Divisão e Demarcação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

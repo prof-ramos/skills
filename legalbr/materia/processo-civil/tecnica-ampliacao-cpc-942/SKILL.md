@@ -5,8 +5,8 @@ title: "Técnica de Ampliação do Julgamento (CPC 942, substituiu embargos infr
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/tecnica-ampliacao-cpc-942.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tecnica-ampliacao-cpc-942/SKILL.md"
 triggers:
   - "técnica de ampliação"
   - "CPC 942"
@@ -16,10 +16,15 @@ triggers:
   - "julgamento ampliado"
   - "colegiado ampliado"
   - "art. 356 julgamento parcial"
-description: "Técnica de ampliação CPC 942 (substituiu infringentes do CPC/1973):\nprosseguimento do mesmo julgamento na NÃO UNANIMIDADE, convocação\nde novos julgadores para inversão; obrigatória + automática (REsp\n1.733.820, 4ª Turma, reafirmado pela 3ª Turma); aplica-se à apelação\n+ rescisória (rescindir) + agravo contra decisão parcial (CPC 356);\nvedada em IRDR/IAC + remessa necessária + julgamento não unânime\ndo plenário/corte especial (§4)."
+description: "Usar para pesquisar ou analisar: Técnica de Ampliação do Julgamento (CPC 942, substituiu embargos infringentes). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Técnica de Ampliação do Julgamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

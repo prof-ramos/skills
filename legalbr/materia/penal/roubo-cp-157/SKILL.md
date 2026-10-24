@@ -5,8 +5,8 @@ title: "Roubo (CP 157 + Lei 13.654/2018 + Lei 13.964/2019)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/roubo-cp-157.md"
+version: 2
+sourcePath: "legalbr/materia/penal/roubo-cp-157/SKILL.md"
 triggers:
   - "roubo"
   - "CP 157"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 603 STF"
   - "Súm. 443 STJ"
   - "Tema 1.407 STJ"
-description: "Roubo sob CP 157 + Leis 13.654/2018, 13.964/2019 e 15.397/2026:\ncaput (recl. 6-10, Lei 15.397/2026), §1 impróprio, §1-A serviços\nessenciais (6-12), §2 aumentos (concurso, restrição, arma branca,\nfios/cabos, celular, arma de fogo subtraída), §2-A arma de fogo\n(2/3), §2-B uso restrito (dobra), §3 II latrocínio (24-30,\nhediondo); §4 triplo e §5 facção (Lei 15.358/2026); Súm. 603 STF (juiz singular) + Súm. 610 (morte\nconsuma) + Súm. 443 STJ (cumulação de majorantes exige\nfundamentação concreta); Tema 1.407 STJ (perícia da arma, pendente)."
+description: "Usar para pesquisar ou analisar: Roubo (CP 157 + Lei 13.654/2018 + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Roubo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura típica vigente
 

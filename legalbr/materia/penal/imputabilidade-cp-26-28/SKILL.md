@@ -5,8 +5,8 @@ title: "Imputabilidade Penal (CP 26-28 + Súm. 527 STJ + MS)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/imputabilidade-cp-26-28.md"
+version: 2
+sourcePath: "legalbr/materia/penal/imputabilidade-cp-26-28/SKILL.md"
 triggers:
   - "imputabilidade"
   - "CP 26"
@@ -20,10 +20,15 @@ triggers:
   - "actio libera in causa"
   - "dependência química inimputabilidade"
   - "incidente de insanidade"
-description: "Imputabilidade CP 26-28: sistema BIOPSICOLÓGICO (causa biológica\n+ efeito psicológico: incapaz de entender ilícito OU determinar-\nse); §u semi-imputável (redução 1/3 a 2/3); CP 27 menoridade\n(BIOLÓGICO PURO, ECA); CP 28 embriaguez VOLUNTÁRIA não exclui\n(actio libera in causa); alcoolismo/dependência PATOLÓGICA = CP 26\n(STF/STJ); MS CP 96-99 (Súm. 527 STJ, máx pena abstrata)."
+description: "Usar para pesquisar ou analisar: Imputabilidade Penal (CP 26-28 + Súm. 527 STJ + MS). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imputabilidade Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 26: INIMPUTABILIDADE
 

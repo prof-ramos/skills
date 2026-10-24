@@ -5,8 +5,8 @@ title: "Auxílio-Acidente (Lei 8.213/91 art. 86 + Lei 9.528/97)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-acidente.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-acidente/SKILL.md"
 triggers:
   - "auxílio-acidente"
   - "art. 86 Lei 8.213"
@@ -14,10 +14,15 @@ triggers:
   - "Súm. 507 STJ"
   - "sequela consolidada"
   - "Lei 9.528/97"
-description: "Auxílio-acidente (Lei 8.213/91 art. 86, redação Lei 9.528/97):\nnatureza indenizatória por sequela consolidada com redução da\ncapacidade laboral; sem carência; RMI 50% do salário-de-benefício;\ncumulação com aposentadoria vedada após 11/11/1997 (Tema 555 STJ\ne Súm. 507 STJ); DIB no dia seguinte à cessação do auxílio-doença\n(Tema 862 STJ); NTEP e CAT; conversão em aposentadoria por\nincapacidade permanente."
+description: "Usar para pesquisar ou analisar: Auxílio-Acidente (Lei 8.213/91 art. 86 + Lei 9.528/97). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Acidente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

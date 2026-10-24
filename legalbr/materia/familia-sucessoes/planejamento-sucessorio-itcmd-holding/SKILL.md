@@ -5,8 +5,8 @@ title: "Planejamento Sucessório (ITCMD + Holding Familiar)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/planejamento-sucessorio-itcmd-holding.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/planejamento-sucessorio-itcmd-holding/SKILL.md"
 triggers:
   - "planejamento sucessório"
   - "holding familiar"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 796 STF"
   - "sociedade familiar"
   - "cláusulas restritivas"
-description: "Planejamento sucessório: holding familiar (LSA + CC 1.052), doação em\nvida com reserva de usufruto (CC 538-570 + 1.390-1.411), pacto\nantenupcial (CC 1.640-1.652), ITCMD (CF 155 II + LC pendente),\nReforma Tributária (EC 132 + alíquota progressiva nos estados),\ntestamentos (CC 1.857-1.911) e governança familiar."
+description: "Usar para pesquisar ou analisar: Planejamento Sucessório (ITCMD + Holding Familiar). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Planejamento Sucessório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

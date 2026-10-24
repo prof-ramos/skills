@@ -5,8 +5,8 @@ title: "Ação Penal Privada Subsidiária da Pública (CF 5 LIX + CPP 29)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/acao-penal-subsidiaria-cpp-29.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/acao-penal-subsidiaria-cpp-29/SKILL.md"
 triggers:
   - "ação subsidiária"
   - "CF 5 LIX"
@@ -17,10 +17,15 @@ triggers:
   - "prazo denúncia 5 dias preso"
   - "Súm. 524 STF"
   - "reassunção MP"
-description: "Ação penal privada subsidiária da pública CF 5 LIX + CPP 29:\nofendido pode oferecer queixa quando MP não denuncia no prazo\n(5 dias preso, 15 dias solto); cabe só em **inércia**, não em\narquivamento expresso (STF); MP continua atuante (pode aditar,\nreassumir, recorrer); decadência 6 meses (CPP 38); recurso pelo\nofendido em sentido estrito da rejeição; Súm. 524 STF."
+description: "Usar para pesquisar ou analisar: Ação Penal Privada Subsidiária da Pública (CF 5 LIX + CPP 29). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Penal Privada Subsidiária da Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Extravio e Avaria de Bagagem Aérea (Tema 210 STF + Conv. Montreal)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/bagagem-extravio-aereo.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/bagagem-extravio-aereo/SKILL.md"
 triggers:
   - "extravio de bagagem"
   - "bagagem aérea"
@@ -18,10 +18,15 @@ triggers:
   - "Res. ANAC 400"
   - "perda de bagagem"
   - "ARE 766.618"
-description: "Extravio e avaria de bagagem em transporte aéreo sob Tema 210\nSTF (ARE 766.618 + RE 636.331) + Convenção de Montreal +\nRes. ANAC 400/2016: tarifação internacional prevalece para\ndanos materiais em voos internacionais (Tema 210, RE 636.331);\ndanos morais ficam fora das Convenções (STF Tema 1.240, RE\n1.394.401). O **extravio definitivo** gera dano moral presumido\n(*in re ipsa*) na jurisprudência do STJ, não submetido à tarifação\n(REsp 1.842.066/RS); atraso e avaria exigem lesão concreta. Voos domésticos\nseguem o CDC; a Res. ANAC 400 fixa prazos de localização (7 dias\ndoméstico, 21 dias internacional) e indenização proporcional."
+description: "Usar para pesquisar ou analisar: Extravio e Avaria de Bagagem Aérea (Tema 210 STF + Conv. Montreal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extravio e Avaria de Bagagem Aérea
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

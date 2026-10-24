@@ -5,8 +5,8 @@ title: "Norma Penal em Branco Sanitária (Tema 1.246 STF + CP art. 268)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/norma-penal-branco-sanitaria-tema-1246.md"
+version: 2
+sourcePath: "legalbr/materia/penal/norma-penal-branco-sanitaria-tema-1246/SKILL.md"
 triggers:
   - "Tema 1.246 STF"
   - "CP art. 268"
@@ -18,10 +18,15 @@ triggers:
   - "decreto municipal pandemia"
   - "ADI 6.341"
   - "Lei 13.979/2020"
-description: "Tema 1.246 STF (ARE 1.418.846, 25/03/2023): CP art. 268\n(infração de medida sanitária) é norma penal em branco que\nPODE ser complementada por ato infralegal de União, Estados,\nDF e Municípios na esfera respectiva, sem ofensa à CF 22 I.\nDecretos sanitários estaduais/municipais durante pandemia\nCOVID-19 preenchem o tipo. Complementação infralegal não\ncria tipo penal (a norma incriminadora é federal)."
+description: "Usar para pesquisar ou analisar: Norma Penal em Branco Sanitária (Tema 1.246 STF + CP art. 268). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Norma Penal em Branco Sanitária (CP art. 268)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Contrato de Publicidade com Influenciador Digital"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-influenciador-digital.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-influenciador-digital/SKILL.md"
 triggers:
   - "influenciador digital"
   - "influencer"
@@ -20,10 +20,15 @@ triggers:
   - "métricas de engajamento"
   - "take down"
   - "merchan"
-description: "Influenciador digital: identificação publicitária (#publi:\nCONAR + CDC 36); imagem/voz (CC 20); Lei 9.610/98;\nexclusividade; LGPD; responsabilidade solidária na cadeia de fornecimento (CDC 7 §ú, 18, 25 §1)."
+description: "Usar para pesquisar ou analisar: Contrato de Publicidade com Influenciador Digital. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato com Influenciador Digital
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

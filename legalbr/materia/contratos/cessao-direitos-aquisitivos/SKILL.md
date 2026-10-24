@@ -5,8 +5,8 @@ title: "Cessão de Direitos Aquisitivos sobre Imóvel (CC 286-298 + Lei 6.766/79
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/cessao-direitos-aquisitivos.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/cessao-direitos-aquisitivos/SKILL.md"
 triggers:
   - "cessão de direitos aquisitivos"
   - "cessão de PCV"
@@ -18,10 +18,15 @@ triggers:
   - "art. 286 CC cessão crédito"
   - "cessão imobiliária"
   - "cessão de direitos hereditários imóvel"
-description: "Cessão de direitos aquisitivos sobre imóvel (CC 286-298,\nLei 6.766/79 art. 31): requisitos, anuência do promitente\nvendedor, forma, registro no CRI, ITBI só no registro\ntranslativo (CC 1.245; STF Tema 1.124 pendente),\nresponsabilidade cedente/cessionário."
+description: "Usar para pesquisar ou analisar: Cessão de Direitos Aquisitivos sobre Imóvel (CC 286-298 + Lei 6.766/79). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cessão de Direitos Aquisitivos sobre Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

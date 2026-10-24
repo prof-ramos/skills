@@ -5,8 +5,8 @@ title: "Grupo Econômico Trabalhista"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/grupo-economico.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/grupo-economico/SKILL.md"
 triggers:
   - "grupo econômico"
   - "grupo econômico fase de conhecimento"
@@ -17,10 +17,15 @@ triggers:
   - "interesse integrado"
   - "comunhão de interesses"
   - "grupo vertical horizontal"
-description: "Grupo econômico trabalhista sob CLT 2º §§2-3 (pós-Lei 13.467/17) +\nCC 50: responsabilidade solidária dual; grupo vertical (hierarquia)\ne horizontal (interesse integrado, comunhão de interesses, atuação\nconjunta); desconsideração da personalidade (Teoria Maior) via IDPJ;\ninclusão na inicial e limites na execução."
+description: "Usar para pesquisar ou analisar: Grupo Econômico Trabalhista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Grupo Econômico Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais (Lei 13.467/17, Reforma)
 

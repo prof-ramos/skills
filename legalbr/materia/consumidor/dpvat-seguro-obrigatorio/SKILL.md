@@ -5,8 +5,8 @@ title: "DPVAT: Seguro Obrigatório (Lei 6.194 + Súms.)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/dpvat-seguro-obrigatorio.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dpvat-seguro-obrigatorio/SKILL.md"
 triggers:
   - "DPVAT"
   - "Lei 6.194"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 257 STJ"
   - "SPVAT"
   - "LC 207/2024"
-description: "DPVAT (Seguro de Danos Pessoais por Veículos Automotores Terrestres)\nsob Lei 6.194/1974 + súmulas STJ: indenização tarifada por\nmorte (até R$13.500), invalidez permanente proporcional (Lei\n11.945) e reembolso de despesas; vítimas têm direito independente\nde culpa; valor calculado pela Tabela DPVAT (Súm. 474); dedução\ndo DPVAT da indenização judicial (Súm. 246); prescrição trienal\n(Súm. 405). Histórico: Seguradora Líder (sinistros até 31/12/2020)\n+ gestão pela Caixa (2021-2022); Lei 6.194 revogada pela LC\n207/2024 (SPVAT), por sua vez revogada pela LC 211/2024; sinistros\npassados seguem a lei vigente na data do fato."
+description: "Usar para pesquisar ou analisar: DPVAT: Seguro Obrigatório (Lei 6.194 + Súms.). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DPVAT: Seguro Obrigatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Crimes do CDC (arts. 61-80 + Lei 8.137/1990 + Súm. 297 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/crimes-cdc-61-80.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/crimes-cdc-61-80/SKILL.md"
 triggers:
   - "crimes do CDC"
   - "CDC art. 63"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 608 STJ"
   - "CDC art. 27"
   - "publicidade enganosa crime"
-description: "Crimes CDC arts. 61-80 (todos AP PÚBLICA INCONDICIONADA, art.\n80); CDC 63 omitir nocividade (det. 6m-2a); 66 afirmação falsa\n(3m-1a); 67 publicidade enganosa/abusiva (3m-1a); 68 induzir\ncomportamento prejudicial (6m-2a); 71 ameaça/coação cobrança;\n72 impedir acesso info; CDC 76 aumentos; convivência com Lei\n8.137; Súm. 297 + 608 STJ; competência JE (salvo conexão)."
+description: "Usar para pesquisar ou analisar: Crimes do CDC (arts. 61-80 + Lei 8.137/1990 + Súm. 297 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes do CDC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 8.078/1990 (CDC)
 

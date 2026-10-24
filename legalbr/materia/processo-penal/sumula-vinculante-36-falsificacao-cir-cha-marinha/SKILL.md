@@ -5,8 +5,8 @@ title: "Súmula Vinculante 36 - Falsificação CIR/CHA Marinha"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/sumula-vinculante-36-falsificacao-cir-cha-marinha.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sumula-vinculante-36-falsificacao-cir-cha-marinha/SKILL.md"
 triggers:
   - "SV 36"
   - "Súmula Vinculante 36"
@@ -17,10 +17,15 @@ triggers:
   - "HC 110.237"
   - "Capitania dos Portos"
   - "civil documento militar"
-description: "SV 36 STF (sessão plenária de 16/10/2014, DJE 24/10/2014;\nprecedente representativo HC 110.237): \"Compete à Justiça\nFederal comum processar e julgar civil pelos crimes de\nfalsificação e uso de documento falso quando se tratar de CIR ou\nCHA expedidas pela Marinha do Brasil.\""
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 36 - Falsificação CIR/CHA Marinha. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 36 - Falsificação CIR/CHA Marinha
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

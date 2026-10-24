@@ -5,8 +5,8 @@ title: "Dosimetria Penal Trifásica (CP 59 + 68), Regime Legal e Jurisprudência
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/dosimetria-penal-trifasica.md"
+version: 2
+sourcePath: "legalbr/materia/penal/dosimetria-penal-trifasica/SKILL.md"
 triggers:
   - "dosimetria"
   - "pena-base"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 231 STJ"
   - "Súm. 444 STJ"
   - "Súm. 718-719 STF"
-description: "Dosimetria trifásica (CP 68): 1ª pena-base CP 59 (8 vetores: 4\nsubjetivos + 4 objetivos), 2ª agravantes/atenuantes CP 61-66\n(Súm. 231 STJ não baixa do mínimo), 3ª causas de aumento/\ndiminuição (rompe mín./máx.). Frações STJ: 1/8 a 1/6 por\ncircunstância em 1ª fase; 1/6 padrão em 2ª. CP 68 par. único:\nmultiplicidade de causas na PE permite uma só. Inclui regime\ninicial (CP 33), substituição (CP 44), sursis (CP 77), detração\n(CP 42), concurso (CP 69-71), progressão Anticrime (LEP 112)."
+description: "Usar para pesquisar ou analisar: Dosimetria Penal Trifásica (CP 59 + 68), Regime Legal e Jurisprudência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dosimetria Penal Trifásica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura geral
 

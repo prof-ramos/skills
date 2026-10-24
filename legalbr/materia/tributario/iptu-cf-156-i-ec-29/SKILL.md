@@ -5,8 +5,8 @@ title: "IPTU + Progressividade (CF 156 I + EC 29/2000 + CF 182 §4 + Tema 122 ST
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iptu-cf-156-i-ec-29.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iptu-cf-156-i-ec-29/SKILL.md"
 triggers:
   - "IPTU"
   - "CF 156 I"
@@ -22,10 +22,15 @@ triggers:
   - "REsp 1.111.202"
   - "Súm. 397 STJ"
   - "Súm. 614 STJ"
-description: "IPTU CF 156 I Municípios/DF (propriedade + domínio útil + posse,\nCTN 32-34); BC valor venal; 2 progressividades: (1) extrafiscal\nCF 182 §4 II + Lei 10.257/2001 (15% ano + 5 anos, subutilização)\n+ (2) FISCAL CF 156 §1 EC 29/2000 (valor + uso/localização);\nSúm. 668 (pré-EC 29 vedava fiscal); Súm. 583/539 STF; Tema 122\nSTJ (REsp 1.111.202: promitente comprador e vendedor, Município\nescolhe); Súm. 397 STJ (carnê)."
+description: "Usar para pesquisar ou analisar: IPTU + Progressividade (CF 156 I + EC 29/2000 + CF 182 §4 + Tema 122 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPTU + Progressividade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 156 I
 

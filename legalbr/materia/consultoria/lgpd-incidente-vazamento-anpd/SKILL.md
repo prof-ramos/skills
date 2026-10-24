@@ -5,8 +5,8 @@ title: "LGPD: Resposta a Incidente e Comunicação à ANPD"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/lgpd-incidente-vazamento-anpd.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/lgpd-incidente-vazamento-anpd/SKILL.md"
 triggers:
   - "incidente de segurança"
   - "vazamento de dados"
@@ -16,10 +16,15 @@ triggers:
   - "Resolução CD 15"
   - "incident response"
   - "cibersegurança"
-description: "Resposta a incidente de segurança e vazamento de dados sob LGPD\n(art. 48 + Resolução ANPD CD 15/2024): definição de incidente,\ntriagem de gravidade, comunicação à ANPD (prazo 3 dias úteis em\ngraves), comunicação ao titular, investigação forense, medidas\nmitigantes, retenção de evidências, coordenação com BCB\n(cibersegurança) + SUSEP + CVM, indenização e multa (até R$ 50M\nou 2% faturamento, Resolução CD/ANPD 4/2023 dosimetria)."
+description: "Usar para pesquisar ou analisar: LGPD: Resposta a Incidente e Comunicação à ANPD. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD: Incidente e Vazamento de Dados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

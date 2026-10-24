@@ -5,8 +5,8 @@ title: "Tutela Inibitória + Remoção do Ilícito + Específica (CPC 497-500 + 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/tutela-provisoria/tutela-inibitoria-remocao-ilicito.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tutela-inibitoria-remocao-ilicito/SKILL.md"
 triggers:
   - "tutela inibitória"
   - "tutela específica"
@@ -19,10 +19,15 @@ triggers:
   - "multa coercitiva"
   - "remoção de conteúdo ilícito"
   - "Súm. 629 STJ"
-description: "Tutela inibitória, de remoção do ilícito e específica sob CPC 497-\n500 + 536-537: tríade de tutelas contra o ilícito (independem de\ndano, dolo ou culpa); preferência da tutela específica (CPC 497) +\nresultado prático equivalente; conversão excepcional (CPC 499);\ncumulação com astreintes (CPC 500); meios atípicos (CPC 536)."
+description: "Usar para pesquisar ou analisar: Tutela Inibitória + Remoção do Ilícito + Específica (CPC 497-500 + 536-537). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Inibitória + Remoção do Ilícito + Específica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 497: tutela específica preferencial
 

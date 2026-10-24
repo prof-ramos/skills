@@ -5,8 +5,8 @@ title: "Indenização por Morte e Incapacidade + Pensionamento Civil (CC 948-950
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/indenizacao-morte-incapacidade-cc-948.md"
+version: 2
+sourcePath: "legalbr/materia/civil/indenizacao-morte-incapacidade-cc-948/SKILL.md"
 triggers:
   - "pensionamento civil"
   - "CC 948 homicídio indenização"
@@ -20,10 +20,15 @@ triggers:
   - "dois terços salário mínimo pensão"
   - "expectativa de vida IBGE pensão"
   - "despesas de funeral e luto"
-description: "Quantificação da indenização por morte (CC 948: tratamento, funeral, luto\ne prestação de alimentos) e por lesão/incapacidade (CC 949-950: despesas,\nlucros cessantes e pensão pela depreciação da capacidade): Súm. 491 STF\n(filho menor sem trabalho remunerado), critérios consolidados do STJ (2/3\ndos rendimentos, marcos de 14/25 anos, expectativa IBGE), parcela única\n(CC 950 par. único), constituição de capital (CPC 533 + Súm. 313 STJ) e\ndedução do DPVAT (Súm. 246 STJ)."
+description: "Usar para pesquisar ou analisar: Indenização por Morte e Incapacidade + Pensionamento Civil (CC 948-950). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indenização por Morte e Incapacidade (Pensionamento Civil)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Camada de **quantificação e liquidação** dos danos materiais por morte e incapacidade. A configuração do ilícito, do nexo e das excludentes está em [[responsabilidade-civil-nexo-cc-186]]; o dano moral em [[dano-moral-quantificacao]].
 

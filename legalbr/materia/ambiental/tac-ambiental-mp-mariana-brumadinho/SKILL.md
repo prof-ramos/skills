@@ -5,8 +5,8 @@ title: "TAC Ambiental + Acordos MP (Lei 7.347 + Mariana + Brumadinho)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/tac-ambiental-mp-mariana-brumadinho.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/tac-ambiental-mp-mariana-brumadinho/SKILL.md"
 triggers:
   - "TAC ambiental"
   - "termo ajustamento conduta"
@@ -17,10 +17,15 @@ triggers:
   - "Renova Fundação"
   - "dano ambiental reparação"
   - "ACP ambiental"
-description: "TAC (Termo de Ajustamento de Conduta) Ambiental, **Lei 7.347/85 art.\n5 §6** + **Lei 14.230/2021 (LIA)**: instrumento alternativo\nextrajudicial para reparação de dano ambiental. Firmado entre\n**órgão público colegitimado** (MP, AGU, defensoria, órgão\nambiental, Procons) e o **violador**, com **eficácia de título\nexecutivo extrajudicial**. **Casos paradigmáticos**: Mariana\n(Samarco/Vale/BHP, 2015) e Brumadinho (Vale, 2019), com bilhões\nem reparação + Fundação Renova + acordo de R$ 37 bi. Princípios:\nreparação integral + obrigações de fazer + financeiras + sociais.\nCrítica + reforma da LIA + monitoramento judicial."
+description: "Usar para pesquisar ou analisar: TAC Ambiental + Acordos MP (Lei 7.347 + Mariana + Brumadinho). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # TAC Ambiental + Acordos com MP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

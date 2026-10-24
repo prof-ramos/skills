@@ -5,8 +5,8 @@ title: "Responsabilidade do Estado por Atos de Notários e Registradores (Tema 7
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-notarios-registradores-tema-777.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-notarios-registradores-tema-777/SKILL.md"
 triggers:
   - "Tema 777 STF"
   - "RE 842.846"
@@ -19,10 +19,15 @@ triggers:
   - "certidão errônea de cartório"
   - "prescrição trienal notário"
   - "dano causado por serventia extrajudicial"
-description: "Regime dual da responsabilidade por atos de tabeliães e registradores:\nEstado responde objetivamente com regresso obrigatório (Tema 777 STF,\nRE 842.846); delegatário responde subjetivamente com prescrição trienal\n(Lei 8.935/94 art. 22, red. Lei 13.286/2016). Legitimidade passiva,\nfraudes registrais e notariais, interinos (Tema 779, referência)."
+description: "Usar para pesquisar ou analisar: Responsabilidade do Estado por Atos de Notários e Registradores (Tema 777 STF + Lei 13.286/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade do Estado por Atos de Notários e Registradores (Tema 777 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

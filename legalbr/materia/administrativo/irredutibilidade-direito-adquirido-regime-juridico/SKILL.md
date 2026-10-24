@@ -5,8 +5,8 @@ title: "Irredutibilidade de Vencimentos e Reestruturação de Carreira (Temas 41
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/irredutibilidade-direito-adquirido-regime-juridico.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/irredutibilidade-direito-adquirido-regime-juridico/SKILL.md"
 triggers:
   - "irredutibilidade de vencimentos"
   - "Tema 41 STF"
@@ -19,10 +19,15 @@ triggers:
   - "ampliação de jornada servidor"
   - "montante global da remuneração"
   - "absorção de vantagem por reestruturação"
-description: "Régua prática das reestruturações remuneratórias de servidores: CF 37 XV +\nTemas 41 e 24 STF (sem direito adquirido a regime jurídico; irredutibilidade\nprotege o montante global), Tema 514 (ampliação de jornada sem aumento viola\nirredutibilidade), Tema 494 (percentual judicial cessa com incorporação\nsuperveniente) e Tema 439 (reestruturação de carreira sem equivalência à\núltima classe nova)."
+description: "Usar para pesquisar ou analisar: Irredutibilidade de Vencimentos e Reestruturação de Carreira (Temas 41, 514, 494 e 439 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Irredutibilidade de Vencimentos e Reestruturação de Carreira
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

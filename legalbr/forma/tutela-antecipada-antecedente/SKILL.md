@@ -5,8 +5,8 @@ title: "Tutela Antecipada Antecedente"
 category: "forma"
 materia: null
 documentType: "tutela-antecipada-antecedente"
-version: 1
-sourcePath: "lib/skills/official/forma/tutela-antecipada-antecedente.md"
+version: 2
+sourcePath: "legalbr/forma/tutela-antecipada-antecedente/SKILL.md"
 triggers:
   - "tutela antecipada requerida em caráter antecedente"
   - "tutela provisória de urgência art. 303 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "fumus boni iuris e periculum in mora"
   - "ação para rever ou desconstituir a tutela estabilizada"
   - "distinção da tutela cautelar antecedente art. 305"
-description: "Tutela antecipada antecedente sob o CPC/15 (arts. 303-304):\nurgência contemporânea à propositura com inicial simplificada;\naditamento em 15 dias sob pena de extinção; estabilização na\nausência de impugnação; revisão em 2 anos sem coisa julgada\nmaterial; distinção da cautelar antecedente do art. 305."
+description: "Usar para redigir ou revisar: Tutela Antecipada Antecedente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Antecipada Antecedente
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e cabimento (art. 303)
 

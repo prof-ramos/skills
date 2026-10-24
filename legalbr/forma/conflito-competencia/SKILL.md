@@ -5,8 +5,8 @@ title: "Conflito de Competência"
 category: "forma"
 materia: null
 documentType: "conflito-competencia"
-version: 3
-sourcePath: "lib/skills/official/forma/conflito-competencia.md"
+version: 2
+sourcePath: "legalbr/forma/conflito-competencia/SKILL.md"
 triggers:
   - "conflito de competência"
   - "conflito positivo"
@@ -15,10 +15,15 @@ triggers:
   - "art. 951 CPC"
   - "conflito sobre reunião de processos"
   - "conflito sobre separação de processos"
-description: "Conflito de competência (arts. 951-959 CPC): positivo, negativo, agrupamento\nou separação; suscita juiz, parte ou MP (954); STJ entre tribunais e\njustiças diversas (CF 105 I d); Súmula 235/STJ."
+description: "Usar para redigir ou revisar: Conflito de Competência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conflito de Competência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 951)
 

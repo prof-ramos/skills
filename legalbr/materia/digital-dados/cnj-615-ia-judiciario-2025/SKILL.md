@@ -5,8 +5,8 @@ title: "IA no Judiciário: Reso CNJ 615/2025"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/cnj-615-ia-judiciario-2025.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/cnj-615-ia-judiciario-2025/SKILL.md"
 triggers:
   - "Resolução CNJ 615"
   - "IA judiciário"
@@ -17,10 +17,15 @@ triggers:
   - "risco IA classificação"
   - "sandbox judicial"
   - "Sinapses plataforma"
-description: "Inteligência Artificial no Judiciário, **Resolução CNJ 615/2025**\n(publicada 11/03/2025, vigência 14/07/2025). Substitui Reso CNJ\n332/2020. Princípios: **transparência + supervisão humana +\nproporcionalidade + privacy by design**. **Categorização de risco**\nestruturada. **IA generativa** regulada especificamente.\n**AIA (Avaliação de Impacto Algorítmico)** obrigatória.\n**Supervisão humana** em **todas as fases**, IA é apoio, não\nsubstitui magistrado. **CNIAJ** (Comitê Nacional de IA do Judiciário)\n+ plataforma **Sinapses**. Aplicação a tribunais + servidores +\nferramentas. Compatibilidade com **PL 2338/2023** + LGPD + AI Act UE."
+description: "Usar para pesquisar ou analisar: IA no Judiciário: Reso CNJ 615/2025. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reso CNJ 615/2025: IA no Judiciário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

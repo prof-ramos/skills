@@ -5,8 +5,8 @@ title: "Direito Real de Laje (CC 1.510-A a 1.510-E + Lei 13.465/2017)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direito-laje-cc-1510a.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direito-laje-cc-1510a/SKILL.md"
 triggers:
   - "direito de laje"
   - "direito real de laje"
@@ -21,10 +21,15 @@ triggers:
   - "laje extinção"
   - "laje sucessivas"
   - "REURB laje"
-description: "Direito real de laje (CC 1.225 XIII + 1.510-A a 1.510-E,\nincluído pela Lei 13.465/2017): unidade imobiliária autônoma\nem superfície sobreposta ou inferior - matrícula propria;\nabrange superfície superior OU inferior; sucessivas lajes\nadmitidas; preferência do dono da construção-base; extinção\npor ruína se não reconstruir em 5 anos; uso REURB-S e situações\nde habitação consolidada."
+description: "Usar para pesquisar ou analisar: Direito Real de Laje (CC 1.510-A a 1.510-E + Lei 13.465/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Real de Laje
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/execucao-fazenda-precatorios-rpv.md"
+sourcePath: "legalbr/materia/administrativo/execucao-fazenda-precatorios-rpv/SKILL.md"
 triggers:
   - "precatórios"
   - "RPV"
@@ -23,10 +23,15 @@ triggers:
   - "cancelamento de precatório"
   - "Tema 1.141 STJ"
   - "Tema 1.217 STJ"
-description: "Execução contra a Fazenda Pública sob CF 100 e CPC 534-535: ordem\ncronológica e preferências (idoso, doença grave, PcD); RPV e\nprecatórios; EC 113/2021 (SELIC), EC 109 e 114, EC 136/2025\n(IPCA+2% com cap SELIC, prazo 1º/02); vedação à multa do art. 523;\nTema 1.190 STJ (honorários só se houver impugnação); Temas 877 e\n253 STF (conselhos de fiscalização e estatais concorrenciais fora\ndo regime); cancelamento e reexpedição de requisitórios federais não\nlevantados (Lei 13.463/2017 + ADI 5.755 + Temas 1.141/1.217 STJ)."
+description: "Usar para pesquisar ou analisar: Execução contra a Fazenda + Precatórios + RPV (CF 100 + CPC 534-535). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução contra a Fazenda + Precatórios + RPV
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Arquitetura constitucional (CF 100)
 

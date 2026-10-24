@@ -5,8 +5,8 @@ title: "Separação Judicial como Requisito do Divórcio (Tema 1.053 STF + EC 66
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/divorcio-separacao-tema-1053.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/divorcio-separacao-tema-1053/SKILL.md"
 triggers:
   - "Tema 1.053 STF"
   - "separação judicial divórcio"
@@ -15,10 +15,15 @@ triggers:
   - "art. 1.580 CC"
   - "divórcio direto"
   - "conversão de separação em divórcio"
-description: "Tema 1.053 STF (RE 1.167.478, 08/11/2023): após a EC 66/2010, a\nseparação judicial NÃO é mais requisito para o divórcio NEM\nsubsiste como figura autônoma no ordenamento. Preserva-se o\nestado civil de quem já estava separado (judicialmente ou por\nescritura), com conversão em divórcio facultativa. CF 226 §6 +\nCC 1.580."
+description: "Usar para pesquisar ou analisar: Separação Judicial como Requisito do Divórcio (Tema 1.053 STF + EC 66/2010). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Separação Judicial e Divórcio após EC 66
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

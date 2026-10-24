@@ -5,8 +5,8 @@ title: "Imposto de Renda, CIDE-Incra e Contribuições, Súmulas STJ"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/imposto-renda-cide-incra-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/imposto-renda-cide-incra-stj-sumulas/SKILL.md"
 triggers:
   - "IRPF aposentadoria"
   - "IRRF servidores"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 627 STJ"
   - "Súm. 516 STJ"
   - "Súm. 525 STJ"
-description: "IRPF/IRRF, complementação aposentadoria, juros de mora, férias e licenças;\nEstados/DF legitimados à restituição de IR retido na fonte; descontos\ncooperativas; CIDE-Incra ainda vigente; Cebas, natureza declaratória; câmara\nde vereadores e personalidade judiciária."
+description: "Usar para pesquisar ou analisar: Imposto de Renda, CIDE-Incra e Contribuições, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IR, CIDE-Incra e Contribuições, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Imposto de Renda, Pessoa Física
 

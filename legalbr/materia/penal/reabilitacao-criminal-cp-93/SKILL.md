@@ -5,8 +5,8 @@ title: "Reabilitação Criminal (CP 93-95 + CP 64 I + Tema 150 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/reabilitacao-criminal-cp-93.md"
+version: 2
+sourcePath: "legalbr/materia/penal/reabilitacao-criminal-cp-93/SKILL.md"
 triggers:
   - "reabilitação criminal"
   - "CP 93"
@@ -18,10 +18,15 @@ triggers:
   - "período depurador"
   - "quinquênio reincidência"
   - "maus antecedentes"
-description: "Reabilitação CP 93: alcança qualquer pena + sigilo (não\neliminação); CP 94 requisitos (2 ANOS pós-cumprimento + domicílio\nBR + bom comportamento + reparação + multa cumprida); CP 64 I\nperíodo depurador 5 ANOS para REINCIDÊNCIA; Tema 150 STF / RE 593.818\n(admite uso pós-quinquênio como maus antecedentes, divergência STJ)."
+description: "Usar para pesquisar ou analisar: Reabilitação Criminal (CP 93-95 + CP 64 I + Tema 150 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reabilitação Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 93: CONCEITO
 

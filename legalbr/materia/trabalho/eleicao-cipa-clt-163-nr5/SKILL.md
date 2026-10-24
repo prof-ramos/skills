@@ -5,8 +5,8 @@ title: "CIPA: Eleição + Estabilidade (CLT 163-165 + NR-5 + Súm. 339 TST)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/eleicao-cipa-clt-163-nr5.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/eleicao-cipa-clt-163-nr5/SKILL.md"
 triggers:
   - "CIPA"
   - "eleição cipeiro"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 396 TST"
   - "SIPAT semana interna de prevenção de acidentes"
   - "CLT 510-A"
-description: "CIPA (Comissão Interna de Prevenção de Acidentes e de Assédio, desde\na Lei 14.457/2022): CLT arts. 163-165 + **NR-5** (atualizada 2022).\n**Composição paritária**: representantes do empregador (designados)\n+ dos empregados (**eleitos** em escrutínio secreto). Mandato: 1 ano,\npermitida uma reeleição. **Estabilidade**: **ADCT 10 II a** + CLT\n165: cipeiro **eleito** tem estabilidade do registro da candidatura\naté **1 ano após o final** do mandato. **Súm. 339 TST** e **Súm. 676\nSTF**: aplica-se ao **suplente também**; estabilidade não vinga em\nextinção do estabelecimento; perda do mandato após faltas a mais de\n4 reuniões ordinárias sem justificativa (NR-5)."
+description: "Usar para pesquisar ou analisar: CIPA: Eleição + Estabilidade (CLT 163-165 + NR-5 + Súm. 339 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CIPA: Eleição + Estabilidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

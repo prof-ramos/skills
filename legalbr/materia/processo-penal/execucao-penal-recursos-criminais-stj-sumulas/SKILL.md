@@ -5,8 +5,8 @@ title: "Execução Penal e Recursos Criminais, Súmulas STJ"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/execucao-penal-recursos-criminais-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/execucao-penal-recursos-criminais-stj-sumulas/SKILL.md"
 triggers:
   - "súmulas STJ execução penal"
   - "Súm. 81 STJ"
@@ -24,10 +24,15 @@ triggers:
   - "Súm. 660 STJ"
   - "Súm. 661 STJ"
   - "Súm. 662 STJ"
-description: "Execução penal e recursos criminais no STJ: prisão provisória para apelar (9\nsuperada); fiança e concurso (81); HC e fungibilidade; aplicação retroativa\nLei 11.343/06 (501); regime aberto e pena substitutiva (493); saída temporária\ncomo ato jurisdicional (520); MS sem efeito suspensivo a recurso MP (604);\nHC e ouvida da defesa em transferência presidio federal (639); HC e justa\ncausa após sentença condenatória (648); posse de celular ou componentes\ncomo falta grave, sem perícia (660, 661); permanência sistema federal (662);\nmulta penal: caráter penal e prescrição pelo CP 114 (Tema 1.405 STJ)."
+description: "Usar para pesquisar ou analisar: Execução Penal e Recursos Criminais, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Penal e Recursos Criminais, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

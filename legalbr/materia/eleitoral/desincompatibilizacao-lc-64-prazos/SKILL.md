@@ -6,7 +6,7 @@ category: "materia"
 materia: "eleitoral"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/eleitoral/desincompatibilizacao-lc-64-prazos.md"
+sourcePath: "legalbr/materia/eleitoral/desincompatibilizacao-lc-64-prazos/SKILL.md"
 triggers:
   - "desincompatibilização"
   - "desincompatibilização LC 64"
@@ -17,10 +17,15 @@ triggers:
   - "prazo desincompatibilização"
   - "3 meses 6 meses eleição"
   - "Consulta 0600367-58 TSE"
-description: "Prazos e modos de afastamento eleitoral da LC 64/1990 e LC 219/2025,\ncom a Consulta 0600367-58 TSE: remuneração compensatória não impede\na candidatura se houver afastamento efetivo pelo prazo legal."
+description: "Usar para pesquisar ou analisar: Desincompatibilização Eleitoral (LC 64/90 + LC 219/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desincompatibilização Eleitoral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

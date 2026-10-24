@@ -5,8 +5,8 @@ title: "Capacidade Civil e LBI (CC 1-10 + Lei 13.146/2015)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/capacidade-civil-lbi-cc-1.md"
+version: 2
+sourcePath: "legalbr/materia/civil/capacidade-civil-lbi-cc-1/SKILL.md"
 triggers:
   - "capacidade civil"
   - "toda pessoa e capaz CC 1"
@@ -20,10 +20,15 @@ triggers:
   - "tomada decisao apoiada"
   - "curatela da pessoa com deficiencia"
   - "interdicao"
-description: "Capacidade civil (CC 1-10) com alterações da Lei 13.146/2015 (LBI):\ntoda pessoa é capaz; incapacidade absoluta restou apenas a menores\nde 16 (CC 3); relativos (CC 4, menores 16-18, ébrios habituais,\npródigos, deficientes da expressão da vontade); emancipação (CC 5\npar. único); tomada de decisão apoiada (CC 1.783-A) × curatela\nreduzida."
+description: "Usar para pesquisar ou analisar: Capacidade Civil e LBI (CC 1-10 + Lei 13.146/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Capacidade Civil e LBI
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1-2, personalidade
 

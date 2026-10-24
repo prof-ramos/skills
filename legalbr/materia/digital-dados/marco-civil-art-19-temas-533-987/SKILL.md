@@ -5,8 +5,8 @@ title: "Marco Civil Art. 19 (Temas 533 e 987 STF + REs 1.057.258 e 1.037.396)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/marco-civil-art-19-temas-533-987.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/marco-civil-art-19-temas-533-987/SKILL.md"
 triggers:
   - "Tema 533"
   - "Tema 987"
@@ -20,10 +20,15 @@ triggers:
   - "responsabilidade provedores"
   - "mensageria interpessoal"
   - "marketplace CDC"
-description: "Temas 533 e 987 STF (RE 1.057.258 + RE 1.037.396, Min. Fux e Min.\nToffoli, 26/06/2025, 8x3): inconstitucionalidade PARCIAL do art.\n19 do MCI. Provedores respondem via art. 21 por conteúdo de\nterceiros após notificação extrajudicial idônea (salvo crime\ncontra honra de privado — mantém ordem judicial). Dever de cuidado\nsistêmico para crimes graves catalogados. Marketplaces sob CDC.\nEficácia ex nunc, ressalvadas ações em curso."
+description: "Usar para pesquisar ou analisar: Marco Civil Art. 19 (Temas 533 e 987 STF + REs 1.057.258 e 1.037.396). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Civil Art. 19 (Temas 533 e 987 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

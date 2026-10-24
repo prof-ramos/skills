@@ -5,8 +5,8 @@ title: "Contratação Temporária (CF 37 IX + Lei 8.745/1993 + Tema 916 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/contratacao-temporaria-cf-37-ix.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/contratacao-temporaria-cf-37-ix/SKILL.md"
 triggers:
   - "contratação temporária"
   - "CF 37 IX"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 363 TST"
   - "necessidade temporária excepcional interesse público"
   - "art. 19-A FGTS"
-description: "CF 37 IX exceção ao concurso (admissão temporária para necessidade\ntemporária de excepcional interesse público); Lei 8.745/1993\nregula (hipóteses TAXATIVAS: calamidade + epidemias + IBGE +\nprofessor substituto + ANATEL/IBAMA + Maria da Penha); prazo até\n4-8a; Tema 308 STF (RE 705.140) e Tema 916 STF (RE 765.320):\ncontrato nulo só gera salário + FGTS (art. 19-A); Tema 551 STF\n(RE 1.066.677): sem férias/13 salvo previsão legal/desvirtuamento;\nADI 3.395 + 5.350 (Justiça COMUM)."
+description: "Usar para pesquisar ou analisar: Contratação Temporária (CF 37 IX + Lei 8.745/1993 + Tema 916 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratação Temporária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 37 IX: fundamento
 

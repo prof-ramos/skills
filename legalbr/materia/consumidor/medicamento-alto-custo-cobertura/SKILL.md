@@ -5,8 +5,8 @@ title: "Medicamentos de Alto Custo e Off-Label (Tema 106 STJ + Tema 6 STF + Tema
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/medicamento-alto-custo-cobertura.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/medicamento-alto-custo-cobertura/SKILL.md"
 triggers:
   - "medicamento alto custo"
   - "off-label"
@@ -21,10 +21,15 @@ triggers:
   - "quimioterapia oral"
   - "Lei 12.401"
   - "Tema 793 STF"
-description: "Cobertura de medicamentos de alto custo, off-label e importados\nsob Tema 106 STJ (REsp 1.657.156, 3 requisitos, SUS) + Tema 6 STF\n(RE 566.471, alto custo não incorporado ao SUS) + Tema 793 STF\n(solidariedade entes) + Súms. 95/96 TJSP (a 102 foi revogada em\n2025) + Lei 9.656: requisitos\npara fornecimento (SUS e plano de saúde); medicamentos importados\nsem registro ANVISA (RDC 81/2008, alterada pela RDC 28/2011);\nimprescindibilidade demonstrada\npor prescrição fundamentada; Lei 14.454 + RENAME + CONITEC."
+description: "Usar para pesquisar ou analisar: Medicamentos de Alto Custo e Off-Label (Tema 106 STJ + Tema 6 STF + Tema 990 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medicamentos de Alto Custo e Off-Label
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

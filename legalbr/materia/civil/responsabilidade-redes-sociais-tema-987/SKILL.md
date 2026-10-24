@@ -5,8 +5,8 @@ title: "Responsabilidade dos Provedores de Aplicação (Tema 987 STF + Marco Civ
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-redes-sociais-tema-987.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-redes-sociais-tema-987/SKILL.md"
 triggers:
   - "Tema 987 STF"
   - "art. 19 Marco Civil"
@@ -18,10 +18,17 @@ triggers:
   - "notificação extrajudicial remoção de conteúdo"
   - "falha sistêmica provedor"
   - "dever de cuidado plataformas digitais"
-description: "Temas 987 e 533 STF (RE 1.037.396 e RE 1.057.258, julgamento\nconjunto; tese ajustada em embargos de declaração em 17/06/2026,\ncom trânsito em julgado): o art. 19 do Marco Civil da Internet\n(Lei 12.965/14) é PARCIALMENTE INCONSTITUCIONAL (omissão parcial).\nEnquanto não houver nova lei: regra geral passa a ser o art. 21\nMCI (remoção após notificação extrajudicial), com responsabilidade\nSOLIDÁRIA do provedor com o autor do conteúdo, salvo dúvida\nrazoável após diligência qualificada; crimes e ilícitos civis\ncontra a honra seguem no art. 19; presunção RELATIVA DE CULPA em\nanúncios/impulsionamentos pagos e disseminação inorgânica; dever\nde cuidado (falha sistêmica) para rol taxativo de crimes graves;\nart. 19 preservado para e-mail, videoconferência e mensageria\nprivada; marketplaces respondem pelo CDC; sem responsabilidade\nobjetiva; efeitos ex nunc desde a ata do julgamento de mérito\n(05/08/2025)."
+description: "Usar para pesquisar ou analisar: Responsabilidade dos Provedores de Aplicação (Tema 987 STF + Marco Civil). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5263701&numeroProcesso=1075412&numeroTema=995"]
+reviewedAt: "2026-10-21"
+reviewScope: "Tema 995: requisito de culpa grave e busca de contraditório; demais fundamentos pendentes"
 ---
 
 # Responsabilidade dos Provedores de Aplicação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 
@@ -77,7 +84,7 @@ Síntese fiel da tese fixada, com os ajustes dos **embargos de declaração julg
 | **Tema 987 STF** (RE 1.037.396) | Art. 19 MCI parcialmente inconstitucional; regime transitório acima; tese **ajustada em ED (17/06/2026)**, com trânsito em julgado |
 | **Tema 533 STF** (RE 1.057.258) | Julgado em conjunto, **mesma tese** |
 | **Tema 786 STF** | É **incompatível com a Constituição** a ideia de um **direito ao esquecimento** (obstar divulgação de fatos verídicos licitamente obtidos pela passagem do tempo); excessos analisados caso a caso |
-| **Tema 995 STF** | Entrevista que **imputa falsamente crime** a terceiro: empresa jornalística só responde se comprovada **má-fé** (dolo pelo conhecimento prévio da falsidade ou culpa grave na apuração); em transmissão **ao vivo**, exclui-se a responsabilidade por ato exclusivo de terceiro, assegurado o **direito de resposta**; constatada a falsidade, o conteúdo deve ser removido das plataformas |
+| **Tema 995 STF** | Entrevista que **imputa falsamente crime** a terceiro: empresa jornalística só responde se comprovada **má-fé** (dolo pelo conhecimento prévio da falsidade ou culpa grave por evidente negligência na apuração e na divulgação sem resposta da pessoa ofendida ou tentativa de ouvi-la); em transmissão **ao vivo**, exclui-se a responsabilidade por ato exclusivo de terceiro, assegurado o **direito de resposta**; constatada a falsidade, o conteúdo deve ser removido das plataformas |
 | **Lei 12.965/14** | Marco Civil da Internet |
 | **Lei 13.709/18** | LGPD (proteção de dados, regime próprio) |
 
@@ -93,3 +100,7 @@ Síntese fiel da tese fixada, com os ajustes dos **embargos de declaração julg
 - Aplicar o regime geral a conteúdo **eleitoral** (prevalecem a legislação eleitoral e os atos do TSE);
 - Aplicar a tese **retroativamente** a situações anteriores à publicação da ata do julgamento de mérito (05/08/2025), ressalvados atos continuados/permanentes e a coisa julgada;
 - Aplicar o regime dos provedores de aplicação a **marketplaces** sem observar o CDC.
+
+## Conferência pontual do Tema 995
+
+Consulta em 21/10/2026: conferir a tese completa e os ED de 20/03/2025 na [página oficial do STF](https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=5263701&numeroProcesso=1075412&numeroTema=995). O ajuste desta seção não valida integralmente as demais teses deste arquivo.

@@ -5,8 +5,8 @@ title: "Processo Eleitoral: Registro de Candidatura + Convenções + Federaçõe
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/processo-eleitoral-registro.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/processo-eleitoral-registro/SKILL.md"
 triggers:
   - "registro de candidatura"
   - "convenção partidária"
@@ -15,10 +15,15 @@ triggers:
   - "substituição de candidato"
   - "escolha de candidatos em convenção"
   - "calendário eleitoral"
-description: "Processo eleitoral sob a CF 14-17, a Lei 9.504/97 e a LC 64/90: filiação\npartidária, convenções e período de escolha de candidatos; coligações\nmajoritárias, fim das coligações proporcionais (EC 97/2017) e federações\n(Lei 14.208/21); registro de candidatura e AIRC; condições de\nelegibilidade, inelegibilidades (Ficha Limpa) e reserva de gênero."
+description: "Usar para pesquisar ou analisar: Processo Eleitoral: Registro de Candidatura + Convenções + Federações. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Eleitoral: Registro + Convenções + Federações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

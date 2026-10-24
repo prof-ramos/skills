@@ -5,8 +5,8 @@ title: "Terrenos de Marinha + Enfiteuse + Laudêmio (DL 9.760/1946 + Lei 9.636/1
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/terrenos-marinha-enfiteuse-dl-9760.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/terrenos-marinha-enfiteuse-dl-9760/SKILL.md"
 triggers:
   - "terrenos de marinha"
   - "DL 9.760/1946"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 496 STJ"
   - "Tema 244 STJ"
   - "Lei 13.139/2015"
-description: "Terrenos de marinha (DL 9.760/46 + Lei 9.636/98): faixa 33m a\npartir da preamar-media de 1831; bens da UNIAO (CF 20 VII);\nregime de AFORAMENTO/ENFITEUSE - foreiro paga FORO anual + 5%\nde LAUDEMIO na transmissão; OCUPAÇÃO onerosa (taxa) p/ casos\nsem aforamento; laudemio so na transferencia onerosa inter vivos\n(nao em causa mortis/doacao); Súm. 496 STJ (registro particular\nnao e oponivel a Uniao); Tema 244 STJ (prescricao 5 anos da taxa\nde ocupacao); Lei 13.139/15 (regulariza foreiros)."
+description: "Usar para pesquisar ou analisar: Terrenos de Marinha + Enfiteuse + Laudêmio (DL 9.760/1946 + Lei 9.636/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terrenos de Marinha + Enfiteuse Federal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

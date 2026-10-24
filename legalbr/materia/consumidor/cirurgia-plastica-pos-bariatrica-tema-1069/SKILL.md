@@ -5,8 +5,8 @@ title: "Cirurgia Plástica Reparadora Pós-Bariátrica (Tema 1.069 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/cirurgia-plastica-pos-bariatrica-tema-1069.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/cirurgia-plastica-pos-bariatrica-tema-1069/SKILL.md"
 triggers:
   - "cirurgia plástica reparadora"
   - "pós-bariátrica"
@@ -22,10 +22,15 @@ triggers:
   - "REsp 1.872.321"
   - "junta médica"
   - "RN ANS 424"
-description: "Tema 1.069 STJ (21/09/2023): cobertura OBRIGATÓRIA pelos planos\nde saúde da cirurgia plástica reparadora/funcional pós-bariátrica\nindicada pelo médico assistente (decorre do tratamento de\nobesidade mórbida). Dúvida sobre caráter estético resolve-se\npor JUNTA MÉDICA (RN ANS 424). Não confundir com cirurgia\nmeramente estética (não coberta)."
+description: "Usar para pesquisar ou analisar: Cirurgia Plástica Reparadora Pós-Bariátrica (Tema 1.069 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cirurgia Plástica Reparadora Pós-Bariátrica (Tema 1.069 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.069 STJ)
 

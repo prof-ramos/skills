@@ -5,8 +5,8 @@ title: "Fintechs e Regulação BACEN (SCD, SEP, IP, Sandbox)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/fintech-bacen-sociedade-credito-direto.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/fintech-bacen-sociedade-credito-direto/SKILL.md"
 triggers:
   - "fintech"
   - "SCD"
@@ -18,10 +18,15 @@ triggers:
   - "Res. CMN 4.656"
   - "arranjo de pagamento"
   - "banking as a service"
-description: "Regulação de fintechs no BACEN: SCD (Res. CMN 4.656/18), SEP (Res.\nCMN 4.656/18, consolidada pela Res. CMN 5.050/22), IP (Lei 12.865/13\n+ Res. BCB 80/21), ESC (LC 167/2019), Open Finance (Res. Conjunta\nCMN/BCB 1/20), sandbox regulatório do SFN (LC 182/2021 + regulamentação\nCMN/BCB), PIX (Res. BCB 1/20), banking as a service e bigtech."
+description: "Usar para pesquisar ou analisar: Fintechs e Regulação BACEN (SCD, SEP, IP, Sandbox). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fintechs e Regulação BACEN
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Mapa regulatório
 

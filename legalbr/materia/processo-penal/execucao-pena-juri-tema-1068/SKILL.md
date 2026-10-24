@@ -5,8 +5,8 @@ title: "Execução Provisória no Júri (Tema 1.068 STF + RE 1.235.340)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-pena-juri-tema-1068.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/execucao-pena-juri-tema-1068/SKILL.md"
 triggers:
   - "Tema 1.068"
   - "RE 1.235.340"
@@ -16,10 +16,15 @@ triggers:
   - "CF 5 XXXVIII"
   - "exceção ADC 43"
   - "prisão após condenação júri"
-description: "Tema 1.068 STF (RE 1.235.340, 12/09/2024): exceção à regra da\nADC 43/44/54. Em crimes dolosos contra a vida, admite-se execução\nprovisória da pena após condenação no Plenário do Júri, com base\nna soberania dos veredictos (CF 5 XXXVIII c). Mantém-se a regra\ngeral de presunção de inocência (CF 5 LVII) nos demais delitos."
+description: "Usar para pesquisar ou analisar: Execução Provisória no Júri (Tema 1.068 STF + RE 1.235.340). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Provisória no Júri (Tema 1.068 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

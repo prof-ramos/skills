@@ -5,8 +5,8 @@ title: "Litígio de Patente Farmacêutica e Pay-for-Delay"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/litigio-patente-farma-pay-for-delay.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/litigio-patente-farma-pay-for-delay/SKILL.md"
 triggers:
   - "patente farmacêutica"
   - "pipeline patente"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 9.279"
   - "art. 229-C LPI"
   - "polimorfo segunda geração"
-description: "Litígio de patente farmacêutica e pay-for-delay no Brasil. Bases: Lei\n9.279/96 (LPI); anuência prévia da ANVISA (art. 229-C, incluído pela\nLei 10.196/01 e REVOGADO pela Lei 14.195/2021: hoje o exame é\nexclusivo do INPI; litígios remanescentes do regime anterior). Patentes\npipeline (extintas; ADI 4.234 STF). Polimorfos, segunda geração,\nevergreening. Disputas: nulidade, infração, oposição na ANVISA,\nobtenção de registro de genérico. Pay-for-delay (acordo de\npostergação de genérico) e reverse payment settlements: análise CADE\n(sham litigation art. 36 §3 IV; referência comparada FTC v. Actavis).\nCoordenação ANVISA, INPI, CADE, MS."
+description: "Usar para pesquisar ou analisar: Litígio de Patente Farmacêutica e Pay-for-Delay. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Litígio de Patente Farmacêutica e Pay-for-Delay
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

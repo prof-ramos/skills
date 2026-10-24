@@ -5,8 +5,8 @@ title: "Lesão Corporal (CP 129 + Lei Maria da Penha §9)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/lesao-corporal-cp-129.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lesao-corporal-cp-129/SKILL.md"
 triggers:
   - "lesão corporal"
   - "CP 129"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 542 STJ"
   - "Lei 14.188/2021"
   - "art. 41 Lei Maria da Penha"
-description: "Lesão corporal sob CP 129: leve (caput, det. 3m-1a); grave (§1,\nrecl. 1-5); gravíssima (§2, recl. 2-8); seguida de morte (§3\npreterdoloso, recl. 4-12); doméstica (§9, recl. 2-5, Lei\n14.994/2024 + trabalho doméstico, Lei 15.455/2026); §13 contra\nmulher por razões de gênero (recl. 2-5); §3-A e §8-A facção (Lei\n15.358/2026); hediondez Lei 15.159/2025; Súm. 542 STJ (APP\nincondicionada); art. 41 Lei 11.340 veda JECrim."
+description: "Usar para pesquisar ou analisar: Lesão Corporal (CP 129 + Lei Maria da Penha §9). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lesão Corporal (CP 129)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura tipológica
 

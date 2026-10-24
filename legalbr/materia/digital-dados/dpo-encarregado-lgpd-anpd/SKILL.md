@@ -5,8 +5,8 @@ title: "DPO/Encarregado pelo Tratamento de Dados (LGPD 41 + ANPD Reso 18/2024 + 
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/dpo-encarregado-lgpd-anpd.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/dpo-encarregado-lgpd-anpd/SKILL.md"
 triggers:
   - "DPO"
   - "encarregado LGPD"
@@ -17,10 +17,15 @@ triggers:
   - "pequeno porte LGPD"
   - "canal de comunicação titular"
   - "independência do encarregado"
-description: "Encarregado / DPO (Data Protection Officer), LGPD **art. 41** +\n**ANPD Reso 18/2024** + **Reso 2/2022** (pequeno porte): pessoa\nindicada pelo controlador/operador para atuar como **canal de\ncomunicação** entre o agente, os titulares e a ANPD. **Atribuições**\n(LGPD 41 §2): receber reclamações + comunicações + orientar\ninternamente + executar tarefas adicionais. **Independência**\nfuncional + recursos adequados. **Pequeno porte** (ME/EPP/startup):\npode ser **dispensado** desde que mantenha canal de comunicação\nacessível. **Conflitos de interesse** vedados. Pode ser PF ou PJ\n(em alguns entendimentos). Indicação **pública**. Sanções por não\nindicação ou conflito. Distinção do CRPO (Chief Privacy Officer)."
+description: "Usar para pesquisar ou analisar: DPO/Encarregado pelo Tratamento de Dados (LGPD 41 + ANPD Reso 18/2024 + 2/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Encarregado / DPO
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

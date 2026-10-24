@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "reivindicatoria"
 version: 2
-sourcePath: "lib/skills/official/forma/reivindicatoria.md"
+sourcePath: "legalbr/forma/reivindicatoria/SKILL.md"
 triggers:
   - "ação reivindicatória"
   - "ius reivindicandi direito de sequela"
@@ -15,10 +15,15 @@ triggers:
   - "prova da propriedade pelo registro"
   - "ação reivindicatória distinta da possessória"
   - "imissão na posse decorrente de reivindicatória procedente"
-description: "Ação reivindicatória sob o CC (art. 1.228): ação petitória real do\nproprietário privado da posse contra quem injustamente a detenha;\npressupostos do domínio comprovado, individualização da coisa e\nposse injusta do réu; regime de frutos e benfeitorias; usucapião\ncomo defesa; vedação à reivindicatória durante possessória entre\nas mesmas partes."
+description: "Usar para redigir ou revisar: Ação Reivindicatória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Reivindicatória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

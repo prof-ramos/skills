@@ -5,8 +5,8 @@ title: "Memorando Jurídico Interno (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/memorando-juridico-interno.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/memorando-juridico-interno/SKILL.md"
 triggers:
   - "memorando jurídico"
   - "memo interno"
@@ -14,10 +14,15 @@ triggers:
   - "nota técnica jurídica"
   - "consulta interna"
   - "manifestação para área de negócio"
-description: "Memorando interno de equipe jurídica para área de negócio:\nformato curto/direto (BLUF, bottom line up front), questão\ndecisional, opções com risco quantificado, recomendação, próximos\npassos, ownership e prazo. Privilegiado sob EAOAB art. 7 II\n(sigilo profissional) e attorney work-product (proteção do\ntrabalho consultivo)."
+description: "Usar para pesquisar ou analisar: Memorando Jurídico Interno (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Memorando Jurídico Interno
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

@@ -5,8 +5,8 @@ title: "Corrupção de Menores (ECA 244-B + Súm. 500 STJ + Temas 221 e 1.052 ST
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/corrupcao-de-menores-eca-244b.md"
+version: 2
+sourcePath: "legalbr/materia/penal/corrupcao-de-menores-eca-244b/SKILL.md"
 triggers:
   - "corrupção de menores"
   - "ECA 244-B"
@@ -18,10 +18,15 @@ triggers:
   - "roubo com menor de idade"
   - "majorante menor no tráfico"
   - "corrupção de menores bis in idem"
-description: "Corrupção de menores (ECA 244-B): crime formal (Súm. 500 STJ +\nTema 221 STJ), prova da menoridade por documento hábil (Tema 1.052\nSTJ), interface com a majorante do art. 40 VI da Lei 11.343\n(especialidade, vedado bis in idem), concurso formal com o crime\npatrimonial e pluralidade de menores como pluralidade de crimes."
+description: "Usar para pesquisar ou analisar: Corrupção de Menores (ECA 244-B + Súm. 500 STJ + Temas 221 e 1.052 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corrupção de Menores (ECA art. 244-B)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Imputação padrão em roubos e furtos praticados em concurso com adolescente. O básico do tipo já aparece na skill `crimes-eca-240-244` (tabela); esta skill concentra as teses que decidem os processos: natureza formal, prova da menoridade, bis in idem com o tráfico e concurso de crimes.
 

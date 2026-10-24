@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/precedentes-irdr-iac-reclamacao/irdr-iac-repetitivos.md"
+sourcePath: "legalbr/materia/processo-civil/irdr-iac-repetitivos/SKILL.md"
 triggers:
   - "IRDR"
   - "CPC 976"
@@ -19,10 +19,15 @@ triggers:
   - "distinguishing"
   - "overruling"
   - "CPC 489 §1 VI"
-description: "Microssistema de precedentes vinculantes sob CPC 927: IRDR (976-\n987), repetição + questão de direito + isonomia/segurança; IAC\n(947), relevância sem repetição; repetitivos (1.036-1.041),\nSTF/STJ. Vinculação obrigatória (CPC 927 III). Distinguishing\n(CPC 489 §1 VI) + overruling com modulação (CPC 927 §§ 3-4) +\nfundamentação qualificada (CPC 489 §1 V-VI)."
+description: "Usar para pesquisar ou analisar: IRDR + IAC + Repetitivos (CPC 976-987 + 947 + 1.036-1.041). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRDR + IAC + Repetitivos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## IRDR (CPC 976-987)
 

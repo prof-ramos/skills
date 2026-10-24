@@ -5,8 +5,8 @@ title: "Denunciação da Lide"
 category: "forma"
 materia: null
 documentType: "denunciacao-lide"
-version: 1
-sourcePath: "lib/skills/official/forma/denunciacao-lide.md"
+version: 2
+sourcePath: "legalbr/forma/denunciacao-lide/SKILL.md"
 triggers:
   - "denunciação da lide"
   - "denunciação à lide"
@@ -15,10 +15,15 @@ triggers:
   - "seguradora denunciada"
   - "garantia em juízo"
   - "art. 125 CPC"
-description: "Denunciação da lide (arts. 125-129 CPC): garante regresso por evicção (I)\nou por lei/contrato (II); pelo autor na inicial, pelo réu na contestação;\numa sucessiva (125 §2º); condenação direta e solidária da seguradora nos\nlimites da apólice (Súm. 537 STJ + CPC 128 §único); atenção à Lei\n15.040/2024 (Marco Legal dos Seguros)."
+description: "Usar para redigir ou revisar: Denunciação da Lide. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denunciação da Lide
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 125)
 

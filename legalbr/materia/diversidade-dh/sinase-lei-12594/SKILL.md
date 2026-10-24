@@ -5,8 +5,8 @@ title: "SINASE: Sistema Nacional de Atendimento Socioeducativo"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/sinase-lei-12594.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/sinase-lei-12594/SKILL.md"
 triggers:
   - "SINASE"
   - "Lei 12.594"
@@ -20,10 +20,15 @@ triggers:
   - "HC 143.988"
   - "Súm. 492 STJ"
   - "Súm. 605 STJ"
-description: "SINASE Lei 12.594/2012 + ECA 112-128: medidas socioeducativas\ntaxativas (advertência, reparação, PSC, LA, semiliberdade,\ninternação); PIA OBRIGATÓRIO (arts. 52-58); reavaliação 6 meses\n(art. 42); internação ÚLTIMA RATIO + hipóteses TAXATIVAS (ECA 122);\nmáximo 3 anos + 21 anos limite; Súm. 492 STJ (tráfico não impõe\ninternação); HC Coletivo 143.988/ES (veda superlotação);\ndefensor obrigatório (ECA 111 III + 207); prescrição (Súm. 338 STJ)."
+description: "Usar para pesquisar ou analisar: SINASE: Sistema Nacional de Atendimento Socioeducativo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SINASE: Sistema Nacional de Atendimento Socioeducativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "ADI 4650: Vedação a Doações de Pessoas Jurídicas em Campanhas"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/adi-4650-doacao-pj.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/adi-4650-doacao-pj/SKILL.md"
 triggers:
   - "ADI 4650"
   - "doação pessoa jurídica eleição"
@@ -16,10 +16,15 @@ triggers:
   - "igualdade eleitoral"
   - "influência econômica eleições"
   - "reforma financiamento campanha"
-description: "ADI 4650 (Luiz Fux, 17/09/2015, 8×3): doações de PJ a campanhas\ne partidos são inconstitucionais (CF 1 V + 14 + 17). Fundamenta\nReforma Eleitoral 2015 (Lei 13.165), FEFC (Lei 13.487/2017) e\nlimites a doações de PF."
+description: "Usar para pesquisar ou analisar: ADI 4650: Vedação a Doações de Pessoas Jurídicas em Campanhas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4650: Doações de Pessoas Jurídicas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

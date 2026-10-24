@@ -5,8 +5,8 @@ title: "Prévio Requerimento Administrativo (Tema 350 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/previo-requerimento-administrativo-tema-350.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/previo-requerimento-administrativo-tema-350/SKILL.md"
 triggers:
   - "prévio requerimento administrativo"
   - "Tema 350 STF"
@@ -15,10 +15,15 @@ triggers:
   - "acesso ao Judiciário sem requerimento"
   - "falta de pretensão resistida"
   - "inafastabilidade jurisdicional"
-description: "Prévio requerimento administrativo (Tema 350 STF, RE 631.240, INSS):\nexigência de prévio pedido administrativo como condição da ação contra\na autarquia previdenciária; em saúde não se exige exaurimento\n(CF 5 XXXV + Tema 793), salvo negativa administrativa prévia para\nmedicamento não incorporado (Temas 6 e 1.234); regra geral é não exigir\nexaurimento administrativo (inafastabilidade jurisdicional CF 5 XXXV);\nexceções da tese (mora no prazo legal, entendimento notoriamente\ncontrário, revisão/restabelecimento/manutenção sem fato novo)."
+description: "Usar para pesquisar ou analisar: Prévio Requerimento Administrativo (Tema 350 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prévio Requerimento Administrativo (Tema 350 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

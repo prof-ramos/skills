@@ -5,8 +5,8 @@ title: "Uso Compassivo + Acesso Expandido (RDC Anvisa 38/2013 + Lei 14.874/2024)
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/medicamento-experimental-uso-compassivo.md"
+version: 2
+sourcePath: "legalbr/materia/saude/medicamento-experimental-uso-compassivo/SKILL.md"
 triggers:
   - "uso compassivo"
   - "acesso expandido"
@@ -18,10 +18,15 @@ triggers:
   - "medicamento não registrado"
   - "Tema 500 STF"
   - "registro Anvisa"
-description: "Uso compassivo, acesso expandido e fornecimento pós-estudo (RDC\nAnvisa **38/2013**). Três programas para acesso a **medicamentos\nnão registrados**: (1) **Acesso expandido**: grupo de pacientes\ncom doença grave/sem alternativa; (2) **Uso compassivo**:\n**individual**, um paciente, fora de pesquisa clínica; (3)\n**Pós-estudo**: paciente que participou de pesquisa clínica\nbeneficiada. Fornecedor (titular + patrocinador) provê\n**gratuitamente**. Anvisa autoriza caso a caso. Marco legal\nLei **14.874/2024** (pesquisas clínicas em humanos: substituiu\nReso CNS 466/2012 em pesquisa intervencional). Judicialização:\nTema 500 STF (sem registro) + Tema 6 STF / SV 61 (não incorporado):\nfornecimento via SUS quando atende critérios."
+description: "Usar para pesquisar ou analisar: Uso Compassivo + Acesso Expandido (RDC Anvisa 38/2013 + Lei 14.874/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Uso Compassivo + Acesso Expandido
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

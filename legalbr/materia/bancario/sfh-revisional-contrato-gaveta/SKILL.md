@@ -5,8 +5,8 @@ title: "SFH, Revisional e Contrato de Gaveta (Temas 48, 442 e 520-523 STJ + Lei 
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/sfh-revisional-contrato-gaveta.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/sfh-revisional-contrato-gaveta/SKILL.md"
 triggers:
   - "contrato de gaveta"
   - "gaveteiro SFH"
@@ -21,10 +21,15 @@ triggers:
   - "cessão de financiamento habitacional"
   - "anuência do agente financeiro SFH"
   - "quitação FCVS"
-description: "Revisional de mútuo habitacional do SFH e contrato de gaveta: Tema 48\nSTJ (capitalização vedada; Tabela Price barrada pelas Súm. 5 e 7),\nTema 442 + Súm. 450 STJ (atualização antecede amortização), Temas\n520-523 STJ (legitimidade do cessionário conforme FCVS, marco de\n25/10/1996 e anuência do agente financeiro, Lei 10.150/2000 arts. 20-23),\nSúm. 84 STJ e quitação pelo FCVS."
+description: "Usar para pesquisar ou analisar: SFH, Revisional e Contrato de Gaveta (Temas 48, 442 e 520-523 STJ + Lei 10.150/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SFH: Revisional e Contrato de Gaveta
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

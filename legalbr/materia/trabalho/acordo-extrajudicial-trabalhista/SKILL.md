@@ -5,8 +5,8 @@ title: "Acordo Extrajudicial Trabalhista (CLT 855-B a 855-E)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/acordo-extrajudicial-trabalhista.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/acordo-extrajudicial-trabalhista/SKILL.md"
 triggers:
   - "acordo extrajudicial trabalhista"
   - "homologação extrajudicial"
@@ -14,10 +14,15 @@ triggers:
   - "CLT 855-E"
   - "jurisdição voluntária trabalhista"
   - "quitação geral e irrestrita"
-description: "Acordo extrajudicial trabalhista (CLT 855-B a 855-E; Lei 13.467/17):\njurisdição voluntária com petição conjunta e advogados distintos;\nhomologação como título executivo judicial e coisa julgada material;\ncontrole de legalidade (verbas indisponíveis, vícios, CLT 9);\ncontrovérsia sobre quitação ampla x restrita; relação com a rescisão\npor acordo (CLT 484-A)."
+description: "Usar para pesquisar ou analisar: Acordo Extrajudicial Trabalhista (CLT 855-B a 855-E). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo Extrajudicial Trabalhista (CLT 855-B a 855-E)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

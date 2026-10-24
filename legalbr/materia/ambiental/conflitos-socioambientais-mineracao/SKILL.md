@@ -6,7 +6,7 @@ category: "materia"
 materia: "ambiental"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/ambiental/conflitos-socioambientais-mineracao.md"
+sourcePath: "legalbr/materia/ambiental/conflitos-socioambientais-mineracao/SKILL.md"
 triggers:
   - "mineração Mariana"
   - "Brumadinho"
@@ -21,10 +21,15 @@ triggers:
   - "Lei 14.755 populações atingidas"
   - "BHP Londres"
   - "Acordo de Escazú"
-description: "Conflitos socioambientais com foco em mineração. Bases: Lei 9.605/98\n(crimes ambientais); Lei 6.938/81 (PNMA); Lei 12.334/10 alterada pela\nLei 14.066/20 (Política de Segurança de Barragens, pós-Brumadinho);\nLei 14.755/23 (PNAB, atingidos por barragens); Lei 12.305/10 (resíduos);\nCódigo de Mineração (Dec.-Lei 227/67); Lei 13.575/17 (ANM). Casos\nparadigmáticos: Mariana (2015, Samarco-Vale-BHP) e Brumadinho (2019,\nVale). Responsabilidade ambiental objetiva (Lei 6.938 art. 14 §1);\nimprescritibilidade (Tema 999 STF). Reparação integral. ACP + class\nactions cross-border (Reino Unido, EUA). TAC com MPF, MPE, IBAMA,\nANM. Indenização individualizada vs. coletiva."
+description: "Usar para pesquisar ou analisar: Conflitos Socioambientais e Mineração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conflitos Socioambientais e Mineração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

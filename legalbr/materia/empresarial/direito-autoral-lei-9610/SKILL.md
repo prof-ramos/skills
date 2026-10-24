@@ -5,8 +5,8 @@ title: "Direito Autoral (Lei 9.610/1998 + CP 184 + Convenção de Berna)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/direito-autoral-lei-9610.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/direito-autoral-lei-9610/SKILL.md"
 triggers:
   - "direito autoral"
   - "Lei 9.610/1998"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 574 STJ"
   - "Súm. 63 STJ"
   - "Lei 14.852/2024 games"
-description: "Direito autoral Lei 9.610/1998 (LDA) + Lei 9.609/1998 (software);\ndireitos MORAIS (inalienáveis) × PATRIMONIAIS; prazo 70 ANOS\npós-morte (art. 41); art. 22 + art. 46 limitações; domínio\npúblico; ECAD; CP 184 violação (caput det. 3m-1a + §1 intuito\nlucro recl. 2-4a); Súm. 502 STJ (insignificância vedada);\nConvenção de Berna Dec. 75.699/1975; Lei 14.852/2024 games."
+description: "Usar para pesquisar ou analisar: Direito Autoral (Lei 9.610/1998 + CP 184 + Convenção de Berna). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Autoral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 9.610/1998 (LDA)
 

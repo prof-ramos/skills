@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-trabalhista.md"
+sourcePath: "legalbr/forma/defesa-trabalhista/SKILL.md"
 triggers:
   - "defesa trabalhista"
   - "contestação da reclamada"
@@ -15,10 +15,15 @@ triggers:
   - "eventualidade na contestação trabalhista"
   - "preliminares e prejudiciais na contestação trabalhista"
   - "impugnação ao valor da causa na reclamação trabalhista"
-description: "Contestação trabalhista pós-Reforma (Lei 13.467/2017): apresentada até a\naudiência inicial (art. 847 CLT); concentração e eventualidade;\npreliminares e prescrição bienal e quinquenal (art. 7º XXIX CF);\nimpugnação ao valor da causa pós §1º do art. 840; impugnação\nespecificada (art. 341 CPC) e mérito; juntar CCT ou ACT vigentes (Tema\n1.046 STF); pedir honorários (art. 791-A) com ADI 5766; juros e\ncorreção (ADC 58 até 29.08.2024 e Lei 14.905/2024 a partir de 30.08.2024)."
+description: "Usar para redigir ou revisar: Defesa Trabalhista (Contestação). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa Trabalhista (Contestação)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Prazo e forma
 

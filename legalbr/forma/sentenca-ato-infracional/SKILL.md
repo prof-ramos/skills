@@ -5,8 +5,8 @@ title: "Sentença de Ato Infracional (ECA)"
 category: "forma"
 materia: null
 documentType: "sentenca-ato-infracional"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-ato-infracional.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-ato-infracional/SKILL.md"
 triggers:
   - "sentença ato infracional"
   - "procedência da representação"
@@ -16,10 +16,15 @@ triggers:
   - "adolescente em conflito com a lei"
   - "medida socioeducativa de internação"
   - "Súmula 492 STJ"
-description: "Sentença de ato infracional sob o ECA (arts. 110-128, 183-190, 198):\nterminologia própria (representado, ato infracional, medida socioeducativa,\nprocedência da representação); provas suficientes (art. 114; Súm. 342 STJ);\nhipóteses de improcedência do art. 189; medidas do art. 112 com o critério\ndo §1º; internação restrita ao rol taxativo do art. 122 (Súm. 492 STJ) e\nprazos do art. 121; remissão (126-128); intimação (190) e apelação (198)."
+description: "Usar para redigir ou revisar: Sentença de Ato Infracional (ECA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença de Ato Infracional (ECA)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Terminologia obrigatória
 

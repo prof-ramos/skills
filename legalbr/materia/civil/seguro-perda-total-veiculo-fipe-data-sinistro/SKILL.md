@@ -5,8 +5,8 @@ title: "Seguro de Veículo, Indenização por Perda Total (REsp 1.546.163/GO + C
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/seguro-perda-total-veiculo-fipe-data-sinistro.md"
+version: 2
+sourcePath: "legalbr/materia/civil/seguro-perda-total-veiculo-fipe-data-sinistro/SKILL.md"
 triggers:
   - "seguro automóvel perda total"
   - "indenização integral seguro veículo"
@@ -22,10 +22,15 @@ triggers:
   - "valor referenciado seguro"
   - "valor determinado seguro"
   - "liquidação do sinistro"
-description: "STJ REsp 1.546.163/GO (3ª Turma, Rel. Min. Villas Bôas Cueva,\n05/05/2016, decisão de Turma, NÃO recurso repetitivo): em seguro de\nveículo com cláusula de \"valor de mercado\" (FIPE), a indenização por\nperda total deve corresponder ao valor da tabela na DATA DO SINISTRO,\nnão da liquidação. Aplica-se princípio indenitário (CC 778 + 781).\nDistinção: valor determinado × valor referenciado (FIPE). Não cumula\ncom depreciação posterior."
+description: "Usar para pesquisar ou analisar: Seguro de Veículo, Indenização por Perda Total (REsp 1.546.163/GO + CC 778). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro de Veículo, Indenização por Perda Total (REsp 1.546.163/GO)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Entendimento do STJ (REsp 1.546.163/GO, 3ª Turma)
 

@@ -5,8 +5,8 @@ title: "Crimes contra a Honra (CP 138-145 + Lei 14.532/2023)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/crimes-honra-cp-138-145.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-honra-cp-138-145/SKILL.md"
 triggers:
   - "calúnia"
   - "difamação"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.532/2023"
   - "HC 154.248 STF"
   - "exceção da verdade"
-description: "Crimes contra a honra sob CP 138-145: calúnia (138, det. 6m-2a),\ndifamação (139, det. 3m-1a) e injúria (140, det. 1m-6m); injúria\npor raça/cor/etnia/procedência foi deslocada para a Lei 7.716 art.\n2º-A (Lei 14.532/2023, recl. 2-5, racismo, imprescritível,\ninafiançável, AP incondicionada); CP 140 §3 subsiste p/ religião e\nidoso/PCD (recl. 1-3, AP condicionada); retratação extingue (143,\nnão na injúria; unilateral, STJ Inf. 703); pedido de explicações\n(144); CP 141 §2 triplica em rede social; decadência de 6 meses."
+description: "Usar para pesquisar ou analisar: Crimes contra a Honra (CP 138-145 + Lei 14.532/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Honra (CP 138-145)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

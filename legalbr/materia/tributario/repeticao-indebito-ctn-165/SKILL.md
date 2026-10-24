@@ -5,8 +5,8 @@ title: "Repetição do Indébito Tributário (CTN 165-169 + LC 118/2005 + Tema 4
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/repeticao-indebito-ctn-165.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/repeticao-indebito-ctn-165/SKILL.md"
 triggers:
   - "repetição do indébito"
   - "CTN 165"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 188 STJ"
   - "Súm. 461 STJ"
   - "Tema 537 STJ"
-description: "Repetição CTN 165 (3 hipóteses) + CTN 166 (tributos INDIRETOS:\nprova não repercussão); prazo CTN 168 5 anos; LC 118/2005\nhomologação 5a da extinção (não mais 5+5); Tema 4 STF (RE\n566.621: LC 118 irretroativa, só ações pós 9/6/2005); CTN 169 anular\ndecisão adm 2 anos; Súms. 162 (restituível) + 188 (juros) + 460\n(não convalida compensação) + 461 (compensação ou RPV); Tema 537 STJ\n(consumidor de energia: demanda contratada não usada)."
+description: "Usar para pesquisar ou analisar: Repetição do Indébito Tributário (CTN 165-169 + LC 118/2005 + Tema 4 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repetição do Indébito Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 165: direito à RESTITUIÇÃO
 

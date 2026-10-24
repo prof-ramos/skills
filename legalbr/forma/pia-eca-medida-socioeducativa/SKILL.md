@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "pia-socioeducativo"
 version: 2
-sourcePath: "lib/skills/official/forma/pia-eca-medida-socioeducativa.md"
+sourcePath: "legalbr/forma/pia-eca-medida-socioeducativa/SKILL.md"
 triggers:
   - "PIA"
   - "Plano Individual de Atendimento"
@@ -17,10 +17,15 @@ triggers:
   - "SINASE 58"
   - "PIA da medida socioeducativa"
   - "plano individual na execução de medida socioeducativa"
-description: "PIA: Plano Individual de Atendimento (SINASE Lei 12.594/2012\narts. 52-59): obrigatório para PSC, LA, semiliberdade e internação;\nelaboração interdisciplinar COM o adolescente e família; prazo 15\ndias (PSC/LA) ou 45 dias (semi/int.); homologação JUDICIAL após\noitiva de defensor e MP (art. 58); base para REAVALIAÇÃO em até 6\nmeses (art. 42); descumprimento sem PIA é descabido."
+description: "Usar para redigir ou revisar: Plano Individual de Atendimento (PIA: SINASE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano Individual de Atendimento (PIA)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Eventos, Shows e Ingressos: Cancelamento, Meia-Entrada e Taxa de Conveni
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/eventos-shows-ingressos.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/eventos-shows-ingressos/SKILL.md"
 triggers:
   - "cancelamento de show"
   - "adiamento de evento"
@@ -20,10 +20,15 @@ triggers:
   - "venda casada de ingressos"
   - "ingresso de espetáculo"
   - "sócio torcedor"
-description: "Litígios de consumo em eventos, shows e ingressos: meia-entrada (Lei\n12.933/2013 + Dec. 8.537/2015, Estatutos da Juventude e da Pessoa Idosa,\ncota de 40%); taxa de conveniência na venda online (EDcl no REsp\n1.737.428/RS: válida com informação prévia e destacada); cancelamento e\nadiamento (CDC 20, 30, 35), arrependimento (CDC 49) e venda casada (CDC 39)."
+description: "Usar para pesquisar ou analisar: Eventos, Shows e Ingressos: Cancelamento, Meia-Entrada e Taxa de Conveniência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Eventos, Shows e Ingressos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

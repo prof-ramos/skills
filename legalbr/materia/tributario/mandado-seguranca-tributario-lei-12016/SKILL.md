@@ -5,8 +5,8 @@ title: "Mandado de Segurança em Matéria Tributária"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/mandado-seguranca-tributario-lei-12016.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/mandado-seguranca-tributario-lei-12016/SKILL.md"
 triggers:
   - "mandado de segurança tributário"
   - "Lei 12.016/09"
@@ -18,10 +18,15 @@ triggers:
   - "direito líquido e certo"
   - "MS preventivo"
   - "efeitos patrimoniais"
-description: "Mandado de segurança tributário Lei 12.016/09 + CF 5º LXIX:\ndireito líquido e certo + ato ilegal/abusivo de autoridade; prazo\n120 dias (decadencial), inaplicável a obrigações tributárias\nsucessivas quando se impugna lei/ato normativo (Tema 1.273 STJ);\nSúm. 213 STJ (cabe MS para compensação) + Tema 118 STJ (prova);\nSúm. 212 STJ CANCELADA em 2022 (vedação de compensação em\nliminar persiste via CTN 170-A + Tema 345 STJ); Súm. 239 STF\n(coisa julgada por exercício); Súm. 266 STF (não cabe MS contra\nlei em tese); Súm. 271 STF (sem efeitos patrimoniais pretéritos)."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança em Matéria Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

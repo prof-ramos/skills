@@ -5,8 +5,8 @@ title: "Parte Especial Penal, Súmulas STJ"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/parte-especial-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/penal/parte-especial-stj-sumulas/SKILL.md"
 triggers:
   - "súmulas penais STJ"
   - "roubo consumação"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 659 STJ"
   - "Súm. 669 STJ"
   - "Súm. 670 STJ"
-description: "Súmulas STJ de parte especial penal: roubo consumação (582), continuidade\ndelitiva proporcional ao número de delitos (659); jogo do bicho (51);\nmenoridade penal, documento hábil (74); tráfico de drogas, transnacionalidade\n(607) e mistura para arma (174 cancelada); ECA art. 243 bebida alcoólica\n(669); art. 225 CP, vulnerabilidade temporária e representação (670);\napropriação indébita tributária (658); transmissão clandestina internet (606);\nconfissão (545 revisada em 2025 pelo Tema 1.194)."
+description: "Usar para pesquisar ou analisar: Parte Especial Penal, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parte Especial Penal, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

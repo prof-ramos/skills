@@ -5,8 +5,8 @@ title: "Incorporação Imobiliária (Lei 4.591/1964 + Lei 10.931/2004 + Lei 13.7
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/incorporacao-imobiliaria-lei-4591.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/incorporacao-imobiliaria-lei-4591/SKILL.md"
 triggers:
   - "incorporação imobiliária"
   - "Lei 4.591/1964"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 308 STJ"
   - "Tema 996 STJ"
   - "juros de obra"
-description: "Incorporação imobiliária sob Lei 4.591/64 + Lei 10.931/04 +\nLei 13.786/18: memorial e registro de incorporação (arts.\n28-35), patrimônio de afetação (31-A a 31-F) com segregação\npatrimonial e CNPJ específico (evento 109) + RET (Lei 10.931):\n4% da receita (IRPJ+CSLL+PIS+Cofins unificados) ou 1% MCMV,\ncom integração ao IBS/CBS pela LC 214/2025; SPE como\nalternativa; quadro-resumo obrigatório; Súm. 308 STJ (hipoteca\ndo incorporador não opõe adquirente quitado); Tema 1.095\n(resolução de C&V com AF registrada segue a Lei 9.514, afasta\nCDC); Tema 996 (juros de obra ilícitos após prazo de entrega)."
+description: "Usar para pesquisar ou analisar: Incorporação Imobiliária (Lei 4.591/1964 + Lei 10.931/2004 + Lei 13.786/2018). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incorporação Imobiliária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

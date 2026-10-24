@@ -5,8 +5,8 @@ title: "Petição Inicial Consumerista (CDC + CPC)"
 category: "forma"
 materia: null
 documentType: "peticao-inicial-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/peticao-inicial-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/peticao-inicial-consumerista/SKILL.md"
 triggers:
   - "petição inicial consumerista"
   - "ação consumerista"
@@ -16,10 +16,15 @@ triggers:
   - "dano moral consumerista"
   - "cobrança indevida CDC"
   - "relação de consumo"
-description: "Petição inicial em relação de consumo (CDC + CPC): foro do consumidor\n(CDC 101 I); causa de pedir + relação consumo (CDC 2-3); pedido de\ninversão do ônus (CDC 6 VIII); dano moral com valor; cumulação com\nrepetição em dobro (CDC 42 §único); tutela provisória; gratuidade\nda justiça (CPC 98); audiência do art. 334; pedido líquido (CPC 322)."
+description: "Usar para redigir ou revisar: Petição Inicial Consumerista (CDC + CPC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial Consumerista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

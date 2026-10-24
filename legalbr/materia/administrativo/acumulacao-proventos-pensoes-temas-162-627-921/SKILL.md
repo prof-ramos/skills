@@ -5,8 +5,8 @@ title: "Acumulação de Proventos e Pensões (Temas 162, 627 e 921 STF + EC 20 a
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/acumulacao-proventos-pensoes-temas-162-627-921.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acumulacao-proventos-pensoes-temas-162-627-921/SKILL.md"
 triggers:
   - "acumulação de proventos"
   - "acumulação de pensões"
@@ -20,10 +20,15 @@ triggers:
   - "duas pensões estatutárias"
   - "EC 103 art. 24 pensões"
   - "duas aposentadorias regime próprio"
-description: "Licitude da acumulação de proventos, pensões e remuneração no serviço\npúblico: CF 37 §10 e CF 40 §6; regra de transição do art. 11 da EC\n20/98 (Tema 627 STF); vedação da cumulação tríplice mesmo pré-EC 20\n(Tema 921); duas pensões estatutárias (Tema 162); escalonamento do\nart. 24 da EC 103/2019 para pensão + aposentadoria."
+description: "Usar para pesquisar ou analisar: Acumulação de Proventos e Pensões (Temas 162, 627 e 921 STF + EC 20 art. 11). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acumulação de Proventos e Pensões (Temas 162, 627 e 921 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

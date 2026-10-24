@@ -5,8 +5,8 @@ title: "DPVAT, Cartão de Crédito e Práticas Abusivas (Súmulas STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/dpvat-cartao-credito-pratica-abusiva-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dpvat-cartao-credito-pratica-abusiva-stj-sumulas/SKILL.md"
 triggers:
   - "DPVAT prescrição"
   - "DPVAT foro"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 532 STJ"
   - "Súm. 540 STJ"
   - "Súm. 573 STJ"
-description: "DPVAT (foro de eleição autoral, prazo prescricional, ciência da invalidez,\nlegitimidade); envio de cartão de crédito não solicitado como prática abusiva\ncom indenização e multa administrativa; cobrança em dobro do art. 42 CDC;\nresponsabilidade objetiva nas operações com cheques sem provisão. Skill\ncomplementa as Súm. 405 e 246 já tratadas em outras skills."
+description: "Usar para pesquisar ou analisar: DPVAT, Cartão de Crédito e Práticas Abusivas (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DPVAT, Cartão de Crédito e Práticas Abusivas (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## DPVAT, Seguro obrigatório de veículos
 

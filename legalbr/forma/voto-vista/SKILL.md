@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "voto-vista"
 version: 2
-sourcePath: "lib/skills/official/forma/voto-vista.md"
+sourcePath: "legalbr/forma/voto-vista/SKILL.md"
 triggers:
   - "voto-vista"
   - "pedido de vista"
@@ -19,10 +19,15 @@ triggers:
   - "técnica de ampliação do colegiado art. 942"
   - "voto vista limitado à matéria devolvida"
   - "voto vista em sessão de julgamento colegiado"
-description: "Voto vista (art. 940 CPC): manifestação autônoma e fundamentada após\npedido de vista; prazo de 10 dias para devolução, com requisição de\nofício e reinclusão automática em pauta se não devolvido (§1º); pode\nacompanhar, divergir, ressalvar ou esclarecer; reabre a discussão e\nadmite chamada de novos votos. Limite material: matéria devolvida (art.\n1.013). Em divergência sobre mérito em apelação, AI ou rescisória,\naciona o art. 942 (técnica de ampliação do colegiado)."
+description: "Usar para redigir ou revisar: Voto Vista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Voto Vista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

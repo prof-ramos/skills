@@ -5,8 +5,8 @@ title: "Open Finance: Compartilhamento de Dados e Serviços (Res. Conj. CMN/BCB 
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/open-finance-compartilhamento.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/open-finance-compartilhamento/SKILL.md"
 triggers:
   - "Open Finance"
   - "Open Banking"
@@ -19,10 +19,15 @@ triggers:
   - "LGPD bancos"
   - "portabilidade de dados bancários"
   - "sandbox regulatório"
-description: "Open Finance: regulado pela Res. Conj. CMN/BCB 1/2020 + Res. BCB\n32/2020 (governança) + Instrução Normativa BCB 117/2021 (escopo);\ncompartilhamento de dados em 4 fases (cadastrais, transacionais,\nprodutos e serviços, incluindo o ITP, iniciador de transação de\npagamento); consentimento granular do cliente por até 12 meses;\nLGPD aplicável (bases legais específicas e consentimento\nqualificado para dados sensíveis); responsabilidade solidária das\nIFs participantes."
+description: "Usar para pesquisar ou analisar: Open Finance: Compartilhamento de Dados e Serviços (Res. Conj. CMN/BCB 1/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Open Finance: Compartilhamento de Dados e Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

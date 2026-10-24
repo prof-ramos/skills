@@ -5,8 +5,8 @@ title: "Réplica à Contestação"
 category: "forma"
 materia: null
 documentType: "replica"
-version: 1
-sourcePath: "lib/skills/official/forma/replica.md"
+version: 2
+sourcePath: "legalbr/forma/replica/SKILL.md"
 triggers:
   - "réplica à contestação"
   - "resposta do autor à contestação"
@@ -15,10 +15,15 @@ triggers:
   - "impugnação a fato impeditivo modificativo ou extintivo"
   - "prazo de 15 dias para o autor"
   - "réplica a documentos juntados art. 437"
-description: "Réplica sob o CPC/15 (arts. 350, 351 e 437 §1º): impugna preliminares,\nfatos da defesa indireta e documentos juntados; manifesta-se sobre\nrevelia; contesta reconvenção quando houver; especifica provas. Prazo\nde 15 dias úteis. Vedada inovação na causa de pedir e no pedido (art.\n329). Falsidade documental no prazo do art. 430."
+description: "Usar para redigir ou revisar: Réplica à Contestação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Réplica à Contestação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando cabe e quando é obrigatória
 

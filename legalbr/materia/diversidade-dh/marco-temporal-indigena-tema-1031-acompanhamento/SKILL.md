@@ -5,8 +5,8 @@ title: "Marco Temporal Indígena: Acompanhamento Pós-Tema 1.031 STF + Lei 14.70
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/marco-temporal-indigena-tema-1031-acompanhamento.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/marco-temporal-indigena-tema-1031-acompanhamento/SKILL.md"
 triggers:
   - "Tema 1.031 STF"
   - "marco temporal indígena"
@@ -15,10 +15,15 @@ triggers:
   - "terras indígenas demarcação"
   - "ADC 87"
   - "imemorialidade indígena"
-description: "Tema 1.031 STF (RE 1.017.365, 27/09/2023): REJEITADO o\n\"marco temporal\" indígena (CF 5/10/1988) como critério único\npara posse de terras tradicionais. Lei 14.701/2023 (Congresso)\ntentou impor o marco: em ADC 87 STF analisa a\nconstitucionalidade. CF art. 231 + 232 + Convenção 169\nOIT. Vedados despejos + retomadas até decisão final."
+description: "Usar para pesquisar ou analisar: Marco Temporal Indígena: Acompanhamento Pós-Tema 1.031 STF + Lei 14.701/23. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Temporal Indígena (Tema 1.031)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

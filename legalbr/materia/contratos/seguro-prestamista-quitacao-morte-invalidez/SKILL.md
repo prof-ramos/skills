@@ -5,8 +5,8 @@ title: "Seguro Prestamista: Quitação do Contrato por Morte ou Invalidez do Dev
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/seguro-prestamista-quitacao-morte-invalidez.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/seguro-prestamista-quitacao-morte-invalidez/SKILL.md"
 triggers:
   - "seguro prestamista"
   - "quitação por morte do devedor"
@@ -19,10 +19,15 @@ triggers:
   - "consignado morte do mutuário"
   - "herdeiros seguro prestamista"
   - "liquidação antecipada da dívida sinistro"
-description: "Seguro prestamista (Res. CNSP 439/2022 arts. 31-33 + Lei 15.040/24):\nquitação do saldo devedor por morte/invalidez do devedor, credor como\nprimeiro beneficiário e sobra ao segurado/segundo beneficiário;\nherdeiros têm direito próprio (REsps 1.406.200 e 1.770.358: liberação\nimediata da carta de crédito); restituição de parcelas pós-sinistro."
+description: "Usar para pesquisar ou analisar: Seguro Prestamista: Quitação do Contrato por Morte ou Invalidez do Devedor. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro Prestamista: Quitação por Morte ou Invalidez do Devedor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

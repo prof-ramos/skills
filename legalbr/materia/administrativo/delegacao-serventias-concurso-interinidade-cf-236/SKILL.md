@@ -5,8 +5,8 @@ title: "Delegação de Serventias Extrajudiciais, Concurso, Remoção, Vacância
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/delegacao-serventias-concurso-interinidade-cf-236.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/delegacao-serventias-concurso-interinidade-cf-236/SKILL.md"
 triggers:
   - "serventia extrajudicial"
   - "concurso de cartório"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 8.935 concurso"
   - "ADI 4.300"
   - "perda da delegação"
-description: "Regime da delegação notarial e registral (CF 236, Lei 8.935/1994): concurso\npúblico de provas e títulos, preenchimento 2/3 provimento e 1/3 remoção,\nextinção da delegação e vacância, Resoluções CNJ 80 e 81/2009 (validadas na\nADI 4.300) e situação do interino (agente estatal sujeito ao teto, Tema 779 STF)."
+description: "Usar para pesquisar ou analisar: Delegação de Serventias Extrajudiciais, Concurso, Remoção, Vacância e Interinidade (CF 236). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Delegação de Serventias Extrajudiciais: Concurso, Remoção, Vacância e Interinidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

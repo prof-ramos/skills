@@ -5,8 +5,8 @@ title: "Juiz das Garantias (CPP 3-B a 3-F)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/juiz-garantias-cpp-3-b.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/juiz-garantias-cpp-3-b/SKILL.md"
 triggers:
   - "juiz das garantias"
   - "CPP 3-B"
@@ -19,10 +19,15 @@ triggers:
   - "ADI 6.305"
   - "imparcialidade objetiva"
   - "sistema acusatório"
-description: "Juiz das garantias CPP 3-B a 3-F (Lei 13.964/2019): juiz da fase\ninvestigatória distinto do juiz da instrução/julgamento; controle\nda legalidade da investigação + decisão sobre medidas cautelares\ne meios de obtenção de prova; STF ADIs 6.298, 6.299, 6.300 e\n6.305 (2023): constitucionalidade reconhecida com modulação\n(competência cessa com o oferecimento da denúncia); implementação\nescalonada via CNJ (Resolução 562/2024); audiência de custódia em\n24h por videoconferência (CPP 3-B §1º, red. Lei 15.358/2026);\nfinalidade: imparcialidade objetiva."
+description: "Usar para pesquisar ou analisar: Juiz das Garantias (CPP 3-B a 3-F). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juiz das Garantias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

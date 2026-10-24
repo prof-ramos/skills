@@ -5,8 +5,8 @@ title: "ADC 41: Cotas Raciais no Serviço Público (Lei 12.990/2014; Lei 15.142/
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adc-41-cotas-servico-publico.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adc-41-cotas-servico-publico/SKILL.md"
 triggers:
   - "ADC 41"
   - "cotas serviço público"
@@ -16,10 +16,15 @@ triggers:
   - "heteroidentificação"
   - "igualdade material concursos"
   - "fraude autodeclaração"
-description: "ADC 41 (Roberto Barroso, 08/06/2017, unânime): Lei 12.990/2014\nconstitucional, 20% das vagas em concursos federais para negros.\nAutodeclaração + heteroidentificação. ATUALIZAÇÃO: a Lei 12.990\nfoi revogada pela Lei 15.142/2025 (reserva de 30% para pessoas\npretas e pardas, indígenas e quilombolas, quando 2+ vagas; vagas\nde indígenas e quilombolas definidas em regulamento). Em 2024,\nna ADI 7.654, o STF havia prorrogado a Lei 12.990 até nova lei."
+description: "Usar para pesquisar ou analisar: ADC 41: Cotas Raciais no Serviço Público (Lei 12.990/2014; Lei 15.142/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADC 41: Cotas no Serviço Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

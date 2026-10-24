@@ -5,8 +5,8 @@ title: "Condenações Transitadas em Julgado há mais de 5 Anos como Maus Antece
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/maus-antecedentes-5-anos-tema-150.md"
+version: 2
+sourcePath: "legalbr/materia/penal/maus-antecedentes-5-anos-tema-150/SKILL.md"
 triggers:
   - "Tema 150 STF"
   - "maus antecedentes 5 anos"
@@ -16,10 +16,15 @@ triggers:
   - "circunstância judicial dosimetria"
   - "antecedentes criminais 5 anos"
   - "perpetuidade pena"
-description: "Tema 150 STF (RE 593.818, tese ajustada, acórdão 25/04/2023):\nNÃO se aplica aos maus antecedentes o prazo quinquenal de prescrição\nda reincidência (art. 64 I CP); condenações com trânsito em julgado\nhá mais de 5 anos PODEM ser valoradas como maus antecedentes (art.\n59 CP). O julgador PODE, fundamentadamente, deixar de exasperar a\npena-base quando as condenações pretéritas forem desimportantes ou\nmuito distantes no tempo (juízo discricionário motivado), mas não\nhá vedação automática pelo decurso de 5 anos."
+description: "Usar para pesquisar ou analisar: Condenações Transitadas em Julgado há mais de 5 Anos como Maus Antecedentes (Tema 150 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Maus Antecedentes e Prazo de 5 Anos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

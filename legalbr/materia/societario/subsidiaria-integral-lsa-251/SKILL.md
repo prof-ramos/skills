@@ -5,8 +5,8 @@ title: "Subsidiária Integral (LSA 251-253)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/subsidiaria-integral-lsa-251.md"
+version: 2
+sourcePath: "legalbr/materia/societario/subsidiaria-integral-lsa-251/SKILL.md"
 triggers:
   - "subsidiária integral"
   - "LSA 251"
@@ -15,10 +15,15 @@ triggers:
   - "incorporação de ações"
   - "LSA 252"
   - "wholly owned subsidiary"
-description: "Subsidiária Integral (LSA 251-253): única sociedade no direito\nbrasileiro com **sócio único permanente**: S.A. cuja totalidade\ndas ações pertence a uma única **sociedade brasileira** (vedado PF\nou PJ estrangeira/sem personalidade). Constituição por **escritura\npública** (LSA 251) ou por **incorporação de ações** (LSA 252),\nalternativa à incorporação que preserva a PJ subsidiária. Mantém\npersonalidade autônoma + patrimônio próprio + responsabilidade\nseparada. Conversão pela aquisição da totalidade das ações (LSA\n251 §2). Aplicação prática: grupos econômicos,\nholdings, estruturação de M&A com manutenção de PJ alvo (vs.\nincorporação tradicional LSA 227)."
+description: "Usar para pesquisar ou analisar: Subsidiária Integral (LSA 251-253). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Subsidiária Integral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

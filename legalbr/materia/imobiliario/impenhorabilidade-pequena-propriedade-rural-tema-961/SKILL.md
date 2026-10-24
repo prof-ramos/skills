@@ -5,8 +5,8 @@ title: "Impenhorabilidade da Pequena Propriedade Rural (CF 5º XXVI + Tema 961 S
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/impenhorabilidade-pequena-propriedade-rural-tema-961.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/impenhorabilidade-pequena-propriedade-rural-tema-961/SKILL.md"
 triggers:
   - "Tema 961 STF"
   - "ARE 1.038.507"
@@ -19,10 +19,15 @@ triggers:
   - "terrenos contíguos módulos fiscais"
   - "hipoteca pequena propriedade rural"
   - "embargos à execução produtor rural"
-description: "Impenhorabilidade da pequena propriedade rural trabalhada pela\nfamília (CF 5º XXVI + CPC 833 VIII + Lei 8.009 art. 4º §2º): Tema\n961 STF (ARE 1.038.507: até 4 módulos fiscais, ainda que mais de um\nterreno contíguo; hipoteca voluntária não afasta); conceito da Lei\n8.629/93 art. 4º II; defesa típica em execução de cédula rural."
+description: "Usar para pesquisar ou analisar: Impenhorabilidade da Pequena Propriedade Rural (CF 5º XXVI + Tema 961 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impenhorabilidade da Pequena Propriedade Rural (Tema 961 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

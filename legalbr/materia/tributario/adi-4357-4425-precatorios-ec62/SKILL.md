@@ -5,8 +5,8 @@ title: "ADIs 4357 + 4425, Inconstitucionalidade Parcial da EC 62 (Precatórios)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/adi-4357-4425-precatorios-ec62.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/adi-4357-4425-precatorios-ec62/SKILL.md"
 triggers:
   - "ADI 4357"
   - "ADI 4425"
@@ -16,10 +16,15 @@ triggers:
   - "compensação precatório tributo"
   - "índices correção precatório"
   - "CF 100"
-description: "ADIs 4357 + 4425 (Ayres Britto/red. Luiz Fux, 14/03/2013):\ndeclararam inconstitucionais dispositivos da EC 62/2009\n(regime especial de precatórios): leilões + compensação\nunilateral + TR como índice. Modulação preservou pagamentos\ndurante 5 anos. Diálogo com EC 99/2017, EC 113/2021, EC 136/2025\ne ADPF 854 (processo estrutural)."
+description: "Usar para pesquisar ou analisar: ADIs 4357 + 4425, Inconstitucionalidade Parcial da EC 62 (Precatórios). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADIs 4357 + 4425 (EC 62 / Precatórios)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

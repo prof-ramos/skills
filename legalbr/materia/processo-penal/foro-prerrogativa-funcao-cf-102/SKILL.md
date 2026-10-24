@@ -5,8 +5,8 @@ title: "Foro por Prerrogativa de Função (CF 102, 105, 108, 96)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/foro-prerrogativa-funcao-cf-102.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/foro-prerrogativa-funcao-cf-102/SKILL.md"
 triggers:
   - "foro prerrogativa"
   - "foro privilegiado"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 394 STF"
   - "Pet 8.090"
   - "cargos vitalícios"
-description: "Foro por prerrogativa de função CF 102 I (STF), 105 I (STJ), 108\nI (TRF), 96 III (TJ); STF AP 937 QO (2018) restringe foro a\ncrimes praticados **em razão do cargo e durante o exercício**;\nHC 232.627 + Inq 4.787 QO (j. 11/03/2025): o foro subsiste,\napós a saída do cargo, para crimes no cargo e em razão dele;\nED de 22/05/2026 estendem a orientação aos cargos vitalícios;\ncompetência originária implica\nprocedimento específico (Lei 8.038/90); MP de igual nível;\ncomunicação imediata de notitia criminis."
+description: "Usar para pesquisar ou analisar: Foro por Prerrogativa de Função (CF 102, 105, 108, 96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Foro por Prerrogativa de Função
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distribuição constitucional
 

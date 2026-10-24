@@ -5,8 +5,8 @@ title: "Revisão Criminal (CPP 621-631)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/revisao-criminal-cpp-621.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/revisao-criminal-cpp-621/SKILL.md"
 triggers:
   - "revisão criminal"
   - "CPP 621"
@@ -17,10 +17,15 @@ triggers:
   - "CF 5 LXXV"
   - "extinção punibilidade revisão"
   - "juízo rescindente"
-description: "Revisão criminal (CPP 621-631): ação autônoma de impugnação para\ndesconstituir condenação transitada em julgado. Hipóteses (CPP\n621): I sentença contrária a texto/prova; II sentença em prova\nfalsa; III prova nova de inocência ou que justifique redução.\nCabe a qualquer tempo (CPP 622), ainda que extinta a punibilidade\nou cumprida a pena (jurisprudência consolidada STJ/STF). Vedada\nreformatio in pejus (CPP 626 §u). Indenização (CPP 630 + CF 5 LXXV)."
+description: "Usar para pesquisar ou analisar: Revisão Criminal (CPP 621-631). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 621: hipóteses
 

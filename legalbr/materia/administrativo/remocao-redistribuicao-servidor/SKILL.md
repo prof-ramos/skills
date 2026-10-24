@@ -5,8 +5,8 @@ title: "Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37 + Tema 5
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/remocao-redistribuicao-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/remocao-redistribuicao-servidor/SKILL.md"
 triggers:
   - "remoção de servidor"
   - "remoção para acompanhar cônjuge"
@@ -20,10 +20,15 @@ triggers:
   - "exercício provisório cônjuge"
   - "licença para acompanhar cônjuge"
   - "EREsp 1.247.360"
-description: "Remoção (Lei 8.112 art. 36: de ofício, a pedido e hipóteses vinculadas\ndo inciso III) e redistribuição de cargo (art. 37). Remoção para\nacompanhar cônjuge exige deslocamento de ofício (EREsp 1.247.360 STJ);\nremoção por saúde depende de junta médica oficial; transferência ex\nofficio para instituição de ensino congênere (Tema 57 STF + ADI 3324)."
+description: "Usar para pesquisar ou analisar: Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37 + Tema 57 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

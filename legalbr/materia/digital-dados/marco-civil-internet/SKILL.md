@@ -6,7 +6,7 @@ category: "materia"
 materia: "digital-dados"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/digital-dados/marco-civil-internet.md"
+sourcePath: "legalbr/materia/digital-dados/marco-civil-internet/SKILL.md"
 triggers:
   - "Marco Civil"
   - "Lei 12.965/2014"
@@ -19,10 +19,15 @@ triggers:
   - "SACI-Adm"
   - "cybersquatting"
   - "Registro.br"
-description: "Marco Civil da Internet sob a Lei 12.965/2014: princípios de uso da\nrede (art. 3º) e neutralidade de rede (art. 9º); direitos do usuário\ne regime de guarda de registros de conexão e de aplicações (arts. 13\ne 15); responsabilidade civil dos provedores (arts. 18, 19 e 21) e o\nTema 987 do STF; interface com a LGPD e crimes digitais correlatos.\nInclui conflitos de nome de domínio .br: first come first served,\nmá-fé/cybersquatting e procedimento SACI-Adm."
+description: "Usar para pesquisar ou analisar: Marco Civil da Internet (Lei 12.965/2014) + Responsabilidade de Plataformas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Civil da Internet
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

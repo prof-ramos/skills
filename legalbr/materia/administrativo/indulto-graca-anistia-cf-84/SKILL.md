@@ -5,8 +5,8 @@ title: "Indulto + Comutação + Graça + Anistia (CF 84 XII + CF 5 XLIII + CF 48
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/indulto-graca-anistia-cf-84.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/indulto-graca-anistia-cf-84/SKILL.md"
 triggers:
   - "indulto coletivo"
   - "decreto de indulto"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 631 STJ"
   - "LEP 187"
   - "Tema 1.336 STJ"
-description: "Indulto + comutação + graça + anistia sob CF 84 XII + 48 VIII +\n5 XLIII: indulto/graça/comutação por decreto do PR; anistia por\nlei do CN; vedados em hediondos + tortura + tráfico + terrorismo\n(CF 5 XLIII); STF ADI 5.874 (constitucional + controle de legalidade);\nSúm. 631 STJ (efeitos secundários subsistem); ADPF 153 (Lei\nAnistia recepcionada)."
+description: "Usar para pesquisar ou analisar: Indulto + Comutação + Graça + Anistia (CF 84 XII + CF 5 XLIII + CF 48 VIII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indulto + Comutação + Graça + Anistia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

@@ -5,8 +5,8 @@ title: "Crime de Tortura (Lei 9.455/1997 + CF 5 XLIII)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/tortura-lei-9455.md"
+version: 2
+sourcePath: "legalbr/materia/penal/tortura-lei-9455/SKILL.md"
 triggers:
   - "tortura"
   - "Lei 9.455/1997"
@@ -18,10 +18,15 @@ triggers:
   - "Convenção ONU contra a Tortura"
   - "hediondez equiparada"
   - "perda do cargo"
-description: "Tortura sob Lei 9.455/1997 + CF 5 XLIII + Convenção ONU (Dec.\n40/1991): I, finalidade específica (prova + criminosa +\ndiscriminação); II, castigo a pessoa sob guarda (crime próprio);\npena 2-8 (qualificada 4-10/8-16); §4 aumento 1/6-1/3 (agente\npúblico + criança + sequestro); §5 perda automática do cargo;\nHC 111.840 STF (regime fechado obrigatório inconstitucional);\nequiparado a hediondo."
+description: "Usar para pesquisar ou analisar: Crime de Tortura (Lei 9.455/1997 + CF 5 XLIII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crime de Tortura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura típica (Lei 9.455/1997 art. 1)
 

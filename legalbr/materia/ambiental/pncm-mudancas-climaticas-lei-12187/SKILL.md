@@ -5,8 +5,8 @@ title: "PNMC: Política Nacional sobre Mudança do Clima (Lei 12.187/2009 + NDC 
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/pncm-mudancas-climaticas-lei-12187.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/pncm-mudancas-climaticas-lei-12187/SKILL.md"
 triggers:
   - "Lei 12.187"
   - "PNMC"
@@ -18,10 +18,15 @@ triggers:
   - "Plano Clima"
   - "REDD+"
   - "Lei 15.042 carbono"
-description: "Política Nacional sobre Mudança do Clima, **Lei 12.187/2009**:\nmarco legal brasileiro para combate à crise climática. Princípios:\nprecaução + prevenção + participação + responsabilidades comuns\ndiferenciadas. **Compromisso voluntário** original: redução 36,1%-\n38,9% até 2020 (cumprido). **NDC 2024**: redução **59-67%** das\nemissões líquidas até 2035 (vs. 2005). Acordo de Paris + COP21.\n**Plano Clima** + Planos Setoriais (agricultura, energia, indústria,\ndesmatamento, transporte). REDD+ + créditos de carbono. Atualização\nprevista. Conjugação com **Lei 15.042/2024** (Sistema Brasileiro\nde Comércio de Emissões, SBCE) + **Lei 12.305** (PNRS)."
+description: "Usar para pesquisar ou analisar: PNMC: Política Nacional sobre Mudança do Clima (Lei 12.187/2009 + NDC 2035). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PNMC: Política Nacional sobre Mudança do Clima
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

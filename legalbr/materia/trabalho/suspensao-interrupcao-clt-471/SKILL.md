@@ -5,8 +5,8 @@ title: "Suspensão e Interrupção do Contrato (CLT 471-476)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/suspensao-interrupcao-clt-471.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/suspensao-interrupcao-clt-471/SKILL.md"
 triggers:
   - "suspensão do contrato"
   - "interrupção do contrato"
@@ -17,10 +17,15 @@ triggers:
   - "layoff"
   - "auxílio-doença"
   - "serviço militar"
-description: "Suspensão (não há pagamento, não conta tempo de serviço) × interrupção\n(paga e conta tempo). Hipóteses do art. 473; afastamento por doença\n(interrupção até 15 dias / suspensão a partir do 16º); layoff (CLT 476-A);\nsuspensão disciplinar (CLT 474, máx. 30 dias); serviço militar (472)."
+description: "Usar para pesquisar ou analisar: Suspensão e Interrupção do Contrato (CLT 471-476). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão e Interrupção do Contrato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

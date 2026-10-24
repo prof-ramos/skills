@@ -5,8 +5,8 @@ title: "Prerrogativas da Advocacia (Lei 8.906/1994 art. 7º)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/prerrogativas-advocacia-lei-8906.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/prerrogativas-advocacia-lei-8906/SKILL.md"
 triggers:
   - "prerrogativas advocatícias"
   - "Lei 8.906/1994"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 13.245/2016"
   - "impenhorabilidade de honorários advocatícios"
   - "Tema 1.153 STJ"
-description: "Prerrogativas da advocacia sob Lei 8.906/1994 art. 7 + Lei\n13.245/2016 + Lei 14.365/2022 + Lei 13.793/2019: inviolabilidade\nde escritório + correspondências (II); comunicação reservada com\ncliente (III); vista de autos sem procuração (XIV); busca em\nescritório exige requisitos cumulativos (jurisprudência do STF);\nSV 14 (acesso aos autos); honorários de natureza alimentar (SV 47)\ne impenhoráveis; Tema 1.153 STJ (CPC 833 §2)."
+description: "Usar para pesquisar ou analisar: Prerrogativas da Advocacia (Lei 8.906/1994 art. 7º). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prerrogativas da Advocacia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal central: Lei 8.906/1994 (EOAB) art. 7
 

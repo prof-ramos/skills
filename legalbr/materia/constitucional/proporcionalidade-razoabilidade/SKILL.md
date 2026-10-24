@@ -5,8 +5,8 @@ title: "Proporcionalidade + Razoabilidade (CF 5 LIV + CPC 8)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/proporcionalidade-razoabilidade.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/proporcionalidade-razoabilidade/SKILL.md"
 triggers:
   - "proporcionalidade"
   - "razoabilidade"
@@ -17,10 +17,15 @@ triggers:
   - "Untermassverbot"
   - "CF 5 LIV"
   - "devido processo substantivo"
-description: "Proporcionalidade implícita CF 5 LIV (devido processo\nsubstantivo), DUPLA FACE: proibição do EXCESSO + proibição\nda PROTEÇÃO DEFICIENTE; 3 SUBPRINCÍPIOS: ADEQUAÇÃO +\nNECESSIDADE + PROPORCIONALIDADE em sentido estrito (ponderação);\nrazoabilidade matriz EUA (ADI 1.158: vantagem irrazoável e sem\ncausa); positivada Lei 9.784 art. 2 + CPC 8; ADC 12 + HC\n104.410 (Untermassverbot)."
+description: "Usar para pesquisar ou analisar: Proporcionalidade + Razoabilidade (CF 5 LIV + CPC 8). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Proporcionalidade e Razoabilidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento constitucional
 

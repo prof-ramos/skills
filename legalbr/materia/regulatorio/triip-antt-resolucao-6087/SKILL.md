@@ -5,8 +5,8 @@ title: "TRIIP Internacional (Resolução ANTT 6.087/2026)"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/triip-antt-resolucao-6087.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/triip-antt-resolucao-6087/SKILL.md"
 triggers:
   - "Resolução ANTT 6.087/2026"
   - "TRIIP internacional ANTT"
@@ -20,10 +20,15 @@ triggers:
   - "frota internacional quinze anos"
   - "bagagem em viagem internacional ônibus"
   - "ATIT operação entre países"
-description: "Regime do TRIIP internacional sob a Resolução ANTT 6.087/2026: linhas, fretamentos, licenças, frota, bagagem, fiscalização, vacatio e transição."
+description: "Usar para pesquisar ou analisar: TRIIP Internacional (Resolução ANTT 6.087/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Serviços Internacionais de Passageiros por Rodovia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e estado temporal
 

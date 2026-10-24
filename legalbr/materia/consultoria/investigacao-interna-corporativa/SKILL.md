@@ -5,8 +5,8 @@ title: "Investigação Interna Corporativa"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/investigacao-interna-corporativa.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/investigacao-interna-corporativa/SKILL.md"
 triggers:
   - "investigação interna"
   - "internal investigation"
@@ -18,10 +18,15 @@ triggers:
   - "preservação evidências"
   - "forensic accounting"
   - "data forensics"
-description: "Investigação interna corporativa: instrumento de governança, compliance,\npreparação para self-report (CGU, MPF, DOJ, SFO) ou defesa preventiva.\nBase: Lei 12.846 art. 7 VIII (programa de integridade); EOAB art. 7 II\n(sigilo profissional); CC 1.011 + LSA 153 (deveres fiduciários). Etapas:\n(i) escopo + mandato; (ii) preservação de evidências (hold de e-mails,\nchats, sistemas); (iii) coleta; (iv) data analytics + forensic accounting;\n(v) entrevistas; (vi) relatório final; (vii) decisão sobre self-report.\nPrivilege protegido em advogado regularmente constituído; coordenação\ncross-border (DOJ, SFO, EU)."
+description: "Usar para pesquisar ou analisar: Investigação Interna Corporativa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Investigação Interna Corporativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

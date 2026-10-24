@@ -5,8 +5,8 @@ title: "Legitimidade Concorrente Advogado/Parte sobre Honorários"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/legitimidade-honorarios-advogado-parte-tema-1242.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/legitimidade-honorarios-advogado-parte-tema-1242/SKILL.md"
 triggers:
   - "Tema 1.242 STJ"
   - "legitimidade concorrente honorários"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 8.906 art 23"
   - "Lei 8.906 art 24 §4"
   - "execucao de honorarios pela parte"
-description: "Legitimidade CONCORRENTE da PARTE e do ADVOGADO para postular e\nexecutar honorários sucumbenciais: CPC 85 §14 (titularidade do\nadvogado) + Lei 8.906 arts. 23-24 + Tema 195 STJ (direito autônomo\ndo advogado à execução sem excluir a legitimidade da própria\nparte). Tema 1.242 STJ (afetado, PENDENTE de tese) discute a\nextensão dessa legitimidade concorrente."
+description: "Usar para pesquisar ou analisar: Legitimidade Concorrente Advogado/Parte sobre Honorários. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Legitimidade Concorrente Advogado/Parte para Discutir Honorários (Tema 1.242 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estado do Tema 1.242 STJ (PENDENTE)
 

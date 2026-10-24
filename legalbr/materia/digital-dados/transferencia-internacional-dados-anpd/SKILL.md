@@ -5,8 +5,8 @@ title: "Transferência Internacional de Dados (LGPD 33-36 + ANPD Reso 19/2024)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/transferencia-internacional-dados-anpd.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/transferencia-internacional-dados-anpd/SKILL.md"
 triggers:
   - "transferência internacional dados"
   - "LGPD 33"
@@ -17,10 +17,15 @@ triggers:
   - "SCC standard contractual clauses"
   - "data export"
   - "cross border transfer"
-description: "Transferência internacional de dados, LGPD **arts. 33-36** +\n**ANPD Resolução CD/ANPD 19/2024** (regulamento de transferências):\npermitida apenas para países com **nível adequado** de proteção\nreconhecido pela ANPD, ou por **garantias específicas** (cláusulas\ncontratuais padrão, CPC + normas corporativas globais, BCRs +\nselos de certificação) + outras hipóteses (consentimento específico,\ncooperação jurídica, vida, política pública). **Resolução 19/2024**\naprovou CPCs **anexo II**, adoção **integral sem alterações** em\naté **12 meses**. Aplicação extraterritorial LGPD (art. 3). **UE\nreconhecida como adequada** (Res. CD/ANPD 32/2026, adequação recíproca\nBrasil-UE, jan/2026): fluxo livre sem CPCs/BCRs. EUA não reconhecido\ncomo adequado. Sanções por descumprimento. Tendência: decisões de\nadequação progressivas."
+description: "Usar para pesquisar ou analisar: Transferência Internacional de Dados (LGPD 33-36 + ANPD Reso 19/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transferência Internacional de Dados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

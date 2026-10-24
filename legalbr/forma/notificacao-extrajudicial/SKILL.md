@@ -5,8 +5,8 @@ title: "Notificação Extrajudicial"
 category: "forma"
 materia: null
 documentType: "notificacao-extrajudicial"
-version: 1
-sourcePath: "lib/skills/official/forma/notificacao-extrajudicial.md"
+version: 2
+sourcePath: "legalbr/forma/notificacao-extrajudicial/SKILL.md"
 triggers:
   - "notificação extrajudicial"
   - "constituição em mora ex persona"
@@ -19,10 +19,15 @@ triggers:
   - "interpelação para cumprimento de obrigação"
   - "aviso de recebimento AR"
   - "exercício de direito potestativo"
-description: "Notificação extrajudicial (CC 397; Lei 8.935/1994; CPC 726 a 729 para\na judicial avulsa): constitui em mora ex persona, dá ciência inequívoca,\nexige cumprimento e evita preclusão ou decadência. Meios: AR-MP,\nCartório de Títulos e Documentos (com fé pública, preferível),\nnotificação judicial, e-mail com confirmação (a validade depende de\ncláusula contratual)."
+description: "Usar para redigir ou revisar: Notificação Extrajudicial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Notificação Extrajudicial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

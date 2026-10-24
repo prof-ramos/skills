@@ -5,8 +5,8 @@ title: "Incentivos Fiscais SUDAM/SUDENE. Redução de 75% do IRPJ e Depósito pa
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/incentivos-sudam-sudene-reinvestimento-tema-435.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/incentivos-sudam-sudene-reinvestimento-tema-435/SKILL.md"
 triggers:
   - "SUDAM"
   - "SUDENE"
@@ -19,10 +19,15 @@ triggers:
   - "laudo constitutivo SUDENE"
   - "incentivo fiscal desenvolvimento regional"
   - "Lei 14.753 prorrogação incentivos"
-description: "Incentivos fiscais regionais SUDAM/SUDENE: redução de 75% do IRPJ e adicionais\nsobre o lucro da exploração (MP 2.199-14/2001 art. 1º, projetos aprovados até\n31/12/2028, Lei 14.753/2023) e depósito para reinvestimento de 30% do IR (art. 3º;\nLei 8.167/91 art. 19). Tema 435 STJ (REsp 1.113.159): base do reinvestimento é o\nIR sobre o lucro da exploração (DL 1.598/77 art. 19 §6º); laudo constitutivo,\nreserva de incentivos e contencioso em MS."
+description: "Usar para pesquisar ou analisar: Incentivos Fiscais SUDAM/SUDENE. Redução de 75% do IRPJ e Depósito para Reinvestimento (Tema 435 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incentivos Fiscais SUDAM/SUDENE (Redução de IRPJ e Reinvestimento)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

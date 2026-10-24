@@ -5,8 +5,8 @@ title: "Falso Testemunho e Falsa Perícia (CP 342)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/falso-testemunho-cp-342.md"
+version: 2
+sourcePath: "legalbr/materia/penal/falso-testemunho-cp-342/SKILL.md"
 triggers:
   - "CP 342"
   - "falso testemunho"
@@ -18,10 +18,15 @@ triggers:
   - "extinção punibilidade testemunho"
   - "testemunha sem compromisso"
   - "corrupção de testemunha CP 343"
-description: "Falso testemunho CP 342 (recl. 2-4 + multa): testemunha, perito,\ncontador, tradutor ou intérprete que faz afirmação falsa, nega\nou cala verdade em processo judicial/administrativo/inquérito/\nCPI; §1 aumento 1/6-1/3 se obtém vantagem ou prejuízo a parte;\n§2 retratação antes da sentença extingue punibilidade; réu não é\nsujeito ativo (direito ao silêncio + não-autoincriminação)."
+description: "Usar para pesquisar ou analisar: Falso Testemunho e Falsa Perícia (CP 342). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falso Testemunho e Falsa Perícia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 342)
 

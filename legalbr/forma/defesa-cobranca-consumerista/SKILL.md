@@ -5,8 +5,8 @@ title: "Defesa do Consumidor em Cobrança / Monitória / Execução"
 category: "forma"
 materia: null
 documentType: "defesa-cobranca-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-cobranca-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-cobranca-consumerista/SKILL.md"
 triggers:
   - "defesa cobrança consumidor"
   - "embargos monitórios CDC"
@@ -15,10 +15,15 @@ triggers:
   - "defesa execução título extrajudicial consumidor"
   - "cláusula abusiva defesa"
   - "revisão saldo cobrança"
-description: "Contestação / embargos monitórios / embargos do devedor opostos pelo\nconsumidor em ações de cobrança ou execução: ataque à liquidez/exigibilidade;\nimpugnação específica de cláusulas como ônus do réu (Súm. 381 STJ);\nprescrição/decadência (CDC 26-27); defesa indireta (pagamento, novação,\ncompensação); reconvenção com pedidos consumeristas; inversão do ônus\n(CDC 6 VIII); excesso com planilha obrigatória; juros e correção pós\nLei 14.905/2024."
+description: "Usar para redigir ou revisar: Defesa do Consumidor em Cobrança / Monitória / Execução. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa do Consumidor em Cobrança / Monitória / Execução
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

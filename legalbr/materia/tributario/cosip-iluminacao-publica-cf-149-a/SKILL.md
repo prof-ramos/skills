@@ -5,8 +5,8 @@ title: "COSIP, Contribuição de Iluminação Pública (CF 149-A + RE 573.675 + 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/cosip-iluminacao-publica-cf-149-a.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cosip-iluminacao-publica-cf-149-a/SKILL.md"
 triggers:
   - "COSIP"
   - "CIP iluminação pública"
@@ -17,10 +17,15 @@ triggers:
   - "RE 573.675"
   - "cobrança na fatura"
   - "Súm. 670 STF"
-description: "COSIP CF 149-A (EC 39/2002): tributo municipal/DF de natureza\nSUI GENERIS para custear iluminação pública; RE 573.675 (Tema\n44): constitucional + dispensa serviço uti singuli (a taxa segue\nvedada, Súm. 670 STF + SV 41); pode ser cobrada na fatura de\nenergia elétrica; alíquota progressiva por consumo é VÁLIDA;\nTema 696 STF admite expansão/aprimoramento da rede; aplicação\nrestrita ao custeio do serviço, vedado uso para outros fins."
+description: "Usar para pesquisar ou analisar: COSIP, Contribuição de Iluminação Pública (CF 149-A + RE 573.675 + Tema 44). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # COSIP: Contribuição de Iluminação Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

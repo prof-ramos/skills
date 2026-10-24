@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-adesivo-cpc-997.md"
+sourcePath: "legalbr/materia/processo-civil/recurso-adesivo-cpc-997/SKILL.md"
 triggers:
   - "recurso adesivo"
   - "CPC 997"
@@ -17,10 +17,15 @@ triggers:
   - "sucumbência recíproca"
   - "Súm. 283 TST"
   - "Súm. 326 STJ"
-description: "Recurso adesivo sob CPC 997: subordinado interposto pela parte\nadversa nas contrarrazões do recurso principal; cabimento restrito\n(apelação, recurso extraordinário e recurso especial, CPC 997 §2\nII); prazo das contrarrazões (15 dias); subordinação ao principal\n(§2 III); preparo autônomo; matéria pode ser distinta; Súm. 326\nSTJ: condenação por dano moral inferior ao pedido não implica\nsucumbência recíproca; Súm. 283 TST: adesivo no processo do\ntrabalho (8 dias)."
+description: "Usar para pesquisar ou analisar: Recurso Adesivo (CPC 997). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Adesivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

@@ -5,8 +5,8 @@ title: "Sentença de Curatela (Interdição)"
 category: "forma"
 materia: null
 documentType: "sentenca-interdicao-curatela"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-interdicao-curatela.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-interdicao-curatela/SKILL.md"
 triggers:
   - "sentença de interdição"
   - "sentença de curatela"
@@ -16,10 +16,15 @@ triggers:
   - "registro e publicação da sentença de interdição"
   - "apelação da sentença de interdição"
   - "curador provisório"
-description: "Sentença que decide a curatela (CPC 747-758; Lei 13.146/2015 arts. 84-87;\nCC 1.767): medida protetiva extraordinária e proporcional, restrita a atos\npatrimoniais e negociais (EPD 85), com limites fixados ato a ato e razões\nexpressas na sentença (85 §2º; CPC 755 I); nomeação pela ordem do CC 1.775,\nadmitida a compartilhada (CC 1.775-A); inscrição no registro civil e\npublicações do CPC 755 §3º; apelação sem efeito suspensivo (CPC 1.012 §1º VI)."
+description: "Usar para redigir ou revisar: Sentença de Curatela (Interdição). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença de Curatela (Interdição)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

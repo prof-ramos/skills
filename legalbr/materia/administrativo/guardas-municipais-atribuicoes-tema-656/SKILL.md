@@ -5,8 +5,8 @@ title: "Guardas Municipais: Atribuições e Limites (Tema 656 STF + Lei 13.022)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/guardas-municipais-atribuicoes-tema-656.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/guardas-municipais-atribuicoes-tema-656/SKILL.md"
 triggers:
   - "Tema 656 STF"
   - "guardas municipais"
@@ -16,10 +16,15 @@ triggers:
   - "ações de segurança urbana"
   - "patrulhamento ostensivo"
   - "poder polícia municipal"
-description: "Tema 656 STF (RE 608.588, acórdão publicado 22/08/2025): é\nconstitucional, nos Municípios, o exercício pelas guardas\nmunicipais de ações de SEGURANÇA URBANA, incluído o\nPOLICIAMENTO OSTENSIVO E COMUNITÁRIO, respeitadas as atribuições\ndos demais órgãos do art. 144 CF e EXCLUÍDA qualquer atividade\nde polícia judiciária (investigação criminal). Sujeitas ao\ncontrole externo do MP (CF 129 VII) + Lei 13.022/14 + CF 144 §8."
+description: "Usar para pesquisar ou analisar: Guardas Municipais: Atribuições e Limites (Tema 656 STF + Lei 13.022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Guardas Municipais: Atribuições e Limites
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

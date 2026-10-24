@@ -5,8 +5,8 @@ title: "Direito à Educação + Vaga em Creche (CF 208 IV + Tema 548 STF)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/direito-educacao-creche-tema-548.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/direito-educacao-creche-tema-548/SKILL.md"
 triggers:
   - "direito à educação"
   - "vaga em creche"
@@ -19,10 +19,15 @@ triggers:
   - "FUNDEB EC 108"
   - "transporte escolar"
   - "reserva do possível"
-description: "Direito à educação CF 6 + 205 + 208 + LDB Lei 9.394/1996; Tema\n548 STF (RE 1.008.166/SC, vaga em creche/pré-escola até 5 anos\né direito subjetivo + Município responsável + ED rejeitou\nmodulação); ADPF 45 (mínimo existencial × reserva do possível);\ndever de transporte escolar (LDB 10 VII + 11 VI); Lei 14.945/2024\nreestrutura ensino médio; LBI educação inclusiva (ADI 5.357\nescolas privadas)."
+description: "Usar para pesquisar ou analisar: Direito à Educação + Vaga em Creche (CF 208 IV + Tema 548 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito à Educação + Vaga em Creche
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

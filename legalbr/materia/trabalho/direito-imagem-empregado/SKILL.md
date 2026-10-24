@@ -5,8 +5,8 @@ title: "Direito de Imagem do Empregado"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/direito-imagem-empregado.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/direito-imagem-empregado/SKILL.md"
 triggers:
   - "direito de imagem do empregado"
   - "uso indevido de imagem"
@@ -15,10 +15,15 @@ triggers:
   - "revista íntima"
   - "direito de arena"
   - "biometria do empregado"
-description: "Direito de imagem do empregado sob CF 5 V/X + CC 11 e 20-21 + CLT 456-A e\nSúm. 403 STJ: autorização expressa, específica, temporal e revogável; uso\ncomercial não autorizado como dano in re ipsa; limites a câmeras e revistas\n(Lei 13.271/16); biometria como dado sensível na LGPD; regime especial dos\natletas (Lei Pelé 9.615/98: direito de arena art. 42, natureza civil pós-Lei 12.395/2011; direito de imagem art. 87-A)."
+description: "Usar para pesquisar ou analisar: Direito de Imagem do Empregado. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Imagem do Empregado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

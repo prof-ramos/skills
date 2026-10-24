@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "sentenca-jecrim"
 version: 2
-sourcePath: "lib/skills/official/forma/sentenca-jecrim.md"
+sourcePath: "legalbr/forma/sentenca-jecrim/SKILL.md"
 triggers:
   - "sentença juizado especial criminal"
   - "JECrim"
@@ -16,10 +16,15 @@ triggers:
   - "sentença homologatória de transação penal"
   - "composição civil dos danos"
   - "sentença condenatória ou absolutória do rito sumaríssimo"
-description: "Sentença no JECrim sob a Lei 9.099/95: homologatória da composição civil\n(art. 74, irrecorrível, título executivo) e da transação penal (art. 76,\nsem reincidência; SV 35: sem coisa julgada material, descumprimento retoma\na persecução); condenatória ou absolutória do rito sumaríssimo com relatório\ndispensado (art. 81 §3º); suspensão condicional do processo (art. 89);\napelação em 10 dias por petição escrita à Turma Recursal (art. 82)."
+description: "Usar para redigir ou revisar: Sentença no Juizado Especial Criminal (Lei 9.099/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença no Juizado Especial Criminal (Lei 9.099/95)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e âmbito
 

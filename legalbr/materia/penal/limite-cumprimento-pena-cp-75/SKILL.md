@@ -5,8 +5,8 @@ title: "Limite Máximo de Cumprimento (CP 75: 40 anos + Súm. 715 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/limite-cumprimento-pena-cp-75.md"
+version: 2
+sourcePath: "legalbr/materia/penal/limite-cumprimento-pena-cp-75/SKILL.md"
 triggers:
   - "CP 75"
   - "limite 40 anos"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 13.964 Anticrime"
   - "extradição CP 75"
   - "irretroatividade limite"
-description: "CP 75 (Lei 13.964/2019): limite MÁXIMO de cumprimento de PPL =\n40 anos (antes 30). Soma de penas que ultrapassem o teto é\nunificada para atender ao limite (CP 75 §1). Súm. 715 STF: o\nlimite NÃO se considera para benefícios (livramento, progressão:\nbase é pena TOTAL aplicada). STJ (Inf. 712): livramento gozado conta no\nlimite. Irretroatividade gravosa: fatos pré-23/01/2020 = 30 anos."
+description: "Usar para pesquisar ou analisar: Limite Máximo de Cumprimento (CP 75: 40 anos + Súm. 715 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limite Máximo de Cumprimento da Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 75: texto após Anticrime
 

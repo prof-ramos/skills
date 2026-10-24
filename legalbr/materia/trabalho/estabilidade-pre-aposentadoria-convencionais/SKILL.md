@@ -5,8 +5,8 @@ title: "Estabilidade Pré-Aposentadoria e Garantias de Emprego Convencionais"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/estabilidade-pre-aposentadoria-convencionais.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estabilidade-pre-aposentadoria-convencionais/SKILL.md"
 triggers:
   - "estabilidade pré-aposentadoria"
   - "garantia de emprego norma coletiva"
@@ -17,10 +17,15 @@ triggers:
   - "comunicação de pré-aposentadoria ao empregador"
   - "indenização substitutiva de estabilidade"
   - "ADPF 323 ultratividade"
-description: "Garantia de emprego pré-aposentadoria: sem previsão legal, nasce de ACT/CCT\n(cláusulas de 12-24 meses antes da aposentadoria); requisitos preenchidos na\nvigência do instrumento (OJ 41 SDI-1, aplicada por analogia) sem confundir\ncom ultratividade (ADPF 323); dispensa obstativa (CC 129, boa-fé); exaurido\no período, indenização substitutiva sem reintegração (Súm. 396 TST)."
+description: "Usar para pesquisar ou analisar: Estabilidade Pré-Aposentadoria e Garantias de Emprego Convencionais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade Pré-Aposentadoria e Garantias Convencionais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

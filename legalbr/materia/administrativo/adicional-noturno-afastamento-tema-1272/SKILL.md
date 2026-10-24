@@ -5,8 +5,8 @@ title: "Adicional Noturno do Servidor + Períodos de Afastamento (Tema 1.272 STJ
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/adicional-noturno-afastamento-tema-1272.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/adicional-noturno-afastamento-tema-1272/SKILL.md"
 triggers:
   - "Tema 1.272 STJ"
   - "adicional noturno servidor"
@@ -15,10 +15,15 @@ triggers:
   - "agente federal execução penal"
   - "Lei 8.112 art 75"
   - "vantagem propter laborem"
-description: "Tema 1.272 STJ (1ª Seção, 13/08/2025): adicional noturno tem\nnatureza PROPTER LABOREM. NÃO é devido ao servidor (federal) nos\nperíodos de AFASTAMENTO, ainda que considerados como efetivo\nexercício. Cessada a prestação noturna, cessa o pagamento."
+description: "Usar para pesquisar ou analisar: Adicional Noturno do Servidor + Períodos de Afastamento (Tema 1.272 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicional Noturno do Servidor + Períodos de Afastamento (Tema 1.272 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.272 STJ, 1ª Seção, 13/08/2025, Min. Marco Aurélio Bellizze)
 

@@ -5,8 +5,8 @@ title: "Pacto Antenupcial e Regimes de Bens (CC 1.640-1.652)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/pacto-antenupcial-regime-bens.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/pacto-antenupcial-regime-bens/SKILL.md"
 triggers:
   - "pacto antenupcial"
   - "comunhão parcial"
@@ -16,10 +16,15 @@ triggers:
   - "união estável pacto"
   - "alteração de regime de bens"
   - "separação obrigatória de bens"
-description: "Regimes de bens (CC 1.639-1.652 + 1.725): comunhão parcial (padrão),\ncomunhão universal, separação total (convencional + obrigatória) e\nparticipação final nos aquestos. Pacto antenupcial: escritura pública,\nregistro no Registro de Imóveis (CC 1.657), cláusulas, alteração judicial motivada (CC 1.639\n§2º), admitida pelo STJ com efeitos ex nunc. União estável: regime\nparcial default ou pacto."
+description: "Usar para pesquisar ou analisar: Pacto Antenupcial e Regimes de Bens (CC 1.640-1.652). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pacto Antenupcial e Regimes de Bens
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

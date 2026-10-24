@@ -5,8 +5,8 @@ title: "MS Coletivo por Associação (Tema 1.119 STF + ARE 1.293.130)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/ms-coletivo-associacao-tema-1119.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/ms-coletivo-associacao-tema-1119/SKILL.md"
 triggers:
   - "Tema 1.119"
   - "ARE 1.293.130"
@@ -17,10 +17,15 @@ triggers:
   - "RE 573.232"
   - "execução título coletivo"
   - "autorização associados"
-description: "Tema 1.119 STF (ARE 1.293.130, RG e mérito 29/06/2021): em MS\ncoletivo de associação, dispensada autorização expressa, lista\nnominal e filiação prévia para execução de valores pretéritos.\nSubstituição processual (CF 5 LXX + Súm. 629 STF). Distinção do\nTema 499 (ações coletivas ordinárias exigem autorização específica\ne listagem — representação processual)."
+description: "Usar para pesquisar ou analisar: MS Coletivo por Associação (Tema 1.119 STF + ARE 1.293.130). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MS Coletivo por Associação (Tema 1.119 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

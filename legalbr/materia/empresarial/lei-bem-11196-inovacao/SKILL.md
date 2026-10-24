@@ -5,8 +5,8 @@ title: "Lei do Bem (Lei 11.196/2005 + Lei 13.243/2016 + EC 85/2015)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/lei-bem-11196-inovacao.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/lei-bem-11196-inovacao/SKILL.md"
 triggers:
   - "Lei do Bem"
   - "Lei 11.196/2005"
@@ -20,10 +20,15 @@ triggers:
   - "lucro real"
   - "exclusão adicional 60-80%"
   - "FORMP&D"
-description: "Lei 11.196/2005 Lei do Bem (cap. III arts. 17-26): incentivos\nPD&I apenas LUCRO REAL + lucro fiscal + regular CND; benefícios\nEXCLUSÃO 60-80% (60 padrão + 70 c/ 5% novos pesquisadores + 80\nc/ >5%) + 20% PATENTE + art. 19-A ICT 50-250%; Marco Legal CT&I EC 85/2015\n+ Lei 13.243/2016 + Lei 10.973/2004; MCTI + FORMP&D anual;\nPortaria 9.563/2025 + DIRBI MP 1.227/2024."
+description: "Usar para pesquisar ou analisar: Lei do Bem (Lei 11.196/2005 + Lei 13.243/2016 + EC 85/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei do Bem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 11.196/2005: Capítulo III (arts. 17-26)
 

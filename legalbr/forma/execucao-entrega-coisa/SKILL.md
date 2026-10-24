@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "execucao-entrega-coisa"
 version: 2
-sourcePath: "lib/skills/official/forma/execucao-entrega-coisa.md"
+sourcePath: "legalbr/forma/execucao-entrega-coisa/SKILL.md"
 triggers:
   - "execução para entrega de coisa"
   - "obrigação de entregar coisa certa e incerta"
@@ -16,10 +16,15 @@ triggers:
   - "astreintes pelo descumprimento"
   - "mandado de busca e apreensão na execução para entrega de coisa"
   - "imissão na posse na execução de entrega de imóvel"
-description: "Execução para entrega de coisa: título extrajudicial pelo rito dos\narts. 806-813 (citação com prazo de 15 dias, busca e apreensão de\nmóvel ou imissão na posse de imóvel, conversão em perdas e danos);\ncoisa incerta pelos arts. 811-813; cumprimento de sentença pelo art.\n538 com preclusão da arguição de benfeitorias na contestação; multa\ncoercitiva subsidiária do art. 537."
+description: "Usar para redigir ou revisar: Execução de Obrigação de Entregar Coisa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução de Obrigação de Entregar Coisa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quadro
 

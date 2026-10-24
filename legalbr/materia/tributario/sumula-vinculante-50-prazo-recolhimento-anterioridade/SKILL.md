@@ -5,8 +5,8 @@ title: "Súmula Vinculante 50, Prazo de Recolhimento e Anterioridade"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sumula-vinculante-50-prazo-recolhimento-anterioridade.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-50-prazo-recolhimento-anterioridade/SKILL.md"
 triggers:
   - "SV 50"
   - "Súmula Vinculante 50"
@@ -19,10 +19,15 @@ triggers:
   - "RE 182971"
   - "RE 209386"
   - "PSV 97"
-description: "SV 50 STF (17/06/2015): \"Norma legal que altera o prazo de\nrecolhimento de obrigação tributária não se sujeita ao\nprincípio da anterioridade.\" Conversão da Súm. 669 STF;\ndistingue criação/aumento (sujeitos) de mero prazo (não\nsujeito); CF 150 III b/c + CF 195 §6; precedentes RE 182.971\ne RE 209.386."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 50, Prazo de Recolhimento e Anterioridade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 50, Prazo de Recolhimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

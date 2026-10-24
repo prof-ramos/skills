@@ -5,8 +5,8 @@ title: "Substituição por Prisão Domiciliar"
 category: "forma"
 materia: null
 documentType: "substituicao-prisao-domiciliar"
-version: 1
-sourcePath: "lib/skills/official/forma/substituicao-prisao-domiciliar.md"
+version: 2
+sourcePath: "legalbr/forma/substituicao-prisao-domiciliar/SKILL.md"
 triggers:
   - "substituição por prisão domiciliar"
   - "art. 318 CPP"
@@ -16,10 +16,15 @@ triggers:
   - "mãe de criança até 12 anos"
   - "responsável por pessoa com deficiência"
   - "Marco Legal Primeira Infância"
-description: "Substituição da preventiva por domiciliar (CPP 318 e 318-A): idoso\n80+, doente grave, gestante, mãe/responsável por menor 12 ou PCD.\nHC 143.641/STF; vedações do 318-A; prova documental idônea (318\np.ú.)."
+description: "Usar para redigir ou revisar: Substituição por Prisão Domiciliar. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Substituição da Preventiva por Prisão Domiciliar
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

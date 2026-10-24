@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "representacao-conduta-vedada"
 version: 2
-sourcePath: "lib/skills/official/forma/representacao-conduta-vedada.md"
+sourcePath: "legalbr/forma/representacao-conduta-vedada/SKILL.md"
 triggers:
   - "representação por conduta vedada"
   - "condutas vedadas aos agentes públicos arts. 73 a 78 Lei 9.504/97"
@@ -14,10 +14,15 @@ triggers:
   - "rito sumário do art. 96 Lei 9.504/97"
   - "multa e cassação de registro ou diploma"
   - "conduta vedada cumulada com captação ilícita de sufrágio"
-description: "Representação por conduta vedada sob a Lei 9.504/97 (arts. 73-78 e\nrito do art. 96) e LC 64/90 (art. 22 supletivo): apura condutas\nvedadas a agentes públicos em ano eleitoral por tipos objetivos do\nrol taxativo; sanções de multa, cassação e inelegibilidade;\nlegitimidade ativa; rito sumário e prazo até a diplomação;\ndistinção de AIJE e do art. 41-A."
+description: "Usar para redigir ou revisar: Representação por Conduta Vedada. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Representação por Conduta Vedada
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

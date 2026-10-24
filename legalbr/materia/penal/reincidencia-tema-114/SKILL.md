@@ -5,8 +5,8 @@ title: "Reincidência como Agravante (Tema 114 STF + RE 453.000)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/reincidencia-tema-114.md"
+version: 2
+sourcePath: "legalbr/materia/penal/reincidencia-tema-114/SKILL.md"
 triggers:
   - "Tema 114 STF"
   - "RE 453.000"
@@ -18,10 +18,15 @@ triggers:
   - "Súmula 241 STJ"
   - "prazo depurador"
   - "reincidência específica"
-description: "Tema 114 STF (RE 453.000, Min. Marco Aurélio, 04/04/2013):\nconstitucional a agravante de reincidência (CP 61 I), não viola\nbis in idem. Outros efeitos constitucionais: vedação à substituição\n(CP 44 II), regime mais gravoso (CP 33 §2), interrupção da\nprescrição (CP 117 VI), aumento da prescrição executória (CP 110).\nSúm. 241 STJ veda uso simultâneo como agravante e antecedente."
+description: "Usar para pesquisar ou analisar: Reincidência como Agravante (Tema 114 STF + RE 453.000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reincidência como Agravante (Tema 114 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

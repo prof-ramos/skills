@@ -5,8 +5,8 @@ title: "Protesto Indevido: Dano Moral e Cancelamento (Lei 9.492/97)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/protesto-indevido-lei-9492.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/protesto-indevido-lei-9492/SKILL.md"
 triggers:
   - "protesto indevido"
   - "cartório de protesto"
@@ -19,10 +19,15 @@ triggers:
   - "título prescrito"
   - "cheque sem força executiva"
   - "protesto duplicata fria"
-description: "Protesto indevido sob Lei 9.492/97 + CDC: dano moral in re ipsa para\ntítulo inexistente, pago ou prescrito; cancelamento do protesto\nlegítimo incumbe ao devedor após quitação (Tema 725 STJ, REsp\n1.339.436/SP), salvo cláusula em contrário; responsabilidade do\ncredor pela conduta abusiva; sustação por tutela com caução real\n(art. 17); prazo 5 anos; legitimidade passiva."
+description: "Usar para pesquisar ou analisar: Protesto Indevido: Dano Moral e Cancelamento (Lei 9.492/97). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Protesto Indevido
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 10, Cláusula de Reserva de Plenário"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-10-reserva-plenario.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-10-reserva-plenario/SKILL.md"
 triggers:
   - "SV 10"
   - "Súmula Vinculante 10"
@@ -17,10 +17,15 @@ triggers:
   - "órgão fracionário"
   - "inconstitucionalidade incidental"
   - "CPC 948 949"
-description: "SV 10 STF (18/06/2008): \"Viola a cláusula de reserva de plenário\n(CF, art. 97) a decisão de órgão fracionário de Tribunal que,\nembora não declare expressamente a inconstitucionalidade de lei\nou ato normativo, afasta sua incidência, no todo ou em parte.\"\nExige incidente nos tribunais (CPC 948-949); exceção quando há\nprecedente do Pleno do STF ou do próprio órgão especial."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 10, Cláusula de Reserva de Plenário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 10, Cláusula de Reserva de Plenário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

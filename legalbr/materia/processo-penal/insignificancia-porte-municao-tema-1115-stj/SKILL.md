@@ -5,8 +5,8 @@ title: "Princípio da Insignificância em Porte ou Posse de Munição (Tema 1.11
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/insignificancia-porte-municao-tema-1115-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/insignificancia-porte-municao-tema-1115-stj/SKILL.md"
 triggers:
   - "Tema 1115 STJ"
   - "Tema 1.115 STJ"
@@ -22,10 +22,15 @@ triggers:
   - "crime perigo abstrato"
   - "munição desacompanhada arma"
   - "pequena quantidade munição"
-description: "Tema 1.115 STJ: porte ou posse de munição é crime de PERIGO ABSTRATO\ne MERA CONDUTA, em regra NÃO comporta insignificância. ADMITE-SE\nexcepcionalmente quando CUMULATIVAMENTE: (i) pequena quantidade;\n(ii) munição DESACOMPANHADA de arma apta; (iii) peculiaridades do\ncaso revelando ausência de lesividade. NÃO aplica em contexto de\ntráfico ou outro crime."
+description: "Usar para pesquisar ou analisar: Princípio da Insignificância em Porte ou Posse de Munição (Tema 1.115 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Insignificância + Porte/Posse de Munição (Tema 1.115 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.115 STJ)
 

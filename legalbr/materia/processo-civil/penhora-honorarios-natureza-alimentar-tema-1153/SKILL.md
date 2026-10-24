@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais não são Prestação Alimentícia"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/penhora-honorarios-natureza-alimentar-tema-1153.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-honorarios-natureza-alimentar-tema-1153/SKILL.md"
 triggers:
   - "Tema 1153 STJ"
   - "honorários natureza alimentar"
@@ -20,10 +20,15 @@ triggers:
   - "penhora poupança honorários"
   - "40 salários mínimos"
   - "impenhorabilidade honorários"
-description: "Tese do Tema 1153 STJ: a verba honorária sucumbencial, embora de\nnatureza alimentar, NÃO se enquadra na exceção de \"prestação\nalimentícia\" do art. 833 § 2 do CPC. Resultado: salários,\nproventos e valores até 40 SM em poupança são IMPENHORÁVEIS\npara pagamento de honorários. REsps 1.954.380/SP e 1.954.382/SP,\nCorte Especial, j. 06/11/2024. Distinção entre \"natureza\nalimentar\" (gênero) e \"prestação alimentícia\" (espécie)."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais não são Prestação Alimentícia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais e Impenhorabilidade (Tema 1153 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1153 STJ)
 

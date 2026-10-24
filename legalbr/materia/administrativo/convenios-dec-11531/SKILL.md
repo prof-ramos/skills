@@ -5,8 +5,8 @@ title: "Convênios e Transferências Voluntárias (Dec. 11.531/2023 + LRF 25)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/convenios-dec-11531.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/convenios-dec-11531/SKILL.md"
 triggers:
   - "convênio"
   - "transferência voluntária"
@@ -19,10 +19,15 @@ triggers:
   - "contrapartida"
   - "prestação de contas"
   - "tomada de contas especial"
-description: "Convênios e transferências voluntárias (Dec. 11.531/2023 +\nLRF 25 + Lei 14.133): instrumento para transferência de recursos\nda União a entes/entidades sem fins lucrativos; plataforma\nTransferegov; plano de trabalho + contrapartida; prestação de\ncontas + TCE; substituiu Dec. 6.170/2007; Lei 14.133 art. 184\naplicável no que couber (Lei 8.666 revogada)."
+description: "Usar para pesquisar ou analisar: Convênios e Transferências Voluntárias (Dec. 11.531/2023 + LRF 25). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Convênios e Transferências Voluntárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

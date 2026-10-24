@@ -5,8 +5,8 @@ title: "Contrato de Empreitada"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-empreitada.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-empreitada/SKILL.md"
 triggers:
   - "contrato de empreitada"
   - "empreitada de lavor"
@@ -19,10 +19,15 @@ triggers:
   - "prestação de contas obra"
   - "medição de obra"
   - "empreitada turn key"
-description: "Empreitada (CC 610-626): modalidades (lavor, lavor e\nmateriais, preço global, administração); garantia quinquenal\n(618); aditivos; rescisão (623-625); CDC quando aplicável."
+description: "Usar para pesquisar ou analisar: Contrato de Empreitada. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Empreitada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

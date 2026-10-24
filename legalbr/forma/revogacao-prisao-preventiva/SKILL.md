@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "revogacao-prisao-preventiva"
 version: 2
-sourcePath: "lib/skills/official/forma/revogacao-prisao-preventiva.md"
+sourcePath: "legalbr/forma/revogacao-prisao-preventiva/SKILL.md"
 triggers:
   - "revogação de prisão preventiva"
   - "art. 316 CPP"
@@ -16,10 +16,15 @@ triggers:
   - "revogação por cessação dos requisitos do art. 312 CPP"
   - "revogação da preventiva ausentes os pressupostos do art. 313 CPP"
   - "pedido de revogação por fundamentação genérica do decreto art. 315 CPP"
-description: "Revogação de preventiva (CPP 316): cessados motivos do 312/313, juiz\nrevoga. Vedada decretação de ofício (CPP 311); revisão a cada 90 dias\n(316 p.ú.), sem soltura automática (SL 1.395/STF; ADIs 6.581/6.582)."
+description: "Usar para redigir ou revisar: Revogação de Prisão Preventiva. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revogação de Prisão Preventiva
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

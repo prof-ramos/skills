@@ -5,8 +5,8 @@ title: "Colaboração Premiada em Ação Civil Pública de Improbidade (Tema 1.0
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/colaboracao-premiada-improbidade-tema-1043.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/colaboracao-premiada-improbidade-tema-1043/SKILL.md"
 triggers:
   - "Tema 1.043 STF"
   - "colaboração premiada improbidade"
@@ -17,10 +17,15 @@ triggers:
   - "acordo improbidade"
   - "acordo de não persecução civil"
   - "colaboração premiada ação civil pública"
-description: "Tema 1.043 STF (ARE 1.175.650, 03/07/2023): a colaboração\npremiada (Lei 12.850/13) PODE ser utilizada em ação civil\npública de improbidade administrativa (Lei 8.429/92 +\n14.230/21), por compatibilidade entre os regimes. Permite\nacordo que atenue sanções administrativas. CF 5 LIV + LV\n(devido processo) + 37 §4."
+description: "Usar para pesquisar ou analisar: Colaboração Premiada em Ação Civil Pública de Improbidade (Tema 1.043 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Colaboração Premiada em ACP de Improbidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

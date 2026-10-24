@@ -5,8 +5,8 @@ title: "Nunciação de Obra Nova / Tutela Inibitória"
 category: "forma"
 materia: null
 documentType: "nunciacao-obra-nova-tutela-inibitoria"
-version: 1
-sourcePath: "lib/skills/official/forma/nunciacao-obra-nova-tutela-inibitoria.md"
+version: 2
+sourcePath: "legalbr/forma/nunciacao-obra-nova-tutela-inibitoria/SKILL.md"
 triggers:
   - "nunciação de obra nova"
   - "tutela inibitória"
@@ -14,10 +14,15 @@ triggers:
   - "direito de vizinhança"
   - "construção irregular"
   - "cessação de obra"
-description: "Tutela inibitória inominada (CPC 497 p.ú., 555) para impedir construção\nque prejudique vizinho ou viole posturas. O CPC/15 não trouxe rito autônomo\nda nunciação. Liminar pelo CPC 300; reposição ao estado anterior e perdas\ne danos. Prazo de ano e dia para desfazimento: CC 1.302."
+description: "Usar para redigir ou revisar: Nunciação de Obra Nova / Tutela Inibitória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nunciação de Obra Nova / Tutela Inibitória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e enquadramento processual
 

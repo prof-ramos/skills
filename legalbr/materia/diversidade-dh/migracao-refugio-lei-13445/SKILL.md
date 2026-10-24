@@ -5,8 +5,8 @@ title: "Migração e Refúgio (Leis 13.445 e 9.474)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/migracao-refugio-lei-13445.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/migracao-refugio-lei-13445/SKILL.md"
 triggers:
   - "Lei 13.445"
   - "Lei de Migração"
@@ -20,10 +20,15 @@ triggers:
   - "Carteira de Registro Nacional Migratório"
   - "Decreto 9.199"
   - "ADPF 619"
-description: "Direito Migratório (Lei 13.445/2017 + Dec. 9.199/2017) + Refúgio\n(Lei 9.474/1997 + Convenção 1951 + Protocolo 1967 + Declaração de\nCartagena 1984): princípios da NÃO-CRIMINALIZAÇÃO + ACOLHIMENTO\nHUMANITÁRIO + REUNIÃO FAMILIAR + IGUALDADE; CRNM (registro nacional);\nespécies: visto, residência, refúgio, asilo, apatridia, acolhimento\nhumanitário; vedação à prisão administrativa (Lei 13.445 art. 123 §1);\nADPF 619 (vedou deportação sumária venezuelana); DPU atuação."
+description: "Usar para pesquisar ou analisar: Migração e Refúgio (Leis 13.445 e 9.474). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Migratório e Refúgio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

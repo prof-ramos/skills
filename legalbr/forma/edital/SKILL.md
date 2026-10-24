@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "edital"
 version: 2
-sourcePath: "lib/skills/official/forma/edital.md"
+sourcePath: "legalbr/forma/edital/SKILL.md"
 triggers:
   - "edital judicial"
   - "citação por edital arts. 256 e 257 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "réu em local incerto ou não sabido"
   - "prazo de dilação do edital"
   - "publicação do edital no Diário de Justiça eletrônico"
-description: "Edital (CPC 256 e 257 para citação; 275 e 276 para intimação; 886 e\n887 para alienação judicial). Citação por edital: réu desconhecido,\nincerto ou em lugar ignorado, com prévia frustração de outros meios;\nprazo de 20 a 60 dias; publicação no CNJ e no site do juízo. Sem\ncomparecimento, nomeação de CURADOR ESPECIAL (CPC 72 II). Edital de\nhasta: descrição do bem, valor, data e local, ônus."
+description: "Usar para redigir ou revisar: Edital. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Edital
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

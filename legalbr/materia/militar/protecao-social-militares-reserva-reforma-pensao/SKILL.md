@@ -5,8 +5,8 @@ title: "Proteção Social dos Militares. Reserva, Reforma e Pensão Militar (Lei
 category: "materia"
 materia: "militar"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/militar/protecao-social-militares-reserva-reforma-pensao.md"
+version: 2
+sourcePath: "legalbr/materia/militar/protecao-social-militares-reserva-reforma-pensao/SKILL.md"
 triggers:
   - "pensão militar"
   - "Lei 3.765 pensão militar"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 1.177 STF"
   - "Tema 160 STF"
   - "CF 142 §3 X"
-description: "Regime próprio dos militares (fora de RGPS e RPPS): reserva remunerada\n(35 anos, Lei 6.880 arts. 96-98), reforma (idades-limite e incapacidade,\narts. 106-111), pensão militar da Lei 3.765/60 (alíquota 10,5% + extra\n3%/1,5%, beneficiários art. 7º, filhas vitalícias da MP 2.215-10 art. 31)\ne SPSM da Lei 13.954/2019; militares estaduais (CF 42, DL 667 arts. 24-A\na 24-F, Tema 1.177 STF) e contribuição de inativos (Tema 160 STF)."
+description: "Usar para pesquisar ou analisar: Proteção Social dos Militares. Reserva, Reforma e Pensão Militar (Lei 3.765/60 + Lei 13.954/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Proteção Social dos Militares: Reserva, Reforma e Pensão Militar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Terceiro regime previdenciário brasileiro: os militares NÃO integram o RGPS nem os RPPS. A inatividade e a pensão militar são disciplinadas por lei específica, com fundamento no **CF 142 §3 X** (lei disporá sobre ingresso, limites de idade, estabilidade e transferência para a inatividade dos militares das Forças Armadas) e, para os militares estaduais, no **CF 42 §§1-2**.
 

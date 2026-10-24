@@ -5,8 +5,8 @@ title: "Súmula Vinculante 51, Reajuste 28,86% aos Servidores Civis Federais"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-51-reajuste-28-86-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-51-reajuste-28-86-servidor/SKILL.md"
 triggers:
   - "Súmula Vinculante 51"
   - "SV 51"
@@ -18,10 +18,15 @@ triggers:
   - "revisão geral vencimentos"
   - "compensação reajuste"
   - "servidor civil federal"
-description: "SV 51 STF (18/06/2015): \"O reajuste de 28,86%, concedido aos\nservidores militares pelas Leis 8622/1993 e 8627/1993, estende-se\naos servidores civis do poder executivo, observadas as eventuais\ncompensações decorrentes dos reajustes diferenciados concedidos\npelos mesmos diplomas\". Origem: RMS 22.307 e ED. Converte\nSúm. 672/STF. Aplica-se ao civil do Executivo federal."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 51, Reajuste 28,86% aos Servidores Civis Federais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 51, Reajuste de 28,86% aos Servidores Civis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

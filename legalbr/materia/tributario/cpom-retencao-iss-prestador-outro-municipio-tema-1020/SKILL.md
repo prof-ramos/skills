@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/cpom-retencao-iss-prestador-outro-municipio-tema-1020.md"
+sourcePath: "legalbr/materia/tributario/cpom-retencao-iss-prestador-outro-municipio-tema-1020/SKILL.md"
 triggers:
   - "CPOM"
   - "cadastro CEPOM"
@@ -19,10 +19,15 @@ triggers:
   - "repetição de ISS retido indevidamente"
   - "bitributação de ISS"
   - "guerra fiscal municipal ISS"
-description: "Cadastro obrigatório de prestador de fora do município (CPOM/\nCEPOM) com retenção do ISS pelo tomador declarado incompatível\ncom a CF pelo Tema 1.020 STF (RE 1.167.509, modelo paulistano\ndo art. 9º-A da Lei 13.701/2003); LC 116 arts. 3º, 4º e 6º;\nrepetição do indébito (CTN 165-168), consignação na\nbitributação (CTN 164 III)."
+description: "Usar para pesquisar ou analisar: CPOM e Retenção de ISS de Prestador de Outro Município (Tema 1.020 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CPOM e Retenção de ISS de Prestador de Outro Município
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "previdenciario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-atividade-risco-lc-51-tema-1019.md"
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-atividade-risco-lc-51-tema-1019/SKILL.md"
 triggers:
   - "Tema 1.019 STF"
   - "aposentadoria especial atividade risco"
@@ -20,10 +20,15 @@ triggers:
   - "LC 144/2014"
   - "Tema 1.469 STF"
   - "ARE 1.602.968"
-description: "Tema 1.019 STF: integralidade do policial civil que preencheu requisitos da LC\n51/1985 antes da EC 103; paridade se prevista em LC. Tema 1.469 STF: agente\npenitenciário pré-EC 41 sujeito à LC/SP 1.109/2010; mérito pendente."
+description: "Usar para pesquisar ou analisar: Aposentadoria por Atividade de Risco com Integralidade (Tema 1.019 STF + LC 51/85). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria por Atividade de Risco (Servidores)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

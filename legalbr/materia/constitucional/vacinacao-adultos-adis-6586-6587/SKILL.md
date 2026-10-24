@@ -5,8 +5,8 @@ title: "Vacinação Compulsória de Adultos (ADIs 6.586 e 6.587 STF)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/vacinacao-adultos-adis-6586-6587.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/vacinacao-adultos-adis-6586-6587/SKILL.md"
 triggers:
   - "ADI 6.586"
   - "ADI 6.587"
@@ -17,10 +17,15 @@ triggers:
   - "comprovante de vacinação"
   - "medidas indiretas vacinação"
   - "competência comum saúde"
-description: "ADIs 6.586/6.587 STF (Lei 13.979/20, Min. Lewandowski,\n17/12/2020): constitucional vacinação compulsória de adultos por\nmedidas INDIRETAS (restrição de atividades, locais), respeitados\ncinco requisitos: lei, base científica, informação, dignidade/\nproporcionalidade, universalidade/gratuidade. Compulsória NÃO é\nforçada. Competência comum entre União, Estados, DF e Municípios.\nVacinação de crianças: Tema 1.103 (ARE 1.267.879)."
+description: "Usar para pesquisar ou analisar: Vacinação Compulsória de Adultos (ADIs 6.586 e 6.587 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vacinação Compulsória de Adultos (ADIs 6.586/6.587 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

@@ -5,8 +5,8 @@ title: "Litigância de Má-fé (CPC 80-81 + CPC 77 §2 + Lei 14.879/2024)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/litigancia-ma-fe-cpc-80.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/litigancia-ma-fe-cpc-80/SKILL.md"
 triggers:
   - "litigância de má-fé"
   - "CPC 80"
@@ -18,10 +18,15 @@ triggers:
   - "assédio processual"
   - "IA generativa jurisprudência"
   - "devedor contumaz"
-description: "Litigância de má-fé CPC 80 (7 hipóteses TAXATIVAS) + CPC 81\nTRÍPLICE sanção (multa 1-10% + indenização integral + honorários);\n§2 valor irrisório/inestimável → multa de até 10 SM; natureza\nHÍBRIDA (punitiva + indenizatória); CPC 77 §2 ato atentatório à\ndignidade da justiça, multa até 20% + cumulável com astreintes\n(naturezas distintas); tribunais têm aplicado multa por má-fé\nno uso de jurisprudência INEXISTENTE gerada por IA (2025-2026)."
+description: "Usar para pesquisar ou analisar: Litigância de Má-fé (CPC 80-81 + CPC 77 §2 + Lei 14.879/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Litigância de Má-fé
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 80: HIPÓTESES TAXATIVAS (7, *numerus clausus*)
 

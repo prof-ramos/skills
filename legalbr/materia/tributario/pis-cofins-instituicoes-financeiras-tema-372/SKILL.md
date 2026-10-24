@@ -5,8 +5,8 @@ title: "PIS/COFINS de Instituições Financeiras: Receitas Operacionais Típicas
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-instituicoes-financeiras-tema-372.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-instituicoes-financeiras-tema-372/SKILL.md"
 triggers:
   - "Tema 372 STF"
   - "RE 609.096"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1.309 STF reservas técnicas"
   - "RE 400.479 caso Axa"
   - "Tema 1.280 STF EFPC aplicações financeiras"
-description: "Tema 372 STF (RE 609.096, Plenário virtual finalizado em 12/06/2023): as\nreceitas brutas operacionais da atividade típica das instituições\nfinanceiras (spread, intermediação) integram a base do PIS/COFINS na Lei\n9.718/98 mesmo na redação original, ressalvadas exclusões e deduções\nlegais. ED com pedido de modulação pendentes; suspensão nacional desde\n30/08/2024. Reservas técnicas de seguradoras: Tema 1.309, pendente."
+description: "Usar para pesquisar ou analisar: PIS/COFINS de Instituições Financeiras: Receitas Operacionais Típicas (Tema 372 STF + RE 609.096). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS de Instituições Financeiras: Receitas Operacionais Típicas (Tema 372 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 372 STF)
 

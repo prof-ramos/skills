@@ -5,8 +5,8 @@ title: "Revisão da Vida Toda (RVT), Cancelamento (Tema 1.102 STF + ADIs 2.110/2
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/revisao-vida-toda-tema-1102.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/revisao-vida-toda-tema-1102/SKILL.md"
 triggers:
   - "Tema 1.102"
   - "RE 1.276.977"
@@ -18,10 +18,15 @@ triggers:
   - "regra de transição Lei 9.876"
   - "regra definitiva art. 29"
   - "contribuições anteriores a julho de 1994"
-description: "Tema 1.102 STF (RE 1.276.977): TESE CANCELADA em ED julgados em\n26/11/2025. ADIs 2.110 e 2.111 (Min. Zanin, 21/03/2024)\ndeclararam constitucional o art. 3 da Lei 9.876/99: a regra de\ntransição é OBRIGATÓRIA, sem opção pela regra definitiva.\nModulação protege quem recebia até 05/04/2024 (sem devolução,\nsem honorários sucumbenciais)."
+description: "Usar para pesquisar ou analisar: Revisão da Vida Toda (RVT), Cancelamento (Tema 1.102 STF + ADIs 2.110/2.111). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão da Vida Toda, Cancelamento (Tema 1.102 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

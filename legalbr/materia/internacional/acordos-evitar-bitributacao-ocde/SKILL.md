@@ -5,8 +5,8 @@ title: "Acordos para Evitar a Bitributação (Modelo OCDE + ONU + Brasil)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/acordos-evitar-bitributacao-ocde.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/acordos-evitar-bitributacao-ocde/SKILL.md"
 triggers:
   - "DTAA bitributação"
   - "acordo para evitar bitributação"
@@ -20,10 +20,15 @@ triggers:
   - "MLI instrumento multilateral"
   - "IN RFB 1.037"
   - "tax sparing"
-description: "Acordos para evitar dupla tributação (DTAAs): Brasil tem ~37\nacordos em vigor (com Áustria, Argentina, Bélgica, Canadá, Chile,\nChina, Cingapura, Colômbia, Coreia do Sul, Dinamarca, Emirados,\nEquador, Espanha, Filipinas, Finlândia, França, Holanda, Hungria,\nÍndia, Israel, Itália, Japão, Luxemburgo, México, Noruega, Peru,\nPortugal, Rússia, Suécia, Suíça, Trinidad e\nTobago, Turquia, Ucrânia, Uruguai, Venezuela). Reino Unido:\n**assinado em 29/11/2022, ainda NÃO em vigor** (não submetido\nao Congresso Nacional). EUA: **SEM tratado**. Modelo híbrido OCDE + ONU; Brasil **em processo de\nadesão à OCDE**. Métodos: isenção + crédito (Lei 9.430/96).\nRegras: residência fiscal (art. 4), PE (art. 5), preços de\ntransferência (Lei 14.596/2023 alinhada OCDE). MAP procedimento\namigável + arbitragem facultativa. MLI (BEPS): Brasil\nnão ratificou. Paraísos fiscais: IN RFB 1.037/2010."
+description: "Usar para pesquisar ou analisar: Acordos para Evitar a Bitributação (Modelo OCDE + ONU + Brasil). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordos para Evitar a Bitributação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

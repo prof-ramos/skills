@@ -5,8 +5,8 @@ title: "Curatela + Tomada de Decisão Apoiada (CC 1.767 + Lei 13.146/2015, EPD)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/curatela-tda-epd-cc-1767.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/curatela-tda-epd-cc-1767/SKILL.md"
 triggers:
   - "curatela de incapaz"
   - "ação de interdição"
@@ -20,10 +20,15 @@ triggers:
   - "CPC 747"
   - "CPC 751"
   - "levantamento de curatela"
-description: "Curatela + TDA sob CC 1.767 + Lei 13.146/2015 (EPD): PCD NÃO é\nmais automaticamente incapaz; curatela é EXCEPCIONAL e restrita\na atos patrimoniais e negociais (CC 1.772), sem alcançar casamento\n+ sexualidade + voto + filhos + saúde; TDA (CC 1.783-A) como\nalternativa preferencial; CPC 751 entrevista pessoal OBRIGATÓRIA;\nSTJ REsp 2.141.414 (perícia psicossocial imprescindível)."
+description: "Usar para pesquisar ou analisar: Curatela + Tomada de Decisão Apoiada (CC 1.767 + Lei 13.146/2015, EPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Curatela + Tomada de Decisão Apoiada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

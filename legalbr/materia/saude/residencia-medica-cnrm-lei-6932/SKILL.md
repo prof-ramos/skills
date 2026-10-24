@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/residencia-medica-cnrm-lei-6932.md"
+sourcePath: "legalbr/materia/saude/residencia-medica-cnrm-lei-6932/SKILL.md"
 triggers:
   - "residência médica"
   - "Lei 6.932"
@@ -20,10 +20,15 @@ triggers:
   - "especialização médica"
   - "Resolução CFM 2.468/2026"
   - "médico estrangeiro cooperação internacional"
-description: "Residência médica da Lei 6.932/1981: CNRM, carga, bolsa e direitos. Distingue o estágio adicional de médico estrangeiro em cooperação internacional da Resolução CFM 2.468/2026."
+description: "Usar para pesquisar ou analisar: Residência Médica (Lei 6.932/1981 + CNRM/MEC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Residência Médica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

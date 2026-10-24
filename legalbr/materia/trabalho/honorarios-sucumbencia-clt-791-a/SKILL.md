@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais (CLT 791-A + ADI 5.766 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/honorarios-sucumbencia-clt-791-a.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/honorarios-sucumbencia-clt-791-a/SKILL.md"
 triggers:
   - "honorários sucumbenciais trabalhistas"
   - "CLT 791-A"
@@ -14,10 +14,15 @@ triggers:
   - "sucumbência recíproca"
   - "beneficiário da justiça gratuita"
   - "honorários assistenciais"
-description: "Honorários sucumbenciais trabalhistas (CLT 791-A, Reforma + ADI\n5.766 STF): 5-15% sobre o valor da condenação ou da liquidação;\ncabíveis em todas as fases; sucumbência recíproca admitida (§3);\nADI 5.766 STF afastou exigência sobre beneficiário da gratuidade\nquando inexistente crédito a auferir."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais (CLT 791-A + ADI 5.766 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais Trabalhistas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

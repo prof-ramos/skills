@@ -5,8 +5,8 @@ title: "Visitação Avoenga (CC 1.589 par. único + Lei 12.398/2011)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/visitacao-avoenga-cc-1589.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/visitacao-avoenga-cc-1589/SKILL.md"
 triggers:
   - "visitação avoenga"
   - "CC 1.589"
@@ -19,10 +19,15 @@ triggers:
   - "regulamentação de visitas avós"
   - "art. 19 ECA"
   - "estudo psicossocial"
-description: "Visitação avoenga CC 1.589 par. único (Lei 12.398/2011): direito\nde visita ESTENDE-SE a avós a CRITÉRIO DO JUIZ + interesses da\ncriança; fundamento CF 227 + art. 19 ECA (convivência familiar);\nSTJ REsp 1.573.635 (Nancy Andrighi, restrições EXCEPCIONAIS);\nestudo psicossocial; visita SUPERVISIONADA quando risco; avós como\npossíveis AUTORES de alienação parental (Lei 12.318/2010 art. 2);\nobstrução do convívio pelos genitores resolve-se pelo regime de\nvisitas + tutela inibitória/executiva."
+description: "Usar para pesquisar ou analisar: Visitação Avoenga (CC 1.589 par. único + Lei 12.398/2011). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Visitação Avoenga
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.589: direito de visita
 

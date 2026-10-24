@@ -5,8 +5,8 @@ title: "Execução de Obrigação de Fazer / Não Fazer"
 category: "forma"
 materia: null
 documentType: "execucao-fazer-nao-fazer"
-version: 1
-sourcePath: "lib/skills/official/forma/execucao-fazer-nao-fazer.md"
+version: 2
+sourcePath: "legalbr/forma/execucao-fazer-nao-fazer/SKILL.md"
 triggers:
   - "execução de obrigação de fazer"
   - "execução de obrigação de não fazer"
@@ -16,10 +16,15 @@ triggers:
   - "prestação de fato fungível por terceiro art. 817"
   - "desfazimento de obra art. 823"
   - "conversão em perdas e danos"
-description: "Execução de obrigação de fazer e não fazer: título extrajudicial pelos\narts. 814-823 (citação, multa fixada em despacho, execução por\nterceiro para fungível, conversão para infungível, desfazimento no\nnão fazer); título judicial pelos arts. 536-537 com medidas\nexemplificativas do §1º; primazia da tutela específica dos arts. 497\ne 499; astreintes revisíveis."
+description: "Usar para redigir ou revisar: Execução de Obrigação de Fazer / Não Fazer. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução de Obrigação de Fazer / Não Fazer
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quadro normativo
 

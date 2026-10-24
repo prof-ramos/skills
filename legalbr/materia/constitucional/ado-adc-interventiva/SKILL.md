@@ -5,8 +5,8 @@ title: "ADO + ADC + ADI Interventiva (CF 103 §2 + 36 III + Lei 12.063/2009)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/ado-adc-interventiva.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/ado-adc-interventiva/SKILL.md"
 triggers:
   - "ADO"
   - "ação direta de inconstitucionalidade por omissão"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 12.562/2011"
   - "princípios sensíveis"
   - "omissão legislativa"
-description: "ADO (CF 103 §2 + Lei 12.063/2009): omissão de medida para norma\nde eficácia LIMITADA; órgão administrativo 30d (12-H §1);\nLegislativo só ciência (separação Poderes); ADO 26 (homotransfobia\n= racismo); ADO 25 (compensação Lei Kandir aos Estados); ADI INTERVENTIVA CF 36 III\n(Lei 12.562/2011): princípios sensíveis CF 34 VII; PGR legitimado exclusivo;\nADC EC 45/2004 (controvérsia judicial relevante)."
+description: "Usar para pesquisar ou analisar: ADO + ADC + ADI Interventiva (CF 103 §2 + 36 III + Lei 12.063/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADO + ADC + ADI Interventiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## ADO: Ação Direta de Inconstitucionalidade por OMISSÃO
 

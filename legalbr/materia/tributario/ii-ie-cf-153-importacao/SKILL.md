@@ -5,8 +5,8 @@ title: "Imposto de Importação + Exportação (CF 153 I-II + DL 37/66 + DL 1.57
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/ii-ie-cf-153-importacao.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ii-ie-cf-153-importacao/SKILL.md"
 triggers:
   - "imposto de importação"
   - "imposto de exportação"
@@ -19,10 +19,15 @@ triggers:
   - "drawback"
   - "ADPF 400 reimportação"
   - "Súm. 661 STF"
-description: "II + IE CF 153 I-II competência UNIÃO; função EXTRAFISCAL;\nalíquotas alteráveis por ATO do Executivo (CF 153 §1; CAMEX no\nIE, Tema 53 RE 570.680); SEM anterioridade anual + noventena\n(CF 150 §1); II (DL 37/66: FG entrada/valor aduaneiro/TEC\nMercosul + DRAWBACK Lei 11.945); IE (DL 1.578/77: poucos\nprodutos); Súm. 661 STF; ADPF 400 reimportação produto nacional;\nTema 1 (RE 559.937 ICMS na base PIS/COFINS-Importação)."
+description: "Usar para pesquisar ou analisar: Imposto de Importação + Exportação (CF 153 I-II + DL 37/66 + DL 1.578/77). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imposto de Importação + Exportação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153
 

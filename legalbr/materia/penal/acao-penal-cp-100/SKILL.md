@@ -5,8 +5,8 @@ title: "Ação Penal (CP 100-106 + CPP + Súm. 714 STF + Lei 14.532/2023)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/acao-penal-cp-100.md"
+version: 2
+sourcePath: "legalbr/materia/penal/acao-penal-cp-100/SKILL.md"
 triggers:
   - "espécies de ação penal"
   - "CP 100"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 714 STF"
   - "decadência da representação"
   - "perempção"
-description: "AP CP 100-106: PÚBLICA (regra, MP CF 129 I) × CONDICIONADA\n(representação/requisição MJ, 6 meses CP 103; 12 meses em VD\ncontra mulher, Lei 15.438/2026) × PRIVADA (queixa, 6 meses) ×\nPRIVADA SUBSIDIÁRIA (CF 5 LIX + CPP 29, inércia MP); RENÚNCIA\n(antes queixa) × PERDÃO (após, bilateral) × PEREMPÇÃO (inércia\n30d); Súm. 714 STF concorrente; Lei 14.532 injúria racial →\npública incondicionada; estelionato incondicionado (Lei 15.397/26)."
+description: "Usar para pesquisar ou analisar: Ação Penal (CP 100-106 + CPP + Súm. 714 STF + Lei 14.532/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 100: espécies
 

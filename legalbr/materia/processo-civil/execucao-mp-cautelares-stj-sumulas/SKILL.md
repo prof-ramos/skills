@@ -5,8 +5,8 @@ title: "Execução, MP, Cautelares e Intervenção (Súmulas STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/execucao-mp-cautelares-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/execucao-mp-cautelares-stj-sumulas/SKILL.md"
 triggers:
   - "intervenção do Ministério Público"
   - "execução por carta precatória"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 525 STJ"
   - "Súm. 594 STJ"
   - "Súm. 644 STJ"
-description: "Súmulas STJ sobre execução, MP, cautelares e intervenção: citação postal\nexige AR (429); penhora de numerário de instituição financeira, excluídas\nreservas no BC (328); incompetência relativa não declarável de ofício (33);\nembargos na execução por carta (46); MP em alimentos do menor (594), ACP de\npatrimônio público (329) e como fiscal da lei (99); Câmara de Vereadores só\npersonalidade judiciária (525); núcleo de prática jurídica e mandato (644);\nabandono depende de requerimento do réu (240); exibição de documentos sem\nmulta cominatória só no CPC/73 (372, superada pelo Tema 1.000 STJ sob o\nCPC/2015); termo inicial da rescisória (401)."
+description: "Usar para pesquisar ou analisar: Execução, MP, Cautelares e Intervenção (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução, MP, Cautelares e Intervenção (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

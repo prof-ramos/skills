@@ -5,8 +5,8 @@ title: "Contrato de Depósito"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-deposito.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-deposito/SKILL.md"
 triggers:
   - "contrato de depósito"
   - "depósito voluntário"
@@ -20,10 +20,15 @@ triggers:
   - "SV 25"
   - "depósito fechado"
   - "depósito miserável"
-description: "Depósito (CC 627-652): voluntário e necessário, regular e\nirregular, mercantil; armazéns gerais (Dec. 1.102/1903);\nvedada prisão civil do infiel (SV 25); retenção (CC 644)."
+description: "Usar para pesquisar ou analisar: Contrato de Depósito. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Depósito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

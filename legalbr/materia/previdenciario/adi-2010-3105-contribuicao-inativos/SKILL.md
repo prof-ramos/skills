@@ -5,8 +5,8 @@ title: "ADIs 2010 + 3105, Contribuição Previdenciária de Inativos"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/adi-2010-3105-contribuicao-inativos.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/adi-2010-3105-contribuicao-inativos/SKILL.md"
 triggers:
   - "ADI 2010"
   - "ADI 3105"
@@ -16,10 +16,15 @@ triggers:
   - "EC 41/2003"
   - "regime próprio servidor"
   - "imunidade tributária aposentado"
-description: "ADI 2010 (Celso de Mello, 30/09/1999) e ADI 3105 (Cezar Peluso,\n18/08/2004): a primeira VEDOU a contribuição de inativos\ninstituída pela Lei 9.783/99 (sem base constitucional); a\nsegunda VALIDOU a contribuição após a EC 41/2003 (CF 40 §18).\nMarco do regime próprio dos servidores; depois reformado por\nEC 103/2019."
+description: "Usar para pesquisar ou analisar: ADIs 2010 + 3105, Contribuição Previdenciária de Inativos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADIs 2010 + 3105: Contribuição de Inativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

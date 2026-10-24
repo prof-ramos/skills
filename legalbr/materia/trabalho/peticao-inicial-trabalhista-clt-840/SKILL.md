@@ -5,8 +5,8 @@ title: "Petição Inicial Trabalhista (CLT 840)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/peticao-inicial-trabalhista-clt-840.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/peticao-inicial-trabalhista-clt-840/SKILL.md"
 triggers:
   - "petição inicial trabalhista"
   - "reclamação trabalhista"
@@ -14,10 +14,15 @@ triggers:
   - "jus postulandi"
   - "pedidos certos e determinados"
   - "Súm. 263 TST"
-description: "Petição inicial trabalhista (CLT 840 + IN 41/2018 TST): requisitos\nda Reforma: pedido \"certo, determinado e com indicação de valor\"\n(§1); reclamação verbal (§2); jus postulandi (CLT 791); aplicação\nsubsidiária do CPC (CLT 769); emenda à inicial (Súm. 263 TST);\nvalor da causa (IN 41/2018)."
+description: "Usar para pesquisar ou analisar: Petição Inicial Trabalhista (CLT 840). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Juros Bancários e Abusividade (taxas livres e superendividamento)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/juros-bancarios-abusividade.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/juros-bancarios-abusividade/SKILL.md"
 triggers:
   - "juros bancários abusivos"
   - "taxa de juros remuneratórios"
@@ -20,10 +20,15 @@ triggers:
   - "superendividamento"
   - "mínimo existencial"
   - "repactuação de dívidas"
-description: "Juros remuneratórios bancários: Súm. 596 STF (Lei de Usura não se aplica às\nIFs, taxa de mercado livre); revisão exige discrepância SUBSTANCIAL com a\nmédia BACEN (Tema 27); Súm. 530 (taxa média se ausente comprovação da\npactuada); foco em superendividamento da Lei 14.181/2021 (CDC 54-A a 54-G,\nmínimo existencial, repactuação global, cartão revolving e margem consignável\nglobal de 40% para benefícios do RGPS desde a MP 1.355/2026).\nCapitalização tem skill própria (Tema 247)."
+description: "Usar para pesquisar ou analisar: Juros Bancários e Abusividade (taxas livres e superendividamento). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juros Bancários + Abusividade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súm. 596 STF + Lei 4.595/64
 

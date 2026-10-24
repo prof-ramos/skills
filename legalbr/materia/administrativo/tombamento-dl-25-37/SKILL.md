@@ -5,8 +5,8 @@ title: "Tombamento (DL 25/1937 + CF 216)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/tombamento-dl-25-37.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/tombamento-dl-25-37/SKILL.md"
 triggers:
   - "tombamento"
   - "DL 25/1937"
@@ -16,10 +16,15 @@ triggers:
   - "Livro do Tombo"
   - "patrimônio histórico e artístico"
   - "direito de preferência bem tombado"
-description: "Tombamento (DL 25/1937 + CF 216 §1): instrumento de proteção do\npatrimônio cultural; espécies (voluntário + compulsório + ofício);\nprovisório (limitação) x definitivo (servidão); inscrição em\nLivro do Tombo (Histórico + BBA + Etnográfico/Arqueológico +\nArtístico); efeitos (vedação alteração + autorização IPHAN);\ndireito de preferência do art. 22 do DL 25/37 REVOGADO pelo\nCPC/2015 (art. 1.072, I); sem indenização (regra; STF\nreconhece indenização apenas em dano específico comprovado)."
+description: "Usar para pesquisar ou analisar: Tombamento (DL 25/1937 + CF 216). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tombamento (DL 25/1937)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

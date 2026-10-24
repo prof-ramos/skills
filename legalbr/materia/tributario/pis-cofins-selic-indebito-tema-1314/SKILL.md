@@ -5,8 +5,8 @@ title: "PIS/COFINS sobre SELIC em Repetição do Indébito Tributário (Tema 1.3
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-selic-indebito-tema-1314.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-selic-indebito-tema-1314/SKILL.md"
 triggers:
   - "Tema 1.314 STF"
   - "PIS COFINS SELIC indébito"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 1.237 STJ"
   - "juros indébito tributário"
   - "PIS COFINS juros mora"
-description: "Tema 1.314 STF (RE 1.438.704, 17/08/2024): controvérsia\nINFRACONSTITUCIONAL (sem RG), devolvida ao STJ. No Tema 1.237\n(REsp 2.065.817 + 2.075.276, 11/07/2024) o STJ fixou que\nPIS/COFINS INCIDEM sobre a SELIC/juros recebidos na repetição\ndo indébito, na devolução de depósito judicial e em obrigações\ncontratuais em atraso, tanto no regime cumulativo (Receita Bruta\nOperacional) quanto no não-cumulativo (receita bruta ampla). NÃO\nconfundir com o Tema 962 STF, que afasta apenas IRPJ/CSLL."
+description: "Usar para pesquisar ou analisar: PIS/COFINS sobre SELIC em Repetição do Indébito Tributário (Tema 1.314 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS sobre SELIC em Repetição do Indébito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

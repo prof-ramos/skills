@@ -5,8 +5,8 @@ title: "Reposição ao Erário por Erro Operacional (Tema 1.009 STJ + Súm. 249 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/reposicao-erario-servidor-tema-1009-stj.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/reposicao-erario-servidor-tema-1009-stj/SKILL.md"
 triggers:
   - "Tema 1.009 STJ"
   - "reposição ao erário servidor"
@@ -21,10 +21,15 @@ triggers:
   - "art. 46 Lei 8.112"
   - "parcelamento reposição ao erário"
   - "pagamento indevido servidor público"
-description: "Tema 1.009 STJ: pagamentos indevidos a servidor por ERRO OPERACIONAL\nou DE CÁLCULO sujeitam-se a devolução, SALVO comprovada boa-fé\nobjetiva (impossibilidade de o servidor detectar o pagamento\nindevido). Tema 531: erro de INTERPRETAÇÃO da lei pela Administração\npresume boa-fé e afasta devolução. Reposição previamente comunicada,\npagamento em 30 dias; parcelamento a pedido com parcela mínima de\n10% (art. 46 Lei 8.112, red. MP 2.225-45/2001)."
+description: "Usar para pesquisar ou analisar: Reposição ao Erário por Erro Operacional (Tema 1.009 STJ + Súm. 249 TCU). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reposição ao Erário (Tema 1.009 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.009 STJ)
 

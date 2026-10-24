@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "progressao-regime"
 version: 2
-sourcePath: "lib/skills/official/forma/progressao-regime.md"
+sourcePath: "legalbr/forma/progressao-regime/SKILL.md"
 triggers:
   - "progressão de regime"
   - "art. 112 LEP"
@@ -17,10 +17,15 @@ triggers:
   - "frações de progressão 2026"
   - "progressão para o regime semiaberto"
   - "progressão para o regime aberto"
-description: "Progressão (LEP 112, redação vigente das Leis 15.358/2026 e 15.402/2026):\nregra geral de 1/6 + mérito; exceções de 25/30/20% (violência ou grave\nameaça/reincidência); hediondos 70/75/80/85%. Lapsos da Lei 13.964/19\n(16 a 70%) regem fatos anteriores (irretroatividade). Exame criminológico\n(Lei 14.843/24); SV 56 (vaga no semiaberto); Súm. 534/STJ; remição\n(LEP 126-129)."
+description: "Usar para redigir ou revisar: Progressão de Regime. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Progressão de Regime
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

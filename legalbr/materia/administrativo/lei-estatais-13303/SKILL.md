@@ -5,8 +5,8 @@ title: "Lei das Estatais (Lei 13.303/2016 + CF 173 + ADI 5.624)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/lei-estatais-13303.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-estatais-13303/SKILL.md"
 triggers:
   - "Lei das Estatais"
   - "Lei 13.303/2016"
@@ -20,10 +20,15 @@ triggers:
   - "art. 17 §2 vedações"
   - "art. 28 licitações"
   - "Eletrobras Lei 14.182/2021"
-description: "Lei 13.303/2016 (Estatais) regulamenta CF 173: aplica EP + SEM\n+ subsidiárias (União/Estados/DF/Municípios); estrutura\n(Conselho 7+ + 25% independentes + Diretoria + Comitê Auditoria\n+ integridade); art. 17 §2 vedações políticas; arts. 28-49\nlicitações próprias + 68-84 contratos; convivência Lei 14.133;\nSTF ADI 5.624 (privatização matriz + lei mas SUBSIDIÁRIAS livres)."
+description: "Usar para pesquisar ou analisar: Lei das Estatais (Lei 13.303/2016 + CF 173 + ADI 5.624). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei das Estatais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.303/2016
 

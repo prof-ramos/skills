@@ -5,8 +5,8 @@ title: "Direitos Fundamentais: Teoria + Aplicação (CF 5 + 6 + tratados de DH)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/direitos-fundamentais-teoria.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/direitos-fundamentais-teoria/SKILL.md"
 triggers:
   - "direitos fundamentais"
   - "CF 5 §1 aplicabilidade imediata"
@@ -18,10 +18,15 @@ triggers:
   - "princípio da proporcionalidade"
   - "estado de coisas inconstitucional"
   - "vedação ao retrocesso"
-description: "Direitos fundamentais sob CF 1-17 e 227-230: características\n(universalidade, irrenunciabilidade, aplicação imediata do art. 5 §1, vedação\nao retrocesso) e dimensões; eficácia vertical, horizontal e diagonal; restrições\npor proporcionalidade (adequação + necessidade + estrita) e proteção ao núcleo\nessencial; hierarquia dos tratados de DH (CF 5 §§ 2-3); reserva do possível e\nmínimo existencial."
+description: "Usar para pesquisar ou analisar: Direitos Fundamentais: Teoria + Aplicação (CF 5 + 6 + tratados de DH). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Fundamentais: Teoria + Aplicação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

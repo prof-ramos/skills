@@ -6,17 +6,22 @@ category: "forma"
 materia: null
 documentType: "termo-aditivo"
 version: 2
-sourcePath: "lib/skills/official/forma/termo-aditivo.md"
+sourcePath: "legalbr/forma/termo-aditivo/SKILL.md"
 triggers:
   - "termo aditivo"
   - "aditamento contratual"
   - "aditivo contratual"
   - "alteração contratual"
   - "emenda contratual"
-description: "Termo aditivo a contrato: instrumento de alteração que preserva ou\naltera o vínculo originário. CC 472-477 (resolução), CC 360-367\n(novação), CC 422 (boa-fé). Em contratos administrativos: Lei\n14.133/21 art. 124-136. Aditivo × novação × distrato × adendo."
+description: "Usar para redigir ou revisar: Termo Aditivo a Contrato. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo Aditivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

@@ -5,8 +5,8 @@ title: "Plano de Saúde do Empregado e Ex-empregado"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/plano-saude-empregado.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/plano-saude-empregado/SKILL.md"
 triggers:
   - "plano de saúde do empregado"
   - "art. 30 Lei 9.656"
@@ -15,10 +15,15 @@ triggers:
   - "aposentado plano de saúde"
   - "Tema 989 STJ"
   - "portabilidade especial"
-description: "Manutenção do plano de saúde coletivo após demissão e aposentadoria\nsob a Lei 9.656/1998: art. 30 (demitido sem justa causa) e art. 31\n(aposentado), com requisito de contribuição e pagamento integral;\nprazos, inclusão de dependentes e portabilidade especial; Temas 989 e\n1.034 STJ; intersecção com a CLT 458 (não integra salário) e o CDC."
+description: "Usar para pesquisar ou analisar: Plano de Saúde do Empregado e Ex-empregado. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde do Empregado e Ex-empregado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

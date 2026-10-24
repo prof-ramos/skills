@@ -5,8 +5,8 @@ title: "Litisconsórcio (CPC 113-118)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/litisconsorcio-cpc-113.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/litisconsorcio-cpc-113/SKILL.md"
 triggers:
   - "litisconsórcio"
   - "CPC 113"
@@ -17,10 +17,15 @@ triggers:
   - "multitudinário"
   - "Súm. 631 STF"
   - "Súm. 332 STJ"
-description: "Litisconsórcio sob CPC 113-118: facultativo (comunhão + conexão\n+ afinidade); multitudinário pode ser limitado (§1) com prazo\ninterrompido (§2); necessário (CPC 114, imposição legal ou\nnatureza); CPC 115 (unitário = nulidade total; simples = ineficácia\nparcial); CPC 116 (unitário, eficácia uniforme); STJ: improbidade\nsem litisconsórcio necessário com terceiros."
+description: "Usar para pesquisar ou analisar: Litisconsórcio (CPC 113-118). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Litisconsórcio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas (CPC 113-118)
 

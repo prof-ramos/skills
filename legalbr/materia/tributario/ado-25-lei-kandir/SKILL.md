@@ -5,8 +5,8 @@ title: "ADO 25: Lei Kandir e Compensação aos Estados Exportadores"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/ado-25-lei-kandir.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ado-25-lei-kandir/SKILL.md"
 triggers:
   - "ADO 25"
   - "Lei Kandir"
@@ -16,10 +16,15 @@ triggers:
   - "omissão LC repartição"
   - "Fundo Manutenção Desenvolvimento"
   - "mora legislativa tributária"
-description: "ADO 25 (Gilmar Mendes, 30/11/2016): reconheceu MORA\nINCONSTITUCIONAL do Congresso por ausência de LC regulamentando\na compensação aos Estados pela imunidade do ICMS-exportação\n(ADCT 91 + CF 155 §2 X \"a\"). Fixou prazo de 12 meses;\nresultou na LC 176/2020 (cronograma até 2037 + Fundo)."
+description: "Usar para pesquisar ou analisar: ADO 25: Lei Kandir e Compensação aos Estados Exportadores. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADO 25: Lei Kandir
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

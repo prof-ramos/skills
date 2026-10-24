@@ -5,8 +5,8 @@ title: "Prazos, Preclusão, Intimações Eletrônicas e Nulidades (CPC 218-283)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/prazos-intimacoes-nulidades-cpc-218-283.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prazos-intimacoes-nulidades-cpc-218-283/SKILL.md"
 triggers:
   - "contagem de prazos processuais"
   - "dias úteis CPC 219"
@@ -21,10 +21,15 @@ triggers:
   - "pas de nullité sans grief"
   - "prazo em dobro litisconsortes"
   - "recesso forense 20 de dezembro"
-description: "Regime dos atos processuais no tempo e das nulidades (CPC 218-283): prazos em\ndias úteis, contagem (CPC 224/231), recesso 20/dez-20/jan, justa causa, prazo\nem dobro; intimações eletrônicas (Lei 11.419 arts. 4-5, Res. CNJ 455/2022:\nDJEN exclusivo para contagem + Domicílio Judicial Eletrônico); nulidade de\nintimação (CPC 272 §§2-9) e sistema de nulidades (CPC 276-283)."
+description: "Usar para pesquisar ou analisar: Prazos, Preclusão, Intimações Eletrônicas e Nulidades (CPC 218-283). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prazos, Intimações e Nulidades
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Prazos: regras gerais (CPC 218-230)
 

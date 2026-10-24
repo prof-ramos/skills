@@ -5,8 +5,8 @@ title: "Isonomia de Vencimentos (Tema 339 STF + SV 37)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/coisa-julgada-fiscalizacao-tema-339-sv4.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/coisa-julgada-fiscalizacao-tema-339-sv4/SKILL.md"
 triggers:
   - "Tema 339 STF"
   - "SV 37"
@@ -15,10 +15,15 @@ triggers:
   - "AI 791.292"
   - "CF 37 X"
   - "revisão geral anual"
-description: "Tema 339 STF (AI 791.292, 23/06/2010) + SV 37: NÃO cabe ao\nJudiciário, sob fundamento de isonomia, conceder aumento\nde vencimentos a servidores. Aumento exige LEI (CF 37 X).\nSV 37 sumulou: \"Não cabe ao Poder Judiciário, que não tem\nfunção legislativa, aumentar vencimentos de servidores\npúblicos sob fundamento de isonomia.\""
+description: "Usar para pesquisar ou analisar: Isonomia de Vencimentos (Tema 339 STF + SV 37). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Isonomia de Vencimentos (SV 37)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

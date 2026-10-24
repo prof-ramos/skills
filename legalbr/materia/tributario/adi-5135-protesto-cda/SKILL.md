@@ -5,8 +5,8 @@ title: "ADI 5135 — Protesto de Certidão de Dívida Ativa (CDA)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/adi-5135-protesto-cda.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/adi-5135-protesto-cda/SKILL.md"
 triggers:
   - "ADI 5135"
   - "protesto CDA"
@@ -15,10 +15,15 @@ triggers:
   - "cobrança extrajudicial fiscal"
   - "meio menos gravoso"
   - "protesto título Fazenda"
-description: "ADI 5135 (Roberto Barroso, 09/11/2016): por maioria declarou\nCONSTITUCIONAL o protesto extrajudicial da CDA (Lei 9.492/97\nart. 1 § ún, com redação da Lei 12.767/2012). Tese: protesto\né meio MENOS GRAVOSO que execução fiscal, atende razoabilidade\ne proporcionalidade; não viola devido processo."
+description: "Usar para pesquisar ou analisar: ADI 5135 — Protesto de Certidão de Dívida Ativa (CDA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5135 — Protesto de CDA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

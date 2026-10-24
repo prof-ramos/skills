@@ -5,8 +5,8 @@ title: "Devido Processo Administrativo (CF 5 LIV-LV + Lei 9.784/99)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/devido-processo-administrativo.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/devido-processo-administrativo/SKILL.md"
 triggers:
   - "devido processo administrativo"
   - "CF 5 LIV"
@@ -20,10 +20,15 @@ triggers:
   - "SV 14 acesso aos autos"
   - "SV 5 defesa técnica"
   - "LINDB processo"
-description: "Devido processo administrativo (CF 5 LIV-LV + Lei 9.784/99):\nprincípios (legalidade + motivação + impessoalidade +\ncontraditório + ampla defesa + razoabilidade + segurança jurídica);\nfases (instauração + instrução + decisão + recursos); prazos\n(5 dias + 30 dias + 30 + 30); impedimento e suspeição (arts.\n18-21); decadência 5 anos (art. 54); LINDB 20-30."
+description: "Usar para pesquisar ou analisar: Devido Processo Administrativo (CF 5 LIV-LV + Lei 9.784/99). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Devido Processo Administrativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

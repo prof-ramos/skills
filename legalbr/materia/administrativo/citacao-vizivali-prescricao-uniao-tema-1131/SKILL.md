@@ -5,8 +5,8 @@ title: "Citação do Paraná/Vizivali e Interrupção da Prescrição da União 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/citacao-vizivali-prescricao-uniao-tema-1131.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/citacao-vizivali-prescricao-uniao-tema-1131/SKILL.md"
 triggers:
   - "Tema 1.131 STJ"
   - "Tema 928 STJ professores Vizivali"
@@ -15,10 +15,15 @@ triggers:
   - "prescrição retroativa citação válida"
   - "mora judiciária citação"
   - "Súmula 106 STJ"
-description: "Tema 1.131 STJ (1ª Seção, 2025): nas ações do Tema 928 (professores\nParaná/Vizivali), a citação VÁLIDA do Estado do Paraná e da\nFaculdade Vizivali INTERROMPE a prescrição também em relação à\nUNIÃO, com efeitos RETROATIVOS à propositura, mesmo se a União\nfor citada após 5 anos, quando o atraso for atribuível à\njurisdição (reconhecimento posterior de litisconsórcio passivo\nnecessário)."
+description: "Usar para pesquisar ou analisar: Citação do Paraná/Vizivali e Interrupção da Prescrição da União (Tema 1.131 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Citação do Paraná/Vizivali e Interrupção da Prescrição da União (Tema 1.131 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.131 STJ, 1ª Seção)
 
@@ -83,3 +88,7 @@ A responsabilidade no Tema 928 envolve Estado do Paraná, Faculdade Vizivali e U
 - Considerar a União **terceiro estranho** ao litisconsórcio reconhecido nas ações do Tema 928;
 - Ter por prescritas **PARCELAS** indevidamente: distinguir prescrição do fundo de direito × parcelas (Súm. 85 STJ);
 - Não atualizar **juros e correção** pela regra do Tema 905 STJ + EC 113.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

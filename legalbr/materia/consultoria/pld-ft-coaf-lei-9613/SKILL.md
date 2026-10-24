@@ -6,7 +6,7 @@ category: "materia"
 materia: "consultoria"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/pld-ft-coaf-lei-9613.md"
+sourcePath: "legalbr/materia/consultoria/pld-ft-coaf-lei-9613/SKILL.md"
 triggers:
   - "PLD"
   - "PLD/FT"
@@ -18,10 +18,15 @@ triggers:
   - "financiamento ao terrorismo"
   - "CVM 245 investidor não residente"
   - "GAFI jurisdição investidor não residente"
-description: "Deveres de PLD/FT da Lei 9.613/1998: abordagem de risco, KYC, monitoramento e COAF; inclui diligência reforçada para investidor não residente ligado a jurisdição listada pelo GAFI (RCVM 245/2026)."
+description: "Usar para pesquisar ou analisar: PLD/FT: Prevenção à Lavagem e Financiamento ao Terrorismo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PLD/FT
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

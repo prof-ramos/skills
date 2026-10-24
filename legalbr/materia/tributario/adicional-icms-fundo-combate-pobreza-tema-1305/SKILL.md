@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/icms/adicional-icms-fundo-combate-pobreza-tema-1305.md"
+sourcePath: "legalbr/materia/tributario/adicional-icms-fundo-combate-pobreza-tema-1305/SKILL.md"
 triggers:
   - "FECP"
   - "FECOEP"
@@ -18,10 +18,15 @@ triggers:
   - "EC 31/2000"
   - "adicional de dois pontos percentuais de ICMS"
   - "produtos supérfluos ICMS"
-description: "Adicional de até 2 pontos percentuais de ICMS sobre produtos e\nserviços supérfluos destinado aos Fundos de Combate à Pobreza\n(EC 31/2000, ADCT arts. 82-83): Tema 1.305 STF (RE 592.152)\nreafirma que o art. 4º da EC 42/2003 validou os adicionais\nestaduais; receita vinculada sem partilha municipal; transição\nda EC 132/2023 e LC 214/2025."
+description: "Usar para pesquisar ou analisar: Adicional de ICMS para Fundos de Combate à Pobreza: FECP/FECOEP (Tema 1.305 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicional de ICMS para Fundos de Combate à Pobreza (FECP/FECOEP)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "despejo"
 version: 2
-sourcePath: "lib/skills/official/forma/despejo.md"
+sourcePath: "legalbr/forma/despejo/SKILL.md"
 triggers:
   - "ação de despejo"
   - "Lei do Inquilinato Lei 8.245/91"
@@ -15,10 +15,15 @@ triggers:
   - "liminar de desocupação Lei 12.112/2009"
   - "despejo para uso próprio ou retomada"
   - "purga da mora na ação de despejo"
-description: "Ação de despejo (Lei 8.245/91 com alterações da Lei 12.112/09):\nhipóteses do art. 9º (mútuo acordo, infração, falta de pagamento,\nreparações urgentes); denúncia vazia e cheia (arts. 46-47, 56-57);\nliminar do art. 59 §1º com caução de três aluguéis; purga da mora do\nart. 62; valor da causa em doze aluguéis (art. 58 III); apelação\nrecebida só no efeito devolutivo."
+description: "Usar para redigir ou revisar: Ação de Despejo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Despejo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

@@ -5,8 +5,8 @@ title: "IRPF, Imposto de Renda Pessoa Física (Lei 9.250/95 + Lei 15.270/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpf.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf/SKILL.md"
 triggers:
   - "IRPF"
   - "Imposto de Renda Pessoa Física"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 15.270/2025"
   - "isenção IR R$ 5.000"
   - "tabela progressiva"
-description: "IRPF sob CF 153 III + CTN 43-45 + Lei 9.250/95 + RIR/2018 + Lei\n15.270/2025: fato gerador como acréscimo patrimonial; tabela\nprogressiva mensal e redutor da Lei 15.270/25; deduções\n(dependentes, saúde, educação, PGBL); ganho de capital e isenções;\ndeclaração e obrigatoriedade."
+description: "Usar para pesquisar ou analisar: IRPF, Imposto de Renda Pessoa Física (Lei 9.250/95 + Lei 15.270/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF (Lei 9.250/95 + Lei 15.270/2025)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

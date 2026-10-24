@@ -5,8 +5,8 @@ title: "Ação de Obrigação de Fazer Consumerista"
 category: "forma"
 materia: null
 documentType: "acao-obrigacao-fazer-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-obrigacao-fazer-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/acao-obrigacao-fazer-consumerista/SKILL.md"
 triggers:
   - "obrigação de fazer consumerista"
   - "cumprir fornecimento"
@@ -19,10 +19,15 @@ triggers:
   - "CDC 20"
   - "CDC 35"
   - "CDC 84"
-description: "Petição inicial para obrigação de fazer consumerista (CDC 18-20-35-84 +\nCPC 497-499 + 536-537): primazia da tutela específica (CDC 84 §1 +\nCPC 497); pedido alternativo (substituir, reexecutar, abater preço,\nrescindir), CDC 35; tutela urgência (CPC 300 + CDC 84 §3); astreintes\nproporcionais; obrigação de não fazer (cessar prática abusiva, cessar\ncobrança); inversão do ônus (CDC 6 VIII); foro do consumidor (CDC 101 I)."
+description: "Usar para redigir ou revisar: Ação de Obrigação de Fazer Consumerista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Obrigação de Fazer Consumerista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

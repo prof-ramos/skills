@@ -5,8 +5,8 @@ title: "Direitos Reais"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direitos-reais.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direitos-reais/SKILL.md"
 triggers:
   - "direitos reais"
   - "rol CC 1.225"
@@ -17,10 +17,15 @@ triggers:
   - "desapropriação judicial privada"
   - "usucapião familiar CC 1.240-A"
   - "ius possidendi ius possessionis"
-description: "Direitos reais sob CC 1.196-1.510 + CF 5 XXIII: posse (teoria objetiva, art.\n1.196) e propriedade (1.228) com função social; modos de aquisição de imóvel\n(registro, usucapião arts. 1.238-1.244 e 1.240-A, acessão); alienação fiduciária\n(Lei 9.514/97 e DL 911/69) com vedação de purgação pós-consolidação desde a\nLei 13.465/2017 (Tema 1.288 STJ: apenas direito de preferência);\ninadmissibilidade de usucapião pelo fiduciante."
+description: "Usar para pesquisar ou analisar: Direitos Reais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Reais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceitos centrais
 

@@ -5,8 +5,8 @@ title: "Prevaricação + Condescendência + Advocacia Administrativa (CP 319-321
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/prevaricacao-cp-319-321.md"
+version: 2
+sourcePath: "legalbr/materia/penal/prevaricacao-cp-319-321/SKILL.md"
 triggers:
   - "prevaricação"
   - "CP 319"
@@ -18,10 +18,15 @@ triggers:
   - "prevaricação imprópria"
   - "Lei 11.466/2007"
   - "sentimento pessoal"
-description: "Prevaricação CP 319: retardar/deixar/praticar ato para satisfazer\nINTERESSE OU SENTIMENTO PESSOAL (det. 3m-1a + dolo ESPECÍFICO,\nAP 996 STF); CP 319-A imprópria (Lei 11.466, celular em\npenitenciária); CP 320 condescendência (subordinado, indulgência);\nCP 321 advocacia adm (patrocínio privado valendo-se da função,\nInq 4.506 STF exige vínculo + ato concreto)."
+description: "Usar para pesquisar ou analisar: Prevaricação + Condescendência + Advocacia Administrativa (CP 319-321). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prevaricação + Condescendência + Advocacia Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 319: PREVARICAÇÃO
 

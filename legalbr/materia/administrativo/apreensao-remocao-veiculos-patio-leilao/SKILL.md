@@ -5,8 +5,8 @@ title: "Apreensão, Remoção e Liberação de Veículos: Pátio, Diárias e Lei
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/apreensao-remocao-veiculos-patio-leilao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/apreensao-remocao-veiculos-patio-leilao/SKILL.md"
 triggers:
   - "remoção de veículo ao depósito"
   - "diárias de pátio Detran"
@@ -20,10 +20,15 @@ triggers:
   - "CTB 328"
   - "Lei 13.160 leilão veículo"
   - "veículo não reclamado depósito"
-description: "Retenção, remoção e liberação de veículos (CTB 270-271, redação das Leis\n13.160/2015, 13.281/2016 e 14.229/2021): condicionamento a multas vencidas e\nnotificadas (Tema 123 STJ), diárias de remoção e estada (Tema 124 STJ, teto\natual de 6 meses), vedação de condicionar liberação no transporte clandestino\n(Tema 546 STF + Súm. 510 STJ) e leilão do veículo não reclamado (CTB 328)."
+description: "Usar para pesquisar ou analisar: Apreensão, Remoção e Liberação de Veículos: Pátio, Diárias e Leilão (Temas 123 e 124 STJ + Tema 546 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apreensão, Remoção e Liberação de Veículos: Pátio, Diárias e Leilão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

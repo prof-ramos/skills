@@ -5,8 +5,8 @@ title: "Restituição de Coisas Apreendidas (CPP 118-124)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/restituicao-coisas-apreendidas-cpp-118.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/restituicao-coisas-apreendidas-cpp-118/SKILL.md"
 triggers:
   - "restituição de coisas apreendidas"
   - "coisas apreendidas"
@@ -18,10 +18,15 @@ triggers:
   - "perdimento bens"
   - "CP 91 II"
   - "leilão judicial criminal"
-description: "Restituição de bens apreendidos (CPP 118-124): antes do trânsito,\nbens NÃO se restituem enquanto INTERESSAREM ao processo (CPP\n118); produto/instrumento do crime não se restituem nem após o\ntrânsito, salvo lesado/terceiro de boa-fé (CPP 119 c/c CP 91).\nCPP 120: restituição pelo juiz/delegado mediante termo quando\nnão há dúvida; havendo dúvida, incidente em apartado (5 dias\npara prova); terceiro de boa-fé intimado; dúvida sobre o dono →\njuízo cível. CPP 123: leilão da coisa não reclamada após 90\ndias. CPP 124/124-A: instrumentos; perdimento na sentença (CP 91\nII), terceiro de boa-fé preservado."
+description: "Usar para pesquisar ou analisar: Restituição de Coisas Apreendidas (CPP 118-124). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Restituição de Coisas Apreendidas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura (CPP 118-124)
 

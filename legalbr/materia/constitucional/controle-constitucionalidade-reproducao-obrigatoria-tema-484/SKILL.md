@@ -5,8 +5,8 @@ title: "Controle de Constitucionalidade Estadual: Representação no TJ e Normas
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/controle-constitucionalidade-estadual-reproducao-obrigatoria-tema-484.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/controle-constitucionalidade-reproducao-obrigatoria-tema-484/SKILL.md"
 triggers:
   - "representação de inconstitucionalidade estadual"
   - "controle de constitucionalidade estadual"
@@ -19,10 +19,15 @@ triggers:
   - "Reclamação 383"
   - "recurso extraordinário em ADI estadual"
   - "simultaneidade de ADI estadual e federal"
-description: "Representação de inconstitucionalidade no TJ (CF 125 § 2º):\nTema 484 STF (RE 650.898) admite normas da CF de reprodução\nobrigatória como parâmetro no controle abstrato de lei\nmunicipal; reprodução obrigatória x imitação, cabimento de RE\ncontra o acórdão do TJ (Rcl 383) e suspensão prejudicial na\nsimultaneidade com ADI federal (ADI 1.423-MC)."
+description: "Usar para pesquisar ou analisar: Controle de Constitucionalidade Estadual: Representação no TJ e Normas de Reprodução Obrigatória (Tema 484 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Controle de Constitucionalidade Estadual e Normas de Reprodução Obrigatória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/lancamento-tributario-ctn-142.md"
+sourcePath: "legalbr/materia/tributario/lancamento-tributario-ctn-142/SKILL.md"
 triggers:
   - "lançamento tributário"
   - "CTN 142"
@@ -23,10 +23,15 @@ triggers:
   - "revisão de lançamento"
   - "erro de fato erro de direito"
   - "Tema 387 STJ"
-description: "Lançamento tributário sob CTN 142-150: atividade VINCULADA e\nobrigatória; 3 modalidades (ofício 149 + declaração 147 +\nhomologação 150 §4); CTN 173 decadência (1º dia exerc. seguinte);\nCTN 174 prescrição 5 anos; Súm. 555 STJ (sem pagto antecipado →\n173 I; com pagto → 150 §4); SV 24 STF (crime tributário material\nexige lançamento definitivo; não alcança crime formal); arbitramento\nCTN 148 (Tema 1.371 STJ, ITCMD); revisão de ofício: erro de fato\n(CTN 149 VIII) x erro de direito (CTN 146 + Súm. 227 TFR) + Tema\n387 STJ (retificação cadastral do imóvel)."
+description: "Usar para pesquisar ou analisar: Lançamento Tributário (CTN 142-150 + Súm. 555 STJ + SV 24). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lançamento Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 142: natureza vinculada
 

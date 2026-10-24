@@ -5,8 +5,8 @@ title: "Competência Federal em Possessória de Concessionária Ferroviária"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-federal-concessionaria-tema-1405.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-federal-concessionaria-tema-1405/SKILL.md"
 triggers:
   - "Tema 1.405 STF"
   - "competência Justiça Federal possessória"
@@ -17,10 +17,15 @@ triggers:
   - "união interessada"
   - "intervenção União"
   - "bem público ferroviário"
-description: "Tema 1.405 STF (ARE 1.550.234): o Plenário Virtual, por\nunanimidade, reconheceu a INEXISTÊNCIA de repercussão geral,\npor ser INFRACONSTITUCIONAL e fática a controvérsia sobre a\ncompetência da Justiça Federal em AÇÕES POSSESSÓRIAS ajuizadas\npor CONCESSIONÁRIA ferroviária quando União/DNIT/ANTT manifestam\ndesinteresse. Sem tese de mérito do STF: a definição segue os\ncritérios infraconstitucionais (CF 109 I + Súms. 150, 224 e\n254 STJ); presente o interesse federal, JUSTIÇA FEDERAL;\nausente/declinado, JUSTIÇA ESTADUAL."
+description: "Usar para pesquisar ou analisar: Competência Federal em Possessória de Concessionária Ferroviária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência da JF em Possessórias Ferroviárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Incidente de Desconsideração da Personalidade Jurídica (IDPJ)"
 category: "forma"
 materia: null
 documentType: "incidente-desconsideracao-personalidade-juridica"
-version: 1
-sourcePath: "lib/skills/official/forma/incidente-desconsideracao-personalidade-juridica.md"
+version: 2
+sourcePath: "legalbr/forma/incidente-desconsideracao-personalidade-juridica/SKILL.md"
 triggers:
   - "desconsideração da personalidade jurídica"
   - "IDPJ"
@@ -16,10 +16,15 @@ triggers:
   - "art. 50 CC"
   - "teoria menor"
   - "teoria maior"
-description: "IDPJ (arts. 133-137 CPC): contraditório prévio para atingir sócios (teoria\nmaior, art. 50 CC pós Lei 13.874/19) ou estender em consumo/ambiental\n(teoria menor, CDC 28, Lei 9.605/98). Suspende o feito; AI (1.015 IV)."
+description: "Usar para redigir ou revisar: Incidente de Desconsideração da Personalidade Jurídica (IDPJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Desconsideração da Personalidade Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (arts. 133-134)
 

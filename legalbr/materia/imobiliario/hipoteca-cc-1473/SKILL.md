@@ -5,8 +5,8 @@ title: "Hipoteca + AF Imóvel (CC 1.473-1.505 + Lei 9.514/97 + Lei 14.711/2023)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/hipoteca-cc-1473.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/hipoteca-cc-1473/SKILL.md"
 triggers:
   - "hipoteca"
   - "CC 1.473"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 308 STJ"
   - "Tema 1.095 STJ"
   - "Tema 1.288 STJ"
-description: "Hipoteca CC 1.473-1.505: real garantia imóvel + acessórios (1.473);\ncláusula proibitiva de alienação VEDADA (1.475); duração máx 30\nanos (1.494); hipoteca legal (1.489 — tutelados/coerdeiros etc);\nSúm. 308 STJ (não oponível ao promitente comprador) — STJ mai/2025\nNÃO se aplica à AF; Lei 9.514/97 AF imóvel; Lei 14.711/2023 (Marco\nLegal das Garantias — AF sucessiva); Tema 1.288 STJ fev/2026."
+description: "Usar para pesquisar ou analisar: Hipoteca + AF Imóvel (CC 1.473-1.505 + Lei 9.514/97 + Lei 14.711/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Hipoteca + Alienação Fiduciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.473 — bens hipotecáveis
 

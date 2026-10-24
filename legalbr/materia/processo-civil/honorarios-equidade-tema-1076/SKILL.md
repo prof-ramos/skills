@@ -5,8 +5,8 @@ title: "Honorários por Apreciação Equitativa (Tema 1076 STJ + CPC 85 §§ 2-8
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-equidade-tema-1076.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-equidade-tema-1076/SKILL.md"
 triggers:
   - "Tema 1076 STJ"
   - "apreciação equitativa"
@@ -20,10 +20,15 @@ triggers:
   - "valor da causa elevado"
   - "CPC 85 §8-A"
   - "Tema 1255 STF"
-description: "Tese do Tema 1076 STJ: vedada apreciação equitativa quando o\nvalor da causa, da condenação ou do proveito econômico forem\nELEVADOS. Obrigatória observância dos percentuais do CPC 85 §§ 2\nou 3 (Fazenda). Equidade SÓ é admitida quando: (a) proveito\ninestimável/irrisório; ou (b) valor da causa muito baixo. Lei\n14.365/2022 acrescentou §8-A (tabela OAB; vinculação controvertida no STJ)."
+description: "Usar para pesquisar ou analisar: Honorários por Apreciação Equitativa (Tema 1076 STJ + CPC 85 §§ 2-8). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários por Apreciação Equitativa (Tema 1076 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1076 STJ)
 

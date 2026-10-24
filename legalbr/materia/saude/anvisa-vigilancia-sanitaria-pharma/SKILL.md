@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/anvisa-vigilancia-sanitaria-pharma.md"
+sourcePath: "legalbr/materia/saude/anvisa-vigilancia-sanitaria-pharma/SKILL.md"
 triggers:
   - "ANVISA medicamentos"
   - "vigilância sanitária"
@@ -21,10 +21,15 @@ triggers:
   - "RDC 1.015 cannabis medicinal"
   - "cultivo cannabis autorização especial Anvisa"
   - "Portaria MGI 6.666/2026 Anvisa"
-description: "Regulação sanitária de medicamentos, alimentos, cosméticos e dispositivos. Inclui o regime de cannabis das RDCs 1.011 a 1.015 e 1.023/2026 e as localidades estratégicas da Anvisa."
+description: "Usar para pesquisar ou analisar: ANVISA e Vigilância Sanitária (medicamentos, alimentos, cosméticos). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANVISA e Vigilância Sanitária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

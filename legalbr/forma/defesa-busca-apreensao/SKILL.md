@@ -5,8 +5,8 @@ title: "Defesa em Busca e Apreensão (DL 911/69)"
 category: "forma"
 materia: null
 documentType: "defesa-busca-apreensao"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-busca-apreensao.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-busca-apreensao/SKILL.md"
 triggers:
   - "defesa busca e apreensão"
   - "contestação busca apreensão"
@@ -14,10 +14,15 @@ triggers:
   - "DL 911/69 defesa"
   - "purga da mora veículo"
   - "mora notificação inválida"
-description: "Contestação em ação de busca e apreensão (DL 911/69, alterado pelas\nLeis 10.931/04 e 13.043/14): impugnação da MORA (Súm. 72 STJ); purga\nintegral em 5 dias (Tema 722 STJ); preliminares típicas; impugnação\nespecífica de cláusulas como ônus do réu (Súm. 381 STJ); reconvenção\ncom repetição e indenização por apreensão indevida; tutela para\nrestituição do veículo e suspensão da consolidação."
+description: "Usar para redigir ou revisar: Defesa em Busca e Apreensão (DL 911/69). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Busca e Apreensão (DL 911/69)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

@@ -5,8 +5,8 @@ title: "Aeronauta (Lei 13.475/2017): jornada, limites de voo e remuneração"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/aeronauta-lei-13475.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/aeronauta-lei-13475/SKILL.md"
 triggers:
   - "aeronauta"
   - "Lei 13.475"
@@ -18,10 +18,15 @@ triggers:
   - "piloto comissário mecânico de voo"
   - "Súm. 447 TST"
   - "revogação Lei 7.183"
-description: "Aeronauta (Lei 13.475/2017): regime próprio de piloto, comissário e\nmecânico de voo; jornada contada da apresentação ao encerramento (art.\n35) e limites por tipo de tripulação (art. 37: 11h mínima/simples, 14h\ncomposta, 18h revezamento); reserva, sobreaviso e repouso; CLT e CCT\nsubsidiárias nos limites da regulamentação de aviação civil (art. 24);\ndireito intertemporal com a revogada Lei 7.183/1984; Súm. 447 TST\n(periculosidade no abastecimento)."
+description: "Usar para pesquisar ou analisar: Aeronauta (Lei 13.475/2017): jornada, limites de voo e remuneração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aeronauta (Lei 13.475/2017)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

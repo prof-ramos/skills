@@ -5,8 +5,8 @@ title: "Contranotificação Extrajudicial"
 category: "forma"
 materia: null
 documentType: "contranotificacao"
-version: 1
-sourcePath: "lib/skills/official/forma/contranotificacao-resposta.md"
+version: 2
+sourcePath: "legalbr/forma/contranotificacao-resposta/SKILL.md"
 triggers:
   - "contranotificação"
   - "resposta a notificação"
@@ -15,10 +15,15 @@ triggers:
   - "resposta notificação extrajudicial"
   - "resposta notificação cartorária"
   - "ressalva direitos resposta"
-description: "Contranotificação extrajudicial (resposta a notificação recebida; CC\n397; CPC 726). Função: refutar alegações, esclarecer fatos, evitar\npresunção de concordância tácita, constituir o notificante em mora,\nressalvar direitos, preparar defesa em eventual litígio. Mesmas vias\nda notificação (RTD, postal AR, judicial). Não-resposta não significa\nreconhecimento, mas resposta robusta blinda a posição defensiva."
+description: "Usar para redigir ou revisar: Contranotificação Extrajudicial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contranotificação Extrajudicial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Farmácia, Drogaria e Responsável Técnico (Súmulas STJ)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/farmacia-drogaria-responsavel-tecnico-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/saude/farmacia-drogaria-responsavel-tecnico-stj-sumulas/SKILL.md"
 triggers:
   - "farmácia responsável técnico"
   - "drogaria"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 120 STJ"
   - "Súm. 275 STJ"
   - "Súm. 413 STJ"
-description: "Súmulas STJ sobre responsabilidade técnica em farmácia e drogaria. Oficial\ninscrito no CRF pode ser RT por drogaria (120); auxiliar de farmácia não pode\nser RT (275); farmacêutico pode acumular RT por farmácia + drogaria ou por\nduas drogarias (413). Lei 5.991/73 e Lei 13.021/2014."
+description: "Usar para pesquisar ou analisar: Farmácia, Drogaria e Responsável Técnico (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Farmácia, Drogaria e Responsável Técnico (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

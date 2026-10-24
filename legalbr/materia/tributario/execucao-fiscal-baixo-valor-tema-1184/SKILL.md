@@ -5,8 +5,8 @@ title: "Extinção de Execução Fiscal de Baixo Valor (Tema 1.184 STF + Res. CN
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/execucao-fiscal-baixo-valor-tema-1184.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/execucao-fiscal-baixo-valor-tema-1184/SKILL.md"
 triggers:
   - "Tema 1.184 STF"
   - "execução fiscal baixo valor"
@@ -20,10 +20,15 @@ triggers:
   - "protesto CDA"
   - "Res. CNJ 617/2025"
   - "princípio eficiência administrativa"
-description: "Tema 1.184 STF (RE 1.355.208, 19/12/2023): LEGÍTIMA extinção\nde execução fiscal de baixo valor por ausência de interesse\nde agir. Exige tentativa administrativa + protesto da CDA.\nRes. CNJ 547/2024 fixou patamar de R$ 10 mil + critérios.\nTema 1.428 STF (20/09/2025) confirmou competência do CNJ\npara parâmetros. Sem honorários à Fazenda. Lei 14.689/2023\nampliou transação. Não impede protesto, CADIN, inscrição."
+description: "Usar para pesquisar ou analisar: Extinção de Execução Fiscal de Baixo Valor (Tema 1.184 STF + Res. CNJ 547/24). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extinção de Execução Fiscal de Baixo Valor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STF Tema 1.184 (RE 1.355.208: Min. Edson Fachin)
 

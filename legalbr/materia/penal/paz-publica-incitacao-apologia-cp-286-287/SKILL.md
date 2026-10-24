@@ -5,8 +5,8 @@ title: "Incitação ao Crime + Apologia (CP 286-287)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/paz-publica-incitacao-apologia-cp-286-287.md"
+version: 2
+sourcePath: "legalbr/materia/penal/paz-publica-incitacao-apologia-cp-286-287/SKILL.md"
 triggers:
   - "paz pública"
   - "CP 286"
@@ -17,10 +17,15 @@ triggers:
   - "liberdade de expressão"
   - "ADPF 187"
   - "discurso de ódio"
-description: "Crimes contra paz pública (CP 286-287): INCITAÇÃO publicamente à\nprática de crime DETERMINADO + FUTURO (det. 3-6m ou multa); CP\n287 APOLOGIA de fato criminoso OU autor (pretérito), det. 3-6m.\nADPF 187 (marcha da maconha, 2011): debate público sobre\ndescriminalização NÃO é apologia. Crimes de PERIGO ABSTRATO +\nPUBLICIDADE essencial. Lei 14.197/2021, Estado Democrático."
+description: "Usar para pesquisar ou analisar: Incitação ao Crime + Apologia (CP 286-287). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incitação ao Crime + Apologia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 286: INCITAÇÃO ao crime
 

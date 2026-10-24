@@ -5,8 +5,8 @@ title: "Súmula Vinculante 42, Vedação a Vincular Reajuste de Servidor Estadua
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-42-vinculacao-reajuste-estadual.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-42-vinculacao-reajuste-estadual/SKILL.md"
 triggers:
   - "Súmula Vinculante 42"
   - "SV 42"
@@ -18,10 +18,15 @@ triggers:
   - "CF 37 X"
   - "ADI 5.584"
   - "revisão geral anual"
-description: "SV 42 STF (12/03/2015): \"É inconstitucional a vinculação do\nreajuste de vencimentos de servidores estaduais ou municipais\na índices federais de correção monetária\". Funda-se na autonomia\nfederativa (CF 25, 30) e na exigência de lei específica de revisão\ngeral (CF 37 X). Veda fossilização do reajuste subnacional ao\níndice federal. Converte Súm. 681/STF."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 42, Vedação a Vincular Reajuste de Servidor Estadual a Índice Federal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 42, Vinculação de Reajuste a Índice Federal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

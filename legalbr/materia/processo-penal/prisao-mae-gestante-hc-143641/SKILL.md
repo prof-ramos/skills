@@ -5,8 +5,8 @@ title: "Prisão Domiciliar de Mãe/Gestante (HC 143.641 + Marco da Mãe Encarcer
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/prisao-mae-gestante-hc-143641.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prisao-mae-gestante-hc-143641/SKILL.md"
 triggers:
   - "HC 143641"
   - "HC coletivo gestantes"
@@ -18,10 +18,15 @@ triggers:
   - "Regras de Bangkok"
   - "Lei 11.942"
   - "Lei 13.434"
-description: "Prisão domiciliar para gestantes, mães e responsáveis (HC 143.641/SP\nSTF + CPP 318-A criado pela Lei 13.769/2018): SUBSTITUIÇÃO da\npreventiva por domiciliar é REGRA OBRIGATÓRIA, salvo crime cometido\ncom violência/grave ameaça OU contra descendente; aplicação extensiva\nà execução penal (LEP 117); o próprio HC 143.641 já abrange gestantes,\nlactantes e mães; Lei 13.434 vedou algemas no parto; Regras de Bangkok;\nHC coletivo paradigmático."
+description: "Usar para pesquisar ou analisar: Prisão Domiciliar de Mãe/Gestante (HC 143.641 + Marco da Mãe Encarcerada). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão Domiciliar de Mãe/Gestante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

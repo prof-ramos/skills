@@ -5,8 +5,8 @@ title: "Responsabilidade Civil de Concessionárias (matéria)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/concessionaria-materia.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/concessionaria-materia/SKILL.md"
 triggers:
   - "concessionária serviço público (matéria)"
   - "art. 37 §6º"
@@ -17,10 +17,15 @@ triggers:
   - "animal na pista Tema 1.122"
   - "responsabilidade objetiva concessionária"
   - "Marco Legal do Saneamento Lei 14.026"
-description: "Responsabilidade civil de concessionárias de serviço público\nsob CF 175 + 37 §6º e Lei 8.987/95: responsabilidade objetiva\n(Tema 130 STF); excludentes (fortuito interno vs. externo);\nequilíbrio econômico-financeiro; aplicação do CDC e\nsubsidiariedade do poder concedente."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil de Concessionárias (matéria). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concessionária, Responsabilidade Civil (matéria)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza da concessão
 

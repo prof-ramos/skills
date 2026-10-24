@@ -5,8 +5,8 @@ title: "Prova Pericial (CPC 464-480)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/prova-pericial-cpc-464.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prova-pericial-cpc-464/SKILL.md"
 triggers:
   - "prova pericial"
   - "pericia judicial"
@@ -21,10 +21,15 @@ triggers:
   - "laudo pericial"
   - "pericia consensual"
   - "Sum 7 STJ"
-description: "Prova pericial (CPC 464-480): cabimento (CPC 464, exige\nconhecimento técnico); perícia simplificada (§§ 2-4 CPC 464);\nconsensual (CPC 471); nomeação do perito (CPC 465); quesitos +\nassistentes técnicos (CPC 465 §1); honorários (CPC 95); laudo (CPC\n477); manifestação das partes (CPC 477 §1); arguição de suspeição."
+description: "Usar para pesquisar ou analisar: Prova Pericial (CPC 464-480). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prova Pericial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 464, CABIMENTO
 

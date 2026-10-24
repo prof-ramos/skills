@@ -5,8 +5,8 @@ title: "Drag Along, Tag Along e Cláusulas de Saída (M&A)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/drag-along-tag-along-clausulas-saida.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/drag-along-tag-along-clausulas-saida/SKILL.md"
 triggers:
   - "drag along"
   - "tag along"
@@ -17,10 +17,15 @@ triggers:
   - "call option"
   - "put option"
   - "liquidation preference"
-description: "Cláusulas de saída em acordos de acionistas: drag along (venda\nforçada), tag along (venda conjunta, LSA 254-A + 80% para\nordinárias), ROFR/ROFO (preferência e primeira oferta), call/\nput options, liquidation preference (1×, 2×, participating ×\nnon-participating), anti-diluição (full ratchet × weighted\naverage) e mecanismos de exit (IPO, trade sale, redemption)."
+description: "Usar para pesquisar ou analisar: Drag Along, Tag Along e Cláusulas de Saída (M&A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Drag Along, Tag Along e Cláusulas de Saída
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Drag along (venda forçada)
 

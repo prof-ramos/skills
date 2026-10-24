@@ -5,8 +5,8 @@ title: "Sociedade Simples e Sociedade em Comum (CC 986-990 + 997-1.038)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-simples-sociedade-comum-cc-986.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-simples-sociedade-comum-cc-986/SKILL.md"
 triggers:
   - "sociedade simples"
   - "sociedade em comum"
@@ -20,10 +20,15 @@ triggers:
   - "exclusão de sócio CC 1.030"
   - "cessão de quota CC 1.003"
   - "credor particular de sócio"
-description: "Regime-base societário: sociedade em comum (CC 986-990, sociedade sem\nregistro: patrimônio especial, responsabilidade solidária e ilimitada,\nprova) e sociedade simples (CC 997-1.038: contrato, administração,\nresponsabilidade subsidiária com benefício de ordem 1.023-1.024,\nresolução quanto a sócio, retirada, exclusão e liquidação de quota),\naplicável supletivamente à limitada (CC 1.053) e aos demais tipos\ncontratuais."
+description: "Usar para pesquisar ou analisar: Sociedade Simples e Sociedade em Comum (CC 986-990 + 997-1.038). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade Simples e Sociedade em Comum
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

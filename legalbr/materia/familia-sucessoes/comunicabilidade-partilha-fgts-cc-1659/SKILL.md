@@ -5,8 +5,8 @@ title: "Comunicabilidade na Partilha: FGTS, Verbas do Trabalho e Previdência (C
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/comunicabilidade-partilha-fgts-cc-1659.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/comunicabilidade-partilha-fgts-cc-1659/SKILL.md"
 triggers:
   - "FGTS na partilha"
   - "partilha de FGTS no divórcio"
@@ -18,10 +18,15 @@ triggers:
   - "previdência fechada na partilha"
   - "comunicabilidade de verbas trabalhistas"
   - "CPC 600 cônjuge"
-description: "Comunicabilidade na partilha de bens do trabalho e previdência:\nFGTS depositado na constância integra o patrimônio comum (REsp\n1.399.199/RS, 2ª Seção), mitigação do CC 1.659 VI para proventos e\nverbas rescisórias, previdência fechada incomunicável (CC 1.659 VII)\nvs aberta partilhável, e legitimidade do ex-cônjuge para apuração de\nhaveres (CPC 600 par. único)."
+description: "Usar para pesquisar ou analisar: Comunicabilidade na Partilha: FGTS, Verbas do Trabalho e Previdência (CC 1.659 VI-VII). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comunicabilidade na Partilha: FGTS, Verbas do Trabalho e Previdência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "MAC Clause, Condições Precedentes e Closing"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/mac-condicoes-precedentes-closing.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/mac-condicoes-precedentes-closing/SKILL.md"
 triggers:
   - "MAC"
   - "material adverse change"
@@ -17,10 +17,15 @@ triggers:
   - "bring-down"
   - "long-stop date"
   - "drop-dead date"
-description: "Estrutura de MAC clause, conditions precedent (CPs) e closing em\nM&A: definição negociada de MAC com carve-outs (mudanças\nsistêmicas, setoriais, legais), CPs regulatórios (CADE,\nsetoriais) e contratuais, bring-down de R&W, certificados de\nfechamento, long-stop date, walk away e specific performance\n(CPC 497) sob direito brasileiro."
+description: "Usar para pesquisar ou analisar: MAC Clause, Condições Precedentes e Closing. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MAC, Condições Precedentes e Closing
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## MAC clause (Material Adverse Change/Effect)
 

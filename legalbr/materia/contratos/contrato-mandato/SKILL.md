@@ -5,8 +5,8 @@ title: "Contrato de Mandato e Procuração"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-mandato.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-mandato/SKILL.md"
 triggers:
   - "contrato de mandato"
   - "procuração"
@@ -19,10 +19,15 @@ triggers:
   - "revogação de mandato"
   - "ad judicia"
   - "mandato apud acta"
-description: "Mandato e procuração (CC 653-692): poderes gerais/especiais\n(661); substabelecimento (667); em causa própria (685); forma\n(657); extinção (682); pública vs particular (Lei 8.935/94)."
+description: "Usar para pesquisar ou analisar: Contrato de Mandato e Procuração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Mandato e Procuração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

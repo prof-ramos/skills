@@ -5,8 +5,8 @@ title: "Igualdade Salarial Gênero (Lei 14.611/2023 + CLT 461)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/igualdade-salarial-lei-14611-2023.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/igualdade-salarial-lei-14611-2023/SKILL.md"
 triggers:
   - "Lei 14.611"
   - "igualdade salarial"
@@ -17,10 +17,15 @@ triggers:
   - "multa 3% folha"
   - "plano ação igualdade"
   - "empresas 100 empregados"
-description: "Igualdade salarial: **Lei 14.611/2023** (03/07/2023) obriga\nigualdade entre mulheres e homens para **trabalho de igual valor**\nou **mesma função**. Empresas com **≥ 100 empregados** publicam\n**relatórios semestrais** de transparência salarial (mar + set,\nMTE/Portal Emprega Brasil). Em caso de desigualdade: **plano de\nação** com metas + prazos. Multa por descumprimento: **até 3% da\nfolha**, limitada a 100 SM. Alterou CLT art. 461: dano moral\ncumulável com diferenças salariais. Convergência com CF 7 XXX +\nConvenção OIT 100/111. Sanções administrativas + cíveis +\ntrabalhistas + reputacionais."
+description: "Usar para pesquisar ou analisar: Igualdade Salarial Gênero (Lei 14.611/2023 + CLT 461). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.611/2023: Igualdade Salarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Penhora de Salário em Dívida Não Alimentar (Tema 1.230 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/penhora-salario-tema-1230.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-salario-tema-1230/SKILL.md"
 triggers:
   - "Tema 1.230 STJ"
   - "penhora salário não alimentar"
@@ -14,10 +14,15 @@ triggers:
   - "REsp 1.894.973"
   - "art. 833 IV CPC"
   - "impenhorabilidade salário"
-description: "Tema 1.230 STJ (Corte Especial, REsp 1.894.973 e outros, em\njulgamento): discute a relativização da IMPENHORABILIDADE do\nsalário em dívida NÃO alimentar em hipóteses EXCEPCIONAIS,\npreservado o mínimo existencial. Leading case EREsp 1.874.222.\nCPC art. 833 IV. Tema 1.235 STJ (40 salários em poupança).\nTema 1.137 STJ (medidas atípicas)."
+description: "Usar para pesquisar ou analisar: Penhora de Salário em Dívida Não Alimentar (Tema 1.230 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Salário em Dívida Não Alimentar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Crimes de Trânsito (CTB Lei 9.503/97 + Lei 13.546/2017 + Lei 14.071/202
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-transito-ctb-9503.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-transito-ctb-9503/SKILL.md"
 triggers:
   - "crimes de trânsito"
   - "CTB"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 575 STJ"
   - "bafômetro recusa"
   - "dolo eventual trânsito"
-description: "Crimes de trânsito sob CTB (Lei 9.503/97) + Lei 13.546/2017 + Lei\n14.071/2020: CTB 302 (homicídio culposo det. 2-4); §3 embriaguez\n(recl. 5-8); CTB 306 (embriaguez, det. 6m-3a, 0,3 mg/L OU 6 dg/L\nOU outros sinais, CTB 306 §2 admite múltiplos meios de prova); CTB 308 (racha §1 recl. 3-6 / §2 recl. 5-10);\nembriaguez isolada NÃO gera dolo eventual (STJ REsp 1.689.173);\nLei 14.071 endureceu + vedou PRD (312-B)."
+description: "Usar para pesquisar ou analisar: Crimes de Trânsito (CTB Lei 9.503/97 + Lei 13.546/2017 + Lei 14.071/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes de Trânsito (CTB, Lei 9.503/1997)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

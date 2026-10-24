@@ -5,8 +5,8 @@ title: "ITCMD + Arbitramento do Valor Venal pela Fazenda (Tema 1.371 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/itcmd-arbitramento-valor-venal-tema-1371.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itcmd-arbitramento-valor-venal-tema-1371/SKILL.md"
 triggers:
   - "Tema 1.371 STJ"
   - "arbitramento ITCMD CTN 148"
@@ -15,10 +15,15 @@ triggers:
   - "procedimento individualizado arbitramento"
   - "omissão declaração ITCMD"
   - "inidoneidade documento herdeiro"
-description: "Tema 1.371 STJ (1ª Seção): a prerrogativa de arbitrar o\nvalor venal do bem transmitido ao lançar o ITCMD decorre do art.\n148 do CTN, norma geral aplicável a todos os entes. A lei estadual\ntem liberdade para eleger o critério da base de cálculo. O\narbitramento é EXCEPCIONAL: cabe quando declarações, informações\nou documentos do contribuinte forem omissos ou não merecerem fé,\ncabendo ao Fisco comprovar que o valor está fora do mercado. Exige\nprocedimento administrativo PRÉVIO e INDIVIDUALIZADO, com\ncontraditório e ampla defesa."
+description: "Usar para pesquisar ou analisar: ITCMD + Arbitramento do Valor Venal pela Fazenda (Tema 1.371 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITCMD + Arbitramento do Valor Venal pela Fazenda (Tema 1.371 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.371 STJ, 1ª Seção)
 

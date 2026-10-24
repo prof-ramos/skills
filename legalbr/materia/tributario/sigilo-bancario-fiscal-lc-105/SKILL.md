@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sigilo-bancario-fiscal-lc-105.md"
+sourcePath: "legalbr/materia/tributario/sigilo-bancario-fiscal-lc-105/SKILL.md"
 triggers:
   - "sigilo bancário fiscal"
   - "LC 105/2001"
@@ -22,10 +22,15 @@ triggers:
   - "RIF UIF compartilhamento"
   - "e-Financeira IN 1.571 R$ 2 mil R$ 6 mil"
   - "e-Financeira FAQ R$ 5 mil R$ 15 mil"
-description: "Sigilos bancário e fiscal sob LC 105 e CTN 198: requisição fiscal,\nTemas 225 e 990 STF, CPI, RIF/COAF e e-Financeira, distinguindo\nlimites normativos e orientação operacional da RFB."
+description: "Usar para pesquisar ou analisar: Sigilo Bancário e Fiscal (LC 105/2001 + Tema 225 + Tema 990 STF + MS 23.452). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sigilo Bancário Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## LC 105/2001: núcleo normativo
 

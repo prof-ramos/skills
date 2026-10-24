@@ -5,8 +5,8 @@ title: "Arrendamento e Parceria Rural (Lei 4.504/1964 + Decreto 59.566/1966)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/arrendamento-parceria-rural-estatuto-terra.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/arrendamento-parceria-rural-estatuto-terra/SKILL.md"
 triggers:
   - "arrendamento rural"
   - "parceria rural"
@@ -20,10 +20,15 @@ triggers:
   - "função social do imóvel rural"
   - "art. 13 Decreto 59.566"
   - "módulo fiscal"
-description: "Arrendamento e parceria rural sob Lei 4.504/64 (Estatuto da\nTerra) + Decreto 59.566/66: contrato AGRARIO (≠ locação urbana\n- Lei 8.245 nao se aplica); prazos minimos (art. 13 Dec. 59.566\n- lavoura temp 3a, perm 5a, pecuária 5a); preferência do\narrendatário (art. 92 §3); preço máximo 15% do valor do imovel\nou 30% explorações específicas; vedações; ITR + Lei 11.443/07."
+description: "Usar para pesquisar ou analisar: Arrendamento e Parceria Rural (Lei 4.504/1964 + Decreto 59.566/1966). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arrendamento + Parceria Rural
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

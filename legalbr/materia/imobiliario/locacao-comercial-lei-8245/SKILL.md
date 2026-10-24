@@ -5,8 +5,8 @@ title: "Locação Comercial / Não Residencial (Lei 8.245/1991)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/locacao-comercial-lei-8245.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/locacao-comercial-lei-8245/SKILL.md"
 triggers:
   - "locação comercial"
   - "locação não residencial"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 214 STJ"
   - "Súm. 549 STJ"
   - "built-to-suit"
-description: "Locação comercial/não residencial sob Lei 8.245/1991 + Lei 12.112/\n2009 + Lei 12.744/2012 (built-to-suit): prazo determinado cessa de\npleno direito no termo (art. 56); prazo indeterminado admite\ndenúncia vazia por escrito + 30 dias (art. 57); liminar de despejo\n(art. 59 §1, hipóteses I-IX) com caução de 3 aluguéis do caput;\nSúm. 549\nSTJ (bem de família do fiador é penhorável) + Súm. 214 STJ (fiador\nnão responde por aditamento não anuído); fiança na prorrogação\ndepende de cláusula de extensão (Lei 12.112); shopping (art. 54),\ncláusulas próprias chanceladas pelo STJ."
+description: "Usar para pesquisar ou analisar: Locação Comercial / Não Residencial (Lei 8.245/1991). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Locação Comercial / Não Residencial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

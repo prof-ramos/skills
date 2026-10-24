@@ -5,8 +5,8 @@ title: "Devolução de Valores por Tutela Antecipada Revogada (Tema 692 STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/devolucao-tutela-antecipada-tema-692-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/devolucao-tutela-antecipada-tema-692-stj/SKILL.md"
 triggers:
   - "Tema 692 STJ"
   - "devolução tutela antecipada revogada"
@@ -21,10 +21,15 @@ triggers:
   - "boa-fé segurado"
   - "Tema 979 STJ"
   - "erro administrativo INSS devolução"
-description: "Tema 692 STJ: a reforma da decisão que antecipa tutela em ação\nprevidenciária OBRIGA o autor à devolução dos benefícios indevidamente\nrecebidos. Devolução pode ser feita por DESCONTO de até 30% sobre\nbenefício ainda mantido. Afasta a presunção de boa-fé subjetiva\npela natureza precária da tutela. Inclui o Tema 979 STJ (erro\nadministrativo do INSS: repetível salvo boa-fé objetiva, com\nmodulação a partir de 23/04/2021)."
+description: "Usar para pesquisar ou analisar: Devolução de Valores por Tutela Antecipada Revogada (Tema 692 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Devolução por Tutela Antecipada Revogada (Tema 692 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 692 STJ)
 

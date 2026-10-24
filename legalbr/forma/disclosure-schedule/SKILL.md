@@ -5,8 +5,8 @@ title: "Disclosure Schedule (M&A)"
 category: "forma"
 materia: null
 documentType: "disclosure-schedule"
-version: 1
-sourcePath: "lib/skills/official/forma/disclosure-schedule.md"
+version: 2
+sourcePath: "legalbr/forma/disclosure-schedule/SKILL.md"
 triggers:
   - "disclosure schedule"
   - "disclosure letter"
@@ -14,10 +14,15 @@ triggers:
   - "schedule de exceções"
   - "SPA anexos"
   - "APA anexos"
-description: "Disclosure schedule: anexo do contrato de aquisição (SPA/APA) que\nqualifica representations & warranties listando exceções e fatos\ndivulgados. Define ônus indenizatório (anti/pro-sandbagging), interage\ncom R&W insurance (RWI) e materialidade. Estrutura, regras de\ncross-reference e bring-down."
+description: "Usar para redigir ou revisar: Disclosure Schedule (M&A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Disclosure Schedule
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Função
 

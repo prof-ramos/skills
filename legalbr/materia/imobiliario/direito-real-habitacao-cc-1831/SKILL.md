@@ -5,8 +5,8 @@ title: "Direito Real de Habitação do Cônjuge/Companheiro (CC 1.831 + Tema 809
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direito-real-habitacao-cc-1831.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direito-real-habitacao-cc-1831/SKILL.md"
 triggers:
   - "direito real de habitação"
   - "CC 1.831"
@@ -19,10 +19,15 @@ triggers:
   - "imóvel residencial família"
   - "Lei 9.278/96 art. 7"
   - "REsp 1.220.838"
-description: "Direito real de habitação CC 1.831: ao CÔNJUGE sobrevivente,\nqualquer regime de bens, sobre imóvel da família, desde que único\ndaquela natureza a inventariar; vitalício; independe de meação ou\nherança; oponível erga omnes; Tema 809 STF equiparou os regimes\nsucessórios de cônjuge e companheiro (CC 1.790 inconstitucional) e\na jurisprudência do STJ (REsp 1.220.838) + Lei 9.278/96 art. 7\nasseguram o direito ao COMPANHEIRO; exclusividade do uso para\nresidência; aliena/loca/onera somente com anuência dos herdeiros."
+description: "Usar para pesquisar ou analisar: Direito Real de Habitação do Cônjuge/Companheiro (CC 1.831 + Tema 809 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Real de Habitação do Cônjuge/Companheiro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

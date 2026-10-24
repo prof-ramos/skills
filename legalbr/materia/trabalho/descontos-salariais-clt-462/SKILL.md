@@ -5,8 +5,8 @@ title: "Descontos Salariais (CLT 462 + Súm. 342 TST)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/descontos-salariais-clt-462.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/descontos-salariais-clt-462/SKILL.md"
 triggers:
   - "descontos salariais CLT 462"
   - "intangibilidade salarial"
@@ -18,10 +18,15 @@ triggers:
   - "cheque sem fundos frentista"
   - "truck system armazém da empresa"
   - "retenção dolosa de salário"
-description: "Intangibilidade salarial (CLT 462 + CF 7 VI e X): rol dos descontos lícitos\n(adiantamentos, lei, norma coletiva), dano com dolo sempre e culpa só se\npactuada (462 §1); descontos assistenciais com autorização prévia e escrita\n(Súm. 342 TST) e validade da autorização na admissão (OJ 160 SDI-1);\ntruck system (462 §§2-4); casuística de avarias, cheques sem fundos e\nconvênios, com ônus da prova do empregador."
+description: "Usar para pesquisar ou analisar: Descontos Salariais (CLT 462 + Súm. 342 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descontos Salariais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

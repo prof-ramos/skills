@@ -5,8 +5,8 @@ title: "Infrações Urbanísticas Municipais: Embargo, Interdição e Demoliçã
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/infracoes-urbanisticas-embargo-demolicao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/infracoes-urbanisticas-embargo-demolicao/SKILL.md"
 triggers:
   - "embargo de obra irregular"
   - "demolição de obra irregular"
@@ -19,10 +19,15 @@ triggers:
   - "poder de polícia edilício"
   - "interdição de estabelecimento comercial"
   - "obra sem licença municipal"
-description: "Poder de polícia edilício municipal (CF 30 I e VIII, CF 182, CC 1.299):\nalvarás de construção e funcionamento, embargo e interdição autoexecutórios,\nlimites da demolição de obra concluída ou habitada (via judicial, STJ),\ninteresse de agir na ação demolitória (REsp 1.651.622), ocupação de área\npública (Súm. 619 STJ) e devido processo na sanção urbanística."
+description: "Usar para pesquisar ou analisar: Infrações Urbanísticas Municipais: Embargo, Interdição e Demolição. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Infrações Urbanísticas Municipais: Embargo, Interdição e Demolição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

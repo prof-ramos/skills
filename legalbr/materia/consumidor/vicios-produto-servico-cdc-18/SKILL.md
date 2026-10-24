@@ -5,8 +5,8 @@ title: "Vícios do Produto e do Serviço (CDC 18-25 + 26)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/vicios-produto-servico-cdc-18.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/vicios-produto-servico-cdc-18/SKILL.md"
 triggers:
   - "vício do produto"
   - "vício do serviço"
@@ -18,10 +18,15 @@ triggers:
   - "vício oculto"
   - "substituição de produto"
   - "Súm. 477 STJ"
-description: "Vícios CDC 18-25 + 26: adequação (≠ fato); 30 dias para sanar;\n3 alternativas potestativas; decadência 30/90 dias + obstativos;\nvício oculto = descoberta; vida útil; substituição em durável."
+description: "Usar para pesquisar ou analisar: Vícios do Produto e do Serviço (CDC 18-25 + 26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vícios do Produto e do Serviço
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinção estrutural: fato × vício
 

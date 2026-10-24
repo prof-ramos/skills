@@ -5,8 +5,8 @@ title: "Ação de Imissão na Posse do Adquirente"
 category: "forma"
 materia: null
 documentType: "acao-imissao-posse-adquirente"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-imissao-posse-adquirente.md"
+version: 2
+sourcePath: "legalbr/forma/acao-imissao-posse-adquirente/SKILL.md"
 triggers:
   - "ação de imissão na posse"
   - "imissão na posse do arrematante"
@@ -17,10 +17,15 @@ triggers:
   - "mandado de imissão na posse CPC 901"
   - "carta de arrematação e posse do imóvel"
   - "adquirente de leilão extrajudicial ocupado"
-description: "Imissão na posse do adquirente (CC 1.228): ação PETITÓRIA de quem\ntem o domínio mas NUNCA teve a posse (arrematante de leilão,\ncomprador sem tradição); rito comum, sem procedimento especial;\nna alienação fiduciária o art. 30 da Lei 9.514/1997 garante\ndesocupação LIMINAR em 60 dias; arrematante judicial usa o mandado\ndo CPC 901 §1 nos próprios autos."
+description: "Usar para redigir ou revisar: Ação de Imissão na Posse do Adquirente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Imissão na Posse do Adquirente
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito e fundamento
 

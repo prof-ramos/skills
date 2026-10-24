@@ -5,8 +5,8 @@ title: "Tarifas Bancárias por Serviços de Terceiros (Tema 958 STJ + Lei 4.595)
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/tarifas-bancarias-tema-958-stj.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/tarifas-bancarias-tema-958-stj/SKILL.md"
 triggers:
   - "Tema 958 STJ"
   - "tarifas serviços terceiros"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 4.595/64"
   - "encargos bancários abusivos"
   - "CDC bancário"
-description: "Tema 958 STJ (REsp 1.578.553): (1) abusiva a cláusula de\nressarcimento de serviços prestados por terceiros SEM\nespecificação do serviço; (2) abusivo o ressarcimento da\ncomissão do correspondente bancário em contratos a partir de\n25/02/2011 (Res. CMN 3.954/2011), válido antes, ressalvada\nonerosidade excessiva; (3) válidas a tarifa de avaliação do\nbem dado em garantia e a cláusula de ressarcimento do registro\ndo contrato, ressalvadas cobrança por serviço não prestado e\nonerosidade. Correlatos: Temas 618/620/621 (TAC/TEC, cadastro,\nIOF financiado) e 972 (pré-gravame + venda casada de seguro)."
+description: "Usar para pesquisar ou analisar: Tarifas Bancárias por Serviços de Terceiros (Tema 958 STJ + Lei 4.595). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifas Bancárias por Serviços de Terceiros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Tipicidade do Porte de Droga para Consumo Pessoal (Tema 506 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/tipicidade-porte-droga-consumo-tema-506.md"
+version: 2
+sourcePath: "legalbr/materia/penal/tipicidade-porte-droga-consumo-tema-506/SKILL.md"
 triggers:
   - "Tema 506 STF"
   - "art. 28 Lei 11.343"
@@ -15,10 +15,15 @@ triggers:
   - "descriminalização porte"
   - "usuário droga"
   - "porte de maconha 40 gramas"
-description: "Tema 506 STF (RE 635.659, 26/06/2024): o porte de droga\npara CONSUMO PESSOAL (Lei 11.343/06 art. 28) é descriminalizado\npara MACONHA (até 40 gramas) ou 6 plantas fêmea. Permanece\nILÍCITO ADMINISTRATIVO + civil. CF 5 X (intimidade) +\nprincípio da lesividade."
+description: "Usar para pesquisar ou analisar: Tipicidade do Porte de Droga para Consumo Pessoal (Tema 506 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tipicidade do Porte de Droga para Consumo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

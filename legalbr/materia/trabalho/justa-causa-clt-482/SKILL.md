@@ -5,8 +5,8 @@ title: "Justa Causa do Empregado (CLT 482)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/justa-causa-clt-482.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/justa-causa-clt-482/SKILL.md"
 triggers:
   - "justa causa"
   - "CLT 482"
@@ -16,10 +16,15 @@ triggers:
   - "abandono de emprego"
   - "Súm. 32 TST"
   - "Súm. 73 TST"
-description: "Justa causa do empregado (CLT 482): rol taxativo (alíneas a-m); exige\ntipicidade, autoria, gravidade, proporcionalidade, imediatidade e\nnon bis in idem; ônus probatório do empregador (CLT 818 II); efeitos\npatrimoniais; abandono presumido após 30 dias (Súm. 32 TST)."
+description: "Usar para pesquisar ou analisar: Justa Causa do Empregado (CLT 482). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Justa Causa do Empregado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

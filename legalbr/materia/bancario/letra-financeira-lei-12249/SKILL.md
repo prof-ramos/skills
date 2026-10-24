@@ -5,8 +5,8 @@ title: "Letra Financeira (Lei 12.249/10 + Res. CMN 4.123/12)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/letra-financeira-lei-12249.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/letra-financeira-lei-12249/SKILL.md"
 triggers:
   - "letra financeira"
   - "Lei 12.249"
@@ -19,10 +19,15 @@ triggers:
   - "perpétua bancária"
   - "elegível capital regulatório"
   - "Lei 14.430"
-description: "Letra Financeira (LF): título de captação privativo de IF (Lei 12.249/10\narts. 37-43); prazo mínimo 24 meses (não-subordinada) e 5 anos\n(subordinada), com resgate antecipado vedado (Res. CMN 5.007/22); valor\nnominal mínimo R$ 50 mil (não-subordinada) ou R$ 300 mil (subordinada);\nemissão para alongamento do passivo bancário; modalidades: LF simples +\nLF subordinada (elegível a capital regulatório) + LF perpétua + LF com\ncláusula de recompra; registro obrigatório B3/Cetip; FGC não cobre."
+description: "Usar para pesquisar ou analisar: Letra Financeira (Lei 12.249/10 + Res. CMN 4.123/12). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Letra Financeira (LF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

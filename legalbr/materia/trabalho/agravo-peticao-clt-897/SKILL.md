@@ -5,8 +5,8 @@ title: "Agravo de Petição (CLT 897 \"a\")"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/agravo-peticao-clt-897.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/agravo-peticao-clt-897/SKILL.md"
 triggers:
   - "agravo de petição"
   - "CLT 897"
@@ -14,10 +14,15 @@ triggers:
   - "impugnação à sentença de liquidação"
   - "delimitação de matéria"
   - "Súm. 416 TST"
-description: "Agravo de petição (CLT 897 a): recurso cabível em fase de execução\ntrabalhista; prazo 8 dias úteis; delimitação justificada de matéria\ne valores (CLT 897 §1; Súm. 416 TST); efeito\napenas devolutivo; preparo segue as regras gerais (depósito + custas)."
+description: "Usar para pesquisar ou analisar: Agravo de Petição (CLT 897 \"a\"). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Petição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

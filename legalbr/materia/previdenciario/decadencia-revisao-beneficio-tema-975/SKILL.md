@@ -5,8 +5,8 @@ title: "Decadência Decenal da Revisão de Benefício Previdenciário (Tema 975 
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/decadencia-revisao-beneficio-tema-975.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/decadencia-revisao-beneficio-tema-975/SKILL.md"
 triggers:
   - "Tema 975 STJ"
   - "decadência revisão benefício previdenciário"
@@ -14,10 +14,15 @@ triggers:
   - "matéria não apreciada concessão"
   - "prescrição quinquenal parcelas"
   - "revisão judicial INSS"
-description: "Tema 975 STJ: o prazo DECADENCIAL DECENAL do art. 103 da Lei\n8.213/91 incide sobre a revisão de benefício previdenciário,\ninclusive nas hipóteses em que a matéria controvertida NÃO foi\napreciada no ato concessório. Direito POTESTATIVO. Início: primeiro\ndia do mês seguinte ao recebimento da primeira prestação. Não corre\ndecadência contra indeferimento, cancelamento ou cessação (ADI 6.096)."
+description: "Usar para pesquisar ou analisar: Decadência Decenal da Revisão de Benefício Previdenciário (Tema 975 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decadência Decenal da Revisão de Benefício Previdenciário (Tema 975 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 975 STJ)
 

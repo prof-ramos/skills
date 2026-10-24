@@ -5,8 +5,8 @@ title: "Súmula Vinculante 19, Taxa de Coleta e Tratamento de Lixo"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sumula-vinculante-19-taxa-lixo.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-19-taxa-lixo/SKILL.md"
 triggers:
   - "SV 19"
   - "Súmula Vinculante 19"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 146 STF"
   - "Súm. 670 STF"
   - "taxa de varrição limpeza pública"
-description: "SV 19 STF (29/10/2009): \"A taxa cobrada exclusivamente em razão\ndos serviços públicos de coleta, remoção e tratamento ou destinação\nde lixo ou resíduos provenientes de imóveis não viola o art. 145, II,\nda CF.\" Coleta DOMICILIAR é uti singuli (específica + divisível);\nlimpeza pública (varrição) é uti universi e VEDADA; RE 576.321\n(Tema 146); contrapõe SV 41 (iluminação)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 19, Taxa de Coleta e Tratamento de Lixo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 19, Taxa de Coleta e Tratamento de Lixo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

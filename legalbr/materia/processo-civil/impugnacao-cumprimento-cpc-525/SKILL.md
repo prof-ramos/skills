@@ -5,8 +5,8 @@ title: "Impugnação ao Cumprimento de Sentença (CPC 525)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/impugnacao-cumprimento-cpc-525.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/impugnacao-cumprimento-cpc-525/SKILL.md"
 triggers:
   - "impugnacao cumprimento sentenca"
   - "CPC 525"
@@ -16,10 +16,15 @@ triggers:
   - "coisa julgada inconstitucional"
   - "efeito suspensivo da impugnacao"
   - "rejeicao liminar da impugnacao"
-description: "Impugnação ao cumprimento de sentença (CPC 525): forma de defesa\napós intimação para pagar em 15 dias (CPC 523) sem multa; prazo\n15 dias contados após penhora (se houve não pagamento); matérias\ntaxativas (CPC 525 §1); efeito suspensivo condicionado (CPC 525\n§6); coisa julgada inconstitucional (CPC 525 §12-15 + Tema 360 STF)."
+description: "Usar para pesquisar ou analisar: Impugnação ao Cumprimento de Sentença (CPC 525). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impugnação ao Cumprimento de Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 523, INTIMAÇÃO PARA PAGAR
 

@@ -5,8 +5,8 @@ title: "Corretagem + Prescrição Trienal por Cláusula Abusiva (Tema 938 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/corretagem-prescricao-trienal-clausula-tema-938.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/corretagem-prescricao-trienal-clausula-tema-938/SKILL.md"
 triggers:
   - "Tema 938 STJ"
   - "corretagem prescrição trienal"
@@ -14,10 +14,15 @@ triggers:
   - "SATI serviço assistência técnico imobiliária"
   - "CC 206 § 3 IV"
   - "validade cláusula transferência comissão"
-description: "Tema 938 STJ (2ª Seção, ac. publ. 24/08/2016): incidência da\nPRESCRIÇÃO TRIENAL (CC 206 §3 IV) sobre a restituição de comissão\nde corretagem / SATI / análoga quando a causa de pedir é a\nCLÁUSULA ABUSIVA. Validade da cláusula que transfere ao comprador\no pagamento, DESDE QUE INFORMADO previamente o preço total da\nunidade. Distingue-se do Tema 1.099 (decenal, atraso da obra)."
+description: "Usar para pesquisar ou analisar: Corretagem + Prescrição Trienal por Cláusula Abusiva (Tema 938 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corretagem + Prescrição Trienal por Cláusula Abusiva (Tema 938 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 938 STJ, 2ª Seção, ac. publ. 24/08/2016)
 

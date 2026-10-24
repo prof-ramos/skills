@@ -5,8 +5,8 @@ title: "ADI 5526: Medidas Cautelares contra Parlamentar (CF 53 §2)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adi-5526-afastamento-parlamentar.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adi-5526-afastamento-parlamentar/SKILL.md"
 triggers:
   - "ADI 5526"
   - "imunidade parlamentar"
@@ -16,10 +16,15 @@ triggers:
   - "controle Casa Legislativa"
   - "prisão parlamentar flagrante"
   - "CPP 319 parlamentar"
-description: "ADI 5526 (red. Alexandre de Moraes, 11/10/2017): STF pode\naplicar cautelares do CPP 319 a parlamentar; medidas obstativas\ndo mandato remetidas à Casa em 24h, que decide por maioria.\nHarmoniza CF 102 I com CF 53 §2."
+description: "Usar para pesquisar ou analisar: ADI 5526: Medidas Cautelares contra Parlamentar (CF 53 §2). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5526: Medidas Cautelares contra Parlamentar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

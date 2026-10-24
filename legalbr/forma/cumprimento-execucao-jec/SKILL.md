@@ -5,8 +5,8 @@ title: "Cumprimento de Sentença e Execução no JEC"
 category: "forma"
 materia: null
 documentType: "cumprimento-execucao-jec"
-version: 1
-sourcePath: "lib/skills/official/forma/cumprimento-execucao-jec.md"
+version: 2
+sourcePath: "legalbr/forma/cumprimento-execucao-jec/SKILL.md"
 triggers:
   - "cumprimento de sentença no juizado especial"
   - "execução no juizado especial cível"
@@ -16,10 +16,15 @@ triggers:
   - "execução de título extrajudicial no JEC"
   - "multa de 10% no juizado especial"
   - "embargos nos autos da execução"
-description: "Execução no rito da Lei 9.099/95: sentença executada no próprio Juizado com\nas adaptações do art. 52 (cálculos pelo servidor, início por solicitação até\nverbal, multa diária nas obrigações de fazer, alienação simplificada,\nembargos nos autos com matérias restritas); título extrajudicial até 40\nsalários mínimos com embargos em audiência após a penhora (art. 53); CPC\naplicável só no que couber; custas da execução restritas ao art. 55 p.ú."
+description: "Usar para redigir ou revisar: Cumprimento de Sentença e Execução no JEC. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Sentença e Execução no JEC
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

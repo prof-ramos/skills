@@ -5,8 +5,8 @@ title: "Casas Lotéricas: Permissão CEF, Responsabilidade e Riscos da Atividade
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/lotericas-permissao-cef-responsabilidade.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/lotericas-permissao-cef-responsabilidade/SKILL.md"
 triggers:
   - "casa lotérica"
   - "unidade lotérica"
@@ -19,10 +19,15 @@ triggers:
   - "prêmio de loteria prescrição"
   - "Decreto-Lei 204 loterias"
   - "correspondente bancário lotérica"
-description: "Regime da permissão lotérica da CEF (Lei 12.869/13 + Lei 8.987/95 arts. 2º, IV,\n25 e 40): atividade por conta e risco da permissionária, responsabilidade por\nassaltos (REsp 1.224.236 e 1.317.472), solidariedade CDC na cadeia (Súm. 479\nSTJ), prêmio, bolão e competência."
+description: "Usar para pesquisar ou analisar: Casas Lotéricas: Permissão CEF, Responsabilidade e Riscos da Atividade. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Casas Lotéricas: Permissão CEF, Responsabilidade e Riscos da Atividade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

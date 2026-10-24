@@ -5,8 +5,8 @@ title: "Judicialização de Medicamentos Não-SUS (Tema 1.234 STF + RE 1.366.243
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/judicializacao-medicamentos-tema-1234.md"
+version: 2
+sourcePath: "legalbr/materia/saude/judicializacao-medicamentos-tema-1234/SKILL.md"
 triggers:
   - "Tema 1.234"
   - "RE 1.366.243"
@@ -19,10 +19,15 @@ triggers:
   - "CEAF"
   - "competência saúde"
   - "prévio requerimento administrativo"
-description: "Tema 1.234 STF (RE 1.366.243, Min. Gilmar Mendes, acordo homologado\nem 17/09/2024): competência e ente passivo em demandas por\nmedicamentos. Registrados na ANVISA não incorporados ao SUS com\ncusto anual ≥ 210 salários mínimos (PMVG-CMED) → Justiça Federal +\nUnião. Incorporados → grupo do CEAF. Prévio requerimento + NATJUS\nobrigatórios. Modulação preserva processos anteriores a 19/09/2024."
+description: "Usar para pesquisar ou analisar: Judicialização de Medicamentos Não-SUS (Tema 1.234 STF + RE 1.366.243). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Judicialização de Medicamentos Não-SUS (Tema 1.234 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

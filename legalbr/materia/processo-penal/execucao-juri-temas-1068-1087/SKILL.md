@@ -5,8 +5,8 @@ title: "Execução Imediata da Pena do Júri + Soberania (Temas 1.068 e 1.087 ST
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juri/execucao-juri-temas-1068-1087.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/execucao-juri-temas-1068-1087/SKILL.md"
 triggers:
   - "Tema 1.068 STF"
   - "Tema 1.087 STF"
@@ -22,10 +22,15 @@ triggers:
   - "clemência jurados"
   - "ADC 43 44 54"
   - "CF 5 XXXVIII"
-description: "Tema 1.068 STF (RE 1.235.340, 12/09/2024): SOBERANIA dos\nveredictos do Júri autoriza EXECUÇÃO IMEDIATA da condenação\nindependentemente do total da pena. Tema 1.087 STF (ARE\n1.225.185, 03/10/2024): cabe apelação 593 III d quando\ndecisão fundada em quesito genérico for manifestamente\ncontrária à prova; NÃO se determina novo júri quando tese\nde clemência conste em ata + acolhida + compatível com CF."
+description: "Usar para pesquisar ou analisar: Execução Imediata da Pena do Júri + Soberania (Temas 1.068 e 1.087 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Imediata da Pena do Júri + Soberania dos Veredictos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

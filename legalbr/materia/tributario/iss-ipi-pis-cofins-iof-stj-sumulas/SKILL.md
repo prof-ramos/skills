@@ -5,8 +5,8 @@ title: "ISS, IPI, PIS/Cofins, IOF, Súmulas STJ"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/iss-ipi-pis-cofins-iof-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/iss-ipi-pis-cofins-iof-stj-sumulas/SKILL.md"
 triggers:
   - "ISS incidência"
   - "IPI súmulas STJ"
@@ -22,10 +22,15 @@ triggers:
   - "leasing arrendamento mercantil"
   - "serviço médico hospitalar ISS"
   - "crédito presumido IPI exportação"
-description: "ISS, IPI, PIS/Cofins, IOF e tributos correlatos no STJ: ISS sobre leasing, lista\nde serviços; assistência médica + insumos; concreto; bancos congêneres. IPI\ncom furto/roubo após saída; ressarcimento crédito presumido exportação. PIS/\nCofins (LC 70/91; Lei 9.430/96), corretoras de seguro. IOF em depósitos\njudiciais (NÃO incide). Refis, Cebas e sujeito passivo do IPTU (Súm. 399)."
+description: "Usar para pesquisar ou analisar: ISS, IPI, PIS/Cofins, IOF, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ISS, IPI, PIS/Cofins, IOF, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## ISS, Imposto Sobre Serviços (CF 156, III; LC 116/2003)
 

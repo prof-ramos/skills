@@ -5,8 +5,8 @@ title: "Enquadramento Sindical e Categoria Diferenciada (CLT 511 + Súm. 374 TST
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/enquadramento-sindical-categoria-diferenciada.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/enquadramento-sindical-categoria-diferenciada/SKILL.md"
 triggers:
   - "categoria diferenciada"
   - "CLT 511"
@@ -18,10 +18,15 @@ triggers:
   - "qual convenção coletiva aplicável"
   - "categoria econômica e profissional"
   - "motorista categoria diferenciada"
-description: "Enquadramento sindical (CLT 511 e 570-577): categoria econômica x\nprofissional x diferenciada; norma coletiva aplicável definida pela\natividade preponderante do empregador; Súm. 374 TST (categoria diferenciada\nsó tem direito a vantagens de instrumento de que o empregador participou);\nTema 488 STF (dimensão da empresa não define categoria) e Súm. 677 STF\n(registro no Ministério do Trabalho e unicidade)."
+description: "Usar para pesquisar ou analisar: Enquadramento Sindical e Categoria Diferenciada (CLT 511 + Súm. 374 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Enquadramento Sindical e Categoria Diferenciada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

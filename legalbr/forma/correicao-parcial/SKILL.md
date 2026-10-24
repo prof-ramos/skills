@@ -5,8 +5,8 @@ title: "Correição Parcial"
 category: "forma"
 materia: null
 documentType: "correicao-parcial"
-version: 1
-sourcePath: "lib/skills/official/forma/correicao-parcial.md"
+version: 2
+sourcePath: "legalbr/forma/correicao-parcial/SKILL.md"
 triggers:
   - "correição parcial"
   - "reclamação correicional"
@@ -15,10 +15,15 @@ triggers:
   - "regimento interno do tribunal"
   - "medida correicional dirigida à Corregedoria"
   - "tumulto processual por ato ou omissão do juiz"
-description: "Correição parcial: provimento correicional contra inversão tumultuária por\nato judicial sem recurso próprio; prazo regimental (5 dias em regra);\nsubsidiária; distinta de MS e reclamação constitucional."
+description: "Usar para redigir ou revisar: Correição Parcial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Correição Parcial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza jurídica
 

@@ -5,8 +5,8 @@ title: "Spin-off e Cisão (estruturação societária e fiscal)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/spin-off-cisao-estruturacao.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/spin-off-cisao-estruturacao/SKILL.md"
 triggers:
   - "spin-off"
   - "split-off"
@@ -15,10 +15,15 @@ triggers:
   - "separação societária"
   - "segregação de ativos"
   - "LSA 229 cisão"
-description: "Spin-off e cisão (LSA 229 + CC 1.113 + Lei 9.249/95 art. 21):\ncisão parcial vs total, sucessão de obrigações (LSA 233), transferência\nfiscal de prejuízos, ágio (Lei 12.973/14), aprovações regulatórias\n(CADE, BACEN, CVM, ANS), direito de recesso (LSA 137) e impactos\ntrabalhista, tributário e contratual."
+description: "Usar para pesquisar ou analisar: Spin-off e Cisão (estruturação societária e fiscal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Spin-off e Cisão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

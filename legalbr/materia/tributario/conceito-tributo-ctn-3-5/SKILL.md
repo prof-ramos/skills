@@ -5,8 +5,8 @@ title: "Conceito de Tributo + Classificações (CTN 3-5 + CF 145 + teoria pentap
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/conceito-tributo-ctn-3-5.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/conceito-tributo-ctn-3-5/SKILL.md"
 triggers:
   - "conceito de tributo"
   - "CTN 3"
@@ -20,10 +20,15 @@ triggers:
   - "COSIP CF 149-A"
   - "Súm. 545 STF"
   - "pecunia non olet"
-description: "CTN 3 conceito: prestação PECUNIÁRIA + COMPULSÓRIA + em moeda\n+ NÃO sanção + lei + atividade VINCULADA; CTN 4 irrelevante\ndenominação/destinação (mitigado p/ contribuições); CTN 5 + CF\n145 TRIPARTIÇÃO (impostos + taxas + contribuições melhoria); STF\nRE 146.733 + ADI 447 teoria PENTAPARTIDA (+ empréstimos compulsórios\nCF 148 + contribuições especiais CF 149 + COSIP 149-A); Súm. 545 STF."
+description: "Usar para pesquisar ou analisar: Conceito de Tributo + Classificações (CTN 3-5 + CF 145 + teoria pentapartida). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conceito de Tributo + Classificações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN art. 3: DEFINIÇÃO
 

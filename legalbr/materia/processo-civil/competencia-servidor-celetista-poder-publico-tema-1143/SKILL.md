@@ -5,8 +5,8 @@ title: "Competência: Servidor Celetista contra Poder Público (Tema 1.143 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-servidor-celetista-poder-publico-tema-1143.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-servidor-celetista-poder-publico-tema-1143/SKILL.md"
 triggers:
   - "Tema 1.143 STF"
   - "servidor celetista Poder Público"
@@ -15,10 +15,15 @@ triggers:
   - "Justiça do Trabalho competência"
   - "prestação administrativa servidor"
   - "vínculo CLT ente público"
-description: "Tema 1.143 STF (RE 1.288.440, 03/07/2023): COMPETÊNCIA da\nJUSTIÇA COMUM para ações de servidor celetista contra o\nPoder Público quando se pleitear PRESTAÇÃO DE NATUREZA\nADMINISTRATIVA (ex.: gratificações, paridade, transposição).\nJustiça do Trabalho mantém competência para verbas\nestritamente trabalhistas. CF 114 + 109 I."
+description: "Usar para pesquisar ou analisar: Competência: Servidor Celetista contra Poder Público (Tema 1.143 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência: Servidor Celetista x Poder Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

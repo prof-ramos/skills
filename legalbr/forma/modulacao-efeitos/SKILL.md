@@ -5,8 +5,8 @@ title: "Pedido de Modulação de Efeitos"
 category: "forma"
 materia: null
 documentType: "modulacao-efeitos"
-version: 4
-sourcePath: "lib/skills/official/forma/modulacao-efeitos.md"
+version: 2
+sourcePath: "legalbr/forma/modulacao-efeitos/SKILL.md"
 triggers:
   - "modulação de efeitos"
   - "modulação temporal"
@@ -18,10 +18,15 @@ triggers:
   - "virada jurisprudencial"
   - "Tema 881 Tema 885"
   - "modulação por segurança jurídica"
-description: "Pedido de modulação de efeitos em controle concentrado (Lei 9.868\nart. 27 + Lei 9.882 art. 11: quórum de 2/3, segurança jurídica ou\nexcepcional interesse social) e em alteração de jurisprudência\ndominante (CPC 927 §3: maioria absoluta; segurança jurídica ou\ninteresse social). Aplicação em RE com repercussão geral, repetitivos,\nIRDR. Tema 69 (PIS/COFINS), Temas 881/885 (coisa julgada tributária),\nTema 1.245 STJ (rescisória). Pedido autônomo ou em ED."
+description: "Usar para redigir ou revisar: Pedido de Modulação de Efeitos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Modulação de Efeitos
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Taxas Estaduais de Combate a Incêndios (Tema 1.282 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/taxas-combate-incendio-tema-1282.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/taxas-combate-incendio-tema-1282/SKILL.md"
 triggers:
   - "Tema 1.282 STF"
   - "taxa combate incêndio"
@@ -16,10 +16,15 @@ triggers:
   - "segurança pública taxa"
   - "taxa específica divisível"
   - "serviço uti universi"
-description: "Tema 1.282 STF (RE 1.417.155, 26/03/2025): São CONSTITUCIONAIS\nas taxas estaduais pela utilização, efetiva ou potencial, dos\nserviços de prevenção e combate a incêndios, busca, salvamento\nou resgate prestados pelos corpos de bombeiros militares,\nserviços considerados específicos e divisíveis (CF 145 II).\nInconstitucional apenas a taxa de vistoria veicular (usurpa\ncompetência federal sobre trânsito). CF 144 V + 145 II + Súm. 545 STF."
+description: "Usar para pesquisar ou analisar: Taxas Estaduais de Combate a Incêndios (Tema 1.282 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taxas Estaduais de Combate a Incêndios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

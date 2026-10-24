@@ -5,8 +5,8 @@ title: "Cessão de Crédito (CC 286-298)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/cessao-credito.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/cessao-credito/SKILL.md"
 triggers:
   - "cessão de crédito"
   - "CC 286"
@@ -22,10 +22,15 @@ triggers:
   - "securitização"
   - "fundo de investimento em direitos creditórios"
   - "cessão fiduciária crédito"
-description: "Cessão de crédito (CC 286-298): transferência independe de\nanuência do devedor; notificação para eficácia (290); pro\nsoluto x pro solvendo (295/296); oponibilidade de exceções."
+description: "Usar para pesquisar ou analisar: Cessão de Crédito (CC 286-298). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cessão de Crédito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

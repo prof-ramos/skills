@@ -5,8 +5,8 @@ title: "Prazos Processuais Trabalhistas (CLT 775 + 775-A)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/prazos-trabalhistas-clt-775.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/prazos-trabalhistas-clt-775/SKILL.md"
 triggers:
   - "prazos trabalhistas"
   - "CLT 775"
@@ -15,10 +15,15 @@ triggers:
   - "suspensão de prazos"
   - "prazo em dobro"
   - "recesso forense trabalhista"
-description: "Prazos processuais trabalhistas (CLT 775 e 775-A, Reforma 13.467):\ncontagem em DIAS ÚTEIS (alinhamento ao CPC); recesso forense 20/12 a\n20/01 (775-A); termo inicial = dia útil seguinte à intimação;\nprerrogativas da Fazenda (775 §1); aplicação subsidiária do CPC."
+description: "Usar para pesquisar ou analisar: Prazos Processuais Trabalhistas (CLT 775 + 775-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prazos Processuais Trabalhistas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

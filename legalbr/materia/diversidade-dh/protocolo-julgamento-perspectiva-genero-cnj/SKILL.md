@@ -5,8 +5,8 @@ title: "Protocolo de Julgamento com Perspectiva de Gênero (Res. CNJ 492/2023)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/protocolo-julgamento-perspectiva-genero-cnj.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/protocolo-julgamento-perspectiva-genero-cnj/SKILL.md"
 triggers:
   - "protocolo gênero"
   - "perspectiva de gênero"
@@ -17,10 +17,15 @@ triggers:
   - "ADPF 779"
   - "protocolo perspectiva racial"
   - "Resolução CNJ 535"
-description: "Protocolo CNJ para Julgamento com Perspectiva de Gênero (Res.\n492/2023) + Protocolo Perspectiva Racial (Res. 535/2023): aplicação\nOBRIGATÓRIA em todos os ramos do Judiciário; combate a vieses\n(estereótipos, neutralidade falsa, descredibilização da vítima);\nbase CEDAW + Belém do Pará + Maria da Penha; interseccionalidade;\nADPF 779 (vedação à legítima defesa da honra); Lei Mariana Ferrer\n(14.245/2021); aplica-se a penal, família, trabalho, eleitoral,\nprevidenciário."
+description: "Usar para pesquisar ou analisar: Protocolo de Julgamento com Perspectiva de Gênero (Res. CNJ 492/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Protocolo de Julgamento com Perspectiva de Gênero
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

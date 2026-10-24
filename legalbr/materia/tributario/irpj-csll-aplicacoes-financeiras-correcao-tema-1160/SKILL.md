@@ -5,8 +5,8 @@ title: "IRPJ/CSLL sobre Correção Monetária de Aplicações Financeiras (Temas
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpj-csll-aplicacoes-financeiras-correcao-tema-1160.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpj-csll-aplicacoes-financeiras-correcao-tema-1160/SKILL.md"
 triggers:
   - "Tema 1.160 STJ"
   - "correção monetária de aplicações financeiras"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 262 STJ cooperativas"
   - "inflação base de cálculo imposto de renda"
   - "receitas financeiras lucro operacional"
-description: "Tributação de rendimentos e correção monetária de aplicações financeiras de PJ:\nTema 1.160 STJ (IR e CSLL incidem sobre a correção monetária das aplicações),\nTema 162 (tributação isolada da renda fixa, Lei 8.541/92), Tema 240 e Súm. 262\n(cooperativas) e distinção com os Temas 808 e 962 STF (juros de mora e Selic)."
+description: "Usar para pesquisar ou analisar: IRPJ/CSLL sobre Correção Monetária de Aplicações Financeiras (Temas 1.160, 162 e 240 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPJ/CSLL sobre Rendimentos e Correção Monetária de Aplicações Financeiras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

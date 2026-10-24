@@ -5,8 +5,8 @@ title: "Súmula Vinculante 6, Praça Militar Inicial e Salário Mínimo (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/sumula-vinculante-6-praca-militar-inicial.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-6-praca-militar-inicial/SKILL.md"
 triggers:
   - "Súmula Vinculante 6"
   - "SV 6"
@@ -18,10 +18,15 @@ triggers:
   - "RE 570.177"
   - "militar Forças Armadas"
   - "regime jurídico militar"
-description: "SV 6 STF (07/05/2008): \"Não viola a Constituição o estabelecimento\nde remuneração inferior ao salário mínimo para as praças\nprestadoras de serviço militar inicial\"; CF 142 §3 VIII +\nCF 143; RE 570.177 (Tema 15 RG); regime militar é próprio +\ngarantia do mínimo do art. 7 IV não foi estendida aos militares\npela Constituição; aplica apenas a conscritos e praças em fase\ninicial."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 6, Praça Militar Inicial e Salário Mínimo (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 6, Praça Militar Inicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

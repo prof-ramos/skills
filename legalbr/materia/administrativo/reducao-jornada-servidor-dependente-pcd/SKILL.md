@@ -5,8 +5,8 @@ title: "Horário Especial e Redução de Jornada para Servidor com Dependente Pc
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/reducao-jornada-servidor-dependente-pcd.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/reducao-jornada-servidor-dependente-pcd/SKILL.md"
 triggers:
   - "horário especial servidor"
   - "redução de jornada servidor"
@@ -19,10 +19,15 @@ triggers:
   - "servidor pai de autista"
   - "Convenção de Nova York deficiência"
   - "jornada reduzida sem compensação"
-description: "Horário especial da Lei 8.112 art. 98 §§2-3 (redação da Lei 13.370/2016):\nredução de jornada sem compensação e sem corte remuneratório ao servidor com\ndeficiência ou com cônjuge, filho ou dependente PcD; Tema 1.097 STF estende\no regime a servidores estaduais e municipais; espinha na Convenção de Nova\nYork (CF 5 §3, Decreto 6.949/2009) e na LBI (Lei 13.146/2015)."
+description: "Usar para pesquisar ou analisar: Horário Especial e Redução de Jornada para Servidor com Dependente PcD (Lei 8.112 art. 98 + Tema 1.097 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Horário Especial do Servidor com Dependente com Deficiência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "ITCMD (CF 155 I + EC 132/2023 + Tema 825 STF + LC 227/2026)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/itcmd-cf-155-i-tema-825.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itcmd-cf-155-i-tema-825/SKILL.md"
 triggers:
   - "ITCMD"
   - "CF 155 I"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 113 STF"
   - "Súm. 114 STF"
   - "ITCMD exterior"
-description: "ITCMD CF 155 I Estados/DF (causa mortis + doação); alíquota máx\n8% Resolução Senado 9/1992 (debate elevar 16%); EC 132/2023\nPROGRESSIVIDADE OBRIGATÓRIA (CF 155 §1 VI); competência §1 I\nimóveis-situação + II móveis-domicílio; Tema 825 STF (RE 851.108:\nbens NO EXTERIOR EXIGEM LC); LC 227/2026 (Livro II) instituiu as\nnormas gerais do ITCMD, inclusive transmissões com elemento no\nexterior; Súm. 112/113/114 STF + Súm. 590 STF."
+description: "Usar para pesquisar ou analisar: ITCMD (CF 155 I + EC 132/2023 + Tema 825 STF + LC 227/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITCMD
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 155 I
 

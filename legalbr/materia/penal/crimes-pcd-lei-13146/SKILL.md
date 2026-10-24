@@ -5,8 +5,8 @@ title: "Crimes contra Pessoa com Deficiência (Lei 13.146/2015, LBI)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-pcd-lei-13146.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-pcd-lei-13146/SKILL.md"
 triggers:
   - "LBI"
   - "Lei 13.146"
@@ -17,10 +17,15 @@ triggers:
   - "art. 90 LBI"
   - "art. 91 LBI"
   - "discriminação por deficiência"
-description: "Lei 13.146/2015 (Lei Brasileira de Inclusão, LBI): crimes art.\n88 (DISCRIMINAÇÃO por deficiência, recl. 1-3 + multa); art. 89\n(APROPRIAÇÃO/desvio bens/proventos, recl. 1-4 + multa); art.\n90 (ABANDONO em hospital/abrigamento, recl. 6m-3 + multa); art.\n91 (RETER cartão magnético/documentos, det. 6m-2 + multa).\nAÇÃO pública INCONDICIONADA. Causas de aumento (1/3) para\nagente cuidador. CF 5 §3 + Convenção ONU status constitucional."
+description: "Usar para pesquisar ou analisar: Crimes contra Pessoa com Deficiência (Lei 13.146/2015, LBI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra Pessoa com Deficiência (LBI)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.146/2015: fundamentos
 

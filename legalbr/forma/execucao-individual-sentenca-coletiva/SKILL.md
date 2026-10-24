@@ -5,8 +5,8 @@ title: "Execução Individual de Sentença Coletiva (forma)"
 category: "forma"
 materia: null
 documentType: "execucao-individual-sentenca-coletiva"
-version: 1
-sourcePath: "lib/skills/official/forma/execucao-individual-sentenca-coletiva.md"
+version: 2
+sourcePath: "legalbr/forma/execucao-individual-sentenca-coletiva/SKILL.md"
 triggers:
   - "execução individual de sentença coletiva"
   - "habilitação ACP"
@@ -14,10 +14,15 @@ triggers:
   - "liquidação individual coletiva"
   - "poupança planos econômicos"
   - "habilitar consumidor sentença coletiva"
-description: "Petição de execução/liquidação individual de sentença coletiva (LACP +\nCDC 97-100): demonstração de TITULARIDADE, cópia da sentença coletiva\ncom trânsito, planilha do quantum, foro do beneficiário (Tema 480 STJ),\nprescrição quinquenal do trânsito (Súm. 150 STF + Tema 877 STJ),\nhonorários (Súm. 345: Fazenda). Para o BENEFICIÁRIO individual\nhabilitar-se a sentença genérica do CDC 95."
+description: "Usar para redigir ou revisar: Execução Individual de Sentença Coletiva (forma). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Individual de Sentença Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

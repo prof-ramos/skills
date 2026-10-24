@@ -5,8 +5,8 @@ title: "População em Situação de Rua (PNPSR, Dec. 7.053/2009)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/populacao-rua-pnpsr-dec-7053.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/populacao-rua-pnpsr-dec-7053/SKILL.md"
 triggers:
   - "população em situação de rua"
   - "PNPSR"
@@ -18,10 +18,15 @@ triggers:
   - "Sistema Único de Assistência Social"
   - "Lei 8.742 LOAS"
   - "moradia primeiro"
-description: "Política Nacional para População em Situação de Rua (PNPSR, Dec.\n7.053/2009) + Princípios e Diretrizes para Política Nacional (PL\n3.124/2008 → marco legal pendente); STF ADPF 976 (2023) declarou\ninconstitucional recolhimento compulsório + estabeleceu marcos\nprotetivos; vedação à criminalização da pobreza; acesso PRIORITÁRIO\nao SUAS, SUS, BPC; CRAS/CREAS/Centro POP; documentação;\ntutela coletiva pela DP (LC 80 art. 4 XI)."
+description: "Usar para pesquisar ou analisar: População em Situação de Rua (PNPSR, Dec. 7.053/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # População em Situação de Rua
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

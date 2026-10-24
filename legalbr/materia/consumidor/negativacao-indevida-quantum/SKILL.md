@@ -5,8 +5,8 @@ title: "Negativação Indevida: Dano Moral e Quantum (CDC 43 + Súms. STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/negativacao-indevida-quantum.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/negativacao-indevida-quantum/SKILL.md"
 triggers:
   - "negativação indevida"
   - "SPC"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 404 STJ"
   - "manutenção pós-pagamento"
   - "cancelamento de cadastro"
-description: "Negativação indevida em cadastros restritivos (SPC, Serasa,\nBoa Vista, Cadin) sob CDC 43 + súmulas STJ: dano moral in re\nipsa quando a inscrição é indevida (Súm. 385: exceto se houver\noutra inscrição legítima preexistente); comunicação prévia\nobrigatória (Súm. 359); dispensa de AR (Súm. 404); prazo máximo\nde 5 anos (CDC 43 §1); quantum compensatório-pedagógico."
+description: "Usar para pesquisar ou analisar: Negativação Indevida: Dano Moral e Quantum (CDC 43 + Súms. STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Negativação Indevida: Dano Moral e Quantum
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

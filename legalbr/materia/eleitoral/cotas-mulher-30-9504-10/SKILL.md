@@ -6,7 +6,7 @@ category: "materia"
 materia: "eleitoral"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/eleitoral/cotas-mulher-30-9504-10.md"
+sourcePath: "legalbr/materia/eleitoral/cotas-mulher-30-9504-10/SKILL.md"
 triggers:
   - "cotas de gênero"
   - "30% mulheres candidaturas"
@@ -22,10 +22,15 @@ triggers:
   - "piso racial fundo eleitoral"
   - "financiamento campanha feminina"
   - "passivo cota racial eleições"
-description: "Cotas eleitorais de gênero: 30% a 70% das candidaturas proporcionais, fraude, recursos e propaganda; voto em dobro da EC 111/2021 e aplicação de 30% dos fundos a candidaturas pretas e pardas pela EC 133/2024."
+description: "Usar para pesquisar ou analisar: Cotas de Gênero: 30% Mulheres (Lei 9.504 art. 10 §3 + ADI 5617). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cotas de Gênero
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

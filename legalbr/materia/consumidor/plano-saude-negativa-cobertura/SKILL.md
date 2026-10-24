@@ -6,7 +6,7 @@ category: "materia"
 materia: "consumidor"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-saude-negativa-cobertura.md"
+sourcePath: "legalbr/materia/consumidor/plano-saude-negativa-cobertura/SKILL.md"
 triggers:
   - "negativa de cobertura"
   - "recusa de cobertura assistencial"
@@ -23,10 +23,15 @@ triggers:
   - "plano de saúde antigo não adaptado"
   - "ADI 1.931"
   - "adaptação de plano de saúde"
-description: "Negativa de cobertura por plano de saúde sob Lei 9.656/1998 +\nLei 14.454/2022 + ADI 7.265/STF (rol ANS: taxatividade mitigada,\n5 requisitos cumulativos) + súmulas STJ: dever de cobrir tratamento\nmédico indicado (off-label se medicamento registrado); urgência/\nemergência cobertura imediata (24h carência); inversão do ônus;\ndano moral não presumido na simples recusa, salvo risco/urgência\n(Tema 1.365); tutela antecipada. Inclui planos antigos não adaptados\n(Tema 123 STF + ADI 1.931): Lei 9.656 inaplicável, CDC como piso."
+description: "Usar para pesquisar ou analisar: Plano de Saúde: Negativa de Cobertura (Lei 9.656 + Súms.). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde: Negativa de Cobertura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Procedimento Ordinário + AIJ (CPP 394-405 + HC 127.900 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/procedimento-ordinario-cpp-394.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/procedimento-ordinario-cpp-394/SKILL.md"
 triggers:
   - "procedimento ordinário"
   - "CPP 394"
@@ -20,10 +20,15 @@ triggers:
   - "HC 127.900 STF"
   - "Tema 1.114 STJ"
   - "interrogatório por último"
-description: "Procedimento comum: ORDINÁRIO ≥ 4a / SUMÁRIO < 4a / SUMARÍSSIMO\nLei 9.099; CPP 396-A resposta à acusação (10d + 8 testemunhas);\nCPP 397 absolvição sumária (4 hipóteses); CPP 400 AIJ ORDEM\nRÍGIDA (interrogatório por ÚLTIMO, HC 127.900 STF, estendido\na Drogas + adolescente Tema 1.269 STJ); CPP 403 alegações\norais 20min ou memoriais escritos 5d se complexo (defesa por\núltimo)."
+description: "Usar para pesquisar ou analisar: Procedimento Ordinário + AIJ (CPP 394-405 + HC 127.900 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procedimento Comum Ordinário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 394: classificação
 

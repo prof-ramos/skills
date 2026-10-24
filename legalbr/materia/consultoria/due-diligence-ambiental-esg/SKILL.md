@@ -6,7 +6,7 @@ category: "materia"
 materia: "consultoria"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/due-diligence-ambiental-esg.md"
+sourcePath: "legalbr/materia/consultoria/due-diligence-ambiental-esg/SKILL.md"
 triggers:
   - "due diligence ambiental"
   - "DD ambiental"
@@ -18,10 +18,15 @@ triggers:
   - "CSRD ISSB"
   - "Lei 15.042 mercado de carbono"
   - "obrigação propter rem ambiental"
-description: "Due diligence de licenças, áreas contaminadas, passivos e reporte ESG. Inclui riscos de SBCE, SAF, CCUS e hidrogênio, com checagem de autorizações e prevenção de dupla contagem ambiental."
+description: "Usar para pesquisar ou analisar: Due Diligence Ambiental e ESG (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence Ambiental e ESG
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Licenciamento (Resolução CONAMA 237/97 + Lei Geral LC 140/11)
 

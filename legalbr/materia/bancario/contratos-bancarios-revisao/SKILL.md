@@ -5,8 +5,8 @@ title: "Contratos Bancários e Revisão Judicial (panorama do microssistema)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/contratos-bancarios-revisao.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/contratos-bancarios-revisao/SKILL.md"
 triggers:
   - "revisão de contrato bancário"
   - "ação revisional bancária"
@@ -19,10 +19,15 @@ triggers:
   - "ônus probatório abusividade"
   - "Tema 246 STJ"
   - "encargos moratórios bancários"
-description: "Panorama do microssistema de revisão de contratos bancários (CDC +\nLei 4.595/64 + CC): comissão de permanência sem cumulação (Súms. 472/296/30);\nonerosidade excessiva (CC 478); ônus probatório da abusividade a cargo do\nautor (Temas 24-27); vedação à revisão de ofício (Súm. 381); devolução\nem dobro independe de má-fé para cobranças pós-30/03/2021, bastando\nviolação da boa-fé objetiva (EAREsp 676.608, Corte Especial). Roteia para\nskills específicas de juros (juros-bancarios-abusividade, Temas 24-27),\ncapitalização (Temas 246/247) e tarifas."
+description: "Usar para pesquisar ou analisar: Contratos Bancários e Revisão Judicial (panorama do microssistema). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos Bancários + Revisão Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Microssistema aplicável
 

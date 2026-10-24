@@ -5,8 +5,8 @@ title: "Pedido de Remissão (ECA)"
 category: "forma"
 materia: null
 documentType: "remissao-eca"
-version: 1
-sourcePath: "lib/skills/official/forma/pedido-remissao-eca.md"
+version: 2
+sourcePath: "legalbr/forma/pedido-remissao-eca/SKILL.md"
 triggers:
   - "remissão ECA"
   - "art. 126 ECA"
@@ -15,10 +15,15 @@ triggers:
   - "remissão pré-processual"
   - "remissão judicial"
   - "Súm. 108 STJ"
-description: "Remissão (ECA arts. 126-128): pré-processual (MP) ou judicial (juiz);\npode ser PURA (sem medida), com EXCLUSÃO do processo, ou cumulada\ncom medida em meio aberto; NUNCA com semiliberdade ou internação\n(art. 127); pré-processual exige homologação judicial (Súm. 108\nSTJ); não implica reconhecimento de autoria/responsabilidade; não\ngera antecedentes; cabe ao defensor + adolescente concordar."
+description: "Usar para redigir ou revisar: Pedido de Remissão (ECA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Remissão (ECA)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

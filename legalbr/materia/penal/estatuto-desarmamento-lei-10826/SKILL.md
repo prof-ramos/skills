@@ -5,8 +5,8 @@ title: "Estatuto do Desarmamento (Lei 10.826/2003 + Decretos 2023-2024)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/estatuto-desarmamento-lei-10826.md"
+version: 2
+sourcePath: "legalbr/materia/penal/estatuto-desarmamento-lei-10826/SKILL.md"
 triggers:
   - "Estatuto do Desarmamento"
   - "Lei 10.826/2003"
@@ -21,10 +21,15 @@ triggers:
   - "insignificância porte arma"
   - "Decreto 11.615/2023"
   - "CAC colecionador atirador caçador"
-description: "Estatuto do Desarmamento (Lei 10.826/2003) + Anticrime + Decreto\n11.615/2023: art. 12 posse (det. 1-3), 14 porte (recl. 2-4), 16\ncaput uso restrito (recl. 3-6), 16 §2 uso proibido (recl. 4-12,\nhediondo), 17 (recl. 6-12) e 18 (recl. 8-16); arma de uso permitido\ncom numeração raspada é típica no art. 16 §1 IV mas NÃO é hediondo\n(Súm. 668 STJ); arma desmontada/sem munição típica (perigo abstrato,\nSTF/STJ); em regra sem insignificância (STJ); Tema 1.259 STJ (nexo\ncom tráfico: absorção ou concurso material); limites de acervo CAC\npor nível (Decreto 11.615/2023 art. 36)."
+description: "Usar para pesquisar ou analisar: Estatuto do Desarmamento (Lei 10.826/2003 + Decretos 2023-2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto do Desarmamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal central: Lei 10.826/2003
 

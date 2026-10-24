@@ -5,8 +5,8 @@ title: "Denunciação Caluniosa (CP 339 + Lei 10.028/2000)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/denunciacao-caluniosa-cp-339.md"
+version: 2
+sourcePath: "legalbr/materia/penal/denunciacao-caluniosa-cp-339/SKILL.md"
 triggers:
   - "denunciação caluniosa"
   - "CP 339"
@@ -17,10 +17,15 @@ triggers:
   - "CP 341"
   - "dolo direto"
   - "Inf. 656 STJ"
-description: "Denunciação caluniosa sob CP 339 + Lei 10.028/2000: dar causa à\ninstauração de investigação policial/processo judicial/administrativa/\ninquérito civil/ação de improbidade imputando crime que SABE\ninocente, recl. 2-8; exige DOLO DIRETO (STJ); §1 aumento 1/6\n(anonimato); §2 redução 1/2 (contravenção); AP pública incond.;\nespecialidade absorve calúnia (CP 138)."
+description: "Usar para pesquisar ou analisar: Denunciação Caluniosa (CP 339 + Lei 10.028/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denunciação Caluniosa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal (CP 339, red. Lei 10.028/2000)
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "diversidade-dh"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/diversidade-dh/eca-protecao-integral-medidas.md"
+sourcePath: "legalbr/materia/diversidade-dh/eca-protecao-integral-medidas/SKILL.md"
 triggers:
   - "ECA"
   - "Lei 8.069/90"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 13.715 perda do poder familiar"
   - "Lei 15.450 psicofármacos"
   - "campanha educativa psicofármacos ECA"
-description: "ECA e proteção integral: Lei 8.069/1990 e SINASE (Lei 12.594/2012); prioridade absoluta; ato infracional e medidas socioeducativas, internação, adoção, poder familiar, Lei 14.811/2024 e campanhas sobre psicofármacos (Lei 15.450/2026)."
+description: "Usar para pesquisar ou analisar: ECA: Proteção Integral + Medidas Socioeducativas (Lei 8.069/90 + SINASE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ECA: Proteção Integral + Medidas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Princípios estruturantes
 

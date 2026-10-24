@@ -5,8 +5,8 @@ title: "Receptação (CP 180 + Lei 9.426/96)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/receptacao-cp-180.md"
+version: 2
+sourcePath: "legalbr/materia/penal/receptacao-cp-180/SKILL.md"
 triggers:
   - "receptação"
   - "CP 180"
@@ -17,10 +17,15 @@ triggers:
   - "receptação de fios e cabos"
   - "receptação de animal"
   - "posse injustificada"
-description: "Receptação sob CP 180: caput dolosa (recl. 2-6 + multa, Lei\n15.397/2026, \"sabe\"), §1 qualificada (3-8, \"deve saber\" em\natividade comercial/industrial), §3 culposa (1m-1a), §4 punível\nainda que autor antecedente desconhecido, §5 REVOGADO (Lei\n15.358/2026), §6 dobro coisa pública, §7 dobro fios/cabos/cargas\n(Lei 15.181/2025), §8 aumento 2/3 facção (Lei 15.358/2026);\nCP 180-A animal (3-8); §1 admite dolo eventual (STF/STJ)."
+description: "Usar para pesquisar ou analisar: Receptação (CP 180 + Lei 9.426/96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Receptação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura típica
 

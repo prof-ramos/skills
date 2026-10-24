@@ -5,8 +5,8 @@ title: "Retificação de Registro Civil"
 category: "forma"
 materia: null
 documentType: "retificacao-registro-civil"
-version: 1
-sourcePath: "lib/skills/official/forma/retificacao-registro-civil.md"
+version: 2
+sourcePath: "legalbr/forma/retificacao-registro-civil/SKILL.md"
 triggers:
   - "retificação de registro civil"
   - "retificação prenome"
@@ -19,10 +19,15 @@ triggers:
   - "LRP 109"
   - "alteração imotivada de prenome"
   - "LRP 57 sobrenome"
-description: "Retificação de registro civil (LRP 109-110 + Lei 14.382/2022 +\nProvimento CNJ 149/2023): EXTRAJUDICIAL no cartório de origem\npara vício formal ou pessoa trans (independente de cirurgia +\nlaudo psiquiátrico + autorização judicial: ADI 4275; Prov. CNJ\n73/2018 unificado pelo 149/2023); alteração IMOTIVADA do\nprenome pelo maior de idade (LRP 56, 1 vez) + rol extrajudicial\nde sobrenomes (LRP 57); JUDICIAL quando complexa,\ncontrovertida, multiparental, indígena ou afetar terceiro;\ngratuita à hipossuficiente."
+description: "Usar para redigir ou revisar: Retificação de Registro Civil. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Retificação de Registro Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "ADIs 7066 + 7070 + 7078: DIFAL ICMS e EC 87/2015"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/adi-7066-difal-icms.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/adi-7066-difal-icms/SKILL.md"
 triggers:
   - "ADI 7066"
   - "ADI 7070"
@@ -17,10 +17,15 @@ triggers:
   - "anterioridade nonagesimal"
   - "comércio eletrônico ICMS"
   - "destino consumo"
-description: "ADIs 7066 + 7070 + 7078 (Alexandre de Moraes, 29/11/2023):\npor maioria validaram a cobrança do DIFAL-ICMS pela LC\n190/2022 a partir de 2022 (anterioridade nonagesimal). Tese:\nLC 190 inovou regramento (não somente regulamentou); EC\n87/2015 + Tema 1093; respeita CF 150 III \"c\"."
+description: "Usar para pesquisar ou analisar: ADIs 7066 + 7070 + 7078: DIFAL ICMS e EC 87/2015. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADIs 7066/7070/7078: DIFAL
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

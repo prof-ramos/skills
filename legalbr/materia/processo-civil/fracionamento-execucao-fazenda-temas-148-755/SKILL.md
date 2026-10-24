@@ -5,8 +5,8 @@ title: "Fracionamento da Execução contra a Fazenda: RPV Individual, Complement
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/fracionamento-execucao-fazenda-temas-148-755.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/fracionamento-execucao-fazenda-temas-148-755/SKILL.md"
 triggers:
   - "fracionamento da execução contra a Fazenda"
   - "CF 100 §8"
@@ -20,10 +20,15 @@ triggers:
   - "RPV individual litisconsórcio"
   - "execução individual de sentença coletiva contra a Fazenda"
   - "renúncia ao valor excedente RPV"
-description: "Vedação de fracionamento da execução contra a Fazenda (CF 100 §8) e\nseus limites: Tema 148 STF (litisconsórcio facultativo: créditos\nindividualizados, RPV por credor), Tema 873 STF (execução individual\nde sentença coletiva não viola o §8), Tema 1.317 STF (substituto\nprocessual), Tema 755 STF (vedado o complemento positivo antes do\ntrânsito) e Tema 1.360 STF (precatório complementar só por erro\nmaterial, inexatidão aritmética ou troca normativa de índice)."
+description: "Usar para pesquisar ou analisar: Fracionamento da Execução contra a Fazenda: RPV Individual, Complemento Positivo e Precatório Complementar (Temas 148/755/873/1.360 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fracionamento da Execução contra a Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional (CF 100)
 

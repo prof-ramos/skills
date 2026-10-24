@@ -5,8 +5,8 @@ title: "Exibição de Documento ou Coisa (CPC 396-404)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/exibicao-documento-cpc-396.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/exibicao-documento-cpc-396/SKILL.md"
 triggers:
   - "exibicao de documento"
   - "CPC 396"
@@ -18,10 +18,15 @@ triggers:
   - "busca apreensao documento"
   - "Sum 372 STJ"
   - "Sum 389 STJ"
-description: "Exibição de documento ou coisa (CPC 396-404): incidente contra a\nparte (CPC 396-400, recusa injusta gera presunção de veracidade)\ne exibição contra terceiro (CPC 401-403, depósito + apreensão);\nSúm. 372 STJ (sem multa cominatória) mitigada pelo Tema 1.000 STJ\n(multa do CPC 400 par. único após medida coercitiva frustrada);\nSúm. 389 STJ (procedibilidade contra S/A); escusas do CPC 404."
+description: "Usar para pesquisar ou analisar: Exibição de Documento ou Coisa (CPC 396-404). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exibição de Documento ou Coisa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Sistemática CPC/2015
 

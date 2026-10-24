@@ -5,8 +5,8 @@ title: "Crimes Cibernéticos (Lei 12.737 + Lei 14.155 + Convenção de Budapeste
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/crime-cibernetico-budapeste-lei-14155.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crime-cibernetico-budapeste-lei-14155/SKILL.md"
 triggers:
   - "Lei 14.155"
   - "Lei 12.737"
@@ -18,10 +18,15 @@ triggers:
   - "fraude eletrônica"
   - "CP 171 §2-A"
   - "Convenção Budapeste cibercrimes"
-description: "Crimes cibernéticos — **Lei 12.737/2012** (Carolina Dieckmann) +\n**Lei 14.155/2021** (penas mais severas). **CP 154-A** (invasão de\ndispositivo informático): reclusão **1-4 anos** + multa; **2-5\nanos** se obtenção de conteúdo privado/segredo/controle remoto não\nautorizado. **CP 155 §4-B** (furto qualificado eletrônico):\nreclusão **4-8 anos** + multa. **CP 171 §2-A** (fraude eletrônica):\nreclusão **4-8 anos** + multa. Brasil **adere à Convenção de\nBudapeste** (2023 — Dec. 11.491). Crimes correlatos: pornografia\ninfantil (ECA 241), violação de sigilo (CP 154), violação de\ndireitos autorais. Competência: JF (CF 109 V) ou estadual conforme\ncaso."
+description: "Usar para pesquisar ou analisar: Crimes Cibernéticos (Lei 12.737 + Lei 14.155 + Convenção de Budapeste). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Cibernéticos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

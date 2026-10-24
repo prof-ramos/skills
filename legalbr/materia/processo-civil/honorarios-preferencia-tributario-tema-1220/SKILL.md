@@ -5,8 +5,8 @@ title: "Preferência dos Honorários sobre Crédito Tributário"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-preferencia-tributario-tema-1220.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-preferencia-tributario-tema-1220/SKILL.md"
 triggers:
   - "Tema 1.220 STF"
   - "art. 85 §14 CPC"
@@ -18,10 +18,15 @@ triggers:
   - "concurso credores honorários"
   - "falência honorários"
   - "execução fiscal honorários"
-description: "Tema 1.220 STF (RE 1.326.559, sessão virtual encerrada 28/03/2025):\nart. 85 §14 CPC é FORMALMENTE CONSTITUCIONAL. Honorários\n(contratuais E sucumbenciais) têm preferência sobre crédito\ntributário (equiparação a crédito trabalhista, art. 186 CTN). Por\nmaioria, a Corte REJEITOU limite quantitativo e a modulação\nprotetiva propostos pelos vencidos. Aplica-se a qualquer concurso\nde credores (falência, execução fiscal, etc.)."
+description: "Usar para pesquisar ou analisar: Preferência dos Honorários sobre Crédito Tributário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Preferência dos Honorários sobre Crédito Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Alienação Fiduciária de Imóvel (Lei 9.514/1997 + Lei 14.711/2023 LAC
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/alienacao-fiduciaria-imovel-lei-9514.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/alienacao-fiduciaria-imovel-lei-9514/SKILL.md"
 triggers:
   - "alienação fiduciária de imóvel"
   - "Lei 9.514/1997"
@@ -24,10 +24,15 @@ triggers:
   - "Tema 1.095 STJ"
   - "Tema 1.158 STJ"
   - "Súm. 308 STJ"
-description: "AF imóvel Lei 9.514/1997 + LACE 14.711/2023: contrato registrado\nno CRI transfere propriedade resolúvel ao credor; consolidação\n(art. 26) por inadimplemento + notificação 15d; leilão público\nextrajudicial (art. 27) - 1o leilão valor avaliação, 2o no minimo\ndivida; saldo devolvido; Tema 982 STJ (purga da mora antes da\narrematação); Tema 1.095 (entrega das chaves marca juros)."
+description: "Usar para pesquisar ou analisar: Alienação Fiduciária de Imóvel (Lei 9.514/1997 + Lei 14.711/2023 LACE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alienação Fiduciária de Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

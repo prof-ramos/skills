@@ -5,8 +5,8 @@ title: "Homicídio Doloso (CP 121, exceto feminicídio)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/homicidio-doloso-cp-121.md"
+version: 2
+sourcePath: "legalbr/materia/penal/homicidio-doloso-cp-121/SKILL.md"
 triggers:
   - "CP 121"
   - "homicídio doloso"
@@ -20,10 +20,15 @@ triggers:
   - "REsp 1.973.397"
   - "homicídio qualificado-privilegiado"
   - "Lei 14.811/2024"
-description: "Homicídio doloso sob CP 121 (excluído feminicídio, CP 121-A):\ncaput (recl. 6-20), §1 privilegiado (1/6-1/3, relevante valor +\nviolenta emoção), §2 qualificadoras (12-30, hediondo), §3 culposo\n(det. 1-3), §5 perdão judicial; privilégio + qualificadora\nobjetiva compatíveis (STJ/STF); REsp 1.973.397 (paga não atinge\nmandante); §2 VII ampliado (Lei 15.134/2025) + §2 X escola (Lei\n15.159/2025) + §2-B/§2-C; §2-D facção (Lei 15.358/2026); Tema\n1.394 STJ; progressão Anticrime + Leis 15.358 e 15.402/2026."
+description: "Usar para pesquisar ou analisar: Homicídio Doloso (CP 121, exceto feminicídio). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Homicídio Doloso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 121)
 

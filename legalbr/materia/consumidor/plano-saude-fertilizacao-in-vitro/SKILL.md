@@ -5,8 +5,8 @@ title: "Plano de Saúde: Fertilização in Vitro e Reprodução Assistida (Tema 
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-saude-fertilizacao-in-vitro.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-saude-fertilizacao-in-vitro/SKILL.md"
 triggers:
   - "fertilização in vitro"
   - "FIV plano de saúde"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 9.656 art. 10 III"
   - "planejamento familiar plano de saúde"
   - "congelamento de óvulos quimioterapia"
-description: "Cobertura de FIV/reprodução assistida por plano de saúde: Tema 1.067\nSTJ (salvo cláusula expressa, FIV não é de cobertura obrigatória; Lei\n9.656 art. 10 III + RN ANS 465/2021 art. 17); distinções decisivas:\nplanejamento familiar (35-C III), criopreservação preventiva na\nquimioterapia (REsp 1.815.796) e cláusula contratual de cobertura."
+description: "Usar para pesquisar ou analisar: Plano de Saúde: Fertilização in Vitro e Reprodução Assistida (Tema 1.067 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde: Fertilização in Vitro e Reprodução Assistida
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

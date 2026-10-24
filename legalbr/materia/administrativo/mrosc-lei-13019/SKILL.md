@@ -5,8 +5,8 @@ title: "MROSC, Marco Regulatório das OSCs (Lei 13.019/2014 + Dec. 8.726/2016)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/mrosc-lei-13019.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/mrosc-lei-13019/SKILL.md"
 triggers:
   - "MROSC"
   - "Lei 13.019/2014"
@@ -19,10 +19,15 @@ triggers:
   - "dispensa de chamamento"
   - "inexigibilidade de chamamento público"
   - "Dec. 8.726/2016"
-description: "MROSC (Lei 13.019/2014): regime das parcerias com OSCs (termo de\ncolaboração, fomento e acordo de cooperação); chamamento público\nobrigatório (salvo dispensa art. 30 / inexigibilidade art. 31);\nplano de trabalho; comissão de seleção/monitoramento; vedações\n(art. 39); prestação de contas em ciclos; Dec. 8.726/2016 (federal)."
+description: "Usar para pesquisar ou analisar: MROSC, Marco Regulatório das OSCs (Lei 13.019/2014 + Dec. 8.726/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MROSC, Marco Regulatório das OSCs (Lei 13.019/2014)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

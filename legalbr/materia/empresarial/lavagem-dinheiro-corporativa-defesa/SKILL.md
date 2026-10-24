@@ -5,8 +5,8 @@ title: "Lavagem de Dinheiro Corporativa: Defesa (PLD-FT, COAF)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/lavagem-dinheiro-corporativa-defesa.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/lavagem-dinheiro-corporativa-defesa/SKILL.md"
 triggers:
   - "lavagem de dinheiro"
   - "Lei 9.613"
@@ -18,10 +18,15 @@ triggers:
   - "FATF GAFI"
   - "compliance lavagem"
   - "autolavagem"
-description: "Lavagem de dinheiro com envolvimento corporativo e teses defensivas\nusualmente articuladas. Lei 9.613/98 (alterada pela Lei 12.683/12,\nque ampliou o rol de crimes antecedentes para \"qualquer infração\npenal\"). Sujeitos obrigados (PLD-FT): IFs, corretoras, seguradoras, factoring,\nimobiliárias, joalherias, contadores, advogados (com debate),\ncartórios, leiloeiros, VASP. Comunicação ao COAF. Sanções: PA BCB,\nCOAF, sanções criminais 3-10 anos. Programa de PLD-FT obrigatório.\nCoordenação interna + investigação + cooperação com autoridades."
+description: "Usar para pesquisar ou analisar: Lavagem de Dinheiro Corporativa: Defesa (PLD-FT, COAF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lavagem de Dinheiro Corporativa: Defesa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

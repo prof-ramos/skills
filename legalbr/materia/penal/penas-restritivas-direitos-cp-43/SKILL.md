@@ -5,8 +5,8 @@ title: "Penas Restritivas de Direitos (CP 43-48 + Lei 9.714/1998)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/penas-restritivas-direitos-cp-43.md"
+version: 2
+sourcePath: "legalbr/materia/penal/penas-restritivas-direitos-cp-43/SKILL.md"
 triggers:
   - "penas restritivas de direitos"
   - "CP 43"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 9.714/1998"
   - "reconversão em pena privativa"
   - "prestação de serviços à comunidade"
-description: "PRD sob CP 43-48 + Lei 9.714/1998: 5 espécies (prestação pecuniária\n+ perda de bens + PSC + interdição de direitos + limitação fim\nde semana); CP 44 substituição (PPL ≤ 4 anos sem violência OU\nculposo + não reincidente doloso + circunstâncias favoráveis);\n§4 reconversão com contraditório; SV 59 (tráfico privilegiado,\nimpositiva); SV 56 (falta de vaga)."
+description: "Usar para pesquisar ou analisar: Penas Restritivas de Direitos (CP 43-48 + Lei 9.714/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penas Restritivas de Direitos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 43: espécies (Lei 9.714/1998)
 

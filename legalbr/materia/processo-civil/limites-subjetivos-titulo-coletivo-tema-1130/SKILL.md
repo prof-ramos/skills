@@ -5,8 +5,8 @@ title: "Limites Subjetivos do Título Coletivo. Filiados, Base Territorial e Suc
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/limites-subjetivos-titulo-coletivo-tema-1130.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/limites-subjetivos-titulo-coletivo-tema-1130/SKILL.md"
 triggers:
   - "limites subjetivos da sentença coletiva"
   - "Tema 1.130 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "habilitação de sucessores execução coletiva"
   - "sindicato estadual ação coletiva alcance"
   - "beneficiário sentença coletiva IDEC"
-description: "Quem pode executar o título coletivo: Tema 1.130 STJ (sindicato estadual:\ncategoria filiada ou não, com domicílio necessário do CC 76 par. único na\nbase territorial; RE pendente no STF); Tema 1.309 STJ (sucessores de\nservidor falecido ANTES do ajuizamento não são beneficiados, salvo\nexpressamente contemplados); Tema 724 (poupadores independem de filiação\nao IDEC, por força da coisa julgada). Filtro diário em execuções de\nservidores e poupadores."
+description: "Usar para pesquisar ou analisar: Limites Subjetivos do Título Coletivo. Filiados, Base Territorial e Sucessores (Temas 1.130, 1.309 e 724 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limites Subjetivos do Título Coletivo: Quem Pode Executar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Eixo desta skill: definir **quem é alcançado** pela coisa julgada coletiva (dimensão subjetiva). Para o procedimento de liquidação/execução individual, ver a skill de execução individual de sentença coletiva (LACP + CDC 97-100); para a dimensão territorial-objetiva da eficácia da ACP, a skill do Tema 1.075 STF.
 

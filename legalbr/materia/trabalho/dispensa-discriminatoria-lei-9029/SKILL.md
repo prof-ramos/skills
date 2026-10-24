@@ -5,8 +5,8 @@ title: "Dispensa Discriminatória (Lei 9.029/1995)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/dispensa-discriminatoria-lei-9029.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/dispensa-discriminatoria-lei-9029/SKILL.md"
 triggers:
   - "dispensa discriminatória"
   - "Lei 9.029"
@@ -15,10 +15,15 @@ triggers:
   - "HIV"
   - "doença estigmatizante"
   - "teste de gravidez"
-description: "Dispensa discriminatória (Lei 9.029/95 + CF 5 I e XLI + Conv. 111 OIT):\nvedação ao motivo discriminatório (sexo, origem, raça, cor, estado\ncivil, idade, deficiência, condição familiar, doença estigmatizante);\nSúm. 443 TST (presunção em portadores de HIV e doença estigmatizante);\nopção do empregado entre reintegração com ressarcimento integral do\nperíodo de afastamento ou indenização em dobro desse período (art. 4)."
+description: "Usar para pesquisar ou analisar: Dispensa Discriminatória (Lei 9.029/1995). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dispensa Discriminatória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

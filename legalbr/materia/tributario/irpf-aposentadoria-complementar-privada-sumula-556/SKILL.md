@@ -5,8 +5,8 @@ title: "IRPF + Complementação de Aposentadoria de Previdência Privada (Súm. 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpf-aposentadoria-complementar-privada-sumula-556.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf-aposentadoria-complementar-privada-sumula-556/SKILL.md"
 triggers:
   - "Súmula 556 STJ"
   - "IRPF complementação aposentadoria"
@@ -14,10 +14,15 @@ triggers:
   - "contribuições 1989 a 1995 isenção"
   - "Lei 7.713/88 art 6 VII b"
   - "Lei 9.250/95 dedução"
-description: "Súm. 556 STJ: É INDEVIDO o IRPF sobre a complementação de\naposentadoria + resgate de contribuições paga por entidade de\nprevidência privada PROPORCIONALMENTE ao período 01/01/1989 a\n31/12/1995 (Lei 7.713/88 art. 6 VII \"b\", versão pré-Lei 9.250).\nApós 1996, regime ordinário de tributação."
+description: "Usar para pesquisar ou analisar: IRPF + Complementação de Aposentadoria de Previdência Privada (Súm. 556 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF + Complementação de Aposentadoria de Previdência Privada (Súm. 556 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula 556 STJ
 

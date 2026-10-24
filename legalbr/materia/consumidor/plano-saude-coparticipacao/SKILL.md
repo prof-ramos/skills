@@ -5,8 +5,8 @@ title: "Plano de Saúde: Coparticipação e Franquia (Lei 9.656 + Tema 1.032 STJ
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-saude-coparticipacao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-saude-coparticipacao/SKILL.md"
 triggers:
   - "coparticipação em plano de saúde"
   - "franquia plano de saúde"
@@ -18,10 +18,15 @@ triggers:
   - "reembolso plano saúde"
   - "cobertura ambulatorial"
   - "mensalidade reduzida"
-description: "Coparticipação e franquia em plano de saúde sob Lei 9.656/1998\nart. 16 VIII + Resolução CONSU 8/1998 + jurisprudência:\ncoparticipação admitida desde que prevista, informada e sem\nfator restritor severo; Tema 1.032 STJ valida coparticipação de\naté 50% em internação psiquiátrica superior a 30 dias/ano;\nvedado impedir ou dificultar atendimento de urgência/emergência\n(CONSU 8/1998 art. 2 V); reembolso em livre\nescolha com tabela transparente; Súm. 302 STJ: abusividade da\nlimitação temporal de internação. Atenção: a RN ANS 433/2018\nfoi suspensa pelo STF (ADPF 532) e revogada pela RN 434/2018."
+description: "Usar para pesquisar ou analisar: Plano de Saúde: Coparticipação e Franquia (Lei 9.656 + Tema 1.032 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde: Coparticipação e Franquia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

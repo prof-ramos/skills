@@ -5,8 +5,8 @@ title: "Carta Arbitral"
 category: "forma"
 materia: null
 documentType: "carta-arbitral"
-version: 1
-sourcePath: "lib/skills/official/forma/carta-arbitral.md"
+version: 2
+sourcePath: "legalbr/forma/carta-arbitral/SKILL.md"
 triggers:
   - "carta arbitral"
   - "art. 22-C Lei 9.307"
@@ -14,10 +14,15 @@ triggers:
   - "cooperação judiciária arbitragem"
   - "execução medida arbitral"
   - "cumprimento decisão TAR"
-description: "Carta arbitral (Lei 9.307/96 art. 22-C; CPC arts. 237 IV + 260 §3 +\n1.061). Instrumento de cooperação judiciária para cumprimento, no\nJudiciário, de medidas ordenadas pelo tribunal arbitral que exijam\nconstrição patrimonial, coercitividade ou cooperação com terceiros\nnão signatários da convenção. Conteúdo formal: decisão arbitral +\ncópia da convenção + qualificação das partes + delimitação da medida.\nSigilo preservado (CPC 189 IV). Controle judicial apenas formal:\nexcesso manifesto ou ofensa à ordem pública."
+description: "Usar para redigir ou revisar: Carta Arbitral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Arbitral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

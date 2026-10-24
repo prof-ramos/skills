@@ -5,8 +5,8 @@ title: "Contrato de Fiança (CC 818-839 + Súm. 332 STJ + Tema 1.127 STF)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-fianca.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-fianca/SKILL.md"
 triggers:
   - "contrato de fiança"
   - "fiança civil"
@@ -22,10 +22,15 @@ triggers:
   - "benefício de ordem"
   - "exoneração da fiança"
   - "fiança locatícia"
-description: "Fiança (CC 818-839): acessória, solene (819), gratuita\npresumida; outorga conjugal (1.647 III + Súm. 332 STJ);\nbenefício de ordem (827-828); exoneração (835); locação."
+description: "Usar para pesquisar ou analisar: Contrato de Fiança (CC 818-839 + Súm. 332 STJ + Tema 1.127 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Fiança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

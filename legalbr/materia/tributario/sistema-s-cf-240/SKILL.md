@@ -5,8 +5,8 @@ title: "Sistema \"S\" + Parafiscais (CF 240 + CF 149 + Tema 1.079 + Tema 1.390 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/sistema-s-cf-240.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sistema-s-cf-240/SKILL.md"
 triggers:
   - "Sistema S"
   - "CF 240"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 1.390 STJ"
   - "DL 2.318/1986"
   - "teto 20 SM"
-description: "CF 240 ressalva CF 195 (contribuições compulsórias empregadores\nfolha para entidades de serviço social + formação profissional);\nCF 149 contribuições de interesse categorias profissionais\nparafiscais; SISTEMA S (SENAI/SESI/SENAC/SESC + SEBRAE/SENAR/\nSEST/SENAT/SESCOOP); alíquotas total ~5,8%; STJ Tema 1.079 +\n1.390: DL 2.318/1986 AFASTOU teto 20 SM (todas as parafiscais);\nADI 1.378 + 6.110 STF constitucional."
+description: "Usar para pesquisar ou analisar: Sistema \"S\" + Parafiscais (CF 240 + CF 149 + Tema 1.079 + Tema 1.390 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema "S" + Parafiscais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 240
 

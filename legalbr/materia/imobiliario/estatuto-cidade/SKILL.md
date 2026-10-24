@@ -5,8 +5,8 @@ title: "Estatuto da Cidade (Lei 10.257/2001) + Direito Urbanístico"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/estatuto-cidade.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/estatuto-cidade/SKILL.md"
 triggers:
   - "Estatuto da Cidade"
   - "Lei 10.257/2001"
@@ -16,10 +16,15 @@ triggers:
   - "outorga onerosa do direito de construir"
   - "estudo de impacto de vizinhança"
   - "Tema 1.113 STJ"
-description: "Direito Urbanístico: CF 182-183 + Lei 10.257/01 + Lei 6.766/79\n+ Lei 13.465/17: função social urbana, plano diretor, PEUC,\nIPTU progressivo, usucapião especial/familiar, EIV, ZEIS e\nREURB."
+description: "Usar para pesquisar ou analisar: Estatuto da Cidade (Lei 10.257/2001) + Direito Urbanístico. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto da Cidade + Direito Urbanístico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

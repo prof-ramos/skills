@@ -5,8 +5,8 @@ title: "Stock Option Plan + Natureza Mercantil e Tributação IRPF (Tema 1.226 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/stock-options-natureza-mercantil-tema-1226.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/stock-options-natureza-mercantil-tema-1226/SKILL.md"
 triggers:
   - "Tema 1.226 STJ stock options"
   - "SOP plano opção compra ações"
@@ -14,10 +14,15 @@ triggers:
   - "IRRF executivo ações"
   - "ganho de capital alienação ações"
   - "tributação revenda SOP"
-description: "Tema 1.226 STJ (1ª Seção, Min. Sérgio Kukina, julgado em\n11/09/2024; REsp 2.069.644 + 2.074.564): o STOCK OPTION PLAN (SOP)\ntem CARÁTER MERCANTIL (não remuneratório). NÃO incide IRPF na\nAQUISIÇÃO das ações pelo beneficiário. Tributação ocorre como\nGANHO DE CAPITAL na REVENDA (alienação), se houver lucro.\nRequisitos: voluntariedade, onerosidade e risco financeiro."
+description: "Usar para pesquisar ou analisar: Stock Option Plan + Natureza Mercantil e Tributação IRPF (Tema 1.226 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Stock Option Plan + Natureza Mercantil e Tributação IRPF (Tema 1.226 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.226 STJ, 1ª Seção, Min. Sérgio Kukina, 11/09/2024)
 

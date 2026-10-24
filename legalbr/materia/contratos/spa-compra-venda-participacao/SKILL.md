@@ -5,8 +5,8 @@ title: "SPA: Compra e Venda de Participação Societária (Share Purchase Agreem
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/spa-compra-venda-participacao.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/spa-compra-venda-participacao/SKILL.md"
 triggers:
   - "SPA"
   - "share purchase agreement"
@@ -22,10 +22,15 @@ triggers:
   - "cap basket de minimis"
   - "locked box"
   - "completion accounts"
-description: "SPA (compra e venda de quotas/ações): CPs (condições precedentes), MAC, R&W, indemnification (cap/basket/de minimis), escrow, earn-out, locked box vs completion accounts, non-compete, fechamento e cláusulas de preço."
+description: "Usar para pesquisar ou analisar: SPA: Compra e Venda de Participação Societária (Share Purchase Agreement). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SPA: Share Purchase Agreement
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

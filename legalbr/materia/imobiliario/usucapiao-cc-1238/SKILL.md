@@ -5,8 +5,8 @@ title: "Usucapião (CC 1.238-1.244 + CPC 1.071 + Prov. CNJ 149/2023)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/usucapiao-cc-1238.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/usucapiao-cc-1238/SKILL.md"
 triggers:
   - "usucapião extraordinária"
   - "CC 1.238"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 237 STF"
   - "Tema 985 STJ"
   - "Tema 1.025 STJ"
-description: "Usucapião sob CC 1.238-1.244 + 1.260-1.262 + CF 183/191 + CPC\n1.071 + Prov. CNJ 149/2023 (revogou 65/2017): modalidades\n(extraordinária 15/10, ordinária 10/5, especial 5, familiar 2,\ncoletiva 5); vedação a bens públicos (Súm. 340) e a imóvel\nvinculado ao SFH (REsp 1.874.632); extrajudicial com ata notarial\n+ planta + silêncio = anuência; soma de posses (CC 1.243)."
+description: "Usar para pesquisar ou analisar: Usucapião (CC 1.238-1.244 + CPC 1.071 + Prov. CNJ 149/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Usucapião
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

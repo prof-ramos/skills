@@ -5,8 +5,8 @@ title: "Extinção de Execução Fiscal de Baixo Valor (STF Tema 1.184 + Res. CN
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/extincao-execucao-fiscal-baixo-valor-tema-1184-stf.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/extincao-execucao-fiscal-baixo-valor-tema-1184-stf/SKILL.md"
 triggers:
   - "STF Tema 1.184"
   - "execução fiscal baixo valor"
@@ -14,10 +14,15 @@ triggers:
   - "extinção interesse de agir"
   - "protesto CDA prévio"
   - "princípio eficiência administrativa"
-description: "STF Tema 1.184: legítima a EXTINÇÃO de execução fiscal de BAIXO\nVALOR por ausência de interesse de agir, respeitada a competência\ndo ente federado para definir o piso e desde que adotadas medidas\nde cobrança administrativa (conciliação + protesto da CDA antes\ndo ajuizamento). Res. CNJ 547/2024: extinção em massa de EFs\nparalisadas com débito < R$ 10.000."
+description: "Usar para pesquisar ou analisar: Extinção de Execução Fiscal de Baixo Valor (STF Tema 1.184 + Res. CNJ 547). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extinção de Execução Fiscal de Baixo Valor (STF Tema 1.184 + Res. CNJ 547)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (STF Tema 1.184 — RE 1.355.208)
 

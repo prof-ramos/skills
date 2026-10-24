@@ -5,8 +5,8 @@ title: "Recurso Extraordinário: Repercussão Geral e Procedimento"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-extraordinario-rg-tema-69.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-extraordinario-rg-tema-69-cf-102/SKILL.md"
 triggers:
   - "recurso extraordinário CF 102"
   - "repercussão geral RE"
@@ -14,10 +14,15 @@ triggers:
   - "CPC art. 1.029"
   - "RE pré-questionamento"
   - "prequestionamento RE"
-description: "CF 102 III: RECURSO EXTRAORDINÁRIO contra decisões que\ncontrariem CF, declarem inconstitucionalidade, julguem\nválida lei contestada na CF ou lei local contestada em\nface de lei federal. Requisitos: prequestionamento (Súm.\n282/356 STF) + repercussão geral (CF 102 §3 + Lei\n11.418/2006). Sistema de repetitivos (CPC 1.036)."
+description: "Usar para pesquisar ou analisar: Recurso Extraordinário: Repercussão Geral e Procedimento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Extraordinário (CF 102 III)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

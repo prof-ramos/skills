@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/lucro-presumido-arbitrado-lei-9430.md"
+sourcePath: "legalbr/materia/tributario/lucro-presumido-arbitrado-lei-9430/SKILL.md"
 triggers:
   - "lucro presumido"
   - "lucro arbitrado"
@@ -18,10 +18,15 @@ triggers:
   - "CSLL presumido"
   - "limite R$ 78 milhões"
   - "arbitramento contabilidade imprestável"
-description: "Apuração de IRPJ e CSLL pelo lucro presumido ou arbitrado: limites,\npercentuais, adicional, arbitramento, LC 224/2025 e obrigações acessórias,\ninclusive o cronograma dos documentos fiscais de IBS/CBS."
+description: "Usar para pesquisar ou analisar: Lucro Presumido + Arbitrado (Lei 9.430/1996 + Lei 9.249/1995 + LC 224/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lucro Presumido + Arbitrado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

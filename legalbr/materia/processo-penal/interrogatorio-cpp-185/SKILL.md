@@ -5,8 +5,8 @@ title: "Interrogatório do Réu (CPP 185-196 + CPP 400 + Lei 10.792/2003)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/interrogatorio-cpp-185.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/interrogatorio-cpp-185/SKILL.md"
 triggers:
   - "interrogatório"
   - "CPP 185"
@@ -19,10 +19,15 @@ triggers:
   - "HC 127.900 STF"
   - "Tema 1.114 STJ"
   - "autodefesa"
-description: "Interrogatório sob CPP 185-196 + CPP 400 + Lei 10.792/2003:\nmeio de DEFESA (autodefesa); defensor obrigatório (sob nulidade);\ndireito ao silêncio (CF 5 LXIII + CPP 186); CPP 400 (último ato\nda instrução); HC 127.900 STF estendeu a todos os procedimentos\nespeciais; videoconferência excepcional (Lei 11.900); entrevista\nprévia reservada com defensor (CPP 185 §5)."
+description: "Usar para pesquisar ou analisar: Interrogatório do Réu (CPP 185-196 + CPP 400 + Lei 10.792/2003). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interrogatório do Réu
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 185 + Lei 10.792/2003
 

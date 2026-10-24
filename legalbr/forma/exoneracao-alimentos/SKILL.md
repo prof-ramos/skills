@@ -5,8 +5,8 @@ title: "Ação de Exoneração de Alimentos"
 category: "forma"
 materia: null
 documentType: "exoneracao-alimentos"
-version: 1
-sourcePath: "lib/skills/official/forma/exoneracao-alimentos.md"
+version: 2
+sourcePath: "legalbr/forma/exoneracao-alimentos/SKILL.md"
 triggers:
   - "ação de exoneração de alimentos"
   - "cessação da pensão alimentícia"
@@ -15,10 +15,15 @@ triggers:
   - "cessação do dever CC 1.708"
   - "casamento ou união estável do credor"
   - "alteração do binômio necessidade e possibilidade"
-description: "Exoneração de alimentos (CC 1.708-1.709): causas incluem cessação da\nnecessidade, novo casamento do credor e impugnação de paternidade; maioridade\nNÃO exonera automaticamente (Súm. 358 STJ); pretensão prescreve em 2 anos."
+description: "Usar para redigir ou revisar: Ação de Exoneração de Alimentos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Exoneração de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Recurso Inominado"
 category: "forma"
 materia: null
 documentType: "recurso-inominado"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-inominado.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-inominado/SKILL.md"
 triggers:
   - "recurso inominado"
   - "arts. 41-50 Lei 9.099/95"
@@ -19,10 +19,15 @@ triggers:
   - "advogado obrigatório"
   - "honorários ao recorrente vencido"
   - "Lei 10.259/01 e Lei 12.153/09"
-description: "Recurso inominado no microssistema dos Juizados (Lei 9.099/95\narts. 41-50; Leis 10.259/01 e 12.153/09): único recurso ordinário,\ncontra sentença terminativa ou de mérito; prazo de 10 dias e\npreparo em 48 horas; efeito devolutivo; advogado obrigatório;\njulgamento por Turma Recursal; honorários ao vencido recorrente."
+description: "Usar para redigir ou revisar: Recurso Inominado. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Inominado
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

@@ -5,8 +5,8 @@ title: "ITCMD sobre VGBL e PGBL (Tema 1.214 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/itcmd-vgbl-pgbl-tema-1214.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itcmd-vgbl-pgbl-tema-1214/SKILL.md"
 triggers:
   - "Tema 1.214 STF"
   - "ITCMD VGBL"
@@ -18,10 +18,15 @@ triggers:
   - "imposto herança previdência"
   - "natureza VGBL seguro"
   - "natureza PGBL previdência"
-description: "Tema 1.214 STF (RE 1.363.013, 16/12/2024): NÃO incide ITCMD\nsobre VGBL e PGBL na hipótese de MORTE do titular. VGBL\ntem natureza de SEGURO de pessoas (CC 794: não integra\nherança). PGBL é plano de previdência complementar (Lei\nComplementar 109/2001: beneficiário recebe diretamente).\nVoto ressalva o combate à dissimulação/abuso (CTN 116,\npar. único) e a proteção da legítima."
+description: "Usar para pesquisar ou analisar: ITCMD sobre VGBL e PGBL (Tema 1.214 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITCMD sobre VGBL e PGBL na Morte do Titular
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

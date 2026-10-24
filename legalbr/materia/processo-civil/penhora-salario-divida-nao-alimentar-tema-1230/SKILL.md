@@ -5,8 +5,8 @@ title: "Penhora de Salário em Dívida Não Alimentar (Tema 1230 STJ + CPC 833 I
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/penhora-salario-divida-nao-alimentar-tema-1230.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-salario-divida-nao-alimentar-tema-1230/SKILL.md"
 triggers:
   - "Tema 1230 STJ"
   - "penhora salário"
@@ -19,10 +19,15 @@ triggers:
   - "50 salários mínimos"
   - "impenhorabilidade salarial relativização"
   - "subsistência digna"
-description: "Tema 1230 STJ (Corte Especial, em julgamento): relativização da\nimpenhorabilidade do salário (CPC 833 IV) para dívidas NÃO\nalimentares. Leading case EREsp 1.874.222/DF: possível penhorar\nsalário ainda que inferior a 50 SM, DESDE QUE preservado o MÍNIMO\nEXISTENCIAL e a subsistência digna do devedor/família. Sem tese\nrepetitiva definitiva (proposta do relator: 35-45% na faixa\nintermediária)."
+description: "Usar para pesquisar ou analisar: Penhora de Salário em Dívida Não Alimentar (Tema 1230 STJ + CPC 833 IV + § 2). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Salário em Dívida Não Alimentar (Tema 1230 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Orientação (Tema 1230 STJ, em julgamento)
 

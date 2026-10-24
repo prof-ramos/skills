@@ -5,8 +5,8 @@ title: "Reclamação Constitucional"
 category: "forma"
 materia: null
 documentType: "reclamacao-constitucional"
-version: 4
-sourcePath: "lib/skills/official/forma/reclamacao-constitucional.md"
+version: 2
+sourcePath: "legalbr/forma/reclamacao-constitucional/SKILL.md"
 triggers:
   - "reclamação constitucional"
   - "arts. 988 a 993 CPC"
@@ -17,10 +17,15 @@ triggers:
   - "CF 102 I l e 105 I f"
   - "art. 988 V acórdão de REsp sob regime de relevância"
   - "indeferimento liminar art. 988 §5º II"
-description: "Reclamação constitucional sob a CF 102 I \"l\" e 105 I \"f\" e o CPC 988\na 993: preservação de competência, garantia da autoridade das decisões\ne aderência a súmula vinculante, controle concentrado, IRDR e IAC; sem\nprazo, mas obstada pelo trânsito em julgado (Súm. 734 STF); em\nrepercussão geral e repetitivos exige esgotamento da via ordinária\n(§5º II do art. 988)."
+description: "Usar para redigir ou revisar: Reclamação Constitucional. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reclamação Constitucional
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

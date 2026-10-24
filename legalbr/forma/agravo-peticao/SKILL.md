@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "agravo-peticao"
 version: 2
-sourcePath: "lib/skills/official/forma/agravo-peticao.md"
+sourcePath: "legalbr/forma/agravo-peticao/SKILL.md"
 triggers:
   - "agravo de petição"
   - "art. 897 a CLT"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 416 TST e OJ 134 SDI-II"
   - "prazo de 8 dias úteis"
   - "agravo de petição contra decisão em impugnação à liquidação de sentença"
-description: "Agravo de petição (CLT 897 \"a\"): recurso da execução trabalhista; 8 dias úteis;\ndelimitação justificada de matérias e valores (Súm. 416 TST; OJ 134 SDI-II);\nefeito devolutivo; juízo garantido dispensa depósito (Súm. 128 II TST)."
+description: "Usar para redigir ou revisar: Agravo de Petição. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Petição
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e cabimento
 

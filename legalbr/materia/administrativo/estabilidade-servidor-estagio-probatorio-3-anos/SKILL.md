@@ -5,8 +5,8 @@ title: "Estágio Probatório + Estabilidade do Servidor em 3 Anos (STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/estabilidade-servidor-estagio-probatorio-3-anos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/estabilidade-servidor-estagio-probatorio-3-anos/SKILL.md"
 triggers:
   - "estágio probatório 3 anos"
   - "prazo do estágio probatório"
@@ -16,10 +16,15 @@ triggers:
   - "exoneração estágio probatório"
   - "estabilidade automática decurso de prazo"
   - "Súmula 21 STF"
-description: "Jurisprudência consolidada do STJ: o ESTÁGIO PROBATÓRIO do\nservidor público tem duração de 3 ANOS (EC 19/1998), coincidindo\ncom o prazo para aquisição da estabilidade (CF 41). A AVALIAÇÃO\nespecial deve considerar todo o período. NÃO há estabilidade\nAUTOMÁTICA pelo mero decurso: exige avaliação favorável.\nSúm. 21 e 22 STF."
+description: "Usar para pesquisar ou analisar: Estágio Probatório + Estabilidade do Servidor em 3 Anos (STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estágio Probatório + Estabilidade do Servidor em 3 Anos (STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Entendimento consolidado (STJ)
 

@@ -5,8 +5,8 @@ title: "Retenção de PSS em RPV e Precatório (Tema 431 STJ + Lei 10.887 art. 1
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/pss-retencao-rpv-precatorio-tema-431-stj.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pss-retencao-rpv-precatorio-tema-431-stj/SKILL.md"
 triggers:
   - "retenção de PSS"
   - "Tema 431 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 501 STJ"
   - "desconto de PSS cumprimento de sentença"
   - "obrigação ex lege retenção"
-description: "Retenção na fonte da contribuição do PSS sobre valores pagos por decisão\njudicial a servidor público (Lei 10.887/2004 art. 16-A): Tema 431 STJ\n(obrigação ex lege, independe de condenação ou autorização no título);\nalíquota de 11% sobre o valor pago em RPV/precatório; base restrita às\nparcelas remuneratórias que integram a base de contribuição (art. 4 §1);\nnão incidência sobre juros de mora (Tema 501 STJ) e paralelo do IR\n(Tema 808 STF)."
+description: "Usar para pesquisar ou analisar: Retenção de PSS em RPV e Precatório (Tema 431 STJ + Lei 10.887 art. 16-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Retenção de PSS em RPV e Precatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Regime da retenção da contribuição do Plano de Seguridade do Servidor Público (PSS) sobre valores pagos a servidor em cumprimento de decisão judicial. Para o regime geral do requisitório, vide [[execucao-fazenda-precatorios-rpv]].
 

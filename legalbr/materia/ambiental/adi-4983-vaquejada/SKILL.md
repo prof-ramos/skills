@@ -5,8 +5,8 @@ title: "ADI 4983: Vaquejada (Direitos dos Animais) e EC 96/2017"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/adi-4983-vaquejada.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/adi-4983-vaquejada/SKILL.md"
 triggers:
   - "ADI 4983"
   - "vaquejada"
@@ -16,10 +16,15 @@ triggers:
   - "práticas desportivas com animais"
   - "CF 225 §1 VII"
   - "patrimônio cultural imaterial"
-description: "ADI 4983 (Marco Aurélio, 06/10/2016, 6×5): vaquejada (Lei CE\n15.299/2013) é inconstitucional por crueldade (CF 225 §1 VII).\nEC 96/2017 inseriu CF 225 §7 (manifestação cultural), declarada\nconstitucional pelo STF (ADI 5728); leis da vaquejada validadas\nna ADI 5772 (05/03/2026), condicionadas ao bem-estar animal."
+description: "Usar para pesquisar ou analisar: ADI 4983: Vaquejada (Direitos dos Animais) e EC 96/2017. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4983: Vaquejada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

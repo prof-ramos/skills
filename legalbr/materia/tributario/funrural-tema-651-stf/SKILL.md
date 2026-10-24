@@ -5,8 +5,8 @@ title: "FUNRURAL — Contribuição Rural Patronal (CF 195 I \"b\" + Lei 8.540/9
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/funrural-tema-651-stf.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/funrural-tema-651-stf/SKILL.md"
 triggers:
   - "FUNRURAL"
   - "contribuição rural"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 651 STF"
   - "RE 718.874"
   - "opção folha receita"
-description: "FUNRURAL — contribuição patronal RURAL CF 195 I \"b\" + Lei 8.540/92\n+ 9.528/97 + 10.256/01 + 13.606/18: produtor rural pessoa FÍSICA\nrecolhe 1,5% sobre receita bruta da comercialização (com SENAR);\nPJ rural recolhe 2,05% (com SENAR) OU opta pela folha 20%; Tema\n651 STF (RE 718.874 — CONSTITUCIONAL pós-EC 20/98 + Lei 10.256/01);\nLei 13.606/18 reduziu PF para 1,2%."
+description: "Usar para pesquisar ou analisar: FUNRURAL — Contribuição Rural Patronal (CF 195 I \"b\" + Lei 8.540/92 + Tema 651 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FUNRURAL
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

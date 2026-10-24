@@ -5,8 +5,8 @@ title: "Guarda Compartilhada (Lei 13.058/2014 + CC 1.583-1.590)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/guarda-compartilhada-lei-13058.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/guarda-compartilhada-lei-13058/SKILL.md"
 triggers:
   - "guarda compartilhada"
   - "Lei 13.058/2014"
@@ -20,10 +20,15 @@ triggers:
   - "CC 1.589 par. único"
   - "abandono afetivo"
   - "REsp 1.159.242"
-description: "Guarda compartilhada sob CC 1.583-1.590 + Lei 13.058/2014:\ncompartilhada como REGRA mesmo em desacordo (CC 1.584 §2); §3\ndivisão equilibrada do tempo; alternada sem previsão legal e\nrejeitada pelo STJ quando imposta (REsp 1.878.041/SP); alienação parental\n(Lei 12.318 + 14.340); Lei 14.713/2023 (mudança de domicílio);\nmultiparentalidade (Tema 622 STF); visitação dos avós\n(CC 1.589 par. único + Lei 12.398/2011); abandono afetivo e\nresponsabilidade civil parental (REsp 1.159.242 + Lei 15.240/2025)."
+description: "Usar para pesquisar ou analisar: Guarda Compartilhada (Lei 13.058/2014 + CC 1.583-1.590). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Guarda Compartilhada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

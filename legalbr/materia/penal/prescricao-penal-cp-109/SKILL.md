@@ -5,8 +5,8 @@ title: "Prescrição Penal (CP 109-119 + Lei 12.234/2010 + Tema 788 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/prescricao-penal-cp-109.md"
+version: 2
+sourcePath: "legalbr/materia/penal/prescricao-penal-cp-109/SKILL.md"
 triggers:
   - "prescrição penal"
   - "CP 109"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 788 STF"
   - "Lei 12.234/2010"
   - "prescrição da multa penal"
-description: "Prescrição penal CP 109-119: PPP (antes trânsito) × PPE (após);\nCP 109 prazos pela pena máxima (≤1a → 3 anos, Lei 12.234/2010);\nCP 110 §1 RETROATIVA pela pena concreta (Lei 12.234 veda antes\ndo recebimento); CP 114 multa (Tema 1.405 STJ); CP 115 redução\nmetade (<21 fato OU >70 sentença); CP 117 interruptivas (6\nincisos); Súm. 438 STJ (veda virtual); Tema 788 STF (PPE conta\ndo trânsito p/ AMBAS as partes)."
+description: "Usar para pesquisar ou analisar: Prescrição Penal (CP 109-119 + Lei 12.234/2010 + Tema 788 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Espécies
 

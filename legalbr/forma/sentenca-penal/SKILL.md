@@ -5,8 +5,8 @@ title: "Sentença Penal"
 category: "forma"
 materia: null
 documentType: "sentenca-penal"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-penal.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-penal/SKILL.md"
 triggers:
   - "sentença penal"
   - "sentença condenatória"
@@ -17,10 +17,15 @@ triggers:
   - "pena-base art. 59 CP"
   - "regime inicial de pena"
   - "reparação mínima art. 387 IV"
-description: "Sentença penal sob o CPP (arts. 381, 386, 387) e o CP (art. 68):\nrelatório, fundamentação e dispositivo; absolvição pelo inciso específico\ndo art. 386 (efeitos cíveis distintos); dosimetria trifásica com vedação\nao bis in idem (Súm. 444 STJ); regime e substituição (Súms. 269, 440 STJ,\n718, 719 STF); reparação mínima do art. 387 IV com pedido expresso\n(exceção Tema 983 STJ); detração no regime inicial (§2º)."
+description: "Usar para redigir ou revisar: Sentença Penal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

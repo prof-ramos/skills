@@ -5,8 +5,8 @@ title: "PIS/COFINS Regime Monofásico, Vedação de Crédito ao Revendedor (Tema
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-monofasico-tema-1093.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-monofasico-tema-1093/SKILL.md"
 triggers:
   - "Tema 1.093 STJ"
   - "PIS COFINS monofásico"
@@ -22,10 +22,15 @@ triggers:
   - "bebidas frias"
   - "revenda de cosméticos monofásicos"
   - "DL 1.598/77 art. 13"
-description: "Tema 1.093 STJ (REsp 1.894.741 + 1.895.255, Min. Mauro Campbell,\n27/04/2022): VEDADA a constituição de créditos de PIS/COFINS sobre\no custo de aquisição (DL 1.598/1977 art. 13) de bens sujeitos à\nTRIBUTAÇÃO MONOFÁSICA (farmacêutico, autopeças, bebidas frias,\ncosméticos, combustíveis). O art. 17 Lei 11.033/2004 (REPORTO)\nnão autoriza crédito sobre monofásico, apenas mantém créditos\nplurifásicos com saída isenta/alíquota zero/suspensa. Tema\n1.339 STJ (10/06/2026): varejista de combustíveis sem direito\na créditos mesmo após LC 192/2022, LC 194/2022 e MP 1.118/2022."
+description: "Usar para pesquisar ou analisar: PIS/COFINS Regime Monofásico, Vedação de Crédito ao Revendedor (Tema 1.093 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS Regime Monofásico (Tema 1.093 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.093 STJ, 27/04/2022)
 

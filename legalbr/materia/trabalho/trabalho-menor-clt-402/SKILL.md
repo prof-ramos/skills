@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-menor-clt-402.md"
+sourcePath: "legalbr/materia/trabalho/trabalho-menor-clt-402/SKILL.md"
 triggers:
   - "trabalho do menor"
   - "menor aprendiz"
@@ -20,10 +20,15 @@ triggers:
   - "influenciador mirim monetização"
   - "Resolução CNJ 687/2026"
   - "BNAC alvará infantil"
-description: "Trabalho do menor: idade mínima, aprendizagem, vedações a trabalho noturno, insalubre e perigoso, Lista TIP, jornada e atividade artística infantil digital conforme a Res. CNJ 687/2026."
+description: "Usar para pesquisar ou analisar: Trabalho do Menor (CLT 402-441 + CF 7 XXXIII + ECA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho do Menor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

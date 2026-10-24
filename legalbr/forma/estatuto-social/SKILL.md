@@ -5,8 +5,8 @@ title: "Estatuto Social (S.A. e associações)"
 category: "forma"
 materia: null
 documentType: "estatuto-social"
-version: 1
-sourcePath: "lib/skills/official/forma/estatuto-social.md"
+version: 2
+sourcePath: "legalbr/forma/estatuto-social/SKILL.md"
 triggers:
   - "estatuto social"
   - "estatuto S.A."
@@ -14,10 +14,15 @@ triggers:
   - "estatuto associação"
   - "reforma estatutária"
   - "alteração estatutária"
-description: "Estatuto social de S.A. (Lei 6.404/76) ou associação (CC 53-61):\ncapital, ações/classes, órgãos (assembleia, conselho, diretoria, fiscal),\nacordos, deliberações, exercício social. RCVM 80/22 e 81/22 para cia.\naberta. Marco legal startups (LC 182/21)."
+description: "Usar para redigir ou revisar: Estatuto Social (S.A. e associações). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto Social
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

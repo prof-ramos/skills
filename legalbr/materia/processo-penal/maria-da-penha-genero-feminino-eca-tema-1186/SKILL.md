@@ -5,8 +5,8 @@ title: "Lei Maria da Penha + Prevalência sobre ECA (Tema 1.186 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/maria-da-penha-genero-feminino-eca-tema-1186.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/maria-da-penha-genero-feminino-eca-tema-1186/SKILL.md"
 triggers:
   - "Tema 1.186 STJ"
   - "Lei Maria da Penha menor idade"
@@ -15,10 +15,15 @@ triggers:
   - "gênero feminino LMP"
   - "JECF vara violência doméstica"
   - "Lei 11.340 vítima menor"
-description: "Tema 1.186 STJ (REsp 2.015.598/PA, 3ª Seção, rel. Min. Ribeiro\nDantas, acórdão publicado em 02/2025): a condição de GÊNERO\nFEMININO é SUFICIENTE para atrair a aplicabilidade da Lei Maria\nda Penha (Lei 11.340/2006) em violência doméstica e familiar,\nPREVALECENDO sobre a questão etária. Quando colidirem\ndispositivos da LMP e do ECA, prevalecem os da LMP."
+description: "Usar para pesquisar ou analisar: Lei Maria da Penha + Prevalência sobre ECA (Tema 1.186 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Maria da Penha + Prevalência sobre ECA (Tema 1.186 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.186 STJ, 3ª Seção, REsp 2.015.598/PA, rel. Min. Ribeiro Dantas)
 

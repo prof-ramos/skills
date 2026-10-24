@@ -5,8 +5,8 @@ title: "Responsabilidade Tributária e Sucessão Empresarial (CTN 128)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/responsabilidade-tributaria-ctn-128.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/responsabilidade-tributaria-ctn-128/SKILL.md"
 triggers:
   - "responsabilidade tributária"
   - "sucessão empresarial tributária"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 1.134 STJ"
   - "arrematação hasta pública livre de ônus"
   - "substituição tributária transferência"
-description: "CTN 128-138 + sucessão empresarial: CTN 130 hasta pública livre\n(Tema 1.134 STJ); CTN 132/133 fusão e fundo (I integral/II\nsubsidiária); Lei 11.101 UPI em RJ/falência livre (ADI 3.934 +\nart. 60/141 II); CTN 134 subsidiária × 135 pessoal; Súm. 430/435;\nCTN 138 denúncia + pagamento (Tema 101: parcelamento não)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Tributária e Sucessão Empresarial (CTN 128). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 128: princípio
 

@@ -5,8 +5,8 @@ title: "Execução Individual de Sentença Coletiva (LACP + CDC 97-100)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/execucao-individual-sentenca-coletiva.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/execucao-individual-sentenca-coletiva-lacp-cdc/SKILL.md"
 triggers:
   - "execução individual sentença coletiva"
   - "liquidação individual ACP"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 345 STJ"
   - "Súm. 601 STJ"
   - "Tema 877 STJ"
-description: "Execução individual de sentença genérica coletiva (LACP + CDC 97-100):\nliquidação imprópria + cumprimento no foro do beneficiário (STJ Tema 480);\nlegitimidade do beneficiário independe de inscrição prévia (Tema 499\nSTF ressalva ação de associação); fluid recovery subsidiário (CDC 100);\nhonorários (Súm. 345: Fazenda); prescrição quinquenal (Súm. 150 STF +\nTema 877 STJ); eficácia territorial (Tema 1.075 STF); limites subjetivos\ndo título (Tema 1.402 STJ: servidores de autarquias/fundações)."
+description: "Usar para pesquisar ou analisar: Execução Individual de Sentença Coletiva (LACP + CDC 97-100). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Individual de Sentença Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

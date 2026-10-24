@@ -5,8 +5,8 @@ title: "Project Finance e Financiamento Sindicalizado (pacote de garantias)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/project-finance-financiamento-sindicalizado.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/project-finance-financiamento-sindicalizado/SKILL.md"
 triggers:
   - "project finance"
   - "financiamento sindicalizado"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 8.987 art. 27-A"
   - "contas vinculadas escrow"
   - "acordo intercredores"
-description: "Project finance e financiamento sindicalizado (concessões, PPPs, energia,\nsaneamento): pacote de garantias com agente de garantias (Contrato de\nAdministração Fiduciária de Garantias, CC 853-A ff, Lei 14.711/2023);\ncessão fiduciária de recebíveis e alienação fiduciária de fungíveis\n(Lei 4.728/65 art. 66-B); step-in dos financiadores (Lei 8.987/95 art.\n27-A) e cessão de créditos operacionais (art. 28-A); garantias públicas\nem PPP (Lei 11.079/2004 art. 8º); acordo intercredores, contas vinculadas\ne cascata de pagamentos."
+description: "Usar para pesquisar ou analisar: Project Finance e Financiamento Sindicalizado (pacote de garantias). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Project Finance e Financiamento Sindicalizado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Estruturação consultiva de financiamento de projeto (concessões, PPPs, energia, saneamento, infraestrutura) sob a lógica de **project finance**: o repagamento da dívida ancora-se no **fluxo de caixa do projeto** e nos ativos da SPE (sociedade de propósito específico), com recurso limitado (limited recourse) aos patrocinadores.
 

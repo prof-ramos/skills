@@ -5,8 +5,8 @@ title: "Contrato de Sublocação (Lei 8.245/91 arts. 13-16 + 21)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-sublocacao.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-sublocacao/SKILL.md"
 triggers:
   - "sublocação"
   - "sublocatário"
@@ -17,10 +17,15 @@ triggers:
   - "art. 21 Lei 8.245"
   - "cessão da locação"
   - "empréstimo do imóvel"
-description: "Sublocação (Lei 8.245/91 arts. 13-16 + 21): consentimento\nprévio e escrito (13); limite de valor (21); resolução com a\nlocação principal (15); responsabilidade subsidiária do\nsublocatário ao locador (16)."
+description: "Usar para pesquisar ou analisar: Contrato de Sublocação (Lei 8.245/91 arts. 13-16 + 21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Sublocação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

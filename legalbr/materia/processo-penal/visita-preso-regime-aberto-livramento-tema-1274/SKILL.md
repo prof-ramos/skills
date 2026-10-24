@@ -5,8 +5,8 @@ title: "Visita a Preso por Apenado em Regime Aberto ou Livramento"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/visita-preso-regime-aberto-livramento-tema-1274.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/visita-preso-regime-aberto-livramento-tema-1274/SKILL.md"
 triggers:
   - "Tema 1.274 STJ"
   - "visita presídio regime aberto"
@@ -14,10 +14,15 @@ triggers:
   - "direito visita LEP 41 X"
   - "ressocialização pena"
   - "restrição visita prisão fundamentação"
-description: "Tema 1.274 STJ (3ª Seção, 12/02/2025): o fato de o visitante\ncumprir pena privativa de liberdade em REGIME ABERTO ou em\nLIVRAMENTO CONDICIONAL NÃO IMPEDE, por si só, o direito à visita\nem estabelecimento prisional. Restrição é EXCEPCIONAL e exige\nfundamentação específica do caso."
+description: "Usar para pesquisar ou analisar: Visita a Preso por Apenado em Regime Aberto ou Livramento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Visita a Preso por Quem Cumpre Pena em Regime Aberto / Livramento (Tema 1.274 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.274 STJ, 3ª Seção, 12/02/2025)
 

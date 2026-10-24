@@ -5,8 +5,8 @@ title: "Erro em Exames e Diagnósticos Laboratoriais - Falso Positivo e Falso Ne
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/erro-laboratorial-falso-positivo-cdc-14.md"
+version: 2
+sourcePath: "legalbr/materia/saude/erro-laboratorial-falso-positivo-cdc-14/SKILL.md"
 triggers:
   - "erro laboratorial"
   - "falso positivo"
@@ -20,10 +20,15 @@ triggers:
   - "laudo laboratorial equivocado"
   - "REsp 1.426.349"
   - "exame confirmatório"
-description: "Responsabilidade por erro em exames laboratoriais (falso positivo e falso\nnegativo) sob CDC 14 + CC 927/949/951: laboratório e hospital têm obrigação\nde resultado e respondem objetivamente (REsp 1.426.349/PE); profissional\nliberal responde com culpa (CDC 14 §4); casuística de HIV, DNA, gravidez e\ntroca de amostras; dever de informação sobre resultado não conclusivo e\nexame confirmatório; prescrição de 5 anos (CDC 27)."
+description: "Usar para pesquisar ou analisar: Erro em Exames e Diagnósticos Laboratoriais - Falso Positivo e Falso Negativo (CDC 14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Erro em Exames e Diagnósticos Laboratoriais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Cluster distinto da responsabilidade médica geral (obrigação de meios do médico assistente): aqui o foco é o serviço de análise clínica, de imagem e de diagnóstico prestado por laboratório, com regime próprio de obrigação de resultado.
 

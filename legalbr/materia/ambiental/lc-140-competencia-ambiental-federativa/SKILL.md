@@ -5,8 +5,8 @@ title: "Competência Ambiental Federativa (LC 140/2011)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/lc-140-competencia-ambiental-federativa.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/lc-140-competencia-ambiental-federativa/SKILL.md"
 triggers:
   - "LC 140"
   - "competência ambiental"
@@ -17,10 +17,15 @@ triggers:
   - "tripartite ambiental"
   - "delegação de competência"
   - "conflito de competência licenciamento"
-description: "Competência ambiental federativa: a **LC 140/2011** regulamenta a\n**competência comum** dos arts. 23 VI/VII CF entre União, Estados,\nDF e Municípios em matéria ambiental. Distribui licenciamento +\nfiscalização por **predominância de interesse** (impacto nacional\n→ União; regional → Estado; local → Município). Atuação **supletiva**\n(substitui o ente originariamente competente quando ausente órgão\ncapaz) e **subsidiária** (auxiliar quando solicitada). Mecanismos\nde cooperação: consórcios + convênios + comissões tripartites +\ndelegação. STF reconheceu constitucionalidade. Implicações no\nSisnama (Lei 6.938)."
+description: "Usar para pesquisar ou analisar: Competência Ambiental Federativa (LC 140/2011). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Ambiental Federativa: LC 140
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

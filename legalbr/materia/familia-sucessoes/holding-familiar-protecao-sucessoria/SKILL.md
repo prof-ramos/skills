@@ -5,8 +5,8 @@ title: "Holding Familiar — Planejamento Sucessório + Proteção Patrimonial"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/holding-familiar-protecao-sucessoria.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/holding-familiar-protecao-sucessoria/SKILL.md"
 triggers:
   - "holding familiar"
   - "planejamento sucessório"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 796 STF"
   - "sociedade familiar"
   - "cláusulas restritivas"
-description: "Holding familiar — sociedade (LTDA ou S.A.) constituída para\ncentralizar **patrimônio familiar** + facilitar **sucessão**. Bens\nsão integralizados → sócios titulares de quotas/ações. Vantagens:\n(i) **antecipação sucessória** via doação de quotas; (ii) **redução\nITCMD** (alíquota sobre quotas, não bens); (iii) **doação com\nusufruto** (reserva controle); (iv) **cláusulas restritivas**\n(incomunicabilidade + inalienabilidade + impenhorabilidade);\n(v) **proteção contra credores**. Tributação: **ITBI imune** na\nintegralização salvo atividade preponderante imobiliária (CF 156\n§2 I + **STF Tema 796** restringiu). ITCMD na doação de quotas.\nReforma tributária pode impactar."
+description: "Usar para pesquisar ou analisar: Holding Familiar — Planejamento Sucessório + Proteção Patrimonial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Holding Familiar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

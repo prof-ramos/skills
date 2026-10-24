@@ -5,8 +5,8 @@ title: "Cumprimento de Fazer + Não Fazer + Entregar Coisa (CPC 497-500 + 536-53
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/cumprimento-fazer-entregar-cpc-536.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumprimento-fazer-entregar-cpc-536/SKILL.md"
 triggers:
   - "CPC 497"
   - "CPC 499"
@@ -18,10 +18,15 @@ triggers:
   - "tutela específica"
   - "busca e apreensao entrega de coisa"
   - "crime de desobediência"
-description: "Cumprimento de obrigações de fazer/não fazer/entregar coisa sob\nCPC 497-500 + 536-538: preferência da tutela específica (497);\nconversão em perdas e danos só com pedido ou impossibilidade (499);\ncumulação com astreintes (500); meios atípicos do CPC 536; CPC\n537: astreintes devida desde o descumprimento (§4), exigida a\nprévia intimação pessoal do devedor (Súm. 410 STJ mantida pelo\nTema 1.296 STJ); entrega de coisa em 15 dias (538)."
+description: "Usar para pesquisar ou analisar: Cumprimento de Fazer + Não Fazer + Entregar Coisa (CPC 497-500 + 536-538). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Fazer + Não Fazer + Entregar Coisa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 497: preferência da tutela específica
 

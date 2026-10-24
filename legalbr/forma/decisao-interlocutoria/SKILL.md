@@ -5,8 +5,8 @@ title: "Decisão Interlocutória"
 category: "forma"
 materia: null
 documentType: "decisao-interlocutoria"
-version: 1
-sourcePath: "lib/skills/official/forma/decisao-interlocutoria.md"
+version: 2
+sourcePath: "legalbr/forma/decisao-interlocutoria/SKILL.md"
 triggers:
   - "decisão interlocutória"
   - "art. 203 §2º CPC"
@@ -15,10 +15,15 @@ triggers:
   - "saneamento e organização do processo art. 357"
   - "fundamentação do art. 489 §1º"
   - "decisão recorrível por agravo de instrumento"
-description: "Decisão interlocutória sob o art. 203 §2º do CPC: pronunciamento\ndecisório que resolve questão incidente sem extinguir a fase; abrange\ntutela provisória, saneamento, julgamento antecipado parcial e\nincidentes diversos; observa fundamentação real do art. 489 §1º e\ncontraditório prévio do art. 10 (vedação à decisão-surpresa);\nrecorribilidade pelo agravo de instrumento nas hipóteses do art. 1.015,\ncom taxatividade mitigada do Tema 988 STJ."
+description: "Usar para redigir ou revisar: Decisão Interlocutória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decisão Interlocutória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito (art. 203 §2º)
 

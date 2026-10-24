@@ -5,8 +5,8 @@ title: "Ato de Concentração no CADE"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/ato-concentracao-cade.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/ato-concentracao-cade/SKILL.md"
 triggers:
   - "ato de concentração"
   - "AC CADE"
@@ -20,10 +20,15 @@ triggers:
   - "hold separate"
   - "rito sumário"
   - "rito ordinário"
-description: "Ato de concentração (Lei 12.529 art. 88): notificação obrigatória prévia\nquando um grupo tem faturamento bruto ≥ R$ 750 mi e outro ≥ R$ 75 mi\n(Portaria Interm. 994/12, ainda vigente). Rito sumário (Res. CADE 33/2022,\nque consolidou e revogou as Res. 2/2012, 9/2014 e 16/2016) para operações\nsem sobreposições significativas; rito\nordinário para casos complexos. Gun jumping (§3): vedação de\nconsumação antes da aprovação (multa R$ 60 mil a R$ 60 mi + nulidade).\nRemédios estruturais (alienação, carve-out) e comportamentais (hold\nseparate, supply agreements). Coordenação multijurisdicional (DOJ, EC,\nSAMR, CMA, FTC)."
+description: "Usar para pesquisar ou analisar: Ato de Concentração no CADE. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ato de Concentração no CADE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

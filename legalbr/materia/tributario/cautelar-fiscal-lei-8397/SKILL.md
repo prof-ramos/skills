@@ -5,8 +5,8 @@ title: "Medida Cautelar Fiscal (Lei 8.397/1992)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/cautelar-fiscal-lei-8397.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cautelar-fiscal-lei-8397/SKILL.md"
 triggers:
   - "medida cautelar fiscal"
   - "Lei 8.397/1992"
@@ -17,10 +17,15 @@ triggers:
   - "fraude à execução fiscal"
   - "CTN 185"
   - "art. 4 Lei 8.397"
-description: "Cautelar fiscal sob Lei 8.397/1992: indisponibilidade de bens do\ndevedor pela Fazenda; hipóteses TAXATIVAS do art. 2 (ausência +\nalienação + abandono + débito > 30% + frustração); ANTES da\nconstituição definitiva nos incs. V (2ª parte) e VII (art. 1\npar. único, Lei 9.532); caducidade se a EF não é proposta no\nprazo legal (60 dias, art. 11); STJ REsp 1.103.794/SP repetitivo\n(preparatória admitida); fraude pós-LC 118/2005: basta inscrição\nem DA (CTN 185 + Tema 290 STJ); Súm. 375 STJ inaplicável."
+description: "Usar para pesquisar ou analisar: Medida Cautelar Fiscal (Lei 8.397/1992). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medida Cautelar Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

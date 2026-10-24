@@ -5,8 +5,8 @@ title: "Súmula Vinculante 43, Inconstitucionalidade do Provimento Derivado sem 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/sumula-vinculante-43-provimento-sem-concurso.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-43-provimento-sem-concurso/SKILL.md"
 triggers:
   - "Súmula Vinculante 43"
   - "SV 43"
@@ -19,10 +19,15 @@ triggers:
   - "Súmula 685 do STF"
   - "Súm. 685 STF"
   - "acesso a cargo"
-description: "SV 43 STF (08/04/2015): \"É inconstitucional toda modalidade de\nprovimento que propicie ao servidor investir-se, sem prévia\naprovação em concurso público destinado ao seu provimento, em\ncargo que não integra a carreira na qual anteriormente investido\".\nConverte Súm. 685/STF. Veda ascensão, acesso e transposição;\nadmite promoção e progressão dentro da mesma carreira."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 43, Inconstitucionalidade do Provimento Derivado sem Concurso. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 43, Vedação ao Provimento Derivado sem Concurso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

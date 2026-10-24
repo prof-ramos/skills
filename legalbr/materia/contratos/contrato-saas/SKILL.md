@@ -5,8 +5,8 @@ title: "Contrato SaaS (Software as a Service B2B)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-saas.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-saas/SKILL.md"
 triggers:
   - "SaaS"
   - "software as a service"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 12.965"
   - "LGPD operador"
   - "dados do cliente"
-description: "SaaS B2B: licença Lei 9.609/98 + prestação contínua; SLA com\nuptime e créditos; dados do cliente; operador LGPD; suporte;\nMarco Civil (Lei 12.965/14); limitação de responsabilidade."
+description: "Usar para pesquisar ou analisar: Contrato SaaS (Software as a Service B2B). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato SaaS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

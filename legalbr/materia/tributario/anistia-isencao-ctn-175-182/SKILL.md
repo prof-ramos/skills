@@ -5,8 +5,8 @@ title: "Isenção e Anistia Tributária (CTN 175-182 + CF 150 §6 + LC 24/75)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/anistia-isencao-ctn-175-182.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/anistia-isencao-ctn-175-182/SKILL.md"
 triggers:
   - "isenção tributária"
   - "anistia tributária"
@@ -20,10 +20,15 @@ triggers:
   - "CF 150 §6"
   - "LC 24/75"
   - "Súm. 544 STF"
-description: "Isenção CTN 175 I + 176-179 (lei dispensa do pagamento; FG\nocorre) e Anistia CTN 175 II + 180-182 (perdão de penalidades);\nexigem lei específica (CF 150 §6); isenção onerosa (Súm. 544 STF:\nirrevogável durante o prazo e as condições); ICMS exige convênio\nCONFAZ (LC 24/75); revogação (CTN 178); exclusão (CTN 175)."
+description: "Usar para pesquisar ou analisar: Isenção e Anistia Tributária (CTN 175-182 + CF 150 §6 + LC 24/75). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Isenção e Anistia Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

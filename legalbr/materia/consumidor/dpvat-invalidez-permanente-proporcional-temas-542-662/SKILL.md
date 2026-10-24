@@ -5,8 +5,8 @@ title: "DPVAT + Indenização Proporcional ao Grau de Invalidez (Temas 542 e 662
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/dpvat-invalidez-permanente-proporcional-temas-542-662.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dpvat-invalidez-permanente-proporcional-temas-542-662/SKILL.md"
 triggers:
   - "Tema 542 STJ"
   - "Tema 662 STJ"
@@ -15,10 +15,15 @@ triggers:
   - "Súmula 474 STJ"
   - "tabela CNSP SUSEP DPVAT"
   - "acidente trânsito invalidez parcial"
-description: "Temas 542 e 662 STJ + Súm. 474: a indenização do DPVAT, em caso\nde invalidez permanente PARCIAL, paga-se proporcionalmente ao GRAU\nde invalidez. Válido o uso da tabela do CNSP mesmo para\nsinistros anteriores a 16/12/2008 (MP 451/2008). Lei 6.194/74\nrevogada: rege os sinistros ocorridos na sua vigência."
+description: "Usar para pesquisar ou analisar: DPVAT + Indenização Proporcional ao Grau de Invalidez (Temas 542 e 662 STJ + Súm. 474). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DPVAT + Indenização Proporcional ao Grau de Invalidez (Temas 542 e 662 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas
 

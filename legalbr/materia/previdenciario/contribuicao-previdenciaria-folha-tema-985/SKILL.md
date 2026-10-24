@@ -5,8 +5,8 @@ title: "Contribuição Previdenciária sobre Terço de Férias (Tema 985 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/contribuicao-previdenciaria-folha-tema-985.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/contribuicao-previdenciaria-folha-tema-985/SKILL.md"
 triggers:
   - "Tema 985 STF"
   - "terço férias contribuição patronal"
@@ -14,10 +14,15 @@ triggers:
   - "art. 22 Lei 8.212"
   - "SAT terço férias"
   - "reflexos previdenciários terço"
-description: "Tema 985 STF (RE 1.072.485, 31/08/2020): É LEGÍTIMA a\nincidência de CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL sobre o\nTERÇO CONSTITUCIONAL de FÉRIAS GOZADAS; o terço das férias\nINDENIZADAS permanece fora do salário-de-contribuição (Lei\n8.212 art. 28 §9 d). Modulação (ED 12/06/2024): efeitos desde a\npublicação da ata do mérito (15/09/2020), sem devolução do\nque foi pago e não impugnado. STJ cancelou os Temas 479\n(terço de férias) e 739 (salário-maternidade) em retratação\n(2026): valem o Tema 985 e o Tema 72 STF."
+description: "Usar para pesquisar ou analisar: Contribuição Previdenciária sobre Terço de Férias (Tema 985 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição Previdenciária sobre Terço de Férias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

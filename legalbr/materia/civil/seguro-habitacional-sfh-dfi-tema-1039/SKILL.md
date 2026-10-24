@@ -5,8 +5,8 @@ title: "Seguro Habitacional SFH, Cobertura DFI e Prescrição (Tema 1.039 STJ)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/seguro-habitacional-sfh-dfi-tema-1039.md"
+version: 2
+sourcePath: "legalbr/materia/civil/seguro-habitacional-sfh-dfi-tema-1039/SKILL.md"
 triggers:
   - "seguro habitacional SFH"
   - "DFI Danos Físicos no Imóvel"
@@ -22,10 +22,15 @@ triggers:
   - "apólice pública SFH"
   - "mutuário CEF"
   - "apólice privada SFH"
-description: "Tema 1.039 STJ (Corte Especial, PENDENTE de julgamento, SEM tese\nfixada): termo inicial da prescrição da pretensão indenizatória em\nface de seguradora nos contratos, ativos ou extintos, do SFH\n(cobertura DFI por vício de construção). Suspensão NACIONAL dos\nprocessos sobre a questão desde 2019. Regras consolidadas:\nprescrição ANUAL (CC 206 §1 II b + Súm. 101 STJ), suspensão pelo\npedido administrativo (Súm. 229 STJ). Distinção: apólice pública ×\nprivada; vícios ocultos × aparentes; MIP × DFI."
+description: "Usar para pesquisar ou analisar: Seguro Habitacional SFH, Cobertura DFI e Prescrição (Tema 1.039 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro Habitacional SFH, DFI e Prescrição (Tema 1.039 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tema 1.039 STJ, PENDENTE de julgamento (sem tese fixada)
 

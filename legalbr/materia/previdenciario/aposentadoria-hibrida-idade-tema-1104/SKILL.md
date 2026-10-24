@@ -5,8 +5,8 @@ title: "Aposentadoria Híbrida por Idade (Tema 1.104 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-hibrida-idade-tema-1104.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-hibrida-idade-tema-1104/SKILL.md"
 triggers:
   - "Tema 1.104 STF"
   - "aposentadoria híbrida idade"
@@ -16,10 +16,15 @@ triggers:
   - "tempo rural urbano misto"
   - "aposentadoria por idade rural"
   - "segurado especial híbrida"
-description: "Tema 1.104 STF (RE 1.281.909, 25/09/2020): reconheceu a\nINEXISTÊNCIA de repercussão geral; a controvérsia sobre os\nrequisitos da aposentadoria HÍBRIDA por IDADE (art. 48 §3 Lei\n8.213/91 + Lei 11.718/08) é INFRACONSTITUCIONAL, prevalecendo\no STJ Tema 1.007 (tempo rural remoto/descontínuo anterior à Lei\n8.213/91 conta para carência da híbrida, independentemente da\nnatureza do labor no requerimento). Idade: 65H/60M (RGPS comum,\npré-EC 103) ou 65/62 (EC 103 + atual)."
+description: "Usar para pesquisar ou analisar: Aposentadoria Híbrida por Idade (Tema 1.104 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria Híbrida por Idade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

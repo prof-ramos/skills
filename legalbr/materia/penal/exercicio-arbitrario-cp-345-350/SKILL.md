@@ -5,8 +5,8 @@ title: "Exercício Arbitrário das Próprias Razões e Tipos Correlatos (CP 345-
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/exercicio-arbitrario-cp-345-350.md"
+version: 2
+sourcePath: "legalbr/materia/penal/exercicio-arbitrario-cp-345-350/SKILL.md"
 triggers:
   - "CP 345"
   - "exercício arbitrário próprias razões"
@@ -17,10 +17,15 @@ triggers:
   - "CP 350 exercício arbitrário autoridade"
   - "tirar mão própria"
   - "faça por si o que cabe à justiça"
-description: "CP 345-350: 345 exercício arbitrário das próprias razões (det.\n15d-1m + multa, ação privada se sem violência); 346 subtração de\ncoisa própria sob poder de outrem (det. 6m-2a + multa); 348\nfavorecimento pessoal (det. 1-6m); 349 favorecimento real (det.\n1-6m); 350 exercício arbitrário ou abuso (det. 1m-1a, revogado\ntacitamente pela Lei 13.869, controvertido)."
+description: "Usar para pesquisar ou analisar: Exercício Arbitrário das Próprias Razões e Tipos Correlatos (CP 345-350). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exercício Arbitrário das Próprias Razões e Tipos Correlatos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 345: Exercício arbitrário das próprias razões
 

@@ -5,8 +5,8 @@ title: "IPI na Revenda de Importados (Tema 906 STF + EREsp 1.403.532 + Tema 912 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/ipi-revenda-importados-tema-912.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipi-revenda-importados-tema-912/SKILL.md"
 triggers:
   - "IPI revenda importados"
   - "Tema 906 STF"
@@ -15,10 +15,15 @@ triggers:
   - "EREsp 1.403.532"
   - "importador equiparado industrial"
   - "Lei 4.502/64"
-description: "IPI na revenda de importados Tema 906 STF + Tema 912 STJ\n(EREsp 1.403.532): CONSTITUCIONAL a cobrança de IPI tanto no\ndesembaraço aduaneiro QUANTO na saída do estabelecimento\nimportador (revenda); NÃO há bis in idem; fundamento: Lei 4.502\nart. 4 I + Decreto 7.212/10 art. 9 (importador EQUIPARADO a\nindustrial); STJ confirmou em 2015 (EREsp); STF Tema 906 (2020)\npacificou em sede constitucional."
+description: "Usar para pesquisar ou analisar: IPI na Revenda de Importados (Tema 906 STF + EREsp 1.403.532 + Tema 912 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPI na Revenda de Importados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

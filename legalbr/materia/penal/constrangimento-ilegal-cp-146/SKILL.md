@@ -5,8 +5,8 @@ title: "Constrangimento Ilegal (CP 146)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/constrangimento-ilegal-cp-146.md"
+version: 2
+sourcePath: "legalbr/materia/penal/constrangimento-ilegal-cp-146/SKILL.md"
 triggers:
   - "constrangimento ilegal"
   - "CP 146"
@@ -20,10 +20,15 @@ triggers:
   - "intervenção médica"
   - "princípio bagatela"
   - "princípio da especialidade"
-description: "Constrangimento ilegal CP 146, det. 3m-1a + multa; obrigar\nalguém (violência/grave ameaça/redução resistência) a não fazer\no que a lei permite ou a fazer o que ela não manda; tipo\nsubsidiário expresso (cede a tipos especiais, extorsão, estupro,\nameaça, roubo); §3 exclui intervenção médica para salvar vida e\ncoação para impedir suicídio; §2 cumulação penas."
+description: "Usar para pesquisar ou analisar: Constrangimento Ilegal (CP 146). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Constrangimento Ilegal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 146 caput)
 

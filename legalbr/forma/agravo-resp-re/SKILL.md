@@ -5,8 +5,8 @@ title: "Agravo em Recurso Especial / Extraordinário (AREsp / ARE)"
 category: "forma"
 materia: null
 documentType: "agravo-resp-re"
-version: 5
-sourcePath: "lib/skills/official/forma/agravo-resp-re.md"
+version: 2
+sourcePath: "legalbr/forma/agravo-resp-re/SKILL.md"
 triggers:
   - "AREsp"
   - "ARE"
@@ -19,10 +19,15 @@ triggers:
   - "AREsp ou agravo interno do art. 1.030 §2º"
   - "agravo interno inadmissão por relevância"
   - "inadmissão fundada no regime de relevância"
-description: "AREsp e ARE sob o art. 1.042 do CPC: recurso para destrancar REsp ou\nRE inadmitidos por requisitos gerais pela Presidência ou Vice do\ntribunal de origem; bifurcação introduzida pela Lei 13.256/16 com\nagravo interno do art. 1.030 §2º quando a inadmissão funda-se em\nprecedente qualificado, inclusive, a partir de 03/09/2026, o regime\nde relevância da Lei 15.484/2026; prazo de 15 dias, sem preparo, com\nimpugnação dialética específica e subida automática ao STJ ou STF."
+description: "Usar para redigir ou revisar: Agravo em Recurso Especial / Extraordinário (AREsp / ARE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo em Recurso Especial / Extraordinário (AREsp / ARE)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

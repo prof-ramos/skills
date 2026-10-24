@@ -5,8 +5,8 @@ title: "Limite Temporal da Suspensão do Processo + Prescrição (Tema 438 STF +
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/limite-temporal-suspensao-processo-tema-438.md"
+version: 2
+sourcePath: "legalbr/materia/penal/limite-temporal-suspensao-processo-tema-438/SKILL.md"
 triggers:
   - "Tema 438 STF"
   - "art. 366 CPP"
@@ -15,10 +15,15 @@ triggers:
   - "réu citado por edital"
   - "réu ausente prescrição"
   - "Súm. 415 STJ"
-description: "Tema 438 STF (RE 600.851, 07/12/2020): é constitucional limitar\na SUSPENSÃO do prazo PRESCRICIONAL do réu citado por edital\n(CPP art. 366) ao tempo de prescrição da pena máxima em\nabstrato, a despeito de o processo permanecer suspenso;\nesgotado o limite, a prescrição volta a correr. Súm. 415 STJ:\no período de suspensão é regulado pelo máximo da pena cominada."
+description: "Usar para pesquisar ou analisar: Limite Temporal da Suspensão do Processo + Prescrição (Tema 438 STF + CPP 366). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limite Temporal da Suspensão (CPP 366)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

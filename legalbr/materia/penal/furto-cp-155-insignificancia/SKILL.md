@@ -5,8 +5,8 @@ title: "Furto (CP 155) + Insignificância + Privilégio"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/furto-cp-155-insignificancia.md"
+version: 2
+sourcePath: "legalbr/materia/penal/furto-cp-155-insignificancia/SKILL.md"
 triggers:
   - "furto"
   - "CP 155"
@@ -20,10 +20,15 @@ triggers:
   - "rompimento de obstáculo"
   - "chave falsa"
   - "repouso noturno"
-description: "Furto sob CP 155 + insignificância (STF HC 84.412, 4 requisitos;\nreincidência não impede automaticamente, STF); caput recl. 1-6 e\nrepouso noturno +metade (Lei 15.397/2026); Tema 1.087 STJ (§1 NÃO\nincide no qualificado §4); §2 privilégio; §4 qualificadoras (+ V\nserviços essenciais); §4-B fraude eletrônica 4-10; §§5-8 novos\npatamares 15.397 (veículo, semovente, celular, arma, fios); §9\nfurto por facção (Lei 15.358/2026); Súm. 511 e 567 STJ."
+description: "Usar para pesquisar ou analisar: Furto (CP 155) + Insignificância + Privilégio. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Furto
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura típica (CP 155)
 

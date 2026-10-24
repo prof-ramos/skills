@@ -5,8 +5,8 @@ title: "Requisição Administrativa (CF 5 XXV + Lei 7.347 + Lei 8.080)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/requisicao-administrativa-cf-5-xxv.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/requisicao-administrativa-cf-5-xxv/SKILL.md"
 triggers:
   - "requisição administrativa"
   - "CF 5 XXV"
@@ -19,10 +19,15 @@ triggers:
   - "bens móveis requisição"
   - "serviços requisição"
   - "Lei 13.979 COVID"
-description: "Requisição administrativa (CF 5 XXV + diplomas setoriais):\nintervenção estatal em propriedade ou serviço de particular em\ncaso de iminente perigo público; espécies (civil/militar +\nmóveis/imóveis/serviços); transitoriedade + interesse público\nexcepcional; indenização ulterior se houver dano; Lei 8.080\n(SUS) + Lei 12.340 (Defesa Civil) + Lei 13.979 (COVID; STF\nADI 6.341 reafirmou a competência concorrente)."
+description: "Usar para pesquisar ou analisar: Requisição Administrativa (CF 5 XXV + Lei 7.347 + Lei 8.080). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Requisição Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

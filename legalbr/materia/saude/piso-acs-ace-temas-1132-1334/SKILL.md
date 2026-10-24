@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/piso-acs-ace-temas-1132-1334.md"
+sourcePath: "legalbr/materia/saude/piso-acs-ace-temas-1132-1334/SKILL.md"
 triggers:
   - "Tema 1.132 STF"
   - "Tema 1.334 STF"
@@ -21,10 +21,15 @@ triggers:
   - "ARE 1.511.934"
   - "Tema 1.470 STF"
   - "RE 1.605.997"
-description: "Piso de ACS e ACE nos Temas 1.132 e 1.334 STF e na EC 120/2022.\nTema 1.470 STF: votação da RG encerrada em 05/08/2026 com reconhecimento; mérito pendente."
+description: "Usar para pesquisar ou analisar: Piso Salarial ACS e ACE (Temas 1.132 e 1.334 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Piso Salarial ACS e ACE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

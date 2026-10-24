@@ -5,8 +5,8 @@ title: "ADPF 130 + Liberdade de Imprensa (Lei 5.250 + Tema 987)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-130-liberdade-imprensa.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-130-liberdade-imprensa/SKILL.md"
 triggers:
   - "ADPF 130"
   - "Lei de Imprensa"
@@ -22,10 +22,15 @@ triggers:
   - "ADI 5.527 ADPF 403"
   - "Tema 995 STF"
   - "assédio judicial a jornalista"
-description: "ADPF 130 (Carlos Britto, 30/04/2009): NÃO RECEPÇÃO INTEGRAL da\nLei 5.250/1967 (Lei de Imprensa); arts. 5 IV/IX/XIV + 220 §§ 1-2\nCF (vedação à CENSURA prévia); responsabilização A POSTERIORI;\ndireito de resposta Lei 13.188/2015; STF Tema 987 (RE 1.037.396,\njun/2025: art. 19 MCInternet parcialmente inconstitucional;\ntese ajustada em ED em 17/06/2026, com trânsito em julgado);\nInq. 4.781 fake news; Lei 14.197/2021 Estado Democrático."
+description: "Usar para pesquisar ou analisar: ADPF 130 + Liberdade de Imprensa (Lei 5.250 + Tema 987). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 130 + Liberdade de Imprensa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## ADPF 130 (Min. Carlos Britto, 30/04/2009)
 

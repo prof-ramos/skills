@@ -5,8 +5,8 @@ title: "Depósito (CC 627-652)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/deposito-cc-627.md"
+version: 2
+sourcePath: "legalbr/materia/civil/deposito-cc-627/SKILL.md"
 triggers:
   - "contrato de deposito CC 627"
   - "CC 627"
@@ -19,10 +19,15 @@ triggers:
   - "Sum Vinculante 25"
   - "restituicao do deposito CC 633"
   - "responsabilidade do hospedeiro CC 649"
-description: "Depósito (CC 627-652): voluntário (CC 627) × necessário (CC 647);\ndepósito regular (CC 627) × irregular (CC 645, fungível, vira mútuo);\nobrigações do depositário (custódia, restituição imediata); recusa\ne exceções (CC 633-635); Súm. Vinc. 25 STF (vedada prisão civil\ndo depositário); responsabilidade hoteleira (CC 649-650)."
+description: "Usar para pesquisar ou analisar: Depósito (CC 627-652). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Depósito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 627-628, conceito
 

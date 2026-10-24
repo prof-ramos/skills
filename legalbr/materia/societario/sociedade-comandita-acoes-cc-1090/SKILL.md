@@ -5,8 +5,8 @@ title: "Sociedade em Comandita por Ações (CC 1.090-1.092 + LSA 280-284)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-comandita-acoes-cc-1090.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-comandita-acoes-cc-1090/SKILL.md"
 triggers:
   - "sociedade em comandita por ações"
   - "CC 1.090"
@@ -15,10 +15,15 @@ triggers:
   - "acionista diretor"
   - "assembleia restrição comandita"
   - "destituição diretor 2/3"
-description: "Sociedade em Comandita por Ações (CC 1.090-1.092 + LSA arts. 280-\n284): tipo híbrido com capital dividido em ações regido pela LSA\ncom adaptações: diretores **devem ser acionistas** (CC 1.091) e\nrespondem **solidária + ilimitada + subsidiariamente** pelas\nobrigações; demais acionistas têm responsabilidade limitada ao\npreço de emissão. Restrições à AGE: mudança de objeto + prorrogação\n+ alteração de capital + criação de debêntures/partes beneficiárias\nexigem **consentimento dos diretores** (CC 1.092 + LSA 283).\nDestituição de diretor exige **2/3 dos acionistas** (LSA 282)."
+description: "Usar para pesquisar ou analisar: Sociedade em Comandita por Ações (CC 1.090-1.092 + LSA 280-284). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade em Comandita por Ações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

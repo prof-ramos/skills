@@ -5,8 +5,8 @@ title: "Plano de Saúde — Reajuste por Faixa Etária (Tema 952 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/plano-saude-reajuste-faixa-etaria.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-saude-reajuste-faixa-etaria/SKILL.md"
 triggers:
   - "reajuste por faixa etária"
   - "Tema 952 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "RN 309/2012"
   - "reajuste anual"
   - "reajuste por sinistralidade"
-description: "Reajuste por faixa etária em plano de saúde sob Tema 952 STJ:\nvalidade desde (i) previsão contratual + (ii) tabela com percentuais\n+ (iii) atuário; vedação a partir de 60 anos (Estatuto da Pessoa\nIdosa após 10 anos de contrato — STJ pacificou interpretação);\nRN ANS 63/2003 — 10 faixas; reajuste anual por sinistralidade\n(planos coletivos) — controle judicial."
+description: "Usar para pesquisar ou analisar: Plano de Saúde — Reajuste por Faixa Etária (Tema 952 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde — Reajuste por Faixa Etária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

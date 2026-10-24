@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/marco-saneamento-lei-14026.md"
+sourcePath: "legalbr/materia/administrativo/marco-saneamento-lei-14026/SKILL.md"
 triggers:
   - "marco do saneamento"
   - "Lei 14.026/2020"
@@ -22,10 +22,15 @@ triggers:
   - "concessão saneamento"
   - "Resolução ANA 301/2026"
   - "NR 8 ANA art. 31 IV"
-description: "Marco do saneamento: universalização, regionalização, licitação e normas da ANA. Em 2026, a Resolução ANA 301 suspende apenas a comprovação do art. 31, IV, da NR 8/2024."
+description: "Usar para pesquisar ou analisar: Marco Legal do Saneamento Básico (Lei 14.026/2020 + Dec. 11.598/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Legal do Saneamento Básico (Lei 14.026/2020)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

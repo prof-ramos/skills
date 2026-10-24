@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/agentes-endemias-exposicao-inseticidas-tema-1023.md"
+sourcePath: "legalbr/materia/saude/agentes-endemias-exposicao-inseticidas-tema-1023/SKILL.md"
 triggers:
   - "Tema 1.023 STJ"
   - "exposição ao DDT"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 11.350 regime dos agentes"
   - "Tema 1.470 STF"
   - "RE 1.605.997"
-description: "Tema 1.023 STJ: termo inicial da prescrição da pretensão indenizatória por dano\nmoral de ACE expostos ao DDT sem proteção e orientação. Tema 1.470 STF:\nvotação da RG encerrada em 05/08/2026 com reconhecimento; mérito pendente."
+description: "Usar para pesquisar ou analisar: Agentes de Combate a Endemias. Indenização por Exposição a Inseticidas e Regime da Categoria (Tema 1.023 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agentes de Combate a Endemias (Exposição a Inseticidas e Regime da Categoria)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Contencioso de massa: exposição ao DDT (SUCAM/FUNASA)
 

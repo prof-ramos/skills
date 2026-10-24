@@ -5,8 +5,8 @@ title: "Overbooking, Atraso e Cancelamento de Voo (Res. ANAC 400/2016)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/overbooking-cancelamento-voo.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/overbooking-cancelamento-voo/SKILL.md"
 triggers:
   - "overbooking"
   - "cancelamento de voo"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 210 STF"
   - "reacomodação"
   - "passagem aérea"
-description: "Overbooking, atraso e cancelamento de voo sob Res. ANAC 400/2016\n+ CDC: assistência material gradual (1h comunicação, 2h\nalimentação, 4h hospedagem/transporte); preterição de embarque\nexige consentimento e compensação; reacomodação ou reembolso\nintegral em até 7 dias. **Overbooking** (preterição) gera dano\nmoral *in re ipsa* pela própria ilicitude (CDC art. 14; STJ,\nAgRg no REsp 810.779/RJ), com compensação tarifada da Res. ANAC\n400. **Atraso/cancelamento** não geram dano moral *in re ipsa*:\nexigem prova de lesão concreta (STJ, AgInt no AREsp 2.150.150/SP).\nDano moral no internacional regido pelo direito interno (STF\nTema 1.240, RE 1.394.401); excludentes (caso fortuito comprovado)."
+description: "Usar para pesquisar ou analisar: Overbooking, Atraso e Cancelamento de Voo (Res. ANAC 400/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Overbooking, Atraso e Cancelamento de Voo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

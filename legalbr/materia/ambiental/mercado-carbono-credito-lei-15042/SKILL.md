@@ -6,7 +6,7 @@ category: "materia"
 materia: "ambiental"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/ambiental/mercado-carbono-credito-lei-15042.md"
+sourcePath: "legalbr/materia/ambiental/mercado-carbono-credito-lei-15042/SKILL.md"
 triggers:
   - "mercado de carbono"
   - "crédito de carbono"
@@ -21,10 +21,15 @@ triggers:
   - "Cota Brasileira de Emissões"
   - "certificado de redução verificada de emissões"
   - "mercado voluntário de carbono"
-description: "SBCE da Lei 15.042/2024, CBE, CRVE e mercados voluntários. Distingue ProBioQAV, CCUS e hidrogênio: seus certificados, autorizações e incentivos não geram automaticamente ativos do SBCE."
+description: "Usar para pesquisar ou analisar: Mercado de Carbono e Crédito de Carbono (Lei 15.042/2024 + SBCE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mercado de Carbono e Crédito de Carbono
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Federalismo Cooperativo COVID (ADIs 6.341 e 6.342 + ADPF 672 STF)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/federalismo-covid-adis-6341-6342.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/federalismo-covid-adis-6341-6342/SKILL.md"
 triggers:
   - "ADI 6.341"
   - "ADI 6.342"
@@ -17,10 +17,15 @@ triggers:
   - "medidas sanitárias pandemia"
   - "CF 23 II saúde"
   - "Estados e Municípios pandemia"
-description: "ADI 6.341 (Min. Marco Aurélio, red. Edson Fachin, 15/04/2020) +\nADPF 672 (Min. Alexandre, 08/04/2020): Estados, DF e Municípios\ntêm competência CONCORRENTE e COMUM para medidas sanitárias na\npandemia (CF 23 II + 24 XII). União não pode esvaziar a\nautoridade local. Lei 13.979/20 interpretada conforme. Base para\nas decisões sobre vacinação compulsória (ADIs 6.586/6.587 +\nTema 1.103 STF) e demais decisões sanitárias."
+description: "Usar para pesquisar ou analisar: Federalismo Cooperativo COVID (ADIs 6.341 e 6.342 + ADPF 672 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Federalismo Cooperativo COVID (ADIs 6.341 + 6.342 + ADPF 672 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

@@ -5,8 +5,8 @@ title: "Prescrição: Interrupção pelo Acórdão Confirmatório (CP 117 IV + T
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/prescricao-acordao-confirmatorio-tema-1100.md"
+version: 2
+sourcePath: "legalbr/materia/penal/prescricao-acordao-confirmatorio-tema-1100/SKILL.md"
 triggers:
   - "Tema 1.100 STJ"
   - "acórdão confirmatório prescrição"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 11.596 prescrição"
   - "prescrição entre sentença e acórdão"
   - "marco interruptivo apelação criminal"
-description: "Tema 1.100 STJ + HC 176.473 STF: o acórdão condenatório do CP 117 IV\ninterrompe a prescrição INCLUSIVE quando confirmatório da sentença,\nseja mantendo, reduzindo ou aumentando a pena. Corte temporal do\nrepetitivo: só crimes cometidos APÓS a Lei 11.596/2007. Decisões de\ntribunais superiores em recurso especial/agravo não são marco\ninterruptivo. Vale só para a pretensão punitiva."
+description: "Usar para pesquisar ou analisar: Prescrição: Interrupção pelo Acórdão Confirmatório (CP 117 IV + Tema 1.100 STJ + HC 176.473 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interrupção da Prescrição pelo Acórdão Confirmatório da Condenação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa: CP 117 (redação vigente, 6 incisos)
 

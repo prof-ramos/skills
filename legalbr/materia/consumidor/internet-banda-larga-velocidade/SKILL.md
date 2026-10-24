@@ -5,8 +5,8 @@ title: "Internet Banda Larga: Velocidade e Qualidade (RQUAL, Res. 717/2019)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/internet-banda-larga-velocidade.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/internet-banda-larga-velocidade/SKILL.md"
 triggers:
   - "velocidade internet"
   - "RQUAL Res. 717/2019"
@@ -17,10 +17,15 @@ triggers:
   - "banda larga móvel"
   - "franquia de dados"
   - "oferta vinculada"
-description: "Internet banda larga: qualidade sob o RQUAL (Res. ANATEL 717/2019,\nregime vigente) + Res. 614/2013 + 632/2014 + CDC; os pisos de 40%\n(velocidade instantânea) e 80% (média mensal) vinham dos RGQs de\n2011 (Res. 574/2011-SCM e 575/2011-SMP), revogados pela Res.\n717/2019, e valem como parâmetro histórico e referência\njurisprudencial; responsabilidade objetiva por defeito do\nserviço (CDC 14); vinculação da oferta (CDC 30); restituição\nproporcional + abatimento; dano moral em interrupções graves;\nvedação a franquia restritiva sem aviso; SCM e SMP."
+description: "Usar para pesquisar ou analisar: Internet Banda Larga: Velocidade e Qualidade (RQUAL, Res. 717/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Internet Banda Larga: Velocidade e Qualidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

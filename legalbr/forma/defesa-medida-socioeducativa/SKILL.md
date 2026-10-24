@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-medida-socioeducativa"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-medida-socioeducativa.md"
+sourcePath: "legalbr/forma/defesa-medida-socioeducativa/SKILL.md"
 triggers:
   - "execução socioeducativa"
   - "Lei 12.594 SINASE"
@@ -16,10 +16,15 @@ triggers:
   - "HC 143988"
   - "defesa na reavaliação socioeducativa"
   - "defesa contra internação-sanção"
-description: "Defesa na EXECUÇÃO da medida socioeducativa (SINASE Lei 12.594;\nECA 112-128): atos contestáveis (reavaliação desfavorável, regressão,\ninternação-sanção, transferência, sanção disciplinar); reavaliação\nsemestral obrigatória (art. 42); internação-sanção máximo 3 meses\n(ECA 122 §1); progressão pelo cumprimento dos objetivos do PIA;\nHC 143.988/ES veda superlotação; tema crítico para DP/NUDIJ."
+description: "Usar para redigir ou revisar: Defesa em Execução de Medida Socioeducativa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Execução de Medida Socioeducativa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Financiamento de Veículo e Busca e Apreensão (DL 911/69)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/financiamento-veiculo-busca-apreensao.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/financiamento-veiculo-busca-apreensao/SKILL.md"
 triggers:
   - "busca e apreensão de veículo financiado"
   - "DL 911/69"
@@ -18,10 +18,15 @@ triggers:
   - "mora ex re"
   - "consolidação da propriedade do veículo"
   - "veículo retomado"
-description: "Financiamento de veículo e busca e apreensão sob DL 911/1969\n(alterado pela Lei 10.931/2004 e 13.043/2014) + CDC + Tema 722\nSTJ: notificação prévia (mora ex re, mas exige comprovação);\npagamento da integralidade da dívida em 5 dias após a execução\nda liminar (não cabe purga parcial), prazo contado da execução\nda medida liminar (Tema 1.279 STJ); após esse prazo, consolidação\nda propriedade; revisão judicial de cláusulas abusivas; tarifas\ne encargos acessórios (Temas 618, 620, 958 e 972 STJ)."
+description: "Usar para pesquisar ou analisar: Financiamento de Veículo e Busca e Apreensão (DL 911/69). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Financiamento de Veículo e Busca e Apreensão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

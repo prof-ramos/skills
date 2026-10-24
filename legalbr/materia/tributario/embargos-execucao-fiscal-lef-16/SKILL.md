@@ -5,8 +5,8 @@ title: "Embargos à Execução Fiscal + Pré-Executividade (LEF 16 + Súm. 393 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/embargos-execucao-fiscal-lef-16.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/embargos-execucao-fiscal-lef-16/SKILL.md"
 triggers:
   - "embargos à execução fiscal"
   - "LEF 16"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 566 STJ"
   - "Tema 962 STJ"
   - "redirecionamento sócio"
-description: "Embargos à execução fiscal sob LEF 16 + CPC 914-920: 30 dias da\ngarantia (depósito, fiança, seguro, penhora); fiança/seguro não\nrecusáveis pela ordem legal da penhora (Tema 1.385 STJ); efeito\nsuspensivo não automático (Tema 526 STJ); pré-executividade\n(Súm. 393 STJ: sem garantia, matérias de ofício); prescrição\nintercorrente (Tema 566 STJ: 1 ano + 5 anos + contraditório do\nCPC 921 §5; interrupção só por efetiva constrição/citação, Tema\n568 STJ); CDA não pode mudar fundamento legal (Tema 1.350 STJ);\nredirecionamento (Súm. 435 STJ + Temas 962/981 STJ)."
+description: "Usar para pesquisar ou analisar: Embargos à Execução Fiscal + Pré-Executividade (LEF 16 + Súm. 393 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos à Execução Fiscal + Pré-Executividade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

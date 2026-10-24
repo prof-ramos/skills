@@ -5,8 +5,8 @@ title: "Contratos de Adesão (CDC 54 + CC 423-424)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/contratos-adesao-cdc-54.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/contratos-adesao-cdc-54/SKILL.md"
 triggers:
   - "contrato de adesão"
   - "CDC 54"
@@ -17,10 +17,15 @@ triggers:
   - "renúncia antecipada"
   - "boilerplate"
   - "cláusula limitativa"
-description: "Contratos de adesão sob CDC 54 + CC 423-424: cláusulas\npré-estabelecidas unilateralmente sem possibilidade real de\ndiscussão; redação clara em destaque (§3); cláusulas restritivas\nde direito com destaque imediato (§4); interpretação favorável\nao aderente (CC 423); nulidade de renúncia antecipada a direito\nresultante da natureza do negócio (CC 424); ônus do fornecedor\nde provar negociação."
+description: "Usar para pesquisar ou analisar: Contratos de Adesão (CDC 54 + CC 423-424). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos de Adesão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

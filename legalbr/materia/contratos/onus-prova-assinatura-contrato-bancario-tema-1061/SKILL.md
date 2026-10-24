@@ -5,8 +5,8 @@ title: "Ônus da Prova da Autenticidade de Assinatura em Contrato Bancário (Tem
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/onus-prova-assinatura-contrato-bancario-tema-1061.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/onus-prova-assinatura-contrato-bancario-tema-1061/SKILL.md"
 triggers:
   - "Tema 1.061 STJ"
   - "REsp 1.846.649"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 479 STJ"
   - "fraude empréstimo consignado"
   - "aposentado INSS empréstimo"
-description: "Tema 1061 STJ: quando o consumidor impugna a autenticidade da\nassinatura em contrato bancário juntado pelo banco, é da\ninstituição financeira o ônus de provar a autenticidade (CPC 429\nII, 369, 6). Aplicável a empréstimo consignado e fraude bancária."
+description: "Usar para pesquisar ou analisar: Ônus da Prova da Autenticidade de Assinatura em Contrato Bancário (Tema 1061 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ônus da Prova da Autenticidade de Assinatura em Contrato Bancário (Tema 1061 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1061 STJ)
 

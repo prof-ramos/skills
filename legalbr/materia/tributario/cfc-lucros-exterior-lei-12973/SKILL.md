@@ -5,8 +5,8 @@ title: "Tributação de Lucros no Exterior (CFC Rules, Lei 12.973/2014 + Lei 14.
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/cfc-lucros-exterior-lei-12973.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cfc-lucros-exterior-lei-12973/SKILL.md"
 triggers:
   - "lucros no exterior"
   - "CFC rules"
@@ -17,10 +17,15 @@ triggers:
   - "tributação universal renda mundial"
   - "paraíso fiscal"
   - "país de tributação favorecida"
-description: "Tributação de lucros no exterior Lei 12.973/14 + Lei 14.754/23\n(PF): consagra TRIBUTAÇÃO UNIVERSAL (renda mundial) com base\nno princípio da BASE GLOBAL; PJ com controlada/coligada no\nexterior tributa lucros AUFERIDOS no encerramento do exercício\n(regra) ou DISPONIBILIZADOS (coligada não-paraíso); STF Tema\n537 (art. 74 da MP 2.158-35 aplicável a controladas em países de\ntributação favorecida); novidade da Lei 14.754: tributação anual\nde offshores de PF."
+description: "Usar para pesquisar ou analisar: Tributação de Lucros no Exterior (CFC Rules, Lei 12.973/2014 + Lei 14.754/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tributação de Lucros no Exterior (CFC Rules)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

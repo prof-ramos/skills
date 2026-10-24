@@ -5,8 +5,8 @@ title: "Direitos Humanos: Sistema Internacional e Nacional (CF 5 + Corte IDH)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/direitos-humanos-sistema-internacional.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/direitos-humanos-sistema-internacional/SKILL.md"
 triggers:
   - "direitos humanos"
   - "CF 5 §3"
@@ -17,10 +17,15 @@ triggers:
   - "Súmula Vinculante 25"
   - "sistema interamericano"
   - "lesa-humanidade"
-description: "Direitos humanos no sistema internacional e nacional sob CF 4 II, 5 §§1-4 e\nPacto de San José (Decreto 678/92): princípios (universalidade, pro persona,\nvedação ao retrocesso); hierarquia EC × supralegal (RE 466.343 e Súm. Vinc.\n25); sistemas universal e interamericano (CIDH e Corte IDH); controle de\nconvencionalidade difuso e concentrado; grupos protegidos; monitoramento\ndo cumprimento das decisões internacionais pelo CNJ (DDH, Lei 15.434/2026)."
+description: "Usar para pesquisar ou analisar: Direitos Humanos: Sistema Internacional e Nacional (CF 5 + Corte IDH). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Humanos: Sistema Internacional e Nacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

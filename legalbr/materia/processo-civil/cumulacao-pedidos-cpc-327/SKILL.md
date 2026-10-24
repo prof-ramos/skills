@@ -5,8 +5,8 @@ title: "Cumulação de Pedidos (CPC 327-329)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/cumulacao-pedidos-cpc-327.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumulacao-pedidos-cpc-327/SKILL.md"
 triggers:
   - "cumulacao de pedidos"
   - "CPC 327"
@@ -17,10 +17,15 @@ triggers:
   - "cumulacao subsidiaria"
   - "cumulacao sucessiva"
   - "aditamento inicial"
-description: "Cumulação de pedidos (CPC 327-329): simples (autônomos), sucessiva\n(um pressupõe outro), alternativa (qualquer cumpre), subsidiária/\neventual (segundo se primeiro rejeitado); requisitos: compatibilidade\n+ mesmo juízo + procedimento adequado; aditamento até citação ou\ncom consentimento até saneamento (CPC 329)."
+description: "Usar para pesquisar ou analisar: Cumulação de Pedidos (CPC 327-329). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumulação de Pedidos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 327, REGRA GERAL
 

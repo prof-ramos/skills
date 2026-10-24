@@ -5,8 +5,8 @@ title: "Propriedade Intelectual: Marcas, Patentes, Direito Autoral e Tratados (L
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/propriedade-intelectual-tratados.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/propriedade-intelectual-tratados/SKILL.md"
 triggers:
   - "propriedade intelectual"
   - "Lei 9.279/1996"
@@ -19,10 +19,15 @@ triggers:
   - "ADI 5.529"
   - "acordo TRIPS"
   - "Protocolo de Madri"
-description: "Propriedade intelectual sob a CF 5 XXVII-XXIX e os tratados (CUP, TRIPS,\nPCT, Protocolo de Madri e Convenção de Berna): dualidade entre\npropriedade industrial (Lei 9.279/96) e direito autoral (Leis 9.610/98\ne 9.609/98); patentes, marcas, desenhos industriais e indicações\ngeográficas; direitos morais e patrimoniais do autor e proteção do\nsoftware."
+description: "Usar para pesquisar ou analisar: Propriedade Intelectual: Marcas, Patentes, Direito Autoral e Tratados (Lei 9.279/96 + 9.610/98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Propriedade Intelectual + Tratados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

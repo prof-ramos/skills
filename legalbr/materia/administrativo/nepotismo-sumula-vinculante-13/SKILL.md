@@ -5,8 +5,8 @@ title: "Nepotismo (Súm. Vinc. 13 + Tema 1.000 STF + Res. CNJ 7/2005)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/nepotismo-sumula-vinculante-13.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/nepotismo-sumula-vinculante-13/SKILL.md"
 triggers:
   - "nepotismo"
   - "Súm. Vinc. 13"
@@ -18,10 +18,15 @@ triggers:
   - "Res. CNJ 7"
   - "Res. CNJ 229"
   - "Res. CNMP 1"
-description: "Nepotismo (SV 13 STF): veda nomeação de cônjuge/companheiro/parente\naté 3º grau de autoridade nomeante para cargo em comissão/função\nde confiança; abrange ajuste recíproco (cruzado); cargos políticos\nem debate (Tema 1.000 STF, RE 1.133.118: tendência de estender a\nvedação também a cargos políticos de alto escalão, salvo\nexcepcionalidade; julgamento suspenso por pedido de vista, sem\ntrânsito); Res. CNJ 7/2005; Res. CNMP 1/2005."
+description: "Usar para pesquisar ou analisar: Nepotismo (Súm. Vinc. 13 + Tema 1.000 STF + Res. CNJ 7/2005). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nepotismo (Súm. Vinc. 13)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

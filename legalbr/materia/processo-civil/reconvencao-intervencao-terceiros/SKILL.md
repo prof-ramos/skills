@@ -5,8 +5,8 @@ title: "Reconvenção + Intervenção de Terceiros + Litisconsórcio (CPC 113-13
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/reconvencao-intervencao-terceiros.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/reconvencao-intervencao-terceiros/SKILL.md"
 triggers:
   - "reconvenção"
   - "intervenção de terceiros"
@@ -16,10 +16,15 @@ triggers:
   - "incidente de desconsideração da personalidade jurídica"
   - "pedido contraposto"
   - "prazo em dobro litisconsortes"
-description: "Litisconsórcio, reconvenção e intervenção de terceiros sob o CPC\n113-138 e 343: classificações do litisconsórcio (necessário/facultativo,\nunitário/simples) e regime de prazos; requisitos da reconvenção na\ncontestação e ampliações pelo CPC/15; modalidades de intervenção\n(assistência, denunciação da lide, chamamento ao processo, IDPJ e\namicus curiae)."
+description: "Usar para pesquisar ou analisar: Reconvenção + Intervenção de Terceiros + Litisconsórcio (CPC 113-138 + 343). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reconvenção + Intervenção de Terceiros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

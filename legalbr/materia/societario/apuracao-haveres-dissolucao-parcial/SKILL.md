@@ -5,8 +5,8 @@ title: "Apuração de Haveres e Dissolução Parcial"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/apuracao-haveres-dissolucao-parcial.md"
+version: 2
+sourcePath: "legalbr/materia/societario/apuracao-haveres-dissolucao-parcial/SKILL.md"
 triggers:
   - "apuração de haveres"
   - "dissolução parcial"
@@ -21,10 +21,15 @@ triggers:
   - "quebra de affectio"
   - "data base"
   - "balanço de determinação"
-description: "Dissolução parcial e apuração de haveres (CC 1.028-1.032 + CPC 599-609).\nHipóteses: morte (1.028), retirada (1.029), exclusão judicial por falta\ngrave (1.030), exclusão extrajudicial em justa causa (1.085 LTDA), quebra\nde affectio (jurisprudência). Apuração: balanço de determinação na data-base\n(CPC 606); critério legal padrão é o patrimônio líquido a valor de mercado, com\nfundo de comércio (goodwill prospectivo em regra afastado, REsp 1.877.331/SP),\nsalvo contrato diverso. Discounted cash flow só por convenção. Data-base\nvaria conforme causa (CC 1.031 + CPC 605). Atualização e pagamento (CC 1.031\n§2). Procedimento especial (CPC 599-609)."
+description: "Usar para pesquisar ou analisar: Apuração de Haveres e Dissolução Parcial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apuração de Haveres e Dissolução Parcial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

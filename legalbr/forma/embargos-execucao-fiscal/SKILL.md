@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "embargos-execucao-fiscal"
 version: 2
-sourcePath: "lib/skills/official/forma/embargos-execucao-fiscal.md"
+sourcePath: "legalbr/forma/embargos-execucao-fiscal/SKILL.md"
 triggers:
   - "embargos à execução fiscal"
   - "arts. 16 a 20 Lei 6.830/80"
@@ -15,10 +15,15 @@ triggers:
   - "nulidade da CDA certidão de dívida ativa"
   - "prescrição e decadência do crédito tributário"
   - "embargos do executado na Lei de Execução Fiscal"
-description: "Embargos à execução fiscal (arts. 16-20 LEF): 30 dias da garantia\n(prevalece a contagem em dias úteis, CPC 219 subsidiário; há\ndivergência residual pela contagem corrida: por cautela, protocolar\ndentro do prazo corrido); garantia integral (penhora, depósito em\ndinheiro: Súm. 112 STJ, fiança bancária, seguro garantia); matérias\namplas (art. 16 §2º) MAS sem reconvenção e compensação não líquida\n(§3º). Excesso de execução exige cálculo próprio. Atenção Súm. 392 e\n393 STJ."
+description: "Usar para redigir ou revisar: Embargos à Execução Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos à Execução Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

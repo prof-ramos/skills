@@ -5,8 +5,8 @@ title: "Aposentadoria por Incapacidade Permanente (Lei 8.213 + EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-incapacidade-lei-8213.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-incapacidade-lei-8213/SKILL.md"
 triggers:
   - "aposentadoria por incapacidade permanente"
   - "aposentadoria por invalidez"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 53 TNU"
   - "auxílio incapacidade"
   - "Lei 15.157/2025"
-description: "Aposentadoria por incapacidade permanente sob Lei 8.213 art. 42 +\nEC 103/2019: renomeada (era invalidez); cálculo 60% + 2%/ano > 20\n(h) / 15 (m), acidentária 100%; Tema 350 STF (prévio requerimento);\nTema 1.095 STF (acréscimo 25% só incapacidade, não estende); Tema\n1.124 STJ (prova nova e efeitos financeiros); Lei 15.157/2025\n(dispensa reavaliação irreversível)."
+description: "Usar para pesquisar ou analisar: Aposentadoria por Incapacidade Permanente (Lei 8.213 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria por Incapacidade Permanente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo + nomenclatura
 

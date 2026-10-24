@@ -5,8 +5,8 @@ title: "Prestação de Serviços (CC 593-609)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/prestacao-servicos-cc-593.md"
+version: 2
+sourcePath: "legalbr/materia/civil/prestacao-servicos-cc-593/SKILL.md"
 triggers:
   - "prestacao de servicos"
   - "CC 593"
@@ -20,10 +20,15 @@ triggers:
   - "resolucao contrato servicos"
   - "aviso previo servicos"
   - "Sum 363 STJ"
-description: "Prestação de serviços civis (CC 593-609): residual a relações não\nCLT; pode ter qualquer espécie de serviço lícito (CC 594); prazo\nmáximo 4 anos (CC 598); resolução por aviso prévio (CC 599);\nretribuição (CC 596); aliciamento (CC 608); morte e impossibilidade\n(CC 607); concorrência com CDC e CLT."
+description: "Usar para pesquisar ou analisar: Prestação de Serviços (CC 593-609). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prestação de Serviços (Civil)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 593, campo de aplicação
 

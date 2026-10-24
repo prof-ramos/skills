@@ -5,8 +5,8 @@ title: "Apelação Cível (CPC 1.009-1.014)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/apelacao-cpc-1009.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/apelacao-cpc-1009/SKILL.md"
 triggers:
   - "apelação cível"
   - "CPC 1.009"
@@ -17,10 +17,15 @@ triggers:
   - "teoria da causa madura"
   - "preclusão diferida"
   - "honorários recursais"
-description: "Apelação cível sob CPC 1.009-1.014: cabimento contra sentença e\npreclusão diferida de interlocutórias não agraváveis (CPC 1.009\n§1); efeito suspensivo automático (CPC 1.012 caput) com exceções\ndo §1; remessa automática pelo juízo a quo (1.010 §3); devolutividade\nampla e teoria da causa madura (CPC 1.013 §3); honorários recursais\n(CPC 85 §11)."
+description: "Usar para pesquisar ou analisar: Apelação Cível (CPC 1.009-1.014). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apelação Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 1.009)
 

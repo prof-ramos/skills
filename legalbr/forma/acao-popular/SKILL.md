@@ -5,8 +5,8 @@ title: "Ação Popular (Lei 4.717/65)"
 category: "forma"
 materia: null
 documentType: "acao-popular"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-popular.md"
+version: 2
+sourcePath: "legalbr/forma/acao-popular/SKILL.md"
 triggers:
   - "ação popular"
   - "art. 5º LXXIII CF"
@@ -16,10 +16,15 @@ triggers:
   - "moralidade administrativa e meio ambiente"
   - "litisconsórcio passivo necessário e MP"
   - "coisa julgada erga omnes e reexame necessário invertido"
-description: "Ação popular sob a CF 5º LXXIII e Lei 4.717/65: legitimidade do\ncidadão para anular ato lesivo a patrimônio público, moralidade\nadministrativa, meio ambiente e patrimônio histórico-cultural;\nlitisconsórcio passivo necessário e intervenção obrigatória do MP;\nliminar de suspensão, coisa julgada erga omnes e reexame necessário\ninvertido; isenção de custas salvo má-fé."
+description: "Usar para redigir ou revisar: Ação Popular (Lei 4.717/65). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Popular
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento
 

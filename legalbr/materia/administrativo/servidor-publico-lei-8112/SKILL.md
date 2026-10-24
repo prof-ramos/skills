@@ -5,8 +5,8 @@ title: "Servidor Público Estatutário (Lei 8.112/90 + CF 37-41)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/servidor-publico-lei-8112.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/servidor-publico-lei-8112/SKILL.md"
 triggers:
   - "servidor público estatutário"
   - "Lei 8.112 regime jurídico único"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 161 STF"
   - "Súmula 650 STJ"
   - "prescrição disciplinar art. 142"
-description: "Servidor público estatutário (Lei 8.112/90 + CF 37-41): LIMPE;\nconcurso (SV 43-44 + Tema 161/784); teto (Tema 377/384); ADI 2.135\n(RJU não obrigatório); estabilidade (CF 41); PAD (142 + Súm.\n635); demissão por art. 132 é ato vinculado (Súm. 650 STJ)."
+description: "Usar para pesquisar ou analisar: Servidor Público Estatutário (Lei 8.112/90 + CF 37-41). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Servidor Público Estatutário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 37: princípios + concurso + teto
 

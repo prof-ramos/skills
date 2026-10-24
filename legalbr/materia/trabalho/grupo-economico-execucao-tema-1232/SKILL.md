@@ -5,8 +5,8 @@ title: "Grupo Econômico em Execução Trabalhista (Tema 1.232 STF + RE 1.387.79
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/grupo-economico-execucao-tema-1232.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/grupo-economico-execucao-tema-1232/SKILL.md"
 triggers:
   - "Tema 1.232"
   - "RE 1.387.795"
@@ -19,10 +19,15 @@ triggers:
   - "sucessão empresarial"
   - "fraude à execução"
   - "contraditório execução"
-description: "Tema 1.232 STF (RE 1.387.795, Min. Dias Toffoli, acórdão publicado\n10/12/2025): o cumprimento de sentença trabalhista não pode ser\npromovido contra empresa que não participou da fase de conhecimento,\nainda que de grupo econômico (CLT 2 §§2-3); o reclamante deve indicar\nas corresponsáveis solidárias na inicial. Exceções: sucessão\nempresarial (CLT 448-A) e abuso da personalidade jurídica (IDPJ, CPC\n133-137). Distinção solidariedade material x contraditório processual."
+description: "Usar para pesquisar ou analisar: Grupo Econômico em Execução Trabalhista (Tema 1.232 STF + RE 1.387.795). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Grupo Econômico em Execução Trabalhista (Tema 1.232 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

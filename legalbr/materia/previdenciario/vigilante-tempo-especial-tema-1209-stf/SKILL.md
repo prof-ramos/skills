@@ -5,8 +5,8 @@ title: "Vigilante e Tempo Especial: Tema 1.209 STF (Superação do Tema 1.031 ST
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/vigilante-tempo-especial-tema-1209-stf.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/vigilante-tempo-especial-tema-1209-stf/SKILL.md"
 triggers:
   - "vigilante aposentadoria especial"
   - "Tema 1.209 STF"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 1.057 guarda civil"
   - "atividade de risco RGPS"
   - "vigilância patrimonial aposentadoria"
-description: "Tema 1.209 STF (RE 1.368.225, 2026): a atividade de vigilante, com ou\nsem arma de fogo, não é especial para o art. 201 §1 da CF; supera o\nTema 1.031 STJ. Periculosidade por si só não gera aposentadoria\nespecial no RGPS; alinhamento com o Tema 1.057 STF (guardas civis)."
+description: "Usar para pesquisar ou analisar: Vigilante e Tempo Especial: Tema 1.209 STF (Superação do Tema 1.031 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vigilante e Tempo Especial (Tema 1.209 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.209 STF)
 

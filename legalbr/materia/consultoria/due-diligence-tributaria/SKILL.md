@@ -5,8 +5,8 @@ title: "Due Diligence Tributária (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/due-diligence-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/due-diligence-tributaria/SKILL.md"
 triggers:
   - "due diligence tributária"
   - "DD fiscal"
@@ -16,10 +16,15 @@ triggers:
   - "CTN 133 fundo de comércio"
   - "PERT REFIS transação"
   - "reforma tributária EC 132"
-description: "Due diligence tributária: federais (IRPJ/CSLL/PIS/COFINS/IPI),\nestaduais (ICMS/ICMS-ST), municipais (ISS), previdenciárias,\nacessórias (ECF/EFD/SPED), contencioso (CARF/TIT/CMT/CMM),\nsucessão (CTN 132-133), parcelamentos e transação (Lei 13.988),\nbenefícios fiscais, transfer pricing (Lei 14.596), reforma\ntributária (EC 132 + LC 214) e créditos acumulados."
+description: "Usar para pesquisar ou analisar: Due Diligence Tributária (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tributos por esfera
 

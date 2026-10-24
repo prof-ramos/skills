@@ -5,8 +5,8 @@ title: "Vícios Construtivos em Imóvel (CDC + CC 618 + Lei 4.591)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/vicio-imovel-construtora.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/vicio-imovel-construtora/SKILL.md"
 triggers:
   - "vício construtivo"
   - "CC 618"
@@ -18,10 +18,15 @@ triggers:
   - "rachadura"
   - "habite-se"
   - "patologia construtiva"
-description: "Vícios construtivos em imóvel sob CDC 12-18-26-27 + CC 618 + Lei\n4.591/1964 + Lei 13.786/2018: garantia quinquenal de solidez e\nsegurança (CC 618); responsabilidade objetiva da construtora/\nincorporadora; vícios aparentes (decadência CDC 26) vs ocultos\n(da descoberta dentro da vida útil); fato do produto (5 anos,\nCDC 27); responsabilidade solidária na cadeia."
+description: "Usar para pesquisar ou analisar: Vícios Construtivos em Imóvel (CDC + CC 618 + Lei 4.591). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vícios Construtivos em Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

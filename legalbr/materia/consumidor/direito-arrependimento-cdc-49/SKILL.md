@@ -5,8 +5,8 @@ title: "Direito de Arrependimento (CDC 49 + Dec. 7.962/2013)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/direito-arrependimento-cdc-49.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/direito-arrependimento-cdc-49/SKILL.md"
 triggers:
   - "direito de arrependimento"
   - "CDC 49"
@@ -18,10 +18,15 @@ triggers:
   - "venda a distância"
   - "e-commerce arrependimento"
   - "logística reversa"
-description: "Direito de arrependimento sob CDC 49 + Dec. 7.962/2013: prazo de\n7 dias corridos para desistência sem motivação em compras fora do\nestabelecimento (internet, telefone, domicílio, catálogo);\ninaplicabilidade em compras presenciais; estorno integral inclusive\nfrete (STJ, REsp 1.340.604/RJ); termo inicial da assinatura/recebimento (o\nposterior); fundamento na vulnerabilidade pelo método de oferta."
+description: "Usar para pesquisar ou analisar: Direito de Arrependimento (CDC 49 + Dec. 7.962/2013). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Arrependimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

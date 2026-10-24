@@ -5,8 +5,8 @@ title: "Leasing (Arrendamento Mercantil) sob a Lei 6.099 e Súmulas STJ"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/leasing-arrendamento-mercantil.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/leasing-arrendamento-mercantil/SKILL.md"
 triggers:
   - "leasing"
   - "arrendamento mercantil"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 564 STJ"
   - "Res. CMN 2.309"
   - "valor residual garantido"
-description: "Leasing (arrendamento mercantil) sob Lei 6.099/1974 + Res. CMN\n2.309/1996 + súmulas STJ: financeiro vs operacional vs back;\ncobrança antecipada do VRG (Valor Residual Garantido) **não\ndescaracteriza** o leasing (Súm. 263 STJ cancelada; atual Súm. 293);\nna reintegração, se VRG pago + venda superar o VRG contratual, o\narrendatário recebe a diferença (Súm. 564); reintegração de posse\nexige notificação prévia (Súm. 369); aplicação do CDC (Súm. 297);\nresolução do contrato e devolução proporcional do VRG; ISS sobre\nleasing (Súm. 138 STJ + Tema 125 STF)."
+description: "Usar para pesquisar ou analisar: Leasing (Arrendamento Mercantil) sob a Lei 6.099 e Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Leasing (Arrendamento Mercantil)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

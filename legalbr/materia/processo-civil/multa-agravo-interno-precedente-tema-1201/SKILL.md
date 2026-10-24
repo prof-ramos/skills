@@ -5,8 +5,8 @@ title: "Multa por Agravo Interno contra Precedente Qualificado (Tema 1.201 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/multa-agravo-interno-precedente-tema-1201.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/multa-agravo-interno-precedente-tema-1201/SKILL.md"
 triggers:
   - "Tema 1.201 STJ"
   - "multa agravo interno"
@@ -17,10 +17,15 @@ triggers:
   - "distinguishing overruling"
   - "exaurimento instância recursal"
   - "multa do CPC 1.021"
-description: "Tema 1.201 STJ (Corte Especial, j. 06/08/2025): cabe a multa\ndo CPC 1.021 §4 (1 a 5% sobre valor atualizado da causa) contra\nagravo interno que ataca decisão baseada em PRECEDENTE QUALIFICADO\n(CPC 927 III), AINDA QUE com fim de exaurir instância. NÃO cabe\nmulta se (i) argumentada FUNDAMENTADAMENTE distinção/superação,\nou (ii) decisão agravada se ampara em julgado de 2º grau."
+description: "Usar para pesquisar ou analisar: Multa por Agravo Interno contra Precedente Qualificado (Tema 1.201 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multa por Agravo Interno contra Precedente Qualificado (Tema 1.201 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.201 STJ, Corte Especial)
 

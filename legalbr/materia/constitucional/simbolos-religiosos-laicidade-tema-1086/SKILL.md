@@ -5,8 +5,8 @@ title: "Símbolos Religiosos em Órgãos Públicos e Laicidade (Tema 1.086 STF)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/simbolos-religiosos-laicidade-tema-1086.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/simbolos-religiosos-laicidade-tema-1086/SKILL.md"
 triggers:
   - "símbolos religiosos órgãos públicos"
   - "crucifixo Tribunal"
@@ -17,10 +17,15 @@ triggers:
   - "CF 5 VI"
   - "liberdade religiosa Estado"
   - "separação Estado religião"
-description: "Tema 1.086 STF (ARE 1.249.095, rel. Min. Cristiano Zanin, 26/11/2024):\na presença de símbolos religiosos (crucifixo) em prédios públicos de\nqualquer dos Poderes e entes federativos, desde que tenha o objetivo\nde manifestar a tradição cultural da sociedade brasileira, não viola\na não discriminação, a laicidade estatal e a impessoalidade.\nLaicidade = neutralidade não-hostil, não secularismo radical. Não\nautoriza ensino confessional obrigatório nem imposição de novos\nsímbolos. CF 5 VI/VIII + 19 I."
+description: "Usar para pesquisar ou analisar: Símbolos Religiosos em Órgãos Públicos e Laicidade (Tema 1.086 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Símbolos Religiosos em Órgãos Públicos e Laicidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

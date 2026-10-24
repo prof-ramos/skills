@@ -5,8 +5,8 @@ title: "Leiloeiro Oficial: Matrícula, Fiança e Comissão (Dec. 21.981/32; Tema
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/leiloeiro-oficial-dec-21981-tema-455.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/leiloeiro-oficial-dec-21981-tema-455/SKILL.md"
 triggers:
   - "leiloeiro oficial"
   - "leiloeiro público"
@@ -18,10 +18,15 @@ triggers:
   - "comissão de 5% arrematação"
   - "CPC 884 leiloeiro"
   - "credenciamento de leiloeiro leilão administrativo"
-description: "Profissão de leiloeiro oficial (Decreto 21.981/1932): matrícula na Junta\nComercial (Lei 8.934/94, art. 32, I), fiança dos arts. 6º a 8º (Tema 455 STF:\ncompatível com a CF), privatividade do leilão, comissão (5% do arrematante;\n5%/3% do comitente), proibições, leilão judicial (CPC arts. 879 a 884 e 903)\ne leilão administrativo (Lei 14.133/2021, art. 31)."
+description: "Usar para pesquisar ou analisar: Leiloeiro Oficial: Matrícula, Fiança e Comissão (Dec. 21.981/32; Tema 455 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Leiloeiro Oficial (Decreto 21.981/1932)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Profissão e matrícula
 

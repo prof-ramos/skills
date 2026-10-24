@@ -5,8 +5,8 @@ title: "Penhor (CC 1.431-1.472 + Lei 11.076/2004)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/penhor-cc-1431.md"
+version: 2
+sourcePath: "legalbr/materia/civil/penhor-cc-1431/SKILL.md"
 triggers:
   - "penhor convencional"
   - "CC 1.431"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 11.076/2004"
   - "cédula rural"
   - "credor pignoratício"
-description: "Penhor CC 1.431-1.472: tradição da posse ao credor (regra);\nexceções RURAL + INDUSTRIAL + MERCANTIL (tradição FICTÍCIA);\ndistinção penhor (direito real) × penhora (CPC 861, quotas\nsociais); CC 1.467 penhor LEGAL TAXATIVO (hospedeiro + locador);\nCC 1.469-1.471 homologação judicial OU notarial (CPC 703); Lei\n11.076/04 CDA + WA (warrant agropecuário); Lei 14.421/2022\n(atualização da Lei 492/1937, penhor rural)."
+description: "Usar para pesquisar ou analisar: Penhor (CC 1.431-1.472 + Lei 11.076/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.431-1.437: REGRA GERAL
 

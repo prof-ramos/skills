@@ -5,8 +5,8 @@ title: "Princípio da Insignificância (STF HC 84.412 + HC 123.108)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/principio-insignificancia-hc-84412.md"
+version: 2
+sourcePath: "legalbr/materia/penal/principio-insignificancia-hc-84412/SKILL.md"
 triggers:
   - "princípio da insignificância"
   - "bagatela"
@@ -18,10 +18,15 @@ triggers:
   - "insignificância previdenciária"
   - "atipicidade material"
   - "porte munição insignificância"
-description: "Insignificância sob STF HC 84.412 (Celso de Mello): 4 vetores\ncumulativos (mínima ofensividade + sem periculosidade + reduzida\nreprovabilidade + inexpressividade); atipicidade MATERIAL; STF\nHC 123.108 (caso a caso, reincidência não impede automaticamente);\nSúm. 599 (sem em Adm. Pública); previdenciária (STF não admite); Tema 157\n(descaminho R$ 20.000); arma/munição (perigo abstrato: sem, em regra)."
+description: "Usar para pesquisar ou analisar: Princípio da Insignificância (STF HC 84.412 + HC 123.108). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípio da Insignificância
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STF HC 84.412 (Min. Celso de Mello, 2004): marco fundante
 

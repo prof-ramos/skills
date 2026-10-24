@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-pad"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-pad.md"
+sourcePath: "legalbr/forma/defesa-pad/SKILL.md"
 triggers:
   - "defesa em PAD"
   - "processo administrativo disciplinar Lei 8.112/90"
@@ -16,10 +16,15 @@ triggers:
   - "proporcionalidade da pena demissão"
   - "defesa de servidor público em PAD"
   - "defesa escrita após indiciamento no PAD"
-description: "Defesa em Processo Administrativo Disciplinar (Lei 8.112/90 arts.\n143-182; Lei 9.784/99 subsidiária; CF 5º LIV-LV e 37 §4º): fases\ndo art. 151 (instauração, inquérito, julgamento); defesa escrita\napós indiciação do art. 161 (10+10 dias); preliminares de nulidade\nda comissão, cerceamento e prescrição; mérito sobre tipicidade,\nautoria, dolo, proporcionalidade e independência de instâncias."
+description: "Usar para redigir ou revisar: Defesa em Processo Administrativo Disciplinar (PAD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em PAD: Processo Administrativo Disciplinar
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

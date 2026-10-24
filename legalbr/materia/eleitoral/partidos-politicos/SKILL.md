@@ -5,8 +5,8 @@ title: "Partidos Políticos (Lei 9.096/1995 + EC 97/2017 + Lei 14.208/2021)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/partidos-politicos.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/partidos-politicos/SKILL.md"
 triggers:
   - "partidos políticos"
   - "Lei 9.096/1995"
@@ -15,10 +15,15 @@ triggers:
   - "apoiamento mínimo criação de partido"
   - "dupla filiação partidária"
   - "caráter nacional dos partidos"
-description: "Partidos políticos sob a CF 17 e a Lei 9.096/1995: criação, registro\nno TSE e apoiamento; filiação, fidelidade e janela partidária; cláusula\nde desempenho (EC 97/2017) e federações partidárias (Lei 14.208/2021);\nFundo Partidário, FEFC e prestação de contas à Justiça Eleitoral."
+description: "Usar para pesquisar ou analisar: Partidos Políticos (Lei 9.096/1995 + EC 97/2017 + Lei 14.208/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Partidos Políticos (Lei 9.096/1995)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

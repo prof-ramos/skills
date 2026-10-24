@@ -5,8 +5,8 @@ title: "BACEN e CMN: Regulação e Procedimento Sancionador"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/bacen-cmn-procedimentos.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/bacen-cmn-procedimentos/SKILL.md"
 triggers:
   - "BACEN"
   - "Banco Central do Brasil"
@@ -20,10 +20,15 @@ triggers:
   - "termo compromisso BCB"
   - "acordo administrativo supervisão"
   - "inabilitação dirigente"
-description: "Regulação e processo sancionador do Banco Central (BACEN/BCB). Base: Lei 4.595/64\n(Sistema Financeiro Nacional), Lei 13.506/17 (novo processo sancionador\n+ termo de compromisso + acordo administrativo em supervisão), LC\n105/2001 (sigilo bancário), Lei 9.613/98 (lavagem), Lei 9.069/95\n(Plano Real), Lei 12.865/13 (arranjos de pagamento). Procedimento:\nPA sancionador BCB; defesa em 30 dias; CRSFN como segunda instância.\nSanções: advertência, multa (até R$ 2 bi em alguns casos), inabilitação,\ncassação. Termo de compromisso (Lei 13.506 art. 30): saída consensual."
+description: "Usar para pesquisar ou analisar: BACEN e CMN: Regulação e Procedimento Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # BACEN e CMN: Regulação e Procedimento Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

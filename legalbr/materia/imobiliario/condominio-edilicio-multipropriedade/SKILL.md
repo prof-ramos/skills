@@ -5,8 +5,8 @@ title: "Condomínio Edilício + Multipropriedade (CC 1.331-1.358 + Lei 13.777/20
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/condominio-edilicio-multipropriedade.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/condominio-edilicio-multipropriedade/SKILL.md"
 triggers:
   - "condomínio edilício"
   - "CC 1.331"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.391 STJ"
   - "cota condominial"
   - "condômino antissocial"
-description: "Condomínio edilício e multipropriedade sob CC 1.331-1.358-U +\nLei 4.591/64 + Lei 13.777/2018: convenção, assembleias e\nquóruns; despesas propter rem; Súm. 478 STJ (crédito condominial\nprefere ao hipotecário na execução); condômino antissocial;\nassembleias virtuais (Lei 14.309/2022); multipropriedade em\nfrações temporais e locação por temporada. Responsabilidade por\ndespesas condominiais (Tema 886 STJ - relação material com o\nimóvel: posse do promitente comprador + ciência inequívoca do\ncondomínio). Tema 1.391 STJ: débitos condominiais, mesmo\nanteriores ao pedido de recuperação judicial, são extraconcursais."
+description: "Usar para pesquisar ou analisar: Condomínio Edilício + Multipropriedade (CC 1.331-1.358 + Lei 13.777/2018). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Condomínio Edilício + Multipropriedade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

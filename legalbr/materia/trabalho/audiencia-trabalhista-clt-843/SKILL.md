@@ -5,8 +5,8 @@ title: "Audiência Trabalhista (CLT 843 a 852)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/audiencia-trabalhista-clt-843.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/audiencia-trabalhista-clt-843/SKILL.md"
 triggers:
   - "audiência trabalhista"
   - "CLT 843"
@@ -16,10 +16,15 @@ triggers:
   - "Súm. 122 TST"
   - "carta de preposição"
   - "arquivamento da reclamação"
-description: "Audiência trabalhista (CLT 843-852): presença obrigatória das partes\n(843); ausência do reclamante = arquivamento; ausência do reclamado\n= revelia (844); tentativas obrigatórias de conciliação (846, 850);\noitiva de testemunhas; produção de provas; Súm. 122 TST (atestado\nmédico para justificar ausência); IN 39/2016 e CPC subsidiário."
+description: "Usar para pesquisar ou analisar: Audiência Trabalhista (CLT 843 a 852). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

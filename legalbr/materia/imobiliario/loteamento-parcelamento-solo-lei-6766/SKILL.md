@@ -5,8 +5,8 @@ title: "Parcelamento do Solo Urbano (Lei 6.766/1979 + Lei 13.465/2017)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/loteamento-parcelamento-solo-lei-6766.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/loteamento-parcelamento-solo-lei-6766/SKILL.md"
 triggers:
   - "parcelamento do solo"
   - "Lei 6.766/1979"
@@ -22,10 +22,15 @@ triggers:
   - "CC 1.358-A"
   - "taxa de manutenção de loteamento"
   - "Tema 492 STF"
-description: "Lei 6.766/1979 (parcelamento do solo urbano): loteamento ×\ndesmembramento × condomínio de lotes (CC 1.358-A); registro\nimobiliário do parcelamento (arts. 18-21); art. 26 §6 -\nirretratabilidade presumida do compromisso registrado;\ninadimplemento (arts. 32-38) + intervenção municipal (40);\ntaxa de manutenção de não associado (art. 36-A + Tema 492\nSTF + Tema 882 STJ); loteamento clandestino/irregular -\nREURB Lei 13.465/2017."
+description: "Usar para pesquisar ou analisar: Parcelamento do Solo Urbano (Lei 6.766/1979 + Lei 13.465/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parcelamento do Solo Urbano
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

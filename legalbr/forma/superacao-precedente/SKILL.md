@@ -5,8 +5,8 @@ title: "Pedido de Superação de Precedente (Overruling)"
 category: "forma"
 materia: null
 documentType: "superacao-precedente"
-version: 1
-sourcePath: "lib/skills/official/forma/superacao-precedente.md"
+version: 2
+sourcePath: "legalbr/forma/superacao-precedente/SKILL.md"
 triggers:
   - "overruling"
   - "superação de precedente"
@@ -18,10 +18,15 @@ triggers:
   - "virada jurisprudencial"
   - "prospective overruling"
   - "mudança de paradigma"
-description: "Pedido de superação (overruling) de precedente vinculante. CPC 927 §§2\ne 4: exige fundamentação adequada e específica; pode haver audiência\npública prévia (§2). Cancelamento de súmula vinculante (art. 3 Lei\n11.417/06: quórum 2/3). Revisão de tese repetitiva (CPC 986). IRDR.\nDistinção entre distinguishing (não aplico), overruling (revogo) e\noverriding (limito). Pedido autônomo de revisão ou em ED do leading case."
+description: "Usar para redigir ou revisar: Pedido de Superação de Precedente (Overruling). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Superação de Precedente (Overruling)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceitos: três técnicas distintas
 

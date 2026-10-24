@@ -5,8 +5,8 @@ title: "Gratificações de Desempenho a Inativos, Paridade e Termo Final (Temas 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/gratificacoes-desempenho-inativos-paridade.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/gratificacoes-desempenho-inativos-paridade/SKILL.md"
 triggers:
   - "gratificação de desempenho inativos"
   - "Tema 156 STF"
@@ -20,10 +20,15 @@ triggers:
   - "GDPST inativos"
   - "GDACT inativos"
   - "vantagem de caráter geral inativos"
-description: "Extensão de gratificações de desempenho a inativos e pensionistas com\nparidade: Tema 156 STF (vantagens de caráter geral são extensíveis), Tema\n351 (GDPGPE em 80 pontos), Temas 664/983/1.289 (termo final = homologação\ndo resultado do 1º ciclo de avaliação; alteração de limite mínimo não reabre\nparidade) e Temas 409/410/447/54 (GDPST, GDPGTAS, GDAMB e GDACT)."
+description: "Usar para pesquisar ou analisar: Gratificações de Desempenho a Inativos, Paridade e Termo Final (Temas 156, 351, 664, 983 e 1.289 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gratificações de Desempenho a Inativos: Paridade e Termo Final
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Complemento às SVs 20 e 34 (lógica pro labore faciendo aplicada à GDATA e à GDASST, vide [[sumula-vinculante-20-gdata-inativos]] e [[sumula-vinculante-34-gdasst-inativos]]). Esta skill concentra os temas de repercussão geral que decidem as execuções atuais: quem tem direito, em quantos pontos e, sobretudo, **até quando**.
 

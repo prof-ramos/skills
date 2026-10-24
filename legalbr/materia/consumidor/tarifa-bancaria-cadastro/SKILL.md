@@ -5,8 +5,8 @@ title: "Tarifas Bancárias (Tema 618 STJ + Súm. 565)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/tarifa-bancaria-cadastro.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/tarifa-bancaria-cadastro/SKILL.md"
 triggers:
   - "tarifa de cadastro"
   - "tarifa de abertura de crédito"
@@ -18,10 +18,15 @@ triggers:
   - "tarifa de registro"
   - "tarifa de avaliação"
   - "tarifa essencial"
-description: "Tarifas bancárias sob Tema 618 STJ + Res. CMN 3.518/2007 +\n3.919/2010 + Súm. 565 STJ: tarifa de cadastro admitida apenas\nno início do relacionamento; TAC e TEC vedadas após 30/04/2008\n(Súm. 565); serviços de terceiros (avaliação), restrita à\nefetiva prestação; tarifa de registro de contrato admitida com\nprestação demonstrada; classificação CMN/BCB de tarifas\n(essenciais isentas, prioritárias e especiais)."
+description: "Usar para pesquisar ou analisar: Tarifas Bancárias (Tema 618 STJ + Súm. 565). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tarifas Bancárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

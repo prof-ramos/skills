@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/direito-saude-mental-raps-lei-10216.md"
+sourcePath: "legalbr/materia/saude/direito-saude-mental-raps-lei-10216/SKILL.md"
 triggers:
   - "saúde mental"
   - "Lei 10.216"
@@ -22,10 +22,15 @@ triggers:
   - "medida de segurança"
   - "diretivas antecipadas"
   - "Lei 15.450 psicofármacos crianças"
-description: "Saúde mental: Lei 10.216/2001, CAPS/RAPS, tratamento em meio aberto, internações e comunicação ao MP em 72h; Res. CNJ 487/2023, Lei 13.840/2019, medida de segurança (CP 97; Súm. 527 STJ), diretivas antecipadas e Tema 1.082 STJ."
+description: "Usar para pesquisar ou analisar: Direito à Saúde Mental e RAPS (Lei 10.216 + Política Antimanicomial). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito à Saúde Mental e RAPS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

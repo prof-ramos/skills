@@ -5,8 +5,8 @@ title: "ADC 29 + ADC 30 + ADI 4578: Lei da Ficha Limpa (LC 135/2010)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/adc-29-30-ficha-limpa.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/adc-29-30-ficha-limpa/SKILL.md"
 triggers:
   - "ADC 29"
   - "ADC 30"
@@ -17,10 +17,15 @@ triggers:
   - "retroatividade ficha limpa"
   - "condenação órgão colegiado"
   - "LC 64/1990"
-description: "ADC 29 + 30 + ADI 4578 (Luiz Fux, 16/02/2012, por maioria): LC\n135/2010 (Ficha Limpa) é constitucional; aplica-se a fatos\npretéritos; condenação por órgão colegiado basta (CF 14 §9);\nprazo de 8 anos. ADI 7881 (LC 219/2025) suspensa por pedido de\nvista (28/05/2026)."
+description: "Usar para pesquisar ou analisar: ADC 29 + ADC 30 + ADI 4578: Lei da Ficha Limpa (LC 135/2010). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADC 29 + ADC 30 + ADI 4578: Ficha Limpa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

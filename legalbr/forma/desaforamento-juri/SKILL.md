@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "desaforamento-juri"
 version: 2
-sourcePath: "lib/skills/official/forma/desaforamento-juri.md"
+sourcePath: "legalbr/forma/desaforamento-juri/SKILL.md"
 triggers:
   - "desaforamento"
   - "art. 427 CPP"
@@ -16,10 +16,15 @@ triggers:
   - "segurança do acusado"
   - "desaforamento do tribunal do júri"
   - "pedido de desaforamento da comarca"
-description: "Desaforamento do júri (CPP 427-428): ordem pública, imparcialidade,\nsegurança do acusado ou demora superior a 6 meses sem culpa da defesa.\nCompetência do tribunal; o relator pode conceder efeito suspensivo ao\njulgamento (CPP 427 §2º)."
+description: "Usar para redigir ou revisar: Desaforamento do Júri. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desaforamento do Tribunal do Júri
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

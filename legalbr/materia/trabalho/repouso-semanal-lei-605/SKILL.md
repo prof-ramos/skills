@@ -5,8 +5,8 @@ title: "Repouso Semanal Remunerado (Lei 605/1949)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/repouso-semanal-lei-605.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/repouso-semanal-lei-605/SKILL.md"
 triggers:
   - "RSR"
   - "DSR"
@@ -16,10 +16,15 @@ triggers:
   - "feriado trabalhado"
   - "Súm. 146 TST"
   - "OJ 410 SDI-1"
-description: "Repouso semanal remunerado (Lei 605/49 + CF 7 XV): 24h consecutivas,\npreferencialmente no domingo; reflexo das horas extras sobre o RSR\n(Súm. 172 TST); trabalho em feriado não compensado paga em dobro\n(Súm. 146 TST); revisão da OJ 394 SDI-1 (j. 20/03/2023): RSR majorado\npor HE habituais passou a repercutir em férias, 13º, aviso e FGTS para\nHE prestadas a partir do corte temporal."
+description: "Usar para pesquisar ou analisar: Repouso Semanal Remunerado (Lei 605/1949). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repouso Semanal Remunerado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

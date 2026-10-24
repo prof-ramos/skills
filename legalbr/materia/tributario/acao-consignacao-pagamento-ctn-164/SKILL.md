@@ -5,8 +5,8 @@ title: "Ação de Consignação em Pagamento Tributária (CTN 164 + CPC 539-549)
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/acao-consignacao-pagamento-ctn-164.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/acao-consignacao-pagamento-ctn-164/SKILL.md"
 triggers:
   - "consignação em pagamento tributária"
   - "CTN 164"
@@ -15,10 +15,15 @@ triggers:
   - "dúvida sobre credor"
   - "recusa de recebimento"
   - "extinção do crédito tributário"
-description: "Consignação CTN 164 (3 hipóteses: recusa, subordinação a tributo\noutro, bitributação) + CPC 539-549; depósito do montante INTEGRAL\ndo tributo que entende devido; procedência → extinção (CTN 156\nVIII); só admite divergência sobre VALOR ou CREDOR (não admite\ndiscussão de mérito da exigência: usar anulatória/MS); Súm. 464\nSTJ (imputação do CC não se aplica); Tema 296 STF (lista do ISS\ntaxativa) orienta a bitributação ISS × ICMS."
+description: "Usar para pesquisar ou analisar: Ação de Consignação em Pagamento Tributária (CTN 164 + CPC 539-549). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Consignação em Pagamento Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Due Diligence de Terceiros (3PDD): Anticorrupção"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/due-diligence-terceiros-anticorrupcao.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/due-diligence-terceiros-anticorrupcao/SKILL.md"
 triggers:
   - "due diligence de terceiros"
   - "third-party due diligence"
@@ -16,10 +16,15 @@ triggers:
   - "intermediário comercial"
   - "due diligence anticorrupção"
   - "sanctions screening"
-description: "Due diligence de terceiros (3PDD) sob Lei 12.846 + Decreto\n11.129/22 + FCPA + UK Bribery Act: tiering por risco (alto/\nmédio/baixo), questionário, background check, listas\nrestritivas (OFAC, EU, UN, CEIS, CNEP, lista suja MTE, ICIJ),\nmídia adversa, red flags, cláusulas contratuais anticorrupção,\naudit rights, renovação periódica e remediação."
+description: "Usar para pesquisar ou analisar: Due Diligence de Terceiros (3PDD): Anticorrupção. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence de Terceiros (3PDD)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Por que
 

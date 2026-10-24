@@ -5,8 +5,8 @@ title: "Alienação Parental (Lei 12.318/2010 + Lei 14.340/2022)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/alienacao-parental-lei-12318.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/alienacao-parental-lei-12318/SKILL.md"
 triggers:
   - "alienação parental"
   - "Lei 12.318/2010"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 13.431/2017"
   - "escuta especializada"
   - "depoimento especial"
-description: "Alienação parental Lei 12.318/2010 + Lei 14.340/2022 (reforma):\nart. 2 conduta EXEMPLIFICATIVA (campanha + obstrução + falsa\ndenúncia + mudança); art. 6 sanções (advertência + ampliação +\nmulta + acompanhamento + ALTERAÇÃO de guarda); guarda compartilhada\nREGRA (Lei 13.058/2014); Lei 14.340 visitação assistida + escuta\nLei 13.431; CNJ Rec. 157/2024 protocolo; violência vicária."
+description: "Usar para pesquisar ou analisar: Alienação Parental (Lei 12.318/2010 + Lei 14.340/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alienação Parental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.318/2010: definição
 

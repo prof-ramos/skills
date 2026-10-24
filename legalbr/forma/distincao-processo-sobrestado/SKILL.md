@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "distincao-processo-sobrestado"
 version: 2
-sourcePath: "lib/skills/official/forma/distincao-processo-sobrestado.md"
+sourcePath: "legalbr/forma/distincao-processo-sobrestado/SKILL.md"
 triggers:
   - "requerimento de distinção CPC 1.037"
   - "distinguishing processo sobrestado"
@@ -17,10 +17,15 @@ triggers:
   - "levantamento de suspensão por tema repetitivo"
   - "distinção quanto ao tema afetado CPC 1.036"
   - "prosseguimento apesar da suspensão nacional por repetitivo"
-description: "Requerimento de distinção do CPC 1.037 §9: parte demonstra que a\nquestão do seu processo difere da afetada em repetitivo/repercussão\ngeral e pede o prosseguimento do feito sobrestado. Endereçamento\nconforme o §10 (juiz ou relator), contraditório de 5 dias (§11),\nefeitos do §12 e via recursal bifurcada do §13 (agravo de instrumento\nem 1º grau; agravo interno contra decisão de relator)."
+description: "Usar para redigir ou revisar: Requerimento de Distinção em Processo Sobrestado (CPC 1.037 § 9). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Requerimento de Distinção em Processo Sobrestado (CPC 1.037 § 9)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Contexto: afetação e suspensão
 

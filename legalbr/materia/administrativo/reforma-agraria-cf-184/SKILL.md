@@ -5,8 +5,8 @@ title: "Reforma Agrária (CF 184-191 + Lei 8.629/1993 + LC 76/1993)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/reforma-agraria-cf-184.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/reforma-agraria-cf-184/SKILL.md"
 triggers:
   - "reforma agrária"
   - "CF 184"
@@ -21,10 +21,15 @@ triggers:
   - "TDA títulos da dívida agrária"
   - "INCRA"
   - "EC 81/2014"
-description: "Reforma agrária CF 184-191: União desapropria por interesse social\n+ indenização TDA (§1 benfeitorias em dinheiro); LC 76/1993 rito;\nCF 185 INSUSCETÍVEIS (pequena/média + PRODUTIVA, lida em conjunto\ncom a função social do CF 186); CF 186 4 requisitos (racional +\nambiental + trabalho + bem-estar); CF 191 usucapião especial\nrural (50 ha + 5a); EC 81/2014 expropriação trabalho escravo."
+description: "Usar para pesquisar ou analisar: Reforma Agrária (CF 184-191 + Lei 8.629/1993 + LC 76/1993). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reforma Agrária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 184: desapropriação por interesse social
 

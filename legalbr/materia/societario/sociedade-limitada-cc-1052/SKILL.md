@@ -5,8 +5,8 @@ title: "Sociedade Limitada (CC 1.052-1.087 + LC 123/2006)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-limitada-cc-1052.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-limitada-cc-1052/SKILL.md"
 triggers:
   - "sociedade limitada"
   - "CC 1.052"
@@ -19,10 +19,15 @@ triggers:
   - "desvio de finalidade"
   - "confusão patrimonial"
   - "exclusão extrajudicial CC 1.085"
-description: "Sociedade limitada sob CC 1.052-1.087 + LC 123/2006 + Lei 13.874/\n2019 + Lei 14.382/2022 (extinção da EIRELI → SLU) + Lei 14.451/\n2022 (quóruns reduzidos): responsabilidade limitada às quotas;\nSLU (unipessoal); contrato social; deliberações; direitos dos\nsócios (retirada, exclusão, preferência); CC 50 desconsideração\ncom requisitos restritivos (Lei 13.874/19)."
+description: "Usar para pesquisar ou analisar: Sociedade Limitada (CC 1.052-1.087 + LC 123/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade Limitada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Coisa Julgada: Limites e Relativização (CPC 502-508)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/coisa-julgada-limites-relativizacao.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/coisa-julgada-limites-relativizacao/SKILL.md"
 triggers:
   - "limites da coisa julgada"
   - "relativização da coisa julgada"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 392 STF"
   - "Tema 881 STF"
   - "Tema 885 STF"
-description: "Coisa julgada sob CPC 502-508: formal × material; limites objetivos\n(dispositivo + prejudicial qualificada do art. 503 §1) e subjetivos\n(CPC 506); eficácia preclusiva (508); coletiva (CDC 103); ação\nrescisória (CPC 966-975); relativização (Tema 392 STF) e cessação\nautomática tributária (Temas 881-885 STF)."
+description: "Usar para pesquisar ou analisar: Coisa Julgada: Limites e Relativização (CPC 502-508). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Coisa Julgada: Limites e Relativização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Formal × Material
 

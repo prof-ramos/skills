@@ -5,8 +5,8 @@ title: "Súmula Vinculante 21, Vedação a Depósito Prévio em Recurso Administ
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/sumula-vinculante-21-deposito-recurso.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-21-deposito-recurso/SKILL.md"
 triggers:
   - "Súmula Vinculante 21"
   - "SV 21"
@@ -16,10 +16,15 @@ triggers:
   - "inconstitucional caução"
   - "SV 28 depósito judicial"
   - "30 por cento débito recurso"
-description: "SV 21 STF (29/10/2009): \"É inconstitucional a exigência de\ndepósito ou arrolamento prévios de dinheiro ou bens para\nadmissibilidade de recurso administrativo\"; substitui Súm. 373\nSTJ; aplica-se a recursos administrativos em geral (tributários,\nfuncionais, regulatórios); decorre da CF 5 LV (ampla defesa) +\nCF 5 XXXIV (direito de petição); irrelevante o valor + a forma\nda exigência."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 21, Vedação a Depósito Prévio em Recurso Administrativo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 21, Vedação a Depósito Prévio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

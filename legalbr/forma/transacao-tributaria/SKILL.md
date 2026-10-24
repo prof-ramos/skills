@@ -5,8 +5,8 @@ title: "Proposta de Transação Tributária"
 category: "forma"
 materia: null
 documentType: "transacao-tributaria"
-version: 1
-sourcePath: "lib/skills/official/forma/transacao-tributaria.md"
+version: 2
+sourcePath: "legalbr/forma/transacao-tributaria/SKILL.md"
 triggers:
   - "proposta de transação tributária"
   - "Lei 13.988/2020 marco geral"
@@ -15,10 +15,15 @@ triggers:
   - "desconto sobre multas e juros"
   - "parcelamento de débitos federais"
   - "Lei 14.375/2022 e Lei 14.689/2023"
-description: "Proposta de transação tributária (Lei 13.988/20, alterada pelas Leis\n14.375/22 e 14.689/23; CTN 171): peça administrativa com modalidades\n(individual, adesão, contencioso, pequeno valor), estrutura da proposta,\ncompromissos, vedações de cabimento e regime de rescisão; benefícios e\nratings de cobrabilidade conforme edital/portaria vigente."
+description: "Usar para redigir ou revisar: Proposta de Transação Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Proposta de Transação Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

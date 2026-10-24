@@ -5,8 +5,8 @@ title: "Telemedicina (Reso CFM 2.314/2022 + Lei 14.510/2022 + LGPD)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/telemedicina-resolucao-cfm-2314.md"
+version: 2
+sourcePath: "legalbr/materia/saude/telemedicina-resolucao-cfm-2314/SKILL.md"
 triggers:
   - "telemedicina"
   - "Resolução CFM 2314"
@@ -18,10 +18,15 @@ triggers:
   - "telessaúde SUS"
   - "LGPD telemedicina"
   - "assinatura digital médica"
-description: "Telemedicina: Reso CFM **2.314/2022** (DOU 05/05/2022) regulamenta\nserviços médicos mediados por tecnologias de comunicação. Sete\nmodalidades: teleconsulta, teleinterconsulta, telediagnóstico,\ntelecirurgia, telemonitoramento, teletriagem, teleconsultoria.\n**Base legal**: Lei 14.510/2022 (telessaúde permanente, altera a\nLei 8.080; a Lei 13.989/2020, do regime emergencial da pandemia,\nfoi REVOGADA) + CFM 2.314. Requisitos: médico inscrito no CRM, plataforma\nsegura LGPD-compliant, **TCLE específico**, prescrição com\nassinatura digital **ICP-Brasil**. Telemedicina internacional:\ncooperação CFM. CDC + LGPD aplicam-se integralmente.\nTelemonitoramento dispensa CFM em casos não complexos.\nHonorários: livre + ANS Rol cobertura parcial."
+description: "Usar para pesquisar ou analisar: Telemedicina (Reso CFM 2.314/2022 + Lei 14.510/2022 + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Telemedicina
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Contrato de Aprendizagem (CLT 428-433)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/aprendiz.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/aprendiz/SKILL.md"
 triggers:
   - "aprendiz"
   - "contrato de aprendizagem"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 10.097/2000"
   - "cota de aprendizagem"
   - "Tema 1.342 STJ"
-description: "Contrato de aprendizagem (CLT 428-433; Lei 10.097/2000; Lei 13.146/\n2015; Dec. 9.579/2018): contrato de trabalho especial, escrito,\nprazo determinado de até 2 anos (indeterminado para PCD); cota de\n5-15% (CLT 429); jornada e remuneração diferenciadas; extinção\ntaxativa do art. 433 afasta o art. 479; entidades qualificadas\n(Sistema S e CMDCA). Tema 1.342 STJ: a remuneração do aprendiz integra\na base da contribuição previdenciária patronal, do GIIL-RAT e das\ncontribuições a terceiros."
+description: "Usar para pesquisar ou analisar: Contrato de Aprendizagem (CLT 428-433). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Aprendizagem (CLT 428-433)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

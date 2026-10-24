@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-difal-contribuinte-tema-1331.md"
+sourcePath: "legalbr/materia/tributario/icms-difal-contribuinte-tema-1331/SKILL.md"
 triggers:
   - "Tema 1.331 STF"
   - "Tema 1.369 STJ"
@@ -21,10 +21,15 @@ triggers:
   - "FECOEP"
   - "fundo de combate à pobreza"
   - "Tema 1.305 STF"
-description: "Tema 1.331 STF (RE 1.499.539): a controvérsia sobre a\nsuficiência da LC 87/1996 para a exigibilidade do ICMS-DIFAL\nnas interestaduais a consumidor final CONTRIBUINTE é\nINFRACONSTITUCIONAL (ausência de repercussão geral, 2024).\nO mérito foi resolvido pelo STJ Tema 1.369 (REsp 2.133.933,\nMin. Afrânio Vilela, 1ª Seção, unânime, 10/06/2026): a LC\n87/1996 (Lei Kandir) disciplina de forma SUFICIENTE a cobrança\ndo ICMS-DIFAL a consumidor final contribuinte antes da entrada\nem vigor da LC 190/2022. Sem modulação. Inclui o adicional de\nICMS dos Fundos de Combate à Pobreza, FECP/FECOEP (Tema 1.305\nSTF: art. 4º da EC 42/2003 validou os adicionais estaduais)."
+description: "Usar para pesquisar ou analisar: DIFAL ICMS Interestadual a Contribuinte (Tema 1.331 STF + Tema 1.369 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DIFAL ICMS Interestadual a Contribuinte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Regimes Específicos de IBS/CBS (CF 156-A §6 II + LC 214/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/regimes-especificos-lc-214.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/regimes-especificos-lc-214/SKILL.md"
 triggers:
   - "regimes específicos"
   - "combustíveis monofásico"
@@ -17,10 +17,15 @@ triggers:
   - "LC 214 Título V"
   - "SAF IBS CBS"
   - "planos de saúde IBS CBS"
-description: "Regimes específicos CF 156-A §6 II + LC 214/2025: combustíveis\n(monofásico ad rem); serviços financeiros + seguros + planos de\nsaúde (base receita líquida: spread/prêmio); bens imóveis\n(redutor social + cumulativo opcional); cooperativas (regime\nfavorecido); SAF; loterias e concursos; aviação regional;\nbares/restaurantes/hotelaria simplificados."
+description: "Usar para pesquisar ou analisar: Regimes Específicos de IBS/CBS (CF 156-A §6 II + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regimes Específicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

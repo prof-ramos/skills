@@ -5,8 +5,8 @@ title: "Permissão de Saída (LEP 120-121)"
 category: "forma"
 materia: null
 documentType: "permissao-saida"
-version: 1
-sourcePath: "lib/skills/official/forma/permissao-saida-lep-120.md"
+version: 2
+sourcePath: "legalbr/forma/permissao-saida-lep-120/SKILL.md"
 triggers:
   - "permissão de saída"
   - "LEP 120"
@@ -15,10 +15,15 @@ triggers:
   - "tratamento médico externo do preso"
   - "saída sob escolta"
   - "velório sepultamento preso"
-description: "Permissão de saída (LEP arts. 120-121): saídas BREVES SOB ESCOLTA\npara qualquer regime (incl. fechado) em hipóteses TAXATIVAS - I)\nfalecimento ou doença grave de CADI (cônjuge, ascendente, descendente,\nirmão); II) tratamento médico não disponível no estabelecimento;\ncompetência do DIRETOR do estabelecimento (sem juiz); diferenças\npara saída temporária (122-125, sem escolta)."
+description: "Usar para redigir ou revisar: Permissão de Saída (LEP 120-121). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Permissão de Saída
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Competência Trabalhista de Reflexos Previdenciários (Tema 1.166 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-trabalhista-reflexos-previdenciarios-tema-1166.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-trabalhista-reflexos-previdenciarios-tema-1166/SKILL.md"
 triggers:
   - "Tema 1.166 STF"
   - "reflexos previdenciários"
@@ -15,10 +15,15 @@ triggers:
   - "CF 109 I"
   - "sentença trabalhista INSS"
   - "contribuições previdência privada"
-description: "Tema 1.166 STF (RE 1.265.564, j. 2021): COMPETE À JUSTIÇA DO\nTRABALHO processar e julgar causas ajuizadas contra o EMPREGADOR\nnas quais se pretenda o reconhecimento de verbas trabalhistas e\nos REFLEXOS nas contribuições para a entidade de PREVIDÊNCIA\nPRIVADA a ele vinculada. Distinção do Tema 190 STF (complementação\nde aposentadoria contra a entidade de previdência privada: Justiça\nCOMUM). Pretensão contra o INSS: JF (CF 109 I); execução de ofício\nlimitada ao objeto da condenação (SV 53)."
+description: "Usar para pesquisar ou analisar: Competência Trabalhista de Reflexos Previdenciários (Tema 1.166 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência: Reflexos Previdenciários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

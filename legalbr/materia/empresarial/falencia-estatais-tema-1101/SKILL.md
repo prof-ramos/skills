@@ -5,8 +5,8 @@ title: "Falência e Recuperação Judicial em Estatais (Tema 1.101 STF)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/falencia-estatais-tema-1101.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/falencia-estatais-tema-1101/SKILL.md"
 triggers:
   - "Tema 1.101 STF"
   - "falência empresa estatal"
@@ -17,10 +17,15 @@ triggers:
   - "estatuto jurídico estatais"
   - "Lei 13.303/2016"
   - "regime estatais"
-description: "Tema 1.101 STF (RE 1.249.945, julgamento virtual encerrado\n17/10/2025): é constitucional o art. 2, I, da Lei 11.101/05\nquanto à inaplicabilidade do regime falimentar e de recuperação\njudicial às empresas públicas e sociedades de economia mista,\nAINDA QUE desempenhem atividade em regime de concorrência com a\niniciativa privada, em razão do interesse público na sua criação\ne do princípio do paralelismo das formas (CF 173 §1 +\nLei 13.303/16). Decisão unânime; embargos rejeitados em 2025."
+description: "Usar para pesquisar ou analisar: Falência e Recuperação Judicial em Estatais (Tema 1.101 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência e Recuperação Judicial em Empresas Estatais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

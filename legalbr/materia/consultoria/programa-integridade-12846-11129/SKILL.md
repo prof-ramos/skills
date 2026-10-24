@@ -5,8 +5,8 @@ title: "Programa de Integridade (Lei 12.846 + Decreto 11.129/2022)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/programa-integridade-12846-11129.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/programa-integridade-12846-11129/SKILL.md"
 triggers:
   - "programa de integridade"
   - "compliance anticorrupção"
@@ -15,10 +15,15 @@ triggers:
   - "integridade corporativa"
   - "tone at the top"
   - "cultura de integridade"
-description: "Estruturação de programa de integridade conforme Lei Anticorrupção\n(12.846/2013) e Decreto 11.129/2022: parâmetros de avaliação (art. 57),\npilares (tone at the top + governança + risk assessment + políticas\n+ treinamento + canal de denúncias + DD de terceiros + investigação\n+ monitoramento + atualização), benefícios (atenuante PAR + leniência),\nacordo de leniência CGU/AGU, ESG-anticorrupção e setoriais (Lei 14.133\nart. 25 + Decreto 12.304/2024, exigência em contratações)."
+description: "Usar para pesquisar ou analisar: Programa de Integridade (Lei 12.846 + Decreto 11.129/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Programa de Integridade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

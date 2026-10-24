@@ -5,8 +5,8 @@ title: "ADI 4277 + ADPF 132: União Estável Homoafetiva"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/adi-4277-adpf-132-uniao-homoafetiva.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/adi-4277-adpf-132-uniao-homoafetiva/SKILL.md"
 triggers:
   - "ADI 4277"
   - "ADPF 132"
@@ -15,10 +15,15 @@ triggers:
   - "Res. CNJ 175/2013"
   - "CC 1.723"
   - "casamento entre pessoas do mesmo sexo"
-description: "ADI 4277 + ADPF 132 (Ayres Britto, 05/05/2011, unânime): união\nestável homoafetiva é entidade familiar (interpretação conforme\ndo CC 1.723). Fundamenta Res. CNJ 175/2013 (casamento), RE\n878.694 (sucessão) e adoção homoparental."
+description: "Usar para pesquisar ou analisar: ADI 4277 + ADPF 132: União Estável Homoafetiva. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4277 + ADPF 132: União Homoafetiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

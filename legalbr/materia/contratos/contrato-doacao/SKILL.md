@@ -5,8 +5,8 @@ title: "Contrato de Doação"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-doacao.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-doacao/SKILL.md"
 triggers:
   - "contrato de doação"
   - "escritura de doação"
@@ -22,10 +22,15 @@ triggers:
   - "CC 555"
   - "ITCMD doação"
   - "antecipação de legítima"
-description: "Doação (CC 538-564): pura, com encargo, remuneratória; forma\n(escritura pública 541; particular se módica); inoficiosa\n(549); revogação por ingratidão (555-557); colação; ITCMD."
+description: "Usar para pesquisar ou analisar: Contrato de Doação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Doação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Defeito em Veículo Zero Km (CDC 18 + 26 + 27)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/defeito-veiculo-zero-km.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/defeito-veiculo-zero-km/SKILL.md"
 triggers:
   - "veículo zero km"
   - "vício em carro"
@@ -18,10 +18,15 @@ triggers:
   - "revisão obrigatória"
   - "recall carro"
   - "vida útil veículo"
-description: "Defeito em veículo zero km sob CDC 18 + 26 + 27 + súmulas STJ:\nprazo de 30 dias para o fornecedor sanar o vício (CDC 18 §1);\napós, opções alternativas do consumidor (substituição, restituição,\nabatimento); responsabilidade solidária da concessionária e do\nfabricante (CDC 18); vício oculto contado da descoberta, vida\nútil; defeito grave (fato do produto, CDC 12), 5 anos prescrição\n(CDC 27); cadeia automotiva ampla."
+description: "Usar para pesquisar ou analisar: Defeito em Veículo Zero Km (CDC 18 + 26 + 27). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defeito em Veículo Zero Km
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

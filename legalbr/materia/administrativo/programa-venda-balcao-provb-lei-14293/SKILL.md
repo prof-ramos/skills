@@ -5,8 +5,8 @@ title: "Programa de Venda em Balcão (ProVB, Lei 14.293/2022)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/programa-venda-balcao-provb-lei-14293.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/programa-venda-balcao-provb-lei-14293/SKILL.md"
 triggers:
   - "Programa de Venda em Balcão"
   - "ProVB Conab"
@@ -16,10 +16,15 @@ triggers:
   - "estoque público ração animal"
   - "limite mensal ProVB"
   - "cadastro Sican ProVB"
-description: "Programa de Venda em Balcão da Conab após a Lei 15.490/2026: beneficiários, Sican, produtos de estoque público, limites mensais de compra, disponibilidade orçamentária e controles."
+description: "Usar para pesquisar ou analisar: Programa de Venda em Balcão (ProVB, Lei 14.293/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Programa de Venda em Balcão (ProVB)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Finalidade e beneficiários
 

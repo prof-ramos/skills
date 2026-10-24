@@ -5,8 +5,8 @@ title: "LGPD em Instituições Financeiras + Segurança Cibernética (Res. CMN 4
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/lgpd-instituicoes-financeiras.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/lgpd-instituicoes-financeiras/SKILL.md"
 triggers:
   - "LGPD bancos"
   - "Lei 13.709"
@@ -22,10 +22,15 @@ triggers:
   - "DPO instituição financeira"
   - "SCR LGPD"
   - "portabilidade dados bancários"
-description: "LGPD aplicada a IFs: Lei 13.709/18 + Res. CMN 4.893/21 (segurança\ncibernética e contratação de processamento em nuvem, que revogou a\nRes. CMN 4.658/18; atualizada pela Res. CMN 5.274/25); base legal\nart. 7 V (execução de contrato) + X (legítimo interesse); sigilo\nbancário LC 105/01 mantido como dever específico; competência\nconcorrente ANPD + BCB; comunicação tempestiva de incidentes\nrelevantes ao BCB e à ANPD (3 dias úteis, Reg. ANPD 15/2024)."
+description: "Usar para pesquisar ou analisar: LGPD em Instituições Financeiras + Segurança Cibernética (Res. CMN 4.893/21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD em Instituições Financeiras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

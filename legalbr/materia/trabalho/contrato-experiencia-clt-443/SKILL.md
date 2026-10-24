@@ -5,8 +5,8 @@ title: "Contrato de Experiência (CLT 443 §2 c e 445 par. único)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/contrato-experiencia-clt-443.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/contrato-experiencia-clt-443/SKILL.md"
 triggers:
   - "contrato de experiência"
   - "experiência 90 dias"
@@ -14,10 +14,15 @@ triggers:
   - "CLT 445"
   - "prorrogação experiência"
   - "Súm. 188 TST"
-description: "Contrato de experiência (CLT 443 §2 c + 445 par. único): máximo 90\ndias; uma prorrogação (Súm. 188 TST); função objetiva de aferição\nrecíproca da aptidão; rescisão antecipada com indenização do art. 479\n(empregador) ou 480 (empregado); estabilidade da gestante (Súm. 244 III)\ne acidentária (Súm. 378 III) aplicáveis; converte-se em prazo\nindeterminado se não respeitados os requisitos."
+description: "Usar para pesquisar ou analisar: Contrato de Experiência (CLT 443 §2 c e 445 par. único). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Experiência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

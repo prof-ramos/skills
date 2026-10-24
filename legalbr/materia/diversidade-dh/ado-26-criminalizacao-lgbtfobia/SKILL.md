@@ -5,8 +5,8 @@ title: "ADO 26 + MI 4733: Criminalização da LGBTfobia"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/ado-26-criminalizacao-lgbtfobia.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/ado-26-criminalizacao-lgbtfobia/SKILL.md"
 triggers:
   - "ADO 26"
   - "MI 4733"
@@ -16,10 +16,15 @@ triggers:
   - "mora inconstitucional CN"
   - "injúria racial transfobia"
   - "ADO mandado de injunção"
-description: "ADO 26 + MI 4733 (Celso de Mello + Edson Fachin, 13/06/2019):\nmora inconstitucional do Congresso; LGBTfobia equiparada a\nracismo (Lei 7.716/1989) por interpretação conforme até lei\nespecífica. Imprescritível e inafiançável (CF 5 XLII)."
+description: "Usar para pesquisar ou analisar: ADO 26 + MI 4733: Criminalização da LGBTfobia. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADO 26 + MI 4733: Criminalização da LGBTfobia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

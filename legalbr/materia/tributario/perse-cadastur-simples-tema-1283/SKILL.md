@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/perse-cadastur-simples-tema-1283.md"
+sourcePath: "legalbr/materia/tributario/perse-cadastur-simples-tema-1283/SKILL.md"
 triggers:
   - "Tema 1.283 STJ"
   - "Perse Lei 14.148"
@@ -15,10 +15,15 @@ triggers:
   - "LC 123 art 24 § 1"
   - "PIS Cofins CSLL IRPJ alíquota zero"
   - "eventos turismo Perse"
-description: "Tema 1.283 STJ, transitado: exige Cadastur prévio do prestador de\nserviços turísticos e exclui optantes do Simples Nacional da alíquota\nzero de PIS, Cofins, CSLL e IRPJ do Perse."
+description: "Usar para pesquisar ou analisar: Perse + Cadastur + Vedação ao Simples Nacional (Tema 1.283 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Perse + Cadastur + Vedação ao Simples Nacional (Tema 1.283 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.283 STJ, 1ª Seção, 11/06/2025)
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 52, IPTU e Imóvel Locado de Entidades Imunes"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/sumula-vinculante-52-iptu-imovel-locado-imunes.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-52-iptu-imovel-locado-imunes/SKILL.md"
 triggers:
   - "SV 52"
   - "Súmula Vinculante 52"
@@ -19,10 +19,15 @@ triggers:
   - "RE 767332"
   - "Tema 437 STF"
   - "entidade assistencial"
-description: "SV 52 STF (17/06/2015): IPTU não incide sobre imóvel de\nentidades do CF 150 VI c (partidos, sindicatos, educação,\nassistência social), ainda que locado, desde que o aluguel\nseja aplicado na atividade essencial. Conversão da Súm. 724\nSTF; RE 325.822 precedente; CTN 14 requisitos; presunção em\nfavor da entidade, ônus do Fisco."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 52, IPTU e Imóvel Locado de Entidades Imunes. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 52, IPTU e Imóvel Locado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Crimes contra a Incolumidade Pública (CP 250-285 + Tema 1.246 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/crimes-incolumidade-cp-250-273.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-incolumidade-cp-250-273/SKILL.md"
 triggers:
   - "crimes incolumidade pública"
   - "incêndio CP 250"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.246 STF"
   - "ADPF 672"
   - "norma penal em branco"
-description: "Crimes contra incolumidade pública CP 250-285: INCÊNDIO 250\n(recl. 3-6a, NÃO hediondo); 258 qualifica pelo resultado\n(morte dolosa DOBRA); EPIDEMIA 267 (recl. 5-15a, morte DOBRO\n , HEDIONDO Lei 8.072 art. 1 VII); 268 medida sanitária (Tema 1.246\nSTF admite norma penal em branco estadual/municipal); 273\nfalsificação medicamento (Tema 1.003 STF, preceito 2º §1-B\ninconstitucional)."
+description: "Usar para pesquisar ou analisar: Crimes contra a Incolumidade Pública (CP 250-285 + Tema 1.246 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Incolumidade Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura do Título VIII
 

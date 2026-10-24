@@ -5,8 +5,8 @@ title: "Notificação do Lançamento (CTN 145 + DL 70.235 + Súm. 397 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/notificacao-lancamento-ctn-145-tema-1037.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/notificacao-lancamento-ctn-145-tema-1037/SKILL.md"
 triggers:
   - "notificação lançamento"
   - "CTN 145"
@@ -17,10 +17,15 @@ triggers:
   - "presunção entrega"
   - "IPTU notificação anual"
   - "alteração lançamento"
-description: "Notificação do lançamento CTN 145 + DL 70.235: fixa a constituição\ndefinitiva do crédito; Súm. 397 STJ (envio do carnê IPTU pelo\nMunicípio ao endereço presume notificação); CTN 145 (alteração só\npor impugnação, recurso, iniciativa de ofício); notificação\neletrônica via DTE válida (DL 70.235 art. 23 + Lei 11.196/05);\nefeitos: inicia prazo prescricional + impugnação."
+description: "Usar para pesquisar ou analisar: Notificação do Lançamento (CTN 145 + DL 70.235 + Súm. 397 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Notificação do Lançamento Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Dispensa Imotivada de Empregado de EP/SEM (Tema 1.022 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/dispensa-empregado-estatal-tema-1022.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/dispensa-empregado-estatal-tema-1022/SKILL.md"
 triggers:
   - "Tema 1.022 STF"
   - "dispensa imotivada empregado estatal"
@@ -18,10 +18,15 @@ triggers:
   - "concurso público estatal"
   - "empregado celetista estatal"
   - "Súm. 390 TST"
-description: "Tema 1.022 STF (RE 688.267, 28/02/2024): a DISPENSA de\nempregado de EP/SEM admitido por concurso público depende\nde MOTIVAÇÃO formal e válida (ato administrativo motivado).\nNão é necessária prévia abertura de PAD com contraditório.\nEstatal exploradora de atividade econômica: motivação ainda\nexigida. Súm. 390 TST + jurisprudência STF consolidada.\nCF 37 II + 41 + 173 §1."
+description: "Usar para pesquisar ou analisar: Dispensa Imotivada de Empregado de EP/SEM (Tema 1.022 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dispensa Imotivada de Empregado de EP/SEM
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

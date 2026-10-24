@@ -5,8 +5,8 @@ title: "RGPS, Regime Geral de Previdência Social (Lei 8.213/91 + EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/rgps.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/rgps/SKILL.md"
 triggers:
   - "RGPS"
   - "Lei 8.213/91"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 89 STF"
   - "seguro-defeso"
   - "pescador artesanal Lei 10.779"
-description: "RGPS sob CF 201-202, Lei 8.213/91 e EC 103/2019: princípios, segurados,\ncarência e graça; regra permanente e transições; espectro de benefícios;\npensão por morte; BPC-LOAS (Lei 8.742/93 + Temas 27/312 STF + Lei\n14.176/2021); auxílio-reclusão (art. 80 + Tema 89 STF); seguro-defeso\ndo pescador artesanal (Lei 10.779/2003 + Lei 13.134/2015)."
+description: "Usar para pesquisar ou analisar: RGPS, Regime Geral de Previdência Social (Lei 8.213/91 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RGPS, Regime Geral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

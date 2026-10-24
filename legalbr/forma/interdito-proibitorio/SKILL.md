@@ -5,8 +5,8 @@ title: "Interdito Proibitório"
 category: "forma"
 materia: null
 documentType: "interdito-proibitorio"
-version: 1
-sourcePath: "lib/skills/official/forma/interdito-proibitorio.md"
+version: 2
+sourcePath: "legalbr/forma/interdito-proibitorio/SKILL.md"
 triggers:
   - "interdito proibitório"
   - "ameaça à posse"
@@ -14,10 +14,15 @@ triggers:
   - "turbação iminente"
   - "esbulho iminente"
   - "mandado proibitório"
-description: "Interdito proibitório (CPC 567-568) ao possuidor com justo receio de\nturbação ou esbulho iminente; mandado proibitório com multa cominatória.\nForça nova (≤ 1 ano e dia) segue procedimento especial das possessórias;\nforça velha vai pelo rito comum (CPC 558). Fungibilidade do CPC 554."
+description: "Usar para redigir ou revisar: Interdito Proibitório. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interdito Proibitório
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 567)
 

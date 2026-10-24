@@ -5,8 +5,8 @@ title: "Renovação Automática e Fidelização: Cláusulas Abusivas (CDC)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/renovacao-automatica-fidelizacao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/renovacao-automatica-fidelizacao/SKILL.md"
 triggers:
   - "renovação automática"
   - "fidelização"
@@ -20,10 +20,15 @@ triggers:
   - "CDC 51 IV"
   - "CDC 53"
   - "Súm. 543 STJ"
-description: "Renovação automática e fidelização (CDC 6, 39 V, 51 IV, 53): exigência\nde informação prévia clara (CDC 6 III); proporcionalidade da cláusula\npenal (CDC 53 + 51 IV); fidelização máxima 12 meses na telefonia (Res.\nANATEL 632/2014); academia/streaming/escola exige facilidade de\ncancelamento (Dec. 6.523/2008, SAC); renovação tácita só com aceitação\ninequívoca; multa decrescente conforme cumprimento parcial."
+description: "Usar para pesquisar ou analisar: Renovação Automática e Fidelização: Cláusulas Abusivas (CDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Renovação Automática + Fidelização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

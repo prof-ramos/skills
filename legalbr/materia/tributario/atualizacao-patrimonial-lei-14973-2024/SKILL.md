@@ -5,8 +5,8 @@ title: "Atualização Patrimonial + RERCT-Geral (Lei 14.973/2024)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/atualizacao-patrimonial-lei-14973-2024.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/atualizacao-patrimonial-lei-14973-2024/SKILL.md"
 triggers:
   - "Lei 14.973"
   - "RERCT geral"
@@ -17,10 +17,15 @@ triggers:
   - "repatriação 30%"
   - "regime regularização cambial"
   - "bens não declarados"
-description: "Lei 14.973/2024 (16/09/2024), duas novidades centrais: (1)\n**Atualização de valor de imóveis**: PF (DIRPF) e PJ (balanço) ao\nvalor de mercado: **IRPF 4%** (PF) + **IRPJ 6% + CSLL 4% = 10%** (PJ)\nsobre a diferença entre valor de mercado e custo de aquisição;\n(2) **Novo RERCT-Geral**: regime de regularização cambial/tributária\npara bens **não declarados ou declarados incorretamente**, no Brasil\nou exterior (criptoativos + offshores + imóveis + ações + outros),\nalíquota total **30%** (15% IRPF + multa 100% = 30%). Prazo\nRERCT: até **15/12/2024**. Convergência com Lei 14.754/2023\n(offshores + trust)."
+description: "Usar para pesquisar ou analisar: Atualização Patrimonial + RERCT-Geral (Lei 14.973/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.973/2024
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

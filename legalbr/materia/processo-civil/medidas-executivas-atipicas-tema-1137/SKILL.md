@@ -5,8 +5,8 @@ title: "Medidas Executivas Atípicas + Critérios Cumulativos (Tema 1.137 STJ + 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/medidas-executivas-atipicas-tema-1137.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/medidas-executivas-atipicas-tema-1137/SKILL.md"
 triggers:
   - "Tema 1.137 STJ"
   - "ADI 5.941 STF"
@@ -18,10 +18,15 @@ triggers:
   - "subsidiariedade contraditório execução"
   - "bloqueio cartões execução civil"
   - "razoabilidade proporcionalidade execução"
-description: "Tema 1.137 STJ (Segunda Seção, 04/12/2025): medidas executivas\natípicas (CPC 139 IV) admitem-se observando CUMULATIVAMENTE:\n(i) ponderação efetividade × menor onerosidade; (ii)\nSUBSIDIARIEDADE aos meios típicos; (iii) fundamentação concreta\nespecífica; (iv) CONTRADITÓRIO prévio com advertência;\n(v) proporcionalidade e razoabilidade."
+description: "Usar para pesquisar ou analisar: Medidas Executivas Atípicas + Critérios Cumulativos (Tema 1.137 STJ + ADI 5.941 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medidas Executivas Atípicas + Critérios Cumulativos (Tema 1.137 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.137 STJ, Segunda Seção, 04/12/2025, REsp 1.955.539/SP e 1.955.574/SP)
 

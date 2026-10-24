@@ -5,8 +5,8 @@ title: "Pedido de Suspensão de Liminar e Sentença"
 category: "forma"
 materia: null
 documentType: "suspensao-liminar-sentenca"
-version: 1
-sourcePath: "lib/skills/official/forma/suspensao-liminar-sentenca.md"
+version: 2
+sourcePath: "legalbr/forma/suspensao-liminar-sentenca/SKILL.md"
 triggers:
   - "pedido de suspensão de liminar e sentença SLS"
   - "suspensão de tutela contra o Poder Público"
@@ -15,10 +15,15 @@ triggers:
   - "incidente de contracautela ao presidente do tribunal"
   - "grave lesão à ordem saúde segurança e economia públicas"
   - "suspensão de execução provisória da sentença"
-description: "Pedido de suspensão de liminar e sentença sob a Lei 8.437/1992 (art.\n4º), a Lei 9.494/1997 (art. 1º) e a Lei 12.016/2009 (art. 15):\nincidente atípico de contracautela dirigido ao presidente do tribunal\ncompetente; requisitos de grave lesão à ordem, saúde, segurança ou\neconomia públicas; agravo interno em 5 dias; cabimento per saltum ao\nSTJ ou ao STF; ultratividade até o trânsito em julgado (Súm. 626 STF)."
+description: "Usar para redigir ou revisar: Pedido de Suspensão de Liminar e Sentença. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Suspensão de Liminar e Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

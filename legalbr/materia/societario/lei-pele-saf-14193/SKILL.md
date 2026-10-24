@@ -5,8 +5,8 @@ title: "Lei Pelé + SAF (Lei 9.615/1998 + Lei 14.193/2021 + Lei 15.427/2026)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/lei-pele-saf-14193.md"
+version: 2
+sourcePath: "legalbr/materia/societario/lei-pele-saf-14193/SKILL.md"
 triggers:
   - "Lei Pelé"
   - "Lei 9.615/1998"
@@ -18,10 +18,15 @@ triggers:
   - "TEF"
   - "Lei 15.427/2026"
   - "SC COSIT 149/2025"
-description: "Lei Pelé 9.615/1998 (esporte) + Lei 14.193/2021 SAF (S.A. do\nFutebol): 4 modos de constituição (transformação + cisão + iniciativa\nde 3º, \"SAF pura\" + subscrição pelo clube, art. 2 IV, Lei 15.427/2026);\ncontrato esportivo 3m-5a; direito imagem CC + direito ARENA art. 42\n(5% transmissão); GOLDEN SHARE (veto sobre símbolos + sede +\nrebaixamento); TEF originalmente 5%, agora regime setorial permanente\nde 6% (4% federais + 1% CBS + 1% IBS) a partir de 2027 (LC 214/2025 +\nLC 227/2026); RCE/DRC-SAF: execuções anteriores, 6 anos (arts. 13-15),\nprorrogável por +4 se pago 60% (art. 15 §2)."
+description: "Usar para pesquisar ou analisar: Lei Pelé + SAF (Lei 9.615/1998 + Lei 14.193/2021 + Lei 15.427/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Pelé + SAF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 9.615/1998 (Lei Pelé)
 

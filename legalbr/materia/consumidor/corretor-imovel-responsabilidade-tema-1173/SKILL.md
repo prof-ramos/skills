@@ -5,8 +5,8 @@ title: "Corretor de Imóveis + Responsabilidade pelo Descumprimento da Construto
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/corretor-imovel-responsabilidade-tema-1173.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/corretor-imovel-responsabilidade-tema-1173/SKILL.md"
 triggers:
   - "Tema 1.173 STJ"
   - "corretor imóveis responsabilidade"
@@ -14,10 +14,15 @@ triggers:
   - "confusão patrimonial corretagem"
   - "intermediação imobiliária CDC"
   - "cadeia consumo corretor"
-description: "Tema 1.173 STJ (2ª Seção, 08/10/2025): o corretor de imóveis\n(pessoa física ou jurídica) NÃO é, em regra, responsável por\ndanos ao consumidor decorrentes de descumprimento contratual da\nconstrutora/incorporadora. Excepciona se demonstrado: (i) seu\nenvolvimento nas atividades de incorporação/construção; (ii)\npertencimento ao mesmo grupo econômico; (iii) confusão/desvio\npatrimonial em benefício do corretor."
+description: "Usar para pesquisar ou analisar: Corretor de Imóveis + Responsabilidade pelo Descumprimento da Construtora (Tema 1.173 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corretor de Imóveis + Responsabilidade pelo Descumprimento da Construtora (Tema 1.173 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.173 STJ, 2ª Seção, 08/10/2025, rel. Min. Raul Araújo)
 

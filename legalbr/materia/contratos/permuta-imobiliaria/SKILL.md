@@ -5,8 +5,8 @@ title: "Permuta Imobiliária (CC 533 + ITBI sobre cada bem + permuta com unidade
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/permuta-imobiliaria.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/permuta-imobiliaria/SKILL.md"
 triggers:
   - "permuta imobiliária"
   - "troca de imóveis"
@@ -21,10 +21,15 @@ triggers:
   - "Lei 10.931"
   - "contrato de permuta"
   - "escritura de permuta"
-description: "Permuta de imóveis (CC 533): com/sem torna; aplicação das\nregras de compra e venda (CC 533); ITBI sobre cada transmissão\n(CF 156 II); permuta com unidade futura na incorporação;\nresponsabilidade por evicção/vícios; registro CRI."
+description: "Usar para pesquisar ou analisar: Permuta Imobiliária (CC 533 + ITBI sobre cada bem + permuta com unidade futura). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Permuta Imobiliária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

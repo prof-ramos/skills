@@ -5,8 +5,8 @@ title: "CADE: Antitruste (Lei 12.529/2011 + Lei 14.470/2022 + SBDC)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/cade-antitruste-lei-12529.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/cade-antitruste-lei-12529/SKILL.md"
 triggers:
   - "CADE"
   - "Lei 12.529/2011"
@@ -20,10 +20,15 @@ triggers:
   - "art. 36 Lei 12.529"
   - "art. 86 leniência"
   - "Resolução CADE 33/2022"
-description: "CADE (autarquia federal MJ) + SEAE = SBDC; Lei 12.529/2011 (livre\nconcorrência CF 170); órgãos (Tribunal Administrativo 7 +\nSuperintendência-Geral + DEE + ProCADE); art. 36 infrações\n(independe de culpa: cartel + abuso + venda casada); multa\n0,1-20% faturamento; art. 86-87 LENIÊNCIA (extingue punibilidade\nLei 8.137 + licitações); Lei 14.470/2022 DOUBLE DAMAGES."
+description: "Usar para pesquisar ou analisar: CADE: Antitruste (Lei 12.529/2011 + Lei 14.470/2022 + SBDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CADE: Antitruste
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.529/2011 e o SBDC
 

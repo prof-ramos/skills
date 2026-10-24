@@ -5,8 +5,8 @@ title: "Solidariedade Obrigacional (CC 264-285)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/obrigacoes-solidarias-cc-264.md"
+version: 2
+sourcePath: "legalbr/materia/civil/obrigacoes-solidarias-cc-264/SKILL.md"
 triggers:
   - "solidariedade obrigacional"
   - "obrigação solidária"
@@ -20,10 +20,15 @@ triggers:
   - "solidariedade passiva"
   - "obrigação divisível"
   - "obrigação indivisível"
-description: "Solidariedade obrigacional (CC 264-285): nunca presume, decorre\nde lei ou contrato (CC 265); ativa (CC 267-274) × passiva (CC\n275-285); efeitos (cobrança integral, remissão parcial, exceções\npessoais vs comuns CC 281); regresso (CC 283). Distinção com\nobrigação divisível (CC 257) e indivisível (CC 258)."
+description: "Usar para pesquisar ou analisar: Solidariedade Obrigacional (CC 264-285). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Solidariedade Obrigacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 264, conceito
 

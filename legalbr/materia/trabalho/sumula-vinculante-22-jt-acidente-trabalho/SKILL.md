@@ -5,8 +5,8 @@ title: "Súmula Vinculante 22 - JT Competente para Indenização de Acidente de 
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/sumula-vinculante-22-jt-acidente-trabalho.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sumula-vinculante-22-jt-acidente-trabalho/SKILL.md"
 triggers:
   - "SV 22"
   - "Súmula Vinculante 22"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 736 STF"
   - "regra de transição acidente"
   - "dano patrimonial empregado empregador"
-description: "SV 22 STF (02/12/2009): \"Justiça do Trabalho é competente para\nprocessar e julgar ações de indenização por danos morais e\npatrimoniais decorrentes de acidente de trabalho propostas por\nempregado contra empregador, inclusive aquelas sem sentença de\nmérito em 1º grau quando da EC 45/2004.\" Regra de transição\nconsolida CC 7204 + Súm. 736."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 22 - JT Competente para Indenização de Acidente de Trabalho. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 22 - JT e Acidente de Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

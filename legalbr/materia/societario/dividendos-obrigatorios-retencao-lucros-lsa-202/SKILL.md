@@ -5,8 +5,8 @@ title: "Dividendos Obrigatórios e Retenção de Lucros (LSA 201-205 + Tema 659 
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/dividendos-obrigatorios-retencao-lucros-lsa-202.md"
+version: 2
+sourcePath: "legalbr/materia/societario/dividendos-obrigatorios-retencao-lucros-lsa-202/SKILL.md"
 triggers:
   - "dividendo obrigatório art. 202"
   - "cobrança de dividendos minoritário"
@@ -18,10 +18,15 @@ triggers:
   - "dividendos não pagos correção monetária"
   - "lucros não destinados LSA 202"
   - "dividendo fixo mínimo ações preferenciais"
-description: "Cobrança judicial de dividendos e retenção de lucros: LSA 201-205 (dividendo\nobrigatório, retenção lícita, pagamento em 60 dias) + CC 1.007-1.009 na\nlimitada; Tema 659 STJ (correção desde o vencimento ex art. 205 §3º e juros\ndesde a citação); prescrição trienal (LSA 287 II a) e lucros não destinados\n(202 §6º)."
+description: "Usar para pesquisar ou analisar: Dividendos Obrigatórios e Retenção de Lucros (LSA 201-205 + Tema 659 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dividendos Obrigatórios e Retenção de Lucros (LSA 201-205)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Aplicar em ação de cobrança de dividendos por acionista (típica de S/A fechada) e em disputa por lucros não distribuídos em limitada (frequentemente familiar). O panorama geral da S/A (reservas 193-197, JCP, tributação) está na skill de sociedade anônima; aqui, o regime do contencioso.
 

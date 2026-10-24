@@ -5,8 +5,8 @@ title: "Corretagem Imobiliária (CC 722-729 + Lei 6.530/78 + Tema 938 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/corretagem-imobiliaria.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/corretagem-imobiliaria/SKILL.md"
 triggers:
   - "contrato de corretagem"
   - "corretagem imobiliária"
@@ -22,10 +22,15 @@ triggers:
   - "resultado útil corretor"
   - "Tema 938 STJ"
   - "prescrição comissão corretagem"
-description: "Corretagem imobiliária (CC 722-729 + Lei 6.530/78):\ncomissão (725 resultado útil; 726 exclusividade; 727\naproximação); CRECI; Tema 938 STJ (transferência ao adquirente + SATI)."
+description: "Usar para pesquisar ou analisar: Corretagem Imobiliária (CC 722-729 + Lei 6.530/78 + Tema 938 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corretagem Imobiliária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Patrimônio de Afetação na Incorporação Imobiliária (Lei 10.931/200
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/patrimonio-afetacao-incorporacao-lei-10931.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/patrimonio-afetacao-incorporacao-lei-10931/SKILL.md"
 triggers:
   - "patrimônio de afetação"
   - "Lei 10.931"
@@ -18,10 +18,15 @@ triggers:
   - "segregação patrimonial"
   - "quebra incorporadora"
   - "LC 214 IBS CBS afetação"
-description: "Patrimônio de Afetação — **Lei 10.931/2004** (arts. 1-11) — regime\nespecial para incorporações imobiliárias. **Segregação patrimonial**:\nterreno + recursos + créditos da incorporação **não se comunicam**\ncom o patrimônio da incorporadora — proteção contra falência.\n**Inscrição CNPJ específica** (\"incorporação afetada\"). **Regime\nEspecial de Tributação (RET)** — opcional + irretratável: **4%** da\nreceita mensal (IRPJ + CSLL + PIS + Cofins unificados); **1%** para\nMCMV faixa urbano 1. Adesão: regularidade fiscal + FGTS + CNEP.\n**LC 214/2025**: a partir 2027 integra IBS/CBS substituindo\nPIS/Cofins. Lei 4.591/64 (incorporações) coordenada."
+description: "Usar para pesquisar ou analisar: Patrimônio de Afetação na Incorporação Imobiliária (Lei 10.931/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Patrimônio de Afetação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

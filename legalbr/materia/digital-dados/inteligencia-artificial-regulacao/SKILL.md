@@ -5,8 +5,8 @@ title: "Regulação da Inteligência Artificial — PL 2.338/2023 + LGPD + AI Ac
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/inteligencia-artificial-regulacao.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/inteligencia-artificial-regulacao/SKILL.md"
 triggers:
   - "inteligência artificial"
   - "PL 2.338/2023"
@@ -16,10 +16,15 @@ triggers:
   - "Res. CNJ 615/2025"
   - "Res. TSE 23.732/2024"
   - "IA generativa"
-description: "Regulação da IA sob PL 2.338/2023 + LGPD (art. 20) + Marco Civil +\nRes. CNJ 615/2025 + Res. TSE 23.732/2024 + AI Act europeu: princípios\n(transparência, supervisão humana, não discriminação); classificação\npor risco e AIIA; direitos dos afetados; IA em eleições (deepfake e\nrotulagem); responsabilidade civil e direitos autorais."
+description: "Usar para pesquisar ou analisar: Regulação da Inteligência Artificial — PL 2.338/2023 + LGPD + AI Act. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regulação da Inteligência Artificial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais (maio/2026)
 

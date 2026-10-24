@@ -5,8 +5,8 @@ title: "Ação de Usucapião"
 category: "forma"
 materia: null
 documentType: "usucapiao"
-version: 1
-sourcePath: "lib/skills/official/forma/usucapiao.md"
+version: 2
+sourcePath: "legalbr/forma/usucapiao/SKILL.md"
 triggers:
   - "ação de usucapião"
   - "usucapião extraordinária art. 1.238 CC"
@@ -15,10 +15,15 @@ triggers:
   - "usucapião extrajudicial art. 216-A Lei 6.015 LRP"
   - "posse mansa pacífica e contínua com animus domini"
   - "aquisição originária da propriedade"
-description: "Ação de usucapião sob o CC (arts. 1.238-1.244), a CF (arts. 183 e\n191) e a LRP (Lei 6.015/73 art. 216-A, via extrajudicial):\nmodalidades e prazos para a causa de pedir; checklist da posse\nad usucapionem; citações pessoais (Súm. 263 e 391 STF), intimação\ndos entes públicos e MP; sentença declaratória e registro;\nusucapião como defesa (Súm. 237 STF); rito extrajudicial."
+description: "Usar para redigir ou revisar: Ação de Usucapião. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Usucapião
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Modalidades (causa de pedir)
 

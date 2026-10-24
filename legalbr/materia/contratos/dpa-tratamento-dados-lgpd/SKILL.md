@@ -5,8 +5,8 @@ title: "DPA: Data Processing Agreement (LGPD art. 39)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/dpa-tratamento-dados-lgpd.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/dpa-tratamento-dados-lgpd/SKILL.md"
 triggers:
   - "DPA"
   - "data processing agreement"
@@ -21,10 +21,15 @@ triggers:
   - "incidente de dados"
   - "Lei 13.709"
   - "Res. ANPD"
-description: "DPA sob LGPD (Lei 13.709/18 art. 39 + Res. ANPD): papéis\n(controlador/operador), bases legais (art. 7 e 11),\nsubprocessadores, transferência internacional, incidentes."
+description: "Usar para pesquisar ou analisar: DPA: Data Processing Agreement (LGPD art. 39). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DPA: Data Processing Agreement
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

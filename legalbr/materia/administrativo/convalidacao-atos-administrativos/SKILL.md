@@ -5,8 +5,8 @@ title: "Convalidação de Atos Administrativos (Lei 9.784/99 art. 55)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/convalidacao-atos-administrativos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/convalidacao-atos-administrativos/SKILL.md"
 triggers:
   - "convalidação"
   - "Lei 9.784/99 art. 55"
@@ -18,10 +18,15 @@ triggers:
   - "saneamento administrativo"
   - "LINDB 24"
   - "estabilização do ato administrativo"
-description: "Convalidação (Lei 9.784/99 art. 55): saneamento de vícios sanáveis\ndo ato administrativo com efeitos ex tunc; pressupostos\n(sanabilidade + ausência de prejuízo + decisão fundamentada);\nespécies (ratificação + reforma + conversão); diferenças com\nanulação (insanável) e revogação (sem ilegalidade); LINDB 24\n(orientações da época) reforça aplicabilidade; vícios insanáveis\n(motivo + finalidade + objeto ilícito)."
+description: "Usar para pesquisar ou analisar: Convalidação de Atos Administrativos (Lei 9.784/99 art. 55). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Convalidação de Atos Administrativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

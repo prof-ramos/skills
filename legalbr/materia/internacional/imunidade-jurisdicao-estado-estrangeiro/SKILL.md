@@ -5,8 +5,8 @@ title: "Imunidade de Jurisdição do Estado Estrangeiro"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/imunidade-jurisdicao-estado-estrangeiro.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/imunidade-jurisdicao-estado-estrangeiro/SKILL.md"
 triggers:
   - "imunidade de jurisdição"
   - "Estado estrangeiro"
@@ -18,10 +18,15 @@ triggers:
   - "imunidade de execução"
   - "direitos humanos imunidade"
   - "Convenção ONU 2004"
-description: "Imunidade de jurisdição do Estado estrangeiro, evolução da teoria\n**absoluta** para **relativa**: caso paradigma **Genny de Oliveira\n(ACi 9.696/1989)**, STF abandona imunidade absoluta em matéria\ntrabalhista. Distinção **atos de império** (jure imperii, imunes)\n× **atos de gestão** (jure gestionis, não imunes). Cognição:\nrelativa. **Execução**: STF mantém **absoluta** em regra (bens\nafetados a atividades soberanas impenhoráveis; exceções: bens\ncomerciais e renúncia). STF ARE 954.858 (Tema 944, 2021): atos\nilícitos em violação a direitos humanos no território nacional\nnão gozam de imunidade de **jurisdição** (cognição); a imunidade\nde execução permanece, em regra, preservada. Convenção ONU\n2004 (Imunidades dos Estados) não em vigor universal.\nCompetência: Justiça Federal (CF 109 II) e Justiça do Trabalho."
+description: "Usar para pesquisar ou analisar: Imunidade de Jurisdição do Estado Estrangeiro. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imunidade de Jurisdição do Estado Estrangeiro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

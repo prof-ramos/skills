@@ -5,8 +5,8 @@ title: "Inversão da Cláusula Penal contra a Construtora (Tema 971 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/imobiliario-construcao/inversao-clausula-penal-construtora-tema-971.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/inversao-clausula-penal-construtora-tema-971/SKILL.md"
 triggers:
   - "inversão cláusula penal construtora"
   - "cláusula penal contra adquirente unilateral"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 543 STJ"
   - "simetria contratual"
   - "obrigação heterogênea conversão dinheiro"
-description: "Tema 971 STJ: em contrato de adesão entre comprador e\nconstrutora/incorporadora, havendo cláusula penal SOMENTE\npara o adquirente, ela DEVERÁ ser aplicada também ao\ninadimplemento da construtora. Obrigações heterogêneas\n(fazer x dar) convertem-se em dinheiro por arbitramento.\nPrincípio da equivalência contratual."
+description: "Usar para pesquisar ou analisar: Inversão da Cláusula Penal contra a Construtora (Tema 971 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inversão da Cláusula Penal contra a Construtora (Tema 971 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 971 STJ)
 

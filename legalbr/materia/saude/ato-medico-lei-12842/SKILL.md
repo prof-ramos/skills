@@ -5,8 +5,8 @@ title: "Lei do Ato Médico (Lei 12.842/2013) + Atividades Privativas + Profissõ
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/ato-medico-lei-12842.md"
+version: 2
+sourcePath: "legalbr/materia/saude/ato-medico-lei-12842/SKILL.md"
 triggers:
   - "Lei 12.842"
   - "Lei do Ato Médico"
@@ -18,10 +18,15 @@ triggers:
   - "conflitos profissões saúde"
   - "perícia médica privativa"
   - "prescrição privativa"
-description: "Lei 12.842/2013 (Lei do Ato Médico) define atividades **privativas\ndo médico** + delimita exercício em relação às demais profissões da\nsaúde. Veto presidencial parcial (art. 4 §§ 4-5) preservou as\ncompetências das demais profissões regulamentadas. **Atividades privativas\nexpressas** (art. 4): diagnóstico nosológico (com prescrição\nterapêutica) + perícia + auditoria médica + coordenação de PAS\nligados a atividades privativas + ensino de disciplinas\nespecificamente médicas. **Cláusula de preservação** (art. 4 §6):\ncompetências das demais profissões reguladas mantidas. Conflitos:\noptometria × oftalmologia (ADPF 131), enfermagem,\nfisioterapia, biomedicina. Exercício ilegal: CP 282, ampliado pela\nLei 15.425/2026 (inclui medicina veterinária; §§2-5: cúmulo com\nlesão grave, homicídio e maus-tratos a animal; exercício durante\nsuspensão/cassação)."
+description: "Usar para pesquisar ou analisar: Lei do Ato Médico (Lei 12.842/2013) + Atividades Privativas + Profissões da Saúde. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei do Ato Médico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

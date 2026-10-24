@@ -5,8 +5,8 @@ title: "Petição de Herança (CC 1.824-1.828 + Tema 1.200 STJ)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/peticao-heranca-cc-1824-tema-1200.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/peticao-heranca-cc-1824-tema-1200/SKILL.md"
 triggers:
   - "petição de herança"
   - "CC 1.824"
@@ -18,10 +18,15 @@ triggers:
   - "filho reconhecido após a morte"
   - "EAREsp 1.260.418"
   - "alienação por herdeiro aparente"
-description: "Ação de petição de herança (CC 1.824-1.828): natureza universal,\nlegitimidade do herdeiro preterido, restituição de bens e frutos\nconforme a posse, bloco do herdeiro aparente (eficácia das alienações\nonerosas a terceiro de boa-fé); prescrição decenal contada da abertura\nda sucessão (Tema 1.200 STJ + Súm. 149 STF), sem suspensão pela ação\nde filiação."
+description: "Usar para pesquisar ou analisar: Petição de Herança (CC 1.824-1.828 + Tema 1.200 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição de Herança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa e precedentes
 

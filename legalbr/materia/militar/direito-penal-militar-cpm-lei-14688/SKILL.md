@@ -5,8 +5,8 @@ title: "Direito Penal Militar. Parte Geral e Crimes em Espécie (CPM + Lei 14.68
 category: "materia"
 materia: "militar"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/militar/direito-penal-militar-cpm-lei-14688.md"
+version: 2
+sourcePath: "legalbr/materia/militar/direito-penal-militar-cpm-lei-14688/SKILL.md"
 triggers:
   - "Código Penal Militar"
   - "Lei 14.688/2023"
@@ -20,10 +20,15 @@ triggers:
   - "HC 232.254"
   - "entorpecente lugar militar CPM 290"
   - "perda da graduação praça"
-description: "Direito material do CPM (DL 1.001/1969) atualizado pela Lei 14.688/2023:\nparte geral (inimputabilidade, obediência hierárquica, concurso formal\n79-A, penas, sursis), crimes em espécie (deserção 187, insubmissão 183,\nhomicídio 205, estupro 232, furto 240 §6-A, entorpecentes 290),\nhediondez militar (Lei 8.072 art. 1º p.u. VI) e ANPP na Justiça Militar\n(STF HC 232.254). Competência e classificação ficam na skill CF 124-125."
+description: "Usar para pesquisar ou analisar: Direito Penal Militar. Parte Geral e Crimes em Espécie (CPM + Lei 14.688/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Penal Militar: Parte Geral e Crimes em Espécie
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Direito material do **CPM (DL 1.001/1969)**, profundamente atualizado pela **Lei 14.688/2023** (compatibilização com o CP comum e com a CF; vigência 60 dias após a publicação). Para competência da Justiça Militar (CF 124-125), classificação crime próprio × impróprio e alcance da Lei 13.491/2017, aplique a skill de crime militar e Justiça Militar (CF 124); esta skill NÃO repete aquele conteúdo.
 

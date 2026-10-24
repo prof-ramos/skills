@@ -5,8 +5,8 @@ title: "Amicus Curiae (CPC 138)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/amicus-curiae-cpc-138.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/amicus-curiae-cpc-138/SKILL.md"
 triggers:
   - "amicus curiae"
   - "CPC 138"
@@ -15,10 +15,15 @@ triggers:
   - "controle concentrado amicus"
   - "IRDR amicus"
   - "repetitivos amicus"
-description: "Amicus curiae (CPC 138): intervenção atípica permitida em qualquer\njuízo/instância; admissão por decisão irrecorrível; poderes\ndefinidos pelo juiz; possibilidade de recurso em IRDR/IAC/\nrepetitivos (CPC 138 §3); ampliada no controle concentrado de\nconstitucionalidade (Lei 9.868/1999)."
+description: "Usar para pesquisar ou analisar: Amicus Curiae (CPC 138). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Amicus Curiae
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 138, base normativa
 

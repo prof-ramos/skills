@@ -5,8 +5,8 @@ title: "ICMS e ISS na Base de IRPJ/CSLL no Lucro Presumido (Temas 1.008 e 1.240 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/icms-iss-base-irpj-csll-lucro-presumido-tema-1008-1240.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-iss-base-irpj-csll-lucro-presumido-tema-1008-1240/SKILL.md"
 triggers:
   - "Tema 1.008 STJ ICMS IRPJ CSLL"
   - "Tema 1.240 STJ ISS lucro presumido"
@@ -15,10 +15,15 @@ triggers:
   - "receita bruta lucro presumido"
   - "Tema 1.312 STJ"
   - "REsp 2.089.298"
-description: "Tema 1.008 STJ (1ª Seção, 10/05/2023): O ICMS COMPÕE a base de\ncálculo do IRPJ e da CSLL quando apurados no regime do LUCRO\nPRESUMIDO. Tema 1.240 (11/09/2024, REsp 2.089.298/RN): mesma regra\npara o ISS. Lógica:\no lucro presumido tem como base a RECEITA BRUTA (sem deduções);\nquem quer deduzir, opta pelo LUCRO REAL. NÃO se aplica a tese do\nTema 69 STF (este trata de PIS/Cofins)."
+description: "Usar para pesquisar ou analisar: ICMS e ISS na Base de IRPJ/CSLL no Lucro Presumido (Temas 1.008 e 1.240 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS e ISS na Base de IRPJ/CSLL no Lucro Presumido (Temas 1.008 e 1.240 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.008 STJ, 1ª Seção, 10/05/2023)
 

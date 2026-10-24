@@ -5,8 +5,8 @@ title: "Tutela Específica + Inibitória (CPC 497 + 500 + 536 + 537)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/tutela-provisoria/tutela-especifica-cpc-497.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tutela-especifica-cpc-497/SKILL.md"
 triggers:
   - "tutela específica"
   - "tutela inibitória"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 743 STJ"
   - "remoção do ilícito"
   - "resultado prático equivalente"
-description: "Tutela específica + inibitória sob CPC 497 + 500 + 536 + 537:\npreventiva (futuro), cessação (presente), remoção (passado);\nIRRELEVANTES dano + culpa + dolo (497 par. único); astreintes\ncumulam com perdas e danos (500); STJ Tema 1.296 (intimação\npessoal exige Súm. 410); Tema 743 (execução provisória só após\nconfirmação); EAREsp 1.479.019 (redução só multa vincenda)."
+description: "Usar para pesquisar ou analisar: Tutela Específica + Inibitória (CPC 497 + 500 + 536 + 537). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Específica + Inibitória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa (CPC 497, 500, 536, 537)
 

@@ -5,8 +5,8 @@ title: "IDPJ + Execução Fiscal (Tema 1209/1210 STJ + CPC 133-137 + LEF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/idpj-execucao-fiscal-tema-1209.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/idpj-execucao-fiscal-tema-1209/SKILL.md"
 triggers:
   - "Tema 1209 STJ"
   - "Tema 1210 STJ"
@@ -21,10 +21,15 @@ triggers:
   - "Lei 6.830"
   - "redirecionamento execução fiscal"
   - "responsabilidade tributária sócio"
-description: "IDPJ (CPC 133-137) × execução fiscal (Lei 6.830). Tema 1209 STJ\n(afetado, PENDENTE): orientação prevalente é que o IDPJ NÃO é\ncabível quando o redirecionamento se funda em RESPONSABILIDADE\nTRIBUTÁRIA do CTN (arts. 132, 133, 134, 135), e É necessário\nquando invocada a desconsideração CIVIL (CC 50) ou grupo econômico\nirregular. Tema 1210 STJ (tese fixada): desconsideração civil/\nempresarial exige abuso da personalidade (Teoria Maior, CC 50);\nmera falta de bens ou encerramento irregular não basta."
+description: "Usar para pesquisar ou analisar: IDPJ + Execução Fiscal (Tema 1209/1210 STJ + CPC 133-137 + LEF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IDPJ + Execução Fiscal (Temas 1209 + 1210 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estado dos Temas 1209 e 1210 STJ
 

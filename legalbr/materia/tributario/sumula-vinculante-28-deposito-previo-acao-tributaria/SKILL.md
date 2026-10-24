@@ -5,8 +5,8 @@ title: "Súmula Vinculante 28, Depósito Prévio em Ação Tributária"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/sumula-vinculante-28-deposito-previo-acao-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-28-deposito-previo-acao-tributaria/SKILL.md"
 triggers:
   - "SV 28"
   - "Súmula Vinculante 28"
@@ -19,10 +19,15 @@ triggers:
   - "CTN 151 II depósito"
   - "inafastabilidade jurisdição"
   - "ação anulatória tributária"
-description: "SV 28 STF (17/02/2010): \"É inconstitucional a exigência de depósito\nprévio como requisito de admissibilidade de ação judicial na qual\nse pretenda discutir a exigibilidade de crédito tributário.\"\nVeda solve et repete; CF 5 XXXV (inafastabilidade); ADI 1.074\n(art. 19 Lei 8.870/94); CTN 151 II, depósito é causa facultativa\nde suspensão, NÃO requisito de admissibilidade."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 28, Depósito Prévio em Ação Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 28, Depósito Prévio em Ação Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "JECrim, Juizado Especial Criminal (Lei 9.099/95)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/jecrim-lei-9099.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/jecrim-lei-9099/SKILL.md"
 triggers:
   - "JECrim"
   - "Lei 9.099/95"
@@ -17,10 +17,15 @@ triggers:
   - "SV 35 STF"
   - "Súm. 723 STF"
   - "composição civil"
-description: "JECrim sob Lei 9.099/95 + Lei 10.259/2001: competência para\ninfrações de menor potencial ofensivo (pena máx. ≤ 2 anos +\ncontravenções); institutos despenalizadores, composição civil\n(74), transação penal (76, SV 35 STF), sursis processual (89,\nSúm. 723 STF); ANPP × transação; vedação Maria da Penha (art. 41\n , ADC 19 + ADI 4.424); Lei 14.245/2021."
+description: "Usar para pesquisar ou analisar: JECrim, Juizado Especial Criminal (Lei 9.099/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # JECrim
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Competência (art. 61)
 

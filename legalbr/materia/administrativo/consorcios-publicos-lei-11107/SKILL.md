@@ -5,8 +5,8 @@ title: "Consórcios Públicos (Lei 11.107/2005 + Dec. 6.017/2007)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/consorcios-publicos-lei-11107.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/consorcios-publicos-lei-11107/SKILL.md"
 triggers:
   - "consórcio público"
   - "Lei 11.107/2005"
@@ -18,10 +18,15 @@ triggers:
   - "federalismo cooperativo"
   - "CF 241 gestão associada"
   - "Lei 14.026/2020 saneamento"
-description: "Consórcios públicos (Lei 11.107/2005 + Dec. 6.017/2007 + CF 241):\nassociação pública (PJ direito público) ou PJ direito privado;\nprotocolo de intenções + ratificação por lei + contrato; contrato\nde rateio (custeio anual) e contrato de programa (execução de\nobrigações); regime de pessoal próprio; lei 14.026 (saneamento)\nprivilegia consórcios."
+description: "Usar para pesquisar ou analisar: Consórcios Públicos (Lei 11.107/2005 + Dec. 6.017/2007). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Consórcios Públicos (Lei 11.107/2005)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

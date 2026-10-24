@@ -5,8 +5,8 @@ title: "Violação de Direito Autoral (CP 184) + Pirataria"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/violacao-direito-autoral-cp-184.md"
+version: 2
+sourcePath: "legalbr/materia/penal/violacao-direito-autoral-cp-184/SKILL.md"
 triggers:
   - "CP 184"
   - "violação direito autoral"
@@ -17,10 +17,15 @@ triggers:
   - "obra musical software"
   - "software Lei 9.609"
   - "IPTV pirata"
-description: "CP 184 violação direito autoral: caput (det. 3m-1a) reproduzir\nsem autorização; §1 (recl. 2-4) reprodução com intuito de lucro\ndireto/indireto; §2 distribuição/venda; §3 oferta via cabo/\nsatélite/internet; ação privada (caput), pública INCONDICIONADA\n§§1-2 e contra entes públicos (CP 186 II-III), condicionada à\nrepresentação no §3 (CP 186 IV); Súm. 502 STJ veda insignificância\nem pirataria; Súm. 574 STJ perícia por amostragem."
+description: "Usar para pesquisar ou analisar: Violação de Direito Autoral (CP 184) + Pirataria. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violação de Direito Autoral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 184)
 

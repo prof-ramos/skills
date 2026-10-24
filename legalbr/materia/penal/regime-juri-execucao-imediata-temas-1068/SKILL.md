@@ -5,8 +5,8 @@ title: "Júri: Quesitação, Clemência e Execução Imediata (Temas 1.068 e 1.0
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/regime-juri-execucao-imediata-temas-1068.md"
+version: 2
+sourcePath: "legalbr/materia/penal/regime-juri-execucao-imediata-temas-1068/SKILL.md"
 triggers:
   - "Conselho de Sentença júri"
   - "quesito genérico absolvição"
@@ -17,10 +17,15 @@ triggers:
   - "execução imediata júri"
   - "soberania dos veredictos"
   - "CPP 483 quesitos"
-description: "Conselho de Sentença do Tribunal do Júri (CPP 483) +\njurisprudência: a quesitação segue ordem do CPP 483 (materialidade,\nautoria, absolvição genérica, diminuição, qualificadoras/aumento).\nTema 1.087 STF: cabe apelação (593 III d) contra veredicto amparado\nem quesito genérico, mas NÃO há novo júri se tese de clemência\nconstou em ata e foi acolhida, se compatível com a CF. Tema\n1.068 STF: soberania dos veredictos autoriza execução IMEDIATA da\ncondenação pelo júri, independentemente do total da pena."
+description: "Usar para pesquisar ou analisar: Júri: Quesitação, Clemência e Execução Imediata (Temas 1.068 e 1.087 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conselho de Sentença e Quesitação no Júri
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

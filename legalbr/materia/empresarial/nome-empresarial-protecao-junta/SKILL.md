@@ -5,8 +5,8 @@ title: "Nome Empresarial, Proteção e Junta Comercial (CC 1.155-1.168)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/nome-empresarial-protecao-junta.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/nome-empresarial-protecao-junta/SKILL.md"
 triggers:
   - "nome empresarial"
   - "firma social"
@@ -18,10 +18,15 @@ triggers:
   - "Junta Comercial"
   - "exclusividade estadual"
   - "colidência nomes"
-description: "Nome empresarial: **CC 1.155-1.168** + Lei 8.934/94 + IN DREI 81/\n2020: designação que identifica o empresário/sociedade e a empresa.\nCompreende **firma** (nome civil: empresário individual + sociedade\nem nome coletivo + comanditas) e **denominação** (palavras + objeto:\nLTDA + S.A.). **Princípios**: veracidade + novidade. **Proteção**:\nregistro na **Junta Comercial** confere exclusividade na **UF**.\nExtensão nacional via **INPI** (marca) + arquivamento em outras\njuntas. Colidência: registro posterior pode ser anulado. **EIRELI\nextinta** (Lei 14.382/2022) → SLU. **Lei 14.195/2021** facilitou.\nNome empresarial × marca × título do estabelecimento: institutos\ndistintos com proteções próprias."
+description: "Usar para pesquisar ou analisar: Nome Empresarial, Proteção e Junta Comercial (CC 1.155-1.168). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nome Empresarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

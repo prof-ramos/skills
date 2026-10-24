@@ -5,8 +5,8 @@ title: "RIPD/DPIA: Relatório de Impacto à Proteção de Dados (LGPD 38 + ANPD)
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/dpia-lgpd-relatorio-impacto.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/dpia-lgpd-relatorio-impacto/SKILL.md"
 triggers:
   - "RIPD"
   - "DPIA"
@@ -16,10 +16,15 @@ triggers:
   - "guia ANPD relatório de impacto"
   - "alto risco tratamento"
   - "avaliação preventiva LGPD"
-description: "RIPD (Relatório de Impacto à Proteção de Dados Pessoais, DPIA na\nGDPR): documentação prevista no **LGPD art. 38** sobre operações\nde tratamento que podem gerar **alto risco** aos direitos do titular.\nConteúdo mínimo: descrição dos dados + metodologia + medidas e\nsalvaguardas. **ANPD** publicou **Guia Modelo de Elaboração (2023)**.\nObrigatório quando: tratamento de dados sensíveis em larga escala,\ndecisões automatizadas com efeitos significativos, monitoramento\nsistemático, vigilância de espaço público, dados de crianças/\nadolescentes em escala, transferência internacional para país sem\nnível adequado. Recomendável como **boa prática** mesmo quando não\nobrigatório. ANPD pode requisitar. Encarregado conduz."
+description: "Usar para pesquisar ou analisar: RIPD/DPIA: Relatório de Impacto à Proteção de Dados (LGPD 38 + ANPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RIPD: Relatório de Impacto à Proteção de Dados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

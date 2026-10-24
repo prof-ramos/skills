@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "parecer-mp-recursal"
 version: 2
-sourcePath: "lib/skills/official/forma/parecer-mp-recursal.md"
+sourcePath: "legalbr/forma/parecer-mp-recursal/SKILL.md"
 triggers:
   - "parecer do MP recursal"
   - "manifestação do MP em segundo grau"
@@ -18,10 +18,15 @@ triggers:
   - "parecer em apelação agravo REsp RE"
   - "LC 75/93 e Lei 8.625/93"
   - "parecer sobre admissibilidade e mérito do recurso"
-description: "Parecer do MP em 2º grau como custos legis: análise da admissibilidade\ne do mérito recursal; nos casos do art. 178 CPC (incapaz, interesse\nsocial, interesses coletivos), também opina sobre o mérito da causa.\nSúm. 99 STJ: o MP que oficiou como fiscal tem legitimidade recursal\nmesmo sem recurso da parte."
+description: "Usar para redigir ou revisar: Parecer MP Recursal (2º Grau). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parecer MP Recursal (2º Grau)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e atribuição
 

@@ -5,8 +5,8 @@ title: "Comissão de Permanência (Súm. 472 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/comissao-permanencia-vedacao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/comissao-permanencia-vedacao/SKILL.md"
 triggers:
   - "comissão de permanência"
   - "Súm. 472 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "vedação cumulada"
   - "Súm. 30 STJ"
   - "Súm. 296 STJ"
-description: "Comissão de permanência sob Súms. 30 + 296 + 472 STJ + Res.\nCMN 4.558/2017 (que vedou expressamente sua cobrança em novos\ncontratos): admitida apenas se prevista contratualmente, com\ntaxa não superior à pactuada e **sem cumulação** com correção\nmonetária + juros remuneratórios + multa + juros moratórios;\nhoje virtualmente extinta após Res. CMN 4.558; substituição\npor \"encargos de mora\" admitida com transparência."
+description: "Usar para pesquisar ou analisar: Comissão de Permanência (Súm. 472 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comissão de Permanência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

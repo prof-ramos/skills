@@ -5,8 +5,8 @@ title: "Crimes de Prefeitos (DL 201/1967 + CF 29 X + Súm. 703 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/crimes-prefeitos-dl-201.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/crimes-prefeitos-dl-201/SKILL.md"
 triggers:
   - "crimes prefeitos"
   - "DL 201/1967"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 703 STF"
   - "art. 1 DL 201"
   - "art. 4 DL 201"
-description: "Crimes de prefeitos (DL 201/1967 + CF 29 X): art. 1 (crimes\ncomuns, TJ competente); art. 4 (infrações político-administrativas,\nCâmara Municipal cassa); foro restrito a crimes funcionais durante\no mandato (AP 937 QO); a extinção do mandato não impede o processo\n(Súm. 703 STF); ação penal pública incondicionada; rito específico;\ncassação de vereador pelo art. 7 do DL 201."
+description: "Usar para pesquisar ou analisar: Crimes de Prefeitos (DL 201/1967 + CF 29 X + Súm. 703 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes de Prefeitos (DL 201/1967)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

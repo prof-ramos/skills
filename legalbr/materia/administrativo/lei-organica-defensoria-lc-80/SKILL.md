@@ -5,8 +5,8 @@ title: "Lei Orgânica da Defensoria (LC 80/1994 + EC 80/2014 + Tema 607 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/lei-organica-defensoria-lc-80.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-organica-defensoria-lc-80/SKILL.md"
 triggers:
   - "Defensoria Pública"
   - "LC 80/1994"
@@ -20,10 +20,15 @@ triggers:
   - "ADI 558"
   - "prazo em dobro"
   - "intimação pessoal"
-description: "Defensoria CF 134 + LC 80/1994; EC 80/2014 elevou status + seção\nprópria + composição em comarcas até 2022 (ADCT 98); CF 5 LXXIV\nassistência jurídica integral + gratuita; autonomias funcional +\nadministrativa + financeira (EC 45/2004 + ADI 558 + ADIs 5.286/5.287);\nTema 607 STF (legitimidade ACP); Tema 1.002 STF (honorários contra\no ente que integra; Súm. 421 STJ cancelada em 2024); prerrogativas\nLC 80 (prazo em dobro CPC 186 + intimação pessoal)."
+description: "Usar para pesquisar ou analisar: Lei Orgânica da Defensoria (LC 80/1994 + EC 80/2014 + Tema 607 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Orgânica da Defensoria Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 134: natureza institucional
 

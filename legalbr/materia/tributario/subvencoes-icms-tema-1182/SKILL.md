@@ -5,8 +5,8 @@ title: "Subvenções de ICMS e IRPJ/CSLL (Tema 1.182 STJ + Tema 843 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/subvencoes-icms-tema-1182.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/subvencoes-icms-tema-1182/SKILL.md"
 triggers:
   - "Tema 1.182 STJ"
   - "REsp 1.945.110"
@@ -19,10 +19,15 @@ triggers:
   - "art. 30 Lei 12.973"
   - "Lei 14.789/2023"
   - "pacto federativo"
-description: "Tema 1.182 STJ (REsp 1.945.110/1.987.158, Min. Benedito Gonçalves,\n26/04/2023): excluir benefícios ICMS da base IRPJ/CSLL exige\ncumprimento da LC 160/2017 + art. 30 da Lei 12.973/2014 (reserva\nde incentivos). Crédito presumido tem regime próprio (Tema 843 STF\n+ EREsp 1.517.492 — exclusão automática por pacto federativo). Pós\n01/01/2024: Lei 14.789/23 revoga art. 30 e cria crédito fiscal."
+description: "Usar para pesquisar ou analisar: Subvenções de ICMS e IRPJ/CSLL (Tema 1.182 STJ + Tema 843 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Subvenções de ICMS e IRPJ/CSLL (Tema 1.182 STJ + Tema 843 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

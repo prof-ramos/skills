@@ -5,8 +5,8 @@ title: "Mandado de Segurança Coletivo"
 category: "forma"
 materia: null
 documentType: "ms-coletivo"
-version: 1
-sourcePath: "lib/skills/official/forma/ms-coletivo.md"
+version: 2
+sourcePath: "legalbr/forma/ms-coletivo/SKILL.md"
 triggers:
   - "mandado de segurança coletivo"
   - "MS coletivo"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 630 STF"
   - "Tema 1.119 STF"
   - "prazo decadencial de 120 dias"
-description: "MS coletivo sob a CF 5º LXX e Lei 12.016/09 arts. 21-22:\nlegitimados taxativos (partido político, sindicato, entidade de\nclasse, associação >1 ano); substituição processual sem autorização;\ntutela de direitos coletivos e individuais homogêneos; liminar pelo\nregime geral do art. 7º III (a oitiva prévia do art. 22 §2º foi\ndeclarada inconstitucional na ADI 4.296); decadência de 120 dias;\nTema 1.119 STF dispensa lista/autorização na cobrança de pretéritos."
+description: "Usar para redigir ou revisar: Mandado de Segurança Coletivo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Coletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento (CF 5º LXX)
 

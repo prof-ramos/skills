@@ -5,8 +5,8 @@ title: "Descontos Associativos Indevidos em Benefícios do INSS (ADPF 1.236 + Le
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/descontos-associativos-inss-adpf-1236.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/descontos-associativos-inss-adpf-1236/SKILL.md"
 triggers:
   - "ADPF 1.236"
   - "descontos associativos INSS"
@@ -18,10 +18,15 @@ triggers:
   - "fraude descontos aposentadoria"
   - "art. 115 V Lei 8.213"
   - "entidade associativa desconto folha INSS"
-description: "Ações de restituição e dano moral por descontos de mensalidades\nassociativas em benefícios do INSS: acordo estruturante homologado\nna ADPF 1.236 STF (03/07/2025, suspensão de ações contra União/INSS\ne da prescrição), Lei 15.327/2026 (revoga o art. 115 V da Lei 8.213\ne veda o desconto mesmo com autorização) e Tema 183 TNU aplicado por\nanalogia (responsabilidade subsidiária por omissão de fiscalização)."
+description: "Usar para pesquisar ou analisar: Descontos Associativos Indevidos em Benefícios do INSS (ADPF 1.236 + Lei 15.327/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descontos Associativos Indevidos em Benefícios do INSS (ADPF 1.236 + Lei 15.327/2026)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Onda massiva de ações em JEFs por descontos de mensalidades de associações e sindicatos em aposentadorias e pensões sem autorização válida do beneficiário. A AGU reportou ao STF mais de 52 mil ações individuais mapeadas, com mais de 15 mil novas apenas em junho de 2025. A minuta deve situar o caso frente a três camadas: o acordo da ADPF 1.236, a lei nova de 2026 e o regime de responsabilidade civil.
 

@@ -5,8 +5,8 @@ title: "Compliance Trabalhista e Defesa em TAC do MPT"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/compliance-trabalhista-defesa.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/compliance-trabalhista-defesa/SKILL.md"
 triggers:
   - "compliance trabalhista"
   - "TAC MPT"
@@ -22,10 +22,15 @@ triggers:
   - "auto de infração trabalhista"
   - "dupla visita CLT 627"
   - "anulatória de auto de infração"
-description: "Compliance trabalhista e defesa em procedimentos do MPT (Lei 7.347; LC 75/93; Lei 8.625/93). Inquérito civil; TAC trabalhista (Lei 7.347 art. 5 §6); ACP do MPT. Temas críticos: pejotização (Tema 1.389 STF), terceirização (Tema 725 STF + ADPF 324), assédio moral e sexual (Lei 14.457/22 + CIPA), saúde e segurança (NRs), diversidade e equidade salarial (Lei 14.611/23), trabalho análogo a escravo (CP 149). Pejotização sob o Tema 1.389 STF (ARE 1.532.603, rel. Gilmar Mendes; suspensão nacional de abril/2025 retirada em junho/2026 para 1ª instância e TRTs, mantida após o julgamento nos TRTs até a tese do STF); Tema 1.291 STF trata da uberização (motoristas de aplicativo, RE 1.446.336). Programa de integridade trabalhista (Dec. 9.571 + Pacto Nacional). Frente administrativa do MTE: auto de infração e defesa (CLT 626-642), dupla visita (CLT 627), embargo/interdição (CLT 161 + NR-3), Súm. Vinc. 21 (sem depósito prévio) e anulatória na Justiça do Trabalho (CF 114 VII)."
+description: "Usar para pesquisar ou analisar: Compliance Trabalhista e Defesa em TAC do MPT. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compliance Trabalhista e Defesa em TAC do MPT
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

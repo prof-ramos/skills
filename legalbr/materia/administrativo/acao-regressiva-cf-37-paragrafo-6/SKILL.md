@@ -5,8 +5,8 @@ title: "Ação Regressiva da Fazenda contra Servidor (CF 37 §6)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/acao-regressiva-cf-37-paragrafo-6.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acao-regressiva-cf-37-paragrafo-6/SKILL.md"
 triggers:
   - "ação regressiva CF 37 §6"
   - "direito de regresso Estado"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 666 STF"
   - "LINDB 28 servidor"
   - "denunciação à lide servidor vedação"
-description: "Ação regressiva da Fazenda contra servidor (CF 37 §6 + Lei 8.112\narts. 121-122): pressupostos (responsabilização do ente, pagamento\nefetivo, conduta do agente, dolo ou culpa, nexo causal); prescrição\nquinquenal do pagamento (Tema 666 STF + Súm. 85 STJ); imprescritibilidade\nsó em ato doloso de improbidade (Tema 897 STF); denunciação à lide do\nservidor na ação primária não é obrigatória (jurisprudência pacífica\ndo STJ); LINDB 28 (dolo ou erro grosseiro); independência das\ninstâncias (Súm. 18 STF) + dupla garantia (Tema 940 STF)."
+description: "Usar para pesquisar ou analisar: Ação Regressiva da Fazenda contra Servidor (CF 37 §6). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Regressiva da Fazenda contra Servidor (CF 37 §6)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

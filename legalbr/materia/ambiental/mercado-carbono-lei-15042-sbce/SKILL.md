@@ -5,8 +5,8 @@ title: "Mercado de Carbono — Lei 15.042/2024 + SBCE"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/mercado-carbono-lei-15042-sbce.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/mercado-carbono-lei-15042-sbce/SKILL.md"
 triggers:
   - "Lei 15.042"
   - "SBCE"
@@ -18,10 +18,15 @@ triggers:
   - "tCO2e"
   - "REDD+ Brasil"
   - "mercado regulado emissões"
-description: "Mercado de Carbono — **Lei 15.042/2024** (11/12/2024): institui o\n**SBCE** (Sistema Brasileiro de Comércio de Emissões de GEE) —\nmercado **regulado cap-and-trade**. **Aplicação**: setores\nintensivos em emissões com obrigações de relatar + limites de\nemissão. **Instrumentos**: CBE (Cota Brasileira de Emissões) + CRVE\n(Certificado de Redução ou Remoção Verificada). **Implementação em\n5 fases** (regulamentação → operação plena, ~5+ anos). Mercado\n**regulado** (público) + **voluntário** (privado) coexistem. ANA\n+ CIAM (governança). Vinculação com NDC (Lei 12.187) + COP30\nBelém 2025. Tributação verde + reforma tributária (EC 132)."
+description: "Usar para pesquisar ou analisar: Mercado de Carbono — Lei 15.042/2024 + SBCE. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mercado de Carbono Brasileiro — SBCE
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

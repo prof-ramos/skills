@@ -5,8 +5,8 @@ title: "Dívidas do Espólio + Habilitação de Crédito no Inventário (CC 1.79
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/dividas-espolio-habilitacao-cpc-642.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/dividas-espolio-habilitacao-cpc-642/SKILL.md"
 triggers:
   - "dívidas do espólio"
   - "habilitação de crédito no inventário"
@@ -19,10 +19,15 @@ triggers:
   - "credor do espólio"
   - "despesas funerárias herança"
   - "cobrança contra herdeiros"
-description: "Pagamento das dívidas do falecido: responsabilidade intra vires (CC\n1.792) e pro rata pós-partilha (CC 1.997 + CPC 796), habilitação de\ncrédito no inventário (CPC 642-646: concordância das partes, reserva\nde bens, vias ordinárias), execução contra o espólio, credor\nlegitimado a abrir o inventário (CPC 616 VI) e despesas funerárias\n(CC 1.998)."
+description: "Usar para pesquisar ou analisar: Dívidas do Espólio + Habilitação de Crédito no Inventário (CC 1.792/1.997 + CPC 642-646). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dívidas do Espólio + Habilitação de Crédito no Inventário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

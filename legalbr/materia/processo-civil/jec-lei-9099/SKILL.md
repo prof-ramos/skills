@@ -5,8 +5,8 @@ title: "Juizado Especial Cível (Lei 9.099/95 + Recursos + JEF + JEFP + JEC Crim
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/jec-lei-9099.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/jec-lei-9099/SKILL.md"
 triggers:
   - "JEC"
   - "Lei 9.099/95"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 203 STJ"
   - "TNU"
   - "Súm. 690 STF"
-description: "JEC sob Lei 9.099/95 + JEF (Lei 10.259/01) + JEFP (Lei 12.153/09):\ncompetência 40/60 SM; princípios da oralidade/celeridade; recurso\ninominado 10 dias com razões no ato; ED 5 dias interrompem\n(pós-CPC/2015); RE cabe (Súm. 640) mas REsp não (Súm. 203); MS\nna TR (Súm. 376); Súm. 690 cancelada (HC vai ao TJ/TRF); TNU no\nJEF; reclamação ao TJ (ER 22/2016 STJ); JEC virtual."
+description: "Usar para pesquisar ou analisar: Juizado Especial Cível (Lei 9.099/95 + Recursos + JEF + JEFP + JEC Criminal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juizado Especial Cível (Lei 9.099/95)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Competência (art. 3)
 

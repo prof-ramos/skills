@@ -5,8 +5,8 @@ title: "Parcelamentos Federais: Exclusão, Consolidação e Reduções (Temas 40
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/parcelamento-exclusao-consolidacao-temas-997-1187.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/parcelamento-exclusao-consolidacao-temas-997-1187/SKILL.md"
 triggers:
   - "Tema 1.187 STJ"
   - "Tema 997 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "exclusão do PAES"
   - "remissão débitos até dez mil reais"
   - "quitação antecipada parcelamento juros"
-description: "Cluster de repetitivos dos parcelamentos federais: Tema 997 (teto do\nparcelamento simplificado por ato infralegal, CTN 96 e Lei 10.522 art.\n14-C), Tema 1.187 (redução de juros da Lei 11.941 aplicada APÓS a\nconsolidação, sobre o valor original dos juros), Tema 401 (exclusão do\nPAES ilegítima com adesão tácita e longa adimplência) e Tema 457\n(remissão de débitos até R$ 10 mil, Lei 11.941 art. 14, vedada a\npronúncia de ofício por execução isolada)."
+description: "Usar para pesquisar ou analisar: Parcelamentos Federais: Exclusão, Consolidação e Reduções (Temas 401, 457, 997 e 1.187 STJ + Lei 11.941). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parcelamentos Federais: Exclusão, Consolidação e Reduções (Temas 401, 457, 997 e 1.187 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Mapa do cluster
 

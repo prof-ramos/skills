@@ -6,7 +6,7 @@ category: "materia"
 materia: "diversidade-dh"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/diversidade-dh/crianca-adolescente-vitima-lei-13431.md"
+sourcePath: "legalbr/materia/diversidade-dh/crianca-adolescente-vitima-lei-13431/SKILL.md"
 triggers:
   - "Lei 13.431"
   - "criança vítima"
@@ -18,10 +18,15 @@ triggers:
   - "revitimização"
   - "Lei 14.344 Henry Borel"
   - "Lei 15.487 atendimento vítima sexual"
-description: "Proteção da criança ou adolescente vítima ou testemunha: escuta,\ndepoimento especial, oitiva única, vedação à revitimização, atendimento\npsicológico e psicossocial contínuo e ressarcimento do tratamento."
+description: "Usar para pesquisar ou analisar: Criança/Adolescente Vítima ou Testemunha (Lei 13.431/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Criança/Adolescente Vítima ou Testemunha de Violência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

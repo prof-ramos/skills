@@ -5,8 +5,8 @@ title: "Trabalho Portuário (Lei 12.815/2013 + Lei 9.719/1998)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-portuario-lei-12815.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-portuario-lei-12815/SKILL.md"
 triggers:
   - "trabalho portuário"
   - "Lei 12.815"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 9.719"
   - "CF 7 XXXIV"
   - "Tema 222 STF"
-description: "Trabalho portuário (Lei 12.815/13 + Lei 9.719/98): trabalho avulso\nintermediado pelo OGMO ou empregado de operador portuário (com vínculo);\ncategorias (estiva, capatazia, conferência, conserto, vigilância);\njornada por turno; CCT específica; CCS (Caixa do Sistema); equiparação\ndo avulso ao empregado com vínculo (CF 7 XXXIV)."
+description: "Usar para pesquisar ou analisar: Trabalho Portuário (Lei 12.815/2013 + Lei 9.719/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Portuário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

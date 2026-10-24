@@ -5,8 +5,8 @@ title: "Fake News + Discurso de Ódio (PL 2630 + STF Tema 987 + Lei 14.532)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/fake-news-pl-2630-discurso-odio.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/fake-news-pl-2630-discurso-odio/SKILL.md"
 triggers:
   - "PL 2630"
   - "PL das Fake News"
@@ -18,10 +18,15 @@ triggers:
   - "responsabilidade das plataformas"
   - "dever de cuidado das plataformas"
   - "Lei 14.532"
-description: "Fake news + discurso de ódio + responsabilidade de plataformas: PL\n2630/2020 (Lei Brasileira de Liberdade, Responsabilidade e\nTransparência na Internet, \"PL das Fake News\"), em tramitação,\ntravado. **STF Tema 987 (RE 1.037.396, j. 26/06/2025, 8x3; ED\n17/06/2026)**: reformulação do Marco Civil art. 19 (parcialmente\ninconstitucional), crimes contra a honra mantêm a exigência de ordem\njudicial; demais ilícitos respondem por notificação extrajudicial,\ncom solidariedade; rol de conteúdos graves com dever de remoção;\nimpulsionamento pago e disseminação inorgânica com presunção\nrelativa de culpa. **Lei 14.532/2023** equiparou a\ninjúria racial ao racismo. **Lei 13.260** (terrorismo). TSE Reso 23.732\n(deepfake eleitoral). Tendência: regulação setorial + dever de\ncuidado + transparência + accountability."
+description: "Usar para pesquisar ou analisar: Fake News + Discurso de Ódio (PL 2630 + STF Tema 987 + Lei 14.532). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fake News + Discurso de Ódio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

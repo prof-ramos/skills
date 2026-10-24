@@ -5,8 +5,8 @@ title: "Solidariedade Federativa em Saúde (Tema 793 STF + RE 855.178)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/solidariedade-saude-tema-793.md"
+version: 2
+sourcePath: "legalbr/materia/saude/solidariedade-saude-tema-793/SKILL.md"
 triggers:
   - "Tema 793 STF"
   - "RE 855.178"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 686 STJ"
   - "direcionamento cumprimento saúde"
   - "CF 23 II"
-description: "Tema 793 STF (RE 855.178, Min. Luiz Fux, mérito 05/03/2015; ED com\nredação Min. Fachin em 23/05/2019): entes federativos são\nsolidariamente responsáveis nas demandas prestacionais de saúde\n(CF 23 II + 196). Qualquer ente pode figurar isolada ou\nconjuntamente. Juiz direciona o cumprimento conforme partilha\nadministrativa e ordena ressarcimento. Chamamento ao processo\nfacultativo (Tema 686/STJ)."
+description: "Usar para pesquisar ou analisar: Solidariedade Federativa em Saúde (Tema 793 STF + RE 855.178). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Solidariedade Federativa em Saúde (Tema 793 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

@@ -5,8 +5,8 @@ title: "Captação Ilícita de Sufrágio (Lei 9.504 art. 41-A + Lei 9.840/99)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/captacao-ilicita-sufragio-9504-41a.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/captacao-ilicita-sufragio-9504-41a/SKILL.md"
 triggers:
   - "captação ilícita de sufrágio"
   - "art 41-A Lei 9.504"
@@ -18,10 +18,15 @@ triggers:
   - "cassação registro"
   - "vantagem indevida eleitor"
   - "promessa de emprego a eleitor"
-description: "Captação ilícita de sufrágio, **Lei 9.504/97 art. 41-A** (incluído\npela Lei 9.840/1999): ato de doar + oferecer + prometer + entregar\na eleitor **bem ou vantagem pessoal** (incluindo emprego ou função\npública) **com o fim de obter o voto**. Período: **do registro\naté a eleição**. Não confundir com **crime eleitoral** (CE art. 299,\ncorrupção eleitoral). Sanção: **multa** (1.000 a 50.000 UFIR) +\n**cassação** do registro ou diploma. Aplicação do procedimento da\nLC 64/90 art. 22. Elementos: objetivo (oferta) + subjetivo\n(finalidade). Após Ficha Limpa: **inelegibilidade 8 anos**.\nDistingue-se de **abuso de poder econômico** + **conduta vedada**\n+ **propaganda irregular**."
+description: "Usar para pesquisar ou analisar: Captação Ilícita de Sufrágio (Lei 9.504 art. 41-A + Lei 9.840/99). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Captação Ilícita de Sufrágio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

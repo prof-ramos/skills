@@ -5,8 +5,8 @@ title: "Lei de Migração + Refúgio (Lei 13.445/2017 + Lei 9.474/1997)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/lei-migracao-refugio-13445.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/lei-migracao-refugio-13445/SKILL.md"
 triggers:
   - "Lei de Migração"
   - "Lei 13.445/2017"
@@ -20,10 +20,15 @@ triggers:
   - "acolhida humanitária"
   - "Convenção 1951"
   - "Cartagena 1984"
-description: "Lei 13.445/2017 (Estatuto da Migração, substituiu Estatuto do\nEstrangeiro Lei 6.815/1980): princípios DH + não discriminação +\nacolhida humanitária + reunião familiar; visto de RESIDÊNCIA\nHUMANITÁRIA (art. 14 §3); NON-REFOULEMENT (art. 7); Lei 9.474/\n1997 + CONARE; Convenção 1951 + Cartagena 1984 (definição\nampliada, grave violação DH); extradição vedada brasileiro nato."
+description: "Usar para pesquisar ou analisar: Lei de Migração + Refúgio (Lei 13.445/2017 + Lei 9.474/1997). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei de Migração + Refúgio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.445/2017: ESTATUTO DA MIGRAÇÃO
 

@@ -5,8 +5,8 @@ title: "Exploração de Loterias por Agentes Privados (Tema 1.323 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/loterias-delegacao-tema-1323.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/loterias-delegacao-tema-1323/SKILL.md"
 triggers:
   - "Tema 1.323 STF"
   - "loteria exploração privada"
@@ -18,10 +18,15 @@ triggers:
   - "apostas regulamentadas"
   - "CF 22 XX"
   - "loterias estaduais"
-description: "Tema 1.323 STF (RE 1.498.128, 28/09/2024): EXIGÍVEL prévia\ndelegação estatal (concessão/permissão) para exploração de\nloterias por agentes privados, com PROCESSO LICITATÓRIO.\nVedada exploração sem regular delegação. CF 22 XX (loterias\nfederais e estaduais). Lei 14.790/23 (bets/apostas) regula\napostas de quota fixa. ADPF 492/493: loterias estaduais\npodem ser exploradas pelos próprios estados."
+description: "Usar para pesquisar ou analisar: Exploração de Loterias por Agentes Privados (Tema 1.323 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exploração de Loterias por Agentes Privados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

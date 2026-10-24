@@ -5,8 +5,8 @@ title: "SISBAJUD + Penhora Online (CPC 854 + 833 + 835)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/sisbajud-penhora-online-cpc-854.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/sisbajud-penhora-online-cpc-854/SKILL.md"
 triggers:
   - "SISBAJUD"
   - "penhora online"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1.137 STJ"
   - "Tema 1.235 STJ"
   - "40 salários mínimos"
-description: "Penhora online sob CPC 854 + 833 X + 835 I + SISBAJUD/SNIPER:\nindisponibilidade (não penhora), 24h da instituição + 24h do juiz\npara excesso/impenhorabilidade, 5 dias para impugnação; Tema 1.137\nSTJ (medidas atípicas, requisitos cumulativos); Tema 1.235 STJ\n(impenhorabilidade 40 SM não é de ofício); Tema 1.230 STJ (salário\nnão alimentar, pendente); teimosinha legítima (Tema 1.325 STJ) +\nSNIPER + criptoativos."
+description: "Usar para pesquisar ou analisar: SISBAJUD + Penhora Online (CPC 854 + 833 + 835). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SISBAJUD + Penhora Online
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

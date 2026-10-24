@@ -5,8 +5,8 @@ title: "Provimento e Vacância do Cargo (Lei 8.112/90 arts. 5-34 + SV 43-44)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/provimento-vacancia-lei-8112.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/provimento-vacancia-lei-8112/SKILL.md"
 triggers:
   - "provimento cargo público"
   - "vacância"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. Vinc. 44"
   - "Súm. 16 STF"
   - "posse por procuração"
-description: "Provimento (Lei 8.112 arts. 8-32): originário (nomeação por\nconcurso) × derivado (readaptação, reversão, aproveitamento,\nreintegração, recondução); SV 43 (veda provimento derivado por\ncarreira diversa); SV 44 (psicotécnico só com lei + critérios +\nrecurso); vacância (art. 33); estágio probatório 3 anos (CF 41,\nEC 19/1998)."
+description: "Usar para pesquisar ou analisar: Provimento e Vacância do Cargo (Lei 8.112/90 arts. 5-34 + SV 43-44). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Provimento e Vacância do Cargo Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

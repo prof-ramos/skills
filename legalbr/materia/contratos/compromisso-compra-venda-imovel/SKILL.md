@@ -5,8 +5,8 @@ title: "Compromisso/Promessa de Compra e Venda de Imóvel (CC 1.417-1.418 + Lei 
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/compromisso-compra-venda-imovel.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/compromisso-compra-venda-imovel/SKILL.md"
 triggers:
   - "compromisso de compra e venda"
   - "promessa de compra e venda"
@@ -22,10 +22,15 @@ triggers:
   - "direito real de aquisição"
   - "Súm. 84 STJ"
   - "Súm. 543 STJ"
-description: "Compromisso de compra e venda de imóvel (CC 1.417-1.418, Lei\n6.766/79, Lei 4.591/64): registro CRI = direito real;\nirretratabilidade; adjudicação compulsória judicial e\nextrajudicial (art. 216-B da Lei 6.015/73); Lei 13.786/18."
+description: "Usar para pesquisar ou analisar: Compromisso/Promessa de Compra e Venda de Imóvel (CC 1.417-1.418 + Lei 6.766/79 + Lei 13.786/18). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compromisso de Compra e Venda de Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

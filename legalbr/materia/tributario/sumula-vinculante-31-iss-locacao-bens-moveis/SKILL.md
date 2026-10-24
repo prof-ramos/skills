@@ -5,8 +5,8 @@ title: "Súmula Vinculante 31, ISS sobre Locação de Bens Móveis"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/sumula-vinculante-31-iss-locacao-bens-moveis.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-31-iss-locacao-bens-moveis/SKILL.md"
 triggers:
   - "SV 31"
   - "Súmula Vinculante 31"
@@ -20,10 +20,15 @@ triggers:
   - "ADI 5659"
   - "RE 688223"
   - "software ISS"
-description: "SV 31 STF (04/02/2010): \"É inconstitucional a incidência do ISS\nsobre operações de locação de bens móveis.\" Locação (CC 565) NÃO\né prestação de serviço (obrigação de dar, não de fazer); RE 116.121;\nCF 156 III + LC 116/2003. Em operações MISTAS (locação + serviço),\no ISS incide sobre a parcela do serviço se destacada. ADI 5.659\n(software): ISS, não ICMS."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 31, ISS sobre Locação de Bens Móveis. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 31, ISS sobre Locação de Bens Móveis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

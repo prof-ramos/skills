@@ -5,8 +5,8 @@ title: "ADI 1856: Briga de Galo e Vedação à Crueldade Animal"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/adi-1856-briga-galo.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/adi-1856-briga-galo/SKILL.md"
 triggers:
   - "ADI 1856"
   - "briga de galo"
@@ -16,10 +16,15 @@ triggers:
   - "manifestação cultural limites"
   - "galo combatente RJ"
   - "Lei 2.895/1998 RJ"
-description: "ADI 1856 (Celso de Mello, 26/05/2011, unânime): Lei RJ\n2.895/1998 (briga de galo) é inconstitucional, pois crueldade\nanimal viola CF 225 §1 VII. Linha de ADI 2514/SC, 3776/RN,\nRE 153.531/SC (farra do boi) e ADI 4983 (vaquejada)."
+description: "Usar para pesquisar ou analisar: ADI 1856: Briga de Galo e Vedação à Crueldade Animal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 1856: Briga de Galo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

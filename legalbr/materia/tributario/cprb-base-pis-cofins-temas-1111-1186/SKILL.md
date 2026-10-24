@@ -5,8 +5,8 @@ title: "CPRB ↔ PIS/COFINS na Base de Cálculo (Temas 1.111 e 1.186 STF + 1.048
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/cprb-base-pis-cofins-temas-1111-1186.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cprb-base-pis-cofins-temas-1111-1186/SKILL.md"
 triggers:
   - "Tema 1.111 STF"
   - "Tema 1.186 STF"
@@ -19,10 +19,15 @@ triggers:
   - "contribuição previdenciária sobre receita bruta"
   - "Tema 1.184 STJ"
   - "irretratabilidade da opção pela CPRB"
-description: "Tema 1.111 STF (RE 1.244.117, 06/11/2020): infraconstitucional\na inclusão da CPRB na base de PIS/COFINS. STJ consolidou:\nCPRB COMPÕE base PIS/COFINS. Tema 1.186 STF (RE 1.341.464,\n2025): CONSTITUCIONAL inclusão de PIS/COFINS na base\nCPRB. Tema 1.048 STF: CONSTITUCIONAL a inclusão do ICMS na base CPRB. Lógicas\ndistintas do Tema 69 (rejeitada simetria). Lei 12.546/2011."
+description: "Usar para pesquisar ou analisar: CPRB ↔ PIS/COFINS na Base de Cálculo (Temas 1.111 e 1.186 STF + 1.048). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CPRB + PIS/COFINS na Base de Cálculo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

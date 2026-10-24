@@ -5,8 +5,8 @@ title: "Descontos Associativos Não Autorizados em Benefício do INSS (Lei 8.213
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/descontos-associativos-inss.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/descontos-associativos-inss/SKILL.md"
 triggers:
   - "desconto associativo"
   - "mensalidade associativa"
@@ -18,10 +18,15 @@ triggers:
   - "entidade associativa de aposentados"
   - "acordo de cooperação técnica INSS"
   - "ressarcimento de descontos INSS"
-description: "Descontos de mensalidades associativas em benefícios do INSS sem autorização\nválida: regime histórico do art. 115 V da Lei 8.213 (revogado) e IN 128/2022;\nOperação Sem Desconto, acordo de ressarcimento homologado na ADPF 1236 (STF,\n03/07/2025) e vedação definitiva pela Lei 15.327/2026 (art. 115 §8); ônus da\nprova da filiação, Tema 1.061 STJ, legitimidade do INSS, competência,\ndevolução em dobro e dano moral (Tema 1.435 STJ afetado)."
+description: "Usar para pesquisar ou analisar: Descontos Associativos Não Autorizados em Benefício do INSS (Lei 8.213 art. 115 + Lei 15.327/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descontos Associativos Não Autorizados em Benefício do INSS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Onda nacional de litígios sobre mensalidades de associações e entidades de aposentados descontadas diretamente na folha de benefícios do INSS sem autorização válida do beneficiário. Cluster distinto da fraude em empréstimo consignado (espinha bancária, Lei 10.820/2003, na skill própria).
 

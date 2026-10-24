@@ -5,8 +5,8 @@ title: "Auxílio-Reclusão, Flexibilização do Critério de Renda (Tema 1.162 S
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-reclusao-flexibilizacao-mp-871-tema-1162.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-reclusao-flexibilizacao-mp-871-tema-1162/SKILL.md"
 triggers:
   - "Tema 1.162 STJ"
   - "auxílio-reclusão flexibilização"
@@ -15,10 +15,15 @@ triggers:
   - "média 12 meses salário contribuição"
   - "Lei 13.846 auxílio-reclusão"
   - "critério econômico baixa renda"
-description: "Tema 1.162 STJ (1ª Seção): no regime ANTERIOR à MP\n871/2019, é possível flexibilizar o critério econômico do auxílio-\nreclusão se o salário-de-contribuição do preso supera o limite\nem PERCENTUAL ÍNFIMO. A partir da MP 871/2019, NÃO se admite\nflexibilização, salvo se o Executivo não corrigir anualmente o\nvalor. Marco: efeitos a partir de 27/11/2024."
+description: "Usar para pesquisar ou analisar: Auxílio-Reclusão, Flexibilização do Critério de Renda (Tema 1.162 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Reclusão, Flexibilização do Critério de Renda (Tema 1.162 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.162 STJ, 1ª Seção)
 

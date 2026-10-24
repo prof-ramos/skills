@@ -5,8 +5,8 @@ title: "Franchising — Lei 13.966/2019 (COF + Contrato de Franquia)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/franchising-lei-13966-cof.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/franchising-lei-13966-cof/SKILL.md"
 triggers:
   - "Lei 13.966"
   - "franquia"
@@ -17,10 +17,15 @@ triggers:
   - "royalties franquia"
   - "taxa de filiação"
   - "arbitragem franquia"
-description: "Franquia — **Lei 13.966/2019** (revogou Lei 8.955/1994): regula o\nsistema de franchising. **COF (Circular de Oferta de Franquia)**:\ndocumento obrigatório do franqueador entregue ao candidato **mínimo\n10 dias antes** da assinatura ou pagamento de qualquer taxa.\nConteúdo da COF (art. 2): histórico + dados financeiros + lista\nde franqueados + investimentos + remuneração + território + arbitragem.\n**Descumprimento**: franqueado pode arguir **nulidade** + restituição\nde valores pagos corrigidos. **Não há vínculo empregatício**.\nAplicação subsidiária do CC. **Reforma tributária** + IBS/CBS\nimpactam franquias (substituem PIS/Cofins/ISS)."
+description: "Usar para pesquisar ou analisar: Franchising — Lei 13.966/2019 (COF + Contrato de Franquia). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Franchising — Lei 13.966
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

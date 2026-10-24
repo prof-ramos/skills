@@ -5,8 +5,8 @@ title: "Crédito Industrial, Comercial e à Exportação (cédulas de crédito)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/credito-industrial-comercial-dl-413.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/credito-industrial-comercial-dl-413/SKILL.md"
 triggers:
   - "crédito industrial"
   - "crédito comercial"
@@ -18,10 +18,15 @@ triggers:
   - "FINAME BNDES"
   - "capitalização títulos crédito"
   - "penhor industrial"
-description: "Crédito Industrial (DL 413/69): Cédula de Crédito Industrial (CCInd,\ncom garantia real) + Nota de Crédito Industrial (NCInd, sem garantia)\n+ executividade própria (DL 413 art. 41); regime aplicado por extensão\nao crédito comercial (Lei 6.840/80) e à exportação (Lei 6.313/75, CCE);\ncapitalização permitida (Súm. 93 STJ); financiamento BNDES via FINAME\n+ FNE/FCO/FNO regionais."
+description: "Usar para pesquisar ou analisar: Crédito Industrial, Comercial e à Exportação (cédulas de crédito). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crédito Industrial + Comercial + Exportação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

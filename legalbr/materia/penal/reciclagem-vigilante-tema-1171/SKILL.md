@@ -5,8 +5,8 @@ title: "Reciclagem de Vigilante com Processo Penal em Curso (Tema 1.171 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/reciclagem-vigilante-tema-1171.md"
+version: 2
+sourcePath: "legalbr/materia/penal/reciclagem-vigilante-tema-1171/SKILL.md"
 triggers:
   - "Tema 1.171 STF"
   - "reciclagem vigilante"
@@ -17,10 +17,15 @@ triggers:
   - "Portaria DPF 3.233/12"
   - "curso de reciclagem"
   - "certificado de reciclagem"
-description: "Tema 1.171 STF (RE 1.307.053, 24/09/2021): VIOLA o princípio da\npresunção de inocência o indeferimento de matrícula em curso de\nreciclagem de vigilante (e a recusa de registro do certificado)\npela mera existência de inquérito ou ação penal SEM trânsito em\njulgado. Investigado/réu PODE se matricular e concluir o curso.\nCF 5 LVII (presunção de inocência) + Lei 7.102/83 (revogada pela\nLei 14.967/2024, que manteve a orientação no art. 28 V)."
+description: "Usar para pesquisar ou analisar: Reciclagem de Vigilante com Processo Penal em Curso (Tema 1.171 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reciclagem de Vigilante + Processo Penal em Curso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

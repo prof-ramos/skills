@@ -5,8 +5,8 @@ title: "Planos de Saúde + Rol ANS (Lei 9.656/1998 + Lei 14.454/2022 + ADI 7.265
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/planos-saude-rol-ans-lei-14454.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/planos-saude-rol-ans-lei-14454/SKILL.md"
 triggers:
   - "planos de saúde"
   - "Lei 9.656/1998"
@@ -22,10 +22,15 @@ triggers:
   - "manutenção do aposentado art. 31"
   - "demitido sem justa causa art. 30"
   - "terapia ABA plano de saúde"
-description: "Planos saúde Lei 9.656/1998 + Lei 9.961/2000 (ANS); rol da ANS era\nTAXATIVO (STJ EREsp 1.886.929/SP, 2ª Seção, jun/2022) → Lei 14.454/2022\nEXEMPLIFICATIVO + STF ADI 7.265 (set/2025: taxatividade mitigada,\n5 requisitos CUMULATIVOS); Súm. 302/597/608; carências (24h urgência\n+ 300d parto); TEA com ABA ilimitada (STJ 03/2026); arts. 30-31 (Temas\n989 e 1.034 STJ); Tema 952 (faixa etária); Tema 1.069 (plástica pós-bariátrica);\nTema 1.082 (continuidade pós rescisão)."
+description: "Usar para pesquisar ou analisar: Planos de Saúde + Rol ANS (Lei 9.656/1998 + Lei 14.454/2022 + ADI 7.265). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Planos de Saúde + Rol da ANS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Reforma Trabalhista (Lei 13.467/2017 + ADC 58 STF + Tema 1.046)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/reforma-trabalhista-lei-13467.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/reforma-trabalhista-lei-13467/SKILL.md"
 triggers:
   - "reforma trabalhista"
   - "Lei 13.467/2017"
@@ -20,10 +20,15 @@ triggers:
   - "teletrabalho CLT 75-A"
   - "Lei 14.442/2022"
   - "Súm. 277 TST revogada"
-description: "Lei 13.467/2017 (vigor 11/11/2017): negociado sobre legislado\nCLT 611-A (Tema 1.046 STF); honorários CLT 791-A (ADI 5.766:\nvedada a cobrança contra beneficiário da gratuidade); trabalho\nintermitente CLT 443 §3 + 452-A (ADIs 5.826/5.829/6.154:\nconstitucional); teletrabalho CLT 75-A (Lei 14.442/2022); ADC 58\n(TR inconstitucional → IPCA-E pré + SELIC pós; depois EC 113/2021,\nEC 136/2025 e Lei 14.905/2024)."
+description: "Usar para pesquisar ou analisar: Reforma Trabalhista (Lei 13.467/2017 + ADC 58 STF + Tema 1.046). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reforma Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.467/2017
 

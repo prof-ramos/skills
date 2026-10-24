@@ -5,8 +5,8 @@ title: "Responsabilidade Civil, Juros e Prescrição (Súmulas STJ)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-juros-prescricao-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-juros-prescricao-stj-sumulas/SKILL.md"
 triggers:
   - "ato ilícito juros compostos"
   - "constituição de capital"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 529 STJ"
   - "Súm. 531 STJ"
   - "Súm. 638 STJ"
-description: "Súmulas STJ no campo civil: ato ilícito + juros compostos (186); juros\nmoratórios desde o evento danoso na responsabilidade extracontratual (54) e\ncorreção desde o efetivo prejuízo (43); direitos autorais por retransmissão\n(63); usucapião de linha telefônica (193); constituição de capital em\nindenização (313); seguradora não pode ser demandada diretamente pelo\nterceiro no seguro de responsabilidade civil facultativo (529); penhor e\nabusividade (638); taxa dos juros de mora civis = SELIC antes da Lei\n14.905/2024 (Tema 1.368 STJ)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil, Juros e Prescrição (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil, Juros e Prescrição (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

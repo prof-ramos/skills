@@ -5,8 +5,8 @@ title: "Memorando de Entendimentos / Term Sheet Imobiliário (MOU)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/memorando-entendimentos-imobiliario.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/memorando-entendimentos-imobiliario/SKILL.md"
 triggers:
   - "memorando de entendimentos"
   - "MOU imobiliário"
@@ -21,10 +21,15 @@ triggers:
   - "CC 421-A"
   - "CC 462"
   - "conversão PCV"
-description: "MOU/term sheet imobiliário: define exclusividade negocial,\ndue diligence, vinculatividade seletiva (binding × non-binding),\nbreak-up fee, prazo, conversão em PCV; CC 421-A (paridade B2B),\nCC 422 (boa-fé), responsabilidade pré-contratual."
+description: "Usar para pesquisar ou analisar: Memorando de Entendimentos / Term Sheet Imobiliário (MOU). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Memorando de Entendimentos Imobiliário (MOU / Term Sheet / LOI)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

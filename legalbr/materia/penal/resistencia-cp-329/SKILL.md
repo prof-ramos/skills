@@ -5,8 +5,8 @@ title: "Resistência (CP 329) + Desacato + Desobediência"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/resistencia-cp-329.md"
+version: 2
+sourcePath: "legalbr/materia/penal/resistencia-cp-329/SKILL.md"
 triggers:
   - "CP 329"
   - "resistência"
@@ -16,10 +16,15 @@ triggers:
   - "desacato CP 331"
   - "resistência qualificada"
   - "ato administrativo legal"
-description: "Resistência CP 329, det. 2m-2a (caput) e recl. 1-3 (§1\nqualificada, não execução do ato com violência); pressuposto:\nato legal de funcionário; opor-se mediante violência ou grave\nameaça; §2 cumulação penas (concurso material com violência);\nremete a desobediência (330) e desacato (331); CP 322 violência\narbitrária revogado tacitamente pela Lei 13.869."
+description: "Usar para pesquisar ou analisar: Resistência (CP 329) + Desacato + Desobediência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Resistência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 329 caput)
 

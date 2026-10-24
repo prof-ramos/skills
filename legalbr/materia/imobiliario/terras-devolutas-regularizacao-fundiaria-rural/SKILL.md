@@ -5,8 +5,8 @@ title: "Terras Devolutas, Regularização Fundiária Rural e Aquisição por Est
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/terras-devolutas-regularizacao-fundiaria-rural.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/terras-devolutas-regularizacao-fundiaria-rural/SKILL.md"
 triggers:
   - "terras devolutas"
   - "ação discriminatória"
@@ -22,10 +22,15 @@ triggers:
   - "Parecer AGU LA-01"
   - "legitimação de posse licença de ocupação"
   - "ADPF 342"
-description: "Eixo fundiário rural público: titularidade das terras devolutas (CF\n20 II e 26 IV, CF 188), processo discriminatório da Lei 6.383/76 e\nônus da prova, titulação na Amazônia Legal (Lei 11.952/2009 alterada\npela Lei 13.465/2017; ADI 4.269) e restrições a estrangeiros (Lei\n5.709/71, recepção confirmada na ADPF 342; faixa de fronteira Lei\n6.634/79; Súm. 477 STF)."
+description: "Usar para pesquisar ou analisar: Terras Devolutas, Regularização Fundiária Rural e Aquisição por Estrangeiros. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terras Devolutas, Regularização Fundiária Rural e Estrangeiros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Titularidade (CF 20 II, 26 IV e 188)
 

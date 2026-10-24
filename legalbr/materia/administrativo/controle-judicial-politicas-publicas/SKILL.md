@@ -5,8 +5,8 @@ title: "Controle Judicial de Políticas Públicas"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/controle-judicial-politicas-publicas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/controle-judicial-politicas-publicas/SKILL.md"
 triggers:
   - "controle judicial políticas públicas"
   - "Tema 698 STF"
@@ -17,10 +17,15 @@ triggers:
   - "judicialização da saúde"
   - "judicialização da educação"
   - "ADPF 347 estado coisas inconstitucional"
-description: "Controle judicial de políticas públicas: limites da intervenção\njurisdicional sobre a Administração; Tema 698 STF (Judiciário pode\nintervir em omissão estatal grave); reserva do possível e mínimo\nexistencial (ADPF 45); separação de poderes (CF 2); deveres\nprestacionais positivos do Estado; ADPF 347 (estado de coisas\ninconstitucional); processo estrutural (ADPF 854); LINDB arts. 20-30;\nTema 793 STF (saúde solidária); Tema 1.234 (medicamentos)."
+description: "Usar para pesquisar ou analisar: Controle Judicial de Políticas Públicas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Controle Judicial de Políticas Públicas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

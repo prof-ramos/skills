@@ -5,8 +5,8 @@ title: "Processo Legislativo + Espécies + EC + Reforma Tributária (EC 132/2023
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/processo-legislativo-reforma-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/processo-legislativo-reforma-tributaria/SKILL.md"
 triggers:
   - "processo legislativo"
   - "medida provisória"
@@ -17,10 +17,15 @@ triggers:
   - "imposto seletivo"
   - "transição da reforma tributária"
   - "Comitê Gestor do IBS"
-description: "Processo legislativo e Reforma Tributária sob a CF 59-69 e a EC 132/2023:\nfases (iniciativa, discussão, votação, sanção/veto, promulgação) e\nespécies normativas (EC, LC, LO, LD, MP); limites materiais (cláusulas\npétreas) e vícios de iniciativa; novos tributos IBS, CBS e IS sobre\nconsumo regulamentados pela LC 214/2025 e pela LC 227/2026 (Comitê\nGestor do IBS)."
+description: "Usar para pesquisar ou analisar: Processo Legislativo + Espécies + EC + Reforma Tributária (EC 132/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Legislativo + Reforma Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

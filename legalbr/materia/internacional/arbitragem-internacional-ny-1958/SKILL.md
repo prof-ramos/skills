@@ -5,8 +5,8 @@ title: "Arbitragem Internacional + Convenção de Nova York 1958 (Dec. 4.311/02)
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/arbitragem-internacional-ny-1958.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/arbitragem-internacional-ny-1958/SKILL.md"
 triggers:
   - "arbitragem internacional"
   - "Convenção de Nova York 1958"
@@ -18,10 +18,15 @@ triggers:
   - "homologação arbitral STJ"
   - "seat of arbitration"
   - "cláusula compromissória patológica"
-description: "Arbitragem internacional + reconhecimento de sentenças arbitrais\nestrangeiras: Convenção de Nova York 1958 (Dec. 4.311/2002), **169+\nEstados-parte**, regime uniforme. Brasil: Lei 9.307/96 arts.\n34-39 + CPC 960-965 + RISTJ 216-A. **Sentença arbitral estrangeira**\n= proferida fora do território nacional. Homologação STJ (CF 105 I i)\ncom causas restritas de denegação (art. V Conv. NY = Lei 9.307 art.\n38). **Não há juízo de delibação amplo**, apenas verificação dos\nmotivos do art. V. Sede da arbitragem (seat) define nacionalidade.\nAtualizações: Lei 13.129/2015 (arbitragem estatal + tutelas\nurgentes art. 22-A); jurisprudência STJ 2024-2025 favorável."
+description: "Usar para pesquisar ou analisar: Arbitragem Internacional + Convenção de Nova York 1958 (Dec. 4.311/02). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arbitragem Internacional + Convenção de Nova York
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

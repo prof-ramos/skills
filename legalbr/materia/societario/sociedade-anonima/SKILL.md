@@ -5,8 +5,8 @@ title: "Sociedade Anônima (Lei 6.404/1976)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-anonima.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-anonima/SKILL.md"
 triggers:
   - "sociedade anônima"
   - "Lei 6.404/76"
@@ -21,10 +21,15 @@ triggers:
   - "coligadas e controladas"
   - "grupo de sociedades"
   - "consórcio LSA 278"
-description: "Sociedade anônima sob a Lei 6.404/76: estrutura de capital com\nações ON, PN e voto plural; órgãos sociais (AGO/AGE, conselho de\nadministração, diretoria e conselho fiscal); deveres fiduciários\ndos administradores e business judgment rule; operações\nsocietárias, direito de recesso e regime de OPA; grupos societários\n(coligadas/controladas, grupo de direito e consórcio, LSA 243-279)."
+description: "Usar para pesquisar ou analisar: Sociedade Anônima (Lei 6.404/1976). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade Anônima (Lei 6.404/1976)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

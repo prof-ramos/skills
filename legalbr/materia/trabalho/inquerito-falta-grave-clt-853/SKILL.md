@@ -5,8 +5,8 @@ title: "Inquérito para Apuração de Falta Grave (CLT 853 a 855)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/inquerito-falta-grave-clt-853.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/inquerito-falta-grave-clt-853/SKILL.md"
 triggers:
   - "inquérito falta grave"
   - "CLT 853"
@@ -15,10 +15,15 @@ triggers:
   - "decadência 30 dias"
   - "Súm. 62 TST"
   - "Súm. 379 TST"
-description: "Inquérito judicial para apuração de falta grave (CLT 853-855): único\nmeio para dispensar empregado com estabilidade (decenal, sindical,\nCIPA); prazo decadencial de 30 dias da suspensão do empregado; rito\nespecífico (autuação, prova, sentença); reintegração ou rescisão\nconforme procedência (CLT 495); Súm. 62 e 379 TST."
+description: "Usar para pesquisar ou analisar: Inquérito para Apuração de Falta Grave (CLT 853 a 855). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inquérito para Apuração de Falta Grave
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

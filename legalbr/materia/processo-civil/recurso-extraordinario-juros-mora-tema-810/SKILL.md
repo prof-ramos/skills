@@ -5,8 +5,8 @@ title: "Atualização e Juros nas Condenações da Fazenda Pré-EC 113"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/recurso-extraordinario-juros-mora-tema-810.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-extraordinario-juros-mora-tema-810/SKILL.md"
 triggers:
   - "Tema 810 STF"
   - "RE 870.947"
@@ -15,10 +15,15 @@ triggers:
   - "IPCA-E TR Fazenda"
   - "juros poupança Fazenda"
   - "condenação Fazenda atualização"
-description: "Tema 810 STF (RE 870.947, 20/09/2017): para condenações da\nFazenda Pública até 08/12/2021 (pré-EC 113), o art. 1-F da\nLei 9.494/97 (Lei 11.960/09) é INCONSTITUCIONAL quanto à\nTR para CORREÇÃO MONETÁRIA. Aplica-se IPCA-E + juros da\nPOUPANÇA (TR + 0,5% mensal). Pós EC 113: SELIC universal\n(Tema 1.419)."
+description: "Usar para pesquisar ou analisar: Atualização e Juros nas Condenações da Fazenda Pré-EC 113. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Atualização das Condenações da Fazenda (pré-EC 113)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

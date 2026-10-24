@@ -5,8 +5,8 @@ title: "Excludentes de Ilicitude e Culpabilidade (CP 20-28)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/excludentes-ilicitude-culpabilidade.md"
+version: 2
+sourcePath: "legalbr/materia/penal/excludentes-ilicitude-culpabilidade/SKILL.md"
 triggers:
   - "excludentes de ilicitude"
   - "excludentes de culpabilidade"
@@ -16,10 +16,15 @@ triggers:
   - "CP 25"
   - "CP 26"
   - "ADPF 779"
-description: "Excludentes de ilicitude e de culpabilidade sob CP 20-28 (teoria\ntripartida): estado de necessidade (24); legítima defesa (25);\nestrito cumprimento de dever e exercício regular (23 III); erros de\ntipo e de proibição; inimputabilidade, coação moral e obediência\nhierárquica; excesso doloso/culposo punível."
+description: "Usar para pesquisar ou analisar: Excludentes de Ilicitude e Culpabilidade (CP 20-28). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Excludentes de Ilicitude e Culpabilidade (CP 20-28)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quadro sistemático
 

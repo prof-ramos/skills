@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/federalismo-fiscal-reparticao-receitas.md"
+sourcePath: "legalbr/materia/tributario/federalismo-fiscal-reparticao-receitas/SKILL.md"
 triggers:
   - "federalismo fiscal"
   - "FPE"
@@ -20,10 +20,15 @@ triggers:
   - "IRRF municípios"
   - "Tema 1.130 STF"
   - "Súmula 447 STJ"
-description: "Federalismo Fiscal e Repartição de Receitas sob CF 145-162 + LC\n101/2000 (LRF) + EC 132/2023 + LC 214/2025: competências tributárias\nprivativas; repartição direta (157-158) e indireta via fundos (FPE,\nFPM, FCO/FNO/FNE); imunidades tributárias (150 VI); IBS/CBS/IS na\nReforma Tributária; responsabilidade fiscal; titularidade do IRRF\nde Estados, DF e Municípios (Temas 364, 572 e 1.130 STF + Súm.\n447 STJ)."
+description: "Usar para pesquisar ou analisar: Federalismo Fiscal + Repartição de Receitas + FPE/FPM (CF 145-162). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Federalismo Fiscal + Repartição de Receitas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

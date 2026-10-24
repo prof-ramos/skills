@@ -5,8 +5,8 @@ title: "Aborto (CP 124-128 + ADPF 54 + ADPF 442)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/aborto-cp-124-128.md"
+version: 2
+sourcePath: "legalbr/materia/penal/aborto-cp-124-128/SKILL.md"
 triggers:
   - "aborto"
   - "autoaborto"
@@ -21,10 +21,15 @@ triggers:
   - "anencefalia"
   - "aborto sentimental"
   - "norma técnica aborto legal"
-description: "Aborto sob CP 124-128: autoaborto (det. 1-3a); sem consentimento\n(recl. 3-10a); consentido por 3º (recl. 1-4a); CP 127 qualifica\nresultado (lesão +1/3; morte dobro), não incide no CP 124;\nexcludentes CP 128 (risco vida + estupro) + ADPF 54 (anencefalia\natípica); ADPF 442 PENDENTE 2026 (destaque Gilmar); Norma Técnica\nMS dispensa BO/alvará em estupro; AP pública incondicionada."
+description: "Usar para pesquisar ou analisar: Aborto (CP 124-128 + ADPF 54 + ADPF 442). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aborto (CP arts. 124-128)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Sucessões + Inventário + Partilha (CC 1.784-2.027 + Lei 11.441/2007)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/sucessoes-inventario-partilha.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/sucessoes-inventario-partilha/SKILL.md"
 triggers:
   - "sucessão hereditária"
   - "inventário"
@@ -19,10 +19,15 @@ triggers:
   - "Res. CNJ 571/2024"
   - "herança digital"
   - "inventariante digital"
-description: "Sucessões e inventário sob o CC e o CPC: saisine, vocação\nhereditária e concorrência cônjuge/companheiro; legítima,\ntestamento, deserdação e indignidade; inventário judicial e\nextrajudicial (Lei 11.441/07) com partilha, sobrepartilha e\ncessão de direitos hereditários; tratamento do ITCMD; herança\ndigital (REsp 2.124.424: inventariante digital; criptoativos; milhas)."
+description: "Usar para pesquisar ou analisar: Sucessões + Inventário + Partilha (CC 1.784-2.027 + Lei 11.441/2007). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sucessões + Inventário + Partilha
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

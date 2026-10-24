@@ -5,8 +5,8 @@ title: "Buffet, Formatura e Casamento: Cancelamento e Inadimplemento"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/buffet-formatura-casamento-servicos.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/buffet-formatura-casamento-servicos/SKILL.md"
 triggers:
   - "buffet de casamento"
   - "festa de formatura"
@@ -20,10 +20,15 @@ triggers:
   - "retenção do valor pago do buffet"
   - "frustração do casamento"
   - "festa infantil contratada"
-description: "Contratação de serviços de festa (buffet, formatura, casamento,\ncerimonial): desistência do consumidor com cláusula penal proporcional e\nretenção limitada (CC 413 + CDC 51), arras e sinal (CC 417-420, redação da\nLei 14.905/2024), inadimplemento e insolvência do fornecedor (CDC 20 e 35,\ncadeia solidária, REsp 1.985.198) e dano moral pela frustração do evento\núnico (AREsp 1.706.117/GO)."
+description: "Usar para pesquisar ou analisar: Buffet, Formatura e Casamento: Cancelamento e Inadimplemento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Buffet, Formatura e Casamento: Cancelamento e Inadimplemento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Enquadramento
 

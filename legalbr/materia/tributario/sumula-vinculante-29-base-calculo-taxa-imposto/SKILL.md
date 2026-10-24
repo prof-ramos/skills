@@ -5,8 +5,8 @@ title: "Súmula Vinculante 29, Base de Cálculo de Taxa com Elemento de Imposto"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/sumula-vinculante-29-base-calculo-taxa-imposto.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-29-base-calculo-taxa-imposto/SKILL.md"
 triggers:
   - "SV 29"
   - "Súmula Vinculante 29"
@@ -19,10 +19,15 @@ triggers:
   - "taxa lixo IPTU área"
   - "taxa polícia patrimônio"
   - "taxa fiscalização valor"
-description: "SV 29 STF (aprovada em 03/02/2010): \"É constitucional a adoção, no cálculo\ndo valor de taxa, de um ou mais elementos da base de cálculo\nprópria de determinado imposto, desde que não haja integral\nidentidade entre uma base e outra.\" CF 145 §2 admite elementos\ncomuns (área do imóvel, faturamento); vedação só atinge cópia\nintegral. RE 232.393 + ADI 2.551 (equivalência razoável taxa-\ncusto); Tema 16 STF (taxa municipal de incêndio inconstitucional)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 29, Base de Cálculo de Taxa com Elemento de Imposto. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 29, Base de Cálculo de Taxa com Elementos de Imposto
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

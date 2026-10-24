@@ -5,8 +5,8 @@ title: "ZEE + PNMA (Lei 6.938/81) + SISNAMA + CONAMA"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/zee-pnma-sisnama.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/zee-pnma-sisnama/SKILL.md"
 triggers:
   - "ZEE"
   - "zoneamento ecológico-econômico"
@@ -16,10 +16,15 @@ triggers:
   - "CONAMA"
   - "ADPF 623"
   - "ICMS Ecológico"
-description: "PNMA, SISNAMA, CONAMA e ZEE sob a CF/88 e Lei 6.938/81: objetivos\ne instrumentos da Política Nacional do Meio Ambiente; responsabilidade\nobjetiva por risco integral; estrutura federativa do SISNAMA e papel\nnormativo do CONAMA; Zoneamento Ecológico-Econômico (Dec. 4.297/2002)\ne regimes especiais (Amazônia Legal, PNGC costeiro); ICMS Ecológico\ne cadastros (CTF/TCFA) com diálogo via LC 140/2011."
+description: "Usar para pesquisar ou analisar: ZEE + PNMA (Lei 6.938/81) + SISNAMA + CONAMA. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ZEE + PNMA + SISNAMA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

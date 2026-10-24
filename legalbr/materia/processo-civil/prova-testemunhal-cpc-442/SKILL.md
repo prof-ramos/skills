@@ -5,8 +5,8 @@ title: "Prova Testemunhal (CPC 442-463)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/prova-testemunhal-cpc-442.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prova-testemunhal-cpc-442/SKILL.md"
 triggers:
   - "prova testemunhal"
   - "CPC 442"
@@ -20,10 +20,15 @@ triggers:
   - "intimacao testemunha"
   - "inquirição de testemunhas"
   - "contradita testemunha"
-description: "Prova testemunhal (CPC 442-463): admissibilidade (CPC 442);\ninquirição direta e cross-examination (CPC 459); rol de testemunhas\n(CPC 357 §4, prazo comum de até 15 dias fixado pelo juiz no\nsaneamento); incapacidade/impedimento/suspeição (CPC 447);\nintimação pelo advogado (CPC 455, regra após 2015);\ncontradita (CPC 457)."
+description: "Usar para pesquisar ou analisar: Prova Testemunhal (CPC 442-463). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prova Testemunhal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 442, ADMISSIBILIDADE
 

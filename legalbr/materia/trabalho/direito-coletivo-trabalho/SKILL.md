@@ -5,8 +5,8 @@ title: "Direito Coletivo do Trabalho"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/direito-coletivo-trabalho.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/direito-coletivo-trabalho/SKILL.md"
 triggers:
   - "direito coletivo do trabalho"
   - "convenção coletiva"
@@ -19,10 +19,15 @@ triggers:
   - "registro sindical"
   - "enquadramento sindical"
   - "unicidade sindical"
-description: "Direito coletivo do trabalho sob CF 7 XXVI, 8 e 9 + CLT 611-625 + Lei 7.783:\nprevalência do negociado sobre o legislado (Tema 1.046 STF) e rol indisponível\ndo 611-B; ACT sobre CCT (art. 620); contribuição sindical facultativa e\nassistencial com direito de oposição (Tema 935); dissídio por comum acordo\ne direito de greve; organização sindical (registro, unicidade, enquadramento\ndo art. 577, Tema 823 STF e disputas intersindicais, CF 114 III)."
+description: "Usar para pesquisar ou analisar: Direito Coletivo do Trabalho. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Coletivo do Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

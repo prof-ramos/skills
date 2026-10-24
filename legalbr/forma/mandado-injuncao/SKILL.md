@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "mandado-injuncao"
 version: 2
-sourcePath: "lib/skills/official/forma/mandado-injuncao.md"
+sourcePath: "legalbr/forma/mandado-injuncao/SKILL.md"
 triggers:
   - "mandado de injunção"
   - "mora legislativa"
@@ -16,10 +16,15 @@ triggers:
   - "injunção coletiva"
   - "efeitos da decisão entre as partes e erga omnes"
   - "falta de norma regulamentadora"
-description: "Mandado de injunção sob a CF 5º LXXI e Lei 13.300/16: omissão\nregulamentadora que inviabiliza direito constitucional; legitimidade\nativa individual e coletiva (art. 12); decisão concretista\nintermediária (art. 8º); eficácia inter partes com possibilidade de\nextensão; competência pela autoridade impetrada."
+description: "Usar para redigir ou revisar: Mandado de Injunção. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Injunção
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento (CF 5º LXXI)
 

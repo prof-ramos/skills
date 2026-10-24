@@ -5,8 +5,8 @@ title: "Responsabilidade do Estado e Imunidade Parlamentar"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-imunidade-parlamentar-tema-950.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-imunidade-parlamentar-tema-950/SKILL.md"
 triggers:
   - "Tema 950 STF"
   - "imunidade parlamentar"
@@ -17,10 +17,15 @@ triggers:
   - "dano moral discurso parlamentar"
   - "inviolabilidade civil parlamentar"
   - "reparação por palavra parlamentar"
-description: "Tema 950 STF (RE 632.115, 27/09/2025): NÃO há responsabilidade\ncivil OBJETIVA do Estado por atos protegidos pela IMUNIDADE\nMATERIAL parlamentar (CF 53). A imunidade material exclui\nresponsabilidade civil pessoal do parlamentar; consequente\nausência de imputação ao Estado. Limites: imunidade só cobre\natos relacionados ao exercício do mandato (conexão)."
+description: "Usar para pesquisar ou analisar: Responsabilidade do Estado e Imunidade Parlamentar. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil + Imunidade Parlamentar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

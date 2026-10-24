@@ -5,8 +5,8 @@ title: "Organização do Estado + Poderes + Federalismo + Sistema de Crises"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/organizacao-estado-poderes.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/organizacao-estado-poderes/SKILL.md"
 triggers:
   - "federalismo"
   - "separação dos poderes"
@@ -17,10 +17,15 @@ triggers:
   - "GLO"
   - "CF 60 §4"
   - "cláusulas pétreas"
-description: "Organização do Estado e dos Poderes sob a CF/88: federalismo brasileiro e\nrepartição de competências (arts. 21-32: exclusiva, privativa, comum e\nconcorrente); Legislativo (arts. 44-75) com processo legislativo e cláusulas\npétreas; Executivo (arts. 76-91); Judiciário (arts. 92-126); intervenção\nfederal e sistema de crises (defesa, sítio e GLO)."
+description: "Usar para pesquisar ou analisar: Organização do Estado + Poderes + Federalismo + Sistema de Crises. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Organização do Estado + Poderes + Federalismo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

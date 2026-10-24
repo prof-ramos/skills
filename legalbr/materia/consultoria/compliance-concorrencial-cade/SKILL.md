@@ -5,8 +5,8 @@ title: "Compliance Concorrencial (CADE)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/compliance-concorrencial-cade.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/compliance-concorrencial-cade/SKILL.md"
 triggers:
   - "compliance antitruste"
   - "compliance concorrencial"
@@ -16,10 +16,15 @@ triggers:
   - "troca de informações sensíveis"
   - "dawn raid"
   - "antitrust"
-description: "Compliance concorrencial sob Lei 12.529/11 + Guia CADE de\nCompliance Antitruste (2016): conduta unilateral (abuso de\nposição dominante), conduta concertada (cartéis hard core),\ntroca de informações sensíveis, gun-jumping em M&A,\ndawn raids (mandado de busca + privilege), acordos\n(leniência + TCC) e programas internos (treinamento +\nmonitoramento + canal + DD)."
+description: "Usar para pesquisar ou analisar: Compliance Concorrencial (CADE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compliance Concorrencial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

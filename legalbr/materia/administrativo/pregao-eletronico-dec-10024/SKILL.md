@@ -5,8 +5,8 @@ title: "Pregão Eletrônico (Dec. 10.024/2019 + Lei 14.133/2021)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/pregao-eletronico-dec-10024.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pregao-eletronico-dec-10024/SKILL.md"
 triggers:
   - "pregão eletrônico"
   - "Dec. 10.024/2019"
@@ -19,10 +19,15 @@ triggers:
   - "sistema BB Licitações"
   - "SRP pregão"
   - "intenção de recurso"
-description: "Pregão eletrônico (Dec. 10.024/2019): modalidade preferencial\npara bens/serviços comuns; antes regulado pela Lei 10.520/02\n(revogada); hoje sob Lei 14.133/2021 + Dec. 10.024 federal;\nfases (publicação edital + propostas + lances + aceitação +\nhabilitação + adjudicação + homologação); intenção de recurso\nimediata e motivada (CF 5 LV)."
+description: "Usar para pesquisar ou analisar: Pregão Eletrônico (Dec. 10.024/2019 + Lei 14.133/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pregão Eletrônico (Dec. 10.024/2019 + Lei 14.133)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

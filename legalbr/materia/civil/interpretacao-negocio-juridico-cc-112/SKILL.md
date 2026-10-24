@@ -5,8 +5,8 @@ title: "Interpretação dos Negócios Jurídicos (CC 112-114 + Lei 13.874/2019)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/interpretacao-negocio-juridico-cc-112.md"
+version: 2
+sourcePath: "legalbr/materia/civil/interpretacao-negocio-juridico-cc-112/SKILL.md"
 triggers:
   - "interpretação do negócio jurídico"
   - "CC 112"
@@ -19,10 +19,15 @@ triggers:
   - "interpretação de cláusula ambígua"
   - "hermenêutica contratual"
   - "interpretação em favor do aderente CC 423"
-description: "Interpretação dos negócios jurídicos (CC 112-114) com alterações\nda Lei 13.874/2019: CC 112 (intenção sobre o sentido literal);\nCC 113 (boa-fé + usos + comportamento das partes; §1 e §2 da Lei\n13.874, interpretação favorável ao significante razoável); CC 114\n(negócios benéficos + renúncia → interpretação estrita); função\nsocial CC 421 + 421-A."
+description: "Usar para pesquisar ou analisar: Interpretação dos Negócios Jurídicos (CC 112-114 + Lei 13.874/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Interpretação dos Negócios Jurídicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 112, INTENÇÃO
 

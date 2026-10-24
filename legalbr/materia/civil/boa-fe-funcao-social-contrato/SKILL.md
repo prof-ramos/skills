@@ -5,8 +5,8 @@ title: "Boa-fé Objetiva + Função Social do Contrato + Equilíbrio Contratual 
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/boa-fe-funcao-social-contrato.md"
+version: 2
+sourcePath: "legalbr/materia/civil/boa-fe-funcao-social-contrato/SKILL.md"
 triggers:
   - "boa-fé objetiva"
   - "função social do contrato"
@@ -19,10 +19,15 @@ triggers:
   - "adimplemento substancial"
   - "Lei 13.874/2019"
   - "onerosidade excessiva"
-description: "Boa-fé objetiva + função social + equilíbrio (CC 113, 187, 421,\n421-A, 422, 478-480 + Lei 13.874/19): tríplice função, deveres\nanexos, figuras parcelares, abuso de direito e revisão por\nonerosidade excessiva."
+description: "Usar para pesquisar ou analisar: Boa-fé Objetiva + Função Social do Contrato + Equilíbrio Contratual (CC 421-422). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Boa-fé Objetiva + Função Social + Equilíbrio Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Sociedade em Conta de Participação (CC 991-996)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/scp-sociedade-conta-participacao.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/scp-sociedade-conta-participacao/SKILL.md"
 triggers:
   - "SCP"
   - "sociedade em conta de participação"
@@ -20,10 +20,15 @@ triggers:
   - "SCP imobiliária"
   - "IN RFB 1.470"
   - "tributação SCP"
-description: "SCP (CC 991-996): sociedade despersonificada; sócio ostensivo (atua em nome próprio) + sócio participante/oculto (investe sem aparecer); ausência de PJ; CNPJ por IN RFB 1.470/2014; uso em incorporação imobiliária e investimentos."
+description: "Usar para pesquisar ou analisar: Sociedade em Conta de Participação (CC 991-996). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade em Conta de Participação (CC 991-996)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

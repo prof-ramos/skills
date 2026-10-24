@@ -5,8 +5,8 @@ title: "Continuidade de Tratamento após Rescisão de Plano Coletivo (Tema 1.082
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/continuidade-tratamento-rescisao-plano-tema-1082.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/continuidade-tratamento-rescisao-plano-tema-1082/SKILL.md"
 triggers:
   - "continuidade de tratamento"
   - "rescisão plano coletivo"
@@ -20,10 +20,15 @@ triggers:
   - "migração obrigatória"
   - "portabilidade plano saúde"
   - "RN ANS 438 portabilidade"
-description: "Tema 1.082 STJ (22/06/2022): mesmo que a operadora rescinda\nregularmente o plano coletivo, deve GARANTIR a continuidade\ndo tratamento ao beneficiário INTERNADO ou em tratamento até\nalta efetiva, mediante pagamento das mensalidades. Aplica-se\nfunção social do contrato + boa-fé (CC 421, 422) + CDC.\nNão confundir com Tema 1.047 (motivação da rescisão)."
+description: "Usar para pesquisar ou analisar: Continuidade de Tratamento após Rescisão de Plano Coletivo (Tema 1.082 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Continuidade de Tratamento na Rescisão (Tema 1.082 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.082 STJ)
 

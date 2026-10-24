@@ -5,8 +5,8 @@ title: "PIS/COFINS-Importação (Lei 10.865/2004 + Tema 1 STF + EC 33/2001)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/cofins-importacao-tema-1.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cofins-importacao-tema-1/SKILL.md"
 triggers:
   - "PIS-Importação"
   - "COFINS-Importação"
@@ -16,10 +16,15 @@ triggers:
   - "exclusão ICMS base"
   - "Lei 12.865/2013"
   - "valor aduaneiro base de cálculo"
-description: "PIS/COFINS-Importação Lei 10.865/04 (CF 149 §2 II + 195 IV, EC\n33/2001): incide sobre IMPORTAÇÃO de bens e serviços; alíquotas\ngerais somadas atuais 11,75% (PIS 2,1% + COFINS 9,65%, Lei\n13.137/2015); adicional 1% COFINS em bens específicos (Temas 1.047\nSTF + 1.380 STJ); STF Tema 1 (RE 559.937) declarou\nINCONSTITUCIONAL incluir ICMS + as próprias contribuições na BC;\nLei 12.865/13 ajustou; substituída por CBS-Importação em 2027."
+description: "Usar para pesquisar ou analisar: PIS/COFINS-Importação (Lei 10.865/2004 + Tema 1 STF + EC 33/2001). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS-Importação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Recurso Administrativo no CARF"
 category: "forma"
 materia: null
 documentType: "recurso-administrativo-carf"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-administrativo-carf.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-administrativo-carf/SKILL.md"
 triggers:
   - "recurso administrativo no CARF"
   - "recurso voluntário ao CARF"
@@ -15,10 +15,15 @@ triggers:
   - "empate pró-contribuinte Lei 13.988/2020"
   - "segunda instância administrativa fiscal"
   - "contencioso administrativo tributário federal"
-description: "Recursos administrativos no CARF sob o Decreto 70.235/1972 e o RICARF\n(Portaria MF 1.634/2023 com atualizações): recurso voluntário contra\ndecisão da DRJ; recurso especial à CSRF por divergência interpretativa;\nembargos de declaração e agravo; voto de qualidade pró-Fisco\nreinstituído pela Lei 14.689/2023, com benefícios (exclusão de multas,\nparcelamento, uso de prejuízo fiscal); pressupostos de admissibilidade\ne cotejo analítico."
+description: "Usar para redigir ou revisar: Recurso Administrativo no CARF. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Administrativo no CARF
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

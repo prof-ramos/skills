@@ -5,8 +5,8 @@ title: "Reprodução Assistida + Bioética + Direito Médico + Direitos Reprodut
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/reproducao-assistida-bioetica.md"
+version: 2
+sourcePath: "legalbr/materia/saude/reproducao-assistida-bioetica/SKILL.md"
 triggers:
   - "reprodução assistida"
   - "CFM Res. 2.320/2022"
@@ -18,10 +18,15 @@ triggers:
   - "ortotanásia"
   - "testamento vital"
   - "Lei 14.874/2024"
-description: "Reprodução assistida, bioética e direitos reprodutivos sob o CC (arts. 1.597 e\n1.799), Lei 9.263/96, Lei 11.105/05, Lei 14.874/2024 e Res. CFM 2.320/2022:\ntécnicas (FIV, ICSI, doação de gametas, gestação por substituição); presunções\nde filiação e RA póstuma; identidade genética e anonimato; testamento vital,\nortotanásia, pesquisa com embriões e descriminalização do aborto."
+description: "Usar para pesquisar ou analisar: Reprodução Assistida + Bioética + Direito Médico + Direitos Reprodutivos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reprodução Assistida + Bioética
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

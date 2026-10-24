@@ -5,8 +5,8 @@ title: "Homologação de Sentença Arbitral Estrangeira"
 category: "forma"
 materia: null
 documentType: "homologacao-sentenca-arbitral"
-version: 3
-sourcePath: "lib/skills/official/forma/homologacao-sentenca-arbitral-estrangeira.md"
+version: 2
+sourcePath: "legalbr/forma/homologacao-sentenca-arbitral-estrangeira/SKILL.md"
 triggers:
   - "homologação sentença arbitral"
   - "convenção Nova Iorque"
@@ -18,10 +18,15 @@ triggers:
   - "ordem pública internacional"
   - "cooperação arbitral"
   - "homologação de sentença arbitral estrangeira no STJ"
-description: "Homologação de sentença arbitral estrangeira no STJ (CF 105 I-i; Lei\n9.307/96 arts. 34-40; Conv. Nova Iorque 1958, Dec. 4.311/02). Procedimento\nna Corte Especial conforme Resolução STJ 9/2005 + Emenda Reg. 18/2014.\nDefesas taxativas do art. 38 (incapacidade, invalidez da convenção,\ncerceamento de defesa, ultra petita, irregularidade do TAR, eficácia\npendente). Defesa do art. 39 (não-arbitrabilidade + ordem pública).\nDispensada a dupla homologação (Lei 9.307/96)."
+description: "Usar para redigir ou revisar: Homologação de Sentença Arbitral Estrangeira. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Homologação de Sentença Arbitral Estrangeira
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

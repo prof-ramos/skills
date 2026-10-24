@@ -5,8 +5,8 @@ title: "Honorários Sucumbenciais em ACP de Associação Privada (Tema 1.107 STJ
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-acp-associacao-tema-1107.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-acp-associacao-tema-1107/SKILL.md"
 triggers:
   - "Tema 1.107 STJ"
   - "honorários ACP associação"
@@ -14,10 +14,15 @@ triggers:
   - "CDC art 87"
   - "sucumbência ação civil pública"
   - "réu vencido associação"
-description: "Tema 1.107 STJ (afetado, PENDENTE de tese): discute se o réu\nVENCIDO em ACP ajuizada por ASSOCIAÇÃO PRIVADA paga honorários\nsucumbenciais. Orientação jurisprudencial do STJ: a exoneração da\nLei 7.347 art. 18 + CDC 87 protege o autor coletivo, não o réu\nvencido; associações civis suportam custos e devem ser\nremuneradas em caso de vitória, salvo má-fé."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais em ACP de Associação Privada (Tema 1.107 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Sucumbenciais em ACP de Associação Privada (Tema 1.107 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estado do Tema 1.107 STJ (PENDENTE)
 

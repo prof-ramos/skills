@@ -5,8 +5,8 @@ title: "Recurso em Sentido Estrito (CPP 581-592)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/recurso-sentido-estrito-cpp-581.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/recurso-sentido-estrito-cpp-581/SKILL.md"
 triggers:
   - "recurso em sentido estrito"
   - "CPP 581"
@@ -16,10 +16,15 @@ triggers:
   - "juízo de retratação CPP 589"
   - "rejeição denúncia recurso"
   - "denegação de apelação RESE"
-description: "Recurso em Sentido Estrito (CPP 581-592): recurso típico contra\ndecisões interlocutórias taxativamente listadas no CPP 581 (I-XXV;\nXXV incluído pela Lei 13.964/2019: recusa de homologação do ANPP).\nPrazo 5 DIAS (CPP 586; 20 dias no caso da lista de jurados) +\nrazões em 2 dias (CPP 588). Juízo de RETRATAÇÃO (CPP 589). Efeito\nsuspensivo SÓ nos casos do CPP 584. Impronúncia e absolvição\nsumária: APELAÇÃO (CPP 416). Não confundir com apelação (CPP 593),\nagravo em execução (LEP 197) e carta testemunhável (CPP 639)."
+description: "Usar para pesquisar ou analisar: Recurso em Sentido Estrito (CPP 581-592). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso em Sentido Estrito (RESE)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

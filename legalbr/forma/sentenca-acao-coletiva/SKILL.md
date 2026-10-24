@@ -5,8 +5,8 @@ title: "Sentença em Ação Coletiva (ACP e Ação Popular)"
 category: "forma"
 materia: null
 documentType: "sentenca-acao-coletiva"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-acao-coletiva.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-acao-coletiva/SKILL.md"
 triggers:
   - "sentença em ação civil pública"
   - "sentença em ação popular"
@@ -16,10 +16,15 @@ triggers:
   - "remessa necessária na ação civil pública"
   - "Tema 1.075 STF coisa julgada erga omnes"
   - "fundo de defesa dos direitos difusos destinação"
-description: "Sentença em ACP e ação popular (LACP arts. 11-19; CDC 94-104; Lei\n4.717/65): condenação específica com multa (LACP 11) ou genérica (CDC\n95) com destinação ao fundo (LACP 13); coisa julgada por tipo de\ndireito (CDC 103) sem limitação territorial (Tema 1.075 STF); remessa\nnecessária da improcedência (LAP 19, estendida à ACP pelo STJ); sem\ncustas nem honorários salvo má-fé (LACP 18), com recortes do STJ."
+description: "Usar para redigir ou revisar: Sentença em Ação Coletiva (ACP e Ação Popular). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença em Ação Coletiva (ACP e Ação Popular)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Dispositivo de procedência
 

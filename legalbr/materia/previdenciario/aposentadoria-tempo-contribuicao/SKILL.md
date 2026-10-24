@@ -5,8 +5,8 @@ title: "Aposentadoria por Tempo de Contribuição / Programada (EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-tempo-contribuicao.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-tempo-contribuicao/SKILL.md"
 triggers:
   - "aposentadoria por tempo de contribuição"
   - "aposentadoria programada"
@@ -15,10 +15,15 @@ triggers:
   - "pedágio 100"
   - "pontos 86/96"
   - "Revisão da Vida Toda"
-description: "Aposentadoria por tempo de contribuição / programada (EC 103/2019;\nLei 8.213/91; CF 201 §7): regra permanente 65H/62M + TC mínimo;\ntransições (idade progressiva, pedágios 50% e 100%, pontos, direito\nadquirido); cálculo pós EC 103 (60% + 2%); vedação da desaposentação\n(Tema 503 STF); Revisão da Vida Toda revertida (Tema 1.102 STF)."
+description: "Usar para pesquisar ou analisar: Aposentadoria por Tempo de Contribuição / Programada (EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria por TC / Programada (EC 103/2019)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

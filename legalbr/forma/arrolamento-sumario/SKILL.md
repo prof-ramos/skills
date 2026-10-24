@@ -5,8 +5,8 @@ title: "Arrolamento Sumário"
 category: "forma"
 materia: null
 documentType: "arrolamento-sumario"
-version: 1
-sourcePath: "lib/skills/official/forma/arrolamento-sumario.md"
+version: 2
+sourcePath: "legalbr/forma/arrolamento-sumario/SKILL.md"
 triggers:
   - "arrolamento sumário"
   - "arts. 659 a 666 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "recolhimento do ITCMD após a sentença CPC 659 §2º"
   - "testamento cumprido não impede arrolamento sumário"
   - "sucessão e transmissão automática aos herdeiros"
-description: "Arrolamento sumário (CPC 659-666): herdeiros maiores, capazes e em consenso,\nqualquer valor do acervo; admite testamento já cumprido (STJ); ITCMD pago após\na homologação, sem condicionar o formal (CPC 659 §2º; Tema 1.074 STJ);\nconverte se houver impasse."
+description: "Usar para redigir ou revisar: Arrolamento Sumário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arrolamento Sumário
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

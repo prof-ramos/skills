@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "termo-audiencia"
 version: 2
-sourcePath: "lib/skills/official/forma/termo-audiencia.md"
+sourcePath: "legalbr/forma/termo-audiencia/SKILL.md"
 triggers:
   - "termo de audiência"
   - "ata de audiência"
@@ -19,10 +19,15 @@ triggers:
   - "fé pública do termo"
   - "assinaturas das partes e do juiz"
   - "registro das decisões interlocutórias no termo de audiência"
-description: "Termo de audiência (CPC 209 e 367): registro formal dos atos com fé\npública. Gravação audiovisual e termo resumido (art. 367 §§ 5º e 6º).\nConteúdo: identificação completa, atos praticados, depoimentos,\ndecisões interlocutórias, designações futuras, assinaturas."
+description: "Usar para redigir ou revisar: Termo de Audiência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo de Audiência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Lei 14.230/2021 + Vedação ao Reexame Necessário em Improbidade (Tema 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/lei-14230-remessa-necessaria-tema-1284.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-14230-remessa-necessaria-tema-1284/SKILL.md"
 triggers:
   - "Tema 1.284 STJ"
   - "reexame necessário improbidade"
@@ -15,10 +15,15 @@ triggers:
   - "art 17 § 19 IV LIA"
   - "tempus regit actum sentença"
   - "improcedência improbidade"
-description: "Tema 1.284 STJ (1ª Seção, 11/06/2025): a vedação ao reexame\nnecessário em improbidade (Lei 8.429 art. 17 §19 IV + 17-C §3,\nredação Lei 14.230/2021) NÃO se aplica a sentenças anteriores à\nvigência da Lei 14.230/2021. Tempus regit actum: ato processual\nsegue a lei vigente quando praticado."
+description: "Usar para pesquisar ou analisar: Lei 14.230/2021 + Vedação ao Reexame Necessário em Improbidade (Tema 1.284 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.230/2021 + Vedação ao Reexame Necessário em Improbidade (Tema 1.284 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.284 STJ, 1ª Seção, j. 11/06/2025, com trânsito em julgado)
 

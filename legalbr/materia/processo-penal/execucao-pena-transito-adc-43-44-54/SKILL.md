@@ -5,8 +5,8 @@ title: "Execução Provisória da Pena (ADCs 43, 44 e 54 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-pena-transito-adc-43-44-54.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/execucao-pena-transito-adc-43-44-54/SKILL.md"
 triggers:
   - "ADC 43"
   - "ADC 44"
@@ -19,10 +19,15 @@ triggers:
   - "HC 84.078"
   - "Tema 1.068"
   - "júri execução provisória"
-description: "ADCs 43, 44 e 54 (Min. Marco Aurélio, 07/11/2019, 6x5): vedada\nexecução provisória da pena antes do trânsito em julgado. Art.\n283 CPP é constitucional. Reversão do HC 126.292 (2016). Mantida\nprisão preventiva fundamentada (CPP 312). Tema 1.068 (RE 1.235.340,\n12/09/2024) — exceção para crimes dolosos contra a vida julgados\npelo Júri. Pacote Anticrime não restaurou."
+description: "Usar para pesquisar ou analisar: Execução Provisória da Pena (ADCs 43, 44 e 54 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução Provisória da Pena (ADCs 43, 44 e 54 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

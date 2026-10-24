@@ -6,7 +6,7 @@ category: "materia"
 materia: "contratos"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/contratos/contrato-transporte.md"
+sourcePath: "legalbr/materia/contratos/contrato-transporte/SKILL.md"
 triggers:
   - "contrato de transporte"
   - "transporte de coisas"
@@ -24,10 +24,15 @@ triggers:
   - "piso mínimo do frete"
   - "Lei 15.485 piso do frete"
   - "CIOT"
-description: "Transporte (CC 730-756) de coisas e pessoas: Lei 11.442/2007\n(TAC/ETC: ADC 48 STF, civil); responsabilidade objetiva\n(750/734); CT-e; prescrição (Lei 11.442 art. 18: 1 ano na\nreparação de cargas rodoviárias; CDC 27: 5 anos no passageiro\nconsumidor); seguro; piso mínimo do frete (Lei 13.703/2018,\nreforçada pela Lei 15.485/2026, + Res. ANTT 5.867/2020) com\nprocessos judiciais SUSPENSOS nacionalmente pela ADI 5956."
+description: "Usar para pesquisar ou analisar: Contrato de Transporte. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Transporte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

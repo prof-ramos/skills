@@ -5,8 +5,8 @@ title: "Ampla Defesa + Contraditório (CF 5 LV)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/ampla-defesa-cf-5-lv.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/ampla-defesa-cf-5-lv/SKILL.md"
 triggers:
   - "ampla defesa"
   - "princípio do contraditório"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. Vinc. 5"
   - "SV 21"
   - "Lei 14.245/2021"
-description: "Ampla defesa + contraditório sob CF 5 LV: judicial + administrativo;\ndimensões: defesa técnica (CPP 261 obrigatória em criminal) +\nautodefesa (interrogatório); CPC 9-10 (não-surpresa); SV 5 (PAD\nsem defesa técnica obrigatória); SV 14 (acesso aos autos); SV 21\n(vedado depósito recursal); Lei 14.245 (caso Mariana Ferrer: vedado\nconstrangimento de vítima em audiência); cerceamento de defesa por\nindeferimento imotivado de prova."
+description: "Usar para pesquisar ou analisar: Ampla Defesa + Contraditório (CF 5 LV). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ampla Defesa + Contraditório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

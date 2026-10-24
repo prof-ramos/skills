@@ -5,8 +5,8 @@ title: "PIS/COFINS + Vendas e Serviços na Zona Franca de Manaus (Tema 1.239 STJ
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-zona-franca-tema-1239.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-zona-franca-tema-1239/SKILL.md"
 triggers:
   - "Tema 1.239 STJ"
   - "PIS Cofins Zona Franca Manaus"
@@ -15,10 +15,15 @@ triggers:
   - "prestação serviço ZFM"
   - "exportação ficta Zona Franca"
   - "interpretação extensiva incentivo regional"
-description: "Tema 1.239 STJ (1ª Seção, 11/06/2025): NÃO incide PIS nem COFINS\nsobre receitas advindas da PRESTAÇÃO de serviço e da VENDA de\nmercadorias nacionais e nacionalizadas, a pessoas FÍSICAS ou\nJURÍDICAS, no âmbito da Zona Franca de Manaus. Equiparação à\nexportação (DL 288/67 art. 4) com interpretação extensiva pró\nredução de desigualdades regionais (CF 3 III)."
+description: "Usar para pesquisar ou analisar: PIS/COFINS + Vendas e Serviços na Zona Franca de Manaus (Tema 1.239 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS + Vendas e Serviços na Zona Franca de Manaus (Tema 1.239 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.239 STJ, 1ª Seção, 11/06/2025)
 

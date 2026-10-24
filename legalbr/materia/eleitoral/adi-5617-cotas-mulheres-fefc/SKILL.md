@@ -5,8 +5,8 @@ title: "ADI 5617 — Cotas para Mulheres no FEFC e Tempo de TV"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/adi-5617-cotas-mulheres-fefc.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/adi-5617-cotas-mulheres-fefc/SKILL.md"
 triggers:
   - "ADI 5617"
   - "cotas mulheres FEFC"
@@ -16,10 +16,15 @@ triggers:
   - "igualdade gênero eleições"
   - "Lei 13.487"
   - "ADI 6738"
-description: "ADI 5617 (Edson Fachin, 15/03/2018, 9×2): reserva de 30% de\ncandidaturas femininas implica distribuição proporcional do\nFEFC e do tempo de TV/rádio. Fundamenta ADI 6738 (cotas\nraciais) e Res. TSE 23.605/2019."
+description: "Usar para pesquisar ou analisar: ADI 5617 — Cotas para Mulheres no FEFC e Tempo de TV. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5617 — Cotas Mulheres no FEFC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

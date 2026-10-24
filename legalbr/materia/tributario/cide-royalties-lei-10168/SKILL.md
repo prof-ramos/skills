@@ -5,8 +5,8 @@ title: "CIDE-Tecnologia (Royalties + Remessas Exterior, Lei 10.168/2000)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/cide-royalties-lei-10168.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cide-royalties-lei-10168/SKILL.md"
 triggers:
   - "CIDE royalties"
   - "CIDE tecnologia"
@@ -18,10 +18,15 @@ triggers:
   - "10% CIDE"
   - "FNDCT"
   - "Tema 914 STF"
-description: "CIDE-Tecnologia: Contribuição de Intervenção no Domínio Econômico\nda **Lei 10.168/2000** + ampliações pela **Lei 10.332/2001**.\n**Alíquota**: **10%** ad valorem. **Fato gerador**: pagamento +\ncrédito + entrega + emprego + remessa a residentes/domiciliados no\nexterior, de royalties ou contraprestações por: (a) contratos\nde licença + uso de marcas + tecnologia; (b) serviços técnicos +\nassistência administrativa + similares; (c) royalties em geral\n(após Lei 10.332). Destino: **FNDCT**. **STF Tema 914**:\nconstitucionalidade afirmada + arrecadação integralmente aplicada\nem Ciência e Tecnologia. Apuração mensal. Cumulável com IRRF e\nPIS/COFINS-Importação. Não afastada, em regra, por acordos de\nbitributação (DTAA). Reforma tributária mantém (setorial)."
+description: "Usar para pesquisar ou analisar: CIDE-Tecnologia (Royalties + Remessas Exterior, Lei 10.168/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CIDE-Tecnologia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "ADI 1351 + ADI 1354: Cláusula de Barreira e Pluralismo Partidário"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/adi-1351-clausula-barreira.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/adi-1351-clausula-barreira/SKILL.md"
 triggers:
   - "ADI 1351"
   - "ADI 1354"
@@ -17,10 +17,15 @@ triggers:
   - "acesso ao fundo partidário"
   - "tempo de TV partido"
   - "EC 97/2017"
-description: "ADI 1351 + 1354 (Marco Aurélio, 07/12/2006, unânime): cláusula\nde barreira da Lei 9.096/1995 (art. 13) é inconstitucional,\npor ofensa ao pluralismo (CF 1 V + 17). EC 97/2017 inseriu cláusula\nde desempenho com transição até 2030; Lei 14.208 cria federações."
+description: "Usar para pesquisar ou analisar: ADI 1351 + ADI 1354: Cláusula de Barreira e Pluralismo Partidário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 1351 + ADI 1354: Cláusula de Barreira
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

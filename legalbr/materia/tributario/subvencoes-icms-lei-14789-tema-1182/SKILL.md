@@ -5,8 +5,8 @@ title: "Subvenções ICMS na Base IRPJ/CSLL (Lei 12.973 art. 30 + Lei 14.789/23 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/subvencoes-icms-lei-14789-tema-1182.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/subvencoes-icms-lei-14789-tema-1182/SKILL.md"
 triggers:
   - "subvenções ICMS"
   - "crédito presumido"
@@ -21,10 +21,15 @@ triggers:
   - "EREsp 1.517.492"
   - "LC 160/2017"
   - "pacto federativo"
-description: "Subvenções de ICMS Lei 12.973 art. 30 + Lei 14.789/23 + STJ Tema\n1.182 (REsp 1.945.110): benefícios de ICMS (isenção, redução de\nBC etc.) só excluíveis da base IRPJ/CSLL com os requisitos\nlegais (LC 160/2017 art. 10 + Lei 12.973 art. 30); crédito\npresumido de ICMS fora da base por força do EREsp 1.517.492/PR,\nexpressamente ressalvado na tese 1 do Tema 1.182; Lei 14.789/23\n(vigência 2024) ENDURECEU: substituiu por crédito fiscal de 25%\n+ condições; alta litigiosidade."
+description: "Usar para pesquisar ou analisar: Subvenções ICMS na Base IRPJ/CSLL (Lei 12.973 art. 30 + Lei 14.789/23 + Tema 1.182 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Subvenções ICMS na Base IRPJ/CSLL
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

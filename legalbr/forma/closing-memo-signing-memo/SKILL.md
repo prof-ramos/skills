@@ -5,8 +5,8 @@ title: "Closing / Signing Memo (M&A e financeiros)"
 category: "forma"
 materia: null
 documentType: "closing-memo"
-version: 1
-sourcePath: "lib/skills/official/forma/closing-memo-signing-memo.md"
+version: 2
+sourcePath: "legalbr/forma/closing-memo-signing-memo/SKILL.md"
 triggers:
   - "closing memo"
   - "signing memo"
@@ -14,10 +14,15 @@ triggers:
   - "memorando de closing"
   - "bring-down memo"
   - "aprovação de fechamento"
-description: "Closing / signing memo: documento interno que consolida cumprimento de\ncondições precedentes (CPs), assinatura, fechamento e liberação de\nrecursos em operação de M&A, financiamento ou emissão. Pré-condições,\nbring-down opinions, escrow release e flow of funds. Subsidia\ngovernança interna (LSA 142 + 156)."
+description: "Usar para redigir ou revisar: Closing / Signing Memo (M&A e financeiros). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Closing / Signing Memo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Função
 

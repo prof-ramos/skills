@@ -5,8 +5,8 @@ title: "Agravante do CP 61 II \"f\" + Contravenções de Violência Doméstica (
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/agravante-violencia-domestica-contravencao-tema-1333.md"
+version: 2
+sourcePath: "legalbr/materia/penal/agravante-violencia-domestica-contravencao-tema-1333/SKILL.md"
 triggers:
   - "Tema 1.333 STJ"
   - "CP 61 II f agravante mulher"
@@ -14,10 +14,15 @@ triggers:
   - "LCP 21 § 2 vias de fato"
   - "Lei 14.994/2024 majorante"
   - "bis in idem especialidade"
-description: "Tema 1.333 STJ (3ª Seção, 09/09/2025): a agravante do CP 61 II \"f\"\nAPLICA-SE às contravenções praticadas em contexto de violência\ndoméstica contra a mulher, SALVO previsão diversa da LCP. NÃO\ncabe para VIAS DE FATO (LCP 21) na hipótese do §2 (Lei 14.994/2024),\npor especialidade e vedação ao bis in idem."
+description: "Usar para pesquisar ou analisar: Agravante do CP 61 II \"f\" + Contravenções de Violência Doméstica (Tema 1.333 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravante do CP 61 II "f" + Contravenções de Violência Doméstica (Tema 1.333 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.333 STJ, 3ª Seção, 09/09/2025)
 

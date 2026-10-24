@@ -5,8 +5,8 @@ title: "IRPF sobre Rendimentos Recebidos Acumuladamente, RRA (Lei 7.713 art. 12-
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpf-rendimentos-acumulados-rra-tema-351.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpf-rendimentos-acumulados-rra-tema-351/SKILL.md"
 triggers:
   - "rendimentos recebidos acumuladamente"
   - "RRA imposto de renda"
@@ -19,10 +19,15 @@ triggers:
   - "regime de competência atrasados"
   - "IRPF atrasados previdenciários"
   - "tabela multiplicada número de meses"
-description: "Regime do IRPF sobre rendimentos recebidos acumuladamente: Lei 7.713/88\nart. 12-A (Lei 12.350/2010, redação Lei 13.149/2015): tributação\nexclusiva na fonte com tabela progressiva MULTIPLICADA pelo número de\nmeses; Tema 351 STJ (REsp 1.118.429) e Tema 368 STF (RE 614.406):\nregime de COMPETÊNCIA, vedado o cálculo pelo montante global; Tema 894\nSTJ (FACDT: correção do IR até a retenção); mecânica de toda execução\nprevidenciária/trabalhista com atrasados e da repetição de indébito RRA."
+description: "Usar para pesquisar ou analisar: IRPF sobre Rendimentos Recebidos Acumuladamente, RRA (Lei 7.713 art. 12-A + Temas 351/894 STJ + Tema 368 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IRPF sobre Rendimentos Recebidos Acumuladamente (RRA)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Panorama dos regimes
 

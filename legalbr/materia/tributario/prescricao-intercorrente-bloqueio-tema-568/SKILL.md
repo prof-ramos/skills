@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente da EF, Bloqueio + Interrupção (Tema 568 STJ
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/prescricao-intercorrente-bloqueio-tema-568.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-intercorrente-bloqueio-tema-568/SKILL.md"
 triggers:
   - "Tema 568 STJ"
   - "prescrição intercorrente bloqueio"
@@ -18,10 +18,15 @@ triggers:
   - "REsp 1.340.553"
   - "interrupção prescrição intercorrente"
   - "penhora de ativos financeiros"
-description: "Tema 568 STJ (REsp 1.340.553): a EFETIVA CONSTRIÇÃO PATRIMONIAL\n(penhora sobre ativos financeiros via SISBAJUD/BACENJUD ou sobre\noutros bens) e a EFETIVA CITAÇÃO (ainda que por edital)\ninterrompem a prescrição intercorrente (LEF 40); o MERO\nPETICIONAMENTO em juízo e diligências infrutíferas NÃO bastam.\nComplementa o Tema 566 STJ (marco inicial automático da\nsuspensão da LEF 40) e os Temas 569-571 do mesmo repetitivo."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente da EF, Bloqueio + Interrupção (Tema 568 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente, Bloqueio (Tema 568 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 568 STJ, REsp 1.340.553)
 

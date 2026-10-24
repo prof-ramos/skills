@@ -5,8 +5,8 @@ title: "Nomeação Tardia, Posse Precária e Fato Consumado (Temas 671, 454 e 47
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/nomeacao-tardia-fato-consumado-temas-671-454-476.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/nomeacao-tardia-fato-consumado-temas-671-454-476/SKILL.md"
 triggers:
   - "nomeação tardia"
   - "Tema 671 STF"
@@ -19,10 +19,15 @@ triggers:
   - "indenização por nomeação tardia"
   - "promoções retroativas nomeação judicial"
   - "arbitrariedade flagrante"
-description: "Efeitos da investidura judicializada: Tema 671 STF (RE 724.347:\nposse por decisão judicial não gera indenização retroativa, salvo\narbitrariedade flagrante), Tema 454 (RE 629.392: nomeação\nretroativa não gera promoções/progressões que teriam ocorrido) e\nTema 476 (RE 608.482: fato consumado não mantém no cargo candidato\nempossado por provimento precário revogado). Distingue efeitos\nfuncionais de financeiros e trata da devolução de valores."
+description: "Usar para pesquisar ou analisar: Nomeação Tardia, Posse Precária e Fato Consumado (Temas 671, 454 e 476 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nomeação Tardia, Posse Precária e Fato Consumado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Ação contra Plano de Saúde (Lei 9.656/98 + Lei 14.454/22 + ADI 7.265)
 category: "forma"
 materia: null
 documentType: "acao-plano-saude"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-plano-saude.md"
+version: 2
+sourcePath: "legalbr/forma/acao-plano-saude/SKILL.md"
 triggers:
   - "ação plano de saúde"
   - "obrigação fazer plano saúde"
@@ -17,10 +17,15 @@ triggers:
   - "home care plano saúde"
   - "reajuste plano saúde"
   - "rescisão unilateral plano saúde"
-description: "Petição inicial contra plano de saúde (Lei 9.656/98 + Lei 14.454/22 +\nSúm. 608 STJ + ADI 7.265 STF): negativa de cobertura, reajuste abusivo,\nrescisão unilateral, internação, medicamento, ABA/TEA, home care.\nTutela de urgência com astreintes (CPC 300 + 537); foro do consumidor;\ninversão do ônus (CDC 6º VIII); dano moral sem presunção pela simples\nrecusa (Tema 1.365 STJ)."
+description: "Usar para redigir ou revisar: Ação contra Plano de Saúde (Lei 9.656/98 + Lei 14.454/22 + ADI 7.265). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação contra Plano de Saúde
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

@@ -5,8 +5,8 @@ title: "Processo Administrativo de Trânsito. Multas, Pontuação e Suspensão/C
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/processo-administrativo-transito-suspensao-cnh.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/processo-administrativo-transito-suspensao-cnh/SKILL.md"
 triggers:
   - "suspensão do direito de dirigir"
   - "cassação da CNH"
@@ -20,10 +20,15 @@ triggers:
   - "recurso JARI"
   - "curso de reciclagem CNH"
   - "Tema 1.079 STF"
-description: "Processo administrativo do CTB (arts. 256-290): penalidades, pontuação\nescalonada 20/30/40 da Lei 14.071/2020 (EAR só 40 + curso preventivo),\nsuspensão (CTB 261), cassação (CTB 263, reabilitação em 2 anos), dupla\nnotificação, defesa prévia, JARI e CETRAN, toxicológico das categorias\nC/D/E (CTB 148-A, Lei 14.599/2023, infrações 165-B/165-C) e Res. CONTRAN\n723/2018 + 844/2021; Temas STF 472, 486 e 1.079."
+description: "Usar para pesquisar ou analisar: Processo Administrativo de Trânsito. Multas, Pontuação e Suspensão/Cassação da CNH (CTB 256-290). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Administrativo de Trânsito: Multas, Pontuação e Suspensão/Cassação da CNH
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Contencioso de massa contra DETRANs, DNIT, PRF e municípios (anulatórias, MS e JEC-FP). As súmulas STJ 127, 312, 434 e 510 e a dupla notificação de PJ (STJ Tema 1.097 + STF Tema 1.351) têm skills próprias; esta skill cobre o **regime de fundo**: penalidades, pontuação, suspensão, cassação e o rito dos arts. 256-290 do CTB.
 

@@ -5,8 +5,8 @@ title: "Crimes contra a Ordem Tributária (Lei 8.137/90)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-tributarios-lei-8137.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-tributarios-lei-8137/SKILL.md"
 triggers:
   - "Lei 8.137"
   - "sonegação fiscal"
@@ -18,10 +18,15 @@ triggers:
   - "parcelamento Lei 12.382"
   - "dolo sonegação tributo"
   - "princípio insignificância tributário"
-description: "Crimes contra ordem tributária Lei 8.137/90: art. 1 (recl. 2-5)\nsonegação material, suprimir/reduzir tributo com fraude; art. 2\n(det. 6m-2a) sonegação formal; SV 24 STF exige lançamento\ndefinitivo do crédito para tipicidade do art. 1; extinção\npunibilidade pelo pagamento (Lei 10.684) ou parcelamento (Lei\n12.382 restritiva); insignificância até R$ 20 mil (STJ Tema 157)."
+description: "Usar para pesquisar ou analisar: Crimes contra a Ordem Tributária (Lei 8.137/90). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Ordem Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura da Lei 8.137/90
 

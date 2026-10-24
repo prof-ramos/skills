@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contestacao-fazendaria"
 version: 2
-sourcePath: "lib/skills/official/forma/contestacao-fazendaria.md"
+sourcePath: "legalbr/forma/contestacao-fazendaria/SKILL.md"
 triggers:
   - "contestação Fazenda Pública"
   - "defesa Fazenda"
@@ -19,10 +19,15 @@ triggers:
   - "reexame necessário"
   - "reserva do possível"
   - "intimação pessoal procurador"
-description: "Contestação por Fazenda Pública (União, Estado, DF, Município, autarquia\ne fundação pública): prazo em dobro e intimação pessoal (CPC 183);\nimpugnação especificada sem negativa geral (CPC 341); prescrição\nquinquenal (Dec 20.910/1932 e Súm. 85 STJ); reexame necessário\n(CPC 496); honorários (CPC 85 §§ 3º a 8º; Temas 1.076, 1.190 e 1.142);\nvedações de tutela (Leis 8.437/1992 e 9.494/1997) e suspensão de\nsegurança; presunções probatórias dos atos administrativos. NÃO cobre\nos juizados da Fazenda (Leis 12.153/2009 e 10.259/2001): lá não há\nprazo em dobro, reexame necessário nem condenação em honorários em\nprimeiro grau; nesses ritos prevalece a contestação própria do juizado."
+description: "Usar para redigir ou revisar: Contestação Fazendária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contestação Fazendária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

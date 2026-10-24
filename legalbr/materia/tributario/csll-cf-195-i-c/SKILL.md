@@ -5,8 +5,8 @@ title: "CSLL (CF 195 I \"c\" + Lei 7.689/1988 + Lei 14.789/2023 + Tema 962)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/csll-cf-195-i-c.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/csll-cf-195-i-c/SKILL.md"
 triggers:
   - "CSLL"
   - "CF 195 I c"
@@ -20,10 +20,15 @@ triggers:
   - "SELIC repetição"
   - "ADI 7.604 subvenções"
   - "alíquota 9 15 20"
-description: "CSLL CF 195 I \"c\" Lei 7.689/1988: contribuição social SS; anterioridade\nNONAGESIMAL apenas (CF 195 §6); BC lucro líquido (Real) ou\nestimativa Presumido (12% receita + 32% serviços, Lei 9.249);\nalíquotas 9% (regra) + 15% (seguradoras) + 20% bancos (Lei\n14.183/2021); majoração setorial validada (ADIs 4.101 e 5.485);\nLei 14.789/2023 subvenções ICMS (ADIs 7.604 e 7.551 pendentes);\nTema 962 (SELIC repetição NÃO incide); Tema 881/885 coisa\njulgada; Tema 1.319 STJ (JCP de exercício anterior dedutível)."
+description: "Usar para pesquisar ou analisar: CSLL (CF 195 I \"c\" + Lei 7.689/1988 + Lei 14.789/2023 + Tema 962). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CSLL
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

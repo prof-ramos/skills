@@ -5,8 +5,8 @@ title: "Bloqueio de Conta e Retenção de Saldo por Bancos Digitais e Instituiç
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/bloqueio-conta-pagamento-fintech.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/bloqueio-conta-pagamento-fintech/SKILL.md"
 triggers:
   - "bloqueio de conta digital"
   - "retenção de saldo"
@@ -20,10 +20,15 @@ triggers:
   - "desbloqueio de conta"
   - "encerramento unilateral de conta de pagamento"
   - "saldo retido pela fintech"
-description: "Bloqueio cautelar de conta e retenção de saldo por bancos digitais e\ninstituições de pagamento: regime da Lei 12.865/2013 (conta de pagamento,\npatrimônio separado, art. 12) + Res. BCB 80/2021 e 96/2021; licitude do\nbloqueio motivado por PLD (Lei 9.613/1998) x abusividade da retenção sem\nmotivação e prazo (CDC 14 e 39); Súm. 479 STJ estendida às instituições\nde pagamento (REsp 2.222.059/SP, 2025); dano moral e tutela de urgência."
+description: "Usar para pesquisar ou analisar: Bloqueio de Conta e Retenção de Saldo por Bancos Digitais e Instituições de Pagamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bloqueio de Conta e Retenção de Saldo por Bancos Digitais e Instituições de Pagamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal e regulatório
 

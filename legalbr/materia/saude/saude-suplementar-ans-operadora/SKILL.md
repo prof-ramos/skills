@@ -5,8 +5,8 @@ title: "Saúde Suplementar (Lei 9.656/98 + ANS)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/saude-suplementar-ans-operadora.md"
+version: 2
+sourcePath: "legalbr/materia/saude/saude-suplementar-ans-operadora/SKILL.md"
 triggers:
   - "saúde suplementar"
   - "rol da ANS"
@@ -18,10 +18,15 @@ triggers:
   - "cobertura assistencial"
   - "reajuste por faixa etária"
   - "Tema 1.365 STJ"
-description: "Saúde suplementar: Lei 9.656/98 + Lei 9.961/00 (ANS) + Lei 13.003/14\n(contrato-padrão prestador-operadora) + Lei 14.454/22 (cobertura\nrol exemplificativo). RN ANS, contrato individual + coletivo,\nrescisão (RN 195 + 412), portabilidade (RN 438), reajuste,\ninsolvência (RN 388), M&A no setor (RN 561)."
+description: "Usar para pesquisar ou analisar: Saúde Suplementar (Lei 9.656/98 + ANS). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Saúde Suplementar (Lei 9.656/98 + ANS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

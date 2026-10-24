@@ -5,8 +5,8 @@ title: "Transformação de Sociedades (CC 1.113-1.115 + LSA 220-222)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/transformacao-sociedades-cc-1113.md"
+version: 2
+sourcePath: "legalbr/materia/societario/transformacao-sociedades-cc-1113/SKILL.md"
 triggers:
   - "transformação societária"
   - "CC 1.113"
@@ -17,10 +17,15 @@ triggers:
   - "SLU para LTDA"
   - "credores transformação"
   - "unanimidade transformação"
-description: "Transformação de sociedades (CC 1.113-1.115 + LSA 220-222): mudança\nde **tipo societário** sem dissolução nem liquidação, preservando\npersonalidade jurídica e continuidade dos contratos. **Unanimidade\ncomo regra** (CC 1.114), salvo previsão contratual; sócio dissidente\ntem direito de **recesso/retirada** (LSA 221 + CC 1.077 análogo).\nCredores anteriores mantêm **mesmas garantias** (CC 1.115 + LSA\n222): a transformação **não os prejudica**. Forma + registro na\nJunta + tributação neutra (não há fato gerador). Aplicações\ntípicas: LTDA → S.A. (acesso a capital), SLU → LTDA (entrada de\nsócio), S.A. → LTDA (governança)."
+description: "Usar para pesquisar ou analisar: Transformação de Sociedades (CC 1.113-1.115 + LSA 220-222). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transformação de Sociedades
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

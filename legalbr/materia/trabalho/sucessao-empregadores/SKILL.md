@@ -5,8 +5,8 @@ title: "Sucessão de Empregadores (CLT 10, 448, 448-A)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/sucessao-empregadores.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sucessao-empregadores/SKILL.md"
 triggers:
   - "sucessão de empregadores"
   - "sucessão trabalhista"
@@ -15,10 +15,15 @@ triggers:
   - "art. 448-A CLT"
   - "trespasse de estabelecimento"
   - "UPI sem sucessão trabalhista"
-description: "Sucessão de empregadores sob os arts. 10, 10-A, 448 e 448-A da CLT:\nprincípios da continuidade contratual e despersonalização do\nempregador; transferência de obrigações ao sucessor e\nresponsabilidade do sócio retirante; hipóteses (fusão, incorporação,\ncisão e trespasse) e exceção da UPI na Lei 11.101/05."
+description: "Usar para pesquisar ou analisar: Sucessão de Empregadores (CLT 10, 448, 448-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sucessão de Empregadores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

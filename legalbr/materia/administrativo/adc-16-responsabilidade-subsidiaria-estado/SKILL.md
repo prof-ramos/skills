@@ -5,8 +5,8 @@ title: "ADC 16, Responsabilidade Subsidiária do Estado em Terceirização"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/adc-16-responsabilidade-subsidiaria-estado.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/adc-16-responsabilidade-subsidiaria-estado/SKILL.md"
 triggers:
   - "ADC 16"
   - "terceirização administração pública"
@@ -16,10 +16,15 @@ triggers:
   - "culpa in vigilando contratante"
   - "Tema 246 STF"
   - "fiscalização contratos terceirização"
-description: "ADC 16 (24/11/2010): art. 71 §1 da Lei 8.666/93 é constitucional;\nAdm. não responde automaticamente por encargos da terceirizada,\nsó por culpa in vigilando. Regra mantida no art. 121 da Lei\n14.133/2021 (que revogou a Lei 8.666). Tema 1.118 STF (RE\n1.298.647, j. 13/02/2025): imprescindível comprovação, pela\nparte autora, de comportamento negligente ou nexo de causalidade."
+description: "Usar para pesquisar ou analisar: ADC 16, Responsabilidade Subsidiária do Estado em Terceirização. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADC 16: Responsabilidade Subsidiária do Estado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

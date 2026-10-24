@@ -5,8 +5,8 @@ title: "ADPF 779: Vedação à \"Legítima Defesa da Honra\""
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/adpf-779-legitima-defesa-honra.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adpf-779-legitima-defesa-honra/SKILL.md"
 triggers:
   - "ADPF 779"
   - "legítima defesa da honra"
@@ -16,10 +16,15 @@ triggers:
   - "Dias Toffoli legítima defesa"
   - "violência contra mulher tribunal"
   - "nulidade tese inconstitucional"
-description: "ADPF 779 (Dias Toffoli, cautelar 2021 + mérito 01/08/2023,\nunânime): \"legítima defesa da honra\" é inconstitucional;\ninvocação no Júri por defesa, MP, juiz ou quesito gera\nnulidade absoluta. Base CF 1 III + 5 + 226 §8."
+description: "Usar para pesquisar ou analisar: ADPF 779: Vedação à \"Legítima Defesa da Honra\". Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 779: Legítima Defesa da Honra
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

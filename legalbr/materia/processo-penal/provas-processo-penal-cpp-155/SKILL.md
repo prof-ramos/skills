@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-penal/provas/provas-processo-penal-cpp-155.md"
+sourcePath: "legalbr/materia/processo-penal/provas-processo-penal-cpp-155/SKILL.md"
 triggers:
   - "provas processo penal"
   - "CPP 155"
@@ -22,10 +22,15 @@ triggers:
   - "interceptação Lei 9.296"
   - "HC 1.059.475 STJ"
   - "confiabilidade relatório IA"
-description: "Provas penais: CPP 155 e 157, elementos do inquérito, provas ilícitas e derivadas, reconhecimento, confissão, interrogatório, interceptações e controle de confiabilidade de relatório policial produzido com IA generativa."
+description: "Usar para pesquisar ou analisar: Provas no Processo Penal (CPP 155-250 + CPP 157 + Tema 1.258 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Provas no Processo Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 155: LIVRE CONVENCIMENTO MOTIVADO
 

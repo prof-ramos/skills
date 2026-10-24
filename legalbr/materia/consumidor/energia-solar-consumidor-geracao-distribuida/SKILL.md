@@ -5,8 +5,8 @@ title: "Energia Solar e Geração Distribuída: Consumidor (Lei 14.300/2022)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/energia-solar-consumidor-geracao-distribuida.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/energia-solar-consumidor-geracao-distribuida/SKILL.md"
 triggers:
   - "energia solar"
   - "placas solares"
@@ -20,10 +20,15 @@ triggers:
   - "CDC 54-F contratos coligados"
   - "microgeração distribuída"
   - "homologação da distribuidora"
-description: "Contencioso consumerista de energia solar: kit não entregue ou geração\nabaixo da prometida (CDC 18, 20, 30 e 35), responsabilidade da integradora\ne resolução do financiamento coligado (CDC 54-F, rescisão conjunta e\nsuspensão de parcelas); marco da Lei 14.300/2022 + REN ANEEL 1.059/2023\n(SCEE, GD I até 2045, créditos em 60 meses) e prazos de conexão e\nhomologação perante a distribuidora."
+description: "Usar para pesquisar ou analisar: Energia Solar e Geração Distribuída: Consumidor (Lei 14.300/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Energia Solar e Geração Distribuída: Consumidor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

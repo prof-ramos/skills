@@ -5,8 +5,8 @@ title: "Convenções Internacionais Anticorrupção (OCDE 1997 + OEA 1996 + ONU 
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/convencao-anticorrupcao-ocde-onu.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/convencao-anticorrupcao-ocde-onu/SKILL.md"
 triggers:
   - "convenção anticorrupção"
   - "convenção OCDE corrupção"
@@ -19,10 +19,15 @@ triggers:
   - "lei FCPA"
   - "UK Bribery Act"
   - "lavagem dinheiro internacional"
-description: "Convenções internacionais anticorrupção ratificadas pelo Brasil:\n**OCDE 1997** (Dec. 3.678/2000), combate ao suborno de funcionário\npúblico estrangeiro em transações comerciais internacionais; **OEA\n1996** (Dec. 4.410/2002), Convenção Interamericana; **ONU 2003**\n(UNCAC, Dec. 5.687/2006), instrumento mais amplo. Impacto interno:\nCP arts. 337-B/C/D (Lei 10.467/2002, suborno transnacional);\n**Lei 12.846/13** (anticorrupção empresarial); Lei 9.613/98\n(lavagem). Mecanismos: cooperação internacional + recuperação de\nativos + assistência mútua. Extraterritorialidade: FCPA (EUA),\nUK Bribery Act 2010, Sapin II (FR), Lei alemã. Lei 12.846 alcança\nPJ estrangeira com atos no Brasil + PJ brasileira no exterior."
+description: "Usar para pesquisar ou analisar: Convenções Internacionais Anticorrupção (OCDE 1997 + OEA 1996 + ONU 2003). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Convenções Internacionais Anticorrupção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

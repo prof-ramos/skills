@@ -5,8 +5,8 @@ title: "Contrato por Prazo Determinado (CLT 443, 445, 479-481)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/contrato-prazo-determinado-clt-443.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/contrato-prazo-determinado-clt-443/SKILL.md"
 triggers:
   - "contrato por prazo determinado"
   - "contrato a termo"
@@ -16,10 +16,15 @@ triggers:
   - "CLT 479"
   - "CLT 481"
   - "Lei 9.601"
-description: "Contrato por prazo determinado (CLT 443 §1 + §2 + 445): admissível\nsó em três hipóteses (serviço cuja natureza justifique, transitoriedade\nempresarial, contrato de experiência); máx. 2 anos (regra) ou 90 dias\n(experiência); rescisão antecipada (479/480); cláusula 481 converte."
+description: "Usar para pesquisar ou analisar: Contrato por Prazo Determinado (CLT 443, 445, 479-481). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato por Prazo Determinado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

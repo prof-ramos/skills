@@ -5,8 +5,8 @@ title: "Empregada Doméstica (LC 150/2015)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/empregada-domestica.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/empregada-domestica/SKILL.md"
 triggers:
   - "empregada doméstica"
   - "trabalho doméstico vínculo"
@@ -18,10 +18,15 @@ triggers:
   - "eSocial doméstico"
   - "cuidadora de idoso vínculo"
   - "babá vínculo de emprego"
-description: "Empregada doméstica sob EC 72/2013 + LC 150/2015: requisitos do vínculo\n(continuidade superior a 2 dias/semana, residência sem fins lucrativos)\ne exclusão da diarista; jornada de 44h, banco de horas e regime 12x36;\nFGTS obrigatório com antecipação de 3,2%, Simples Doméstico e eSocial;\nestabilidades e direitos da CF 7 par. único."
+description: "Usar para pesquisar ou analisar: Empregada Doméstica (LC 150/2015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Empregada Doméstica (LC 150/2015)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco regulatório
 

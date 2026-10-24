@@ -5,8 +5,8 @@ title: "Cumprimento de Sentença"
 category: "forma"
 materia: null
 documentType: "cumprimento-sentenca"
-version: 1
-sourcePath: "lib/skills/official/forma/cumprimento-sentenca.md"
+version: 2
+sourcePath: "legalbr/forma/cumprimento-sentenca/SKILL.md"
 triggers:
   - "cumprimento de sentença"
   - "arts. 513 a 538 CPC"
@@ -16,10 +16,15 @@ triggers:
   - "cumprimento de obrigação de fazer e não fazer"
   - "cumprimento de pensão alimentícia art. 528"
   - "título executivo judicial"
-description: "Cumprimento de sentença sob os arts. 513 a 538 do CPC como fase\nsincrética: pagar quantia com intimação do art. 523 e multa de 10%\nsomada a honorários de 10% em caso de inadimplemento; impugnação do\nart. 525 sem necessidade de garantia; cumprimento provisório com\ncaução (art. 520 IV); regimes especiais da Fazenda Pública (arts. 534\ne 535, precatório e RPV) e dos alimentos com rito da prisão civil\n(art. 528). Súm. 517 e 519 STJ."
+description: "Usar para redigir ou revisar: Cumprimento de Sentença. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Sentença
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

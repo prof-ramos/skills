@@ -5,8 +5,8 @@ title: "Revelia e Confissão Ficta (CLT 844 + Súm. 74 TST)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/revelia-confissao-clt-844.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/revelia-confissao-clt-844/SKILL.md"
 triggers:
   - "revelia"
   - "CLT 844"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 122 TST"
   - "ausência reclamada"
   - "ônus probatório"
-description: "Revelia e confissão (CLT 844 + Súm. 74 TST): ausência da reclamada\ngera revelia e confissão sobre matéria de fato; reformulação pela Lei\n13.467 (presença do advogado preserva defesa); confissão ficta é\npresunção relativa; cabe afastamento por matéria de direito ou prova\ndocumental robusta da inicial."
+description: "Usar para pesquisar ou analisar: Revelia e Confissão Ficta (CLT 844 + Súm. 74 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revelia e Confissão Ficta
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

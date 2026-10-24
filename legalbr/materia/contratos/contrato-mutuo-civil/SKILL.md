@@ -5,8 +5,8 @@ title: "Contrato de Mútuo Civil"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-mutuo-civil.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-mutuo-civil/SKILL.md"
 triggers:
   - "contrato de mútuo"
   - "mútuo civil"
@@ -18,10 +18,15 @@ triggers:
   - "juros remuneratórios mútuo"
   - "Lei da Usura"
   - "cédula de crédito"
-description: "Mútuo civil (CC 586-592): empréstimo de fungíveis; gratuito\ne feneratício; limites de juros (Lei 1.521/51 + CC 591 + Súm.\n596 STF para IF); garantias; título executivo (CPC 784 III)."
+description: "Usar para pesquisar ou analisar: Contrato de Mútuo Civil. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Mútuo Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

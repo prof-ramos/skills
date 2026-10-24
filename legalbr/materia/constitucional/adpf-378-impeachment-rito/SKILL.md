@@ -5,8 +5,8 @@ title: "ADPF 378: Rito do Impeachment"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-378-impeachment-rito.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-378-impeachment-rito/SKILL.md"
 triggers:
   - "ADPF 378"
   - "impeachment rito"
@@ -16,10 +16,15 @@ triggers:
   - "chapa avulsa"
   - "Presidente da Câmara recebimento"
   - "defesa prévia impeachment"
-description: "ADPF 378 (red. Roberto Barroso, 17/12/2015): rito do impeachment\nde Presidente. Recebimento pelo Presidente da Câmara; defesa\nprévia; votação nominal e aberta (2/3); comissão especial por\nindicação dos líderes com voto aberto (chapa avulsa vedada);\nSenado faz novo juízo, instrui e julga; presidência do STF;\ncondenação por 2/3 + inabilitação 8 anos."
+description: "Usar para pesquisar ou analisar: ADPF 378: Rito do Impeachment. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 378: Rito do Impeachment
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

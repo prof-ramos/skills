@@ -5,8 +5,8 @@ title: "Acordo de Leniência (Lei 12.846/2013 + Lei 14.230/2021 + CADE)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/acordo-leniencia-lei-12846.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acordo-leniencia-lei-12846/SKILL.md"
 triggers:
   - "acordo de leniência"
   - "Lei 12.846/2013"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 12.529/2011"
   - "Tema 1.199 STF"
   - "leniência antitruste"
-description: "Acordo de leniência sob Lei 12.846/2013 art. 16 (CGU/AGU) + Lei\n14.230/2021 art. 17-B Lei 8.429 (ANPC do MP) + CADE Lei 12.529/2011\narts. 85-87: reduz multa em até 2/3 + isenção de publicação +\nproibição de contratar; NÃO isenta dano nem perdimento; STF\n2024-2026 (revisão por coação); ≠ delação premiada Lei\n12.850 (PJ × PF)."
+description: "Usar para pesquisar ou analisar: Acordo de Leniência (Lei 12.846/2013 + Lei 14.230/2021 + CADE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Leniência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.846/2013 (Lei Anticorrupção), art. 16
 

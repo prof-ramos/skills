@@ -5,8 +5,8 @@ title: "ADI 4029: Processo Legislativo de Medida Provisória (Comissão Mista)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adi-4029-processo-legislativo-mp.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adi-4029-processo-legislativo-mp/SKILL.md"
 triggers:
   - "ADI 4029"
   - "medida provisória rito"
@@ -16,10 +16,15 @@ triggers:
   - "Instituto Chico Mendes"
   - "modulação processo legislativo"
   - "princípio da deliberação parlamentar"
-description: "ADI 4029 (Luiz Fux, 08/03/2012): exige deliberação colegiada\nda comissão mista de MP (CF 62 §9); parecer de relator único\né inconstitucional. Modulação ex nunc preserva MPs já\nconvertidas. Diálogo com ADI 5127 (contrabando legislativo)."
+description: "Usar para pesquisar ou analisar: ADI 4029: Processo Legislativo de Medida Provisória (Comissão Mista). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 4029: Comissão Mista de MP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

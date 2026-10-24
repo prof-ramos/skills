@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/direito-aduaneiro-perdimento-regimes-especiais.md"
+sourcePath: "legalbr/materia/tributario/direito-aduaneiro-perdimento-regimes-especiais/SKILL.md"
 triggers:
   - "pena de perdimento"
   - "perdimento de mercadoria importada"
@@ -21,10 +21,15 @@ triggers:
   - "multa valor aduaneiro mercadoria não localizada"
   - "Convenção TIR caderneta aduaneira"
   - "Decreto 13.044 transporte TIR"
-description: "Direito aduaneiro sancionador: perdimento de mercadoria e veículo,\ninterposição fraudulenta e multa substitutiva (DL 37/66 e DL 1.455/76);\nduplo grau e CEJUL (Lei 14.651/2023); drawback, entreposto e Regulamento\nAduaneiro."
+description: "Usar para pesquisar ou analisar: Direito Aduaneiro, Pena de Perdimento e Regimes Especiais (DL 37/66 + DL 1.455/76 + Lei 14.651/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Aduaneiro: Perdimento, Interposição Fraudulenta e Regimes Especiais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

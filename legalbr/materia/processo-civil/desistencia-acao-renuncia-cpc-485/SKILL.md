@@ -5,8 +5,8 @@ title: "Desistência da Ação e Renúncia ao Direito (CPC 485 VIII + 487 III + 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/desistencia-acao-renuncia-cpc-485.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/desistencia-acao-renuncia-cpc-485/SKILL.md"
 triggers:
   - "desistência da ação"
   - "homologação de desistência"
@@ -19,10 +19,15 @@ triggers:
   - "honorários na desistência"
   - "desistência da execução"
   - "Súm. 153 STJ"
-description: "Desistência da ação (CPC 485 VIII e §§4-5: até a sentença; após a\ncontestação depende de consentimento do réu) e renúncia ao direito\n(CPC 487 III c, coisa julgada material): homologação (CPC 200 p.\núnico), custas e honorários (CPC 90), oposição da Fazenda condicionando\na desistência à renúncia (Lei 9.469/97 art. 3º + Tema 524 STJ) e\ndesistência da execução (CPC 775 + Súm. 153 STJ)."
+description: "Usar para pesquisar ou analisar: Desistência da Ação e Renúncia ao Direito (CPC 485 VIII + 487 III + Tema 524 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desistência da Ação e Renúncia ao Direito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinções fundamentais
 

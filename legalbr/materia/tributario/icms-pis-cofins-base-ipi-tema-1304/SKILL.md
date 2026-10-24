@@ -5,8 +5,8 @@ title: "ICMS, PIS e COFINS na Base de Cálculo do IPI (Tema 1.304 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/icms-pis-cofins-base-ipi-tema-1304.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-pis-cofins-base-ipi-tema-1304/SKILL.md"
 triggers:
   - "Tema 1.304 STJ"
   - "ICMS base IPI"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 4.502 art 14"
   - "tese filhote tema 69"
   - "cálculo por dentro IPI"
-description: "Tema 1.304 STJ (1ª Seção, 10/12/2025): NÃO se pode excluir ICMS,\nPIS e COFINS da base de cálculo do IPI, com fundamento no conceito\nde \"valor da operação\" (CTN 47 II + Lei 4.502/64 art. 14 II). O\nvalor da operação já engloba esses tributos (cálculo por dentro).\nRejeitada analogia ao Tema 69 STF (matérias e bases distintas)."
+description: "Usar para pesquisar ou analisar: ICMS, PIS e COFINS na Base de Cálculo do IPI (Tema 1.304 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS, PIS e COFINS na Base de Cálculo do IPI (Tema 1.304 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.304 STJ, 1ª Seção)
 

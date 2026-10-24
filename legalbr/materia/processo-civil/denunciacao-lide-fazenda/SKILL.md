@@ -5,8 +5,8 @@ title: "Denunciação à Lide e Fazenda Pública (Tema 940 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/denunciacao-lide-fazenda.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/denunciacao-lide-fazenda/SKILL.md"
 triggers:
   - "denunciação à lide fazenda"
   - "Tema 940 STF"
@@ -18,10 +18,15 @@ triggers:
   - "ADI 3.943"
   - "intervenção terceiro fazenda"
   - "vedação denunciação servidor"
-description: "Denunciação à lide envolvendo a Fazenda Pública (CPC 125 + Tema\n940 STF, dupla garantia): denunciação do servidor não obrigatória e\nusualmente indeferida em ação de responsabilidade objetiva contra o\nEstado (CF 37 §6, o agente é parte ilegítima na ação da vítima);\nfundamentos (não-ampliação cognitiva, proteção da vítima); alternativa: ação\nregressiva autônoma após pagamento; cabimento residual de denunciação\nem hipóteses contratuais; intervenção anômala da União (Lei 9.469\nart. 5) como instituto distinto; ADI 3.943."
+description: "Usar para pesquisar ou analisar: Denunciação à Lide e Fazenda Pública (Tema 940 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denunciação à Lide e Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

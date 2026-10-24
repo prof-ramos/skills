@@ -62,14 +62,14 @@
     },
     {
       "title": "Legal Skills — Hub LegalSkillsBR",
-      "description": "Hub e acervo geral do ecossistema com 2.149 habilidades jurídicas brasileiras cobrindo 299 peças processuais e 1.850 teses de mérito.",
+      "description": "Protocolo de verificação e acervo com 304 formas e 1.851 matérias de direito brasileiro.",
       "skills": [
         "legalbr"
       ]
     },
     {
       "title": "Legal Skills — Formas (Minutas & Peças)",
-      "description": "299 minutas e peças processuais: petições iniciais, recursos, contestações, pareceres, contratos e decisões judiciais (LegalSkillsBR).",
+      "description": "304 minutas e peças processuais: petições iniciais, recursos, contestações, pareceres, contratos e decisões judiciais (LegalSkillsBR).",
       "skills": [
         "acao-alimentos",
         "acao-anulatoria",
@@ -183,6 +183,7 @@
         "defesa-tomada-contas-especial",
         "defesa-trabalhista",
         "denuncia-ministerio-publico",
+        "denuncia-tcu",
         "denunciacao-lide",
         "desaforamento-juri",
         "despacho-saneador",
@@ -243,6 +244,7 @@
         "mandado-seguranca",
         "mandado-seguranca-trabalhista",
         "mandado-seguranca-tributario",
+        "manifestacao-falabr",
         "manifestacao-mp-controle-constitucionalidade",
         "manifestacao-sobre-provas",
         "mediacao-extrajudicial-defensoria",
@@ -265,8 +267,10 @@
         "parecer-mp-civel",
         "parecer-mp-execucao-penal",
         "parecer-mp-recursal",
+        "parecer-risco-publicacao",
         "pedido-falencia",
         "pedido-indulto",
+        "pedido-lai",
         "pedido-redirecionamento-execucao-fiscal",
         "pedido-refugio-conare",
         "pedido-remissao-eca",
@@ -310,6 +314,7 @@
         "recurso-especial",
         "recurso-extraordinario",
         "recurso-inominado",
+        "recurso-lai",
         "recurso-licitacao",
         "recurso-ordinario-constitucional",
         "recurso-ordinario-trabalhista",
@@ -453,6 +458,7 @@
         "estabilidade-servidor-estagio-probatorio-3-anos",
         "estabilidade-servidor-estagio-probatorio-3-anos-tema-1097",
         "execucao-fazenda-precatorios-rpv",
+        "fatos-agentes-publicos",
         "ferias-30-dias-advogados-uniao-tema-1063",
         "formacao-continuada-profissionais-educacao-ldb-67",
         "foro-privilegiado-lei-8038",

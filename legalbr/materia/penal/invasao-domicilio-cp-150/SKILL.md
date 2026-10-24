@@ -5,8 +5,8 @@ title: "Invasão de Domicílio (CP 150 + CF 5 XI + Tema 280 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/invasao-domicilio-cp-150.md"
+version: 2
+sourcePath: "legalbr/materia/penal/invasao-domicilio-cp-150/SKILL.md"
 triggers:
   - "invasão de domicílio"
   - "CP 150"
@@ -18,10 +18,15 @@ triggers:
   - "busca domiciliar"
   - "consentimento do morador"
   - "entrada sem mandado"
-description: "Invasão de domicílio sob CP 150 + CF 5 XI: caput (det. 1-3m);\nqualificadoras §1 (noite + lugar ermo + violência + arma + 2+\npessoas); §3 excludentes (dia + ordem judicial OU flagrante/\nsocorro/desastre); §4 conceito amplo de \"casa\"; STF Tema 280\n(fundadas razões para entrada sem mandado); Tema 1.208 STF\n(pressupostos de validade do consentimento do morador, pendente)."
+description: "Usar para pesquisar ou analisar: Invasão de Domicílio (CP 150 + CF 5 XI + Tema 280 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Invasão de Domicílio (CP 150)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo objetivo (caput)
 

@@ -5,8 +5,8 @@ title: "Negociado sobre o Legislado (Tema 1.046 STF + ARE 1.121.633)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/negociado-legislado-tema-1046.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/negociado-legislado-tema-1046/SKILL.md"
 triggers:
   - "Tema 1.046"
   - "ARE 1.121.633"
@@ -19,10 +19,15 @@ triggers:
   - "patamar civilizatório mínimo"
   - "horas in itinere"
   - "banco de horas"
-description: "Tema 1.046 STF (ARE 1.121.633, Min. Gilmar Mendes, 02/06/2022): são\nconstitucionais acordos e convenções coletivas que limitem ou afastem\ndireitos trabalhistas, dispensada contrapartida específica explícita,\ndesde que respeitados direitos absolutamente indisponíveis (CF 7;\nCLT 611-A/611-B). Adequação setorial negociada; patamar civilizatório\nmínimo; aplicação imediata sem modulação."
+description: "Usar para pesquisar ou analisar: Negociado sobre o Legislado (Tema 1.046 STF + ARE 1.121.633). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Negociado sobre o Legislado (Tema 1.046 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

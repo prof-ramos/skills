@@ -5,8 +5,8 @@ title: "Fidelidade Partidária (STF ADI 5081 + TSE 22.610 + Súm. 67)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/fidelidade-partidaria-stf-tema-2.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/fidelidade-partidaria-stf-tema-2/SKILL.md"
 triggers:
   - "fidelidade partidária"
   - "ADI 5081"
@@ -18,10 +18,15 @@ triggers:
   - "mandato pertence partido"
   - "perda mandato deputado"
   - "janela partidária"
-description: "Fidelidade partidária — evolução jurisprudencial: STF (MS 26.602,\n26.603, 26.604 — 2007) reconheceu que **mandato pertence ao\npartido** no sistema **proporcional** (deputados + vereadores).\nTSE Resolução **22.610/2007** regulou. **STF ADI 5.081 (2015)**:\nfidelidade **não se aplica** ao sistema **majoritário** (Presidente,\nSenador, Governador, Prefeito) — Súm. 67 TSE consolidou.\n**Justa causa** para desfiliação (sem perda do mandato): fusão +\ncriação de partido + desvio do programa partidário + grave\ndiscriminação pessoal. **EC 91/2016**: janela partidária a cada\nlegislatura (30 dias). **EC 111/2021 + Reforma**: regras adicionais.\nLei 9.096/95 + 13.165/2015 + 13.488/2017."
+description: "Usar para pesquisar ou analisar: Fidelidade Partidária (STF ADI 5081 + TSE 22.610 + Súm. 67). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fidelidade Partidária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

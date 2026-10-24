@@ -5,8 +5,8 @@ title: "Princípios do Direito Penal (CP 1 + CF 5 + intervenção mínima + ofen
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/principios-penais-cp-1.md"
+version: 2
+sourcePath: "legalbr/materia/penal/principios-penais-cp-1/SKILL.md"
 triggers:
   - "princípios do direito penal"
   - "reserva legal penal"
@@ -19,10 +19,15 @@ triggers:
   - "HC 84.412 STF"
   - "princípio da culpabilidade"
   - "princípio da humanidade da pena"
-description: "Princípios penais: CP 1 + CF 5 XXXIX legalidade ESTRITA (lex\npraevia + scripta + stricta + certa); INTERVENÇÃO MÍNIMA\n(subsidiariedade + fragmentariedade, ultima ratio); OFENSIVIDADE\n(lesão a bem jurídico); INSIGNIFICÂNCIA (STF HC 84.412, 4\nvetores cumulativos MARI); CULPABILIDADE como limite (CP 59);\nPROPORCIONALIDADE + HUMANIDADE; pessoalidade (XLV); SV 56 STF."
+description: "Usar para pesquisar ou analisar: Princípios do Direito Penal (CP 1 + CF 5 + intervenção mínima + ofensividade). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios do Direito Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 1 + CF 5 XXXIX: LEGALIDADE PENAL ESTRITA
 

@@ -5,8 +5,8 @@ title: "ADI 5874: Indulto Natalino (Limites Constitucionais)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/adi-5874-indulto-natalino.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adi-5874-indulto-natalino/SKILL.md"
 triggers:
   - "ADI 5874"
   - "indulto natalino"
@@ -16,10 +16,15 @@ triggers:
   - "vedação indulto corrupção"
   - "indulto crimes hediondos"
   - "ampliação indevida indulto"
-description: "ADI 5874 (rel. Barroso, julg. 09/05/2019): STF julgou IMPROCEDENTE\n(7x4) e declarou CONSTITUCIONAL o Dec. 9.246/2017 (indulto natalino\nTemer). Barroso (relator) ficou VENCIDO; prevaleceu Alexandre de\nMoraes. Indulto é discricionário (CF 84 XII), mas há limites legais:\nLei 8.072 (vedação a hediondos) e vedação a corrupção/lavagem\n(Pacote Anticrime). Reincidência mantém efeitos secundários (Súm. 631 STJ)."
+description: "Usar para pesquisar ou analisar: ADI 5874: Indulto Natalino (Limites Constitucionais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5874: Indulto Natalino
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

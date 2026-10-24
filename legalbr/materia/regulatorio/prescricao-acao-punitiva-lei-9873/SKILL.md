@@ -5,8 +5,8 @@ title: "Prescrição da Ação Punitiva da Administração Federal (Lei 9.873/19
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/prescricao-acao-punitiva-lei-9873.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/prescricao-acao-punitiva-lei-9873/SKILL.md"
 triggers:
   - "Lei 9.873 prescrição"
   - "prescrição ação punitiva administração federal"
@@ -17,10 +17,15 @@ triggers:
   - "Temas 324 a 331 STJ"
   - "decadência multa administrativa federal"
   - "paralisação por três anos processo administrativo"
-description: "Regime completo da Lei 9.873/1999: prazo quinquenal da ação punitiva\nfederal no poder de polícia, intercorrente trienal (art. 1º §1º), prazo\npenal quando o fato é crime (§2º), execução da multa (art. 1º-A) e causas\nde interrupção (arts. 2º e 2º-A), com as teses dos Temas 324 a 331 STJ\n(REsp 1.115.078/RS) e a Súm. 467 STJ. Preliminar padrão em PAS de\nagências, IBAMA e BACEN e defesa central nos embargos à execução da multa."
+description: "Usar para pesquisar ou analisar: Prescrição da Ação Punitiva da Administração Federal (Lei 9.873/1999 + Temas 324 a 331 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição da Ação Punitiva da Administração Federal (Lei 9.873/1999)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Âmbito de aplicação
 

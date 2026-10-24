@@ -5,8 +5,8 @@ title: "AIRC: Ação de Impugnação de Registro de Candidatura (LC 64 art. 3-17
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/ait-impugnacao-registro-9504.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/ait-impugnacao-registro-9504/SKILL.md"
 triggers:
   - "AIRC"
   - "ação impugnação registro candidatura"
@@ -17,10 +17,15 @@ triggers:
   - "RRC"
   - "registro candidatura"
   - "impugnação Ministério Público eleitoral"
-description: "AIRC (Ação de Impugnação de Registro de Candidatura), **LC 64/90\narts. 3-16**. Cabimento: impugnar registro do candidato em razão de\ninelegibilidade (LC 64 art. 1 + LC 135 Ficha Limpa) ou de não\npreenchimento de condições de elegibilidade (CF 14 §3). **Prazo**:\n**5 dias** da publicação do pedido de registro (DRAP/RRC).\n**Legitimados ativos**: candidato + partido + coligação + MP\neleitoral. **Defesa**: 7 dias. Procedimento sumário com instrução\ncélere. Recurso: TRE → TSE → STF (matéria constitucional). Lei\n9.504 art. 11: registro até 15 de agosto. Distingue de **AIJE**\n(LC 64 art. 22) + **AIME** (após diplomação)."
+description: "Usar para pesquisar ou analisar: AIRC: Ação de Impugnação de Registro de Candidatura (LC 64 art. 3-17). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # AIRC: Ação de Impugnação de Registro de Candidatura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

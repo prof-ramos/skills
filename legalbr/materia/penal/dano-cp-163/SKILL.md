@@ -5,8 +5,8 @@ title: "Dano (CP 163-167)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/dano-cp-163.md"
+version: 2
+sourcePath: "legalbr/materia/penal/dano-cp-163/SKILL.md"
 triggers:
   - "crime de dano"
   - "CP 163"
@@ -17,10 +17,15 @@ triggers:
   - "dano patrimônio público"
   - "CP 164 introdução de animais"
   - "ação penal dano"
-description: "Dano sob CP 163-167: caput det. 1-6 meses (ação privada, par.\núnico III ação pública condicionada); qualificadoras (violência,\nexplosivo, patrimônio público, motivo egoístico); CP 164\nintrodução prejudicial; CP 165 dano em coisa de valor artístico;\nCP 166 alteração local protegido; CP 167 ação penal."
+description: "Usar para pesquisar ou analisar: Dano (CP 163-167). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 163 caput)
 

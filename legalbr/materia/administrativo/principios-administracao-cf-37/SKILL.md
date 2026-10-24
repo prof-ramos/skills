@@ -5,8 +5,8 @@ title: "Princípios da Adm Pública, LIMPE (CF 37 + SV 13 + Tema 1.000)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/principios-administracao-cf-37.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/principios-administracao-cf-37/SKILL.md"
 triggers:
   - "princípios da administração pública"
   - "LIMPE"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.000 STF"
   - "EC 19/1998"
   - "Tema 1.199 STF"
-description: "CF 37 LIMPE (legalidade + impessoalidade + moralidade + publicidade\n+ eficiência EC 19); SV 13 NEPOTISMO até 3º grau (parentes/cônjuge\nem comissão); cargos POLÍTICOS em debate (Tema 1.000 STF, julgamento\nsuspenso, sem tese); Lei 14.230/2021 + Tema 1.199 STF (dolo +\nirretroatividade); Lei 9.784 art. 2 (positivação); EC 132/2023\ntransparência tributária."
+description: "Usar para pesquisar ou analisar: Princípios da Adm Pública, LIMPE (CF 37 + SV 13 + Tema 1.000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios da Administração Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 37 caput: LIMPE
 

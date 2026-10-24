@@ -6,7 +6,7 @@ category: "materia"
 materia: "consultoria"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/securitizacao-fidc-cri-cra.md"
+sourcePath: "legalbr/materia/consultoria/securitizacao-fidc-cri-cra/SKILL.md"
 triggers:
   - "securitização"
   - "FIDC"
@@ -16,10 +16,15 @@ triggers:
   - "fundo de investimento em direitos creditórios"
   - "cessão fiduciária"
   - "true sale"
-description: "Securitização: FIDC (RCVM 175/22 substituiu 356/01), CRI (Lei 9.514/97\n+ Lei 14.430/22), CRA (Lei 11.076/04 + Lei 14.430/22), CRA do Agro\n(Lei 11.076 art. 23 + Lei 13.986/20). True sale vs cessão fiduciária,\nestrutura SPE, risco de recebíveis, registro CVM, distribuição\npública (RCVM 160)."
+description: "Usar para pesquisar ou analisar: Securitização (FIDC, CRI, CRA, CRA do Agro). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Securitização (FIDC, CRI, CRA, CRA do Agro)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

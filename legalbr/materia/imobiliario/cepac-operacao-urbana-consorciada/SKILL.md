@@ -5,8 +5,8 @@ title: "CEPAC + Operação Urbana Consorciada (Lei 10.257 + Estatuto da Cidade)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/cepac-operacao-urbana-consorciada.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/cepac-operacao-urbana-consorciada/SKILL.md"
 triggers:
   - "CEPAC"
   - "certificado potencial adicional construção"
@@ -17,10 +17,15 @@ triggers:
   - "outorga onerosa direito construir"
   - "Porto Maravilha"
   - "solo criado"
-description: "CEPAC (Certificado de Potencial Adicional de Construção): instrumento\nurbanístico do **Estatuto da Cidade (Lei 10.257/2001 arts. 34 + 32)**.\nVinculado a **Operação Urbana Consorciada** (OUC): área específica\ncom plano + intervenções públicas. Permite **construção acima do\ncoeficiente básico** mediante pagamento. **Município emite** e vende\nem leilões; **CVM regula** o CEPAC como valor mobiliário. Recursos vinculados às obras\nda OUC. **Tipo \"solo criado\"**: valor de mercado do potencial\nconstrutivo. Casos: SP (Faria Lima + Água Branca + Centro), Rio\n(Porto Maravilha, a maior). Coordenação com Outorga Onerosa do\nDireito de Construir (Lei 10.257 arts. 28-31)."
+description: "Usar para pesquisar ou analisar: CEPAC + Operação Urbana Consorciada (Lei 10.257 + Estatuto da Cidade). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CEPAC + Operação Urbana Consorciada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

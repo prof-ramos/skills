@@ -5,8 +5,8 @@ title: "LGPD no Setor Público (Lei 13.709/2018 arts. 23-32 + ANPD)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/lgpd-setor-publico.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lgpd-setor-publico/SKILL.md"
 triggers:
   - "LGPD setor público"
   - "Lei 13.709/2018"
@@ -19,10 +19,15 @@ triggers:
   - "art. 23 LGPD"
   - "art. 26 LGPD"
   - "LAI LGPD"
-description: "LGPD aplicada ao setor público (Lei 13.709/2018 arts. 23-32):\ntratamento de dados por entes públicos para execução de\npolíticas; bases legais (art. 7 + 11); comunicação entre entes\nsó com fundamento legal específico; encarregado obrigatório\n(art. 23 III); compartilhamento art. 26; sanções da Lei 13.709\nart. 52 (advertência + publicização + bloqueio + eliminação +\nsuspensões); multa não alcança órgãos públicos (art. 52 §3)."
+description: "Usar para pesquisar ou analisar: LGPD no Setor Público (Lei 13.709/2018 arts. 23-32 + ANPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD no Setor Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

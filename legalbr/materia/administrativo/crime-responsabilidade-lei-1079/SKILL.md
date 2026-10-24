@@ -5,8 +5,8 @@ title: "Crime de Responsabilidade (Lei 1.079/1950 + ADI 1.628 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/crime-responsabilidade-lei-1079.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/crime-responsabilidade-lei-1079/SKILL.md"
 triggers:
   - "crime de responsabilidade"
   - "Lei 1.079/1950"
@@ -18,10 +18,15 @@ triggers:
   - "2/3 Câmara dos Deputados"
   - "2/3 Senado"
   - "inabilitação 8 anos"
-description: "Crime de responsabilidade (Lei 1.079/1950 + CF 85 + 52 I-II):\ninfração político-administrativa praticada por Presidente,\nMinistros, AGU, Comandantes, Governadores, Ministros TC, Procurador\nGeral; rito (CD admissibilidade 2/3 → SF julga 2/3); pena (perda\ndo cargo + inabilitação 8 anos); ADPF 378 + STF MS 21.689\nconsolidaram rito; não confunde com crime comum."
+description: "Usar para pesquisar ou analisar: Crime de Responsabilidade (Lei 1.079/1950 + ADI 1.628 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crime de Responsabilidade (Lei 1.079/1950)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Formação Continuada dos Profissionais da Educação Básica Pública (
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/formacao-continuada-profissionais-educacao-ldb-67.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/formacao-continuada-profissionais-educacao-ldb-67/SKILL.md"
 triggers:
   - "Lei 15.462 formação educação"
   - "LDB 67 II"
@@ -17,10 +17,15 @@ triggers:
   - "pós-graduação profissional da educação"
   - "pesquisa na área da educação afastamento"
   - "plano de carreira magistério público"
-description: "Valorização dos profissionais da educação básica pública no LDB 67 II:\nformação continuada, licença periódica remunerada e atividades abrangidas\npela Lei 15.462/2026, sem criar afastamento automático ou ilimitado."
+description: "Usar para pesquisar ou analisar: Formação Continuada dos Profissionais da Educação Básica Pública (LDB 67 II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Formação Continuada dos Profissionais da Educação Básica Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa e alcance
 

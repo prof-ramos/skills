@@ -5,8 +5,8 @@ title: "Despacho Saneador (Decisão de Saneamento)"
 category: "forma"
 materia: null
 documentType: "despacho-saneador"
-version: 1
-sourcePath: "lib/skills/official/forma/despacho-saneador.md"
+version: 2
+sourcePath: "legalbr/forma/despacho-saneador/SKILL.md"
 triggers:
   - "despacho saneador"
   - "decisão de saneamento e organização art. 357 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "distribuição do ônus da prova art. 373 §1º"
   - "admissão dos meios de prova"
   - "saneamento compartilhado art. 357 §3º"
-description: "Decisão de saneamento e organização (art. 357 CPC): resolve questões\nprocessuais pendentes (inc. I); delimita PONTOS CONTROVERTIDOS DE FATO\ne meios de prova (inc. II); define ônus da prova, estático ou dinâmico\n(art. 373 §1º e inc. III); delimita questões de direito (inc. IV); designa\nAIJ (inc. V); abre prazo de 5 dias do §1º (estabilização). Antes de sanear,\nverificar arts. 355 e 356 (julgamento antecipado total ou parcial)."
+description: "Usar para redigir ou revisar: Despacho Saneador (Decisão de Saneamento). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Despacho Saneador
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e natureza
 

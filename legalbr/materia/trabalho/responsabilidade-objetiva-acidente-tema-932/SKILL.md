@@ -5,8 +5,8 @@ title: "Responsabilidade Objetiva do Empregador por Acidente de Trabalho (Tema 9
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/responsabilidade-objetiva-acidente-tema-932.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/responsabilidade-objetiva-acidente-tema-932/SKILL.md"
 triggers:
   - "Tema 932 STF"
   - "responsabilidade objetiva acidente trabalho"
@@ -17,10 +17,15 @@ triggers:
   - "atividade habitualmente desenvolvida"
   - "acidente trabalho civil"
   - "Súm. 229 STF"
-description: "Tema 932 STF (RE 828.040, Rel. Min. Alexandre de Moraes,\nmérito concluído em 12/09/2019, tese fixada em 12/03/2020): o empregador\nRESPONDE OBJETIVAMENTE por acidente de trabalho quando a\natividade normalmente desenvolvida apresentar, por sua\nnatureza, exposição habitual a RISCO ESPECIAL acima do\nordinário (art. 927 p.ún. CC), compatível com CF 7 XXVIII\n(que exige dolo/culpa em regra). Em atividades de risco\nespecial: responsabilidade objetiva, dispensada a culpa."
+description: "Usar para pesquisar ou analisar: Responsabilidade Objetiva do Empregador por Acidente de Trabalho (Tema 932 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Objetiva por Acidente de Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

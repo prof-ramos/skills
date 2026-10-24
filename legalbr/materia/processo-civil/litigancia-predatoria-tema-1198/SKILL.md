@@ -5,8 +5,8 @@ title: "Litigância Predatória + Emenda Inicial (Tema 1198 STJ + CPC 77 + 80 + 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/litigancia-predatoria-tema-1198.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/litigancia-predatoria-tema-1198/SKILL.md"
 triggers:
   - "Tema 1198 STJ"
   - "litigância predatória"
@@ -22,10 +22,15 @@ triggers:
   - "múltiplas ações repetitivas"
   - "litigante contumaz"
   - "documentos comprobatórios"
-description: "Tese do Tema 1198 STJ (Corte Especial, mérito julgado em\n13/03/2025): constatados indícios de litigância abusiva, o juiz\npode, de modo fundamentado e com razoabilidade no caso concreto,\nexigir EMENDA à petição inicial (CPC 321) para demonstrar o\ninteresse de agir e a autenticidade da postulação, respeitadas\nas regras de distribuição do ônus da prova. Documentos\ncomprobatórios (procuração, identificação, comprovante de\nendereço) são exigências possíveis, sem ofensa ao acesso à\njustiça (CF 5 XXXV)."
+description: "Usar para pesquisar ou analisar: Litigância Predatória + Emenda Inicial (Tema 1198 STJ + CPC 77 + 80 + 321). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Litigância Predatória + Emenda à Inicial (Tema 1198 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1198 STJ)
 

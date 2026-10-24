@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "informacoes-mandado-seguranca"
 version: 2
-sourcePath: "lib/skills/official/forma/informacoes-mandado-seguranca.md"
+sourcePath: "legalbr/forma/informacoes-mandado-seguranca/SKILL.md"
 triggers:
   - "informações em mandado de segurança"
   - "informações autoridade coatora"
@@ -16,10 +16,15 @@ triggers:
   - "procurador autoridade coatora"
   - "informações prestadas pela autoridade coatora"
   - "notificação da autoridade coatora para prestar informações"
-description: "Informações em mandado de segurança (Lei 12.016/2009 art. 7 I):\nprazo de 10 dias da notificação à autoridade coatora; conteúdo:\nato impugnado + legalidade + preliminares + mérito; intimação\npessoal do ente público para integração à lide (art. 7 II);\ndiferenciar informações (autoridade) e manifestação do PJ (ente)."
+description: "Usar para redigir ou revisar: Informações da Autoridade Coatora em Mandado de Segurança. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Informações da Autoridade Coatora em Mandado de Segurança
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

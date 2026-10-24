@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "agravo-execucao-penal"
 version: 2
-sourcePath: "lib/skills/official/forma/agravo-execucao-penal.md"
+sourcePath: "legalbr/forma/agravo-execucao-penal/SKILL.md"
 triggers:
   - "agravo em execução penal"
   - "art. 197 LEP"
@@ -17,10 +17,15 @@ triggers:
   - "agravo contra decisão de progressão ou regressão de regime"
   - "agravo contra decisão sobre livramento condicional remição ou indulto"
   - "agravo contra decisão sobre RDD ou saída temporária"
-description: "Agravo em execução penal sob o art. 197 da LEP e rito subsidiário do\nRESE (CPP 581-592): recurso único contra decisões do Juízo da\nExecução, sem efeito suspensivo, com prazo de cinco dias; objeto\namplo abrangendo progressão, regressão, livramento condicional,\nremição, indulto, unificação, detração, RDD e saída temporária;\njuízo de retratação e legitimidade do MP, defesa e apenado."
+description: "Usar para redigir ou revisar: Agravo em Execução Penal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo em Execução Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

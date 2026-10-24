@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-ordinario-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-ordinario-trabalhista.md"
+sourcePath: "legalbr/forma/recurso-ordinario-trabalhista/SKILL.md"
 triggers:
   - "recurso ordinário trabalhista"
   - "RO ao TRT art. 895 CLT"
@@ -15,10 +15,15 @@ triggers:
   - "prazo de 8 dias úteis"
   - "depósito recursal e custas"
   - "sucedâneo da apelação no processo do trabalho"
-description: "Recurso ordinário trabalhista sob a CLT (art. 895): cabimento contra\nsentenças e decisões originárias dos TRTs; prazo de 8 dias úteis;\npreparo com custas (art. 789) e depósito recursal pela DJT (Ato\nSEGJUD.GP); efeito devolutivo em profundidade (Súm. 393 TST) e causa\nmadura (art. 1.013 §3º CPC); dialeticidade abrandada (Súm. 422 TST\nIII); prequestionamento (Súm. 297) como condição da futura revista."
+description: "Usar para redigir ou revisar: Recurso Ordinário Trabalhista (TRT). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Ordinário Trabalhista (TRT)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 895 CLT)
 

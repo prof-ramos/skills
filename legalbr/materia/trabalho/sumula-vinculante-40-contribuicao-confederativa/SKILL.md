@@ -5,8 +5,8 @@ title: "Súmula Vinculante 40 - Contribuição Confederativa Só de Filiados"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/sumula-vinculante-40-contribuicao-confederativa.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sumula-vinculante-40-contribuicao-confederativa/SKILL.md"
 triggers:
   - "SV 40"
   - "Súmula Vinculante 40"
@@ -18,10 +18,15 @@ triggers:
   - "ARE 1.018.459"
   - "reforma trabalhista contribuição sindical"
   - "OJ 17 SDC TST"
-description: "SV 40 STF (11/03/2015, conversão da Súm. 666): \"A contribuição\nconfederativa de que trata o art. 8º, IV, CF, só é exigível\ndos filiados ao sindicato respectivo.\" Distingue-se da\ncontribuição sindical (CLT 578, facultativa pós-Lei 13.467/2017)\ne da contribuição assistencial (Tema 935 RG, 2023: pode ser\ncobrada de não-filiados se houver direito de oposição)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 40 - Contribuição Confederativa Só de Filiados. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 40 - Contribuição Confederativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Lei Henry Borel (Lei 14.344/2022): Violência Doméstica vs. Criança/Ad
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lei-henry-borel-14344-2022.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-henry-borel-14344-2022/SKILL.md"
 triggers:
   - "Lei 14.344"
   - "Lei Henry Borel"
@@ -16,10 +16,15 @@ triggers:
   - "hediondo homicídio menor 14"
   - "Vara Violência Doméstica criança"
   - "descumprimento medida criança"
-description: "Lei Henry Borel, **Lei 14.344/2022** (24/05/2022): cria\n**microssistema de proteção** a crianças e adolescentes vítimas\nde violência doméstica e familiar. Inspirada na Lei Maria da Penha\n(Lei 11.340/2006). **Hediondo**: homicídio contra menor de 14 anos\n(CP 121 §2 IX + §2º-B + Lei 8.072). **Medidas protetivas de urgência**:\nafastamento + restrições + suspensão de armas, concedidas por\njuiz a pedido de MP + autoridade policial + Conselho Tutelar +\npessoa. **Descumprimento** (art. 25): detenção 3 meses-2 anos. Vedação\nexpressa (ECA art. 226 §1): **Lei 9.099 (JEC) não se aplica** a crimes contra menores.\nCoordenação com ECA + Lei Maria da Penha + Lei 13.431/17 (depoimento\nespecial)."
+description: "Usar para pesquisar ou analisar: Lei Henry Borel (Lei 14.344/2022): Violência Doméstica vs. Criança/Adolescente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Henry Borel (Lei 14.344/2022)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "ADIs 6298/6299/6300/6305: Juiz das Garantias (Pacote Anticrime)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/adi-6298-juiz-garantias.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/adi-6298-juiz-garantias/SKILL.md"
 triggers:
   - "ADI 6298"
   - "ADI 6299"
@@ -17,10 +17,15 @@ triggers:
   - "CPP 3-A 3-B 3-C 3-D 3-E 3-F"
   - "sistema acusatório"
   - "imparcialidade juiz"
-description: "ADIs 6298/6299/6300/6305 (red. Barroso, 24/08/2023): juiz das\ngarantias (CPP 3-A a 3-F, Lei 13.964/2019) é constitucional.\nSistema acusatório separa investigação e mérito. Modulação:\n12 meses; aplicável a inquéritos novos; ressalvas."
+description: "Usar para pesquisar ou analisar: ADIs 6298/6299/6300/6305: Juiz das Garantias (Pacote Anticrime). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADIs 6298/6299/6300/6305: Juiz das Garantias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

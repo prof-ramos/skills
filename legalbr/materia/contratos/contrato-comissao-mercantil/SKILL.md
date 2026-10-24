@@ -5,8 +5,8 @@ title: "Contrato de Comissão Mercantil"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-comissao-mercantil.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-comissao-mercantil/SKILL.md"
 triggers:
   - "contrato de comissão"
   - "comissão mercantil"
@@ -18,10 +18,15 @@ triggers:
   - "CC 708"
   - "jus retentionis"
   - "comissionista"
-description: "Comissão mercantil (CC 693-709): comissário em nome próprio\npor conta do comitente; del credere (698); jus retentionis\n(708); distinção com mandato, representação e agência."
+description: "Usar para pesquisar ou analisar: Contrato de Comissão Mercantil. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Comissão Mercantil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

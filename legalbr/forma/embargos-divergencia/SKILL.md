@@ -5,8 +5,8 @@ title: "Embargos de Divergência"
 category: "forma"
 materia: null
 documentType: "embargos-divergencia"
-version: 4
-sourcePath: "lib/skills/official/forma/embargos-divergencia.md"
+version: 2
+sourcePath: "legalbr/forma/embargos-divergencia/SKILL.md"
 triggers:
   - "embargos de divergência"
   - "arts. 1.043-1.044 CPC"
@@ -20,10 +20,15 @@ triggers:
   - "dissídio entre turmas do STJ"
   - "interrupção do prazo do RE pendente"
   - "embargos de divergência em REsp ou RE"
-description: "Embargos de divergência (CPC 1.043-1.044; RISTJ 266-267; RISTF\n330-336): recurso de uniformização interna do STJ e do STF contra\ndivergência entre órgãos fracionários em REsp ou RE; hipóteses do\nart. 1.043 I e III; requisitos de cotejo analítico, similitude\nfática, paradigma vigente e prequestionamento; prazo de 15 dias e\ninterrupção do prazo do RE pendente."
+description: "Usar para redigir ou revisar: Embargos de Divergência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Divergência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

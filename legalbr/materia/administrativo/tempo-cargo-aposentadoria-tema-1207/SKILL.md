@@ -5,8 +5,8 @@ title: "5 anos no Cargo de Aposentadoria com Acesso a Classe Superior (Tema 1.20
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/tempo-cargo-aposentadoria-tema-1207.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/tempo-cargo-aposentadoria-tema-1207/SKILL.md"
 triggers:
   - "Tema 1.207 STF"
   - "5 anos cargo aposentadoria"
@@ -16,10 +16,15 @@ triggers:
   - "EC 41/2003"
   - "EC 47/2005"
   - "paridade integralidade"
-description: "Tema 1.207 STF (RE 1.322.195, 01/04/2022): para servidor\nacessar APOSENTADORIA com INTEGRALIDADE e PARIDADE (regras\nde transição EC 41/03 + EC 47/05), o requisito de 5 ANOS\nDE EFETIVO EXERCÍCIO no cargo é CONTADO quando há promoção\npor acesso a classe superior do mesmo cargo, sem nova posse.\nDireito adquirido às regras de transição. Lei 8.112 + LC."
+description: "Usar para pesquisar ou analisar: 5 anos no Cargo de Aposentadoria com Acesso a Classe Superior (Tema 1.207 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # 5 Anos no Cargo + Promoção por Acesso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 
