@@ -5,8 +5,8 @@ title: "CIDE Combustíveis + ICMS Monofásico (CF 177 §4 + Lei 10.336/2001 + LC
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/cide-combustiveis-lei-10336.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cide-combustiveis-lei-10336/SKILL.md"
 triggers:
   - "CIDE combustíveis"
   - "Lei 10.336/2001"
@@ -20,10 +20,15 @@ triggers:
   - "RE 714.139"
   - "Convênio ICMS 199/2022"
   - "ADI 7.191"
-description: "CIDE-combustíveis CF 177 §4 (EC 33/2001) + Lei 10.336/2001:\nimportação + comercialização (gasolina + diesel + álcool +\nbiodiesel); alíquotas por DECRETO até limite legal (exceção\nparcial à anterioridade: só noventena); destinação VINCULADA\n(subsídios + ambiental + transporte); ADI 4.171 STF (créditos\nICMS); LC 192/2022 ICMS MONOFÁSICO + Convênio CONFAZ 199/2022;\nLC 194/2022 essencialidade (Tema 745 + RE 714.139)."
+description: "Usar para pesquisar ou analisar: CIDE Combustíveis + ICMS Monofásico (CF 177 §4 + Lei 10.336/2001 + LC 192/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CIDE Combustíveis + ICMS Monofásico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco constitucional (EC 33/2001)
 

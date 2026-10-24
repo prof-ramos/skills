@@ -5,8 +5,8 @@ title: "Derivativos: Swap, NDF, Opções e Netting (Lei 6.385 art. 2º + Lei 12.
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/derivativos-swap-ndf-netting.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/derivativos-swap-ndf-netting/SKILL.md"
 triggers:
   - "contrato de swap"
   - "swap cambial"
@@ -20,10 +20,15 @@ triggers:
   - "REsp 1.689.225"
   - "REsp 1.924.161"
   - "suitability Resolução CVM 30"
-description: "Regime dos derivativos (swap, NDF, opções, futuros): valores mobiliários\n(Lei 6.385/76 art. 2º, VII e VIII), registro em câmara como condição de\nvalidade (Lei 12.543/2011), CC 816 (não é jogo/aposta), netting e vencimento\nantecipado na insolvência (Lei 10.214/2001 + LRF arts. 119 VIII, 193, 193-A\ne 194), suitability (Res. CVM 30/2021) e cluster STJ: CDC e revisão por\nonerosidade não alcançam hedge empresarial; crédito de NDF sujeito à RJ."
+description: "Usar para pesquisar ou analisar: Derivativos: Swap, NDF, Opções e Netting (Lei 6.385 art. 2º + Lei 12.543/2011). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Derivativos: Swap, NDF, Opções e Netting
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

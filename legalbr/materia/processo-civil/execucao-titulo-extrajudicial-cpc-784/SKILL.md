@@ -5,8 +5,8 @@ title: "Execução de Título Extrajudicial (CPC 784-805)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/execucao-titulo-extrajudicial-cpc-784.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/execucao-titulo-extrajudicial-cpc-784/SKILL.md"
 triggers:
   - "acao de execucao"
   - "titulo extrajudicial"
@@ -19,10 +19,15 @@ triggers:
   - "liquidez certeza exigibilidade"
   - "principio menor onerosidade"
   - "Sum 393 STJ"
-description: "Execução por título extrajudicial (CPC 784-805): rol taxativo CPC 784;\npressupostos (liquidez, certeza, exigibilidade, CPC 786); citação\npara pagar em 3 dias (CPC 829); honorários fixos 10% (CPC 827);\nprincípio da menor onerosidade (CPC 805); embargos (CPC 914);\nfraude à execução (CPC 792); penhora (CPC 831)."
+description: "Usar para pesquisar ou analisar: Execução de Título Extrajudicial (CPC 784-805). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Execução de Título Extrajudicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 784, TÍTULOS EXTRAJUDICIAIS (ROL TAXATIVO)
 

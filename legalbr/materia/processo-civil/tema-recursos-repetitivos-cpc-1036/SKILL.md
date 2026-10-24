@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/tema-recursos-repetitivos-cpc-1036.md"
+sourcePath: "legalbr/materia/processo-civil/tema-recursos-repetitivos-cpc-1036/SKILL.md"
 triggers:
   - "recursos repetitivos"
   - "CPC art. 1.036"
@@ -14,10 +14,15 @@ triggers:
   - "Tema 660 STF"
   - "sobrestamento RG repetitivo"
   - "juízo retratação CPC 1.040"
-description: "CPC arts. 1.036-1.041: regime dos RECURSOS REPETITIVOS e\nREPERCUSSÃO GERAL no STF/STJ. Tese fixada VINCULA tribunais\ninferiores. Cabe: (i) sobrestamento de processos pendentes;\n(ii) juízo de retratação (1.040 II); (iii) reclamação ao\nSTF/STJ por descumprimento (CPC 988). Lei 11.418/2006."
+description: "Usar para pesquisar ou analisar: Recursos Repetitivos e RG (CPC 1.036 + 1.040 + Lei 11.418/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos Repetitivos + Repercussão Geral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

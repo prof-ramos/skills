@@ -5,8 +5,8 @@ title: "Mandado de Segurança"
 category: "forma"
 materia: null
 documentType: "mandado-seguranca"
-version: 3
-sourcePath: "lib/skills/official/forma/mandado-seguranca.md"
+version: 2
+sourcePath: "legalbr/forma/mandado-seguranca/SKILL.md"
 triggers:
   - "mandado de segurança"
   - "prova pré-constituída"
@@ -15,10 +15,15 @@ triggers:
   - "art. 5º LXIX CF Lei 12.016/2009"
   - "liminar e prazo decadencial de 120 dias"
   - "MS preventivo e repressivo"
-description: "Mandado de segurança (CF 5º LXIX e LXX; Lei 12.016/2009): direito\nlíquido e certo com prova pré-constituída; 120 dias do ato (art. 23);\nidentificação correta da autoridade coatora (art. 6º §3º; encampação\nna Súm. 628 STJ); pedido de liminar com fumus e periculum; sem\nhonorários (Súm. 105 STJ); efeitos patrimoniais não retroagem à\nimpetração (Súm. 271 STF); ADI 4.296 STF declarou inconstitucionais\nas vedações de liminar do art. 7º §2º e a audiência prévia\nobrigatória do art. 22 §2º."
+description: "Usar para redigir ou revisar: Mandado de Segurança. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CF 5º LXIX; Lei 12.016/2009 art. 1º)
 

@@ -5,8 +5,8 @@ title: "Aldir Blanc + Paulo Gustavo (Lei 14.017/2020 + LC 195/2022 + Lei 14.399/
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/aldir-blanc-paulo-gustavo-cultura.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/aldir-blanc-paulo-gustavo-cultura/SKILL.md"
 triggers:
   - "Lei Aldir Blanc"
   - "Lei 14.017/2020"
@@ -18,10 +18,15 @@ triggers:
   - "FNC"
   - "SNC CF 216-A"
   - "ADI 7.232"
-description: "Lei 14.017/2020 LAB1 (cultura emergencial COVID, R$ 3bi fundo\na fundo); Lei 14.150/2021 LAB2 prorrogação; LC 195/2022 PAULO\nGUSTAVO R$ 3,862bi (70% audiovisual + 30% demais); Lei 14.399/\n2022 PNAB R$ 3bi/ano por 5 anos (2023-2027), de caráter\npermanente; FNC + SNC CF 216-A; CF 215-216 cultura; ADI 7.232\nSTF (liminar referendada em 02/2023 garantiu a execução da Lei\nPaulo Gustavo contra os óbices da MP 1.135/2022); LC 202/2023\nprorrogou a execução até 31/12/2024."
+description: "Usar para pesquisar ou analisar: Aldir Blanc + Paulo Gustavo (Lei 14.017/2020 + LC 195/2022 + Lei 14.399/2022 PNAB). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Aldir Blanc + Paulo Gustavo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 14.017/2020: LAB1 (Lei Aldir Blanc)
 

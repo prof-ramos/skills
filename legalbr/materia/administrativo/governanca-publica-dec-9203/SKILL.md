@@ -5,8 +5,8 @@ title: "Governança Pública (Dec. 9.203/2017 + LINDB 20-26 + Lei 14.129/21)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/governanca-publica-dec-9203.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/governanca-publica-dec-9203/SKILL.md"
 triggers:
   - "governança pública"
   - "Dec. 9.203/2017"
@@ -21,10 +21,15 @@ triggers:
   - "compliance público"
   - "gestão de riscos"
   - "comitê de governança riscos e controles"
-description: "Governança pública (Dec. 9.203/2017 + LINDB arts. 20-30 +\nLei 14.129/2021): princípios (capacidade de resposta + integridade\n+ confiabilidade + accountability + transparência + eficiência);\nliderança + estratégia + controle; LINDB (consequencialismo\n+ dever de motivar com elementos práticos); CGgov no Executivo\nfederal; programas de integridade; gestão de riscos; governo\ndigital."
+description: "Usar para pesquisar ou analisar: Governança Pública (Dec. 9.203/2017 + LINDB 20-26 + Lei 14.129/21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Governança Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

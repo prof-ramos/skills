@@ -5,8 +5,8 @@ title: "Julgamento Conforme o Estado do Processo (CPC 354-356)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/julgamento-estado-cpc-354-356.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/julgamento-estado-cpc-354-356/SKILL.md"
 triggers:
   - "julgamento conforme estado do processo"
   - "CPC 354"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 487 III"
   - "Tema 1.281 STJ"
   - "cerceamento de defesa"
-description: "Julgamento conforme estado sob CPC 354-356: extinção (354, com base\nno 485 ou 487 II e III); antecipado total (355, desnecessidade de\noutras provas OU revelia); antecipado PARCIAL (356, pedidos maduros/\nincontroversos, cabe AGRAVO DE INSTRUMENTO, §5); execução desde\nlogo sem caução mesmo pendente recurso (§2); STJ Tema 1.281\n(recurso contra a decisão da 1ª fase da ação de exigir contas)\nAFETADO e pendente de julgamento; cerceamento de defesa."
+description: "Usar para pesquisar ou analisar: Julgamento Conforme o Estado do Processo (CPC 354-356). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Julgamento Conforme o Estado do Processo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Arquitetura (CPC 354-357)
 

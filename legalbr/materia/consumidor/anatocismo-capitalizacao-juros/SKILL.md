@@ -5,8 +5,8 @@ title: "Anatocismo e Capitalização de Juros (Súms. 539 + 541 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/anatocismo-capitalizacao-juros.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/anatocismo-capitalizacao-juros/SKILL.md"
 triggers:
   - "anatocismo"
   - "capitalização de juros"
@@ -18,10 +18,15 @@ triggers:
   - "duodécuplo da taxa mensal"
   - "revisão de juros remuneratórios"
   - "sistema de amortização"
-description: "Anatocismo e capitalização de juros sob MP 2.170-36/2001 + Súms.\n539 e 541 STJ: capitalização inferior à anual em contratos com\ninstituições do SFN admitida desde que **expressamente pactuada**;\nprevisão de taxa anual superior ao duodécuplo da mensal é\nsuficiente (Súm. 541); STF, constitucionalidade da MP em RE\n592.377 (Tema 246); discussão SAC × Tabela Price; vedação ao\nanatocismo em contratos não financeiros (CC 591)."
+description: "Usar para pesquisar ou analisar: Anatocismo e Capitalização de Juros (Súms. 539 + 541 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anatocismo e Capitalização de Juros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

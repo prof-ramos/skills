@@ -5,8 +5,8 @@ title: "LGPD: Transferência Internacional de Dados"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/lgpd-transferencia-internacional.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/lgpd-transferencia-internacional/SKILL.md"
 triggers:
   - "transferência internacional"
   - "cross-border data"
@@ -16,10 +16,15 @@ triggers:
   - "BCR"
   - "GDPR adequacy"
   - "Schrems"
-description: "Transferência internacional de dados pessoais (LGPD art. 33-36\n+ Resolução ANPD CD 19/2024): hipóteses (decisão de adequação,\ncláusulas-padrão SCC, BCR, contrato, consentimento, cooperação\ninternacional), data residency, adequação Brasil-UE (Res. CD/ANPD\n32/2026, reconhecimento mútuo), Schrems II + risk assessment,\nhierarchical structures (grupos econômicos) e fluxos comuns\n(SaaS + cloud + intercompany)."
+description: "Usar para pesquisar ou analisar: LGPD: Transferência Internacional de Dados. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD: Transferência Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando é transferência internacional?
 

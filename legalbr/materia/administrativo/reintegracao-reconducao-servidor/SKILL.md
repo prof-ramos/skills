@@ -5,8 +5,8 @@ title: "Reintegração e Recondução do Servidor (Lei 8.112/90 arts. 28-30)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/reintegracao-reconducao-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/reintegracao-reconducao-servidor/SKILL.md"
 triggers:
   - "reintegração servidor"
   - "recondução"
@@ -19,10 +19,15 @@ triggers:
   - "CF 41 §2"
   - "retorno ao serviço"
   - "invalidação de demissão"
-description: "Reintegração (art. 28): retorno após invalidação da demissão com\nressarcimento + retorno ao cargo (não havendo, disponibilidade);\nRecondução (art. 29): retorno ao cargo de origem por inabilitação\nem estágio probatório ou reintegração do anterior; Reversão (art.\n25); Aproveitamento (art. 30-32); Readaptação (art. 24)."
+description: "Usar para pesquisar ou analisar: Reintegração e Recondução do Servidor (Lei 8.112/90 arts. 28-30). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reintegração e Recondução do Servidor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

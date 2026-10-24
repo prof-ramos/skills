@@ -5,8 +5,8 @@ title: "Súmula Vinculante 39, União Legisla sobre Polícia e Bombeiros do DF"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-39-uniao-policia-df.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-39-uniao-policia-df/SKILL.md"
 triggers:
   - "SV 39"
   - "Súmula Vinculante 39"
@@ -17,10 +17,15 @@ triggers:
   - "CF 21 XIV"
   - "ADI 3.791"
   - "lei distrital inconstitucional"
-description: "SV 39 STF (11/03/2015): \"Compete privativamente à União legislar\nsobre vencimentos dos membros das polícias civil e militar e do\ncorpo de bombeiros militar do Distrito Federal.\" Conversão da\nSúmula 647/STF. Inconstitucional lei distrital que crie verbas,\nadicionais, gratificações ou reestruture carreiras dessas forças."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 39, União Legisla sobre Polícia e Bombeiros do DF. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 39, União Legisla sobre Polícia e Bombeiros do DF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

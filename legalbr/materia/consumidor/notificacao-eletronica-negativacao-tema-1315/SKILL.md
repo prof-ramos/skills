@@ -5,8 +5,8 @@ title: "Notificação Eletrônica da Negativação (Tema 1.315 STJ + Tema 806 ST
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/notificacao-eletronica-negativacao-tema-1315.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/notificacao-eletronica-negativacao-tema-1315/SKILL.md"
 triggers:
   - "Tema 1.315 STJ"
   - "notificação eletrônica negativação"
@@ -19,10 +19,15 @@ triggers:
   - "notificação por WhatsApp inscrição"
   - "dados de protesto sem ciência"
   - "caixa de e-mail cheia notificação"
-description: "Tema 1.315 STJ (2ª Seção, 2026): é válida a notificação prévia da negativação por\nmeio ELETRÔNICO (e-mail, SMS, aplicativo), desde que comprovados o ENVIO e a\nENTREGA ao destinatário; prova de leitura dispensada (paralelo à Súm. 404).\nTema 806: reprodução fiel de dados públicos de protesto sem ciência não gera dano."
+description: "Usar para pesquisar ou analisar: Notificação Eletrônica da Negativação (Tema 1.315 STJ + Tema 806 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Notificação Eletrônica da Negativação (Tema 1.315 STJ + Tema 806 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tema 1.315 STJ
 

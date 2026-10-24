@@ -5,8 +5,8 @@ title: "Limitação Administrativa (Função Social da Propriedade + CF 5 XXIII 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/limitacao-administrativa.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/limitacao-administrativa/SKILL.md"
 triggers:
   - "limitação administrativa"
   - "função social da propriedade"
@@ -20,10 +20,15 @@ triggers:
   - "poder de polícia"
   - "Tema 1.010 STJ"
   - "restrição urbanística geral"
-description: "Limitação administrativa (decorre do poder de polícia + função\nsocial, CF 5 XXIII + 170 III + 182 §2): restrição geral +\nabstrata + impessoal à propriedade privada para utilidade\npública; não indenizável (em regra); diferenças com servidão\ne desapropriação; exemplos (APP, gabaritos urbanísticos,\nrecuos, alvarás, tombamento provisório); indenização excepcional\nquando há esvaziamento econômico; APP em área urbana consolidada\nsegue a Lei 12.651 art. 4 (Tema 1.010 STJ)."
+description: "Usar para pesquisar ou analisar: Limitação Administrativa (Função Social da Propriedade + CF 5 XXIII + 170). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limitação Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

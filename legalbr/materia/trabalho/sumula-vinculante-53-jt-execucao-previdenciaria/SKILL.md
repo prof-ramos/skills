@@ -5,8 +5,8 @@ title: "Súmula Vinculante 53, JT Executa de Ofício Contribuições Previdenci�
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/sumula-vinculante-53-jt-execucao-previdenciaria.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sumula-vinculante-53-jt-execucao-previdenciaria/SKILL.md"
 triggers:
   - "SV 53"
   - "Súmula Vinculante 53"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 368 TST"
   - "vínculo declarado contribuição"
   - "CLT 876"
-description: "SV 53 STF (18/06/2015): \"A competência da JT prevista no art.\n114, VIII, CF alcança a execução de ofício das contribuições\nprevidenciárias relativas ao objeto da condenação constante das\nsentenças que proferir e acordos por ela homologados.\" Limita-se\nao crédito da condenação (não ao vínculo declarado). Paradigma\nRE 569.056 (Tema 36 RG). Súm. 368 TST consolidada."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 53, JT Executa de Ofício Contribuições Previdenciárias. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 53, JT e Execução Previdenciária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

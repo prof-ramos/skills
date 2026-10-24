@@ -5,8 +5,8 @@ title: "Gestantes Afastadas na Pandemia + Lei 14.151 + Legitimidade Fazenda Naci
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/gestantes-afastadas-pandemia-tema-1290.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/gestantes-afastadas-pandemia-tema-1290/SKILL.md"
 triggers:
   - "Tema 1.290 STJ"
   - "Lei 14.151 gestantes pandemia"
@@ -14,10 +14,15 @@ triggers:
   - "remuneração regular empregada gestante"
   - "legitimidade Fazenda Nacional INSS"
   - "pandemia COVID afastamento gestante"
-description: "Tema 1.290 STJ (1ª Seção, fev/2025): valores pagos a empregadas\ngestantes afastadas durante a pandemia (Lei 14.151/21) têm\nnatureza de REMUNERAÇÃO REGULAR (a cargo do empregador), NÃO\nconfiguram salário-maternidade para fins de compensação. Polo\npassivo é a FAZENDA NACIONAL (PGFN), não o INSS: pretensão\nfiscal-tributária (reduzir contribuição sobre folha)."
+description: "Usar para pesquisar ou analisar: Gestantes Afastadas na Pandemia + Lei 14.151 + Legitimidade Fazenda Nacional (Tema 1.290 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gestantes Afastadas na Pandemia + Lei 14.151 + Legitimidade Fazenda Nacional (Tema 1.290 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.290 STJ, 1ª Seção)
 

@@ -5,8 +5,8 @@ title: "Cláusulas de Não-Concorrência e Não-Aliciamento"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/clausulas-non-compete-non-solicit.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/clausulas-non-compete-non-solicit/SKILL.md"
 triggers:
   - "non-compete"
   - "não-concorrência"
@@ -15,10 +15,15 @@ triggers:
   - "cláusula de fidelidade"
   - "quarentena"
   - "garden leave"
-description: "Cláusulas de non-compete e non-solicit em contratos trabalhistas\n(CLT), de M&A (LSA + CC 1.147) e comerciais (CC 425 + 421-A):\nrequisitos de validade (prazo + território + escopo + compensação),\ndiferenciação por contexto, jurisprudência TST/STJ, no-poach em\njoint ventures (risco antitruste, CADE), garden leave +\ncooling-off e enforcement (specific performance CPC 497 +\ncláusula penal CC 408)."
+description: "Usar para pesquisar ou analisar: Cláusulas de Não-Concorrência e Não-Aliciamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Non-Compete e Non-Solicit
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

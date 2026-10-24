@@ -5,8 +5,8 @@ title: "Descaminho e Contrabando (CP 334 e 334-A)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/contrabando-descaminho-cp-334.md"
+version: 2
+sourcePath: "legalbr/materia/penal/contrabando-descaminho-cp-334/SKILL.md"
 triggers:
   - "CP 334"
   - "descaminho"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 151 STJ"
   - "princípio insignificância descaminho"
   - "Tema 157 STJ"
-description: "CP 334 descaminho (recl. 1-4), sonegar tributo na importação/\nexportação de mercadoria **lícita**; CP 334-A contrabando\n(recl. 2-5), importar/exportar mercadoria **proibida ou de\nimportação restrita**; insignificância no descaminho até R$ 20\nmil (Tema 157 STJ) e no contrabando de CIGARROS até 1.000 maços,\nsalvo reiteração (Tema 1.143 STJ); vedada nos demais objetos de\ncontrabando; Lei 13.008/2014 separou tipos."
+description: "Usar para pesquisar ou analisar: Descaminho e Contrabando (CP 334 e 334-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Descaminho e Contrabando
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura (Lei 13.008/2014 separou)
 

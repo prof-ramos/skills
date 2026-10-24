@@ -5,8 +5,8 @@ title: "Contrato de Transporte (CC 730-756)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/transporte-cc-730.md"
+version: 2
+sourcePath: "legalbr/materia/civil/transporte-cc-730/SKILL.md"
 triggers:
   - "contrato de transporte"
   - "CC 730"
@@ -21,10 +21,15 @@ triggers:
   - "transporte multimodal"
   - "Súm. 161 STF"
   - "Súm. 145 STJ"
-description: "Contrato de transporte (CC 730-756): pessoas (CC 734) × coisas (CC\n743); responsabilidade objetiva (CC 734 + CF 37 §6); cláusula de\nnão-indenizar nula (CC 734 + Súm. 161 STF); transporte gratuito ×\nvantagem indireta (CC 736 + Súm. 145 STJ); culpa de terceiro não\nelide (CC 735 + Súm. 187 STF); extravio de bagagem (CC 734 par.\núnico + CDC); Convenção de Montreal prevalece no aéreo\ninternacional só para dano material (Temas 210 e 1.240 STF)."
+description: "Usar para pesquisar ou analisar: Contrato de Transporte (CC 730-756). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Transporte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 730, conceito
 

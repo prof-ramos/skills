@@ -5,8 +5,8 @@ title: "Herdeiros + Legitimidade para Revisão de Benefício Previdenciário (Te
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/herdeiros-revisao-beneficio-tema-1057.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/herdeiros-revisao-beneficio-tema-1057/SKILL.md"
 triggers:
   - "Tema 1.057 STJ"
   - "herdeiros revisão benefício previdenciário"
@@ -15,10 +15,15 @@ triggers:
   - "sucessão previdenciária"
   - "legitimidade sucessores revisão"
   - "revisão post mortem benefício"
-description: "Tema 1.057 STJ (1ª Seção): a pensionista (e na falta dela, os\ndemais HERDEIROS) tem legitimidade para pleitear a revisão do\nbenefício previdenciário que o falecido recebia, ainda que o\nsegurado NÃO tenha feito o pedido em vida. Lei 8.213/91 art. 112:\nvalores não recebidos em vida pelo segurado vão ao dependente\nhabilitado para pensão; faltando este, aos sucessores."
+description: "Usar para pesquisar ou analisar: Herdeiros + Legitimidade para Revisão de Benefício Previdenciário (Tema 1.057 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Herdeiros + Legitimidade para Revisão de Benefício Previdenciário (Tema 1.057 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.057 STJ, 1ª Seção)
 

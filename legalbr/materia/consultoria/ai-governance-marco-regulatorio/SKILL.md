@@ -5,8 +5,8 @@ title: "Governança de IA e Marco Regulatório (PL 2.338/23 + RCVM + ANPD)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/ai-governance-marco-regulatorio.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/ai-governance-marco-regulatorio/SKILL.md"
 triggers:
   - "inteligência artificial"
   - "governança de IA"
@@ -17,10 +17,15 @@ triggers:
   - "large language model"
   - "IA generativa"
   - "viés algorítmico"
-description: "Governança de IA: PL 2.338/23 (aprovado no Senado em 12/2024, em tramitação na Câmara dos Deputados) + LGPD (Lei\n13.709/18) + RCVM 80 + Lei 14.478/22 + Lei 12.965/14 (Marco Civil\nInternet). Categorização de riscos, AI Act (UE), princípios OCDE,\ndue diligence em modelos, treinamento ético, explicabilidade,\nresponsabilidade civil, automated decision-making."
+description: "Usar para pesquisar ou analisar: Governança de IA e Marco Regulatório (PL 2.338/23 + RCVM + ANPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Governança de IA e Marco Regulatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo (BR)
 

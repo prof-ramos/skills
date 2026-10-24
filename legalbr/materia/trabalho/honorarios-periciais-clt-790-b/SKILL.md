@@ -5,8 +5,8 @@ title: "Honorários Periciais (CLT 790-B + ADI 5.766 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/honorarios-periciais-clt-790-b.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/honorarios-periciais-clt-790-b/SKILL.md"
 triggers:
   - "honorários periciais"
   - "CLT 790-B"
@@ -15,10 +15,15 @@ triggers:
   - "perícia de insalubridade"
   - "perícia de periculosidade"
   - "Resolução CSJT 247"
-description: "Honorários periciais (CLT 790-B, Reforma + ADI 5.766 STF):\nresponsabilidade da parte sucumbente na pretensão objeto da perícia;\nbeneficiário da gratuidade não paga (expressão do caput e §4\ndeclarados inconstitucionais), a União arca; limite máximo fixado\npelo CSJT (§1), parcelamento possível (§2) e vedada a exigência de\nadiantamento (§3); inadmissível dedução de créditos de outras ações."
+description: "Usar para pesquisar ou analisar: Honorários Periciais (CLT 790-B + ADI 5.766 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários Periciais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

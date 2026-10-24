@@ -5,8 +5,8 @@ title: "SUSEP: Regulação de Seguros e Previdência Aberta"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/susep-regulacao-seguros.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/susep-regulacao-seguros/SKILL.md"
 triggers:
   - "SUSEP"
   - "Dec.-Lei 73/66"
@@ -18,10 +18,15 @@ triggers:
   - "intervenção SUSEP"
   - "liquidação seguradora"
   - "Circular SUSEP"
-description: "Defesa em regulação da Superintendência de Seguros Privados (SUSEP).\nBase: Dec.-Lei 73/66 (SNSP); Lei 15.040/24 (Marco Legal do Contrato de\nSeguro); LC 126/07 (resseguro); Lei 9.656/98 (mas\nANS regula planos de saúde); Resoluções CNSP; Circulares SUSEP. Atuação:\nseguros gerais, vida, previdência aberta, capitalização, resseguro,\ncosseguro, microsseguro. PASB sancionatório (Res. CNSP 393/20). Sanções:\nmulta (limites do art. 108 §1º-B, LC 213/2025), suspensão, cassação. Intervenção (Dec.-Lei 73 art.\n89) + liquidação extrajudicial. Coordenação ANS (seguro saúde),\nCVM (em seguros com componente securitário)."
+description: "Usar para pesquisar ou analisar: SUSEP: Regulação de Seguros e Previdência Aberta. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SUSEP: Regulação de Seguros e Previdência Aberta
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

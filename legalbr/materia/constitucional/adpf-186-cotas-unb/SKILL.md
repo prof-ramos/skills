@@ -5,8 +5,8 @@ title: "ADPF 186: Cotas Raciais na UnB (Ações Afirmativas)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-186-cotas-unb.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-186-cotas-unb/SKILL.md"
 triggers:
   - "ADPF 186"
   - "cotas raciais UnB"
@@ -16,10 +16,15 @@ triggers:
   - "heteroidentificação"
   - "discriminação positiva"
   - "Lei 12.711/2012"
-description: "ADPF 186 (Lewandowski, 26/04/2012, unânime): cotas raciais\nda UnB constitucionais; ações afirmativas concretizam\nigualdade material (CF 5 + 3 IV); reserva temporal até\nsuperação do déficit. Fundamenta Lei 12.711/2012 + ADC 41."
+description: "Usar para pesquisar ou analisar: ADPF 186: Cotas Raciais na UnB (Ações Afirmativas). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 186: Cotas UnB
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

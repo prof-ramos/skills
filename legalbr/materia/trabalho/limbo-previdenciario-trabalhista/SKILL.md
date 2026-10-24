@@ -5,8 +5,8 @@ title: "Limbo Previdenciário-Trabalhista (Alta do INSS x Inaptidão)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/limbo-previdenciario-trabalhista.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/limbo-previdenciario-trabalhista/SKILL.md"
 triggers:
   - "limbo previdenciário"
   - "limbo previdenciário-trabalhista"
@@ -18,10 +18,15 @@ triggers:
   - "readaptação após alta do INSS"
   - "cessação do auxílio-doença retorno ao trabalho"
   - "alta programada prorrogação do benefício"
-description: "Limbo previdenciário: alta do INSS x inaptidão pelo médico da empresa.\nCessado o benefício cessa a suspensão (CLT 476; Lei 8.213 arts. 59-63);\nrecusa de retorno gera salários do período e dano moral in re ipsa\n(Tema 88 IRR TST, tese vinculante). Dever de readaptação."
+description: "Usar para pesquisar ou analisar: Limbo Previdenciário-Trabalhista (Alta do INSS x Inaptidão). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limbo Previdenciário-Trabalhista (Alta do INSS x Inaptidão)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Configuração
 

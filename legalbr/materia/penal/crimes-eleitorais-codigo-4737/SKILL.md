@@ -5,8 +5,8 @@ title: "Crimes Eleitorais (Código Eleitoral, Lei 4.737/65)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-eleitorais-codigo-4737.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-eleitorais-codigo-4737/SKILL.md"
 triggers:
   - "crime eleitoral"
   - "código eleitoral"
@@ -19,10 +19,15 @@ triggers:
   - "art. 354-A código eleitoral"
   - "inelegibilidade crime eleitoral"
   - "Justiça Eleitoral"
-description: "Crimes eleitorais do Código Eleitoral (Lei 4.737/65) arts. 289-354:\ninscrição fraudulenta (289), falsidade ideológica eleitoral (350),\ncorrupção eleitoral (299), boca de urna (39 §5 Lei 9.504), coação\n(300-301), violência (332), Lei 13.834/2019 denunciação caluniosa\neleitoral (326-A), Lei 14.197/2021 crimes 359-L a 359-T (defesa do\nEstado Democrático); competência da Justiça Eleitoral."
+description: "Usar para pesquisar ou analisar: Crimes Eleitorais (Código Eleitoral, Lei 4.737/65). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Eleitorais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura legislativa
 

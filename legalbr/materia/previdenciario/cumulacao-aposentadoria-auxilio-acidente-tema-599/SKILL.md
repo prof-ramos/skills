@@ -5,8 +5,8 @@ title: "Acumulação Aposentadoria Invalidez + Auxílio-Acidente (Tema 599 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/cumulacao-aposentadoria-auxilio-acidente-tema-599.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/cumulacao-aposentadoria-auxilio-acidente-tema-599/SKILL.md"
 triggers:
   - "Tema 599 STF"
   - "acumulação aposentadoria auxílio"
@@ -14,10 +14,15 @@ triggers:
   - "aposentadoria invalidez auxílio-acidente"
   - "Lei 9.528/97"
   - "cumulação benefícios"
-description: "Tema 599 STF (RE 687.813): o AUXÍLIO-SUPLEMENTAR (art. 9 da Lei\n6.367/76, antecessor do auxílio-acidente) é cumulável com a\naposentadoria por invalidez somente se as condições desta foram\nimplementadas na vigência da Lei 8.213/91 e ANTES de 11/11/1997\n(MP 1.596-14/97, convertida na Lei 9.528/97). Para o auxílio-\nacidente em geral: Tema 555 STJ + Súm. 507 STJ (mesmo marco)."
+description: "Usar para pesquisar ou analisar: Acumulação Aposentadoria Invalidez + Auxílio-Acidente (Tema 599 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acumulação Aposentadoria + Auxílio-Acidente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

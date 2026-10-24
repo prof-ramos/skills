@@ -5,8 +5,8 @@ title: "Agências Reguladoras (Lei 13.848/2019 + ANATEL/ANEEL/ANP/ANS + ADI 4.87
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/agencias-reguladoras-lei-13848.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/agencias-reguladoras-lei-13848/SKILL.md"
 triggers:
   - "agências reguladoras"
   - "Lei 13.848/2019"
@@ -19,10 +19,15 @@ triggers:
   - "ADI 4.874 deslegalização"
   - "agência reguladora e CADE"
   - "Lei 13.460/2017 usuário"
-description: "Lei 13.848/2019 (Lei Geral das Agências): AUTARQUIA EM REGIME\nESPECIAL + independência adm/funcional/decisória/financeira;\nmandatos 5 ANOS não coincidentes (sabatina Senado CF 52 III f)\n+ QUARENTENA 6 meses + AIR obrigatória + agenda regulatória +\naudiências públicas; setoriais (ANATEL 9.472 + ANEEL 9.427 +\nANP 9.478 + ANS 9.961/9.656 + ANVISA 9.782); ADI 4.874 valida."
+description: "Usar para pesquisar ou analisar: Agências Reguladoras (Lei 13.848/2019 + ANATEL/ANEEL/ANP/ANS + ADI 4.874). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agências Reguladoras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.848/2019 (lei geral)
 

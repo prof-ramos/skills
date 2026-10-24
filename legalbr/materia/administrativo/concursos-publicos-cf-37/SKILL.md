@@ -5,8 +5,8 @@ title: "Concursos Públicos (CF 37 II + Tema 161 STF + Súm. Vinc. 43-44)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/concursos-publicos-cf-37.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/concursos-publicos-cf-37/SKILL.md"
 triggers:
   - "concurso público"
   - "CF 37 II"
@@ -22,10 +22,15 @@ triggers:
   - "cotas PcD"
   - "Concurso Nacional Unificado"
   - "preterição na nomeação"
-description: "Concursos públicos sob CF 37 II + jurisprudência: validade 2 anos\nprorrogável (37 III); precedência (37 IV); Tema 161 STF (direito\nsubjetivo dentro das vagas); Tema 784 (CR com preterição); SV 43\n(veda provimento derivado); SV 44 (psicotécnico só com lei +\ncritérios + recurso); cotas raciais da Lei 15.142/2025 (30% para\npretas e pardas, indígenas e quilombolas, revogou a Lei 12.990/2014\nde 20%) + ADC 41; Tema 838 (tatuagens: vedação genérica\ninconstitucional)."
+description: "Usar para pesquisar ou analisar: Concursos Públicos (CF 37 II + Tema 161 STF + Súm. Vinc. 43-44). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concursos Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais (CF 37)
 

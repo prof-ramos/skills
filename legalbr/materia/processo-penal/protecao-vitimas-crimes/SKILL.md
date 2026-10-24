@@ -5,8 +5,8 @@ title: "Proteção a Vítimas de Crimes"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/vitimas-temas-transversais/protecao-vitimas-crimes.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/protecao-vitimas-crimes/SKILL.md"
 triggers:
   - "proteção a vítimas"
   - "PROVITA"
@@ -19,10 +19,15 @@ triggers:
   - "participação da vítima"
   - "direitos das vítimas"
   - "assistente de acusação"
-description: "Proteção a vítimas de crimes no Brasil: Lei 9.807/1999 (PROVITA);\nDecreto 9.579/2018 (PPCAAM); Res. CNJ 253/2018 (Política de Atenção\na Vítimas); Res. CNJ 414/2021 (perícia em casos de tortura,\nProtocolo de Istambul); Lei 13.431/2017 (depoimento especial\ncriança/adolescente); Res. CNMP 243/2021; Tema 1.451 STF (nulidade\nde provas com violação de direitos da vítima em crimes sexuais);\ndireitos: informação, proteção, reparação, assistência, voz no\nprocesso. Estatuto da Vítima em tramitação no Congresso (não\nsancionado)."
+description: "Usar para pesquisar ou analisar: Proteção a Vítimas de Crimes. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Proteção a Vítimas de Crimes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

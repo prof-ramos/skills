@@ -5,8 +5,8 @@ title: "Trabalho Avulso Não Portuário (Lei 12.023/2009)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-avulso-nao-portuario-lei-12023.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-avulso-nao-portuario-lei-12023/SKILL.md"
 triggers:
   - "trabalho avulso não portuário"
   - "Lei 12.023"
@@ -16,10 +16,15 @@ triggers:
   - "solidariedade do tomador trabalho avulso"
   - "carga e descarga avulso"
   - "ova e desova de vagões"
-description: "Trabalho avulso não portuário (Lei 12.023/2009): movimentação de\nmercadorias em geral (ensaque, carga/descarga, empilhamento) com\nintermediação obrigatória do sindicato; solidariedade dos tomadores\n(art. 8º); equiparação ao empregado (CF 7 XXXIV); desvirtuamento em\nvínculo; segurado avulso na Lei 8.212. Não confundir com o portuário\n(Lei 12.815, OGMO)."
+description: "Usar para pesquisar ou analisar: Trabalho Avulso Não Portuário (Lei 12.023/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Avulso Não Portuário (Movimentação de Mercadorias em Geral)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Falência (Lei 11.101/2005 + Lei 14.112/2020)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/falencia-lei-11101.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/falencia-lei-11101/SKILL.md"
 triggers:
   - "decretação de falência"
   - "Lei 11.101/2005"
@@ -18,10 +18,15 @@ triggers:
   - "DIP financing"
   - "massa falida"
   - "Súm. 361 STJ"
-description: "Falência sob Lei 11.101/2005 + Lei 14.112/2020: execução concursal\nuniversal liquidando patrimônio empresarial; pressupostos (LREF\n94: impontualidade 40+ SM, execução frustrada, atos de falência);\ncontestação 10 dias + depósito elisivo (Súm. 29 STJ); sentença\ndeclarativa (99); arrecadação + verificação + classificação\n(LREF 83) + extraconcursais (84); DIP financing; reabilitação 3 anos."
+description: "Usar para pesquisar ou analisar: Falência (Lei 11.101/2005 + Lei 14.112/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito + natureza
 

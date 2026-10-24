@@ -5,8 +5,8 @@ title: "Defesa Preliminar na Lei de Drogas (art. 55 da Lei 11.343/2006)"
 category: "forma"
 materia: null
 documentType: "defesa-preliminar-lei-drogas"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-preliminar-lei-drogas.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-preliminar-lei-drogas/SKILL.md"
 triggers:
   - "defesa preliminar art. 55 Lei 11.343"
   - "defesa prévia tráfico de drogas"
@@ -17,10 +17,15 @@ triggers:
   - "desclassificação para uso art. 28"
   - "tráfico privilegiado art. 33 § 4"
   - "resposta pré-recebimento lei de drogas"
-description: "Defesa preliminar do art. 55 da Lei 11.343/2006: peça escrita em 10\ndias da notificação, ANTES do recebimento da denúncia; arguir\npreliminares e exceções, alegar tudo de interesse da defesa, juntar\ndocumentos, especificar provas e arrolar até 5 testemunhas; alvo\ncentral = rejeição da denúncia (CPP 395) por inépcia ou falta de\njusta causa. Distinta da resposta à acusação do CPP 396-A."
+description: "Usar para redigir ou revisar: Defesa Preliminar na Lei de Drogas (art. 55 da Lei 11.343/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa Preliminar na Lei de Drogas (art. 55 da Lei 11.343/2006)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e momento processual
 

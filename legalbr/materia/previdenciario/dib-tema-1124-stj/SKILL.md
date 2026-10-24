@@ -5,8 +5,8 @@ title: "DIB + Interesse de Agir Previdenciário (Tema 1.124 STJ + ADI 6.096 STF)
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/dib-tema-1124-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/dib-tema-1124-stj/SKILL.md"
 triggers:
   - "DIB previdenciária"
   - "Tema 1.124 STJ"
@@ -21,10 +21,15 @@ triggers:
   - "aposentadoria especial PPP juízo"
   - "perícia judicial DIB"
   - "art. 49 Lei 8.213"
-description: "DIB + interesse de agir + prescrição em ações previdenciárias (Tema 1.124\nSTJ + ADI 6.096 STF): prévio requerimento administrativo (Tema 350 STF);\nprova nova **não analisada** pelo INSS → DIB na **citação** (não na DER);\nprova já apresentada e indeferida → DIB na DER; prescrição quinquenal das\nparcelas (Súm. 85 STJ); ADI 6.096 STF declarou inconstitucional o art. 24 da\nLei 13.846/19 (extensão da decadência a indeferimento/cancelamento/cessação);\na decadência decenal da REVISÃO do ato de concessão permanece (Tema 313 STF)."
+description: "Usar para pesquisar ou analisar: DIB + Interesse de Agir Previdenciário (Tema 1.124 STJ + ADI 6.096 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DIB + Interesse de Agir Previdenciário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

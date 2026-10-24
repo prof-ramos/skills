@@ -5,8 +5,8 @@ title: "Cotas Raciais (Lei 12.711/2012 + Lei 14.723/2023 + ADC 41 + ADPF 186)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/cotas-raciais-lei-12711.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/cotas-raciais-lei-12711/SKILL.md"
 triggers:
   - "cotas raciais"
   - "Lei 12.711/2012"
@@ -21,10 +21,15 @@ triggers:
   - "autodeclaração"
   - "pretos pardos e indígenas"
   - "cotas em concursos"
-description: "Cotas raciais Lei 12.711/2012 (50% escola pública + 50% PPI/PCD\n+ critério socioeconômico); Lei 13.409/2016 (PCD); Lei 14.723/2023\n(cotas no ensino federal PERMANENTE + corte de renda 1 SM +\nquilombolas); concursos federais: Lei\n12.990/2014 (20%, vigência decenal expirada em jun/2024)\nsubstituída pela Lei 15.142/2025 (30%: 25% pretos/pardos +\n3% indígenas + 2% quilombolas); ADPF 186 + ADC 41 STF + Tema 203;\nTema 1.420 STF, controle judicial das bancas de heteroidentificação."
+description: "Usar para pesquisar ou analisar: Cotas Raciais (Lei 12.711/2012 + Lei 14.723/2023 + ADC 41 + ADPF 186). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cotas Raciais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.711/2012: UNIVERSIDADES + IFs
 

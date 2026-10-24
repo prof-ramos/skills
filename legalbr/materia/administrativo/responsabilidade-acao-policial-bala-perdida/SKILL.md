@@ -5,8 +5,8 @@ title: "Responsabilidade do Estado por Ação Policial: Bala Perdida e Manifesta
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-acao-policial-bala-perdida.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-acao-policial-bala-perdida/SKILL.md"
 triggers:
   - "Tema 1.237 STF"
   - "ARE 1.385.315"
@@ -18,10 +18,15 @@ triggers:
   - "disparo de origem não identificada"
   - "perseguição policial dano a terceiro"
   - "violência policial indenização"
-description: "Tema 1.237 STF (ARE 1.385.315, 2024): morte ou ferimento em operações de\nsegurança pública gera responsabilidade pelo risco administrativo, com ônus\ndo ente provar excludentes; perícia inconclusiva sobre a origem do disparo\nnão afasta por si. Tema 1.055 (RE 1.209.429): objetiva quanto a jornalista\nferido por policiais em manifestação. Nexo em bala perdida e perseguições."
+description: "Usar para pesquisar ou analisar: Responsabilidade do Estado por Ação Policial: Bala Perdida e Manifestações (Temas 1.237 e 1.055 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade do Estado por Ação Policial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

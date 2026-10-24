@@ -5,8 +5,8 @@ title: "Nota Técnica"
 category: "forma"
 materia: null
 documentType: "nota-tecnica"
-version: 1
-sourcePath: "lib/skills/official/forma/nota-tecnica.md"
+version: 2
+sourcePath: "legalbr/forma/nota-tecnica/SKILL.md"
 triggers:
   - "nota técnica"
   - "NT documento opinativo"
@@ -15,10 +15,15 @@ triggers:
   - "manifestação técnica de assessoria"
   - "subsídio a decisão administrativa"
   - "posicionamento institucional sobre tese"
-description: "Nota técnica: peça curta, opinativa e datada: analisa questão pontual\ncom fundamento normativo e recomendação. Mais leve que parecer; usada\npara subsidiar decisão administrativa, contratação ou posicionamento\ninstitucional. LINDB art. 28, Lei 9.784/99 e Lei 14.133/21 art. 53."
+description: "Usar para redigir ou revisar: Nota Técnica. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nota Técnica
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

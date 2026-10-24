@@ -5,8 +5,8 @@ title: "Jornada + Horas Extras + Adicional Noturno (CLT 58-75 + CF 7 IX/XIII/XVI
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/jornada-horas-extras.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/jornada-horas-extras/SKILL.md"
 triggers:
   - "jornada de trabalho"
   - "horas extras"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 60 TST"
   - "Súm. 85 TST"
   - "Súm. 264 TST"
-description: "Jornada + HE + adicional noturno sob CF 7 IX/XIII/XVI + CLT 58-75 + Lei\n13.467/2017: limites 8h/44h; HE adicional MÍNIMO 50% (CF 7 XVI); compensação\ne banco (CLT 59); 12x36 (CLT 59-A); intervalo intrajornada (CLT 71 §4,\nsó tempo suprimido pós-Reforma); adicional NOTURNO 20% urbano 22h-5h hora\nficta 52'30\" (CLT 73); Súm. 60 (integra + estende-se à prorrogação após 5h);\nTema 1.046 STF (negociado sobre legislado)."
+description: "Usar para pesquisar ou analisar: Jornada + Horas Extras + Adicional Noturno (CLT 58-75 + CF 7 IX/XIII/XVI). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Jornada e Horas Extras
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Detração Penal (CP 42 + Tema 1.155 STJ + CPP 387 §2)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/detracao-pena-cp-42.md"
+version: 2
+sourcePath: "legalbr/materia/penal/detracao-pena-cp-42/SKILL.md"
 triggers:
   - "detração"
   - "CP 42"
@@ -18,10 +18,15 @@ triggers:
   - "prisão em outro processo"
   - "internação detração"
   - "CPP 387 §2"
-description: "Detração CP 42: cômputa na pena/MS o tempo de prisão provisória\n(no BR ou no exterior) + administrativa + internação. CPP 387 §2\n(Lei 12.736/12): juiz decide regime CONSIDERANDO detração na\nsentença. Tema 1.155 STJ (REsp 1.977.135, 23/11/2022):\nrecolhimento noturno + dias de folga DETRAI, independentemente de\nmonitoramento eletrônico. Prisão em outro processo: detrai se\nfato POSTERIOR ao crime detratado."
+description: "Usar para pesquisar ou analisar: Detração Penal (CP 42 + Tema 1.155 STJ + CPP 387 §2). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Detração Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 42: definição
 

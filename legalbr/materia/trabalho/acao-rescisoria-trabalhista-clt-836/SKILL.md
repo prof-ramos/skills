@@ -5,8 +5,8 @@ title: "Ação Rescisória Trabalhista (CLT 836 + CPC 966 a 975)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/acao-rescisoria-trabalhista-clt-836.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/acao-rescisoria-trabalhista-clt-836/SKILL.md"
 triggers:
   - "ação rescisória trabalhista"
   - "CLT 836"
@@ -15,10 +15,15 @@ triggers:
   - "violação manifesta"
   - "Súm. 397 TST"
   - "Súm. 412 TST"
-description: "Ação rescisória trabalhista (CLT 836 + CPC 966-975): prazo decadencial\nde 2 anos do trânsito em julgado (CPC 975); hipóteses do art. 966\n(prevaricação, dolo, simulação, ofensa à coisa julgada, violação\nmanifesta de norma, prova falsa, prova nova); depósito prévio de 20%\ndo valor da causa (CLT 836, regra especial que prevalece sobre os 5%\ndo CPC 968 II); ações originárias dos TRTs e TST."
+description: "Usar para pesquisar ou analisar: Ação Rescisória Trabalhista (CLT 836 + CPC 966 a 975). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Rescisória Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

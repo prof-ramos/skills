@@ -5,8 +5,8 @@ title: "Crimes Eleitorais (CE arts. 289-354 + Lei 9.504/97 + Lei 14.197/2021)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/crimes-eleitorais.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/crimes-eleitorais/SKILL.md"
 triggers:
   - "crimes eleitorais"
   - "crimes do Código Eleitoral"
@@ -18,10 +18,15 @@ triggers:
   - "caixa dois eleitoral"
   - "golpe de Estado crime"
   - "abolição violenta do Estado Democrático"
-description: "Crimes eleitorais (CE Lei 4.737/65 arts. 289-354-A + Lei\n9.504/97 + Lei 14.197/2021): corrupção eleitoral (CE 299),\nboca de urna, falsidade ideológica eleitoral e crimes contra\no Estado Democrático (CP 359-I a 359-T, com dosimetria alterada\npela Lei 15.402/2026); competência da JE (CF 121) e atração de\ncrimes comuns conexos (Inq 4.435 STF); improbidade conexa fica\nna Justiça Comum (Tema 1260 STF)."
+description: "Usar para pesquisar ou analisar: Crimes Eleitorais (CE arts. 289-354 + Lei 9.504/97 + Lei 14.197/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Eleitorais (CE arts. 289-354-A + leis correlatas)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

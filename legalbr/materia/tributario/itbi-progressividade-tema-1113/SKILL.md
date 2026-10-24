@@ -5,8 +5,8 @@ title: "Base de Cálculo do ITBI e Progressividade (Tema 1.113 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/itbi-progressividade-tema-1113.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itbi-progressividade-tema-1113/SKILL.md"
 triggers:
   - "Tema 1.113 STJ"
   - "ITBI base cálculo"
@@ -14,10 +14,15 @@ triggers:
   - "valor venal declarado"
   - "ITBI progressividade"
   - "art. 156 II CF"
-description: "Tema 1.113 STJ (REsp 1.937.821, 24/02/2022): a BASE DE\nCÁLCULO do ITBI é o VALOR DECLARADO pelo contribuinte na\ntransação, salvo demonstração pela Administração de que\no valor é inferior ao de mercado. NÃO se vincula ao valor\nvenal do IPTU. CF 156 II + CTN 38. Súm. 110 STJ revogada\nna parte conflitante."
+description: "Usar para pesquisar ou analisar: Base de Cálculo do ITBI e Progressividade (Tema 1.113 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITBI: Base de Cálculo (Tema 1.113 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

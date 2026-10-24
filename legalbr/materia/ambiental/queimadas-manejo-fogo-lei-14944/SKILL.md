@@ -5,8 +5,8 @@ title: "Queimadas e Manejo Integrado do Fogo (Lei 14.944/2024 + Tema 145 STF)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/queimadas-manejo-fogo-lei-14944.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/queimadas-manejo-fogo-lei-14944/SKILL.md"
 triggers:
   - "queimada"
   - "Lei 14.944 manejo do fogo"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 9.605 art. 41 incêndio"
   - "Decreto 6.514 multa queimada"
   - "brigadista florestal"
-description: "Política Nacional de Manejo Integrado do Fogo (Lei 14.944/2024): hipóteses\nde uso lícito do fogo (queima controlada, prescrita, uso tradicional),\nautorização e responsabilização. Uso irregular: CFlo art. 38, crime do art.\n41 da Lei 9.605 (caput ampliado pela Lei 14.944) e multas do Dec. 6.514/2008\narts. 58 a 60 (Dec. 12.189/2024). Tema 145 STF (RE 586.224): competência\nmunicipal sobre queima da palha da cana."
+description: "Usar para pesquisar ou analisar: Queimadas e Manejo Integrado do Fogo (Lei 14.944/2024 + Tema 145 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Queimadas e Manejo Integrado do Fogo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

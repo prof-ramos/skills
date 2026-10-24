@@ -5,8 +5,8 @@ title: "Due Diligence em M&A: estrutura completa"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/due-diligence-ma-estrutura.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/due-diligence-ma-estrutura/SKILL.md"
 triggers:
   - "due diligence jurídica"
   - "DD M&A"
@@ -16,10 +16,15 @@ triggers:
   - "data room"
   - "relatório de auditoria jurídica"
   - "confirmatory due diligence"
-description: "Due diligence jurídica em M&A: planejamento, escopo (full × red\nflag × confirmatory), workstreams (societário, contratos,\ntrabalhista, tributário, imobiliário, ambiental, regulatório,\ncontencioso, IP, dados, compliance), materialidade, relatório\n(long form × executive summary), tradução para R&W e disclosure\nschedules, sequencing pré e pós-signing."
+description: "Usar para pesquisar ou analisar: Due Diligence em M&A: estrutura completa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence em M&A: Estrutura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

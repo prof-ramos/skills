@@ -5,8 +5,8 @@ title: "Associação Criminosa (CP 288) × Organização Criminosa (Lei 12.850/2
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/associacao-criminosa-cp-288.md"
+version: 2
+sourcePath: "legalbr/materia/penal/associacao-criminosa-cp-288/SKILL.md"
 triggers:
   - "associação criminosa"
   - "CP 288"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 11.343 art. 35"
   - "colaboração premiada"
   - "organização paramilitar"
-description: "Associação criminosa CP 288 (3+, recl. 1-3) × Organização Criminosa\nLei 12.850 (4+, estruturada + hierárquica, recl. 3-8); Milícia\nCP 288-A (recl. 4-8); Associação para tráfico Lei 11.343 art. 35\n(3+, recl. 3-10, especialidade); crime FORMAL e PERMANENTE\n(Súm. 711 STF); colaboração premiada Lei 12.850 art. 4 +\nAnticrime; STF/STJ, exige estabilidade."
+description: "Usar para pesquisar ou analisar: Associação Criminosa (CP 288) × Organização Criminosa (Lei 12.850/2013). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Associação Criminosa × Organização Criminosa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 288: Associação Criminosa
 

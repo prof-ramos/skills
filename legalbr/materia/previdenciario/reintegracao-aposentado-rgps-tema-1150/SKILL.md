@@ -5,8 +5,8 @@ title: "Reintegração de Servidor Aposentado pelo RGPS (Tema 1.150 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/reintegracao-aposentado-RGPS-tema-1150.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/reintegracao-aposentado-rgps-tema-1150/SKILL.md"
 triggers:
   - "Tema 1.150 STF"
   - "reintegração aposentado RGPS"
@@ -15,10 +15,15 @@ triggers:
   - "servidor reintegrado aposentado"
   - "CF 37 XVI"
   - "Lei 8.213 aposentadoria"
-description: "Tema 1.150 STF (RE 1.302.501, 17/06/2021): o servidor público\naposentado pelo RGPS, havendo previsão de VACÂNCIA do cargo por\naposentadoria em lei local, NÃO TEM direito de ser reintegrado ao\nmesmo cargo nem de nele permanecer, sob pena de violação à regra do\nconcurso público (CF 37 II) e à vedação de acumulação de proventos\ncom remuneração inacumuláveis na atividade (CF 37 §10 + XVI)."
+description: "Usar para pesquisar ou analisar: Reintegração de Servidor Aposentado pelo RGPS (Tema 1.150 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reintegração de Servidor Aposentado pelo RGPS (Tema 1.150 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 > **Atenção**: a tese é **negativa**. O servidor aposentado pelo RGPS, havendo previsão de vacância do cargo em lei local, **NÃO** tem direito à reintegração/permanência.
 

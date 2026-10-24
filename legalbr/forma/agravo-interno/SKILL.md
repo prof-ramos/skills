@@ -5,8 +5,8 @@ title: "Agravo Interno"
 category: "forma"
 materia: null
 documentType: "agravo-interno"
-version: 5
-sourcePath: "lib/skills/official/forma/agravo-interno.md"
+version: 2
+sourcePath: "legalbr/forma/agravo-interno/SKILL.md"
 triggers:
   - "agravo interno"
   - "art. 1.021 CPC"
@@ -20,10 +20,15 @@ triggers:
   - "agravo interno contra decisão do art. 932 CPC"
   - "agravo interno contra inadmissão fundada no regime de relevância"
   - "art. 932 IV e V alínea b redação Lei 15.484/2026"
-description: "Agravo interno sob o art. 1.021 do CPC: recurso contra decisão\nmonocrática do relator no tribunal em garantia da colegialidade;\nprazo de 15 dias com impugnação dialética específica; juízo de\nretratação e julgamento colegiado; vedação de mera reprodução\n(§3º) e multa do §4º por manifesta inadmissibilidade ou\nimprocedência; depósito prévio da multa para outros recursos."
+description: "Usar para redigir ou revisar: Agravo Interno. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo Interno
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

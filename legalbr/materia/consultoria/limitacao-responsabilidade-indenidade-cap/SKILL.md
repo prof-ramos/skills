@@ -5,8 +5,8 @@ title: "Limitação de Responsabilidade, Indenidade e Cap"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/limitacao-responsabilidade-indenidade-cap.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/limitacao-responsabilidade-indenidade-cap/SKILL.md"
 triggers:
   - "limitação de responsabilidade"
   - "liability cap"
@@ -15,10 +15,15 @@ triggers:
   - "direct damages"
   - "consequential damages"
   - "dano emergente lucro cessante"
-description: "Cláusulas de limitação de responsabilidade e indenidade em\ncontratos B2B: exclusão de danos indiretos/consequenciais/\nlucros cessantes (CC 402-403 + 944), cap quantitativo (% do\ncontrato + ticket), carve-outs (dolo, culpa grave, fraude,\nmorte, IP, confidencialidade, anticorrupção, LGPD), CC 421-A\n(paridade B2B), CDC art. 51 (consumidor, vedação) e\nenforceability sob CC 187 (abuso) + 422 (boa-fé)."
+description: "Usar para pesquisar ou analisar: Limitação de Responsabilidade, Indenidade e Cap. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Limitação de Responsabilidade, Indenidade e Cap
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos de dano (CC 402-403)
 

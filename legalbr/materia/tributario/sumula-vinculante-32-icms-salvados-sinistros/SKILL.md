@@ -5,8 +5,8 @@ title: "Súmula Vinculante 32, ICMS não incide sobre Salvados de Sinistro"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/sumula-vinculante-32-icms-salvados-sinistros.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-32-icms-salvados-sinistros/SKILL.md"
 triggers:
   - "SV 32"
   - "Súmula Vinculante 32"
@@ -19,10 +19,15 @@ triggers:
   - "perda superior a 75%"
   - "ADI 1648"
   - "IOF seguro"
-description: "SV 32 STF (16/02/2011): \"O ICMS não incide sobre alienação de\nsalvados de sinistro pelas seguradoras.\" Salvados não são\nmercadoria, são bens recuperados de sinistro com perda > 75%;\nalienação integra a operação securitária (IOF, não ICMS).\nCF 155 II + LC 87/96; RE 588.149 (paradigma) + ADI 1.648\n(lei mineira inconstitucional)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 32, ICMS não incide sobre Salvados de Sinistro. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 32, ICMS não incide sobre Salvados de Sinistro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

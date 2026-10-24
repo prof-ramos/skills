@@ -5,8 +5,8 @@ title: "Relação de Consumo: Caracterização (CDC 2-3 + Súm. 297 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/cdc-relacao-consumo-caracterizacao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/cdc-relacao-consumo-caracterizacao/SKILL.md"
 triggers:
   - "conceito de consumidor"
   - "CDC 3"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 479 STJ"
   - "destinatário final"
   - "golpe bancário fortuito interno"
-description: "Caracterização da relação de consumo sob CDC 2-3: consumidor\n(destinatário final + equiparados art. 17 e 29); fornecedor amplo;\nproduto e serviço (incl. bancário, Súm. 297 STJ + ADI 2.591);\nteoria finalista mitigada com vulnerabilidade (técnica, jurídica,\nfática, informacional); responsabilidade objetiva (arts. 12 e 14)\ne excludentes; prazos (CDC 26 e 27)."
+description: "Usar para pesquisar ou analisar: Relação de Consumo: Caracterização (CDC 2-3 + Súm. 297 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Relação de Consumo: Caracterização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Consumidor (CDC 2)
 

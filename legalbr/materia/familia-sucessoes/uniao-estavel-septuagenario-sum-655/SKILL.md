@@ -5,8 +5,8 @@ title: "União Estável de Septuagenário e Separação Obrigatória (Súm. 655 
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/uniao-estavel-septuagenario-sum-655.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/uniao-estavel-septuagenario-sum-655/SKILL.md"
 triggers:
   - "união estável septuagenário"
   - "separação obrigatória de bens"
@@ -16,10 +16,15 @@ triggers:
   - "esforço comum"
   - "Súmula 377 STF"
   - "Tema 1.236 STF"
-description: "Súm. 655 STJ: aplica-se à união estável contraída por septuagenário o regime\nda separação obrigatória de bens, comunicando-se os adquiridos na constância\nquando comprovado esforço comum. Equipara união estável a casamento para\nefeito do art. 1.641 II CC e aplica a Súmula 377 STF na partilha. Após o STF\nTema 1.236 (01/02/2024), o regime pode ser afastado por escritura pública."
+description: "Usar para pesquisar ou analisar: União Estável de Septuagenário e Separação Obrigatória (Súm. 655 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # União Estável de Septuagenário, Súm. 655 STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

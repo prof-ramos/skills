@@ -5,8 +5,8 @@ title: "Alíquotas Progressivas EC 103 (Tema 1.226 STF + RE 1.384.562)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aliquotas-progressivas-ec-103-tema-1226.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aliquotas-progressivas-ec-103-tema-1226/SKILL.md"
 triggers:
   - "Tema 1.226"
   - "RE 1.384.562"
@@ -17,10 +17,15 @@ triggers:
   - "alíquota progressiva 22%"
   - "capacidade contributiva"
   - "bitributação efetiva"
-description: "Tema 1.226 STF (RE 1.384.562, Min. Luís Roberto Barroso, RG\nreconhecida em 13/08/2022): constitucionalidade das alíquotas\nprogressivas (até 22%) do art. 11 §1 V a VIII da EC 103/19 sobre\nservidores federais ativos, aposentados e pensionistas. Mérito\npendente. Confronto com não confisco, capacidade contributiva,\nisonomia e bitributação efetiva (patronal + cota)."
+description: "Usar para pesquisar ou analisar: Alíquotas Progressivas EC 103 (Tema 1.226 STF + RE 1.384.562). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alíquotas Progressivas EC 103 (Tema 1.226 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

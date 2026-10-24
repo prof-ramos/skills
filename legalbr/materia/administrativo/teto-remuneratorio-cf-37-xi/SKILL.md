@@ -5,8 +5,8 @@ title: "Teto Remuneratório (CF 37 XI + EC 41/2003 + EC 47/2005 + Temas 377/384 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/teto-remuneratorio-cf-37-xi.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/teto-remuneratorio-cf-37-xi/SKILL.md"
 triggers:
   - "teto remuneratório"
   - "CF 37 XI"
@@ -20,10 +20,15 @@ triggers:
   - "parcelas indenizatórias"
   - "abate-teto"
   - "subsídio desembargador 90,25%"
-description: "Teto remuneratório CF 37 XI (EC 41/2003 + EC 47/2005): limite =\nsubsídio ministro STF; subtetos por ente; Temas 377/384 (em\nacumulação lícita de CARGOS, teto incide por vínculo); Tema 359\n(proventos/remuneração + PENSÃO somam para o teto); exclusões\n(CF 37 §11, parcelas indenizatórias); abate-teto."
+description: "Usar para pesquisar ou analisar: Teto Remuneratório (CF 37 XI + EC 41/2003 + EC 47/2005 + Temas 377/384 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teto Remuneratório (CF 37 XI)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

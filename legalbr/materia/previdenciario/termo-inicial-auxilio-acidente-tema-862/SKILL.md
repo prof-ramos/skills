@@ -5,8 +5,8 @@ title: "Termo Inicial do Auxílio-Acidente após Auxílio-Doença (Tema 862 STJ)
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/termo-inicial-auxilio-acidente-tema-862.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/termo-inicial-auxilio-acidente-tema-862/SKILL.md"
 triggers:
   - "Tema 862 STJ"
   - "Tema 1.225 STF"
@@ -16,10 +16,15 @@ triggers:
   - "dia seguinte à cessação do auxílio-doença"
   - "auxílio-acidente após auxílio-doença"
   - "sequela redutora da capacidade"
-description: "Tema 862 STJ (repetitivo): o TERMO INICIAL do auxílio-acidente\ndeve recair no DIA SEGUINTE ao da cessação do auxílio-doença que\nlhe deu origem, conforme o art. 86 §2 da Lei 8.213/91,\nobservando-se a prescrição quinquenal da Súmula 85/STJ. NÃO se\nconfunde com a DII. Aplicável ao auxílio-acidente decorrente de\nqualquer espécie de auxílio-doença que originou as sequelas. O\nSTF negou repercussão geral à matéria (Tema 1.225, RE 1.382.897:\nquestão infraconstitucional)."
+description: "Usar para pesquisar ou analisar: Termo Inicial do Auxílio-Acidente após Auxílio-Doença (Tema 862 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo Inicial do Auxílio-Acidente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "previdenciario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/previdenciario/bpc-loas-lei-8742.md"
+sourcePath: "legalbr/materia/previdenciario/bpc-loas-lei-8742/SKILL.md"
 triggers:
   - "BPC"
   - "LOAS"
@@ -23,10 +23,15 @@ triggers:
   - "Bolsa Família"
   - "Lei 14.601"
   - "CadÚnico"
-description: "BPC/LOAS (CF 203 V + Lei 8.742/93 + Dec. 6.214/07): idoso ≥ 65 ou\nPcD impedimento ≥ 2 anos; miserabilidade com renda per capita < 1/4 SM\n(presunção relativa, Temas 27 STF/185 STJ); 1 SM mensal, sem 13º,\ninacumulável; CadÚnico obrigatório; CRAS + INSS Digital; avaliação social\ne médica para PcD; revisão bienal; suspensão se trabalho remunerado PcD.\nInclui Bolsa Família (Lei 14.601/2023): bloqueio, cancelamento e\nrestabelecimento, regra de proteção e ressarcimento só com dolo."
+description: "Usar para pesquisar ou analisar: BPC/LOAS, Benefício de Prestação Continuada (Lei 8.742/93 + Dec. 6.214/07). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # BPC/LOAS: Benefício de Prestação Continuada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

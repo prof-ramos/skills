@@ -5,8 +5,8 @@ title: "Greve do Servidor Público (CF 37 VII + MI 670/708/712 + Tema 531)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/greve-servidor-cf-37-vii.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/greve-servidor-cf-37-vii/SKILL.md"
 triggers:
   - "greve servidor público"
   - "CF 37 VII"
@@ -18,10 +18,15 @@ triggers:
   - "corte de ponto"
   - "Lei 13.300/2016"
   - "CF 142 §3 IV"
-description: "CF 37 VII greve servidor civil \"nos termos de LEI ESPECÍFICA\"\n(eficácia limitada, Congresso INERTE); STF MIs 670/708/712\n(2007): postura CONCRETISTA GERAL + aplicação ANALÓGICA da Lei\n7.783/1989 (greve privada); Tema 531 STF (DESCONTO dos dias de\nparalisação); Tema 541 STF (greve VEDADA a carreiras de\nsegurança pública + mediação obrigatória); Lei 13.300/2016 MI;\nmilitares NÃO podem greve (CF 142 §3 IV)."
+description: "Usar para pesquisar ou analisar: Greve do Servidor Público (CF 37 VII + MI 670/708/712 + Tema 531). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Greve do Servidor Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 37 VII (redação EC 19/1998)
 

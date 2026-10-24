@@ -5,8 +5,8 @@ title: "Defesa em Consumerismo"
 category: "forma"
 materia: null
 documentType: "defesa-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/defesa-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/defesa-consumerista/SKILL.md"
 triggers:
   - "contestação do fornecedor em ação consumerista"
   - "defesa em relação de consumo"
@@ -15,10 +15,15 @@ triggers:
   - "fortuito interno e fortuito externo"
   - "culpa exclusiva do consumidor ou de terceiro"
   - "decadência do art. 26 e prescrição do art. 27"
-description: "Defesa em consumerismo sob o CDC e o CPC: contestação em camadas pela\neventualidade, com impugnação da própria relação de consumo (teoria\nfinalista, com mitigação para PJ vulnerável); resistência à inversão\ndo ônus do art. 6º VIII (regra de instrução, 2ª Seção do STJ);\nimpugnação especificada dos fatos (CPC 341); mérito em camadas\n(excludentes, dano moral); sucumbência em dano moral parcial\n(Súm. 326 STJ)."
+description: "Usar para redigir ou revisar: Defesa em Consumerismo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Consumerismo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura em camadas
 

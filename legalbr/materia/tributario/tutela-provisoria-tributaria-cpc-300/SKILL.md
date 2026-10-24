@@ -5,8 +5,8 @@ title: "Tutela Provisória em Matéria Tributária (CPC 294-311 + CTN 151 V)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/tutela-provisoria-tributaria-cpc-300.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/tutela-provisoria-tributaria-cpc-300/SKILL.md"
 triggers:
   - "tutela provisória tributária"
   - "CPC 300"
@@ -16,10 +16,15 @@ triggers:
   - "tutela de urgência"
   - "tutela de evidência"
   - "suspensão exigibilidade tutela"
-description: "Tutela provisória CPC 294-311 em matéria tributária: urgência\n(CPC 300: fumus + periculum) ou evidência (CPC 311: prova\nirrefutável + tese repetitiva); concessão suspende exigibilidade\ndo crédito (CTN 151 V); LC 104/2001 confirmou; compensação vedada\nantes do trânsito em julgado (CTN 170-A; Súm. 212 STJ cancelada\nem 2022); caução pode ser exigida; revogável (CPC 296)."
+description: "Usar para pesquisar ou analisar: Tutela Provisória em Matéria Tributária (CPC 294-311 + CTN 151 V). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Provisória Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

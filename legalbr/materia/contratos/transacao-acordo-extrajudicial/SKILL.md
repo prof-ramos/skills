@@ -5,8 +5,8 @@ title: "Transação / Acordo Extrajudicial (CC 840-850)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/transacao-acordo-extrajudicial.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/transacao-acordo-extrajudicial/SKILL.md"
 triggers:
   - "transação extrajudicial"
   - "acordo extrajudicial"
@@ -20,10 +20,15 @@ triggers:
   - "quitação ampla"
   - "res judicata"
   - "homologação de acordo"
-description: "Transação extrajudicial (CC 840-850): concessões recíprocas,\ndireitos disponíveis, escrito (842), preclusiva (843), título\nexecutivo (CPC 784 III e IV), quitação, invalidação (849-850)."
+description: "Usar para pesquisar ou analisar: Transação / Acordo Extrajudicial (CC 840-850). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transação / Acordo Extrajudicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

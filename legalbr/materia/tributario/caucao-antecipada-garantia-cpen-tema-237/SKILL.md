@@ -5,8 +5,8 @@ title: "Caução Antecipada de Garantia para CPD-EN (Tema 237 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/caucao-antecipada-garantia-cpen-tema-237.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/caucao-antecipada-garantia-cpen-tema-237/SKILL.md"
 triggers:
   - "caução antecipada execução fiscal"
   - "antecipação de garantia execução fiscal"
@@ -17,10 +17,15 @@ triggers:
   - "tutela cautelar de caução tributária"
   - "CTN 206 caução"
   - "caução antes da execução fiscal"
-description: "Tema 237 STJ (REsp 1.123.669): após o vencimento e ANTES da execução\nfiscal, o contribuinte pode garantir o juízo antecipadamente para obter\nCPD-EN (CTN 206); caução equiparada à penhora antecipada, exigida\ngarantia idônea e SUFICIENTE; NÃO suspende exigibilidade (CTN 151\ntaxativo + Súm. 112 STJ + Tema 378); natureza de incidente sem\nhonorários; ação de empresas que dependem de regularidade fiscal para\nlicitações e crédito."
+description: "Usar para pesquisar ou analisar: Caução Antecipada de Garantia para CPD-EN (Tema 237 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Caução Antecipada de Garantia para CPD-EN (Tema 237 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese vinculante
 

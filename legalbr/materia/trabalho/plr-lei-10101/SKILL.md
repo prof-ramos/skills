@@ -5,8 +5,8 @@ title: "Participação nos Lucros e Resultados (Lei 10.101/2000)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/plr-lei-10101.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/plr-lei-10101/SKILL.md"
 triggers:
   - "PLR"
   - "participação nos lucros"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 10.101"
   - "gratificação semestral"
   - "Súm. 451 TST"
-description: "PLR (CF 7 XI + Lei 10.101/2000): natureza indenizatória, desvinculada\nda remuneração (CF 7 XI); pagamento por ACT/CCT ou comissão paritária;\nno máximo 2 parcelas por exercício (Lei 14.020/2020 alterou); regras\nespecíficas para metas, periodicidade, prescrição (Tema 1.046 STF)."
+description: "Usar para pesquisar ou analisar: Participação nos Lucros e Resultados (Lei 10.101/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Participação nos Lucros e Resultados (PLR)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

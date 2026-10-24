@@ -5,8 +5,8 @@ title: "Responsabilidade Civil Avançada (Médica + Ambiental + Plataformas + Es
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-civil-avancada.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-civil-avancada/SKILL.md"
 triggers:
   - "responsabilidade civil médica"
   - "responsabilidade civil ambiental"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 707 STJ"
   - "dano moral coletivo"
   - "REsp 1.502.967"
-description: "Responsabilidade civil avançada sob o CC (186, 187, 927 e 932), o CDC\n(12-25), a CF (37 §6º; 225 §3º), a Lei 6.938/81 e o Marco Civil da\nInternet (Tema 987/STF, tese fixada): microssistemas da\nresponsabilidade médica, ambiental, digital, de atividade de risco e\ndo Estado; regras de nexo causal, danos cumuláveis e dano moral\ncoletivo; excludentes diferenciadas por regime e prazos prescricionais\naplicáveis."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil Avançada (Médica + Ambiental + Plataformas + Estado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil Avançada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

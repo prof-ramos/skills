@@ -6,7 +6,7 @@ category: "materia"
 materia: "saude"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/saude/sus-cf-196-200-lei-8080.md"
+sourcePath: "legalbr/materia/saude/sus-cf-196-200-lei-8080/SKILL.md"
 triggers:
   - "SUS"
   - "Sistema Único de Saúde"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 14.307/2022"
   - "Lei 15.448 tromboembolismo venoso"
   - "prevenção tromboembolismo hospital"
-description: "SUS: CF 196-200; organização e integralidade na Lei 8.080/1990;\nparticipação e repasses na Lei 8.142/1990; pisos da LC 141/2012;\nCONITEC, RENAME, RENASES e prazos da Lei 14.307/2022."
+description: "Usar para pesquisar ou analisar: SUS (CF 196-200 + Lei 8.080/1990 + Lei 8.142/1990 + LC 141/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema Único de Saúde (SUS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 196-200: base constitucional
 

@@ -5,8 +5,8 @@ title: "CARF + Voto de Qualidade (Lei 13.988/2020 + Lei 14.689/2023 + ADIs 7.347
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/carf-voto-qualidade-14689.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/carf-voto-qualidade-14689/SKILL.md"
 triggers:
   - "CARF"
   - "voto de qualidade"
@@ -19,10 +19,15 @@ triggers:
   - "ADI 6.403"
   - "empate julgamento fiscal"
   - "transação Lei 14.375/2022"
-description: "CARF tribunal admin. paritário 2ª instância PAF; Lei 13.988/2020\nart. 19-E REVOGOU voto qualidade (empate PRÓ-CONTRIBUINTE);\nLei 14.689/2023 RESTABELECEU voto PRÓ-FAZENDA + compensações\n(AFASTA MULTAS qualif/mora + sem repres. penal + 12x sem juros +\nPF/BNCSLL + limita honorários); ADI 7.548 (Lei 14.689) e ADIs\n7.347/7.353 (MP 1.160/2023) PENDENTES; transação Lei 13.988/2020\n+ Lei 14.375/2022 + editais PGDAU."
+description: "Usar para pesquisar ou analisar: CARF + Voto de Qualidade (Lei 13.988/2020 + Lei 14.689/2023 + ADIs 7.347). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CARF + Voto de Qualidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CARF
 

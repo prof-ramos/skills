@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-eca-240-244.md"
+sourcePath: "legalbr/materia/penal/crimes-eca-240-244/SKILL.md"
 triggers:
   - "crimes ECA"
   - "ECA 240"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 14.811 crimes ECA hediondos"
   - "grooming aliciamento infantil"
   - "Lei 15.487 violência sexual infantil"
-description: "Crimes dos arts. 240 a 244-B do ECA, com penas, material sexual real\nou fictício, IA, aliciamento, majorantes digitais, hediondez taxativa,\nconcurso entre 241-A e 241-B e competência por transnacionalidade."
+description: "Usar para pesquisar ou analisar: Crimes ECA 240-244 (Lei 15.487/2026 + Tema 1.168 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes do ECA: arts. 240-244
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 8.069/1990 (ECA)
 

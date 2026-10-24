@@ -5,8 +5,8 @@ title: "Rescisão Indireta (CLT 483)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/rescisao-indireta-clt-483.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/rescisao-indireta-clt-483/SKILL.md"
 triggers:
   - "rescisão indireta"
   - "CLT 483"
@@ -18,10 +18,15 @@ triggers:
   - "não recolhimento do FGTS"
   - "retenção da CTPS"
   - "culpa recíproca CLT 484"
-description: "Rescisão indireta (CLT 483): justa causa do empregador, em que o\nempregado rompe o vínculo; alíneas a-g (exigência de serviços alheios,\nrigor excessivo, perigo, descumprimento, lesão à honra, ofensas\nfísicas, redução de tarefa em comissionista); imediatidade flexibilizada;\npagamento em audiência não elide a mora (Súm. 13 TST); verbas iguais\nà dispensa imotivada."
+description: "Usar para pesquisar ou analisar: Rescisão Indireta (CLT 483). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Rescisão Indireta
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

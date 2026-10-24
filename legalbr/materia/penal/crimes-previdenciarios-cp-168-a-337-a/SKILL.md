@@ -5,8 +5,8 @@ title: "Crimes Previdenciários (CP 168-A + CP 337-A)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-previdenciarios-cp-168-a-337-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-previdenciarios-cp-168-a-337-a/SKILL.md"
 triggers:
   - "apropriação indébita previdenciária"
   - "sonegação previdenciária"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.353 STJ"
   - "Lei 10.684/2003 art. 9"
   - "extinção pelo pagamento"
-description: "Crimes previdenciários sob CP 168-A (apropriação, recl. 2-5) +\nCP 337-A (sonegação, recl. 2-5), Lei 9.983/2000: crime MATERIAL\nexige constituição definitiva do crédito (SV 24); extinção pelo\npagamento integral a QUALQUER TEMPO (Lei 10.684 art. 9 §2);\nSúm. 599 STJ (sem insignificância); Tema 1.166 STJ (natureza\nmaterial); Tema 1.353 STJ (vedada continuidade delitiva entre\n168-A e 337-A); competência JF (CF 109 IV)."
+description: "Usar para pesquisar ou analisar: Crimes Previdenciários (CP 168-A + CP 337-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Previdenciários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 168-A: Apropriação Indébita Previdenciária (Lei 9.983/2000)
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "interdicao-curatela"
 version: 2
-sourcePath: "lib/skills/official/forma/interdicao-curatela.md"
+sourcePath: "legalbr/forma/interdicao-curatela/SKILL.md"
 triggers:
   - "interdição"
   - "curatela compartilhada"
@@ -17,10 +17,15 @@ triggers:
   - "CPC 747"
   - "estatuto pessoa com deficiência"
   - "conversão da curatela em tomada de decisão apoiada"
-description: "Curatela extraordinária e proporcional (CC 1.767; Lei 13.146/15), restrita a\natos patrimoniais e negociais (art. 85 EPD); CPC 747-758 exige entrevista e\nperícia biopsicossocial; admite curatela compartilhada (CC 1.775-A)."
+description: "Usar para redigir ou revisar: Ação de Interdição e Curatela. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Interdição e Curatela
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

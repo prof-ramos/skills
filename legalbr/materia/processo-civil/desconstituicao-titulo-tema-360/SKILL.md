@@ -5,8 +5,8 @@ title: "Desconstituição de Título Inexigível por Decisão STF (Tema 360 STF 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/desconstituicao-titulo-tema-360.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/desconstituicao-titulo-tema-360/SKILL.md"
 triggers:
   - "Tema 360 STF"
   - "art. 741 p.un. CPC 73"
@@ -14,10 +14,15 @@ triggers:
   - "inexigibilidade título"
   - "decisão STF posterior"
   - "RE 611.503"
-description: "Tema 360 STF (redação da tese alterada nos ED do RE 586.068,\nfinalizados em 09/03/2026): CONSTITUCIONAIS o CPC/73 art. 741\np.ún. e art. 475-L §1 e os CPC/15 arts. 525 §1 III e §12 e 535\n§5; inexigibilidade do título fundado em norma declarada\ninconstitucional arguível seja a decisão do STF anterior ou\nposterior ao trânsito, salvo preclusão; CPC 525 §14 e 535 §7\ninconstitucionais (ADPF 615); rescisória do 535 §8 concorrente."
+description: "Usar para pesquisar ou analisar: Desconstituição de Título Inexigível por Decisão STF (Tema 360 STF + CPC 535). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desconstituição de Título por Decisão STF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

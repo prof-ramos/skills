@@ -5,8 +5,8 @@ title: "Bancos de Dados de Consumidores (CDC 43-44 + Lei 12.414/11 + LGPD)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/bancos-dados-consumidores.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/bancos-dados-consumidores/SKILL.md"
 triggers:
   - "bancos de dados"
   - "cadastros de consumidores"
@@ -14,10 +14,15 @@ triggers:
   - "cadastro positivo"
   - "Tema 710 STJ"
   - "score de crédito"
-description: "Bancos de dados e cadastros de consumidores (CDC arts. 43-44;\nLei 12.414/2011 e LC 166/2019 Cadastro Positivo; LGPD arts. 7 X\ne 20; Lei 14.181/2021 superendividamento): direito de acesso e\nretificação, prazo máximo de 5 anos, comunicação prévia (Súm. 359\nSTJ); score de crédito (Tema 710 STJ); negativação indevida e dano\nmoral in re ipsa (Súm. 385 a contrario)."
+description: "Usar para pesquisar ou analisar: Bancos de Dados de Consumidores (CDC 43-44 + Lei 12.414/11 + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bancos de Dados de Consumidores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Credit Scoring (Tema 710 STJ + LGPD)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/credit-scoring-licitude.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/credit-scoring-licitude/SKILL.md"
 triggers:
   - "credit scoring"
   - "score de crédito"
@@ -18,10 +18,15 @@ triggers:
   - "Serasa Experian"
   - "transparência scoring"
   - "LGPD scoring"
-description: "Credit scoring (perfil de crédito) sob Tema 710 STJ (REsp 1.419.697)\n+ Lei 12.414/2011 (Cadastro Positivo) + LGPD: prática lícita\ndesde que respeite transparência (direito de saber os dados +\nfontes + critérios gerais) e não use dados sensíveis ou\ndiscriminatórios; ausência de comunicação prévia ao consumidor\nda abertura do perfil: exigência afastada (não é cadastro\nrestritivo); dano moral por uso abusivo + discriminatório."
+description: "Usar para pesquisar ou analisar: Credit Scoring (Tema 710 STJ + LGPD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Credit Scoring
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

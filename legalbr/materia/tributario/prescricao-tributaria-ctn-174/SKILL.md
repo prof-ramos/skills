@@ -5,8 +5,8 @@ title: "Prescrição Tributária (CTN 174 + LC 118/2005 + Súms. 314, 409, 622)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/prescricao-tributaria-ctn-174.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-tributaria-ctn-174/SKILL.md"
 triggers:
   - "prescrição tributária"
   - "CTN 174"
@@ -18,10 +18,15 @@ triggers:
   - "interrupção prescrição"
   - "suspensão prescrição"
   - "dívida ativa prescrita"
-description: "Prescrição CTN 174 (5 anos da constituição definitiva); LC 118/05\nalterou hipótese de interrupção (despacho do juiz que ordena\ncitação retroage à distribuição, Súm. 106 STJ); interrupções CTN\n174 §; Súm. 436 STJ (entrega da declaração DCTF/GIA constitui\no crédito); Súm. 622 STJ (auto de infração: notificação interrompe\ndecadência e esgotada a via administrativa inicia a prescrição);\nSúm. 409 STJ (matéria de ordem pública, arguição de ofício)."
+description: "Usar para pesquisar ou analisar: Prescrição Tributária (CTN 174 + LC 118/2005 + Súms. 314, 409, 622). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 3, Contraditório e Ampla Defesa no TCU (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/sumula-vinculante-3-tcu-contraditorio.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-3-tcu-contraditorio/SKILL.md"
 triggers:
   - "Súmula Vinculante 3"
   - "SV 3"
@@ -18,10 +18,15 @@ triggers:
   - "RE 636.553"
   - "prazo decadencial Corte de Contas"
   - "revogação ato beneficia"
-description: "SV 3 STF (30/05/2007): assegura contraditório e ampla defesa nos\nprocessos do TCU quando da decisão puder resultar anulação ou\nrevogação de ato administrativo que beneficie o interessado;\nexceção para apreciação da legalidade do ato de concessão inicial\nde aposentadoria, reforma e pensão; Tema 445 (RE 636.553) fixou\nprazo de 5 anos para análise pelo TCU, após o qual incide\ncontraditório pleno; aplica-se também a TCEs/TCMs."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 3, Contraditório e Ampla Defesa no TCU (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 3, Contraditório e Ampla Defesa no TCU
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-interrogatorio"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-interrogatorio-criminal.md"
+sourcePath: "legalbr/forma/defesa-interrogatorio-criminal/SKILL.md"
 triggers:
   - "CPP 185"
   - "CPP 186"
@@ -18,10 +18,15 @@ triggers:
   - "Lei 10.792 interrogatório"
   - "autodefesa"
   - "defesa no interrogatório"
-description: "Defesa no interrogatório (CPP 185-196 + Lei 10.792/2003 + CF 5º LXIII):\nato de DEFESA, não de prova da acusação; direito ao SILÊNCIO que NÃO\nPODE ser interpretado em desfavor (CPP 186 §único); ENTREVISTA PRÉVIA\ncom defensor (CPP 185 §5º); presença do defensor INDISPENSÁVEL;\nvideoconferência apenas excepcional (Lei 11.900/2009); última fase\nda instrução (CPP 400); novo interrogatório a qualquer tempo (CPP 196)."
+description: "Usar para redigir ou revisar: Defesa em Interrogatório Criminal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa em Interrogatório Criminal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

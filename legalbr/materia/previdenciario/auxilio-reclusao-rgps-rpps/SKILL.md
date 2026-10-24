@@ -5,8 +5,8 @@ title: "Auxílio-Reclusão (Lei 8.213 art. 80)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-reclusao-rgps-rpps.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-reclusao-rgps-rpps/SKILL.md"
 triggers:
   - "auxílio-reclusão"
   - "Lei 8.213 art. 80"
@@ -14,10 +14,15 @@ triggers:
   - "dependente preso"
   - "Lei 13.846"
   - "regime fechado"
-description: "Auxílio-reclusão (CF 201 IV + Lei 8.213 art. 80 + Lei 13.846/2019):\nbenefício previdenciário a DEPENDENTES de segurado de BAIXA RENDA\nrecolhido à prisão; pós-2019 exige regime FECHADO + segurado com\nqualidade + carência de 24 contribuições + comprovação da prisão;\nbaixa renda atualizada por portaria (ex.: R$ 1.819,26 em 2024);\ncessação com soltura, evasão, perda de qualidade, óbito do\nsegurado, e maioridade civil dos filhos; STF Tema 89 (filhos\nainda dependentes mesmo após maioridade)."
+description: "Usar para pesquisar ou analisar: Auxílio-Reclusão (Lei 8.213 art. 80). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Reclusão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

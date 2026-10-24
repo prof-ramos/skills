@@ -6,6 +6,7 @@ import re
 import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
+PROTOCOL = ROOT / 'legalbr/SKILL.md'
 HUB = ROOT / 'skills/legalbr/SKILL.md'
 FLOW = ROOT / 'skills/legalbr/references/fluxos-operacionais.md'
 NDA = ROOT / 'legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md'
@@ -14,7 +15,7 @@ PROVENANCE = ROOT / 'legalbr/PROVENIENCIA-FLUXOS.md'
 
 class LegalBRWorkflowTests(unittest.TestCase):
     def test_relative_links_resolve(self):
-        for path in (HUB, FLOW, NDA, COOKIES, PROVENANCE, *(p.parent/'references/PROVENIENCIA.md' for p in (HUB, NDA, COOKIES))):
+        for path in (PROTOCOL, HUB, FLOW, NDA, COOKIES, PROVENANCE, *(p.parent/'references/PROVENIENCIA.md' for p in (HUB, NDA, COOKIES))):
             for target in re.findall(r'\]\(([^)]+)\)', path.read_text()):
                 if '://' not in target and not target.startswith('#'):
                     self.assertTrue((path.parent / target.split('#')[0]).exists(), (path, target))
@@ -29,6 +30,13 @@ class LegalBRWorkflowTests(unittest.TestCase):
             content = path.read_text().casefold()
             for term in terms:
                 self.assertIn(term.casefold(), content, (path, term))
+
+    def test_hubs_share_protocol_and_flows(self):
+        self.assertIn("../../legalbr/SKILL.md", HUB.read_text())
+        self.assertIn("../skills/legalbr/references/fluxos-operacionais.md", PROTOCOL.read_text())
+        for path in (NDA, COOKIES):
+            self.assertIn("../../../SKILL.md", path.read_text())
+            self.assertIn("verifiedAt: null", path.read_text())
 
     def test_canonical_ids_unchanged(self):
         self.assertIn('id: "c5988b17-14e8-4158-a8d3-11bf1578638c"', NDA.read_text())

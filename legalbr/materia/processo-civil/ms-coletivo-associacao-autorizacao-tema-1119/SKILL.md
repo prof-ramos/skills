@@ -5,8 +5,8 @@ title: "MS Coletivo e Autorização Expressa de Filiados (Tema 1.119 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/ms-coletivo-associacao-autorizacao-tema-1119.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/ms-coletivo-associacao-autorizacao-tema-1119/SKILL.md"
 triggers:
   - "Tema 1.119 STF"
   - "MS coletivo associação"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 82 STF"
   - "RE 573.232"
   - "execução título coletivo"
-description: "Tema 1.119 STF (ARE 1.293.130, 17/12/2020): em MS COLETIVO\npor ASSOCIAÇÃO, NÃO se exige autorização expressa dos\nfiliados nem relação nominal para cobrança de valores\npretéritos individuais (substituição processual ampla).\nDistinção: para AÇÕES ORDINÁRIAS de cobrança, sindicato\nexige autorização (Tema 823 STF reverso). Lei 12.016/09 +\nCF 5 LXX."
+description: "Usar para pesquisar ou analisar: MS Coletivo e Autorização Expressa de Filiados (Tema 1.119 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MS Coletivo + Autorização dos Filiados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

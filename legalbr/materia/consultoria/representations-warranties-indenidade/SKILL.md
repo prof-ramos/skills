@@ -5,8 +5,8 @@ title: "Representations, Warranties e Indenidade em M&A"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/representations-warranties-indenidade.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/representations-warranties-indenidade/SKILL.md"
 triggers:
   - "representations warranties"
   - "reps and warranties"
@@ -16,10 +16,15 @@ triggers:
   - "sandbagging"
   - "W&I insurance"
   - "representação contratual"
-description: "R&W e indenidade em M&A: declarações fundamentais × operacionais,\nqualifications (knowledge, materiality, disclosure schedule),\nbaskets (deductible × tipping), cap, survival period, anti-\nsandbagging, special indemnities, escrow e holdback, W&I\ninsurance (RWI), procedimento de claim e mitigação (CC 402-403)\nsob direito brasileiro."
+description: "Usar para pesquisar ou analisar: Representations, Warranties e Indenidade em M&A. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Representations, Warranties e Indenidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Categorias de R&W
 

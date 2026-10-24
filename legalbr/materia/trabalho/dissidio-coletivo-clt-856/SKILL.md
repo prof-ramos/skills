@@ -5,8 +5,8 @@ title: "Dissídio Coletivo (CLT 856-871 + CF 114 §2 + ADPF 323)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/direito-coletivo-sindical/dissidio-coletivo-clt-856.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/dissidio-coletivo-clt-856/SKILL.md"
 triggers:
   - "dissídio coletivo"
   - "CLT 856"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 277 TST revogada"
   - "dissídio de greve"
   - "CLT 614 §3"
-description: "Dissídio coletivo CLT 856-871: poder normativo CF 114 §2; comum\nacordo (EC 45/2004; ADI 3.392 julgada: exigência constitucional);\nespécies (econômico + jurídico + greve + revisional); legitimados\nsindicatos + federações + confederações + MPT (greve em atividade\nessencial, LC 75/93); sentença normativa erga omnes com vigência\nmáxima de 4 anos; ADPF 323 STF (afastou a ultratividade da Súm. 277\nTST); CLT 614 §3 (Lei 13.467) veda a ultratividade."
+description: "Usar para pesquisar ou analisar: Dissídio Coletivo (CLT 856-871 + CF 114 §2 + ADPF 323). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dissídio Coletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

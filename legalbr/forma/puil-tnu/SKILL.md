@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "puil-tnu"
 version: 2
-sourcePath: "lib/skills/official/forma/puil-tnu.md"
+sourcePath: "legalbr/forma/puil-tnu/SKILL.md"
 triggers:
   - "pedido de uniformização"
   - "PUIL"
@@ -17,10 +17,15 @@ triggers:
   - "art. 14 Lei 10.259"
   - "art. 18 Lei 12.153"
   - "incidente de uniformização juizados"
-description: "Pedido de uniformização nos JEFs e JEFPs: cabimento, competência,\nprazo, paradigma, cotejo analítico, sobrestamento, reclamação e percurso\nentre Turmas Recursais, TRU, TNU e STJ."
+description: "Usar para redigir ou revisar: Pedido de Uniformização (PUIL / TRU / TNU / STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Uniformização de Interpretação de Lei (PUIL)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento
 

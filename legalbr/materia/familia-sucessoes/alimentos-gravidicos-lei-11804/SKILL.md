@@ -5,8 +5,8 @@ title: "Alimentos Gravídicos (Lei 11.804/2008 + CC 1.694 + Súm. 309 STJ)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/alimentos-gravidicos-lei-11804.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/alimentos-gravidicos-lei-11804/SKILL.md"
 triggers:
   - "alimentos gravídicos"
   - "Lei 11.804/2008"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 309 STJ"
   - "alimentos ao nascituro"
   - "indícios paternidade"
-description: "Alimentos gravídicos Lei 11.804/2008: pensão à GESTANTE (não ao\nnascituro propriamente); fundamento CF 1 III + 226 §7 + 227;\ncobertura ampla (alimentação especial + médica + psicológica +\nparto + medicamentos); STANDARD probatório ATENUADO, por INDÍCIOS\nde paternidade (sem DNA prévio); conversão automática em\nalimentos comuns pós-parto; Súm. 309 STJ + prisão civil cabível."
+description: "Usar para pesquisar ou analisar: Alimentos Gravídicos (Lei 11.804/2008 + CC 1.694 + Súm. 309 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alimentos Gravídicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 11.804/2008: disciplina
 

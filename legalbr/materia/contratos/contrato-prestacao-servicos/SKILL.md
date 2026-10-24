@@ -5,8 +5,8 @@ title: "Contrato de Prestação de Serviços"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-prestacao-servicos.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-prestacao-servicos/SKILL.md"
 triggers:
   - "contrato de prestação de serviços"
   - "prestação de serviços civil"
@@ -19,10 +19,15 @@ triggers:
   - "PJ x CLT"
   - "pejotização"
   - "terceirização atividade-fim"
-description: "Prestação de serviços civil (CC 593-609): escopo, prazo (máx.\n4 anos, 598), remuneração, SLA, PI, não concorrência, distinção\ncom CLT (CLT 3 + Lei 13.467/17), rescisão (599-602)."
+description: "Usar para pesquisar ou analisar: Contrato de Prestação de Serviços. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Prestação de Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

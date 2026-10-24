@@ -5,8 +5,8 @@ title: "Compensação Tributária (CTN 170 + Lei 9.430/96 + Súms. 213/460/461 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/compensacao-tributaria-ctn-170.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/compensacao-tributaria-ctn-170/SKILL.md"
 triggers:
   - "compensação tributária"
   - "CTN 170"
@@ -20,10 +20,15 @@ triggers:
   - "habilitação prévia"
   - "habilitação prévia crédito judicial"
   - "compensação indébito anterior à impetração"
-description: "CTN 170 compensação por LEI EXPRESSA + créditos vencidos OU\nvincendos; CTN 170-A (LC 104/2001) VEDADA antes do TRÂNSITO em\nJULGADO; Lei 9.430/96 art. 74 federal (DCOMP, IN RFB 2.055/2021);\nhabilitação prévia do crédito judicial (IN RFB 2.055/21); Súm. 213 STJ (MS para\nDECLARAR OK) + Súm. 460 (MS NÃO convalida) + Súm. 461 (opção\nRPV/precatório × compensação); jurisprudência do STJ e Tema 118 (MS alcança indébito\ndos 5 anos anteriores); lei própria Estados/Municípios."
+description: "Usar para pesquisar ou analisar: Compensação Tributária (CTN 170 + Lei 9.430/96 + Súms. 213/460/461 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Compensação Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 170
 

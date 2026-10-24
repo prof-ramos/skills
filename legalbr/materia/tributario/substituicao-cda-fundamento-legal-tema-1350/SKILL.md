@@ -5,8 +5,8 @@ title: "Substituição de CDA, Vedação à Alteração do Fundamento Legal (Tem
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/substituicao-cda-fundamento-legal-tema-1350.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/substituicao-cda-fundamento-legal-tema-1350/SKILL.md"
 triggers:
   - "Tema 1.350 STJ"
   - "substituição CDA"
@@ -21,10 +21,15 @@ triggers:
   - "lançamento tributário"
   - "execução fiscal vícios"
   - "art. 203 CTN"
-description: "Tema 1.350 STJ (out/2025): a Fazenda NÃO PODE, ainda que antes da\nsentença de embargos, substituir ou emendar a CDA para incluir,\ncomplementar ou modificar o FUNDAMENTO LEGAL do crédito tributário.\nSúm. 392 STJ veda alteração do sujeito passivo. Art. 2 §8 LEF\npermite apenas correção de erro material/formal sem afetar a\nconstituição do crédito. Tema 166 STJ (REsp 1.045.472) confirmado."
+description: "Usar para pesquisar ou analisar: Substituição de CDA, Vedação à Alteração do Fundamento Legal (Tema 1.350 STJ + Súm. 392). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Substituição de CDA (Tema 1.350 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.350 STJ, 1ª Seção, 29/10/2025)
 

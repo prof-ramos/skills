@@ -5,8 +5,8 @@ title: "ITR (CF 153 VI + Lei 9.393/1996 + EC 42/2003 + Tema 226 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/itr-cf-153-vi-tema-226.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itr-cf-153-vi-tema-226/SKILL.md"
 triggers:
   - "ITR"
   - "CF 153 VI"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 11.250/2005"
   - "Tema 226 STF"
   - "Tema 174 STJ destinação rural"
-description: "ITR CF 153 VI União (territorial rural); CF 153 §4 EC 42/2003\n(PROGRESSIVO + desestimula improdutivas + IMUNE pequenas glebas\naté 30/50/100 ha conforme a região, sem outro imóvel + delegação\nMunicípio); Lei 9.393/\n1996; BC = VTN + alíquota 0,03-20% (grau de utilização); CF 158\nII Municípios 50% (100% se fiscalizar, Lei 11.250/2005); Tema\n226 STF (progressividade inconstitucional não anula a cobrança:\nalíquota mínima); Tema 174 STJ + DL 57/66 (destinação rural\ndefine ITR × IPTU); jurisprudência sobre área embargada e VTN."
+description: "Usar para pesquisar ou analisar: ITR (CF 153 VI + Lei 9.393/1996 + EC 42/2003 + Tema 226 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITR
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153 VI
 

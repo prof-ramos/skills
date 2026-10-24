@@ -5,8 +5,8 @@ title: "Indulto a Tráfico Privilegiado + SV 63 (Tema 1.400 STF + Lei 11.343 art
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/indulto-trafico-privilegiado-tema-1400-sv-63.md"
+version: 2
+sourcePath: "legalbr/materia/penal/indulto-trafico-privilegiado-tema-1400-sv-63/SKILL.md"
 triggers:
   - "Tema 1.400 STF"
   - "tráfico privilegiado indulto"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 512 STJ cancelada"
   - "CF 5 XLIII"
   - "hediondez tráfico privilegiado"
-description: "Tema 1.400 STF (RE 1.542.482, j. 30/05/2025): CONSTITUCIONAL\nindulto a condenado por tráfico privilegiado (art. 33 §4\nLei 11.343/06), por NÃO ser hediondo. SV 63 (PSV 125, set/2025)\nconsolidou: tráfico privilegiado não constitui crime hediondo\npara fins de progressão de regime/livramento. Decreto natalino\nnão pode excluir esses condenados. HC 118.533 + Súm. 512 STJ\ncancelada já apontavam nessa direção."
+description: "Usar para pesquisar ou analisar: Indulto a Tráfico Privilegiado + SV 63 (Tema 1.400 STF + Lei 11.343 art. 33 §4). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indulto + Tráfico Privilegiado (Não Hediondez)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

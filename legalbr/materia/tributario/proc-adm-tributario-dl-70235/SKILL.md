@@ -5,8 +5,8 @@ title: "Processo Administrativo Tributário (DL 70.235/1972 + LC 227/2026 + SV 2
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/proc-adm-tributario-dl-70235.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/proc-adm-tributario-dl-70235/SKILL.md"
 triggers:
   - "PAF processo administrativo fiscal"
   - "processo administrativo tributário"
@@ -21,10 +21,15 @@ triggers:
   - "SV 21"
   - "Súm. 373 STJ"
   - "Tema 487 STF"
-description: "PAF federal DL 70.235/1972 + Lei 9.784/99 subsidiária; bifásica:\nDRJ (1ª) + CARF (2ª, paridade + CSRF); CTN 151 III suspende\ndurante o PAF; SV 21 + Súm. 373 STJ vedam depósito prévio; LC\n227/2026 (art. 173) alterou o DL 70.235: impugnação em 20 DIAS\nÚTEIS + recesso 20/12-20/01 + prazo subsidiário de 10 dias\núteis; ADI 7.548 e ADIs 7.347/7.353 pendentes (voto qualidade);\nTema 487 STF (multa isolada: 60% do tributo vinculado, 100% com\nagravantes; 20% sem vínculo, 30% com agravantes)."
+description: "Usar para pesquisar ou analisar: Processo Administrativo Tributário (DL 70.235/1972 + LC 227/2026 + SV 21). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Administrativo Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

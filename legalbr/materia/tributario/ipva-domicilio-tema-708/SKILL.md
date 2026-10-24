@@ -5,8 +5,8 @@ title: "IPVA Estado do Domicílio (Tema 708 STF + RE 1.016.605)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/ipva-domicilio-tema-708.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipva-domicilio-tema-708/SKILL.md"
 triggers:
   - "Tema 708 STF"
   - "RE 1.016.605"
@@ -16,10 +16,15 @@ triggers:
   - "CTB 120"
   - "CTN 127"
   - "locadora veículos IPVA"
-description: "Tema 708 STF (RE 1.016.605, red. Min. Alexandre, 16/09/2020):\na CF autoriza a cobrança do IPVA somente pelo Estado em que o\ncontribuinte mantém sua sede ou domicílio tributário (CF 155 III\n+ CTN 127 + CTB 120). Modulação ex nunc desde 04/12/2020,\npreservando situações consolidadas. Estados prejudicados podem\nautuar retroativamente, respeitada decadência."
+description: "Usar para pesquisar ou analisar: IPVA Estado do Domicílio (Tema 708 STF + RE 1.016.605). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPVA Estado do Domicílio (Tema 708 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

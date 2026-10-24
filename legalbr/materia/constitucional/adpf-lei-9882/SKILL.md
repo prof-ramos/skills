@@ -5,8 +5,8 @@ title: "ADPF (CF 102 §1 + Lei 9.882/1999)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adpf-lei-9882.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adpf-lei-9882/SKILL.md"
 triggers:
   - "ADPF"
   - "arguição de descumprimento de preceito fundamental"
@@ -17,10 +17,15 @@ triggers:
   - "outro meio eficaz de sanar a lesividade"
   - "controvérsia constitucional relevante"
   - "lei pré-constitucional"
-description: "ADPF sob CF 102 §1 + Lei 9.882/1999: objeto = preceito\nFUNDAMENTAL (cláusulas pétreas + princípios + direitos fund.);\nautônoma (caput: ato lesivo) ou incidental (par. único:\ncontrovérsia + lei pré-CF); SUBSIDIARIEDADE flexibilizada\n(ADPF 33/76/388); legitimação CF 103; efeitos erga omnes +\nvinculante + ex tunc; casos ADPF 132 + 347 + 442 + 54."
+description: "Usar para pesquisar ou analisar: ADPF (CF 102 §1 + Lei 9.882/1999). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento
 

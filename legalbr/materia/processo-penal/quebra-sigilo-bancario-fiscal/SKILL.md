@@ -5,8 +5,8 @@ title: "Quebra de Sigilo Bancário, Fiscal e Telemático"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/quebra-sigilo-bancario-fiscal.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/quebra-sigilo-bancario-fiscal/SKILL.md"
 triggers:
   - "quebra sigilo bancário"
   - "sigilo fiscal"
@@ -18,10 +18,15 @@ triggers:
   - "cooperação BACEN"
   - "CPI quebra sigilo"
   - "Marco Civil dados"
-description: "Quebra de sigilo bancário/fiscal: LC 105/2001, autorização\njudicial OU compartilhamento Receita-MP (STF Tema 990, RE\n1.055.941); sigilo telemático Marco Civil + Lei 9.296; dados\ncadastrais dispensam ordem (Lei 12.850 art. 15); CPI tem poderes\ninvestigatórios próprios (CF 58 §3); fundamentação obrigatória;\nprazo + escopo definidos; exceções administrativas."
+description: "Usar para pesquisar ou analisar: Quebra de Sigilo Bancário, Fiscal e Telemático. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Quebra de Sigilo Bancário, Fiscal e Telemático
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos de sigilo
 

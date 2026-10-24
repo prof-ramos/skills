@@ -5,8 +5,8 @@ title: "Taifeiros da Aeronáutica + Cumulação de Benefícios (Tema 1.297 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/taifeiros-aeronautica-cumulacao-tema-1297.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/taifeiros-aeronautica-cumulacao-tema-1297/SKILL.md"
 triggers:
   - "Tema 1.297 STJ"
   - "taifeiros aeronáutica"
@@ -15,10 +15,15 @@ triggers:
   - "promoção inatividade militar"
   - "reforma militar grau superior"
   - "Suboficial taifeiro"
-description: "Tema 1.297 STJ (1ª Seção): compatível a aplicação\nCUMULATIVA da Lei 12.158/2009 e do art. 34 da MP 2.215-10/2001\naos taifeiros da Aeronáutica (reserva remunerada, reformados ou\nativos) que ingressaram no Quadro até 31/12/1992. Limite: o cargo\ndo Suboficial. MP 2.215-10 = reforma com salário do grau imediato\nsuperior; Lei 12.158 = promoção em inatividade."
+description: "Usar para pesquisar ou analisar: Taifeiros da Aeronáutica + Cumulação de Benefícios (Tema 1.297 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taifeiros da Aeronáutica + Cumulação de Benefícios (Tema 1.297 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.297 STJ, 1ª Seção)
 

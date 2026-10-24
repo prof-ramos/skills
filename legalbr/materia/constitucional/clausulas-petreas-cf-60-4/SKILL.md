@@ -5,8 +5,8 @@ title: "Cláusulas Pétreas (CF 60 §4 + limites materiais)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/clausulas-petreas-cf-60-4.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/clausulas-petreas-cf-60-4/SKILL.md"
 triggers:
   - "cláusulas pétreas"
   - "CF 60 §4"
@@ -18,10 +18,15 @@ triggers:
   - "princípios sensíveis"
   - "reforma constitucional"
   - "controle preventivo de PEC"
-description: "Cláusulas pétreas CF 60 §4 (forma federativa + voto direto +\nseparação Poderes + direitos individuais); \"tendente a abolir\"\nprotege NÚCLEO ESSENCIAL; ADI 939 (direitos individuais\nespalhados); CF 60 §§1-3+5 limites formais (3/5 + 2 turnos);\n§1 limites circunstanciais (intervenção/defesa/sítio); CF 34\nVII princípios sensíveis (≠ pétreas: autorizam intervenção);\nMS 20.257 + MS 32.033: controle prévio por parlamentar."
+description: "Usar para pesquisar ou analisar: Cláusulas Pétreas (CF 60 §4 + limites materiais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cláusulas Pétreas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 60 §4: VEDAÇÕES MATERIAIS
 

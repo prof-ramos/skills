@@ -5,8 +5,8 @@ title: "Estatuto da Igualdade Racial (Lei 12.288/2010 + ADC 41 + ADO 26 + Lei 14
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/estatuto-igualdade-racial-12288.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/estatuto-igualdade-racial-12288/SKILL.md"
 triggers:
   - "Estatuto da Igualdade Racial"
   - "Lei 12.288/2010"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 12.711/2012"
   - "Lei 14.723/2023"
   - "heteroidentificação"
-description: "Estatuto Igualdade Racial Lei 12.288/2010: PROMOVE direitos da\npopulação NEGRA (autodeclarados pretos+pardos); SINAPIR; cotas na\neducação Lei 12.711/2012 + Lei 14.723/2023 (1 SM + quilombolas);\ncotas em concursos federais Lei 12.990/2014 (20%) substituída pela\nLei 15.142/2025 (30%); STF ADPF 186 + ADC 41 + ADO 26\n(homotransfobia=racismo); Lei 14.532/2023 (injúria racial=racismo\nart. 2-A Lei 7.716 imprescritível)."
+description: "Usar para pesquisar ou analisar: Estatuto da Igualdade Racial (Lei 12.288/2010 + ADC 41 + ADO 26 + Lei 14.532/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto da Igualdade Racial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.288/2010
 

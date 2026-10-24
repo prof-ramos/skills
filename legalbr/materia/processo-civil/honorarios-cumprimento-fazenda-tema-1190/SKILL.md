@@ -5,8 +5,8 @@ title: "Honorários em Cumprimento contra Fazenda (Tema 1190 STJ + CPC 85 § 7 +
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-cumprimento-fazenda-tema-1190.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-cumprimento-fazenda-tema-1190/SKILL.md"
 triggers:
   - "Tema 1190 STJ"
   - "honorários cumprimento Fazenda"
@@ -22,10 +22,15 @@ triggers:
   - "cumprimento não impugnado"
   - "sucumbência Fazenda Pública"
   - "RE 420.816"
-description: "Tese do Tema 1190 STJ: na ausência de impugnação à execução\ncontra a Fazenda Pública (CPC 535), NÃO são devidos honorários\nsucumbenciais no cumprimento de sentença, ainda que o crédito\nseja pago por RPV. Corte Especial, 20/06/2024, com modulação:\naplica-se a cumprimentos iniciados APÓS publicação do acórdão\n(DJe 01/07/2024). REsps 2.029.636/SP e 2.041.563/SP. Tema 1190\né repetitivo do STJ, não RG do STF (controvérsia\ninfraconstitucional); constitucionalidade da regra reconhecida\nno RE 420.816 STF (art. 1-D da Lei 9.494/97)."
+description: "Usar para pesquisar ou analisar: Honorários em Cumprimento contra Fazenda (Tema 1190 STJ + CPC 85 § 7 + 534). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários em Cumprimento contra Fazenda (Tema 1190 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1190 STJ)
 

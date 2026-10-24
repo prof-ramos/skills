@@ -5,8 +5,8 @@ title: "Conduta Unilateral Anticoncorrencial (CADE)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/conduta-unilateral-cade.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/conduta-unilateral-cade/SKILL.md"
 triggers:
   - "conduta unilateral"
   - "abuso posição dominante"
@@ -20,10 +20,15 @@ triggers:
   - "plataformas digitais antitruste"
   - "self-preferencing"
   - "margin squeeze"
-description: "Condutas unilaterais anticoncorrenciais (Lei 12.529 art. 36): abuso de\nposição dominante praticado por agente com share ≥20% do mercado\nrelevante (presumido; cabível em menor share conforme setor). Tipologia:\npreço predatório, recusa de venda, exclusividade abusiva, tying e\nbundling, margin squeeze, sham litigation, discriminação de preços,\nself-preferencing em plataformas digitais. Análise: rule of reason,\nconforme a prática decisória do CADE. Sanções (art. 37):\nmulta 0,1% a 20% do faturamento bruto + sanções não pecuniárias.\nCoordenação com setor regulado."
+description: "Usar para pesquisar ou analisar: Conduta Unilateral Anticoncorrencial (CADE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conduta Unilateral Anticoncorrencial (CADE)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

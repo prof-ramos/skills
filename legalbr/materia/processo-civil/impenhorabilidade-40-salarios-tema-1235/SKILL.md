@@ -5,8 +5,8 @@ title: "Impenhorabilidade 40 SM + Preclusão (Tema 1235 STJ + CPC 833 X + 854 §
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/impenhorabilidade-40-salarios-tema-1235.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/impenhorabilidade-40-salarios-tema-1235/SKILL.md"
 triggers:
   - "Tema 1235 STJ"
   - "impenhorabilidade 40 salários mínimos"
@@ -20,10 +20,15 @@ triggers:
   - "mínimo existencial"
   - "bloqueio judicial"
   - "reserva financeira"
-description: "Tese do Tema 1235 STJ: a impenhorabilidade do art. 833 X CPC (40\nSM) NÃO é matéria de ordem pública e NÃO pode ser reconhecida\nde ofício. Deve ser ALEGADA pelo executado no primeiro momento\nem que lhe couber falar (em regra, 5 dias após indisponibilidade\nSISBAJUD, CPC 854 § 3 II), sob pena de PRECLUSÃO. REsps\n2.061.973/PR e 2.066.882/RS, Corte Especial, Rel. Min. Nancy\nAndrighi, j. 02/10/2024."
+description: "Usar para pesquisar ou analisar: Impenhorabilidade 40 SM + Preclusão (Tema 1235 STJ + CPC 833 X + 854 § 3). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impenhorabilidade dos 40 SM + Preclusão (Tema 1235 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1235 STJ)
 

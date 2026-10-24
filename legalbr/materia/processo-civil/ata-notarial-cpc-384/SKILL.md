@@ -5,8 +5,8 @@ title: "Ata Notarial (CPC 384)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/ata-notarial-cpc-384.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/ata-notarial-cpc-384/SKILL.md"
 triggers:
   - "ata notarial"
   - "CPC 384"
@@ -17,10 +17,15 @@ triggers:
   - "prova digital"
   - "e-Notariado"
   - "Lei 8935"
-description: "Ata notarial (CPC 384): documento lavrado por tabelião que atesta\nexistência e modo de existir fato; abrange dados digitais (CPC 384\npar. único); valor probatório de documento público (CPC 411 + 412);\nutilização em provas de WhatsApp, redes sociais, sites."
+description: "Usar para pesquisar ou analisar: Ata Notarial (CPC 384). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ata Notarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 384, conceito
 

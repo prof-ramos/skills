@@ -5,8 +5,8 @@ title: "Incidência do Teto Constitucional sobre Acumulação (Tema 359 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/teto-remuneratorio-acumulacao-tema-359.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/teto-remuneratorio-acumulacao-tema-359/SKILL.md"
 triggers:
   - "Tema 359 STF"
   - "teto remuneratório"
@@ -14,10 +14,15 @@ triggers:
   - "RE 602.584"
   - "CF 37 XI"
   - "acumulação pensão remuneração"
-description: "Tema 359 STF (RE 602.584, j. 06/08/2020): ocorrida a morte do\ninstituidor da pensão após a EC 19/1998, o teto constitucional\n(CF 37 XI) incide sobre o SOMATÓRIO de remuneração/provento +\nPENSÃO percebidos pelo servidor. NÃO se confunde com a\nacumulação lícita de CARGOS (Temas 377/384: teto por vínculo)."
+description: "Usar para pesquisar ou analisar: Incidência do Teto Constitucional sobre Acumulação (Tema 359 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teto Remuneratório e Acumulação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

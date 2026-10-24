@@ -5,8 +5,8 @@ title: "CDC: Produto e Serviço"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/cdc-produto-servico.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/cdc-produto-servico/SKILL.md"
 triggers:
   - "CDC"
   - "código de defesa do consumidor"
@@ -15,10 +15,15 @@ triggers:
   - "fato do produto"
   - "inversão do ônus"
   - "devolução em dobro"
-description: "CDC aplicado a produtos e serviços (Lei 8.078/90): conceito de\nconsumidor (arts. 2, 17 e 29; finalismo mitigado STJ); distinção\nentre vício (arts. 18-20 e 26) e fato do produto/serviço (arts.\n12-14 e 27); responsabilidade objetiva e excludentes; inversão\ndo ônus da prova; devolução em dobro objetiva (EAREsp 676.608,\nCorte Especial, modulação 30/03/2021)."
+description: "Usar para pesquisar ou analisar: CDC: Produto e Serviço. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CDC: Produto e Serviço
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Consumidor (arts. 2º, 17, 29)
 

@@ -5,8 +5,8 @@ title: "Abandono de Incapaz (CP 133 + Lei 15.163/2025)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/abandono-incapaz-cp-133.md"
+version: 2
+sourcePath: "legalbr/materia/penal/abandono-incapaz-cp-133/SKILL.md"
 triggers:
   - "abandono de incapaz"
   - "CP 133"
@@ -19,10 +19,15 @@ triggers:
   - "Estatuto Pessoa Idosa"
   - "Lei 14.423/2022"
   - "dever de garante"
-description: "Abandono de incapaz sob CP 133 (Lei 15.163/2025 elevou para\nRECLUSÃO 2-5; lesão grave 3-7; morte 8-14); §3 causas de aumento\n(lugar ermo + ascendente/descendente/cônjuge/irmão/tutor/curador\n+ vítima > 60); CP 134 (recém-nascido); CP 135 (omissão de socorro\ngenérica); CP 136 (maus-tratos, Lei 15.163 elevou pena);\ncrime de perigo concreto."
+description: "Usar para pesquisar ou analisar: Abandono de Incapaz (CP 133 + Lei 15.163/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Abandono de Incapaz (CP 133)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## ATUALIZAÇÃO CRÍTICA: Lei 15.163/2025 (jul/2025)
 

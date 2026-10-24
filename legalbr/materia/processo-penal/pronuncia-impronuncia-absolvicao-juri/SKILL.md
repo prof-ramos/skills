@@ -5,8 +5,8 @@ title: "Pronúncia + Impronúncia + Absolvição Sumária + Desclassificação (
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juri/pronuncia-impronuncia-absolvicao-juri.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/pronuncia-impronuncia-absolvicao-juri/SKILL.md"
 triggers:
   - "pronúncia"
   - "CPP 413"
@@ -19,10 +19,15 @@ triggers:
   - "in dubio pro societate"
   - "Tema 1.087 STF"
   - "Tema 1.068 STF"
-description: "Decisões do sumário de culpa do Júri sob CPP 413-419: pronúncia\n(413, materialidade + indícios suficientes + crime doloso contra\na vida); impronúncia (414); absolvição sumária (415 I-IV);\ndesclassificação (419); standard probatório qualificado e\ncontrovérsia sobre o in dubio pro societate; Tema 1.087 STF\n(quesito absolutório) e Tema 1.068 STF (execução provisória)."
+description: "Usar para pesquisar ou analisar: Pronúncia + Impronúncia + Absolvição Sumária + Desclassificação (CPP 413-419). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pronúncia + Impronúncia + Absolvição Sumária + Desclassificação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fase
 

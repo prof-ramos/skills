@@ -5,8 +5,8 @@ title: "Recurso Extraordinário + Repercussão Geral (CF 102 III + CPC 1.035)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-extraordinario-cf-102.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-extraordinario-cf-102/SKILL.md"
 triggers:
   - "recurso extraordinário"
   - "CF 102 III"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 356 STF"
   - "Tema 660 STF"
   - "suspensão nacional"
-description: "RE sob CF 102 III + CPC 1.029 + CPC 1.035: 4 alíneas de cabimento;\nexige REPERCUSSÃO GERAL (CF 102 §3, relevância + transcendência);\nRG presumida quando o acórdão contraria súmula/jurisprudência\ndominante do STF ou declara inconstitucionalidade de tratado/lei\nfederal (CPC 1.035 §3); CPC 1.035 §5 (suspensão nacional); Súms.\n282/356 (prequestionamento); Súm. 279 (sem reexame de prova);\nTema 660 (ofensa reflexa sem RG); reclamação CPC 988 IV."
+description: "Usar para pesquisar ou analisar: Recurso Extraordinário + Repercussão Geral (CF 102 III + CPC 1.035). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Extraordinário + Repercussão Geral
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais e legais
 

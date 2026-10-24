@@ -5,8 +5,8 @@ title: "Ação Civil Pública Consumerista"
 category: "forma"
 materia: null
 documentType: "acp-consumerista"
-version: 1
-sourcePath: "lib/skills/official/forma/acp-consumerista.md"
+version: 2
+sourcePath: "legalbr/forma/acp-consumerista/SKILL.md"
 triggers:
   - "ação civil pública consumerista"
   - "defesa coletiva do consumidor em juízo"
@@ -16,10 +16,15 @@ triggers:
   - "sentença genérica e liquidação individual"
   - "coisa julgada secundum eventum litis"
   - "fluid recovery art. 100 CDC e FDD"
-description: "Ação civil pública consumerista sob o microssistema da Lei 7.347/85 e\ndo CDC 81-104: direitos difusos, coletivos stricto sensu e individuais\nhomogêneos; legitimidade ativa concorrente; tutela específica e\nliminar do art. 84; sentença genérica e liquidação individual em\nhomogêneos; coisa julgada secundum eventum litis e fluid recovery do\nart. 100 com destinação ao FDD."
+description: "Usar para redigir ou revisar: Ação Civil Pública Consumerista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Civil Pública Consumerista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Microssistema
 

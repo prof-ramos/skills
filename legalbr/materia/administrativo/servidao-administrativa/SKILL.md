@@ -5,8 +5,8 @@ title: "Servidão Administrativa (DL 3.365/41 art. 40 + CC 1.378-1.389)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/servidao-administrativa.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/servidao-administrativa/SKILL.md"
 triggers:
   - "servidão administrativa"
   - "DL 3.365/1941 art. 40"
@@ -17,10 +17,15 @@ triggers:
   - "direito real sobre bem alheio"
   - "indenização servidão"
   - "inscrição no registro"
-description: "Servidão administrativa (DL 3.365/41 art. 40 + CC 1.378-1.389):\ndireito real público que impõe ônus real sobre imóvel privado\nem favor da Administração para utilidade pública; instituída por\nacordo + sentença + decreto + registro imobiliário; indenização\npelo dano efetivo (não pela propriedade); não confunde com\ndesapropriação (transfere domínio) nem com limitação administrativa\n(geral + gratuita) ou requisição (transitória + emergência)."
+description: "Usar para pesquisar ou analisar: Servidão Administrativa (DL 3.365/41 art. 40 + CC 1.378-1.389). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Servidão Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

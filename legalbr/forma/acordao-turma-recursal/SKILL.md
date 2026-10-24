@@ -5,8 +5,8 @@ title: "Acórdão e Voto em Turma Recursal"
 category: "forma"
 materia: null
 documentType: "acordao-turma-recursal"
-version: 3
-sourcePath: "lib/skills/official/forma/acordao-turma-recursal.md"
+version: 2
+sourcePath: "legalbr/forma/acordao-turma-recursal/SKILL.md"
 triggers:
   - "acórdão de turma recursal"
   - "voto em turma recursal"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 451 STF"
   - "sucumbência recursal no juizado art. 55"
   - "julgamento do recurso inominado pela turma recursal"
-description: "Acórdão e voto no julgamento de recurso pela Turma Recursal (Lei 9.099/95\narts. 41 §1º, 46, 48-50 e 55; subsidiária no JEF e no JEFP): julgamento\nregistrado em ata com indicação suficiente do processo, fundamentação\nsucinta e dispositivo; confirmação da sentença pelos próprios fundamentos\ncom a súmula do julgamento servindo de acórdão (Tema 451 STF); sucumbência\nrecursal do art. 55; cabe RE (Súm. 640 STF), não cabe REsp (Súm. 203 STJ)."
+description: "Usar para redigir ou revisar: Acórdão e Voto em Turma Recursal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acórdão e Voto em Turma Recursal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal e composição
 

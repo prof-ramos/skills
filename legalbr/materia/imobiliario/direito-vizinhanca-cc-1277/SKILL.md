@@ -5,8 +5,8 @@ title: "Direito de Vizinhança (CC 1.277-1.313)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direito-vizinhanca-cc-1277.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direito-vizinhanca-cc-1277/SKILL.md"
 triggers:
   - "direito de vizinhança"
   - "CC 1.277"
@@ -22,10 +22,15 @@ triggers:
   - "tapume"
   - "limites entre prédios"
   - "janela 1,5m art. 1.302"
-description: "Direito de vizinhança (CC 1.277-1.313): uso anormal (1.277:\nperigo - sossego - saude); árvores limítrofes (1.282-1.284);\npassagem forçada (1.285) × servidão (≠ contratual); águas\n(1.288-1.296); aqueduto (1.293); limites (1.297-1.298);\ndireito de construir (1.299-1.313) - janela 1,5m - parede\nmeeira; ação demolitória/de dano infecto; nunciação obra nova."
+description: "Usar para pesquisar ou analisar: Direito de Vizinhança (CC 1.277-1.313). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Vizinhança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Intervalos Especiais - Frio, Digitação e Interjornada (CLT 253, 72, 66
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/intervalos-especiais-clt-253-72-66.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/intervalos-especiais-clt-253-72-66/SKILL.md"
 triggers:
   - "pausa térmica frigorífico"
   - "intervalo câmara fria"
@@ -20,10 +20,15 @@ triggers:
   - "CLT 66 interjornada"
   - "supressão do intervalo interjornadas"
   - "Súm. 110 TST"
-description: "Intervalos especiais remunerados: pausa térmica do CLT 253 (20min a cada\n1h40 em ambiente artificialmente frio, Súm. 438 TST), pausas da NR-36 em\nfrigoríficos, intervalo do digitador (CLT 72 + Súm. 346 TST) e interjornada\nde 11h (CLT 66 + Súm. 110 TST; ex-OJ 355 cancelada)."
+description: "Usar para pesquisar ou analisar: Intervalos Especiais - Frio, Digitação e Interjornada (CLT 253, 72, 66). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intervalos Especiais: Frio, Digitação e Interjornada (CLT 253, 72, 66)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

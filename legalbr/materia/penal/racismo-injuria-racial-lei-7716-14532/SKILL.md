@@ -5,8 +5,8 @@ title: "Racismo + Injúria Racial (Lei 7.716/89 + Lei 14.532/23 + ADO 26)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/racismo-injuria-racial-lei-7716-14532.md"
+version: 2
+sourcePath: "legalbr/materia/penal/racismo-injuria-racial-lei-7716-14532/SKILL.md"
 triggers:
   - "racismo"
   - "injúria racial"
@@ -21,10 +21,15 @@ triggers:
   - "símbolos nazistas"
   - "suástica"
   - "preconceito de raça ou cor"
-description: "Lei 7.716/89 (Lei do Racismo) reformada pela Lei 14.532/2023:\narts. 2-A (INJÚRIA RACIAL, recl. 2-5 + multa) + 20 §2-A (contexto\nesportivo/religioso/artístico/cultural) + 20-A (aumento 1/3 até\nmetade em contexto de descontração/diversão/recreação) + 20-B\n(funcionário público). Crimes IMPRESCRITÍVEIS + INAFIANÇÁVEIS (CF 5\nXLII). ADO 26 + MI 4733 (STF 13/06/2019): LGBTfobia EQUIPARA-SE\na racismo. Lei 14.532 inclui RACISMO RELIGIOSO (intolerância\nqualificada)."
+description: "Usar para pesquisar ou analisar: Racismo + Injúria Racial (Lei 7.716/89 + Lei 14.532/23 + ADO 26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Racismo + Injúria Racial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 7.716/1989, Lei do Racismo (texto após Lei 14.532/2023)
 

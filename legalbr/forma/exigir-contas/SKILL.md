@@ -5,8 +5,8 @@ title: "Ação de Exigir Contas (Prestação de Contas)"
 category: "forma"
 materia: null
 documentType: "exigir-contas"
-version: 1
-sourcePath: "lib/skills/official/forma/exigir-contas.md"
+version: 2
+sourcePath: "legalbr/forma/exigir-contas/SKILL.md"
 triggers:
   - "ação de exigir contas"
   - "prestação de contas"
@@ -20,10 +20,15 @@ triggers:
   - "sentença como título executivo art. 552"
   - "administração de bens ou interesses alheios"
   - "mandato gestão de negócios e tutela curatela"
-description: "Ação de exigir contas (CPC 550-553): rito especial bifásico mantido\npelo CPC/15 após supressão da ação de dar contas; primeira fase de\nan debeatur com citação para prestar ou contestar em 15 dias e\nsentença declaratória do dever; segunda fase de apuração do saldo\ncom impugnação específica do art. 550 §3º; sentença vale como título\nexecutivo pelo art. 552."
+description: "Usar para redigir ou revisar: Ação de Exigir Contas (Prestação de Contas). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Exigir Contas (Prestação de Contas)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Mudança CPC/15
 

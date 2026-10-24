@@ -5,8 +5,8 @@ title: "Crimes Licitatórios (Lei 14.133/2021 + CP 337-E a 337-P)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-licitatorios-lei-14133.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-licitatorios-lei-14133/SKILL.md"
 triggers:
   - "crimes Lei 14.133"
   - "crimes licitação"
@@ -18,10 +18,15 @@ triggers:
   - "sobrepreço"
   - "direcionamento de licitação"
   - "colusão"
-description: "Crimes licitatórios pela Lei 14.133/2021 (nova Lei de Licitações)\nque revogou os tipos da Lei 8.666 e inseriu CP 337-E a 337-P:\ncontratação direta indevida (337-E), frustração de licitação (337-F),\npatrocínio (337-G), modificação ilícita (337-H), perturbação (337-I),\nviolação de sigilo (337-J), afastar licitante (337-K), fraude (337-L);\ncrimes da Lei 8.666 revogados em 01/04/2021 (art. 193 I); demais\ndispositivos da 8.666 revogados em 30/12/2023."
+description: "Usar para pesquisar ou analisar: Crimes Licitatórios (Lei 14.133/2021 + CP 337-E a 337-P). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Licitatórios (Lei 14.133/2021 + CP 337-E a 337-P)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco temporal
 

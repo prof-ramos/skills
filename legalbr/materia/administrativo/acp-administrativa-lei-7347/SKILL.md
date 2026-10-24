@@ -5,8 +5,8 @@ title: "Ação Civil Pública em Matéria Administrativa (Lei 7.347/1985)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/acp-administrativa-lei-7347.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/acp-administrativa-lei-7347/SKILL.md"
 triggers:
   - "ação civil pública"
   - "ACP"
@@ -20,10 +20,15 @@ triggers:
   - "inquérito civil"
   - "Súm. 643 STF"
   - "Tema 1.075 STF"
-description: "ACP (Lei 7.347/85): proteção de interesses difusos + coletivos\n+ individuais homogêneos; em matéria administrativa abarca\npatrimônio público + moralidade + meio ambiente + consumidor +\nordem urbanística; legitimados (MP + Adm + DP + associações +\nentes); inquérito civil + TAC; sentença erga omnes + secundum\neventum probationis; sem limitação territorial da coisa julgada\n(Tema 1.075 STF); sem condenação em honorários salvo má-fé (art. 18)."
+description: "Usar para pesquisar ou analisar: Ação Civil Pública em Matéria Administrativa (Lei 7.347/1985). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Civil Pública em Matéria Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

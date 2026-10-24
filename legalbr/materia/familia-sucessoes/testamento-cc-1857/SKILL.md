@@ -5,8 +5,8 @@ title: "Testamento (CC 1.857-1.911 + Res. CNJ 571/2024)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/testamento-cc-1857.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/testamento-cc-1857/SKILL.md"
 triggers:
   - "testamento público"
   - "CC 1.857"
@@ -19,10 +19,15 @@ triggers:
   - "Res. CNJ 571/2024"
   - "parte disponível"
   - "testamento cerrado"
-description: "Testamento sob CC 1.857-1.911 + Lei 14.382/2022 + Res. CNJ 571/\n2024: parte disponível de 50% se houver necessários (descendentes\n+ ascendentes + cônjuge); modalidades público + cerrado + particular\n(3 testemunhas, STJ flexibiliza vício formal não-essencial);\ncodicilo (CC 1.881, pequeno valor); deserdação por causas\ntípicas (CC 1.962-1.963); revogação por testamento posterior."
+description: "Usar para pesquisar ou analisar: Testamento (CC 1.857-1.911 + Res. CNJ 571/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Testamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamentos legais
 

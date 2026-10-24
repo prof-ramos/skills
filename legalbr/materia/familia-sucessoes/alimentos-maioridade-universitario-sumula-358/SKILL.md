@@ -5,8 +5,8 @@ title: "Alimentos após Maioridade + Filho Universitário (Súm. 358 STJ)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/alimentos-maioridade-universitario-sumula-358.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/alimentos-maioridade-universitario-sumula-358/SKILL.md"
 triggers:
   - "Súmula 358 STJ"
   - "alimentos maioridade exoneração"
@@ -15,10 +15,15 @@ triggers:
   - "dever solidariedade parental"
   - "exoneração contraditório"
   - "cancelamento de pensão filho maior"
-description: "Súm. 358 STJ + jurisprudência consolidada: o cancelamento de\nalimentos do filho que atingiu MAIORIDADE depende de DECISÃO\njudicial, em devido processo (contraditório), e NÃO opera\nautomaticamente. A obrigação se renova como dever de solidariedade\nfamiliar (CC 1.694) até 24 anos se o filho cursa ENSINO SUPERIOR\nou TÉCNICO, comprovada a necessidade."
+description: "Usar para pesquisar ou analisar: Alimentos após Maioridade + Filho Universitário (Súm. 358 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alimentos após Maioridade + Filho Universitário (Súm. 358 STJ + jurisprudência)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula 358 STJ
 

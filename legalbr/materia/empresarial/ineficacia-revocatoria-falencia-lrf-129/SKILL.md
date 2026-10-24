@@ -5,8 +5,8 @@ title: "Ineficácia de Atos, Ação Revocatória e Responsabilização na Falên
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/ineficacia-revocatoria-falencia-lrf-129.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/ineficacia-revocatoria-falencia-lrf-129/SKILL.md"
 triggers:
   - "ineficácia de atos na falência"
   - "ação revocatória falimentar"
@@ -18,10 +18,15 @@ triggers:
   - "LREF art. 82-A"
   - "extensão da falência aos sócios"
   - "atos ineficazes termo legal"
-description: "Ineficácia objetiva de atos do termo legal (LREF art. 129), ação revocatória\npor fraude (arts. 130 a 138, prazo de 3 anos do art. 132) e ação de\nresponsabilização de sócios e administradores (arts. 82 e 82-A, vedada a\nextensão da falência; IDPJ sem exclusividade do juízo falimentar, STJ)."
+description: "Usar para pesquisar ou analisar: Ineficácia de Atos, Ação Revocatória e Responsabilização na Falência (LREF arts. 129 a 138 e 82/82-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ineficácia de Atos, Ação Revocatória e Responsabilização na Falência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

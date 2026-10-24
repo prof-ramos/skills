@@ -5,8 +5,8 @@ title: "Sistema Proporcional: Quociente Eleitoral, Sobras e Novas Eleições (CE
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/sistema-proporcional-quociente-sobras-224.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/sistema-proporcional-quociente-sobras-224/SKILL.md"
 triggers:
   - "quociente eleitoral"
   - "quociente partidário"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 986 STF"
   - "totalização de cadeiras proporcionais"
   - "suplência partidária"
-description: "Conversão de votos em mandatos nas eleições proporcionais: quociente\neleitoral e partidário (CE 106-107), barreira individual de 10% (CE 108),\ndistribuição de sobras pelas maiores médias (CE 109, Lei 14.211/2021,\nADIs 7228/7263/7325 STF), suplência (CE 112) e novas eleições do CE 224\n(caput e §§3º-4º; ADI 5525; Tema 986 STF)."
+description: "Usar para pesquisar ou analisar: Sistema Proporcional: Quociente Eleitoral, Sobras e Novas Eleições (CE 105-113 + 224). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema Proporcional: Quociente Eleitoral, Sobras e Novas Eleições
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

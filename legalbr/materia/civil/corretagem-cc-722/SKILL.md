@@ -5,8 +5,8 @@ title: "Corretagem (CC 722-729)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/corretagem-cc-722.md"
+version: 2
+sourcePath: "legalbr/materia/civil/corretagem-cc-722/SKILL.md"
 triggers:
   - "corretagem"
   - "CC 722"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 938 STJ"
   - "comissao de corretagem no distrato"
   - "corretor de seguros SUSEP"
-description: "Corretagem (CC 722-729): obrigação de aproximar partes para\nconclusão de negócio; comissão devida pelo resultado útil (CC 725);\nresponsabilidade do corretor (CC 723); cláusula de exclusividade\n(CC 726); corretagem imobiliária e Lei 6.530/1978;\nSTJ Tema 938 (cláusula que transfere comissão ao comprador)."
+description: "Usar para pesquisar ou analisar: Corretagem (CC 722-729). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Corretagem
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 722, conceito
 

@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "decreto-falencia"
 version: 2
-sourcePath: "lib/skills/official/forma/decreto-falencia.md"
+sourcePath: "legalbr/forma/decreto-falencia/SKILL.md"
 triggers:
   - "sentença declaratória de falência"
   - "decretação da falência art. 99"
@@ -16,10 +16,15 @@ triggers:
   - "lacração do estabelecimento"
   - "convolação da recuperação judicial em falência"
   - "sentença que decreta a falência"
-description: "Sentença que decreta a falência (art. 99 da Lei 11.101/2005, redação da\nLei 14.112/2020): dispositivo em checklist inciso a inciso (termo legal de\naté 90 dias, relação de credores em 5 dias, habilitações em 15 dias,\nsuspensões do art. 6º, nomeação do administrador judicial, continuação\nprovisória ou lacração, intimações eletrônicas de MP e Fazendas, edital\neletrônico). Decretação desafia agravo; improcedência, apelação (art. 100)."
+description: "Usar para redigir ou revisar: Sentença Declaratória de Falência (art. 99 da Lei 11.101/2005). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Declaratória de Falência
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

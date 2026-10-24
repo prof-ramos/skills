@@ -5,8 +5,8 @@ title: "Sequestro Internacional de Crianças (Convenção da Haia 1980 + Dec. 3.
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/sequestro-internacional-haia-1980.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/sequestro-internacional-haia-1980/SKILL.md"
 triggers:
   - "sequestro internacional"
   - "Convenção da Haia 1980"
@@ -18,10 +18,15 @@ triggers:
   - "ADIs 4.245 7.686"
   - "violência doméstica perspectiva gênero"
   - "residência habitual da criança"
-description: "Convenção da Haia 1980 sobre sequestro internacional de crianças\n(Dec. 3.413/2000): RETORNO IMEDIATO criança < 16a transferida\nilicitamente do país de residência habitual; Autoridade Central\nMJSP/DRCI; competência JF (CF 109 III); hipóteses de recusa\nart. 13 (grave risco + aquiescência + adaptação > 1a) + art. 20\n(DH); STF ADIs 4.245+7.686 (ago/2025, perspectiva de gênero)."
+description: "Usar para pesquisar ou analisar: Sequestro Internacional de Crianças (Convenção da Haia 1980 + Dec. 3.413/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sequestro Internacional de Crianças
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

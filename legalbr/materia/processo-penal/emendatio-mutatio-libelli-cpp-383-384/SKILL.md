@@ -5,8 +5,8 @@ title: "Emendatio e Mutatio Libelli (CPP 383-384)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/emendatio-mutatio-libelli-cpp-383-384.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/emendatio-mutatio-libelli-cpp-383-384/SKILL.md"
 triggers:
   - "emendatio libelli"
   - "mutatio libelli"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 453 STF"
   - "correlação acusação sentença"
   - "HC 134.872"
-description: "Emendatio (CPP 383) e mutatio (CPP 384) libelli: emendatio, o\njuiz altera a CLASSIFICAÇÃO jurídica sem alterar fatos (não exige\naditamento, não viola contraditório); mutatio, fato novo\n(elemento ou circunstância) requer aditamento do MP em 5\ndias + oitiva da defesa (5 dias) + reabertura probatória; STF:\nprincípio da correlação acusação-sentença; Súm. 453 STF veda\nmutatio em 2º grau; emendatio em recurso só pro reo."
+description: "Usar para pesquisar ou analisar: Emendatio e Mutatio Libelli (CPP 383-384). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Emendatio e Mutatio Libelli
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Princípio da correlação acusação-sentença
 

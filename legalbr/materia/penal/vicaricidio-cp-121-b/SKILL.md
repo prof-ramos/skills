@@ -5,8 +5,8 @@ title: "Vicaricídio (CP 121-B, Lei 15.384/2026)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/vicaricidio-cp-121-b.md"
+version: 2
+sourcePath: "legalbr/materia/penal/vicaricidio-cp-121-b/SKILL.md"
 triggers:
   - "vicaricídio"
   - "CP 121-B"
@@ -17,10 +17,15 @@ triggers:
   - "morte de pessoa sob guarda da mulher"
   - "sofrimento punição ou controle da mulher"
   - "homicídio contra enteado em violência doméstica"
-description: "Vicaricídio (CP 121-B, Lei 15.384/2026, vigente desde 09/04/2026): matar\ndescendente, ascendente, dependente, enteado ou pessoa sob guarda ou\nresponsabilidade direta da mulher, com o fim específico de causar-lhe\nsofrimento, punição ou controle, em contexto de violência doméstica e\nfamiliar; reclusão 20-40 anos; majorantes de 1/3 até a metade (presença da\nmulher, criança/adolescente/idoso/PCD, descumprimento de MPU); hediondo\n(Lei 8.072 art. 1º I-C); tipo autônomo, distinto do feminicídio CP 121-A."
+description: "Usar para pesquisar ou analisar: Vicaricídio (CP 121-B, Lei 15.384/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vicaricídio (CP 121-B)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

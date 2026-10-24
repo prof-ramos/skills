@@ -5,8 +5,8 @@ title: "Relatório Final de Inquérito Policial"
 category: "forma"
 materia: null
 documentType: "relatorio-final-inquerito-policial"
-version: 1
-sourcePath: "lib/skills/official/forma/relatorio-final-inquerito-policial.md"
+version: 2
+sourcePath: "legalbr/forma/relatorio-final-inquerito-policial/SKILL.md"
 triggers:
   - "relatório final de inquérito policial"
   - "relatório da autoridade policial"
@@ -18,10 +18,15 @@ triggers:
   - "prazo do inquérito CPP 10"
   - "diligências do inquérito relatório"
   - "portaria e auto de prisão em flagrante relatório"
-description: "Relatório final do inquérito policial pela autoridade policial (CPP 10\n§1º): relatório minucioso do apurado, indicação de testemunhas não\nouvidas (§2º) e remessa ao juízo competente. Prazos: CPP 10 (10 dias\npreso, 30 solto), Lei 11.343/06 art. 51 (30/90, duplicáveis) e Lei\n5.010/66 art. 66 (federal, 15+15 preso). Indiciamento privativo e\nfundamentado (Lei 12.830/13 art. 2º §6º); capitulação indiciária."
+description: "Usar para redigir ou revisar: Relatório Final de Inquérito Policial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Relatório Final de Inquérito Policial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Peça da **autoridade policial** que encerra a fase de investigação: relatório **minucioso** do que foi apurado, com remessa dos autos ao juízo competente (CPP 10 §1º). É ato descritivo e técnico, não acusatório: quem acusa é o titular da ação penal. A autoridade policial **não arquiva** inquérito (CPP 17); o arquivamento é promoção do Ministério Público (CPP 28). O relatório pode concluir **com ou sem indiciamento**, e a ausência de indiciamento não impede o prosseguimento da persecução pelo órgão acusador.
 

@@ -5,8 +5,8 @@ title: "Contrato de Consórcio (Lei 11.795/2008)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/consorcio-lei-11795.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/consorcio-lei-11795/SKILL.md"
 triggers:
   - "Lei 11.795 consórcio"
   - "sistema de consórcios"
@@ -19,10 +19,15 @@ triggers:
   - "fundo comum consórcio"
   - "promessa de contemplação"
   - "Resolução BCB 285 consórcio"
-description: "Skill estruturante do contrato de consórcio (Lei 11.795/2008): grupo,\nadministradora, fiscalização do BCB (Res. BCB 285/2023), contemplação por\nsorteio ou lance, fundo comum, taxa de administração (Súm. 538 STJ),\nencerramento do grupo e fraude de promessa de contemplação. Restituição ao\ndesistente/excluído segue o Tema 312 STJ (skill própria)."
+description: "Usar para pesquisar ou analisar: Contrato de Consórcio (Lei 11.795/2008). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Consórcio (Lei 11.795/2008)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

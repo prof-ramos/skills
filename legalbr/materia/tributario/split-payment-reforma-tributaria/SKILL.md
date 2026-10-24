@@ -5,8 +5,8 @@ title: "Split Payment (CF 156-A §5 II + LC 214/2025 arts. 31-35)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/split-payment-reforma-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/split-payment-reforma-tributaria/SKILL.md"
 triggers:
   - "split payment"
   - "pagamento segregado"
@@ -15,10 +15,15 @@ triggers:
   - "IBS CBS recolhimento"
   - "liquidação financeira"
   - "meios de pagamento"
-description: "Split payment CF 156-A §5 II + LC 214 arts. 31-35: arranjo em que\nIBS+CBS são debitados DIRETAMENTE ao CG-IBS/RFB no INSTANTE da\nliquidação financeira da operação; reduz inadimplência + vincula\ncrédito ao recolhimento efetivo; modalidades INTELIGENTE (regra)\n+ SIMPLIFICADO; sistema integrado a PIX/cartões/boleto/TED."
+description: "Usar para pesquisar ou analisar: Split Payment (CF 156-A §5 II + LC 214/2025 arts. 31-35). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Split Payment
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

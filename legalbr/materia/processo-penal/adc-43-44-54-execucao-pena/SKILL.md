@@ -5,8 +5,8 @@ title: "ADCs 43, 44 e 54: Execução Penal e Trânsito em Julgado"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/adc-43-44-54-execucao-pena.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/adc-43-44-54-execucao-pena/SKILL.md"
 triggers:
   - "ADC 43"
   - "ADC 44"
@@ -22,10 +22,15 @@ triggers:
   - "júri execução provisória"
   - "pena restritiva direitos execução"
   - "Súm. 716 STF"
-description: "ADCs 43 + 44 + 54 (07/11/2019, por 6×5): execução\nda pena exige trânsito em julgado (CF 5 LVII + CPP 283).\nSuperou HC 126.292/2016. Prisão pré-trânsito só é cautelar\n(CPP 312, com reexame em 90 dias). EXCEÇÃO: Tema 1.068 STF\n(execução imediata da condenação pelo Júri, independentemente\ndo total da pena)."
+description: "Usar para pesquisar ou analisar: ADCs 43, 44 e 54: Execução Penal e Trânsito em Julgado. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADCs 43, 44 e 54: Execução da Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

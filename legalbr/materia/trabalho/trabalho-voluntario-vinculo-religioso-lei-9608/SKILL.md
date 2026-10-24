@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/trabalho-voluntario-vinculo-religioso-lei-9608.md"
+sourcePath: "legalbr/materia/trabalho/trabalho-voluntario-vinculo-religioso-lei-9608/SKILL.md"
 triggers:
   - "trabalho voluntário"
   - "serviço voluntário Lei 9.608"
@@ -19,10 +19,15 @@ triggers:
   - "ressarcimento de despesas voluntário"
   - "organizações religiosas CC 44"
   - "côngrua prebenda subsistência"
-description: "Serviço voluntário (Lei 9.608/98): requisitos, termo de adesão, ressarcimento\nde despesas e ausência de vínculo; reconhecimento de vínculo de emprego com\nigrejas e entidades sem fins lucrativos (CLT arts. 2º e 3º, primazia da\nrealidade); trabalho religioso vocacional do ministro de confissão (CC 44,\nIV; Lei 8.212, art. 12, V, c, e art. 22, § 13)."
+description: "Usar para pesquisar ou analisar: Trabalho Voluntário e Vínculo Religioso (Lei 9.608/98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho Voluntário e Vínculo Religioso (Lei 9.608/98)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Serviço voluntário: requisitos legais (Lei 9.608/98)
 

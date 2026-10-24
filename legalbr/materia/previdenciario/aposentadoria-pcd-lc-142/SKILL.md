@@ -5,8 +5,8 @@ title: "Aposentadoria PcD (LC 142/2013 + EC 103/2019 art. 22)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-pcd-lc-142.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-pcd-lc-142/SKILL.md"
 triggers:
   - "aposentadoria PcD"
   - "aposentadoria pessoa com deficiência"
@@ -16,10 +16,15 @@ triggers:
   - "idade PcD"
   - "art. 22 EC 103"
   - "avaliação biopsicossocial deficiência"
-description: "Aposentadoria da PcD sob LC 142/2013 (mantida pela EC 103/2019 art. 22):\nmodalidade por TC reduzido conforme grau (25/29/33H e 20/24/28M);\nmodalidade por idade (60H/55M + 15 anos PcD); carência 180; avaliação\nmédica e funcional pelo INSS; conversão de tempo comum/PcD; cálculo\n100% do SB (TC) ou 70% + 1% por grupo 12 (idade); LBI + IFBR-A."
+description: "Usar para pesquisar ou analisar: Aposentadoria PcD (LC 142/2013 + EC 103/2019 art. 22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria PcD (LC 142/2013)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Recursos Hídricos: Lei 9.433/1997 (PNRH + Lei das Águas)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/recursos-hidricos-lei-9433-cobranca.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/recursos-hidricos-lei-9433-cobranca/SKILL.md"
 triggers:
   - "Lei 9.433"
   - "PNRH"
@@ -18,10 +18,15 @@ triggers:
   - "bacia hidrográfica"
   - "usos múltiplos"
   - "sistema nacional de gerenciamento de recursos hídricos"
-description: "Recursos Hídricos: a **Lei 9.433/1997** (Lei das Águas) institui a\n**PNRH** e cria o **SINGREH**. **Princípios**: (1) água é bem de\n**domínio público** (CF 20 III + 26 I); (2) recurso natural\n**limitado + dotado de valor econômico**; (3) **usos múltiplos**\n(uso prioritário em escassez: humano + animal); (4) **bacia\nhidrográfica** como unidade de gestão; (5) gestão **descentralizada\n+ participativa**. **Instrumentos**: planos + enquadramento +\n**outorga** + **cobrança** + sistema de informações. **ANA** (Lei\n9.984/2000), agência reguladora. **Comitês de bacia** + agências\nde água. Lei 14.026/2020 (saneamento básico, que a alterou). Aplicação\nsetorial: indústria + irrigação + abastecimento."
+description: "Usar para pesquisar ou analisar: Recursos Hídricos: Lei 9.433/1997 (PNRH + Lei das Águas). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos Hídricos: Lei 9.433/97
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

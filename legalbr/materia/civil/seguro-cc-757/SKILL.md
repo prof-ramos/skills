@@ -5,8 +5,8 @@ title: "Seguro (Lei 15.040/2024 + CC 757-802 + Súm. 610 + 537 STJ + LC 213/2025
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/seguro-cc-757.md"
+version: 2
+sourcePath: "legalbr/materia/civil/seguro-cc-757/SKILL.md"
 triggers:
   - "contrato de seguro"
   - "CC 757"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 15.040/2024"
   - "marco legal dos seguros"
   - "princípio indenitário"
-description: "Seguro: Lei 15.040/2024 (novo marco legal, em vigor 10/12/2025,\ncontratos novos); CC 757-802 (contratos até 09/12/2025): prova\npor apólice/bilhete; boa-fé estrita (765); princípio INDENITÁRIO\n(781); CC 787 (RC) veda ao segurado transigir/indenizar 3º sem\nanuência do segurador, mas Súm. 537 STJ admite condenação direta\nSOLIDÁRIA da denunciada; CC 798 carência 2 ANOS suicídio\n(Súm. 610 STJ superou a Súm. 105 STF e a Súm. 61 STJ, cancelada); DPVAT/SPVAT sem regime\nvigente (LC 211/2024); LC 213/2025 reforma SNSP; Súm. 405\nprescrição TRIENAL do DPVAT."
+description: "Usar para pesquisar ou analisar: Seguro (Lei 15.040/2024 + CC 757-802 + Súm. 610 + 537 STJ + LC 213/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco temporal, Lei 15.040/2024 (Nova Lei de Seguros)
 

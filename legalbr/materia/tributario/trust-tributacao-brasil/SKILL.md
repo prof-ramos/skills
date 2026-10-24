@@ -5,8 +5,8 @@ title: "Trust + Offshore, Tributação Brasil (Lei 14.754/2023)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/regimes-especiais-internacional/trust-tributacao-brasil.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/trust-tributacao-brasil/SKILL.md"
 triggers:
   - "trust"
   - "offshore tributação"
@@ -16,10 +16,15 @@ triggers:
   - "fundo exclusivo"
   - "tributação anual offshore"
   - "IN RFB 2.180"
-description: "Trust + offshore, tributação no Brasil pela **Lei 14.754/2023**\n(13/12/2023, vigência 01/01/2024): redefiniu tributação de\ninvestimentos no exterior por PF residentes fiscais no Brasil.\n**Offshores controladas**: lucros tributados **automaticamente em\n31/12** (sem necessidade de distribuição), IRPF **15%** sobre o\nlucro do exercício. **Trust**: regime de **transparência fiscal**,\nbens + rendimentos considerados do beneficiário, com IRPF 15%.\nITCMD: LC 227/2026 instituiu normas gerais, inclusive para\ntransmissões via trust e com domiciliados no exterior.\nEm trusts irrevogáveis + discricionários, todos os beneficiários\npotenciais podem ser tributados. Atualização exigida em DIRPF.\nIN RFB 2.180/2024. Aplica-se também a **fundos exclusivos** no\nBrasil (come-cotas semestral 15%). Reforma significativa."
+description: "Usar para pesquisar ou analisar: Trust + Offshore, Tributação Brasil (Lei 14.754/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trust + Offshore, Tributação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

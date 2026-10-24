@@ -5,8 +5,8 @@ title: "Furto e Roubo em Estacionamento (Súm. 130 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/furto-roubo-estacionamento.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/furto-roubo-estacionamento/SKILL.md"
 triggers:
   - "furto em estacionamento"
   - "roubo em estacionamento"
@@ -18,10 +18,15 @@ triggers:
   - "dever de vigilância"
   - "fortuito externo"
   - "estacionamento conveniado"
-description: "Furto e roubo em estacionamento sob Súm. 130 STJ: responsabilidade\nobjetiva do estabelecimento por furto/roubo de veículo em\nestacionamento próprio ou conveniado, ainda que gratuito; teoria\ndo risco do empreendimento; roubo a mão armada, STJ adota\ncaso a caso (fortuito interno se reiterado ou previsível);\nestacionamento \"gratuito\" é remunerado indiretamente (REsp 976.531/SP)."
+description: "Usar para pesquisar ou analisar: Furto e Roubo em Estacionamento (Súm. 130 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Furto e Roubo em Estacionamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

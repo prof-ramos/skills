@@ -5,8 +5,8 @@ title: "Responsabilidade Civil em Acidente de Trânsito (CC 186 + 927 + CTB)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/acidente-transito-responsabilidade-civil.md"
+version: 2
+sourcePath: "legalbr/materia/civil/acidente-transito-responsabilidade-civil/SKILL.md"
 triggers:
   - "acidente de trânsito indenização"
   - "colisão de veículos"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 132 STJ transferência veículo"
   - "lucros cessantes veículo paralisado"
   - "carona transporte de cortesia"
-description: "Responsabilidade civil entre particulares por acidente de trânsito: culpa\naquiliana (CC 186 + 927) informada pelos deveres do CTB (arts. 28, 29, 34,\n36 e 44); presunções fáticas de culpa (colisão traseira, ingresso em\npreferencial, marcha à ré); culpa concorrente (CC 945); solidariedade do\nproprietário, da locadora (Súm. 492 STF) e do empregador (CC 932 III);\nSúm. 132, 145, 246, 529 e 537 STJ; danos materiais, lucros cessantes e\njuros (Súm. 43 + 54 STJ)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil em Acidente de Trânsito (CC 186 + 927 + CTB). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil em Acidente de Trânsito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Camada específica do caso-padrão de colisão de veículos entre particulares. A teoria geral do ato ilícito, nexo causal e excludentes está em [[responsabilidade-civil-nexo-cc-186]]; a quantificação de pensionamento por morte/incapacidade está em [[indenizacao-morte-incapacidade-cc-948]].
 

@@ -5,8 +5,8 @@ title: "Penhora de Quotas e Ações de Sociedade Fechada (CPC 861 + CC 1.026)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/penhora-quotas-acoes-cpc-861.md"
+version: 2
+sourcePath: "legalbr/materia/societario/penhora-quotas-acoes-cpc-861/SKILL.md"
 triggers:
   - "penhora de quotas sociais"
   - "penhora de ações de sociedade fechada"
@@ -18,10 +18,15 @@ triggers:
   - "direito de preferência sobre quotas penhoradas"
   - "leilão judicial de quotas"
   - "penhora de participação societária"
-description: "Penhora de quotas e ações de sociedade simples ou empresária por dívida\nparticular do sócio: CPC 835 IX e 861 (prazo de 3 meses, balanço especial,\npreferência dos sócios, aquisição pela sociedade, liquidação e leilão\nsubsidiário) + CC 1.026 e 1.031; subsidiariedade da constrição; STJ admite\nna limitada unipessoal e na sociedade em recuperação judicial."
+description: "Usar para pesquisar ou analisar: Penhora de Quotas e Ações de Sociedade Fechada (CPC 861 + CC 1.026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Quotas e Ações de Sociedade Fechada (CPC 861 + CC 1.026)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

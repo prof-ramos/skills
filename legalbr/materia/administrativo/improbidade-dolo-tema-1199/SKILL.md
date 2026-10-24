@@ -5,8 +5,8 @@ title: "Improbidade Administrativa e Dolo (Tema 1.199 STF + ARE 843.989)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade-dolo-tema-1199.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/improbidade-dolo-tema-1199/SKILL.md"
 triggers:
   - "Tema 1.199"
   - "ARE 843.989"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 897"
   - "prescrição improbidade"
   - "ressarcimento imprescritível"
-description: "Tema 1.199 STF (ARE 843.989, Min. Alexandre, 18/08/2022): exige-se\ndolo nos arts. 9, 10 e 11 da LIA; a revogação da culpa pela Lei\n14.230/21 é IRRETROATIVA quanto à coisa julgada e à execução, mas\naplica-se a processos em curso (juiz analisa eventual dolo); o novo\nregime prescricional é irretroativo. Imprescritibilidade do\nressarcimento doloso permanece (Tema 897)."
+description: "Usar para pesquisar ou analisar: Improbidade Administrativa e Dolo (Tema 1.199 STF + ARE 843.989). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Improbidade Administrativa e Dolo (Tema 1.199 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

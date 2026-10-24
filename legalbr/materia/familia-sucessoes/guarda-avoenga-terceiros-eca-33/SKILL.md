@@ -5,8 +5,8 @@ title: "Guarda de Terceiros e Guarda Avoenga (ECA arts. 33-35)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/guarda-avoenga-terceiros-eca-33.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/guarda-avoenga-terceiros-eca-33/SKILL.md"
 triggers:
   - "guarda avoenga"
   - "guarda pelos avós"
@@ -18,10 +18,15 @@ triggers:
   - "guarda de neto pelos avós"
   - "família substituta guarda"
   - "Tema 732 STJ"
-description: "Guarda de criança/adolescente por avós e terceiros (ECA 33-35 +\nfamília extensa, ECA 25 p.ú.): regularização da posse de fato,\nguarda excepcional do §2, dependência para todos os fins inclusive\nprevidenciários (§3, Tema 732 STJ, ADIs 4.878/5.083, Lei\n15.108/2025); vedada a guarda com fim EXCLUSIVAMENTE previdenciário;\nnão suspende o poder familiar e é revogável (ECA 35)."
+description: "Usar para pesquisar ou analisar: Guarda de Terceiros e Guarda Avoenga (ECA arts. 33-35). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Guarda de Terceiros e Guarda Avoenga
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Recorte: guarda deferida a **avós e terceiros** (família substituta/extensa, ECA). Disputa de guarda **entre genitores** (CC 1.583-1.590): vide [[acao-guarda]] e [[guarda-compartilhada-lei-13058]]. Direito de **visita** dos avós: vide [[visitacao-avoenga-cc-1589]].
 

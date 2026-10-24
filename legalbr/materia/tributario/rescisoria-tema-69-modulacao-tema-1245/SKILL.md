@@ -5,8 +5,8 @@ title: "Ação Rescisória para Adequação à Modulação do Tema 69 STF (Tema 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/rescisoria-tema-69-modulacao-tema-1245.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/rescisoria-tema-69-modulacao-tema-1245/SKILL.md"
 triggers:
   - "Tema 1.245 STJ"
   - "rescisória Tema 69"
@@ -19,10 +19,15 @@ triggers:
   - "RE 574.706 modulação"
   - "tese do século rescisória"
   - "13/05/2021"
-description: "Tema 1.245 STJ (REsp 2.054.759 + 2.066.696, rel. p/ acórdão Min.\nGurgel de Faria, 1ª Seção, 11/09/2024): ADMISSÍVEL rescisória para\nadequar coisa julgada\npré-13/05/2021 à modulação do Tema 69 STF (ICMS fora PIS/COFINS\nsó a partir de 15/03/2017). Fundamento art. 535 §8 CPC (coisa\njulgada inconstitucional). Súm. 343 STF + Tema 136 INAPLICÁVEIS\n(não é violação literal, é rescisão por inconstitucionalidade)."
+description: "Usar para pesquisar ou analisar: Ação Rescisória para Adequação à Modulação do Tema 69 STF (Tema 1.245 STJ + art. 535 §8 CPC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Rescisória para Modulação do Tema 69 (Tema 1.245 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.245 STJ, 1ª Seção, julgado em 11/09/2024, acórdão publicado em 22/10/2024)
 

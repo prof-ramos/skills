@@ -5,8 +5,8 @@ title: "Urna Eletrônica + Processo de Votação e Apuração"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/urna-eletronica-votacao.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/urna-eletronica-votacao/SKILL.md"
 triggers:
   - "urna eletrônica"
   - "voto secreto"
@@ -15,10 +15,15 @@ triggers:
   - "biometria eleitoral"
   - "totalização de votos"
   - "Boletim de Urna"
-description: "Voto eletrônico, urna eletrônica e processo de votação e apuração\nsob a CF 14 §1, o Código Eleitoral e a Lei 9.504/97:\nfuncionamento da urna DRE, RDV, boletim de urna e cadeia de\ncustódia; auditabilidade, biometria e CTE; identificação,\nvotação, apuração e totalização; jurisprudência do STF sobre\nvoto impresso e diplomação."
+description: "Usar para pesquisar ou analisar: Urna Eletrônica + Processo de Votação e Apuração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Urna Eletrônica + Votação + Apuração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Lei do Inquilinato (Lei 8.245/1991 + Lei 12.112/2009 + Tema 1.127 STF)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/lei-inquilinato-lei-8245.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/lei-inquilinato-lei-8245/SKILL.md"
 triggers:
   - "lei do inquilinato"
   - "Lei 8.245/1991"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 549 STJ"
   - "Tema 1.127 STF"
   - "fiança prorrogação locação"
-description: "Lei 8.245/1991 (locações urbanas): residencial × não residencial\n× por temporada (art. 48, até 90d); residencial 30+ meses\ndenúncia VAZIA pleno direito (46); < 30 meses só após 5a ou\nart. 47; renovatória arts. 51-57 (5a contrato + 3a atividade +\n1a-6m antes); LIMINAR despejo art. 59 §1 (caução 3 aluguéis);\nSúm. 549 STJ + Tema 1.127 STF (bem família fiador penhorável)."
+description: "Usar para pesquisar ou analisar: Lei do Inquilinato (Lei 8.245/1991 + Lei 12.112/2009 + Tema 1.127 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei do Inquilinato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 8.245/1991: espécies de locação
 

@@ -5,8 +5,8 @@ title: "Competência Municipal em Contratação Pública e Nepotismo (Tema 1.001
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/competencia-legislativa-nepotismo-tema-1001.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/competencia-legislativa-nepotismo-tema-1001/SKILL.md"
 triggers:
   - "Tema 1.001 STF"
   - "nepotismo municipal"
@@ -18,10 +18,15 @@ triggers:
   - "vedação nepotismo"
   - "parente até terceiro grau"
   - "proibição de contratar parentes"
-description: "Tema 1.001 STF (RE 910.552, j. 03/07/2023): é CONSTITUCIONAL\nnorma MUNICIPAL que veda ao Município celebrar CONTRATOS com\nagentes públicos municipais e seus parentes até o 3º grau,\npor atender à vedação ao nepotismo e respeitar a repartição\nde competências (CF 30, 37 e 61).\nSV 13 STF complementa: vedação ao nepotismo é AUTOAPLICÁVEL\n+ alcança parentes até o 3º grau (consanguíneo ou afim)."
+description: "Usar para pesquisar ou analisar: Competência Municipal em Contratação Pública e Nepotismo (Tema 1.001 STF + SV 13). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Municipal + Vedação ao Nepotismo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

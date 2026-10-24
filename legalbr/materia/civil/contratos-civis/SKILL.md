@@ -5,8 +5,8 @@ title: "Contratos Civis"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/contratos-civis.md"
+version: 2
+sourcePath: "legalbr/materia/civil/contratos-civis/SKILL.md"
 triggers:
   - "contratos civis"
   - "teoria geral dos contratos"
@@ -18,10 +18,15 @@ triggers:
   - "exceção de contrato não cumprido CC 476"
   - "teoria da imprevisão contratual"
   - "revisão por onerosidade excessiva CC 478"
-description: "Contratos civis sob CC 421-480: autonomia privada e função\nsocial (421); boa-fé objetiva (422) com venire, supressio e\nduty to mitigate; vícios do consentimento; revisão por\nimprevisão (478) e base objetiva (CDC 6º V); adimplemento\nsubstancial e exceptio non adimpleti contractus (476)."
+description: "Usar para pesquisar ou analisar: Contratos Civis. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos Civis
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

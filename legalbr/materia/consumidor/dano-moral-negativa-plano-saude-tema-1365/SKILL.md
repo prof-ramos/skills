@@ -5,8 +5,8 @@ title: "Dano Moral por Negativa de Cobertura em Plano de Saúde (Tema 1.365 STJ)
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/dano-moral-negativa-plano-saude-tema-1365.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dano-moral-negativa-plano-saude-tema-1365/SKILL.md"
 triggers:
   - "dano moral plano de saúde"
   - "negativa de cobertura"
@@ -20,10 +20,15 @@ triggers:
   - "art. 6 VI CDC"
   - "autorização negada plano"
   - "tratamento médico recusado"
-description: "Tema 1.365 STJ (11/03/2026): simples recusa indevida de cobertura\nnão gera dano moral in re ipsa; exige prova de abalo psíquico\nalém do mero aborrecimento. Excepciona urgência/emergência,\ncancelamento abusivo, paciente grave, conduta reiterada.\nAplicar Súm. 608 STJ + art. 6 VI CDC."
+description: "Usar para pesquisar ou analisar: Dano Moral por Negativa de Cobertura em Plano de Saúde (Tema 1.365 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Moral na Negativa de Cobertura (Tema 1.365 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.365 STJ)
 

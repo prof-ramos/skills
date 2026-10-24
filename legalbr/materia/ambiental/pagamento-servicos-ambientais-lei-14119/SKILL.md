@@ -5,8 +5,8 @@ title: "PSA: Pagamento por Serviços Ambientais (Lei 14.119/2021)"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/pagamento-servicos-ambientais-lei-14119.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/pagamento-servicos-ambientais-lei-14119/SKILL.md"
 triggers:
   - "PSA"
   - "pagamento serviços ambientais"
@@ -17,10 +17,15 @@ triggers:
   - "retribuição preservação"
   - "Produtores de Água ANA"
   - "Bolsa Verde programa"
-description: "Pagamento por Serviços Ambientais (PSA): a **Lei 14.119/2021** institui\na **PNPSA** (Política Nacional de PSA) + **PFPSA** (Programa Federal)\n+ **CNPSA** (Cadastro Nacional). **Mecanismo**: retribuição\n(monetária ou não) a quem **mantém, recupera ou melhora serviços\necossistêmicos**. Modalidades: direto + provisão de melhorias\nsociais + **CRA** (Cota de Reserva Ambiental) + green bonds.\nAplicação: produtores rurais + comunidades + indígenas + quilombolas.\nIntegração com Código Florestal (Lei 12.651) + PNMC + SBCE (Lei\n15.042). Decreto 13.018/2026 regulamenta a PNPSA e o PFPSA.\nTendência ESG + agronegócio sustentável. Bolsa Verde + Aliança\npela Restauração."
+description: "Usar para pesquisar ou analisar: PSA: Pagamento por Serviços Ambientais (Lei 14.119/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PSA: Pagamento por Serviços Ambientais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

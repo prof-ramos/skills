@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contrato-social"
 version: 2
-sourcePath: "lib/skills/official/forma/contrato-social.md"
+sourcePath: "legalbr/forma/contrato-social/SKILL.md"
 triggers:
   - "contrato social"
   - "alteração contratual"
@@ -16,10 +16,15 @@ triggers:
   - "sociedade limitada unipessoal SLU"
   - "sociedade unipessoal"
   - "contrato de Ltda"
-description: "Contrato social de sociedade limitada (CC 1.052-1.087), unipessoal SLU\n(Lei 13.874/19), sociedade simples (CC 997). Cláusulas essenciais\n(CC 997 + 1.054), aplicação supletiva da LSA (CC 1.053 par. único),\ndesconsideração (CC 50), dissolução parcial (CC 1.029-1.030) e Marco\nLegal Startups (LC 182/21)."
+description: "Usar para redigir ou revisar: Contrato Social (Ltda., EIRELI extinta, sociedade simples). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato Social
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

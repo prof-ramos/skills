@@ -5,8 +5,8 @@ title: "Direitos da Personalidade (CC 11-21 + LGPD + Tema 786 STF)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/direitos-personalidade-cc-11.md"
+version: 2
+sourcePath: "legalbr/materia/civil/direitos-personalidade-cc-11/SKILL.md"
 triggers:
   - "direitos da personalidade"
   - "CC 11"
@@ -20,10 +20,15 @@ triggers:
   - "recusa de tratamento medico CC 15"
   - "direito ao nome e pseudonimo"
   - "tutela inibitoria dos direitos da personalidade"
-description: "Direitos da personalidade sob CC 11-21 + LGPD: intransmissíveis +\nirrenunciáveis (CC 11); tutela específica (CC 12 + CPC 497);\nTema 786 STF (direito ao esquecimento INCOMPATÍVEL com CF como\ndireito autônomo); Tema 761 (alteração de gênero sem cirurgia);\nTema 622 (multiparentalidade); critério bifásico do dano moral\n(REsp 1.152.541); biografias não autorizadas (ADI 4.815)."
+description: "Usar para pesquisar ou analisar: Direitos da Personalidade (CC 11-21 + LGPD + Tema 786 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos da Personalidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa (CC 11-21)
 

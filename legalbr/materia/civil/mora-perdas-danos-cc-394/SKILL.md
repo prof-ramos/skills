@@ -5,8 +5,8 @@ title: "Mora e Perdas e Danos (CC 389-405)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/mora-perdas-danos-cc-394.md"
+version: 2
+sourcePath: "legalbr/materia/civil/mora-perdas-danos-cc-394/SKILL.md"
 triggers:
   - "mora do devedor CC 394"
   - "perdas e danos CC 402"
@@ -22,10 +22,15 @@ triggers:
   - "purga da mora CC 401"
   - "Tema 1.368 STJ"
   - "Lei 14.905/2024"
-description: "Mora e perdas e danos (CC 389-405): inadimplemento absoluto x relativo;\nmora do devedor (CC 394), ex re (CC 397) vs ex persona; mora do\ncredor (CC 400); purga (CC 401); perdas e danos (CC 402) = danos\nemergentes + lucros cessantes; Súm. 54 STJ; juros de mora civis:\nantes da Lei 14.905/2024, SELIC cheia (Tema 1.368 STJ); depois,\ntaxa legal = SELIC deduzido o IPCA + correção pelo IPCA (CC 389\npar. único e 406)."
+description: "Usar para pesquisar ou analisar: Mora e Perdas e Danos (CC 389-405). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mora e Perdas e Danos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 389, efeitos do inadimplemento
 

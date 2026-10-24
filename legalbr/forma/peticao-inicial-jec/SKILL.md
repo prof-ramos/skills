@@ -5,8 +5,8 @@ title: "Petição Inicial no Juizado Especial Cível"
 category: "forma"
 materia: null
 documentType: "peticao-inicial-jec"
-version: 1
-sourcePath: "lib/skills/official/forma/peticao-inicial-jec.md"
+version: 2
+sourcePath: "legalbr/forma/peticao-inicial-jec/SKILL.md"
 triggers:
   - "petição inicial no juizado especial cível"
   - "pedido inicial art. 14 Lei 9.099"
@@ -16,10 +16,15 @@ triggers:
   - "quem pode ser autor no juizado especial"
   - "foro competente art. 4º Lei 9.099"
   - "sem custas em primeiro grau no juizado"
-description: "Petição inicial no rito da Lei 9.099/95: pedido escrito ou oral com os\nrequisitos simplificados do art. 14 (qualificação, fatos e fundamentos de\nforma sucinta, objeto e valor); competência do art. 3º com renúncia ao\ncrédito excedente a 40 salários mínimos (§3º); foro do art. 4º; rol fechado\nde autores do art. 8º; advogado facultativo até 20 salários mínimos\n(art. 9º); sem custas em primeiro grau (art. 54); conciliação em 15 dias."
+description: "Usar para redigir ou revisar: Petição Inicial no Juizado Especial Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial no Juizado Especial Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 3º da Lei 9.099/95)
 

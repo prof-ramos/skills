@@ -5,8 +5,8 @@ title: "Ações Possessórias (Reintegração, Manutenção, Interdito Proibitó
 category: "forma"
 materia: null
 documentType: "possessoria"
-version: 1
-sourcePath: "lib/skills/official/forma/possessoria.md"
+version: 2
+sourcePath: "legalbr/forma/possessoria/SKILL.md"
 triggers:
   - "reintegração de posse por esbulho"
   - "manutenção de posse por turbação"
@@ -15,10 +15,15 @@ triggers:
   - "posse nova e posse velha de ano e dia art. 558"
   - "liminar possessória art. 562"
   - "litígio coletivo pela posse de imóvel art. 565"
-description: "Possessórias sob o CPC 554-568: trinômio reintegração/manutenção/\ninterdito proibitório com fungibilidade (554); posse nova com\nliminar específica (562) e posse velha pelo rito comum; ação dúplice\n(556); vedação à exceção de domínio (557); regime próprio para\nlitígios coletivos (565)."
+description: "Usar para redigir ou revisar: Ações Possessórias (Reintegração, Manutenção, Interdito Proibitório). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ações Possessórias
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Trinômio (CPC 554)
 

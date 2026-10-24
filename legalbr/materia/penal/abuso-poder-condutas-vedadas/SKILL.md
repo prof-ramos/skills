@@ -5,8 +5,8 @@ title: "Abuso de Poder + Condutas Vedadas (LC 64/90 art. 22 + Lei 9.504/97 art. 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/abuso-poder-condutas-vedadas.md"
+version: 2
+sourcePath: "legalbr/materia/penal/abuso-poder-condutas-vedadas/SKILL.md"
 triggers:
   - "abuso de poder econômico"
   - "abuso de poder político"
@@ -18,10 +18,15 @@ triggers:
   - "LC 219/2025"
   - "ADI 7881"
   - "publicidade institucional período eleitoral"
-description: "Abuso de poder econômico/político, uso indevido dos meios de\ncomunicação e condutas vedadas (CF 14 §9; LC 64/90 arts. 1 e 22\nAIJE; LC 135/2010 Ficha Limpa; Lei 9.504/97 arts. 73-78):\ncaracterização (gravidade qualitativa+quantitativa); rito da AIJE;\nsanções (multa, cassação, inelegibilidade 8 anos); LC 219/2025 e\nADI 7881 em julgamento."
+description: "Usar para pesquisar ou analisar: Abuso de Poder + Condutas Vedadas (LC 64/90 art. 22 + Lei 9.504/97 art. 73). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Abuso de Poder + Condutas Vedadas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

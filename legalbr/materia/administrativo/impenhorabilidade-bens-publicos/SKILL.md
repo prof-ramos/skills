@@ -5,8 +5,8 @@ title: "Impenhorabilidade dos Bens Públicos (CF 100 + CC 100-103)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/impenhorabilidade-bens-publicos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/impenhorabilidade-bens-publicos/SKILL.md"
 triggers:
   - "impenhorabilidade bens públicos"
   - "CF 100 precatório"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 340 STF"
   - "execução contra a Fazenda Pública"
   - "RPV requisição de pequeno valor"
-description: "Impenhorabilidade dos bens públicos (CC arts. 100-103 + CF 100):\nbens de uso comum (rios, praças) e de uso especial (edifícios em\nuso) são inalienáveis enquanto afetados; bens dominicais podem ser\nalienados nas condições legais; vedação à penhora (CF 100 - regime\nde precatórios); sequestro apenas em hipóteses excepcionais (CF 100 §6);\ndesafetação prévia para alienação; concessão de uso e direito real\nresolúvel."
+description: "Usar para pesquisar ou analisar: Impenhorabilidade dos Bens Públicos (CF 100 + CC 100-103). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impenhorabilidade dos Bens Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Estágio Probatório + Estabilidade do Servidor em 3 Anos (Tema 1.097 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/estabilidade-servidor-estagio-probatorio-3-anos-tema-1097.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/estabilidade-servidor-estagio-probatorio-3-anos-tema-1097/SKILL.md"
 triggers:
   - "Tema 1.097 STJ"
   - "estágio probatório 3 anos"
@@ -14,10 +14,15 @@ triggers:
   - "CF 41 servidor estabilidade"
   - "avaliação especial desempenho"
   - "exoneração probatório"
-description: "Tema 1.097 STJ: o ESTÁGIO PROBATÓRIO do servidor público tem\nduração de 3 ANOS (EC 19/1998), coincidindo com o prazo para\naquisição da estabilidade (CF 41). A AVALIAÇÃO especial deve\nconsiderar todo o período. NÃO há estabilidade AUTOMÁTICA pelo\nmero decurso — exige avaliação favorável."
+description: "Usar para pesquisar ou analisar: Estágio Probatório + Estabilidade do Servidor em 3 Anos (Tema 1.097 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estágio Probatório + Estabilidade do Servidor em 3 Anos (Tema 1.097 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.097 STJ)
 

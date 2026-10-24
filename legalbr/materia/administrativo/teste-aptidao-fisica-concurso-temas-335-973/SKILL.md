@@ -5,8 +5,8 @@ title: "Teste de Aptidão Física em Concurso (Temas 335 e 973 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/teste-aptidao-fisica-concurso-temas-335-973.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/teste-aptidao-fisica-concurso-temas-335-973/SKILL.md"
 triggers:
   - "teste de aptidão física"
   - "TAF concurso"
@@ -18,10 +18,15 @@ triggers:
   - "candidata gestante teste físico"
   - "remarcação de prova física"
   - "lesão no dia do teste físico"
-description: "TAF em concurso público: Tema 335 STF (RE 630.733: inexiste direito\na segunda chamada por circunstâncias pessoais, ainda que\nfisiológicas ou de força maior, salvo previsão editalícia) e Tema\n973 STF (RE 1.058.333: candidata gestante tem direito à remarcação\nindependentemente de previsão no edital). Casuística de lesão ou\ndoença no dia da prova, extensão à lactante e isonomia x vinculação\nao edital."
+description: "Usar para pesquisar ou analisar: Teste de Aptidão Física em Concurso (Temas 335 e 973 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teste de Aptidão Física em Concurso Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

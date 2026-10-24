@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/comite-gestor-ibs-plp-108.md"
+sourcePath: "legalbr/materia/tributario/comite-gestor-ibs-plp-108/SKILL.md"
 triggers:
   - "Comitê Gestor IBS"
   - "CG-IBS"
@@ -16,10 +16,15 @@ triggers:
   - "paridade Estados Municípios"
   - "contencioso administrativo IBS"
   - "distribuição IBS"
-description: "Governança do CG-IBS sob CF 156-B e LC 227/2026: composição paritária,\nautonomia, deliberações, regulamentação, arrecadação, fiscalização,\ndistribuição, contencioso e atos conjuntos com a RFB."
+description: "Usar para pesquisar ou analisar: Comitê Gestor do IBS (CF 156-B + LC 227/2026, ex-PLP 108/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comitê Gestor do IBS (CG-IBS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/bolsa-familia-cadunico-lei-14601.md"
+sourcePath: "legalbr/materia/administrativo/bolsa-familia-cadunico-lei-14601/SKILL.md"
 triggers:
   - "Bolsa Família"
   - "Lei 14.601"
@@ -19,10 +19,15 @@ triggers:
   - "regra de proteção Bolsa Família"
   - "condicionalidades frequência escolar"
   - "Auxílio Brasil"
-description: "Bolsa Família (Lei 14.601/2023 + Decreto 12.064/2024) e CadÚnico (Decreto\n11.016/2022): elegibilidade R$ 218 per capita, benefícios (R$ 142/R$ 600/R$\n150/R$ 50), regra de proteção de 24 meses, condicionalidades, bloqueio,\naveriguação cadastral, ressarcimento só com dolo e restabelecimento judicial."
+description: "Usar para pesquisar ou analisar: Bolsa Família e CadÚnico: Bloqueio, Cancelamento e Restabelecimento (Lei 14.601/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bolsa Família e CadÚnico: Bloqueio, Cancelamento e Restabelecimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

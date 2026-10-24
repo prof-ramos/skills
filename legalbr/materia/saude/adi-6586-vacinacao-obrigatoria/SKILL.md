@@ -5,8 +5,8 @@ title: "ADIs 6586 + 6587 + ARE 1267879 + Tema 1.103: Vacinação Obrigatória"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/adi-6586-vacinacao-obrigatoria.md"
+version: 2
+sourcePath: "legalbr/materia/saude/adi-6586-vacinacao-obrigatoria/SKILL.md"
 triggers:
   - "ADI 6586"
   - "ADI 6587"
@@ -22,10 +22,15 @@ triggers:
   - "autonomia individual vacina"
   - "sanções indiretas vacinação"
   - "Conselho Tutelar vacina"
-description: "ADIs 6586 + 6587 + ARE 1.267.879 / Tema 1.103 + ADI 6581\n(Lewandowski e Barroso, 17/12/2020, unânime): vacinação pode ser\nobrigatória de forma indireta (sanções administrativas), nunca\nforçada. Base CF 6 + 196 + 23 II. Vacinação infantil obrigatória\n(PNI + ECA art. 14 §1); recusa parental pode caracterizar\nnegligência; Conselho Tutelar pode intervir; comprovante exigível\npara matrícula e Bolsa Família. Contraindicação médica imuniza."
+description: "Usar para pesquisar ou analisar: ADIs 6586 + 6587 + ARE 1267879 + Tema 1.103: Vacinação Obrigatória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADIs 6586 + 6587: Vacinação Obrigatória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

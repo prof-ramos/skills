@@ -5,8 +5,8 @@ title: "Sentença Civil: Estrutura e Requisitos (CPC 485-495)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/sentenca-civil-requisitos-cpc-489.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/sentenca-civil-requisitos-cpc-489/SKILL.md"
 triggers:
   - "sentença civil"
   - "CPC 485"
@@ -19,10 +19,15 @@ triggers:
   - "requisitos da sentença"
   - "sucumbência na sentença"
   - "CPC 85 honorários"
-description: "Sentença civil sob CPC 203 §1 e CPC 485-495: espécies sem mérito\n(485) e com mérito (487); regra pró-mérito (488); congruência ao\npedido (CPC 141, 492) e pedidos implícitos (juros, correção,\nsucumbência); requisitos do CPC 489; condenação pecuniária (491);\ncoisa julgada (502-508); honorários (CPC 85)."
+description: "Usar para pesquisar ou analisar: Sentença Civil: Estrutura e Requisitos (CPC 485-495). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Civil: Estrutura e Requisitos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito (CPC 203 §1)
 

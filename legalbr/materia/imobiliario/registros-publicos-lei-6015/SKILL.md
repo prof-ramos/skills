@@ -5,8 +5,8 @@ title: "Registros Públicos (Lei 6.015/1973 + Lei 14.382/2022 + Lei 8.935/1994)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 3
-sourcePath: "lib/skills/official/materia/imobiliario/registros-publicos-lei-6015.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/registros-publicos-lei-6015/SKILL.md"
 triggers:
   - "Lei de Registros Públicos"
   - "Lei 6.015/1973"
@@ -22,10 +22,15 @@ triggers:
   - "alteração registro transgênero"
   - "Resolução CNJ 684 óbito e inumação"
   - "Provimento CNJ 247 VNS"
-description: "Registros públicos sob Leis 6.015, 8.935 e 14.382: princípios, SERP,\ntítulos, adjudicação e usucapião extrajudiciais, responsabilidade,\nCódigo Nacional de Normas e Provimentos CNJ 246 e 247/2026."
+description: "Usar para pesquisar ou analisar: Registros Públicos (Lei 6.015/1973 + Lei 14.382/2022 + Lei 8.935/1994). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei de Registros Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

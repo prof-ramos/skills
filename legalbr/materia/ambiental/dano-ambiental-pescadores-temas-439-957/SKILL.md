@@ -5,8 +5,8 @@ title: "Responsabilidade Civil por Desastre Ambiental: Pescadores e Lucros Cessa
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/dano-ambiental-pescadores-temas-439-957.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/dano-ambiental-pescadores-temas-439-957/SKILL.md"
 triggers:
   - "pescador profissional indenização"
   - "dano ambiental pescadores"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 6.938 art. 14"
   - "risco integral dano ambiental"
   - "registro de pescador legitimidade"
-description: "Ações individuais de pescadores por desastre ambiental: responsabilidade objetiva\npelo risco integral (Lei 6.938 art. 14 §1), legitimidade ativa (Temas 436 e 680),\ndano moral e juros da data do fato (Temas 439-440), lucros cessantes vedados no\ndefeso (Tema 834) e limite do nexo causal do poluidor indireto (Tema 957, Vicuña)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil por Desastre Ambiental: Pescadores e Lucros Cessantes (Temas 439, 440, 834 e 957 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil por Desastre Ambiental: Pescadores e Lucros Cessantes (Temas 439, 440, 834 e 957 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

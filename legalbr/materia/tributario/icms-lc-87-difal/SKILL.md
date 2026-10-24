@@ -5,8 +5,8 @@ title: "ICMS (LC 87/96 + DIFAL + LC 204/2023 + Reforma)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-lc-87-difal.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-lc-87-difal/SKILL.md"
 triggers:
   - "ICMS"
   - "LC 87/96"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 986 STJ"
   - "Tema 69 STF"
   - "EC 132/2023 transição IBS"
-description: "ICMS sob CF 155 II + LC 87/96 + EC 132/2023: não-cumulatividade\n+ seletividade; DIFAL pós-LC 190/2022 (Tema 1.093 STF + ADI 5.469);\nTema 1.099 STF + ADC 49 + LC 204/2023 (transferência mesmo titular\nSEM ICMS); Tema 745 (alíq. máx. essenciais); Tema 986 STJ (TUST/TUSD\nna base); Tema 69 STF (ICMS fora PIS/Cofins); transição IBS/CBS\n2026-2033."
+description: "Usar para pesquisar ou analisar: ICMS (LC 87/96 + DIFAL + LC 204/2023 + Reforma). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ICMS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

@@ -5,8 +5,8 @@ title: "Audiência de Instrução e Julgamento (CPC 358-368 + Res. CNJ 354/2020)
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/audiencia-instrucao-cpc-358.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/audiencia-instrucao-cpc-358/SKILL.md"
 triggers:
   - "audiência de instrução"
   - "CPC 358"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.245/2021"
   - "alegações finais"
   - "memoriais"
-description: "AIJ sob CPC 358-368: ordem das provas orais (CPC 361: peritos +\npartes + testemunhas); alegações orais 20min + memoriais em prazos\nsucessivos de 15 dias (CPC 364); sentença em 30 dias (CPC 366);\npoder de polícia (CPC 360); videoconferência consolidada (Res.\nCNJ 354/2020 + 481/2022); sistema de perguntas diretas (CPC 459);\nLei 14.245 (proteção a vítima/testemunha); identidade física\nmitigada no CPC/2015."
+description: "Usar para pesquisar ou analisar: Audiência de Instrução e Julgamento (CPC 358-368 + Res. CNJ 354/2020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Instrução e Julgamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

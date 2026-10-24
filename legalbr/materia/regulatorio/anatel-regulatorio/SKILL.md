@@ -5,8 +5,8 @@ title: "ANATEL: Regulação e Procedimento Sancionador"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/anatel-regulatorio.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/anatel-regulatorio/SKILL.md"
 triggers:
   - "ANATEL"
   - "Lei 9.472"
@@ -18,10 +18,15 @@ triggers:
   - "radiofrequência"
   - "Compartilhamento de Infraestrutura"
   - "5G Brasil"
-description: "Regulação e processo sancionador da Agência Nacional de Telecomunicações (ANATEL).\nBase: Lei 9.472/97 (LGT); Lei 13.116/15 (Lei das Antenas); Lei 12.485/11\n(SeAC); Regulamento de Aplicação de Sanções Administrativas (Res. 589/12,\natualizada por 766/2024). Procedimento: PADO (Procedimento Administrativo\nDisciplinar de Operadora). Recurso ao Conselho Diretor. Outorgas: SCM,\nSMP, STFC, SeAC. Sanções: multa (até R$ 50 mi), suspensão temporária,\ncaducidade. Lei das Antenas: licenciamento simplificado. Compartilhamento\nde infraestrutura (REN 683/17). Coordenação setorial cliente (Procon)."
+description: "Usar para pesquisar ou analisar: ANATEL: Regulação e Procedimento Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANATEL: Regulação e Procedimento Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

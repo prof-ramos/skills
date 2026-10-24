@@ -5,8 +5,8 @@ title: "Securities Class Action no Brasil"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/securities-class-action-brasil.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/securities-class-action-brasil/SKILL.md"
 triggers:
   - "securities class action"
   - "ação coletiva investidor"
@@ -18,10 +18,15 @@ triggers:
   - "perdas mercado"
   - "ACP investidor"
   - "LSA 287"
-description: "Securities class action no Brasil: tutela coletiva de investidores\nprejudicados por disclosure deficiente, insider, manipulação, fato\nrelevante atrasado, fraude securities. Bases: LSA 287 + Lei 6.385\n+ CDC + Lei 7.347 + CC 186. Termo de Compromisso CVM como\nmecanismo de ressarcimento individualizado (Lei 6.385 art. 11 §5).\nCoordenação com PAS CVM e investigação criminal. Cross-border:\nações 10b-5 (US Securities Exchange Act 1934) + 1933 Act. ADRs\namericanas + fora-coordenadas. Investidor frustrado + dano direto +\ncausalidade. Funcionamento ainda incipiente comparado aos EUA."
+description: "Usar para pesquisar ou analisar: Securities Class Action no Brasil. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Securities Class Action no Brasil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Judicialização da Saúde + NATJUS (CNJ Reso 388 + Temas STF/STJ)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/judicializacao-saude-natjus.md"
+version: 2
+sourcePath: "legalbr/materia/saude/judicializacao-saude-natjus/SKILL.md"
 triggers:
   - "judicialização saúde"
   - "NATJUS"
@@ -20,10 +20,15 @@ triggers:
   - "PMS plano municipal saúde"
   - "solidariedade entes saúde"
   - "SUS judicial"
-description: "Judicialização da saúde + NATJUS (Núcleo de Apoio Técnico do\nJudiciário): mecanismo de **apoio técnico** ao juiz (CNJ Resolução\n388/2021 + Recomendação 146/2023). Fluxo: petição → consulta NATJUS\n→ decisão técnica → cumprimento. **Temas relevantes**: STF Tema 793\n(solidariedade entre entes) + STF Tema 6 / SV 61 (medicamento\nregistrado na Anvisa mas não incorporado) + STF Tema 500\n(medicamentos sem registro) + STF Tema 1.234 / SV 60 (2024, fluxos\ninterfederativos + competência por valor). Princípios: integralidade\n(CF 196) × custo-benefício + escassez. Cobertura ANS: judicialização\nparalela ao SUS. e-NatJus 4.0: sistema nacional. ANS+CNJ acordo\n2024 (saúde suplementar). RENAME + RENASES + CONITEC referenciais."
+description: "Usar para pesquisar ou analisar: Judicialização da Saúde + NATJUS (CNJ Reso 388 + Temas STF/STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Judicialização da Saúde + NATJUS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

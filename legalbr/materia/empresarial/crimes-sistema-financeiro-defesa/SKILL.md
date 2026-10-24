@@ -5,8 +5,8 @@ title: "Crimes contra o Sistema Financeiro: Defesa"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/crimes-sistema-financeiro-defesa.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/crimes-sistema-financeiro-defesa/SKILL.md"
 triggers:
   - "Lei 7.492"
   - "crimes sistema financeiro"
@@ -18,10 +18,15 @@ triggers:
   - "art. 22 Lei 7.492"
   - "art. 16 Lei 7.492"
   - "autorização BCB"
-description: "Crimes contra o Sistema Financeiro Nacional (Lei 7.492/86) e teses\ndefensivas usualmente articuladas.\nTipos principais: gestão fraudulenta (art. 4), gestão temerária (art.\n4 § ún), evasão de divisas (art. 22), operação sem autorização (art.\n16), apropriação ou desvio de recursos (art. 5), empréstimo vedado\n(art. 17). Sujeitos: administradores, controladores, intermediários.\nCoordenação com PA BACEN/CVM e investigação interna. Cooperação\npremiada (Lei 12.850). Pacote Anticrime. ANPP em hipóteses (raras,\ndada a pena). Cross-border (FATF + SEC + OFAC + DOJ)."
+description: "Usar para pesquisar ou analisar: Crimes contra o Sistema Financeiro: Defesa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra o Sistema Financeiro: Defesa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

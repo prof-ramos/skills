@@ -5,8 +5,8 @@ title: "Dados de Crianças e Adolescentes (LGPD 14 + ECA + ANPD + Conanda 245/20
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/dados-criancas-adolescentes-lgpd-14.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/dados-criancas-adolescentes-lgpd-14/SKILL.md"
 triggers:
   - "LGPD 14"
   - "dados crianças adolescentes"
@@ -18,10 +18,15 @@ triggers:
   - "KidSafe"
   - "menor digital"
   - "ANPD enunciado crianças"
-description: "Dados pessoais de crianças e adolescentes, LGPD **art. 14** +\n**Conanda Resolução 245/2024** + ANPD Enunciado (2024): tratamento\ncom **melhor interesse** prevalente (CF 227 + ECA 4). **Consentimento\nespecífico + destacado** de pelo menos um dos pais/responsáveis para\nbases voluntárias (mas ANPD admite todas as bases do art. 7/11 desde\nque melhor interesse preservado). **Vedação de condicionamento** a\ninformações além das necessárias. **Marketing infantil**:\nResolução Conanda 163/2014, vedação a publicidade abusiva.\nPrincípio da minimização reforçado. Cuidado em escolas + jogos +\nredes sociais + plataformas educacionais. KidSafe + age verification\n+ consentimento renovável. Sanções LGPD + Conanda + ECA."
+description: "Usar para pesquisar ou analisar: Dados de Crianças e Adolescentes (LGPD 14 + ECA + ANPD + Conanda 245/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dados de Crianças e Adolescentes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

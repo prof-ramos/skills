@@ -5,8 +5,8 @@ title: "Ação de Investigação Judicial Eleitoral (AIJE)"
 category: "forma"
 materia: null
 documentType: "aije"
-version: 1
-sourcePath: "lib/skills/official/forma/aije.md"
+version: 2
+sourcePath: "legalbr/forma/aije/SKILL.md"
 triggers:
   - "AIJE"
   - "art. 22 LC 64/90"
@@ -17,10 +17,15 @@ triggers:
   - "inelegibilidade octenária LC 135/10 Ficha Limpa"
   - "legitimidade de partido coligação candidato e MPE"
   - "cassação de registro ou diploma"
-description: "Ação de investigação judicial eleitoral sob o art. 22 da LC 64/90:\napuração de abuso de poder econômico ou político, uso indevido dos\nmeios de comunicação, condutas vedadas e captação ilícita de sufrágio;\nlegitimidade ativa taxativa de partido, coligação, candidato e MPE;\nprazo até a diplomação com rito sumaríssimo; sanções de cassação e\ninelegibilidade octenária pela LC 135/10."
+description: "Usar para redigir ou revisar: Ação de Investigação Judicial Eleitoral (AIJE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # AIJE: Ação de Investigação Judicial Eleitoral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito e fundamento
 

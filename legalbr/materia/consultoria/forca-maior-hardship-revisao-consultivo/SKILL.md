@@ -5,8 +5,8 @@ title: "Força Maior, Hardship e Revisão Contratual (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/forca-maior-hardship-revisao-consultivo.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/forca-maior-hardship-revisao-consultivo/SKILL.md"
 triggers:
   - "força maior"
   - "caso fortuito"
@@ -17,10 +17,15 @@ triggers:
   - "revisão contratual"
   - "imprevisão"
   - "MAC contratual"
-description: "Cláusulas de força maior, hardship e revisão contratual:\nCC 393 (caso fortuito + força maior, exclusão de\nresponsabilidade), CC 317 (revisão por imprevisão judicial),\nCC 478-480 (resolução por onerosidade excessiva), Lei 13.874\nart. 421-A (paridade B2B restringe revisão), pandemia\n(jurisprudência STJ caso a caso), dispute mechanism (mediação\n+ arbitragem), redação de cláusula contratual e MAC entre\nsigning/closing."
+description: "Usar para pesquisar ou analisar: Força Maior, Hardship e Revisão Contratual (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Força Maior, Hardship e Revisão Contratual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

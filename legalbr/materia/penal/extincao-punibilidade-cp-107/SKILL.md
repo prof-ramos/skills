@@ -5,8 +5,8 @@ title: "Extinção da Punibilidade (CP 107-108 + Lei 11.106/2005)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/extincao-punibilidade-cp-107.md"
+version: 2
+sourcePath: "legalbr/materia/penal/extincao-punibilidade-cp-107/SKILL.md"
 triggers:
   - "extinção da punibilidade"
   - "CP 107"
@@ -22,10 +22,15 @@ triggers:
   - "abolitio criminis"
   - "perempção da ação penal privada"
   - "Tema 1.336 STJ"
-description: "Extinção da punibilidade CP 107 (rol exemplificativo): I morte;\nII anistia/graça/indulto (CF 5 XLIII veda em hediondos; Tema\n1.336 STJ veda indulto do Decreto 11.846/2023 ao tráfico); III\nabolitio criminis; IV prescrição/decadência/perempção (12 meses\np/ queixa/representação em violência doméstica, Lei 15.438/2026);\nV renúncia/perdão aceito; VI retratação (calúnia/difamação CP\n143); IX perdão judicial (Súm. 18 STJ, declaratório); VII/VIII\nREVOGADOS pela Lei 11.106/2005; CP 108 acessório subsiste."
+description: "Usar para pesquisar ou analisar: Extinção da Punibilidade (CP 107-108 + Lei 11.106/2005). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extinção da Punibilidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 107: hipóteses (rol EXEMPLIFICATIVO)
 

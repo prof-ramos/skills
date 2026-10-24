@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lei-maria-penha.md"
+sourcePath: "legalbr/materia/penal/lei-maria-penha/SKILL.md"
 triggers:
   - "Lei Maria da Penha"
   - "Lei 11.340/2006"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 1.249 STJ"
   - "Lei 14.994/2024"
   - "Lei 14.550/2023"
-description: "Lei 11.340/2006: violência doméstica, cinco formas e três âmbitos; medidas protetivas em 48h e autônomas (Tema 1.249 STJ), art. 24-A, feminicídio (CP 121-A), vicaricídio (CP 121-B), ADC 19, ADI 4.424 e Súm. 542/600 STJ."
+description: "Usar para pesquisar ou analisar: Lei Maria da Penha + Medidas Protetivas (Lei 11.340/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Maria da Penha (Lei 11.340/2006)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

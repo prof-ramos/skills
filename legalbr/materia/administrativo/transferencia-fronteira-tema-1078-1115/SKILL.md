@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/transferencia-fronteira-tema-1078-1115.md"
+sourcePath: "legalbr/materia/administrativo/transferencia-fronteira-tema-1078-1115/SKILL.md"
 triggers:
   - "Tema 1.078 STF"
   - "Tema 1.115 STF"
@@ -18,10 +18,15 @@ triggers:
   - "localidades estratégicas"
   - "Portaria MGI 6666 2026 Anvisa"
   - "Portaria MGI 6667 6668 6669 6670"
-description: "Indenização da Lei 12.855/2013, condicionada à regulamentação segundo o Tema 974/STJ. Em 2026, portarias específicas definiram localidades para Anvisa, Abin, Ibama, ICMBio e SFB."
+description: "Usar para pesquisar ou analisar: Adicional de Fronteira (Temas 1.078 e 1.115 STF + Lei 12.855). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicional de Fronteira
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Juros SELIC em Matéria Tributária"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/juros-selic-tributario-tema-1126.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/juros-selic-tributario-tema-1126/SKILL.md"
 triggers:
   - "juros SELIC tributário"
   - "Lei 9.430 art. 13"
@@ -17,10 +17,15 @@ triggers:
   - "juros mora SELIC"
   - "correção monetária tributária"
   - "Lei 13.105 CPC"
-description: "SELIC em matéria tributária: aplicada cumulativamente (juros +\ncorreção) sobre tributo federal em mora (Lei 9.430 art. 13) e\nsobre repetição/restituição (Lei 9.250 art. 39 §4); Tema 962 STF\n(NÃO incidência de IRPJ/CSLL sobre SELIC em repetição de indébito\ntributário); Tema 810 STF (juros constitucionais — 12% até CC/02);\nTema 1.126 STJ (Selic aplicada integralmente em condenações\ncontra a Fazenda — atualização + juros)."
+description: "Usar para pesquisar ou analisar: Juros SELIC em Matéria Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juros SELIC em Matéria Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 
@@ -162,3 +167,7 @@ description: "SELIC em matéria tributária: aplicada cumulativamente (juros +\n
 - Considerar **juros indenizatórios** (não tributários) como Tema 962 (escopo específico);
 - Aplicar Selic ao FGTS (não — TR + 3% específico);
 - A Selic é devida em compensação aprovada na esfera administrativa.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

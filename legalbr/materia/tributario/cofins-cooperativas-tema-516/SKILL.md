@@ -5,8 +5,8 @@ title: "Tributação de Cooperativas, Contribuições sobre Receita (Tema 516 e 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/cofins-cooperativas-tema-516.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cofins-cooperativas-tema-516/SKILL.md"
 triggers:
   - "Tema 516 STF"
   - "COFINS cooperativas"
@@ -16,10 +16,15 @@ triggers:
   - "cooperativismo CF 174 §2"
   - "ato cooperativo"
   - "sujeição passiva cooperativa"
-description: "ATENÇÃO à distinção de temas. STF Tema 516 (RE 597.315, julgado\nem maio/2026): é CONSTITUCIONAL a contribuição social do art. 1º,\nII, da LC 84/1996 exigida das cooperativas de trabalho (vigente\n1996-1999). A incidência de PIS/COFINS/CSLL sobre atos\ncooperativos atípicos (com terceiros não associados) é objeto do\nSTF Tema 536 (RE 672.215), AINDA EM JULGAMENTO (há divergência;\nsem tese final). Lei 5.764/71 art. 79 (ato cooperativo);\nCF 146 III \"c\" + 174 §2 + 195 I \"b\"."
+description: "Usar para pesquisar ou analisar: Tributação de Cooperativas, Contribuições sobre Receita (Tema 516 e Tema 536 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # COFINS sobre Cooperativas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

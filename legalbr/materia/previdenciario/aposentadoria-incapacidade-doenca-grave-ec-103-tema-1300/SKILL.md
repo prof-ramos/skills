@@ -5,8 +5,8 @@ title: "Aposentadoria por Incapacidade Permanente Doença Grave EC 103 (Tema 1.3
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/aposentadoria-incapacidade-doenca-grave-ec-103-tema-1300.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/aposentadoria-incapacidade-doenca-grave-ec-103-tema-1300/SKILL.md"
 triggers:
   - "Tema 1.300 STF"
   - "aposentadoria invalidez doença grave"
@@ -17,10 +17,15 @@ triggers:
   - "art. 151 Lei 8.213"
   - "acidente trabalho 100%"
   - "DII data início incapacidade"
-description: "Tema 1.300 STF (RE 1.469.150, 18/12/2025): CONSTITUCIONAL\no cálculo do art. 26 §2 III EC 103/2019 (60% da média + 2pp\npor ano excedente) para aposentadoria por incapacidade\npermanente, INCLUSIVE em doença grave constatada APÓS a\nReforma. NÃO se aplica integralidade. Ressalva mantida:\nincapacidade decorrente de ACIDENTE/DOENÇA do trabalho =\n100% da média (art. 26 §3 EC 103). Direito adquirido para\nfatos anteriores a 13/11/2019."
+description: "Usar para pesquisar ou analisar: Aposentadoria por Incapacidade Permanente Doença Grave EC 103 (Tema 1.300 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aposentadoria por Incapacidade Permanente após EC 103/2019
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

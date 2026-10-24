@@ -5,8 +5,8 @@ title: "Indenização ao Preso em Condições Degradantes (Tema 365 STF + RE 580
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/condicoes-degradantes-presos-tema-365-stf.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/condicoes-degradantes-presos-tema-365-stf/SKILL.md"
 triggers:
   - "Tema 365 STF"
   - "RE 580.252"
@@ -17,10 +17,15 @@ triggers:
   - "indenização condições carcerárias"
   - "estado de coisas inconstitucional"
   - "Regras de Mandela"
-description: "Tema 365 STF (RE 580.252, red. Min. Gilmar Mendes, 16/02/2017): o\nEstado deve indenizar dano moral causado ao preso por superlotação\ne condições degradantes (CF 37 §6 + CF 5 III XLIX). Dano moral in\nre ipsa. Reserva do possível rejeitada. Dialoga com ADPF 347\n(estado de coisas inconstitucional) e SV 56. Proposta\nde remição (voto vencido) não prevaleceu."
+description: "Usar para pesquisar ou analisar: Indenização ao Preso em Condições Degradantes (Tema 365 STF + RE 580.252). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indenização ao Preso em Condições Degradantes (Tema 365 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

@@ -5,8 +5,8 @@ title: "Restituição/Compensação Administrativa (PER/DCOMP)"
 category: "forma"
 materia: null
 documentType: "restituicao-administrativa"
-version: 1
-sourcePath: "lib/skills/official/forma/restituicao-administrativa.md"
+version: 2
+sourcePath: "legalbr/forma/restituicao-administrativa/SKILL.md"
 triggers:
   - "restituição administrativa de tributo"
   - "declaração de compensação PER/DCOMP"
@@ -15,10 +15,15 @@ triggers:
   - "pedido eletrônico de restituição e ressarcimento"
   - "homologação tácita da compensação"
   - "crédito tributário do contribuinte perante a RFB"
-description: "Restituição e compensação administrativa de tributos federais via\nPER/DCOMP sob a Lei 9.430/96 (art. 74), o CTN (arts. 165-170) e a\nIN RFB 2.055/21: modalidades de PER, DCOMP, ressarcimento e\nreembolso; compensação por homologação tácita em 5 anos; vedações\nlegais; habilitação prévia de créditos judiciais; manifestação de\ninconformidade e recurso ao CARF."
+description: "Usar para redigir ou revisar: Restituição/Compensação Administrativa (PER/DCOMP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Restituição/Compensação Administrativa (PER/DCOMP)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

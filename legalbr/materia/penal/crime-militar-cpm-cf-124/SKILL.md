@@ -5,8 +5,8 @@ title: "Crime Militar + Justiça Militar (CPM DL 1.001 + CF 124-125 + Lei 13.491
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crime-militar-cpm-cf-124.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crime-militar-cpm-cf-124/SKILL.md"
 triggers:
   - "crime militar"
   - "CPM DL 1.001/1969"
@@ -19,10 +19,15 @@ triggers:
   - "ADI 5.804"
   - "crime propriamente militar"
   - "crime impropriamente militar"
-description: "Justiça Militar dupla: JM da União CF 124 (Forças Armadas, STM\n15 ministros 10 mil/5 civis); JM Estadual CF 125 §4 (PM/BM\nestaduais); CPM DL 1.001/1969 + CPPM DL 1.002/1969; crimes\nPRÓPRIOS (só militares, deserção 187 + insubmissão 183) ×\nIMPRÓPRIOS (com correspondência comum, CPM art. 9 II); Lei\n13.491/2017 ampliou + ADI 5.804; júri militar estadual (CF 125 §4)."
+description: "Usar para pesquisar ou analisar: Crime Militar + Justiça Militar (CPM DL 1.001 + CF 124-125 + Lei 13.491/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crime Militar + Justiça Militar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Dupla estrutura constitucional
 

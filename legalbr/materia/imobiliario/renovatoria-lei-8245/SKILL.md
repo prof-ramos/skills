@@ -5,8 +5,8 @@ title: "Ação Renovatória de Locação (Lei 8.245/1991 arts. 51-57)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/renovatoria-lei-8245.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/renovatoria-lei-8245/SKILL.md"
 triggers:
   - "ação renovatória"
   - "renovatória de locação"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 549 STJ"
   - "shopping renovatória"
   - "prazo decadencial 1 ano 6 meses"
-description: "Renovatória sob Lei 8.245/1991 arts. 51-57: requisitos cumulativos\n(contrato escrito + 5 anos com somatório + 3 anos no mesmo ramo);\nprazo decadencial de 1 ano até 6 meses antes do término; defesas\ndo locador (art. 52): inadequação + uso próprio + reforma substancial\n+ proposta melhor (com preferência); aluguel novo periciado;\nshopping plenamente aplicável (art. 54)."
+description: "Usar para pesquisar ou analisar: Ação Renovatória de Locação (Lei 8.245/1991 arts. 51-57). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Renovatória de Locação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Requisitos cumulativos (Lei 8.245/91 art. 51)
 

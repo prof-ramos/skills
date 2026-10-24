@@ -5,8 +5,8 @@ title: "Greenwashing e Climate Litigation"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/greenwashing-esg-litigation.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/greenwashing-esg-litigation/SKILL.md"
 triggers:
   - "greenwashing"
   - "ESG litigation"
@@ -20,10 +20,15 @@ triggers:
   - "RCVM 193"
   - "disclosure ESG"
   - "taxonomia verde"
-description: "Greenwashing e climate litigation. Bases: CDC arts. 30, 36-38\n(publicidade enganosa); Lei 9.605/98 (crimes ambientais); Lei\n12.187/09 (Política Nacional de Mudanças Climáticas); CONAR Cód.\nBrasileiro de Auto-regulamentação Publicitária; CVM RCVM 193/2023\n(relato de sustentabilidade ISSB/IFRS S1+S2; a RCVM 244/2026 revogou\na obrigatoriedade: regime voluntário, com comunicado ao mercado por\nquem não divulgar); Lei\n14.300/22 (GD); ANPD (LGPD ambiental). Climate litigation: dano\nclimático (CC 186 + 927); responsabilidade por emissões scope 1, 2, 3\n(GHG Protocol); causalidade probabilística. Coordenação com ANPD +\nCADE + CVM. ADPF 708 (Fundo Clima) + ADPF 760 (Plano Amazônia) +\nADO 54 (desmatamento Amazônia)."
+description: "Usar para pesquisar ou analisar: Greenwashing e Climate Litigation. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Greenwashing e Climate Litigation
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Agrotóxicos: Novo Marco Lei 14.785/2023"
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/agrotoxicos-lei-14785.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/agrotoxicos-lei-14785/SKILL.md"
 triggers:
   - "Lei 14.785"
   - "agrotóxicos"
@@ -17,10 +17,15 @@ triggers:
   - "pulverização aérea"
   - "tríplice lavagem embalagens"
   - "receituário agronômico"
-description: "Novo marco dos agrotóxicos, a **Lei 14.785/2023** (27/12/2023):\nmodernizou regulação de produtos fitossanitários (após 20 anos de\ntramitação, o \"PL do Veneno\"). Revogou a **Lei 7.802/1989** e a\nLei 9.974/2000. Sistema **tripartite** mantido: MAPA + Anvisa +\nIBAMA. **Prazos acelerados** (30 dias-2 anos). **Critérios de\nproibição**: análise de risco obrigatória e vedação de registro\nem caso de risco inaceitável (art. 4, § 2 a § 4).\nA lei é objeto da ADI 7.701 (STF, pendente), que alega\nflexibilização excessiva e redução do papel da Anvisa.\nVetos presidenciais parciais. Termos: \"agrotóxicos\" mantido +\n\"produtos fitossanitários\" como sinônimo. CTNBio + biotecnologia.\nResponsabilidade civil + crime ambiental (Lei 9.605 + CDC)."
+description: "Usar para pesquisar ou analisar: Agrotóxicos: Novo Marco Lei 14.785/2023. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agrotóxicos: Lei 14.785/2023
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

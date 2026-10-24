@@ -5,8 +5,8 @@ title: "E-commerce e Marketplaces (CDC + Dec. 7.962/2013 + LGPD + LC 214/2025)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/e-commerce-marketplaces.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/e-commerce-marketplaces/SKILL.md"
 triggers:
   - "e-commerce"
   - "marketplace"
@@ -14,10 +14,15 @@ triggers:
   - "CDC 49"
   - "arrependimento"
   - "chargeback"
-description: "E-commerce e marketplaces sob CDC + Dec. 7.962/2013 + LGPD + LC 214/2025:\ndeveres informacionais e direito de arrependimento em 7 dias (CDC 49);\nsolidariedade consumerista do marketplace (cadeia, CDC 7 e 25); responsabilidade\npós-Temas 987/533 STF (notificação extrajudicial e dever proativo);\nsplit payment e solidariedade tributária na reforma; chargeback e LGPD."
+description: "Usar para pesquisar ou analisar: E-commerce e Marketplaces (CDC + Dec. 7.962/2013 + LGPD + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # E-commerce e Marketplaces
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

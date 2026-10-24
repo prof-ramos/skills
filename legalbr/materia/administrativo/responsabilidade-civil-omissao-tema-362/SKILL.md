@@ -5,8 +5,8 @@ title: "Responsabilidade Civil por Omissão em Fiscalização (Tema 362 + 366 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-civil-omissao-tema-362.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-civil-omissao-tema-362/SKILL.md"
 triggers:
   - "Tema 362 STF"
   - "Tema 366 STF"
@@ -16,10 +16,15 @@ triggers:
   - "omissão fiscalização"
   - "culpa serviço"
   - "CF 37 §6"
-description: "Tema 362 STF (RE 608.880, 08/09/2020) + Tema 366 STF (RE\n136.861, 11/03/2020): responsabilidade civil do Estado por\nOMISSÃO é SUBJETIVA (culpa do serviço), salvo casos de\ndever específico de proteção. Tema 362: foragido cometendo\ncrimes. Tema 366: explosão de fogos em residência fiscalizada."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil por Omissão em Fiscalização (Tema 362 + 366 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil por Omissão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

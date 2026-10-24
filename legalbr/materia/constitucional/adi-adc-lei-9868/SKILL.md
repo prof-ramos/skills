@@ -5,8 +5,8 @@ title: "ADI + ADC (CF 102 I a + 103 + Lei 9.868/1999)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adi-adc-lei-9868.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adi-adc-lei-9868/SKILL.md"
 triggers:
   - "ADI"
   - "ADC"
@@ -18,10 +18,15 @@ triggers:
   - "pertinência temática"
   - "amicus curiae no controle concentrado"
   - "cautelar em ação direta"
-description: "ADI + ADC sob Lei 9.868/1999 + CF 102 I a + 103: legitimação\nCF 103 (universais + especiais com pertinência temática); rito\n(AGU defende ato + PGR opina); cautelar art. 10 (maioria\nabsoluta + ex nunc regra); quórum 8 presentes + 6 votos; efeitos\nerga omnes + vinculante + ex tunc (28); modulação art. 27 (2/3,\n8 votos); ADC exige controvérsia judicial relevante."
+description: "Usar para pesquisar ou analisar: ADI + ADC (CF 102 I a + 103 + Lei 9.868/1999). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI + ADC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento
 

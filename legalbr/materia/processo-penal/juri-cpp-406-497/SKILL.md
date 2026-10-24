@@ -5,8 +5,8 @@ title: "Tribunal do Júri (CF 5 XXXVIII + CPP 406-497 + Tema 1.087 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juri/juri-cpp-406-497.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/juri-cpp-406-497/SKILL.md"
 triggers:
   - "tribunal do júri"
   - "CF 5 XXXVIII"
@@ -19,10 +19,15 @@ triggers:
   - "soberania dos veredictos"
   - "desaforamento"
   - "execução imediata"
-description: "Júri CF 5 XXXVIII (plenitude + sigilo + soberania + dolosos\ncontra vida); 2 FASES, judicium accusationis (pronúncia 413 +\nRESE 581 IV) + judicium causae (CPP 422-497); CPP 483 quesitos\n(I materialidade + II autoria + III absolvição GENÉRICA + IV\ndimin + V agrav); Tema 1.087 STF (apelação cabe contra\nabsolvição genérica); execução imediata pós-júri (STF 2024)."
+description: "Usar para pesquisar ou analisar: Tribunal do Júri (CF 5 XXXVIII + CPP 406-497 + Tema 1.087 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tribunal do Júri
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 5 XXXVIII: 4 pilares
 

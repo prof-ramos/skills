@@ -5,8 +5,8 @@ title: "Destituição do Poder Familiar (ECA 155-163 + CC 1.635-1.638)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/destituicao-poder-familiar-eca-155.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/destituicao-poder-familiar-eca-155/SKILL.md"
 triggers:
   - "destituição do poder familiar"
   - "ação de destituição"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 383 STJ"
   - "defesa dos genitores destituição"
   - "ECA 199-B"
-description: "Ação de destituição/suspensão do poder familiar: rito autônomo do ECA\n155-163 (prazo de 120 dias, citação pessoal, defesa dos genitores,\nestudo social obrigatório), hipóteses materiais do CC 1.635-1.638\n(Leis 13.509/2017 e 13.715/2018), ECA 23 (pobreza não é motivo),\ncompetência (ECA 148 + Súm. 383 STJ) e apelação só devolutiva (ECA 199-B)."
+description: "Usar para pesquisar ou analisar: Destituição do Poder Familiar (ECA 155-163 + CC 1.635-1.638). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Destituição do Poder Familiar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

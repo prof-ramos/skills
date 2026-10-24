@@ -5,8 +5,8 @@ title: "Opção pelo Benefício Mais Vantajoso (Tema 1.018 STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/opcao-beneficio-mais-vantajoso-tema-1018-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/opcao-beneficio-mais-vantajoso-tema-1018-stj/SKILL.md"
 triggers:
   - "Tema 1.018 STJ"
   - "benefício mais vantajoso"
@@ -22,10 +22,15 @@ triggers:
   - "Lei 8.213 art. 122"
   - "reafirmação DER"
   - "Tema 995 STJ"
-description: "Tema 1.018 STJ: segurado pode optar pelo benefício mais vantajoso\nconcedido administrativamente no curso da ação judicial, mantendo\no benefício administrativo + executando parcelas do benefício\njudicial até a data de implantação do administrativo. Direito ao\nbenefício mais vantajoso é direito adquirido (Súm. 359 STF)."
+description: "Usar para pesquisar ou analisar: Opção pelo Benefício Mais Vantajoso (Tema 1.018 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Opção pelo Benefício Mais Vantajoso (Tema 1.018 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.018 STJ)
 

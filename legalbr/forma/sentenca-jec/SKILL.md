@@ -5,8 +5,8 @@ title: "Sentença no Juizado Especial Cível (Lei 9.099/95)"
 category: "forma"
 materia: null
 documentType: "sentenca-jec"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-jec.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-jec/SKILL.md"
 triggers:
   - "sentença no juizado especial cível"
   - "sentença JEC Lei 9.099/95"
@@ -16,10 +16,15 @@ triggers:
   - "projeto de sentença do juiz leigo"
   - "sem honorários em primeiro grau no juizado"
   - "ineficácia do excedente a 40 salários mínimos"
-description: "Sentença do Juizado Especial Cível estadual sob a Lei 9.099/95: relatório\ndispensado e fundamentação com breve resumo dos fatos relevantes (art. 38);\nvedada condenação por quantia ilíquida (art. 38, parágrafo único); ineficácia\ndo que exceder 40 SM (art. 39); pedido contraposto decidido na própria\nsentença (art. 31); sem custas nem honorários em primeiro grau, salvo má-fé\n(arts. 54-55); projeto do juiz leigo homologável pelo togado (art. 40)."
+description: "Usar para redigir ou revisar: Sentença no Juizado Especial Cível (Lei 9.099/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença no Juizado Especial Cível (Lei 9.099/95)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

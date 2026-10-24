@@ -5,8 +5,8 @@ title: "Cláusula de Barreira e Nomeação (Tema 376 + 161 + 784 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/clausula-barreira-concurso-tema-376.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/clausula-barreira-concurso-tema-376/SKILL.md"
 triggers:
   - "Tema 376"
   - "RE 635.739"
@@ -20,10 +20,15 @@ triggers:
   - "cadastro de reserva"
   - "Súmula 15 STF"
   - "SV 43"
-description: "Trinca de teses sobre concurso público: Tema 376 STF (RE 635.739,\nMin. Gilmar, 19/02/2014): constitucional a cláusula de barreira no\nedital; Tema 161 (RE 598.099): direito subjetivo à nomeação dentro\ndas vagas; Tema 784 (RE 837.311, Min. Fux, 09/12/2015): cadastro de\nreserva só gera direito em preterição arbitrária comprovada. SV 43."
+description: "Usar para pesquisar ou analisar: Cláusula de Barreira e Nomeação (Tema 376 + 161 + 784 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cláusula de Barreira e Nomeação (Temas 376 + 161 + 784 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

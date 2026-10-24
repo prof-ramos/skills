@@ -5,8 +5,8 @@ title: "Crimes Ambientais (Lei 9.605/98)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-meio-ambiente-lei-9605.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-meio-ambiente-lei-9605/SKILL.md"
 triggers:
   - "crime ambiental"
   - "crimes ambientais"
@@ -22,10 +22,15 @@ triggers:
   - "RE 548.181 STF"
   - "área de preservação permanente"
   - "Lei 8.176 usurpação mineral"
-description: "Crimes ambientais (Lei 9.605/98): fauna (29-37), flora (38-53),\npoluição (54-61), patrimônio cultural (62-65), administração\nambiental (66-69); pessoa jurídica responsabilizada penalmente\n(art. 3, STF RE 548.181); pena restritiva preferencial; transação\n+ suspensão condicional Lei 9.099 admitidas; perdão judicial\nespecífico; consunção com CP 250-263 (incêndio); extração mineral\nilegal (art. 55) em concurso formal com a usurpação da Lei 8.176/91."
+description: "Usar para pesquisar ou analisar: Crimes Ambientais (Lei 9.605/98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Ambientais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura da Lei 9.605/98
 

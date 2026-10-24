@@ -5,8 +5,8 @@ title: "Direito ao Melhor Benefício Previdenciário (RE 630.501 STF + Tema 334 
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/melhor-beneficio-direito-adquirido.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/melhor-beneficio-direito-adquirido/SKILL.md"
 triggers:
   - "melhor benefício"
   - "direito adquirido previdenciário"
@@ -14,10 +14,15 @@ triggers:
   - "Tema 334 STF"
   - "DIB ótima"
   - "aposentadoria mais vantajosa"
-description: "Direito ao melhor benefício previdenciário (CF 201 + RE 630.501 STF +\nTema 334 STF): segurado tem direito à RMI calculada pelo melhor regime\ndesde que preenchidos requisitos antes da DER; análise de cenários\nhipotéticos (DIBs ótimas); Tema 1.018 STJ: segurado pode optar por\nbenefício do INSS no curso da ação, sem renúncia aos atrasados;\ndireito adquirido pré-EC 103 (art. 3)."
+description: "Usar para pesquisar ou analisar: Direito ao Melhor Benefício Previdenciário (RE 630.501 STF + Tema 334 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito ao Melhor Benefício
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

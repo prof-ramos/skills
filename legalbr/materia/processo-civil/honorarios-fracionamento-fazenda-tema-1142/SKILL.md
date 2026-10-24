@@ -5,8 +5,8 @@ title: "Fracionamento de Honorários em ACP Coletiva contra Fazenda (Tema 1.142 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-fracionamento-fazenda-tema-1142.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-fracionamento-fazenda-tema-1142/SKILL.md"
 triggers:
   - "Tema 1.142 STF"
   - "fracionamento honorários ACP"
@@ -14,10 +14,15 @@ triggers:
   - "CF 100 §8"
   - "honorários sucumbência coletiva"
   - "fracionamento precatório honorário"
-description: "Tema 1.142 STF (RE 1.309.081, 07/05/2021): É POSSÍVEL o\nFRACIONAMENTO de honorários sucumbenciais decorrentes de\nação coletiva contra a Fazenda Pública para fins de\npagamento por RPV. CF 100 §8 não veda. Súm. 153 STJ:\nhonorários têm natureza alimentar. Aplicação imediata."
+description: "Usar para pesquisar ou analisar: Fracionamento de Honorários em ACP Coletiva contra Fazenda (Tema 1.142 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fracionamento de Honorários em ACP Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

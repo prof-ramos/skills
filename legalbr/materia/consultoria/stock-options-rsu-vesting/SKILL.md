@@ -5,8 +5,8 @@ title: "Stock Options, RSU e Vesting (planos de incentivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/stock-options-rsu-vesting.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/stock-options-rsu-vesting/SKILL.md"
 triggers:
   - "stock options"
   - "SOP"
@@ -16,10 +16,15 @@ triggers:
   - "vesting"
   - "phantom shares"
   - "long-term incentive"
-description: "Planos de incentivo de longo prazo: stock options (LSA 168 §3º + Lei\n6.404), RSU, phantom shares e vesting. Natureza mercantil vs\nremuneratória (STJ Tema 1.226, REsp 2.069.644 e 2.074.564).\nTributação (IRPF + INSS + IRPJ), CVM (RCVM 80: cia. aberta), Lei do\nBem (Lei 11.196). Marco Legal Startups (LC 182/21)."
+description: "Usar para pesquisar ou analisar: Stock Options, RSU e Vesting (planos de incentivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Stock Options, RSU e Vesting
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceitos
 

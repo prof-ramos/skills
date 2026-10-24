@@ -5,8 +5,8 @@ title: "Ação por Medicamento ou Tratamento (SUS / Plano)"
 category: "forma"
 materia: null
 documentType: "acao-saude"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-medicamento-tratamento-saude.md"
+version: 2
+sourcePath: "legalbr/forma/acao-medicamento-tratamento-saude/SKILL.md"
 triggers:
   - "ação medicamento"
   - "judicialização saúde"
@@ -20,10 +20,15 @@ triggers:
   - "rol ANS"
   - "Lei 14.454"
   - "tutela específica saúde"
-description: "Ação para fornecimento de medicamento/tratamento contra ente público\n(SUS) ou plano de saúde: competência e polo passivo (solidariedade do\nTema 793 STF; cortes do Tema 1.234 STF e SV 60; sem registro na ANVISA\na ação é contra a União na JF, Tema 500); instrução da inicial (laudo\ncircunstanciado, negativa administrativa, prova de eficácia, NATJUS);\ntutela específica com multa e bloqueio de verbas; pedidos contra plano\n(rol ANS, Lei 14.454/2022 conforme a ADI 7.265)."
+description: "Usar para redigir ou revisar: Ação por Medicamento ou Tratamento (SUS / Plano). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação por Medicamento / Tratamento
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

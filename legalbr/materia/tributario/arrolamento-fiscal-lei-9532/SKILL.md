@@ -5,8 +5,8 @@ title: "Arrolamento Administrativo de Bens (Lei 9.532/1997 + IN RFB 2.091/22)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/arrolamento-fiscal-lei-9532.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/arrolamento-fiscal-lei-9532/SKILL.md"
 triggers:
   - "arrolamento de bens"
   - "Lei 9.532/1997"
@@ -16,10 +16,15 @@ triggers:
   - "R$ 2 milhões"
   - "alienação bens arrolados"
   - "notificação Fisco"
-description: "Arrolamento administrativo Lei 9.532/97 + IN RFB 2.091/22: medida\nacautelatória da RFB sobre bens do contribuinte quando soma de\ncréditos tributários (a vencer + vencidos não suspensos) excede\n30% do patrimônio conhecido E R$ 2 milhões; NÃO é constrição\n(gravame de averbação); contribuinte mantém posse + uso; deve\ncomunicar à RFB alienação ou oneração; medida cautelar fiscal é\njudicial (Lei 8.397/92); não suspende exigibilidade."
+description: "Usar para pesquisar ou analisar: Arrolamento Administrativo de Bens (Lei 9.532/1997 + IN RFB 2.091/22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arrolamento Administrativo de Bens
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

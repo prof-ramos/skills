@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/pejotizacao-plataformas-tema-1291.md"
+sourcePath: "legalbr/materia/trabalho/pejotizacao-plataformas-tema-1291/SKILL.md"
 triggers:
   - "Tema 1.291"
   - "RE 1.446.336"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.389"
   - "Convenção 193 da OIT"
   - "Rcl 64.018"
-description: "Tema 1.291 STF (RE 1.446.336, Min. Edson Fachin, RG reconhecida em\n2024): discute o vínculo empregatício entre motoristas/entregadores\ne plataformas digitais. Debate sobre a subordinação algorítmica como\nespécie de subordinação jurídica (CLT 3). Mérito não julgado: pauta\nde 27/08/2026, após retirada em 24/06/2026 pela aprovação da\nConvenção 193 da OIT (12/06/2026). Terceira via em debate. Distinção\ncom Tema 725 (terceirização) e ADPF 449 (transporte por aplicativo)."
+description: "Usar para pesquisar ou analisar: Pejotização e Plataformas Digitais (Tema 1.291 STF + RE 1.446.336). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pejotização e Plataformas Digitais (Tema 1.291 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

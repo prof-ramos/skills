@@ -5,8 +5,8 @@ title: "Suspensão do Processo, Morte da Parte e Habilitação de Sucessores (CP
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/suspensao-processo-habilitacao-cpc-313.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/suspensao-processo-habilitacao-cpc-313/SKILL.md"
 triggers:
   - "suspensão do processo civil"
   - "CPC 313"
@@ -20,10 +20,15 @@ triggers:
   - "prejudicialidade externa"
   - "suspensão por convenção das partes"
   - "parto advogada suspensão"
-description: "Suspensão do processo civil (CPC 313-315): morte da parte com efeito\nimediato desde o óbito, convenção (máx. 6 meses), prejudicialidade\nexterna (máx. 1 ano), prejudicial penal (CPC 315), licença\nparentalidade do advogado (Lei 13.363/2016); sucessão processual\n(CPC 110 + 75 VII + CC 1.784) e procedimento de habilitação\n(CPC 687-692); nulidade relativa dos atos pós-óbito (313 §§1-2);\nextinção por intransmissibilidade (485 IX)."
+description: "Usar para pesquisar ou analisar: Suspensão do Processo, Morte da Parte e Habilitação de Sucessores (CPC 313-315 + 687-692). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão do Processo, Morte da Parte e Habilitação de Sucessores
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Hipóteses de suspensão (CPC 313)
 

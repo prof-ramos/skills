@@ -5,8 +5,8 @@ title: "Conselheiro Tutelar: Regime Jurídico, Remuneração e Processo de Escol
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/conselheiro-tutelar-eca-132-lei-12696.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/conselheiro-tutelar-eca-132-lei-12696/SKILL.md"
 triggers:
   - "conselheiro tutelar"
   - "Conselho Tutelar regime jurídico"
@@ -18,10 +18,15 @@ triggers:
   - "Resolução CONANDA 231"
   - "mandato de conselheiro tutelar"
   - "gratificação natalina conselheiro tutelar"
-description: "Regime jurídico do conselheiro tutelar (ECA arts. 131 a 140): mandato de 4\nanos com recondução por novos processos de escolha (Lei 13.824/2019),\nremuneração e direitos da Lei 12.696/2012 (previdência, férias com 1/3,\nlicenças, 13º), processo de escolha unificado (art. 139; Res. CONANDA\n170/2014 alterada pela 231/2022) e impedimentos."
+description: "Usar para pesquisar ou analisar: Conselheiro Tutelar: Regime Jurídico, Remuneração e Processo de Escolha (ECA arts. 131-140). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conselheiro Tutelar (ECA arts. 131 a 140)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza do órgão e do agente
 

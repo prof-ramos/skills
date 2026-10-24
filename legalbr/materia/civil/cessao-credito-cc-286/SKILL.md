@@ -5,8 +5,8 @@ title: "Cessão de Crédito, de Débito e do Contrato (CC 286-303)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/cessao-credito-cc-286.md"
+version: 2
+sourcePath: "legalbr/materia/civil/cessao-credito-cc-286/SKILL.md"
 triggers:
   - "cessao de credito"
   - "cessao de debito"
@@ -22,10 +22,15 @@ triggers:
   - "factoring"
   - "fomento mercantil"
   - "Súm. 475 STJ"
-description: "Cessão de crédito (CC 286-298), assunção de dívida (CC 299-303) e\ncessão de contrato (figura atípica); requisitos; notificação ao\ndevedor (CC 290); responsabilidade do cedente (CC 295-296); garantias;\nSúm. 286 STJ; aplicação em factoring e securitização."
+description: "Usar para pesquisar ou analisar: Cessão de Crédito, de Débito e do Contrato (CC 286-303). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cessão de Crédito, de Débito e do Contrato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CESSÃO DE CRÉDITO (CC 286-298)
 

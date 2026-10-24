@@ -5,8 +5,8 @@ title: "Súmula Vinculante 17 - Juros de Mora em Precatório (Período Constituc
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/sumula-vinculante-17-juros-mora-precatorio.md"
+version: 2
+sourcePath: "legalbr/materia/civil/sumula-vinculante-17-juros-mora-precatorio/SKILL.md"
 triggers:
   - "SV 17"
   - "Súmula Vinculante 17"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 96 RG"
   - "SELIC precatório"
   - "EC 113/2021 precatório"
-description: "SV 17 STF (29/10/2009): \"Durante o período previsto no §1º do art. 100 da\nConstituição não incidem juros de mora sobre os precatórios que nele sejam\npagos.\" Abrange precatório comum e alimentar. Tema 1.037 RG: a SV 17 não foi\nafetada pela EC 62/2009 e os juros só fluem após o período de graça (atual\nCF 100 §5). Tema 96 RG: incidem juros entre a elaboração dos cálculos e a\nrequisição/precatório. Tema 1.335 RG: a SELIC do art. 3º da EC 113/2021 não\nincide no período de graça (exclusivamente correção monetária)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 17 - Juros de Mora em Precatório (Período Constitucional). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 17 - Juros de Mora em Precatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Prisão Domiciliar (CPP 317-318 + HC Coletivo Bebês STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/prisao-domiciliar-cpp-317-318.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prisao-domiciliar-cpp-317-318/SKILL.md"
 triggers:
   - "prisão domiciliar"
   - "CPP 317"
@@ -18,10 +18,15 @@ triggers:
   - "Marco Legal da Primeira Infância"
   - "Lei 13.769"
   - "substituição da preventiva por domiciliar"
-description: "Prisão domiciliar (CPP 317-318): cabimento (CPP 318 I-VI),\nmaior 80 anos, debilidade grave, gestante, mãe/pai responsável\npor menor de 12 ou pessoa com deficiência (hipóteses V-VI da Lei\n13.257/2016, Marco Legal da Primeira Infância). Lei 13.769/18 +\nSTF HC 143.641 (HC COLETIVO de bebês, 20/02/2018): substituição\nda preventiva pela domiciliar a TODAS as gestantes/mães de\ncrianças até 12 anos OU PCD, SALVO crime com violência/grave\nameaça OU contra descendente. Restrições + monitoração eletrônica\n+ condições."
+description: "Usar para pesquisar ou analisar: Prisão Domiciliar (CPP 317-318 + HC Coletivo Bebês STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão Domiciliar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 317: natureza
 

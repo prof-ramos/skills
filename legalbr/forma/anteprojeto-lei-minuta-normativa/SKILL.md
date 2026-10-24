@@ -5,8 +5,8 @@ title: "Anteprojeto de Lei / Minuta de Ato Normativo"
 category: "forma"
 materia: null
 documentType: "anteprojeto-lei"
-version: 1
-sourcePath: "lib/skills/official/forma/anteprojeto-lei-minuta-normativa.md"
+version: 2
+sourcePath: "legalbr/forma/anteprojeto-lei-minuta-normativa/SKILL.md"
 triggers:
   - "anteprojeto de lei"
   - "minuta normativa"
@@ -15,10 +15,15 @@ triggers:
   - "proposta legislativa"
   - "emenda à constituição"
   - "técnica legislativa LC 95"
-description: "Anteprojeto de lei / minuta de ato normativo: técnica legislativa\n(LC 95/98 + Dec. 9.191/17), processo legislativo (CF 59-69),\ninstrução de propositura por agente externo (entidade, associação,\nempresa). Compatibiliza com AIR (Dec. 10.411/20), análise de\nconstitucionalidade e impacto orçamentário (LRF + LDO)."
+description: "Usar para redigir ou revisar: Anteprojeto de Lei / Minuta de Ato Normativo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anteprojeto de Lei / Minuta de Ato Normativo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

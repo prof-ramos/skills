@@ -6,7 +6,7 @@ category: "materia"
 materia: "consumidor"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/superendividamento-lei-14181.md"
+sourcePath: "legalbr/materia/consumidor/superendividamento-lei-14181/SKILL.md"
 triggers:
   - "superendividamento"
   - "Lei 14.181/2021"
@@ -20,10 +20,15 @@ triggers:
   - "plano judicial compulsório"
   - "Enunciados FONAMEC superendividamento"
   - "Resolução CNJ 686/2026"
-description: "Superendividamento na Lei 14.181/2021: mínimo existencial, conciliação e plano judicial, crédito responsável, STF nas ADPFs 1.005/1.006/1.097 e enunciados FONAMEC incorporados pela Res. CNJ 686/2026."
+description: "Usar para pesquisar ou analisar: Superendividamento (Lei 14.181/2021 + Dec. 11.150/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Superendividamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

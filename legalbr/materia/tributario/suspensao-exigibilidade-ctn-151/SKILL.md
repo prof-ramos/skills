@@ -5,8 +5,8 @@ title: "Suspensão da Exigibilidade + Garantias (CTN 151-185 + Súm. 112 + SV 21
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/suspensao-exigibilidade-ctn-151.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/suspensao-exigibilidade-ctn-151/SKILL.md"
 triggers:
   - "suspensão exigibilidade"
   - "CTN 151 suspensão"
@@ -21,10 +21,15 @@ triggers:
   - "fraude execução"
   - "Tema 290 STJ"
   - "Lei 11.101/2005"
-description: "CTN 151 6 hipóteses TAXATIVAS: I moratória + II depósito INTEGRAL\nDINHEIRO (Súm. 112 STJ; fiança/seguro garantem mas não suspendem,\nTema 378 STJ) + III reclamações/recursos (SV 21 + Súm.\n373 vedam depósito prévio) + IV liminar MS + V outras ações\n(LC 104) + VI parcelamento (CTN 155-A); suspensão NÃO obsta\nlançamento (Fazenda lança para evitar decadência); CTN 185\npresunção FRAUDE (Tema 290: desnecessária\nmá-fé); Lei 11.101 art. 83 III."
+description: "Usar para pesquisar ou analisar: Suspensão da Exigibilidade + Garantias (CTN 151-185 + Súm. 112 + SV 21 + SV 28). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Suspensão da Exigibilidade + Garantias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 151: 6 hipóteses TAXATIVAS
 

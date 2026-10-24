@@ -5,8 +5,8 @@ title: "Gravame Eletrônico, Seguro Prestamista e Mora (Tema 972 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/gravame-eletronico-seguro-prestamista-tema-972.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/gravame-eletronico-seguro-prestamista-tema-972/SKILL.md"
 triggers:
   - "Tema 972 STJ"
   - "REsp 1.639.320"
@@ -20,10 +20,15 @@ triggers:
   - "encargos acessórios mora"
   - "CDC 39 I"
   - "tarifa cadastro gravame"
-description: "Tema 972 STJ: (1) ABUSIVO repassar ao consumidor a tarifa de\nregistro de pré-gravame após 25/02/2011 (Res. CMN 3.954); (2)\nproibida VENDA CASADA de seguro com instituição indicada (CDC 39\nI); (3) abusividade de encargos ACESSÓRIOS NÃO descaracteriza a\nmora."
+description: "Usar para pesquisar ou analisar: Gravame Eletrônico, Seguro Prestamista e Mora (Tema 972 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gravame Eletrônico e Seguro Prestamista (Tema 972 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 972 STJ)
 

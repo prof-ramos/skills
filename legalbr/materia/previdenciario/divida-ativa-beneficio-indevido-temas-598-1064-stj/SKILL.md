@@ -5,8 +5,8 @@ title: "Cobrança de Benefício Indevido via Dívida Ativa (Temas 598 e 1.064 ST
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/divida-ativa-beneficio-indevido-temas-598-1064-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/divida-ativa-beneficio-indevido-temas-598-1064-stj/SKILL.md"
 triggers:
   - "Tema 598 STJ"
   - "Tema 1.064 STJ"
@@ -19,10 +19,15 @@ triggers:
   - "execução fiscal benefício indevido"
   - "enriquecimento ilícito cobrança INSS"
   - "PGF inscrição benefício indevido"
-description: "Cobrança de benefício previdenciário ou assistencial pago\nindevidamente via inscrição em dívida ativa: Tema 598 STJ (sem lei\nespecífica, via inadequada; ação de enriquecimento ilícito), marco\nlegal das MPs 780/2017 e 871/2019 (art. 115 §§3-5 Lei 8.213) e Tema\n1.064 STJ (nulidade das inscrições de PAs iniciados antes de\n22/05/2017 contra o segurado e antes de 18/01/2019 contra terceiro)."
+description: "Usar para pesquisar ou analisar: Cobrança de Benefício Indevido via Dívida Ativa (Temas 598 e 1.064 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cobrança de Benefício Indevido via Dívida Ativa (Temas 598 e 1.064 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Matéria típica de embargos à execução fiscal e ações anulatórias contra inscrições da PGF/INSS por valores de benefício previdenciário ou assistencial pagos indevidamente. O eixo é temporal: a validade da inscrição depende da data de **início do processo administrativo** de constituição do crédito frente aos marcos das MPs 780/2017 e 871/2019. A repetibilidade em si (erro administrativo, desconto de 30%, Tema 979 STJ) e a devolução por tutela revogada (Tema 692 STJ) têm regime próprio em [[devolucao-tutela-antecipada-tema-692-stj]].
 

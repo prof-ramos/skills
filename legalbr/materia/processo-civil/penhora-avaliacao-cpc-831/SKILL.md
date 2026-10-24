@@ -5,8 +5,8 @@ title: "Penhora, Avaliação e Expropriação (CPC 831-903)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/penhora-avaliacao-cpc-831.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-avaliacao-cpc-831/SKILL.md"
 triggers:
   - "penhora e avaliacao de bens"
   - "ordem de preferencia da penhora"
@@ -22,10 +22,15 @@ triggers:
   - "Sisbajud"
   - "Renajud"
   - "CCS-Bacen"
-description: "Penhora e avaliação (CPC 831-870), expropriação (CPC 875-903):\nfunção e modalidades; ordem preferencial (CPC 835); penhora de\ndinheiro via SISBAJUD (CPC 854); avaliação (CPC 870, perito ou\noficial); adjudicação (CPC 876); alienação por iniciativa do\nparticular (CPC 879); leilão judicial eletrônico (CPC 881)."
+description: "Usar para pesquisar ou analisar: Penhora, Avaliação e Expropriação (CPC 831-903). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora, Avaliação e Expropriação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 831, PENHORA
 

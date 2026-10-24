@@ -5,8 +5,8 @@ title: "Posse + Propriedade + Função Social (CC 1.196-1.276)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/posse-propriedade-funcao-social.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/posse-propriedade-funcao-social/SKILL.md"
 triggers:
   - "posse e detenção"
   - "atributos da propriedade"
@@ -16,10 +16,15 @@ triggers:
   - "exceptio proprietatis"
   - "numerus clausus"
   - "Súm. 340 STF"
-description: "Posse e propriedade sob o CC 1.196-1.276 e a CF 5 XXII/XXIII e 182-184:\nteoria objetiva da posse, classificações e ações possessórias; atributos\nda propriedade e função social (CC 1.228 §§ 1-5); modos de aquisição e\nperda, direitos reais em numerus clausus; tutelas petitórias e\npossessórias e modalidades de desapropriação."
+description: "Usar para pesquisar ou analisar: Posse + Propriedade + Função Social (CC 1.196-1.276). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Posse + Propriedade + Função Social
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

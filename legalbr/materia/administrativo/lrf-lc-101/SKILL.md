@@ -5,8 +5,8 @@ title: "Lei de Responsabilidade Fiscal (LC 101/2000)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/lrf-lc-101.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lrf-lc-101/SKILL.md"
 triggers:
   - "LRF"
   - "LC 101/2000"
@@ -20,10 +20,15 @@ triggers:
   - "limites pessoal"
   - "60% RCL"
   - "50% RCL"
-description: "LRF (LC 101/2000): regula gestão fiscal responsável; despesa\ncom pessoal (50% RCL União / 60% RCL Estados/Municípios);\ncontrole da dívida + operações de crédito; metas fiscais LDO;\nRREO bimestral + RGF quadrimestral; vedações + sanções\n(institucionais + pessoais); fim de mandato; discussões\n(medidas extraordinárias)."
+description: "Usar para pesquisar ou analisar: Lei de Responsabilidade Fiscal (LC 101/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei de Responsabilidade Fiscal (LC 101/2000)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -234,3 +239,7 @@ description: "LRF (LC 101/2000): regula gestão fiscal responsável; despesa\nco
 - Esquecer o arcabouço fiscal (LC 200/2023);
 - Afastar o acesso a planos + orçamentos (LC 131);
 - Aplicar **CAUC** sem oportunidade de regularização (Lei 10.522).
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

@@ -5,8 +5,8 @@ title: "Cláusulas Abusivas (CDC 51 + 53 + 54)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/clausulas-abusivas-cdc-51.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/clausulas-abusivas-cdc-51/SKILL.md"
 triggers:
   - "cláusula abusiva"
   - "CDC 51"
@@ -18,10 +18,15 @@ triggers:
   - "cláusula limitativa de direito"
   - "cláusula resolutiva"
   - "rol exemplificativo"
-description: "Cláusulas abusivas sob CDC 51 (rol exemplificativo) + 53 (perda das\nprestações em contrato com alienação fiduciária) + 54 (contrato de\nadesão): nulidade de pleno direito; reconhecimento de ofício\n(exceção bancária: Súm. 381 STJ); critérios (vantagem exagerada,\ndesequilíbrio, incompatibilidade com boa-fé); efeitos da nulidade\n(preserva o contrato, §2); revisão judicial CDC 6 V vs CC 478."
+description: "Usar para pesquisar ou analisar: Cláusulas Abusivas (CDC 51 + 53 + 54). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cláusulas Abusivas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

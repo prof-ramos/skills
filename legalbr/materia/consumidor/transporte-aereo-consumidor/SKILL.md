@@ -5,8 +5,8 @@ title: "Transporte Aéreo e Direitos do Consumidor (Convenção de Montreal + AN
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-aereo-consumidor.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/transporte-aereo-consumidor/SKILL.md"
 triggers:
   - "transporte aéreo"
   - "Convenção de Montreal"
@@ -14,10 +14,15 @@ triggers:
   - "extravio de bagagem"
   - "overbooking"
   - "Tema 210 STF"
-description: "Transporte aéreo e direitos do consumidor sob a Convenção de\nMontreal, o CBA e a Resolução ANAC 400/2016: assistência\nmaterial em atrasos e cancelamentos; reacomodação, reembolso e\ncompensação por preterição e overbooking; extravio de bagagem\ncom limitação tarifada e dano moral fora do teto; arrependimento\ne prescrição em voos domésticos e internacionais."
+description: "Usar para pesquisar ou analisar: Transporte Aéreo e Direitos do Consumidor (Convenção de Montreal + ANAC Res. 400). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transporte Aéreo e Direitos do Consumidor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "DIFAL ICMS e LC 190/22 (Tema 1.093 STF + ADI 5.469)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/difal-lc-190-tema-1093.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/difal-lc-190-tema-1093/SKILL.md"
 triggers:
   - "Tema 1.093"
   - "RE 1.287.019"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 1.266 STF"
   - "STJ Tema 1.369 DIFAL contribuinte"
   - "05/04/2022 marco DIFAL"
-description: "Tema 1.093 STF (RE 1.287.019 + ADI 5.469, Min. Marco Aurélio /\nMin. Dias Toffoli, 24/02/2021): a cobrança do DIFAL da EC 87/2015\npressupõe lei complementar com normas gerais. Convênio 93/2015\ninválido na parte normativa. ADIs 7.066/7.070/7.078 (29/11/2023):\nLC 190/22 sujeita-se apenas à anterioridade nonagesimal; cobrança\nválida a partir de 05/04/2022. Modulação preserva ações até 24/02/2021."
+description: "Usar para pesquisar ou analisar: DIFAL ICMS e LC 190/22 (Tema 1.093 STF + ADI 5.469). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # DIFAL ICMS e LC 190/22 (Tema 1.093 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

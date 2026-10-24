@@ -5,8 +5,8 @@ title: "Estudo Jurídico / Position Paper"
 category: "forma"
 materia: null
 documentType: "estudo-juridico"
-version: 1
-sourcePath: "lib/skills/official/forma/estudo-juridico-position-paper.md"
+version: 2
+sourcePath: "legalbr/forma/estudo-juridico-position-paper/SKILL.md"
 triggers:
   - "estudo jurídico"
   - "position paper"
@@ -14,10 +14,15 @@ triggers:
   - "documento de posicionamento"
   - "manifestação institucional"
   - "subsídio a consulta pública"
-description: "Estudo jurídico ou position paper: documento de posicionamento sobre\ntema regulatório ou normativo: uso institucional (consultas\npúblicas, audiências públicas, parlamento), interno (orientação\nestratégica) ou comunicação ao mercado. Difere de parecer (sem\npergunta concreta) e de nota técnica (mais extenso e principiológico)."
+description: "Usar para redigir ou revisar: Estudo Jurídico / Position Paper. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estudo Jurídico / Position Paper
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

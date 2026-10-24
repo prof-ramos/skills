@@ -5,8 +5,8 @@ title: "Sociedade em Comandita Simples (CC 1.045-1.051)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-comandita-simples-cc-1045.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-comandita-simples-cc-1045/SKILL.md"
 triggers:
   - "sociedade em comandita simples"
   - "CC 1.045"
@@ -15,10 +15,15 @@ triggers:
   - "sócio investidor"
   - "responsabilidade limitada quota"
   - "CC 1.047 ato de gestão"
-description: "Sociedade em Comandita Simples (CC 1.045-1.051): tipo societário\n**misto** com duas categorias de sócios: **comanditados** (PF,\nresponsáveis solidária + ilimitada + subsidiariamente, com firma\nsocial e administração privativa) e **comanditários** (PF ou PJ,\nlimitados ao valor da quota, sem poder de gestão sob pena de\nequiparação, art. 1.047). Dissolução por falta de uma das\ncategorias por mais de 180 dias (1.051). Aplicação subsidiária\nda sociedade em nome coletivo (1.046). Sucessão, retirada e\nmorte do comanditário com regras específicas (1.050)."
+description: "Usar para pesquisar ou analisar: Sociedade em Comandita Simples (CC 1.045-1.051). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade em Comandita Simples
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

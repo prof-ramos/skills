@@ -5,8 +5,8 @@ title: "Embargos Infringentes do CPP (CPP 609 par. único + Lei 263/1948)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/embargos-infringentes-cpp-609.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/embargos-infringentes-cpp-609/SKILL.md"
 triggers:
   - "embargos infringentes CPP"
   - "CPP 609"
@@ -16,10 +16,15 @@ triggers:
   - "técnica de ampliação CPC 942"
   - "voto vencido"
   - "recurso defensivo"
-description: "Embargos infringentes e de nulidade do CPP (CPP 609 par. único,\nred. Lei 263/1948): recurso EXCLUSIVO da defesa contra decisão de\nsegunda instância NÃO UNÂNIME e desfavorável ao réu (apelação/\nRESE/agravo em execução); prazo 10 dias; restrito à matéria\nobjeto da divergência; permanece no CPP (≠ CPC, que substituiu\npelos julgamentos ampliados do CPC 942); discussão sobre a\naplicação subsidiária do CPC 942 ao processo penal."
+description: "Usar para pesquisar ou analisar: Embargos Infringentes do CPP (CPP 609 par. único + Lei 263/1948). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos Infringentes do CPP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

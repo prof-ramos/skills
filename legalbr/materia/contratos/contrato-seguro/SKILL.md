@@ -5,8 +5,8 @@ title: "Contrato de Seguro (CC 757-802 + Lei 15.040/24: Marco Legal do Seguro)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-seguro.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-seguro/SKILL.md"
 triggers:
   - "contrato de seguro"
   - "apólice"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 620 STJ"
   - "boa-fé qualificada"
   - "agravamento risco"
-description: "Seguro (CC 757-802 + Lei 15.040/24, vig. 11.12.2025): aceite\ntácito 25d (LMS 49); prêmio (763 + Súm. 616 STJ); sub-rogação\n(786/LMS 94 + Súm. 188 STF); boa-fé qualificada (765/766); SUSEP."
+description: "Usar para pesquisar ou analisar: Contrato de Seguro (CC 757-802 + Lei 15.040/24: Marco Legal do Seguro). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Seguro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

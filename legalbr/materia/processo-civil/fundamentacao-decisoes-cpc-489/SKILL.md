@@ -5,8 +5,8 @@ title: "Fundamentação de Decisões Judiciais (CF 93 IX + CPC 489)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/fundamentacao-decisoes-cpc-489.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/fundamentacao-decisoes-cpc-489/SKILL.md"
 triggers:
   - "fundamentação das decisões judiciais"
   - "CF 93 IX"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 927"
   - "embargos de declaração"
   - "decisão-surpresa"
-description: "Fundamentação de decisões sob CF 93 IX e CPC 489: requisitos da\nsentença (relatório, fundamentos, dispositivo); seis vícios do art.\n489 §1; vedação à decisão-surpresa (CPC 9-10); seguimento de\nprecedentes vinculantes (CPC 927) com ratio e distinguishing;\nfundamentação sucinta admitida (STF AI 791.292, Tema 339) e\nper relationem nos limites do STJ Tema 1.306."
+description: "Usar para pesquisar ou analisar: Fundamentação de Decisões Judiciais (CF 93 IX + CPC 489). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fundamentação de Decisões Judiciais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

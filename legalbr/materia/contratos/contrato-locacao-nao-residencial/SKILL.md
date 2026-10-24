@@ -5,8 +5,8 @@ title: "Contrato de Locação Não Residencial (Lei 8.245/91 arts. 51-57)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-locacao-nao-residencial.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-locacao-nao-residencial/SKILL.md"
 triggers:
   - "locação comercial"
   - "locação não residencial"
@@ -22,10 +22,15 @@ triggers:
   - "shopping center art. 54"
   - "aluguel percentual"
   - "aluguel mínimo"
-description: "Locação não residencial (Lei 8.245/91 arts. 51-57):\nrenovatória (5a + 3a ramo, ajuizamento 12-6m antes);\nretomada art. 52; shopping 54; hospital/escola 53; ponto."
+description: "Usar para pesquisar ou analisar: Contrato de Locação Não Residencial (Lei 8.245/91 arts. 51-57). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Locação Não Residencial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

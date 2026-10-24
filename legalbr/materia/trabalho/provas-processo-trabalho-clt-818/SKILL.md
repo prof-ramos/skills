@@ -5,8 +5,8 @@ title: "Provas no Processo do Trabalho: Ônus (CLT 818)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/provas-processo-trabalho-clt-818.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/provas-processo-trabalho-clt-818/SKILL.md"
 triggers:
   - "CLT 818"
   - "ônus da prova trabalhista"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 74 TST"
   - "confissão ficta"
   - "primazia da realidade"
-description: "Provas no processo do trabalho sob CLT 818 (Lei 13.467/2017):\nônus estático e distribuição dinâmica (§1: peculiaridades +\nimpossibilidade ou maior facilidade); decisão fundamentada antes\nda instrução (§2); inversões legais consolidadas (Súm. 6, 212,\n338, 443 TST); confissão ficta (Súm. 74); primazia da realidade;\naplicação subsidiária do CPC (CLT 769)."
+description: "Usar para pesquisar ou analisar: Provas no Processo do Trabalho: Ônus (CLT 818). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Provas no Processo do Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CLT 818 (Lei 13.467/2017)
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/iof-mutuo-pessoas-juridicas-tema-104.md"
+sourcePath: "legalbr/materia/tributario/iof-mutuo-pessoas-juridicas-tema-104/SKILL.md"
 triggers:
   - "IOF mútuo"
   - "mútuo entre pessoas jurídicas IOF"
@@ -18,10 +18,15 @@ triggers:
   - "adiantamento entre empresas ligadas"
   - "Tema 102 STF"
   - "Lei 8.033 transmissão de ações"
-description: "IOF sobre mútuo de recursos financeiros entre PJs ou entre PJ e PF sem\ninstituição financeira: Lei 9.779/99 art. 13 declarado constitucional no\nTema 104 STF (RE 590.186), regime do Decreto 6.306/2007 (fato gerador,\nresponsável, alíquotas, conta-corrente intercompany) e Tema 102 (Lei 8.033/90)."
+description: "Usar para pesquisar ou analisar: IOF sobre Mútuo entre Pessoas Jurídicas (Tema 104 STF + Lei 9.779/99 art. 13). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IOF sobre Mútuo entre Pessoas Jurídicas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

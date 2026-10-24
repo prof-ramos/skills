@@ -5,8 +5,8 @@ title: "Indenização Ambiental + Dano Moral Coletivo (STJ Tema 707 + dano moral
 category: "materia"
 materia: "ambiental"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/ambiental/indenizacao-dano-ambiental-stj.md"
+version: 2
+sourcePath: "legalbr/materia/ambiental/indenizacao-dano-ambiental-stj/SKILL.md"
 triggers:
   - "indenização dano ambiental"
   - "dano moral coletivo ambiental"
@@ -17,10 +17,15 @@ triggers:
   - "Portaria IBAMA 118"
   - "in re ipsa ambiental"
   - "valoração dano ambiental"
-description: "Indenização ambiental + dano moral coletivo. **STJ Tema 707**\n(REsp 1.374.284/MG): responsabilidade ambiental **objetiva + risco\nintegral**, **descabidas excludentes**. **Dano moral coletivo\nambiental** presumido (**in re ipsa**), independente de prova de\nsofrimento (REsp 2.200.069/MT, 1ª T., Rel. Min. Regina Helena\nCosta, maio/2025, critérios objetivos);\ncumulação de obrigação de fazer/não fazer com indenizar\n(Súm. 629 STJ). **Reparação integral**: recomposição\nmaterial + dano moral coletivo + lucros cessantes. Valoração:\ncritérios STJ + Portaria IBAMA 118/2022. Imprescritibilidade do\ndano (STF Tema 999 + 1.194). Aplicação cumulativa de obrigações de\nfazer + indenização. Tutela coletiva via ACP + TAC. Aplicação em\nmineração + desmatamento + poluição + crime ambiental."
+description: "Usar para pesquisar ou analisar: Indenização Ambiental + Dano Moral Coletivo (STJ Tema 707 + dano moral coletivo in re ipsa). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indenização Ambiental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

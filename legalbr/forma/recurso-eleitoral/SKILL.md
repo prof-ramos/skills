@@ -5,8 +5,8 @@ title: "Recursos Eleitorais (sistema recursal)"
 category: "forma"
 materia: null
 documentType: "recurso-eleitoral"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-eleitoral.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-eleitoral/SKILL.md"
 triggers:
   - "recurso eleitoral"
   - "recurso especial eleitoral ao TSE"
@@ -15,10 +15,15 @@ triggers:
   - "recurso contra decisão de juiz eleitoral ao TRE"
   - "prazo de 3 dias art. 258 CE"
   - "efeito suspensivo em cassação art. 257 §2º"
-description: "Sistema recursal eleitoral sob o Código Eleitoral (arts. 257-282),\nLC 64/90 e Lei 9.504/97: recurso eleitoral genérico, recurso\nordinário ao TSE, recurso especial eleitoral, RCED, embargos de\ndeclaração, agravos; prazo-regra de 3 dias em dias corridos;\nampla devolutividade; sem preparo; prequestionamento e cotejo\nanalítico no especial."
+description: "Usar para redigir ou revisar: Recursos Eleitorais (sistema recursal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos Eleitorais
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Características do sistema
 

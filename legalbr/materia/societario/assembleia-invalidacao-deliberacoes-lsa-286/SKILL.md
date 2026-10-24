@@ -5,8 +5,8 @@ title: "Assembleia Geral e Invalidação de Deliberações Sociais (LSA 121-137 
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/assembleia-invalidacao-deliberacoes-lsa-286.md"
+version: 2
+sourcePath: "legalbr/materia/societario/assembleia-invalidacao-deliberacoes-lsa-286/SKILL.md"
 triggers:
   - "anulação de deliberação assemblear"
   - "LSA 286"
@@ -20,10 +20,15 @@ triggers:
   - "vício de convocação assembleia"
   - "aprovação de contas quitação LSA 134"
   - "deliberação de sócios limitada"
-description: "Assembleia geral de S/A (LSA 121-137: convocação, quóruns de instalação\ne deliberação, AGO e quitação do art. 134, §3º) e deliberações de\nsócios na limitada (CC 1.071-1.080-A, quóruns da Lei 14.451/2022,\nassembleia digital da Lei 14.030/2020). Ação anulatória: prazo de 2\nanos da LSA 286, anulabilidade e convalidação (REsp 2.095.475), voto\nconflitado (LSA 115) e dividendo obrigatório (LSA 202)."
+description: "Usar para pesquisar ou analisar: Assembleia Geral e Invalidação de Deliberações Sociais (LSA 121-137 + 286 + CC 1.071-1.080-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assembleia Geral e Invalidação de Deliberações Sociais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

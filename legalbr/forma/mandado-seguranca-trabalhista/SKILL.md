@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "mandado-seguranca-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/mandado-seguranca-trabalhista.md"
+sourcePath: "legalbr/forma/mandado-seguranca-trabalhista/SKILL.md"
 triggers:
   - "mandado de segurança trabalhista"
   - "MS trabalhista"
@@ -15,10 +15,15 @@ triggers:
   - "competência originária do TRT"
   - "mandado de segurança contra penhora de salário na execução trabalhista"
   - "mandado de segurança contra antecipação de tutela Súm. 414 TST"
-description: "MS trabalhista (Lei 12.016/09): contra ato judicial sem recurso com efeito\nsuspensivo (Súm. 414 TST); competência pela hierarquia da autoridade\ncoatora; 120 dias; prova pré-constituída; vedação contra coisa julgada\n(Súm. 33 TST); OJs 92 e 142 SDI-II; Súms. 415 e 417 TST."
+description: "Usar para redigir ou revisar: Mandado de Segurança Trabalhista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

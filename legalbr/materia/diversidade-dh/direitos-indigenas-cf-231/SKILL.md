@@ -5,8 +5,8 @@ title: "Direitos Indígenas (CF 231-232 + Tema 1.031 STF + Convenção 169 OIT)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/direitos-indigenas-cf-231.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/direitos-indigenas-cf-231/SKILL.md"
 triggers:
   - "direitos indígenas"
   - "CF 231"
@@ -22,10 +22,15 @@ triggers:
   - "imemorialidade indígena"
   - "terras indígenas demarcação"
   - "CF ADCT 67"
-description: "Direitos indígenas CF 231-232: §1 terras tradicionalmente\nocupadas + §2 usufruto exclusivo + §3 recursos hídricos energia\nCN + §4 INALIENABILIDADE + IMPRESCRITIBILIDADE; STF Tema 1.031\n(RE 1.017.365 set/2023) INCONSTITUCIONAL marco temporal +\nteoria do INDIGENATO; STF ADC 87 + ADIs 7.582/7.583/7.586\n(julgamento concluído 19/12/2025, acórdão publicado 18/03/2026):\nreafirmou a inconstitucionalidade do marco temporal e do\nrenitente esbulho, julgando PARCIALMENTE procedentes as ações;\nConvenção 169 OIT supralegal (consulta CPLI)."
+description: "Usar para pesquisar ou analisar: Direitos Indígenas (CF 231-232 + Tema 1.031 STF + Convenção 169 OIT). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Indígenas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 231: direitos territoriais
 

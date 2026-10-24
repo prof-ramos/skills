@@ -5,8 +5,8 @@ title: "Salário-Família (Lei 8.213/91 arts. 65-70)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/salario-familia.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/salario-familia/SKILL.md"
 triggers:
   - "salário-família"
   - "cota por filho"
@@ -14,10 +14,15 @@ triggers:
   - "benefício por filho menor de 14 anos"
   - "limite de baixa renda previdenciário"
   - "frequência escolar e vacinação do dependente"
-description: "Salário-Família sob a CF (arts. 7º XII e 201 IV) e a Lei 8.213/91\n(arts. 65-70): natureza não substitutiva da remuneração, paga em cotas\npor filho ou equiparado; titulares de baixa renda dentro do limite do\nSC e dependentes até 14 anos ou inválidos; regras de frequência escolar\ne vacinação; pagamento via empregador ou INSS, cumulatividade entre\npais segurados, cessação e prescrição."
+description: "Usar para pesquisar ou analisar: Salário-Família (Lei 8.213/91 arts. 65-70). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário-Família
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

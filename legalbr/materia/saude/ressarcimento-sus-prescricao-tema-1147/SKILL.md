@@ -5,8 +5,8 @@ title: "Ressarcimento ao SUS por Planos de Saúde, Prescrição (Tema 1.147 STJ)
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/ressarcimento-sus-prescricao-tema-1147.md"
+version: 2
+sourcePath: "legalbr/materia/saude/ressarcimento-sus-prescricao-tema-1147/SKILL.md"
 triggers:
   - "ressarcimento ao SUS"
   - "art. 32 Lei 9.656"
@@ -19,10 +19,15 @@ triggers:
   - "atendimento SUS beneficiário plano"
   - "operadora plano saúde ressarcimento"
   - "art. 1 Dec 20.910"
-description: "Tema 1.147 STJ (1ª Seção, REsp 1.978.141, 2025): prazo quinquenal (Dec. 20.910/1932)\npara ações de ressarcimento ao SUS por atendimentos prestados a\nbeneficiários de plano de saúde (art. 32 Lei 9.656). Termo\ninicial: notificação da decisão administrativa da ANS que\nidentificou os valores devidos. Aplicação a operadoras públicas\ne privadas."
+description: "Usar para pesquisar ou analisar: Ressarcimento ao SUS por Planos de Saúde, Prescrição (Tema 1.147 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ressarcimento ao SUS, Prescrição (Tema 1.147 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.147 STJ)
 

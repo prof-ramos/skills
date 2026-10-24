@@ -5,8 +5,8 @@ title: "Súmula Vinculante 33, Aposentadoria Especial do Servidor (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/sumula-vinculante-33-aposentadoria-especial-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-33-aposentadoria-especial-servidor/SKILL.md"
 triggers:
   - "Súmula Vinculante 33"
   - "SV 33"
@@ -19,10 +19,15 @@ triggers:
   - "EC 103/2019 reforma previdência e atividade especial"
   - "Lei 8.213 aposentadoria especial"
   - "servidor estadual aposentadoria especial"
-description: "SV 33 STF (09/04/2014): \"Aplicam-se ao servidor público, no que\ncouber, as regras do regime geral da previdência social sobre\naposentadoria especial (CF 40 §4 III), até a edição de lei\ncomplementar específica\"; origem em MI 721 e MI 758;\nservidor federal foi alcançado pela EC 103/2019 e LC 142/2013\n(deficiência); estaduais e municipais ainda dependem da SV 33\nenquanto não houver LC própria."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 33, Aposentadoria Especial do Servidor (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 33, Aposentadoria Especial do Servidor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

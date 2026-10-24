@@ -5,8 +5,8 @@ title: "Candidaturas Avulsas em Pleitos Majoritários (Tema 974 STF)"
 category: "materia"
 materia: "eleitoral"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/eleitoral/candidaturas-avulsas-tema-974.md"
+version: 2
+sourcePath: "legalbr/materia/eleitoral/candidaturas-avulsas-tema-974/SKILL.md"
 triggers:
   - "Tema 974 STF"
   - "candidatura avulsa"
@@ -17,10 +17,15 @@ triggers:
   - "CADH art. 23"
   - "independente eleitoral"
   - "candidato sem partido político"
-description: "Tema 974 STF (RE 1.238.853, Rel. Barroso, julgamento virtual\nencerrado 25/11/2025, acórdão publicado 08/01/2026): a CF EXIGE\nfiliação partidária (art. 14 §3 V) como condição de elegibilidade,\nAFASTANDO candidaturas avulsas no sistema eleitoral brasileiro. O\nCADH (art. 23) não autoriza interpretação contrária ao texto\nconstitucional brasileiro. Necessidade de EC para alteração.\nLei 9.504/97 + LC 64/90."
+description: "Usar para pesquisar ou analisar: Candidaturas Avulsas em Pleitos Majoritários (Tema 974 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Candidaturas Avulsas em Pleitos Majoritários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

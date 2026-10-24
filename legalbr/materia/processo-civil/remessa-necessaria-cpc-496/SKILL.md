@@ -5,8 +5,8 @@ title: "Remessa Necessária (CPC 496)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/remessa-necessaria-cpc-496.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/remessa-necessaria-cpc-496/SKILL.md"
 triggers:
   - "remessa necessaria"
   - "reexame necessario"
@@ -15,10 +15,15 @@ triggers:
   - "Sum 423 STF"
   - "Sum 325 STJ"
   - "duplo grau Fazenda"
-description: "Remessa necessária (CPC 496): condição de eficácia da sentença\ncontra Fazenda Pública; reexame ex officio pelo tribunal; valores\nde exclusão (CPC 496 §3, União 1000sm; Estados 500sm; Municípios\n100sm); hipóteses de NÃO cabimento (CPC 496 §4, precedentes\nvinculantes); aplicação a procedência integral sentença."
+description: "Usar para pesquisar ou analisar: Remessa Necessária (CPC 496). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remessa Necessária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 496, REGRA GERAL
 

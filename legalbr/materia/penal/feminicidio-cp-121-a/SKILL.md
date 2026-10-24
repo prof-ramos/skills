@@ -5,8 +5,8 @@ title: "Feminicídio (CP 121-A, Lei 14.994/2024)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/feminicidio-cp-121-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/feminicidio-cp-121-a/SKILL.md"
 triggers:
   - "feminicídio"
   - "CP 121-A"
@@ -19,10 +19,15 @@ triggers:
   - "perspectiva de gênero"
   - "Resolução CNJ 492/2023"
   - "Pacote Antifeminicídio"
-description: "Feminicídio sob CP 121-A (Lei 14.994/2024, tipo autônomo):\nrecl. 20-40 anos + multa; matar mulher por razões de gênero\n(VDFM objetivo / menosprezo subjetivo); causas de aumento §1;\nhediondo, júri, regime pelo CP 33; progressão do LEP 112 alterada\npelas Leis 15.358/2026 (75%) e 15.402/2026 (nova redação);\nSTJ Inf. 625 (sem bis in idem com torpe); efeitos automáticos\nCP 92 §2; protocolo CNJ de julgamento com perspectiva de gênero."
+description: "Usar para pesquisar ou analisar: Feminicídio (CP 121-A, Lei 14.994/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Feminicídio (CP 121-A)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

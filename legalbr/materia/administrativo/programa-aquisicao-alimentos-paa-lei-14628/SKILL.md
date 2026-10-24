@@ -5,8 +5,8 @@ title: "Programa de Aquisição de Alimentos (PAA, Lei 14.628/2023)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/programa-aquisicao-alimentos-paa-lei-14628.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/programa-aquisicao-alimentos-paa-lei-14628/SKILL.md"
 triggers:
   - "Programa de Aquisição de Alimentos"
   - "PAA agricultura familiar"
@@ -16,10 +16,15 @@ triggers:
   - "compra pública agricultura familiar"
   - "cozinha solidária PAA"
   - "sementes PAA limite financeiro"
-description: "Programa de Aquisição de Alimentos: compra da agricultura familiar, modalidades, limites e alterações do Decreto 13.099/2026 para cozinhas, sementes, emergências e custos logísticos."
+description: "Usar para pesquisar ou analisar: Programa de Aquisição de Alimentos (PAA, Lei 14.628/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Programa de Aquisição de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Finalidade
 

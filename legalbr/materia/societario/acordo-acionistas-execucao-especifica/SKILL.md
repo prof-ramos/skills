@@ -5,8 +5,8 @@ title: "Acordo de Acionistas: Execução Específica e Litígio"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/acordo-acionistas-execucao-especifica.md"
+version: 2
+sourcePath: "legalbr/materia/societario/acordo-acionistas-execucao-especifica/SKILL.md"
 triggers:
   - "acordo acionistas"
   - "LSA 118"
@@ -20,10 +20,15 @@ triggers:
   - "call option"
   - "execução específica"
   - "suprimento declaração"
-description: "Acordo de acionistas (LSA 118 + Lei 10.303/01 + Lei 11.638/07) e acordo\nde quotistas (CC 1.053 + aplicação supletiva LSA): regulação paralela\nao estatuto. Arquivamento na sede vincula a companhia (LSA 118 caput);\naverbação nos livros dá oponibilidade a terceiros (§1). Execução\nespecífica de obrigações de fazer (CPC 815 + LSA 118 §3): voto vinculado,\nsuprimento de declaração (CPC 501), preferência, compra-e-venda, controle.\nCláusulas-clássicas: tag along, drag along, lock-up, ROFR/ROFO, put/call,\nanti-diluição, deadlock, mediação prévia, arbitragem. Voto contrário ao\nacordo arquivado não é computado (§8); autotutela do bloco (§9)."
+description: "Usar para pesquisar ou analisar: Acordo de Acionistas: Execução Específica e Litígio. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Acionistas: Execução Específica e Litígio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

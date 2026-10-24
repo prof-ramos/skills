@@ -5,8 +5,8 @@ title: "Investigação de Paternidade (Lei 8.560/92 + CC + Provimento CNJ 149/20
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/investigacao-paternidade-lei-8560.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/investigacao-paternidade-lei-8560/SKILL.md"
 triggers:
   - "investigação de paternidade"
   - "Lei 8.560/92"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 392 STF"
   - "multiparentalidade"
   - "Provimento CNJ 149/2023"
-description: "Investigação de paternidade sob Lei 8.560/92 + CC 1.601-1.617 +\nECA: ação imprescritível (Súm. 149 STF); presunção pela recusa\nao DNA (Súm. 301 STJ + Lei 12.004/2009); multiparentalidade\n(Tema 622 STF); relativização da coisa julgada sem DNA (Tema 392\nSTF); reconhecimento extrajudicial (Provimento CNJ 149/2023 arts.\n339-360); efeitos sucessórios + alimentares + nome."
+description: "Usar para pesquisar ou analisar: Investigação de Paternidade (Lei 8.560/92 + CC + Provimento CNJ 149/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Investigação de Paternidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

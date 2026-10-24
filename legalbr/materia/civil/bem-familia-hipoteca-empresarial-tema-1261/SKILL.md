@@ -5,8 +5,8 @@ title: "Bem de Família + Hipoteca por Dívida Empresarial (Tema 1.261 STJ)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/bem-familia-hipoteca-empresarial-tema-1261.md"
+version: 2
+sourcePath: "legalbr/materia/civil/bem-familia-hipoteca-empresarial-tema-1261/SKILL.md"
 triggers:
   - "Tema 1.261 STJ"
   - "bem de família hipoteca"
@@ -14,10 +14,15 @@ triggers:
   - "dívida empresarial benefício entidade familiar"
   - "sócio único hipoteca bem família"
   - "ônus prova hipoteca empresarial"
-description: "Tema 1.261 STJ (2ª Seção, 05/06/2025): a exceção à impenhorabilidade\ndo bem de família (Lei 8.009 art. 3 V) restringe-se a dívidas\nconstituídas em BENEFÍCIO DA ENTIDADE FAMILIAR. Ônus probatório:\n(i) bem dado em garantia por UM sócio → credor prova benefício\nfamiliar; (ii) ÚNICOS sócios proprietários do imóvel hipotecado →\npresume-se benefício; devedor deve provar contrário."
+description: "Usar para pesquisar ou analisar: Bem de Família + Hipoteca por Dívida Empresarial (Tema 1.261 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bem de Família + Hipoteca por Dívida Empresarial (Tema 1.261 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.261 STJ, 2ª Seção, 05/06/2025)
 

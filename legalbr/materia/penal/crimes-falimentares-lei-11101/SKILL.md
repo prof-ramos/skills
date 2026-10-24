@@ -5,8 +5,8 @@ title: "Crimes Falimentares (Lei 11.101/2005 arts. 168-178)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-falimentares-lei-11101.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-falimentares-lei-11101/SKILL.md"
 triggers:
   - "crime falimentar"
   - "crimes falimentares Lei 11.101"
@@ -18,10 +18,15 @@ triggers:
   - "art. 171 Lei 11.101"
   - "Lei 14.112/2020"
   - "administrador judicial"
-description: "Crimes falimentares Lei 11.101/2005 (atualizada pela Lei 14.112/2020):\nart. 168 fraude a credores (recl. 3-6); art. 169 violação de sigilo\nempresarial; art. 170 divulgação de informações falsas; art. 171\nindução a erro; art. 172 favorecimento de credores; art. 173 desvio,\nocultação ou apropriação de bens; art. 178 omissão de escrituração;\nsentença decretadora de falência ou concessiva de RJ é condição\nobjetiva de punibilidade; juízo falimentar não julga (CPP 76, vara\ncriminal)."
+description: "Usar para pesquisar ou analisar: Crimes Falimentares (Lei 11.101/2005 arts. 168-178). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes Falimentares
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura legal
 

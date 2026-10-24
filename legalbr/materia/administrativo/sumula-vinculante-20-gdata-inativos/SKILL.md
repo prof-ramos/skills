@@ -5,8 +5,8 @@ title: "Súmula Vinculante 20, GDATA para Inativos (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-20-gdata-inativos.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-20-gdata-inativos/SKILL.md"
 triggers:
   - "Súmula Vinculante 20"
   - "SV 20"
@@ -19,10 +19,15 @@ triggers:
   - "gratificação desempenho geral"
   - "pro labore faciendo"
   - "extensão gratificação inativos"
-description: "SV 20 STF (29/10/2009): GDATA da Lei 10.404/2002 deve ser\ndeferida aos inativos em 37,5 pontos (fev a maio/2002) e 60\npontos (junho/2002 até conclusão do último ciclo de avaliação);\nparidade do CF 40 §8 (redação anterior à EC 41); RE 597.154\n(RG); padrão jurisprudencial estendido a outras gratificações de\ncaráter genérico (pro labore faciendo), GDPGTAS, GDASS, GDPGPE,\nGDAPMP."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 20, GDATA para Inativos (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 20, GDATA para Inativos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

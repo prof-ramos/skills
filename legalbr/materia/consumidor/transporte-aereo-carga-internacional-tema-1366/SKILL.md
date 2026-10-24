@@ -5,8 +5,8 @@ title: "Transporte Aéreo Internacional de Carga (Tema 1.366 STF + Convenção M
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/transporte-aereo-carga-internacional-tema-1366.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/transporte-aereo-carga-internacional-tema-1366/SKILL.md"
 triggers:
   - "Tema 1.366 STF"
   - "transporte aéreo carga internacional"
@@ -18,10 +18,15 @@ triggers:
   - "26 DES por kg"
   - "Tema 210 STF"
   - "CDC transporte internacional"
-description: "Tema 1.366 STF (RE 1.520.841, 04/02/2025): no transporte\naéreo internacional DE CARGA, prevalece Convenção de Montreal\nsobre o CDC quanto a danos materiais. Limite de 26 DES/kg para\ntransportes desde 28/12/2024 (22 DES/kg de 28/12/2019 a\n27/12/2024), salvo declaração especial de valor. CF 178 +\nDecreto 5.910/2006. Prescrição BIENAL (Montreal art. 35).\nMesma lógica do Tema 210 STF (passageiros). Aplicação imediata\naos processos pendentes."
+description: "Usar para pesquisar ou analisar: Transporte Aéreo Internacional de Carga (Tema 1.366 STF + Convenção Montreal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transporte Aéreo Internacional de Carga
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

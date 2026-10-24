@@ -5,8 +5,8 @@ title: "Liquidação de Sentença Trabalhista (CLT 879)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/liquidacao-sentenca-clt-879.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/liquidacao-sentenca-clt-879/SKILL.md"
 triggers:
   - "liquidação de sentença"
   - "CLT 879"
@@ -15,10 +15,15 @@ triggers:
   - "liquidação por artigos"
   - "juros e correção"
   - "Tema 1.191 STF"
-description: "Liquidação trabalhista (CLT 879): por cálculo (regra), arbitramento ou\nartigos; impugnação da conta em 8 dias (CLT 879 §2, Reforma) e\nimpugnação à sentença de liquidação nos embargos à penhora (CLT 884\n§3, 5 dias); juros e correção (Tema 1.191 STF: IPCA-E na fase\npré-judicial e SELIC desde o ajuizamento); contribuições\nprevidenciárias (CF 114 VIII + Súm. 368 TST)."
+description: "Usar para pesquisar ou analisar: Liquidação de Sentença Trabalhista (CLT 879). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Liquidação de Sentença Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

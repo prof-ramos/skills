@@ -5,8 +5,8 @@ title: "Assédio Eleitoral nas Relações de Trabalho"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/assedio-eleitoral-trabalho.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/assedio-eleitoral-trabalho/SKILL.md"
 triggers:
   - "assédio eleitoral"
   - "coação eleitoral no trabalho"
@@ -17,10 +17,15 @@ triggers:
   - "campanha eleitoral na empresa"
   - "dispensa por posicionamento político"
   - "art. 301 Código Eleitoral coação"
-description: "Assédio eleitoral patronal: coação, ameaça ou constrangimento para direcionar o voto\ndo trabalhador; tutela pela CF 5 VIII e 1 V, Convenção 111 da OIT e Lei 9.029/95,\ndano extrapatrimonial (CLT 223-A a 223-G), rescisão indireta (CLT 483) e interface\ncom o crime do art. 301 do Código Eleitoral."
+description: "Usar para pesquisar ou analisar: Assédio Eleitoral nas Relações de Trabalho. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assédio Eleitoral nas Relações de Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

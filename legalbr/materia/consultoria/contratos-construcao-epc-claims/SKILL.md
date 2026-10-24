@@ -5,8 +5,8 @@ title: "Contratos de Construção: EPC, Turnkey e Claims"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/contratos-construcao-epc-claims.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/contratos-construcao-epc-claims/SKILL.md"
 triggers:
   - "contrato EPC"
   - "engineering procurement construction"
@@ -18,10 +18,15 @@ triggers:
   - "seguro-garantia retomada art. 102"
   - "extensão de prazo pleito"
   - "contratação integrada obra"
-description: "Contratos de construção e infraestrutura EPC (engineering, procurement,\nconstruction) e turnkey: alocação de riscos e preço fechado; regime civil\nda empreitada (CC 610-626; garantia quinquenal do art. 618); liquidated\ndamages e cláusula penal (CC 408-416, com teto do art. 412 e redução do\nart. 413); claims (extensão de prazo e reequilíbrio); matriz de riscos e\nregimes de execução na Lei 14.133/2021 (arts. 22 e 46); seguro-garantia\ncom retomada pela seguradora (art. 102)."
+description: "Usar para pesquisar ou analisar: Contratos de Construção: EPC, Turnkey e Claims. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos de Construção: EPC, Turnkey e Claims
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Contrato de construção de projeto de infraestrutura sob a lógica **EPC** (engineering, procurement, construction): o contratado (epecista) assume **projeto, suprimento e execução** integrados, com **preço fechado (lump sum)** e **data certa de conclusão**, entregando a planta pronta para operar (**turnkey**). A alocação de riscos é o núcleo do contrato.
 

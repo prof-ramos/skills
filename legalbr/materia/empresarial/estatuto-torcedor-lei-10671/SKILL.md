@@ -5,8 +5,8 @@ title: "Estatuto do Torcedor (Lei 10.671/2003, revogado) e Lei Geral do Esporte 
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/estatuto-torcedor-lei-10671.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/estatuto-torcedor-lei-10671/SKILL.md"
 triggers:
   - "Estatuto do Torcedor"
   - "Lei 10.671/2003"
@@ -18,10 +18,15 @@ triggers:
   - "art. 41-F cambismo"
   - "Lei 13.155/2015 PROFUT"
   - "torcedor consumidor"
-description: "Estatuto do Torcedor (Lei 10.671/2003, com os crimes da Lei\n12.299/2010) foi REVOGADO INTEGRALMENTE pela Lei 14.597/2023 (Lei\nGeral do Esporte, art. 217 III). Regime atual: espectador consumidor\n(LGE art. 142); resp. objetiva solidária por falha de segurança (art.\n152); crimes com tipos equivalentes: tumulto/violência/invasão (art.\n201, 1-2a; ex-41-B), corrupção esportiva passiva/ativa (arts. 198/199,\n2-6a; ex-41-C/41-D), fraude de resultado (art. 200, 2-6a; ex-41-E),\ncambismo (art. 166, 1-2a; ex-41-F), desvio de ingressos p/ revenda\n(art. 167, 2-4a; ex-41-G); AP pública."
+description: "Usar para pesquisar ou analisar: Estatuto do Torcedor (Lei 10.671/2003, revogado) e Lei Geral do Esporte (Lei 14.597/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto do Torcedor e Lei Geral do Esporte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 10.671/2003: REVOGADA
 

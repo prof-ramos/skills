@@ -5,8 +5,8 @@ title: "Embriaguez ao Volante (CTB art. 306 + Lei 12.760/2012)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/embriaguez-volante-ctb-306.md"
+version: 2
+sourcePath: "legalbr/materia/penal/embriaguez-volante-ctb-306/SKILL.md"
 triggers:
   - "art. 306 CTB"
   - "Lei 12.760/2012"
@@ -19,10 +19,15 @@ triggers:
   - "art. 165-A CTB"
   - "recusa bafômetro"
   - "perigo abstrato"
-description: "Embriaguez ao volante, Lei 12.760/2012 (vigência 21/12/2012)\nflexibilizou a prova: vídeo, testemunha, exame clínico, sinais\nexternos. Crime de perigo abstrato (HC 109.269). Recusa ao\netilômetro é direito (CF 5 LXIII) mas gera infração administrativa\nautônoma (CTB 165-A). REsp 1.111.566, anterior à Lei 12.760 exigia\nprova técnica. Patamar legal: 0,3 mg/L ar ou 6 dg/L sangue (na\nmedição por etilômetro, ≥ 0,34 mg/L após margem de tolerância)."
+description: "Usar para pesquisar ou analisar: Embriaguez ao Volante (CTB art. 306 + Lei 12.760/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embriaguez ao Volante (CTB art. 306)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marcos legais
 

@@ -5,8 +5,8 @@ title: "Decadência Administrativa (Lei 9.784/99 art. 54 + SV 3 + Tema 445 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/decadencia-administrativa-art-54.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/decadencia-administrativa-art-54/SKILL.md"
 triggers:
   - "decadência administrativa"
   - "art. 54 Lei 9.784"
@@ -18,10 +18,15 @@ triggers:
   - "registro tácito de aposentadoria"
   - "revisão aposentadoria"
   - "registro de pensão"
-description: "Decadência administrativa (Lei 9.784/99 art. 54): prazo de 5 anos\npara Administração anular ato favorável ao administrado, salvo\ncomprovada má-fé; SV 3 STF (contraditório no TCU após 5 anos);\nTema 445 STF (prazo das Cortes de Contas no controle da aposentadoria);\ndiferenças com prescrição; aplicação aos atos de pessoal,\nbenefícios e licenciamentos."
+description: "Usar para pesquisar ou analisar: Decadência Administrativa (Lei 9.784/99 art. 54 + SV 3 + Tema 445 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Decadência Administrativa (Lei 9.784/99 art. 54)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Regimes Diferenciados de IBS/CBS (CF 156-A §6 + LC 214/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/regimes-diferenciados-lc-214.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/regimes-diferenciados-lc-214/SKILL.md"
 triggers:
   - "regimes diferenciados"
   - "CF 156-A §6"
@@ -17,10 +17,15 @@ triggers:
   - "cesta básica nacional"
   - "saúde educação transporte coletivo"
   - "profissional regulamentado"
-description: "Regimes diferenciados CF 156-A §6 + LC 214/2025: reduções de IBS/\nCBS para saúde + educação + transporte coletivo + agro + insumos\n+ bens culturais (60%); profissionais regulamentados (30%); cesta\nbásica nacional + medicamentos selecionados + Prouni (zero); rol\ntaxativo constitucional + revisão quinquenal."
+description: "Usar para pesquisar ou analisar: Regimes Diferenciados de IBS/CBS (CF 156-A §6 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regimes Diferenciados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

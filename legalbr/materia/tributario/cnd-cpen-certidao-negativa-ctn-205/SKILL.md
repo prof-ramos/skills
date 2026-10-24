@@ -5,8 +5,8 @@ title: "Certidão Negativa de Débitos (CTN 205-208 + Lei 13.726/2018)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/cnd-cpen-certidao-negativa-ctn-205.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cnd-cpen-certidao-negativa-ctn-205/SKILL.md"
 triggers:
   - "CND certidão negativa débitos"
   - "CPD-EN certidão positiva efeitos negativos"
@@ -16,10 +16,15 @@ triggers:
   - "CTN 208"
   - "Portaria PGFN"
   - "prova de quitação"
-description: "CND CTN 205 (Certidão Negativa de Débitos) + CPD-EN CTN 206\n(Certidão Positiva com Efeitos de Negativa); prova de regularidade\nfiscal; emissão quando todos os débitos estão quitados, suspensos\n(CTN 151) ou garantidos (penhora na EF); Súm. 446 STJ (débito\ndeclarado e não pago legitima a recusa); CTN 208 (responsabilidade\npessoal de servidor por certidão dolosamente falsa); CTN 207\n(dispensa em atos indispensáveis para evitar caducidade de direito)."
+description: "Usar para pesquisar ou analisar: Certidão Negativa de Débitos (CTN 205-208 + Lei 13.726/2018). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Certidão Negativa de Débitos (CND) + CPD-EN
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

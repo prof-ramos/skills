@@ -5,8 +5,8 @@ title: "Tráfico de Pessoas (CP 149-A + Lei 13.344/2016 + Lei 14.811/2024)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/trafico-pessoas-cp-149-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/trafico-pessoas-cp-149-a/SKILL.md"
 triggers:
   - "tráfico de pessoas"
   - "CP 149-A"
@@ -17,10 +17,15 @@ triggers:
   - "Convenção de Palermo"
   - "tráfico de criança e adolescente"
   - "trabalho forçado"
-description: "Tráfico de pessoas sob CP 149-A (Lei 13.344/2016): núcleos\nalternativos (agenciar + aliciar + recrutar + transportar +\ncomprar + alojar + acolher) com finalidades exaustivas (órgãos +\ntrabalho forçado + servidão + adoção ilegal + exploração sexual);\nrecl. 4-8; §1 aumentos (criança + funcionário); §2 redução;\nHEDIONDO Lei 14.811/2024 quando vítima menor; distinção CP 149."
+description: "Usar para pesquisar ou analisar: Tráfico de Pessoas (CP 149-A + Lei 13.344/2016 + Lei 14.811/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tráfico de Pessoas (CP 149-A)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal (Lei 13.344/2016)
 

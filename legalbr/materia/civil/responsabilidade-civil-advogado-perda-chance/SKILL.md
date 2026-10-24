@@ -5,8 +5,8 @@ title: "Responsabilidade Civil do Advogado + Perda de uma Chance (EOAB 32 + CC 4
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-civil-advogado-perda-chance.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-civil-advogado-perda-chance/SKILL.md"
 triggers:
   - "responsabilidade civil do advogado"
   - "perda de uma chance"
@@ -20,10 +20,15 @@ triggers:
   - "lide temerária advogado"
   - "mandato judicial indenização"
   - "abandono da causa pelo advogado"
-description: "Ação indenizatória do cliente contra advogado por perda de prazo, desídia ou\nfalha no mandato: EOAB art. 32 (dolo ou culpa), obrigação de meio, teoria da\nperda de uma chance (REsp 1.190.180: chance séria e real), CC 402-403/667,\nprescrição decenal contratual (EREsp 1.281.594) e quantificação pela chance perdida."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil do Advogado + Perda de uma Chance (EOAB 32 + CC 402-403). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil do Advogado + Perda de uma Chance (EOAB 32 + CC 402-403)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

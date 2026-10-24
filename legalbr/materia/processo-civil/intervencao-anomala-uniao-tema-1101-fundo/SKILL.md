@@ -5,18 +5,23 @@ title: "Intervenção Anômala da União (Lei 9.469/97 + jurisprudência STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/intervencao-anomala-uniao-tema-1101.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/intervencao-anomala-uniao-tema-1101-fundo/SKILL.md"
 triggers:
   - "intervenção anômala União"
   - "art. 5 Lei 9.469/97"
   - "amicus curiae fazenda"
   - "interesse federal indireto"
   - "deslocamento JF"
-description: "Lei 9.469/97 art. 5: a União pode INTERVIR em causa onde\ntenha interesse, na condição de assistente OU como\nINTERVENÇÃO ANÔMALA (sem alterar a competência), com\nefeitos restritos. STF: distingue da intervenção comum\n(CPC 119+). Não acarreta deslocamento para JF salvo se\nefetiva."
+description: "Usar para pesquisar ou analisar: Intervenção Anômala da União (Lei 9.469/97 + jurisprudência STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intervenção Anômala da União
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

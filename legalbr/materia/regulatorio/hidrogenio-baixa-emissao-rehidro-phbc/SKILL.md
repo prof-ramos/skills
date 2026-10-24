@@ -5,8 +5,8 @@ title: "Hidrogênio de Baixa Emissão, Rehidro e PHBC"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/hidrogenio-baixa-emissao-rehidro-phbc.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/hidrogenio-baixa-emissao-rehidro-phbc/SKILL.md"
 triggers:
   - "hidrogênio de baixa emissão"
   - "Rehidro hidrogênio"
@@ -16,10 +16,15 @@ triggers:
   - "crédito fiscal hidrogênio"
   - "certificação SBCH2 hidrogênio"
   - "produtor hidrogênio requerimento autorização dois anos"
-description: "Marco do hidrogênio de baixa emissão após o Decreto 13.096/2026: autorização da ANP, certificação, habilitação no Rehidro e créditos fiscais competitivos do PHBC, com condicionantes."
+description: "Usar para pesquisar ou analisar: Hidrogênio de Baixa Emissão, Rehidro e PHBC. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Hidrogênio de baixa emissão, Rehidro e PHBC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Produção e autorização
 

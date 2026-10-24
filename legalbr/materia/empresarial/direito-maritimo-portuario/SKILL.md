@@ -5,8 +5,8 @@ title: "Direito Marítimo e Portuário (CCom Parte Segunda + Lei 12.815/2013)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/direito-maritimo-portuario.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/direito-maritimo-portuario/SKILL.md"
 triggers:
   - "direito marítimo"
   - "transporte marítimo de carga"
@@ -21,10 +21,15 @@ triggers:
   - "Decreto-Lei 116 prescrição carga"
   - "cabotagem Lei 9.432"
   - "porto organizado terminal de uso privado"
-description: "Domínio consolidado do comércio marítimo e portuário: transporte de carga e\nconhecimento (CCom Parte Segunda + DL 116/1967), prescrições (1 ano carga,\n5 anos demurrage, Tema 1.035 STJ, Súm. 151 STF), afretamento (Lei 9.432/1997),\nmultimodal (Lei 9.611/1998), avarias, Tribunal Marítimo (Lei 2.180/1954) e\nexploração portuária (Lei 12.815/2013)."
+description: "Usar para pesquisar ou analisar: Direito Marítimo e Portuário (CCom Parte Segunda + Lei 12.815/2013). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Marítimo e Portuário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fontes normativas
 

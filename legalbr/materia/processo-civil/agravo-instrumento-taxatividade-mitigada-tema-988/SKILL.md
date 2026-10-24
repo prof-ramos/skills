@@ -5,8 +5,8 @@ title: "Agravo de Instrumento + Taxatividade Mitigada (Tema 988 STJ + CPC 1.015)
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/agravo-instrumento-taxatividade-mitigada-tema-988.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/agravo-instrumento-taxatividade-mitigada-tema-988/SKILL.md"
 triggers:
   - "taxatividade mitigada"
   - "Tema 988 STJ"
@@ -22,10 +22,15 @@ triggers:
   - "cabimento agravo"
   - "agravo de competência"
   - "convenção de arbitragem CPC 1.015 III"
-description: "Tese do Tema 988 STJ: o rol do art. 1.015 do CPC tem taxatividade\nMITIGADA, admitindo agravo de instrumento contra interlocutória\nfora do rol quando houver URGÊNCIA decorrente da INUTILIDADE do\njulgamento pela apelação. REsp 1.704.520/MT + 1.696.396/MT. Não\né interpretação extensiva nem analógica, mas exceção fundada em\nrisco concreto de perecimento."
+description: "Usar para pesquisar ou analisar: Agravo de Instrumento + Taxatividade Mitigada (Tema 988 STJ + CPC 1.015). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Instrumento + Taxatividade Mitigada (Tema 988 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 988 STJ)
 

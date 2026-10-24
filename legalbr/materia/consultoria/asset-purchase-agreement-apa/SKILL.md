@@ -5,8 +5,8 @@ title: "Asset Purchase Agreement (APA): aquisição de ativos"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/asset-purchase-agreement-apa.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/asset-purchase-agreement-apa/SKILL.md"
 triggers:
   - "APA"
   - "asset purchase agreement"
@@ -15,10 +15,15 @@ triggers:
   - "alienação de fundo de comércio"
   - "alienação de estabelecimento"
   - "carve-out"
-description: "Asset Purchase Agreement (APA) e trespasse: alienação de ativos\nidentificados versus estabelecimento (CC 1.142-1.149),\nsucessão tributária (CTN 133) e trabalhista (CLT 448-A),\ncessão de contratos (CC 286+), assignment & assumption,\nexclusão de passivos, registro do trespasse (CC 1.144) e\noposição de credores (CC 1.145)."
+description: "Usar para pesquisar ou analisar: Asset Purchase Agreement (APA): aquisição de ativos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Asset Purchase Agreement (APA)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Asset deal × stock deal
 

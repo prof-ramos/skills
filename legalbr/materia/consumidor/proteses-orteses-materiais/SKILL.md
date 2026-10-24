@@ -5,8 +5,8 @@ title: "Próteses, Órteses e Materiais Especiais (OPME)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/proteses-orteses-materiais.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/proteses-orteses-materiais/SKILL.md"
 triggers:
   - "próteses"
   - "órteses"
@@ -17,10 +17,15 @@ triggers:
   - "marca-passo"
   - "prótese ortopédica"
   - "material cirúrgico importado"
-description: "Próteses, órteses e materiais especiais (OPME) sob Lei 9.656/1998\n+ RN ANS 465/2021 + Súm. 93 TJSP (stent inerente à cirurgia):\ncobertura obrigatória quando ligadas a ato cirúrgico coberto;\nmaterial importado quando não há nacional equivalente; escolha\ntécnica é do médico assistente (3 marcas: preferencial + 2\nalternativas, Res. CFM 1.956/2010); vedação à seleção pelo plano por critério\nmeramente econômico."
+description: "Usar para pesquisar ou analisar: Próteses, Órteses e Materiais Especiais (OPME). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Próteses, Órteses e Materiais Especiais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

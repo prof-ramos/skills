@@ -5,8 +5,8 @@ title: "Reincidência + Maus Antecedentes (CP 63-64 + Tema 150 STF + Súm. 444 S
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/reincidencia-cp-63-64.md"
+version: 2
+sourcePath: "legalbr/materia/penal/reincidencia-cp-63-64/SKILL.md"
 triggers:
   - "reincidência"
   - "CP 63"
@@ -19,10 +19,15 @@ triggers:
   - "bis in idem"
   - "reincidência específica"
   - "Tema 1.169 STF"
-description: "Reincidência sob CP 63-64 + jurisprudência: novo crime após\ntrânsito (CP 63); período depurador de 5 anos (CP 64 I), Tema\n150 STF (não há reincidência, mas pode ser mau antecedente);\nSúm. 444 STJ (vedado inquérito/ação em curso como maus antecedentes);\nTema 1.139 STJ (tráfico privilegiado); reincidência específica\nem hediondo (Anticrime 60%/70%; Lei 15.358/2026 elevou p/ fatos\nnovos); vedado bis in idem (Súm. 241)."
+description: "Usar para pesquisar ou analisar: Reincidência + Maus Antecedentes (CP 63-64 + Tema 150 STF + Súm. 444 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reincidência + Maus Antecedentes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

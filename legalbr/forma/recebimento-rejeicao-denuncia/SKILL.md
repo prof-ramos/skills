@@ -5,8 +5,8 @@ title: "Recebimento e Rejeição da Denúncia; Absolvição Sumária (CPP 395-39
 category: "forma"
 materia: null
 documentType: "recebimento-rejeicao-denuncia"
-version: 3
-sourcePath: "lib/skills/official/forma/recebimento-rejeicao-denuncia.md"
+version: 2
+sourcePath: "legalbr/forma/recebimento-rejeicao-denuncia/SKILL.md"
 triggers:
   - "decisão de recebimento da denúncia"
   - "rejeição da denúncia art. 395 CPP"
@@ -16,10 +16,15 @@ triggers:
   - "juízo de admissibilidade da acusação"
   - "recebimento da denúncia interrompe a prescrição"
   - "recebimento da denúncia com citação para resposta à acusação art. 396"
-description: "Decisões da fase dos arts. 395 a 397 do CPP na voz do juiz: rejeição\n(inépcia, falta de pressuposto ou condição, falta de justa causa),\nrecebimento com exame dos requisitos do art. 41 (fundamentação sucinta\nbasta, fórmula vazia não) e citação para resposta; absolvição sumária\ndo art. 397; recursos (RESE art. 581 I; apelação art. 593 I); marco do\nCP 117 I; pós ADIs 6.298-6.305, o recebimento cabe ao juiz da instrução."
+description: "Usar para redigir ou revisar: Recebimento e Rejeição da Denúncia; Absolvição Sumária (CPP 395-397). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recebimento e Rejeição da Denúncia; Absolvição Sumária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Momento único do recebimento (art. 396)
 

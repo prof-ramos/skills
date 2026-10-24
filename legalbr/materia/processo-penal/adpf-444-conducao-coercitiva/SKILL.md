@@ -5,8 +5,8 @@ title: "ADPF 444: Inconstitucionalidade da Condução Coercitiva para Interrogat
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/adpf-444-conducao-coercitiva.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/adpf-444-conducao-coercitiva/SKILL.md"
 triggers:
   - "ADPF 444"
   - "condução coercitiva"
@@ -16,10 +16,15 @@ triggers:
   - "ADPF 395"
   - "investigado interrogatório"
   - "operação Lava Jato condução"
-description: "ADPF 395 + 444 (Gilmar Mendes, 14/06/2018, 6×5): condução\ncoercitiva para interrogatório de investigado/réu é\ninconstitucional (CF 5 LXIII + LIV + CADH 8.2.g). Cabe a\ntestemunha recusante (CPP 218)."
+description: "Usar para pesquisar ou analisar: ADPF 444: Inconstitucionalidade da Condução Coercitiva para Interrogatório. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 444: Condução Coercitiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

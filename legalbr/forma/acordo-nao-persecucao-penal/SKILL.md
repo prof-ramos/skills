@@ -5,8 +5,8 @@ title: "Acordo de Não Persecução Penal (ANPP)"
 category: "forma"
 materia: null
 documentType: "acordo-nao-persecucao-penal"
-version: 1
-sourcePath: "lib/skills/official/forma/acordo-nao-persecucao-penal.md"
+version: 2
+sourcePath: "legalbr/forma/acordo-nao-persecucao-penal/SKILL.md"
 triggers:
   - "ANPP"
   - "acordo de não persecução penal"
@@ -16,10 +16,15 @@ triggers:
   - "retroatividade do ANPP"
   - "recusa do MP art. 28-A §14"
   - "homologação do acordo penal"
-description: "ANPP (CPP 28-A): confissão formal em crime sem violência/grave\nameaça, pena mínima abaixo de 4 anos, não reincidente. Condições de\nreparação/prestações; homologação; recusa do MP cabe revisor (§14);\nnão é direito subjetivo (STF/STJ); retroatividade até o trânsito em\njulgado (Tema 1.098 STJ; STF HC 185.913/DF)."
+description: "Usar para redigir ou revisar: Acordo de Não Persecução Penal (ANPP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Não Persecução Penal (ANPP)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Exame Criminológico na Execução Penal (Lei 14.843/2024 + Súmula 439 
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/exame-criminologico-lei-14843.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/exame-criminologico-lei-14843/SKILL.md"
 triggers:
   - "exame criminológico"
   - "Lei 14.843/2024 exame criminológico"
@@ -19,10 +19,15 @@ triggers:
   - "laudo criminológico progressão"
   - "requisito subjetivo progressão"
   - "parecer psicossocial execução penal"
-description: "Regime do exame criminológico após a Lei 14.843/2024 (LEP 112 §1º: exame obrigatório\npara progressão; LEP 114 II: regime aberto) e a irretroatividade como novatio legis\nin pejus (RHC 200.670 STJ, Info 824; fatos anteriores seguem Súm. 439 STJ/SV 26,\nexigência só por decisão motivada). Inclui LEP 119-A (Lei 15.280/2025, crimes contra\na dignidade sexual), valor probatório do laudo, data-base (Tema 1.165 STJ) e mora do\nexame como constrangimento ilegal."
+description: "Usar para pesquisar ou analisar: Exame Criminológico na Execução Penal (Lei 14.843/2024 + Súmula 439 STJ + SV 26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exame Criminológico na Execução Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Evolução legislativa
 

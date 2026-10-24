@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-repetitivo-cpc-1036.md"
+sourcePath: "legalbr/materia/processo-civil/recurso-repetitivo-cpc-1036/SKILL.md"
 triggers:
   - "recurso repetitivo"
   - "CPC 1.036"
@@ -19,10 +19,15 @@ triggers:
   - "distinção fundamentada"
   - "distinguishing"
   - "sobrestamento nacional"
-description: "Recurso repetitivo CPC 1.036-1.041 (precedente qualificado, CPC\n927 III); 1.036 seleção de representativos pelo presidente/vice do\ntribunal de origem ou pelo relator; 1.037 afetação com identificação\nprecisa da questão + sobrestamento NACIONAL com distinguishing\n(§13 agravo); 1.038 amicus curiae + audiência pública; 1.040\nefeitos (aplicação + retratação + desistência incentivada); 1.041\ndistinção fundamentada; IRDR e IAC complementam."
+description: "Usar para pesquisar ou analisar: Recurso Repetitivo (CPC 1.036-1.041). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Especial/Extraordinário Repetitivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 1.036: AFETAÇÃO
 

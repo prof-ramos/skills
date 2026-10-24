@@ -5,8 +5,8 @@ title: "Cargos em Comissão: Criação, Limites e Nulidade (Temas 670 e 1.010 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/cargos-comissao-criacao-limites-temas-670-1010.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/cargos-comissao-criacao-limites-temas-670-1010/SKILL.md"
 triggers:
   - "cargo em comissão"
   - "cargos comissionados"
@@ -20,10 +20,15 @@ triggers:
   - "lei que cria cargo em comissão"
   - "aglutinação de carreiras"
   - "exoneração ad nutum"
-description: "Criação e validade de cargos em comissão: CF 37 II e V (exceção ao\nconcurso; apenas direção, chefia e assessoramento); requisitos do Tema\n1.010 STF (confiança, proporcionalidade com efetivos, atribuições\ndescritas na própria lei); controle em ADI pelas atribuições reais\n(Tema 670); aglutinação de carreiras sem concurso (Tema 667); efeitos\nda nulidade da lei local."
+description: "Usar para pesquisar ou analisar: Cargos em Comissão: Criação, Limites e Nulidade (Temas 670 e 1.010 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cargos em Comissão: Criação, Limites e Nulidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

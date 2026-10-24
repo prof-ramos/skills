@@ -5,8 +5,8 @@ title: "Lei de Acesso à Informação (Lei 12.527/2011 + Dec. 7.724/2012)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/acoes-coletivas-controle-social/lai-lei-12527.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lai-lei-12527/SKILL.md"
 triggers:
   - "LAI"
   - "Lei de Acesso à Informação"
@@ -20,10 +20,17 @@ triggers:
   - "informação reservada"
   - "pedido de acesso à informação"
   - "recurso CGU"
-description: "LAI (Lei 12.527/2011 + Dec. 7.724/2012): direito de acesso à\ninformação pública (CF 5 XXXIII); regra é publicidade + exceção\nsigilo; transparência ativa (sítios) e passiva (resposta a\npedidos); prazos 20+10 dias; classificação ultrassecreta 25 +\nsecreta 15 + reservada 5 anos; recurso administrativo +\njudicial; CGU como autoridade revisora federal."
+description: "Usar para pesquisar ou analisar: Lei de Acesso à Informação (Lei 12.527/2011 + Dec. 7.724/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm"]
+reviewedAt: "2026-10-21"
+reviewScope: "Complemento pontual de procedimento de controle social; demais tópicos não validados"
 ---
 
 # Lei de Acesso à Informação (LAI)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -135,8 +142,8 @@ description: "LAI (Lei 12.527/2011 + Dec. 7.724/2012): direito de acesso à\ninf
 |---|---|
 | 1ª instância | Servidor responsável pela informação |
 | 2ª instância | Autoridade hierarquicamente superior (**10 dias** para recurso) |
-| 3ª instância (federal) | **CGU**: última instância administrativa |
-| 4ª instância (federal) | **CMRI** (Comissão Mista de Reavaliação de Informações), para classificação |
+| 3ª instância (Executivo federal) | **CGU**: recurso após autoridade máxima, observado art. 23 do Decreto 7.724/2012 |
+| 4ª instância (Executivo federal) | **CMRI**: recurso após desprovimento pela CGU na negativa de acesso ou de suas razões, art. 24; desclassificação possui rito específico |
 | **Mandado de segurança** | Via judicial (prazo 120 dias) |
 
 ## CGU (Lei 13.844/2019 + Lei 13.341/2016)
@@ -213,3 +220,7 @@ description: "LAI (Lei 12.527/2011 + Dec. 7.724/2012): direito de acesso à\ninf
 - Ignorar o fluxo recursal administrativo (autoridade superior + **CGU** + CMRI, arts. 15-16);
 - Aplicar LAI a entidade privada **sem recursos públicos**;
 - Não exigir resposta **fundamentada** ao indeferimento.
+
+## Pedidos, recursos e omissão
+
+Para o Executivo federal, combinar os modelos [pedido LAI](../../../forma/pedido-lai/SKILL.md) e [recurso LAI](../../../forma/recurso-lai/SKILL.md). O Decreto 7.724/2012 diferencia superior hierárquico, autoridade máxima, CGU e CMRI (arts. 21–24). Recurso do requerente em 10 dias não implica prazo de 5 dias para toda decisão: a CMRI tem rito próprio. Reclamação por omissão tem marco próprio de 30 dias após o pedido (art. 22), não é automaticamente recurso contra negativa. Conferir ciência, calendário e âmbito antes do cálculo. Fala.BR é canal; manifestação geral de ouvidoria não substitui recurso de acesso.

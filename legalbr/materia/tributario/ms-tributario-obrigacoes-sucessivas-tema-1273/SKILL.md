@@ -5,8 +5,8 @@ title: "Mandado de Segurança em Tributo Sucessivo + Prazo de 120 dias (Tema 1.2
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/ms-tributario-obrigacoes-sucessivas-tema-1273.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ms-tributario-obrigacoes-sucessivas-tema-1273/SKILL.md"
 triggers:
   - "Tema 1.273 STJ"
   - "mandado segurança tributário decadência"
@@ -15,10 +15,15 @@ triggers:
   - "obrigação tributária sucessiva"
   - "MS preventivo tributário"
   - "ameaça norma tributária"
-description: "Tema 1.273 STJ (1ª Seção): o prazo decadencial de 120 dias\n(Lei 12.016/09 art. 23) NÃO se aplica ao MS cuja causa de\npedir impugna lei/ato normativo que interfere em OBRIGAÇÕES\nTRIBUTÁRIAS SUCESSIVAS. Caráter preventivo da impetração:\nameaça atual, objetiva e permanente da norma renova a violação\na cada apuração."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança em Tributo Sucessivo + Prazo de 120 dias (Tema 1.273 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança em Tributo Sucessivo + Prazo de 120 dias (Tema 1.273 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.273 STJ, 1ª Seção)
 

@@ -5,8 +5,8 @@ title: "Furto Noturno + Qualificado (Tema 1.281 STF + Tema 1.087 STJ)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/furto-noturno-qualificado-tema-1281.md"
+version: 2
+sourcePath: "legalbr/materia/penal/furto-noturno-qualificado-tema-1281/SKILL.md"
 triggers:
   - "Tema 1.281 STF"
   - "furto noturno qualificado"
@@ -18,10 +18,15 @@ triggers:
   - "REsp 1.890.981"
   - "aumento furto noturno"
   - "majorante furto"
-description: "Tema 1.281 STF (RE 1.449.275, 08/11/2023): controvérsia\nINFRACONSTITUCIONAL (ausência de RG). STF não fixou mérito.\nPrevalece Tema 1.087 STJ (REsp 1.890.981/SP): majorante\ndo repouso noturno (CP 155 §1) NÃO incide sobre o furto\nqualificado (CP 155 §4), por proporcionalidade e topografia\nlegal. Horário noturno pode ser valorado na 1ª fase (CP 59)\ncomo circunstância judicial."
+description: "Usar para pesquisar ou analisar: Furto Noturno + Qualificado (Tema 1.281 STF + Tema 1.087 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Furto Noturno + Furto Qualificado (Não Incidência da Majorante)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

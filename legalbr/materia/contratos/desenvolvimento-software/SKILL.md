@@ -5,8 +5,8 @@ title: "Desenvolvimento de Software sob Encomenda"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/desenvolvimento-software.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/desenvolvimento-software/SKILL.md"
 triggers:
   - "desenvolvimento de software"
   - "software sob encomenda"
@@ -20,10 +20,15 @@ triggers:
   - "open source"
   - "propriedade intelectual em software"
   - "fábrica de software"
-description: "Desenvolvimento de software sob encomenda: titularidade (Lei\n9.609/98 art. 4 + Lei 9.610/98 arts. 49-52), cessão autoral,\nescrow, open source, work-for-hire, aceitação, reps."
+description: "Usar para pesquisar ou analisar: Desenvolvimento de Software sob Encomenda. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desenvolvimento de Software
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

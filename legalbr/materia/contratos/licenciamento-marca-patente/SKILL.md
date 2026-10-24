@@ -5,8 +5,8 @@ title: "Licenciamento de Marca e Patente (Lei 9.279/96)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/licenciamento-marca-patente.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/licenciamento-marca-patente/SKILL.md"
 triggers:
   - "licenciamento de marca"
   - "licenciamento de patente"
@@ -19,10 +19,15 @@ triggers:
   - "remessa de royalties"
   - "art. 61 LPI"
   - "art. 139 LPI"
-description: "Licenciamento de marca e patente (Lei 9.279/96 arts. 61-63\ne 139-141): averbação INPI (erga omnes, remessa de royalties,\ndedutibilidade IRPJ); exclusividade; sublicenciamento."
+description: "Usar para pesquisar ou analisar: Licenciamento de Marca e Patente (Lei 9.279/96). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Licenciamento de Marca e Patente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

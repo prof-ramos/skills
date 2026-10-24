@@ -5,8 +5,8 @@ title: "Due Diligence Trabalhista (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/due-diligence-trabalhista.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/due-diligence-trabalhista/SKILL.md"
 triggers:
   - "due diligence trabalhista"
   - "DD trabalhista"
@@ -17,10 +17,15 @@ triggers:
   - "pejotização"
   - "contingente trabalhista"
   - "Tema 1.226 stock options"
-description: "Due diligence trabalhista: contingente (provisão × exposição\nreal), pejotização e terceirização (Lei 13.429/2017 + STF\nADPF 324 + RE 958.252), sucessão (CLT 10 + 448 + 448-A), e-Social\ne obrigações acessórias, ACT/CCT, PLR (Lei 10.101), stock\noptions (STJ Tema 1.226, natureza mercantil), saúde e segurança (NRs), insalubridade\ne periculosidade."
+description: "Usar para pesquisar ou analisar: Due Diligence Trabalhista (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Due Diligence Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Workstreams
 

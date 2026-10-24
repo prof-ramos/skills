@@ -5,8 +5,8 @@ title: "Proposta de Súmula Vinculante (PSV)"
 category: "forma"
 materia: null
 documentType: "proposta-sumula-vinculante"
-version: 1
-sourcePath: "lib/skills/official/forma/proposta-sumula-vinculante.md"
+version: 2
+sourcePath: "legalbr/forma/proposta-sumula-vinculante/SKILL.md"
 triggers:
   - "PSV"
   - "proposta súmula vinculante"
@@ -16,10 +16,15 @@ triggers:
   - "art. 103-A CF"
   - "Lei 11.417/2006"
   - "art. 3 Lei 11.417"
-description: "Proposta de edição, revisão ou cancelamento de Súmula Vinculante (CF\n103-A + Lei 11.417/2006). Legitimados do art. 3 (PR, mesas SF/CD, PGR,\nOAB, DPGU, partidos, confederações, mesas ALs, governadores, tribunais,\nMPs estaduais). Exige matéria constitucional, reiteradas decisões e\ncontrovérsia atual. Aprovação por 2/3 do STF (8 ministros). Procedimento\ncom manifestação do PGR e admissão de amici curiae."
+description: "Usar para redigir ou revisar: Proposta de Súmula Vinculante (PSV). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Proposta de Súmula Vinculante (PSV)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Remição de Pena pela Leitura (Tema 1.278 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/remicao-leitura-tema-1278.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/remicao-leitura-tema-1278/SKILL.md"
 triggers:
   - "Tema 1.278 STJ"
   - "remição leitura LEP 126"
@@ -14,10 +14,15 @@ triggers:
   - "atestado leitura profissional contratado"
   - "comissão imparcial validação"
   - "estudo execução penal leitura"
-description: "Tema 1.278 STJ (3ª Seção, 13/08/2025): a LEITURA pode resultar\nem remição de pena (LEP art. 126), observados os requisitos para\nsua validação. NÃO é VÁLIDO o atestado realizado por profissional\nCONTRATADO pelo apenado, a validação deve ser por COMISSÃO\nimparcial criada pelo juízo da execução (Res. CNJ 391/2021)."
+description: "Usar para pesquisar ou analisar: Remição de Pena pela Leitura (Tema 1.278 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remição de Pena pela Leitura (Tema 1.278 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.278 STJ, 3ª Seção, 13/08/2025)
 

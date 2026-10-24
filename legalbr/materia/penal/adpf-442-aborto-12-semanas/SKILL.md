@@ -5,8 +5,8 @@ title: "ADPF 442: Descriminalização do Aborto até 12 Semanas"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/adpf-442-aborto-12-semanas.md"
+version: 2
+sourcePath: "legalbr/materia/penal/adpf-442-aborto-12-semanas/SKILL.md"
 triggers:
   - "ADPF 442"
   - "aborto 12 semanas"
@@ -16,10 +16,15 @@ triggers:
   - "direitos sexuais reprodutivos"
   - "Roe Wade comparado"
   - "Corte IDH aborto"
-description: "ADPF 442 (relatoria redistribuída a Flávio Dino, impedido):\nPSOL pede descriminalização do aborto até 12 semanas (autonomia\n+ saúde pública). Votos pró: Rosa Weber (2023) e Barroso\n(out/2025); destaque de Gilmar zerou o virtual; PENDENTE em\nplenário físico. ADPF 1.141 (Res. CFM 2.378/2024), ADPF 989\n(barreiras ao aborto legal) e PL 1904/2024. Antecedente: HC\n124.306 (1ª Turma). Aborto até 12 semanas CONTINUA TÍPICO."
+description: "Usar para pesquisar ou analisar: ADPF 442: Descriminalização do Aborto até 12 Semanas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 442: Aborto até 12 Semanas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

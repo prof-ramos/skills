@@ -5,8 +5,8 @@ title: "Desligamento Voluntário Militar antes do Tempo Mínimo (Tema 574 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/desligamento-voluntario-militar-tema-574.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desligamento-voluntario-militar-tema-574/SKILL.md"
 triggers:
   - "Tema 574 STF"
   - "desligamento voluntário militar"
@@ -16,10 +16,15 @@ triggers:
   - "licenciamento a pedido militar"
   - "Lei 13.954/2019"
   - "Lei 6.880/80"
-description: "Tema 574 STF (RE 680.871, 07/05/2024): o STF NEGOU repercussão\ngeral à discussão sobre o desligamento voluntário do serviço\nmilitar, antes do tempo mínimo legalmente previsto, de PRAÇA das\nForças Armadas que ingressa por concurso. A Lei 13.954/2019\nrevogou o art. 121, §1º, \"b\", da Lei 6.880/1980, que exigia tempo\nmínimo para o licenciamento a pedido da praça de carreira. NÃO há\ntese de mérito fixada; matéria decidida nas instâncias ordinárias."
+description: "Usar para pesquisar ou analisar: Desligamento Voluntário Militar antes do Tempo Mínimo (Tema 574 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desligamento Voluntário do Militar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

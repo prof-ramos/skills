@@ -5,8 +5,8 @@ title: "IPVA: Constituição por Notificação e Prescrição da Execução (Tem
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/ipva-constituicao-prescricao-tema-903.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipva-constituicao-prescricao-tema-903/SKILL.md"
 triggers:
   - "Tema 903 STJ"
   - "IPVA prescrição termo inicial"
@@ -16,10 +16,15 @@ triggers:
   - "CTN 174 prescrição IPVA"
   - "REsp 1.320.825"
   - "vencimento do IPVA dia seguinte"
-description: "Tema 903 STJ (REsp 1.320.825/RJ, 1ª Seção, j. 10/08/2016): a notificação\ndo contribuinte para recolher o IPVA (inclusive por divulgação do\ncalendário de pagamento) perfectibiliza a constituição definitiva do\ncrédito; a prescrição da execução fiscal (CTN 174) corre do DIA SEGUINTE\nao vencimento da exação. Defesa central nas execuções fiscais estaduais."
+description: "Usar para pesquisar ou analisar: IPVA: Constituição por Notificação e Prescrição da Execução (Tema 903 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPVA: Constituição por Notificação e Prescrição da Execução (Tema 903 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 903 STJ)
 

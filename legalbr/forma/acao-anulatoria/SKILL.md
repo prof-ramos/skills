@@ -5,8 +5,8 @@ title: "Ação Anulatória"
 category: "forma"
 materia: null
 documentType: "acao-anulatoria"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-anulatoria.md"
+version: 2
+sourcePath: "legalbr/forma/acao-anulatoria/SKILL.md"
 triggers:
   - "ação anulatória"
   - "anulação de negócio jurídico"
@@ -14,10 +14,15 @@ triggers:
   - "erro dolo coação"
   - "nulidade absoluta"
   - "anulabilidade"
-description: "Anulatória por anulabilidade (CC 171, erro, dolo, coação, estado de\nperigo, lesão, fraude contra credores) com prazo decadencial de 4 anos\n(CC 178); ou declaratória de nulidade absoluta (CC 166), imprescritível.\nRito comum; cumulação com restituição."
+description: "Usar para redigir ou revisar: Ação Anulatória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Anulatória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinção essencial, nulidade x anulabilidade
 

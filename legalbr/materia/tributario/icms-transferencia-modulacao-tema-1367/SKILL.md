@@ -5,8 +5,8 @@ title: "Modulação ICMS Transferência entre Estabelecimentos (Tema 1.367 STF +
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-transferencia-modulacao-tema-1367.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-transferencia-modulacao-tema-1367/SKILL.md"
 triggers:
   - "Tema 1.367 STF"
   - "ADC 49"
@@ -18,10 +18,15 @@ triggers:
   - "Convênio ICMS 178/23"
   - "Súmula 166 STJ"
   - "transferência interestadual estabelecimentos"
-description: "Tema 1.367 STF (RE 1.490.708, 04/02/2025): MODULAÇÃO da\nnão incidência de ICMS em transferência entre estabelecimentos\ndo mesmo contribuinte (Tema 1.099 + ADC 49) a partir do\nEXERCÍCIO de 2024. Ressalvadas ações administrativas e\njudiciais pendentes até 29/04/2021 (publicação ata ADC 49).\nLC 204/2023 + Convênio 178/23 regulamentam transferência\nobrigatória de créditos. Súm. 166 STJ + art. 12 I LC 87/96."
+description: "Usar para pesquisar ou analisar: Modulação ICMS Transferência entre Estabelecimentos (Tema 1.367 STF + ADC 49). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Modulação ICMS Transferência entre Estabelecimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

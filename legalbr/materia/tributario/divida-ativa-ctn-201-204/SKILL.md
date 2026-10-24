@@ -5,8 +5,8 @@ title: "Dívida Ativa + CDA (CTN 201-204 + LEF 2-3 + Súm. 392 + Súm. 559 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/divida-ativa-ctn-201-204.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/divida-ativa-ctn-201-204/SKILL.md"
 triggers:
   - "dívida ativa"
   - "CDA"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 393 STJ"
   - "Súm. 414 STJ"
   - "CTN 206 CPD-EN"
-description: "CTN 201 inscrição em dívida ativa após esgotada via adm; CTN\n202 requisitos CDA (I nome+endereço + II valor+cálculo + III\norigem/natureza/fundamento + IV data inscrição + V proc. adm +\nVI cópia anexa); CTN 203 omissão sanável até 1ª instância\n(Súm. 392 STJ: veda trocar SP); CTN 204 + LEF 3 PRESUNÇÃO\niuris tantum liquidez+certeza; Súm. 559 STJ dispensa\ndemonstrativo; LEF 16 §1 garantia dos embargos; Súm. 414 STJ\ncitação por edital subsidiária; Súm. 393 EPE; Tema 1.350 STJ\n(vedada emenda da CDA para trocar o fundamento legal)."
+description: "Usar para pesquisar ou analisar: Dívida Ativa + CDA (CTN 201-204 + LEF 2-3 + Súm. 392 + Súm. 559 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dívida Ativa + CDA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 201 + LEF 2
 

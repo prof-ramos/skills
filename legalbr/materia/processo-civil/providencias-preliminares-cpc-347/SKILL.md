@@ -5,8 +5,8 @@ title: "Providências Preliminares (CPC 347-353)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/providencias-preliminares-cpc-347.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/providencias-preliminares-cpc-347/SKILL.md"
 triggers:
   - "providencias preliminares"
   - "CPC 347"
@@ -19,10 +19,15 @@ triggers:
   - "replica"
   - "fatos novos"
   - "regularizacao"
-description: "Providências preliminares (CPC 347-353): findo o prazo de\ncontestação, o juiz toma as providências cabíveis (347); revelia\nsem efeito material = autor especifica provas (348) e revel pode\nproduzir prova (349); réplica em 15 dias quando alegado fato\nimpeditivo/modificativo/extintivo (350) ou preliminares do 337\n(351); correção de vícios sanáveis em até 30 dias (352); depois,\njulgamento conforme o estado (353)."
+description: "Usar para pesquisar ou analisar: Providências Preliminares (CPC 347-353). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Providências Preliminares
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Visão geral
 

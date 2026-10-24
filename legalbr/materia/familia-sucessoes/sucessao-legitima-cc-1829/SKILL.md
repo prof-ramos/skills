@@ -5,8 +5,8 @@ title: "Sucessão Legítima (CC 1.788-1.856 + STF Tema 809 + Tema 622)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/sucessao-legitima-cc-1829.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/sucessao-legitima-cc-1829/SKILL.md"
 triggers:
   - "sucessão legítima"
   - "CC 1.788"
@@ -20,10 +20,15 @@ triggers:
   - "companheiro herdeiro"
   - "multiparentalidade"
   - "legítima dos herdeiros necessários"
-description: "Sucessão legítima sob CC 1.788-1.856 + STF Tema 809 + Tema 622:\nordem CC 1.829 (descendentes + cônjuge concorrente em regimes\nespecíficos; ascendentes + cônjuge; cônjuge sozinho; colaterais\naté 4º); STF Tema 809 (RE 878.694, inconstit. CC 1.790, união\nestável = casamento); Tema 622 (multiparentalidade plena);\nlegítima 50% (CC 1.845-1.846); cota mínima 1/4 (CC 1.832)."
+description: "Usar para pesquisar ou analisar: Sucessão Legítima (CC 1.788-1.856 + STF Tema 809 + Tema 622). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sucessão Legítima
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 1.788: regra geral
 

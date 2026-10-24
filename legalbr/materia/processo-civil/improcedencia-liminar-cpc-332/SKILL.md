@@ -5,8 +5,8 @@ title: "Improcedência Liminar do Pedido (CPC 332)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/improcedencia-liminar-cpc-332.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/improcedencia-liminar-cpc-332/SKILL.md"
 triggers:
   - "CPC 332"
   - "improcedência liminar"
@@ -16,10 +16,15 @@ triggers:
   - "precedente vinculante"
   - "distinguishing"
   - "julgamento liminar de improcedência"
-description: "Improcedência liminar do pedido sob CPC 332: julgamento de mérito\nantes da citação por contrariedade a súmula STF/STJ (I), acórdão\nem recursos repetitivos (II), IRDR/IAC (III) ou súmula de TJ\nsobre direito local (IV);\ndecadência/prescrição (§1); retratação em 5 dias (§3); fundamentação\nqualificada (CPC 489 §1 V e VI) com ratio decidendi + fitting +\ndistinguishing."
+description: "Usar para pesquisar ou analisar: Improcedência Liminar do Pedido (CPC 332). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Improcedência Liminar do Pedido (CPC 332)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

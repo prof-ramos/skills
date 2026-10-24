@@ -5,8 +5,8 @@ title: "Acessões. Construção em Terreno Alheio e Invasão de Solo (CC 1.253-1
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/acessoes-construcao-terreno-alheio-cc-1253.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/acessoes-construcao-terreno-alheio-cc-1253/SKILL.md"
 triggers:
   - "construção em terreno alheio"
   - "acessão invertida"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 538 retenção benfeitorias"
   - "Súm. 335 STJ"
   - "indenização por acessão"
-description: "Acessões artificiais (CC 1.253-1.259): presunção de que a construção\né do proprietário, semeadura/edificação com materiais alheios,\nconstrução em terreno alheio (boa-fé x má-fé), acessão invertida do\nCC 1.255 parágrafo único e invasão de solo vizinho até e acima de\n1/20 (CC 1.258-1.259); exercício processual da retenção (CPC 538\n§§ 1º-2º) e Súm. 335 STJ (renúncia a benfeitorias na locação)."
+description: "Usar para pesquisar ou analisar: Acessões. Construção em Terreno Alheio e Invasão de Solo (CC 1.253-1.259 + CPC 538). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acessões: Construção e Plantação em Terreno Alheio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Para o regime de FRUTOS e BENFEITORIAS do possuidor (CC 1.219-1.222, tabela boa-fé x má-fé), ver skill `possessorias-cc-1210-cpc-554`; para benfeitorias na locação (art. 35 da Lei 8.245), ver skill `lei-inquilinato-lei-8245`. Esta skill trata das ACESSÕES artificiais: construções e plantações como modo de aquisição da propriedade imóvel.
 

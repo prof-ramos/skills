@@ -5,8 +5,8 @@ title: "Incidente de Falsidade Documental"
 category: "forma"
 materia: null
 documentType: "incidente-falsidade-documental"
-version: 1
-sourcePath: "lib/skills/official/forma/incidente-falsidade-documental.md"
+version: 2
+sourcePath: "legalbr/forma/incidente-falsidade-documental/SKILL.md"
 triggers:
   - "incidente de falsidade"
   - "falsidade documental"
@@ -15,10 +15,15 @@ triggers:
   - "arguição de falsidade"
   - "perícia grafotécnica"
   - "art. 430 CPC"
-description: "Incidente de falsidade (arts. 430-433 CPC): 15 dias da intimação da juntada;\nincidental ou principal com coisa julgada (430 p.ú.); ônus da prova do\nart. 429 (falsidade: quem argui; autenticidade: quem produziu); documento\ndigital pelo CPC 411 e Lei 14.063/20."
+description: "Usar para redigir ou revisar: Incidente de Falsidade Documental. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Falsidade Documental
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 430)
 

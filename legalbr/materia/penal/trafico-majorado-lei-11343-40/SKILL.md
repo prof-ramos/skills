@@ -5,8 +5,8 @@ title: "Tráfico Majorado (Lei 11.343/2006 art. 40)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/trafico-majorado-lei-11343-40.md"
+version: 2
+sourcePath: "legalbr/materia/penal/trafico-majorado-lei-11343-40/SKILL.md"
 triggers:
   - "tráfico majorado"
   - "Lei 11.343 art. 40"
@@ -18,10 +18,15 @@ triggers:
   - "financiamento do tráfico"
   - "proximidade de escola"
   - "Tema 1.259 STJ"
-description: "Tráfico majorado sob Lei 11.343 art. 40: 7 incisos (I transnacional\n+ II prevalência de função pública/missão + III imediações de\nensino/saúde/prisional etc. + IV violência/arma + V tráfico\ninterestadual + VI envolver criança/adolescente/incapaz + VII\nfinanciar/custear); aumento 1/6 a 2/3; Súm. 587 STJ (interestadual\ndispensa travessia); Tema 1.259 STJ (40 IV exige nexo finalístico\narma-tráfico, com absorção do crime de arma); cumulação de\nmajorantes exige fundamentação concreta (STF/STJ); Inf. 622 STJ\n(escola sem fluxo afasta inc. III)."
+description: "Usar para pesquisar ou analisar: Tráfico Majorado (Lei 11.343/2006 art. 40). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tráfico Majorado (Lei 11.343/2006 art. 40)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

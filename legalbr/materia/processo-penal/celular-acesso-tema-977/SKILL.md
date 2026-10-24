@@ -5,8 +5,8 @@ title: "Acesso a Celular sem Ordem Judicial (Tema 977 STF + cadeia de custódia)
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/celular-acesso-tema-977.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/celular-acesso-tema-977/SKILL.md"
 triggers:
   - "Tema 977 STF"
   - "ARE 1.042.075"
@@ -18,10 +18,15 @@ triggers:
   - "Marco Civil Internet art. 7"
   - "cadeia custódia celular"
   - "encontro fortuito celular"
-description: "Tema 977 STF (ARE 1.042.075, 25/06/2025): apreensão de celular\nnão exige reserva de jurisdição. ACESSO aos dados depende de\nconsentimento OU prévia decisão judicial (em apreensão sob CPP\n6 ou flagrante). Encontro fortuito (celular sem dono) admite\nacesso para identificar autoria/proprietário, com justificação\nposterior. Autoridade pode preservar dados. Efeitos prospectivos.\nDistinção com o espelhamento WhatsApp Web (STJ RHC 99.735;\ndivergência entre Turmas, afetada a repetitivo em 2025, REsp\n2.052.194, sem tese fixada até jul/2026)."
+description: "Usar para pesquisar ou analisar: Acesso a Celular sem Ordem Judicial (Tema 977 STF + cadeia de custódia). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acesso a Celular sem Ordem Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

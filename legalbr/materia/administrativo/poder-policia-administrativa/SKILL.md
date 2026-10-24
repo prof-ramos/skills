@@ -5,8 +5,8 @@ title: "Poder de Polícia Administrativa (CTN 78 + CF + Lei 14.133 + Tema 532 ST
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/poder-policia-administrativa.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/poder-policia-administrativa/SKILL.md"
 triggers:
   - "poder de polícia"
   - "polícia administrativa"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 532 STF"
   - "delegação de fiscalização e sanção"
   - "prescrição Lei 9.873"
-description: "Poder de polícia administrativa (CTN art. 78 + CF + Lei\n9.873/99): faculdade da Adm de condicionar/restringir direitos\nindividuais em favor do interesse coletivo; atributos (discricionariedade\n+ autoexecutoriedade + coercibilidade); diferença polícia\nadministrativa x judiciária; ciclos (legislativo + consentimento\n+ fiscalização + sanção); delegação (Tema 532 STF: constitucional\npor lei a estatal de capital majoritariamente público, serviço\npróprio do Estado, regime não concorrencial); prescrição 5 anos\n(Lei 9.873)."
+description: "Usar para pesquisar ou analisar: Poder de Polícia Administrativa (CTN 78 + CF + Lei 14.133 + Tema 532 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Poder de Polícia Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

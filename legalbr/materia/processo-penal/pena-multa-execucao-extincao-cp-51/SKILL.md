@@ -5,8 +5,8 @@ title: "Pena de Multa: Extinção da Punibilidade do Hipossuficiente e Execuçã
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/pena-multa-execucao-extincao-cp-51.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/pena-multa-execucao-extincao-cp-51/SKILL.md"
 triggers:
   - "Tema 931 STJ"
   - "extinção da punibilidade multa"
@@ -18,10 +18,15 @@ triggers:
   - "hipossuficiência do condenado"
   - "ADI 3.150 multa"
   - "multa dívida de valor"
-description: "Tema 931 STJ (redação atual, 3ª Seção, 28/02/2024): o inadimplemento\nda multa, cumprida a PPL ou a restritiva, NÃO obsta a extinção da\npunibilidade ante a ALEGADA hipossuficiência do condenado, salvo\ndecisão motivada que indique concretamente a possibilidade de\npagamento. CP 51 (Lei 13.964/2019): execução perante o juiz da\nexecução penal; ADI 3.150 (MP prioritário, Fazenda subsidiária\napós 90 dias)."
+description: "Usar para pesquisar ou analisar: Pena de Multa: Extinção da Punibilidade do Hipossuficiente e Execução (CP 51 + Tema 931 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pena de Multa: Extinção da Punibilidade do Hipossuficiente e Execução
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Acordo de Acionistas e Quotistas (LSA 118 + CC 1.053)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/acordo-acionistas-quotistas.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/acordo-acionistas-quotistas/SKILL.md"
 triggers:
   - "acordo de acionistas"
   - "acordo de quotistas"
@@ -16,10 +16,15 @@ triggers:
   - "bloqueio de transferência"
   - "governance"
   - "vetos minoritários"
-description: "Acordo de acionistas (LSA 118) e quotistas (CC 1.053 + LSA 118\npor analogia): voto em bloco e voto controlado, transferência\nde ações (lock-up + pre-emption + ROFR + drag/tag), governance\n(board composition + vetos), resolução de disputas (deadlock +\narbitragem), prazo, alterações e arquivamento (sede +\naverbação no livro, §1) com execução específica (§3) e\nenforcement na assembleia (§§ 8-9)."
+description: "Usar para pesquisar ou analisar: Acordo de Acionistas e Quotistas (LSA 118 + CC 1.053). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Acionistas e Quotistas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

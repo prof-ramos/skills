@@ -5,8 +5,8 @@ title: "Ação Declaratória de Inexistência de Relação Tributária (CPC 19 +
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/acao-declaratoria-inexistencia-tributaria.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/acao-declaratoria-inexistencia-tributaria/SKILL.md"
 triggers:
   - "ação declaratória tributária"
   - "inexistência relação jurídica"
@@ -15,10 +15,15 @@ triggers:
   - "declaratória negativa"
   - "ação preventiva tributária"
   - "imunidade declarada judicialmente"
-description: "Ação declaratória CPC 19: cabível para declarar inexistência (ou\nexistência) de relação jurídica tributária antes do lançamento;\nútil para imunidades, isenções, hipóteses de não incidência;\nimprescritível enquanto inexistir o débito; sem efeitos\npatrimoniais retroativos (que demandam repetição); cumulável com\nanulatória/repetição; concede tutela provisória para suspender."
+description: "Usar para pesquisar ou analisar: Ação Declaratória de Inexistência de Relação Tributária (CPC 19 + CTN). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Declaratória de Inexistência de Relação Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

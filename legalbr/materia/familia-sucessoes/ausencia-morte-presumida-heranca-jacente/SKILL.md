@@ -5,8 +5,8 @@ title: "Ausência, Morte Presumida e Herança Jacente/Vacante (CC 22-39 + CPC 73
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/ausencia-morte-presumida-heranca-jacente.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/ausencia-morte-presumida-heranca-jacente/SKILL.md"
 triggers:
   - "morte presumida"
   - "declaração de ausência"
@@ -20,10 +20,15 @@ triggers:
   - "justificação de óbito"
   - "CPC 738 arrecadação"
   - "pensão por morte presumida"
-description: "Ausência (CC 22-39: curadoria, sucessão provisória e definitiva), morte\npresumida com e sem decretação de ausência (CC 6-7; justificação de\nóbito, LRP 88) e herança jacente/vacante (CC 1.819-1.823), com os\nprocedimentos do CPC 738-745 (arrecadação, editais, habilitação,\nvacância), efeitos sobre casamento (CC 1.571 §1º), pensão provisória\n(Lei 8.213 art. 78) e ITCMD (Súmula 331 STF)."
+description: "Usar para pesquisar ou analisar: Ausência, Morte Presumida e Herança Jacente/Vacante (CC 22-39 + CPC 738-745). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ausência, Morte Presumida e Herança Jacente/Vacante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

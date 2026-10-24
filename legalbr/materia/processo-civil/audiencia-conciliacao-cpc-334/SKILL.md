@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/audiencia-conciliacao-cpc-334.md"
+sourcePath: "legalbr/materia/processo-civil/audiencia-conciliacao-cpc-334/SKILL.md"
 triggers:
   - "audiência de conciliação"
   - "CPC 334"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 165"
   - "Resolução CNJ 686/2026"
   - "Enunciado FONAMEC 19"
-description: "Audiência de conciliação e mediação (CPC 334): designação, dispensa, ausência, distinção entre métodos, homologação, audiência virtual e enunciados FONAMEC aplicáveis à Justiça Estadual pela Res. CNJ 686/2026."
+description: "Usar para pesquisar ou analisar: Audiência de Conciliação e Mediação (CPC 334). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Conciliação e Mediação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Designação obrigatória (CPC 334 caput)
 

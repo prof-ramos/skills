@@ -5,8 +5,8 @@ title: "Trabalhador Rural (Lei 5.889/1973)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalhador-rural-lei-5889.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalhador-rural-lei-5889/SKILL.md"
 triggers:
   - "trabalhador rural"
   - "Lei 5.889"
@@ -14,10 +14,15 @@ triggers:
   - "hora noturna rural"
   - "prazo prescricional rural"
   - "contrato de safra"
-description: "Trabalhador rural (Lei 5.889/73 + CF 7 par. único + Dec. 73.626/74):\nCLT subsidiária; hora noturna pecuária 20-4h, lavoura 21-5h, adicional\n25%; contrato de safra (art. 14) vinculado às variações sazonais;\nprescrição igual ao urbano após a EC 28/2000 (bienal/quinquenal, CF 7 XXIX)."
+description: "Usar para pesquisar ou analisar: Trabalhador Rural (Lei 5.889/1973). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalhador Rural
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

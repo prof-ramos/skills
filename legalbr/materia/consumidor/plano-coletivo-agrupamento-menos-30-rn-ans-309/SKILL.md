@@ -5,8 +5,8 @@ title: "Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (RN ANS 
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/plano-coletivo-agrupamento-menos-30-rn-ans-309.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/plano-coletivo-agrupamento-menos-30-rn-ans-309/SKILL.md"
 triggers:
   - "plano coletivo menos 30 vidas"
   - "agrupamento contratos ANS RN 309"
@@ -14,10 +14,15 @@ triggers:
   - "percentual único de reajuste"
   - "falso coletivo plano saúde"
   - "reajuste plano coletivo pequeno"
-description: "Agrupamento obrigatório de contratos coletivos com MENOS DE 30\nbeneficiários: a operadora deve reunir todos os seus contratos\ncoletivos com < 30 vidas para cálculo de percentual ÚNICO de\nreajuste (arts. 3º e 12 da RN ANS 309/2012). Visa diluir o risco\ne evitar reajustes abusivos em carteiras pequenas. Não há tese\nrepetitiva do STJ fixada sobre o ponto; a obrigação decorre da\nregulação da ANS. Tema correlato 1.047 STJ (rescisão)."
+description: "Usar para pesquisar ou analisar: Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (RN ANS 309/2012). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano Coletivo + Agrupamento de Contratos com Menos de 30 Vidas (RN ANS 309/2012)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regra central (RN ANS 309/2012, arts. 3º e 12)
 

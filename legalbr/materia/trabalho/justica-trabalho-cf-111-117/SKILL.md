@@ -5,8 +5,8 @@ title: "Justiça do Trabalho (CF 111-117 + EC 45/2004 + Tema 1.046 + Tema 725)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/justica-trabalho-cf-111-117.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/justica-trabalho-cf-111-117/SKILL.md"
 triggers:
   - "Justiça do Trabalho"
   - "CF 114 competência"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 725 STF"
   - "dissídio coletivo"
   - "representação classista"
-description: "JT CF 111-117 (TST + TRT + Varas; EC 24/1999 extinguiu classistas);\nCF 111-A TST 27 ministros + 1/5 OAB/MPT; EC 45/2004 ampliou CF 114\ncompetência (relação trabalho + greve + sindical + mandados +\nindenizações + penalidades + execução contribuições); §2 comum\nacordo dissídio; ADI 3.395 (exclui estatutários da JT); Tema 1.046\n(negociado sobre legislado); Tema 725 (terceirização irrestrita)."
+description: "Usar para pesquisar ou analisar: Justiça do Trabalho (CF 111-117 + EC 45/2004 + Tema 1.046 + Tema 725). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Justiça do Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura (CF 111)
 

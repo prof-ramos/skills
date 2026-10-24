@@ -5,8 +5,8 @@ title: "Prescrição Quinquenal da Repetição do Indébito Tributário + LC 118
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/prescricao-indebito-tributario-lc-118-stf-tema-4.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-indebito-tributario-lc-118-stf-tema-4/SKILL.md"
 triggers:
   - "STF Tema 4"
   - "Tema 137 STJ"
@@ -16,10 +16,15 @@ triggers:
   - "cinco anos pagamento"
   - "tributo lançamento homologação"
   - "tese 5+5 superada"
-description: "Prescrição da repetição do indébito tributário em tributos sujeitos\na lançamento por homologação: 5 ANOS contados do PAGAMENTO (LC\n118/2005 art. 3) para ações ajuizadas a partir de 09/06/2005 (STF\nTema 4 / RE 566.621 + STJ Temas 137-138). Antes da LC\n118: regime 5+5 (CTN 168 c/c 150 §4). Aplica-se ao MS (Súm. 213)."
+description: "Usar para pesquisar ou analisar: Prescrição Quinquenal da Repetição do Indébito Tributário + LC 118/2005 (STF Tema 4 + STJ Temas 137-138). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Quinquenal da Repetição do Indébito Tributário + LC 118/2005
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (STF Tema 4 / RE 566.621 + STJ Temas 137-138)
 

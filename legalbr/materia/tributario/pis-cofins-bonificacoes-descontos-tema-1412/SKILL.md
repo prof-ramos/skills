@@ -5,8 +5,8 @@ title: "PIS/COFINS sobre Bonificações + Descontos ao Varejista (Tema 1.412 STJ
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-bonificacoes-descontos-tema-1412.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-bonificacoes-descontos-tema-1412/SKILL.md"
 triggers:
   - "Tema 1.412 STJ"
   - "PIS COFINS bonificação"
@@ -19,10 +19,15 @@ triggers:
   - "rebates fornecedor"
   - "receita bruta varejo"
   - "1ª Turma 2ª Turma divergência"
-description: "Tema 1.412 STJ (afetação na sessão eletrônica encerrada em\n24/02/2026; 1ª Seção, Min. Afrânio Vilela; REsp 2.221.794 e\noutros): definirá se\nBONIFICAÇÕES e DESCONTOS concedidos por fornecedores ao varejista\ncompõem a base de PIS/COFINS. 1ª Turma (REsp 1.836.082, jun/2023):\nNÃO incide (não constitui receita). 2ª Turma: incide (receita\nbruta). Lei 10.637/2002 + 10.833/2003 art. 1 §3 V \"a\" excluem\ndescontos INCONDICIONAIS. Acompanhar julgamento."
+description: "Usar para pesquisar ou analisar: PIS/COFINS sobre Bonificações + Descontos ao Varejista (Tema 1.412 STJ + REsp 1.836.082). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS sobre Bonificações e Descontos (Tema 1.412 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Status do Tema 1.412 STJ
 

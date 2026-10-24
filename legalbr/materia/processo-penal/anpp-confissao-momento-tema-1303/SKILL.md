@@ -5,8 +5,8 @@ title: "ANPP + Momento da Confissão (Tema 1.303 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/anpp-confissao-momento-tema-1303.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/anpp-confissao-momento-tema-1303/SKILL.md"
 triggers:
   - "Tema 1.303 STJ"
   - "ANPP confissão prévia"
@@ -14,10 +14,15 @@ triggers:
   - "confissão circunstanciada formalização"
   - "assinatura ANPP momento confissão"
   - "natureza negocial ANPP"
-description: "Tema 1.303 STJ (3ª Seção, 12/03/2025): a confissão no inquérito\npolicial NÃO é requisito do ANPP. A confissão necessária pode\nser formalizada no MOMENTO DA ASSINATURA do acordo, perante o\nMP, após proposta apresentada e aceita pelo investigado com\ndefesa técnica. Natureza NEGOCIAL do instituto."
+description: "Usar para pesquisar ou analisar: ANPP + Momento da Confissão (Tema 1.303 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANPP + Momento da Confissão (Tema 1.303 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.303 STJ, 3ª Seção, 12/03/2025)
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/parte-especial/estelionato-previdenciario-cp-171-3.md"
+sourcePath: "legalbr/materia/penal/estelionato-previdenciario-cp-171-3/SKILL.md"
 triggers:
   - "estelionato previdenciário"
   - "CP 171 §3º"
@@ -18,10 +18,15 @@ triggers:
   - "prescrição estelionato previdenciário"
   - "fraude na concessão de benefício"
   - "REsp 1.206.105"
-description: "Estelionato previdenciário (CP 171 §3º + Súm. 24 STJ): natureza binária consolidada\n(beneficiário = crime permanente, prescrição do último recebimento; terceiro/servidor\n= instantâneo de efeitos permanentes, prescrição da primeira parcela), saques após a\nmorte do titular, insignificância inaplicável, devolução que não extingue a punibilidade\n(arrependimento posterior) e interface com a cobrança administrativa (Lei 8.213 art. 115\n+ Tema 979 STJ)."
+description: "Usar para pesquisar ou analisar: Estelionato Previdenciário: Consumação, Prescrição e Devolução (CP 171 §3º). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estelionato Previdenciário (CP 171 §3º)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo e majorante
 

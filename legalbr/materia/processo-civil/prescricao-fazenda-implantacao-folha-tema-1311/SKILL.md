@@ -5,8 +5,8 @@ title: "Prescrição Contra Fazenda no Cumprimento de Implantação em Folha"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/prescricao-fazenda-implantacao-folha-tema-1311.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/prescricao-fazenda-implantacao-folha-tema-1311/SKILL.md"
 triggers:
   - "Tema 1.311 STJ"
   - "prescrição Fazenda Pública cumprimento"
@@ -14,10 +14,15 @@ triggers:
   - "obrigação fazer pagar Fazenda"
   - "Decreto 20.910/32 prescrição"
   - "cumprimento sentença servidor"
-description: "Tema 1.311 STJ (1ª Seção, 16/06/2025): o curso do prazo prescricional\nda obrigação de PAGAR QUANTIA CERTA contra a Fazenda Pública NÃO\né suspenso durante o cumprimento da obrigação de IMPLANTAR EM\nFOLHA imposta na mesma sentença. Naturezas distintas: implantação\n= obrigação de fazer; parcelas vencidas = obrigação de pagar.\nCredor deve executar desde logo as parcelas vencidas."
+description: "Usar para pesquisar ou analisar: Prescrição Contra Fazenda no Cumprimento de Implantação em Folha. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Contra Fazenda + Cumprimento de Obrigação de Implantar em Folha (Tema 1.311 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.311 STJ, 1ª Seção, 16/06/2025, Min. Maria Thereza de Assis Moura)
 

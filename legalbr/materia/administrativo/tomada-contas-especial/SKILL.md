@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/tomada-contas-especial.md"
+sourcePath: "legalbr/materia/administrativo/tomada-contas-especial/SKILL.md"
 triggers:
   - "tomada de contas especial"
   - "TCE"
@@ -20,10 +20,15 @@ triggers:
   - "Tema 897 STF"
   - "imprescritibilidade do ressarcimento"
   - "ressarcimento erário"
-description: "TCE (Lei 8.443/92 art. 8 + IN TCU 98/2024, que revogou a IN\n71/2012): procedimento de\napuração de dano + responsáveis + envio ao Tribunal de Contas;\ncabimento (omissão prestação contas + dano + irregularidade\ninsanável); fases (apuração + quantificação + envio); decisão\ndo TC + débito + multa + inidoneidade; Tema 899 STF (pretensão\nfundada em acórdão de Tribunal de Contas é prescritível) + Tema\n897 STF (imprescritível só o ressarcimento por ato doloso de\nimprobidade)."
+description: "Usar para pesquisar ou analisar: Tomada de Contas Especial (TCE) (Lei 8.443/92 art. 8 + IN TCU 98/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tomada de Contas Especial (TCE)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

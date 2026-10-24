@@ -6,7 +6,7 @@ category: "materia"
 materia: "militar"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/militar/estatuto-militares-disciplinar-lei-6880.md"
+sourcePath: "legalbr/materia/militar/estatuto-militares-disciplinar-lei-6880/SKILL.md"
 triggers:
   - "Estatuto dos Militares"
   - "Lei 6.880 militar"
@@ -23,10 +23,15 @@ triggers:
   - "serviço militar obrigatório"
   - "dispensa por excesso de contingente"
   - "Tema 417 STJ"
-description: "Estatuto dos Militares (Lei 6.880/1980, reformado pela Lei 13.954/2019):\ncarreira x temporários, estabilidade da praça (10 anos), licenciamento,\nreforma por incapacidade (arts. 104-112-A), soldo do grau imediato, Tema\n1.088 STJ (HIV), EREsp 1.123.371/RS (nexo causal do temporário) e processos\ndisciplinares: Conselho de Justificação (Lei 5.836/72) e de Disciplina\n(Decreto 71.500/72). Serviço militar obrigatório: isenção, adiamento\ne dispensa (Lei 4.375/64), médicos/dentistas MFDV (Lei 5.292/67 +\nLei 12.336/2010) e Temas 417/418 STJ (marco de 26/10/2010)."
+description: "Usar para pesquisar ou analisar: Estatuto dos Militares e Direito Disciplinar Militar (Lei 6.880/1980 + Lei 13.954/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto dos Militares e Direito Disciplinar Militar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

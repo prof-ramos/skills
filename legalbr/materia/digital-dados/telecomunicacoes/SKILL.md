@@ -5,8 +5,8 @@ title: "Telecomunicações (Lei 9.472/97 LGT + ANATEL + CDC)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/telecomunicacoes.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/telecomunicacoes/SKILL.md"
 triggers:
   - "telecomunicações"
   - "LGT"
@@ -15,10 +15,15 @@ triggers:
   - "portabilidade numérica"
   - "rede 5G"
   - "RGC 765"
-description: "Telecomunicações sob a LGT (Lei 9.472/97), as resoluções da\nANATEL e o CDC: regimes de concessão e autorização e serviços\nSTFC, SMP, SCM e SeAC; obrigações do RGC quanto a qualidade,\ncancelamento e portabilidade numérica; sanções regulatórias e\nincidência tributária sobre serviços de comunicação."
+description: "Usar para pesquisar ou analisar: Telecomunicações (Lei 9.472/97 LGT + ANATEL + CDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Telecomunicações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

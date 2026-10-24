@@ -5,8 +5,8 @@ title: "Confissão de Dívida (CPC 784 III + CC 212, I)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/confissao-divida.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/confissao-divida/SKILL.md"
 triggers:
   - "confissão de dívida"
   - "CPC 784 III"
@@ -21,10 +21,15 @@ triggers:
   - "reconhecimento de dívida"
   - "acordo de pagamento"
   - "duas testemunhas"
-description: "Confissão de dívida (CPC 784 III + CC 212, I): título executivo\nextrajudicial (devedor + 2 testemunhas); não opera novação sem\nanimus novandi expresso ou tácito inequívoco (CC 361); causa debendi discutível (Súm. 286)."
+description: "Usar para pesquisar ou analisar: Confissão de Dívida (CPC 784 III + CC 212, I). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Confissão de Dívida
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

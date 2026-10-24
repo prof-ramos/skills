@@ -5,8 +5,8 @@ title: "ISSQN na Base de Cálculo da CPRB (Tema 1.135 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/issqn-base-cprb-tema-1135.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/issqn-base-cprb-tema-1135/SKILL.md"
 triggers:
   - "Tema 1.135 STF"
   - "ISSQN base CPRB"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 12.546/11 CPRB"
   - "desoneração folha ISS"
   - "receita bruta ISSQN"
-description: "Tema 1.135 STF (RE 1.285.845, 21/06/2021): É CONSTITUCIONAL\na inclusão do ISSQN na base de cálculo da CPRB (Lei 12.546/11).\nMesma lógica do Tema 1.186 (PIS/COFINS dentro da CPRB).\nReceita bruta legal inclui tributos sobre ela incidentes\n(art. 12 DL 1.598/77). Distinção rejeitada com Tema 69\n(ICMS fora PIS/COFINS)."
+description: "Usar para pesquisar ou analisar: ISSQN na Base de Cálculo da CPRB (Tema 1.135 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ISSQN na Base de Cálculo da CPRB
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

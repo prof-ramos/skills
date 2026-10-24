@@ -5,8 +5,8 @@ title: "Queixa-Crime"
 category: "forma"
 materia: null
 documentType: "queixa-crime"
-version: 1
-sourcePath: "lib/skills/official/forma/queixa-crime.md"
+version: 2
+sourcePath: "legalbr/forma/queixa-crime/SKILL.md"
 triggers:
   - "queixa-crime"
   - "ação penal privada"
@@ -20,10 +20,15 @@ triggers:
   - "decadência do direito de queixa"
   - "ação penal subsidiária"
   - "art. 29 CPP"
-description: "Queixa-crime (CPP 30, 41, 44) na ação penal privada (honra CP 138-140;\ndano; outras). Decadência 6 meses (CPP 38; CP 103), procuração com\npoderes especiais, indivisibilidade (CPP 48); subsidiária da pública\n(CF 5º LIX; CPP 29)."
+description: "Usar para redigir ou revisar: Queixa-Crime. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Queixa-Crime
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e natureza
 

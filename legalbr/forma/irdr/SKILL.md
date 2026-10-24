@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "irdr"
 version: 2
-sourcePath: "lib/skills/official/forma/irdr.md"
+sourcePath: "legalbr/forma/irdr/SKILL.md"
 triggers:
   - "IRDR"
   - "incidente de resolução de demandas repetitivas"
@@ -14,10 +14,15 @@ triggers:
   - "demandas de massa"
   - "questão de direito repetitiva"
   - "fixação de tese vinculante em IRDR"
-description: "IRDR (arts. 976-987 CPC): efetiva repetição de processos sobre mesma\nquestão de direito com risco à isonomia; suspende individuais (982);\nfixa tese vinculante (985); REsp/RE com efeito nacional (987)."
+description: "Usar para redigir ou revisar: Incidente de Resolução de Demandas Repetitivas (IRDR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Resolução de Demandas Repetitivas
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 976)
 

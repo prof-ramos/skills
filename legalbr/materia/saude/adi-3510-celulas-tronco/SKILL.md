@@ -5,8 +5,8 @@ title: "ADI 3510, Lei de Biossegurança (Células-Tronco Embrionárias)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/adi-3510-celulas-tronco.md"
+version: 2
+sourcePath: "legalbr/materia/saude/adi-3510-celulas-tronco/SKILL.md"
 triggers:
   - "ADI 3510"
   - "Lei de Biossegurança"
@@ -16,10 +16,15 @@ triggers:
   - "bioética constitucional"
   - "início da vida"
   - "dignidade pessoa humana embrião"
-description: "ADI 3510 (Ayres Britto, 29/05/2008, improcedente): art. 5 da Lei\n11.105/2005 é constitucional: pesquisa com células-tronco\nembrionárias (inviáveis ou congelados há +3 anos) é lícita.\nEmbrião in vitro não é pessoa em sentido pleno."
+description: "Usar para pesquisar ou analisar: ADI 3510, Lei de Biossegurança (Células-Tronco Embrionárias). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 3510, Lei de Biossegurança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

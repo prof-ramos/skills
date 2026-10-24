@@ -5,8 +5,8 @@ title: "Dupla Notificação de Multa de Trânsito a PJ (STJ Tema 1.097 + STF Tem
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/dupla-notificacao-multa-pj-tema-1351.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/dupla-notificacao-multa-pj-tema-1351/SKILL.md"
 triggers:
   - "STJ Tema 1.097"
   - "Tema 1.351 STF"
@@ -17,10 +17,15 @@ triggers:
   - "identificação condutor"
   - "Lei 14.229/2021 multa pessoa jurídica"
   - "autuação PJ veículo"
-description: "A dupla notificação de multa à PJ que não identifica o condutor\né exigida pelo STJ Tema 1.097 (1ª Seção, 2022): obrigatórias a\nnotificação da autuação (NIC) e a da penalidade (NIP), CTB arts.\n280-282. Não identificado o condutor, nova multa ao proprietário PJ\nno valor de 2x a multa originária, mantida a original (CTB art. 257\n§8, red. Lei 14.229/2021). O STF, no ARE 1.467.384 (Tema 1.351, 12/11/2024),\nreconheceu AUSÊNCIA de repercussão geral (matéria infraconstitucional)."
+description: "Usar para pesquisar ou analisar: Dupla Notificação de Multa de Trânsito a PJ (STJ Tema 1.097 + STF Tema 1.351). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dupla Notificação de Multa de Trânsito a PJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Arbitragem Internacional (CCI, CAM-CCBC, ICDR, LCIA)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/arbitragem-internacional-cci-cam-icc.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/arbitragem-internacional-cci-cam-icc/SKILL.md"
 triggers:
   - "arbitragem internacional"
   - "CCI"
@@ -17,10 +17,15 @@ triggers:
   - "sede da arbitragem"
   - "reconhecimento sentença arbitral"
   - "convenção de Nova York"
-description: "Arbitragem internacional: Lei 9.307/96 + Convenção de NY (1958) +\nUNCITRAL Model Law. Câmaras (CCI/ICC, CAM-CCBC, AMCHAM, ICDR/AAA,\nLCIA, HKIAC, SIAC), cláusula compromissória, sede, idioma, lei\naplicável, número de árbitros, procedimento expedito, medidas\ncautelares, reconhecimento e execução no Brasil (STJ)."
+description: "Usar para pesquisar ou analisar: Arbitragem Internacional (CCI, CAM-CCBC, ICDR, LCIA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Arbitragem Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

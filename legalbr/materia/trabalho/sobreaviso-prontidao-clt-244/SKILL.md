@@ -5,8 +5,8 @@ title: "Sobreaviso e Prontidão (CLT 244)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/sobreaviso-prontidao-clt-244.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sobreaviso-prontidao-clt-244/SKILL.md"
 triggers:
   - "sobreaviso"
   - "prontidão"
@@ -15,10 +15,15 @@ triggers:
   - "BIP"
   - "celular corporativo"
   - "regime de plantão"
-description: "Sobreaviso e prontidão (CLT 244): sobreaviso (1/3 da hora normal) =\npermanência em casa aguardando chamada; prontidão (2/3) = empregado\nno local da empresa aguardando ordens; Súm. 428 TST (uso de celular\nnão basta, exige submissão a regime de plantão)."
+description: "Usar para pesquisar ou analisar: Sobreaviso e Prontidão (CLT 244). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sobreaviso e Prontidão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

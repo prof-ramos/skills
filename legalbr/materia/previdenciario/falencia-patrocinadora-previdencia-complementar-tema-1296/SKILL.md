@@ -5,8 +5,8 @@ title: "Falência de Patrocinadora e Previdência Complementar (Tema 1.296 STF)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/falencia-patrocinadora-previdencia-complementar-tema-1296.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/falencia-patrocinadora-previdencia-complementar-tema-1296/SKILL.md"
 triggers:
   - "Tema 1.296 STF"
   - "falência patrocinadora EFPC"
@@ -16,10 +16,15 @@ triggers:
   - "LC 109/2001"
   - "extinção patrocinadora EFPC"
   - "garantia benefício"
-description: "Tema 1.296 STF (ARE 1.481.694): o STF reconheceu o caráter\nINFRACONSTITUCIONAL da controvérsia sobre a responsabilidade da\nEFPC pelo pagamento dos benefícios em caso de falência da\npatrocinadora ou exaurimento das reservas, e NEGOU repercussão\ngeral (depende de exame de fatos e da LC 109/2001). A disciplina\nsubstantiva (responsabilidade da EFPC nos limites do plano +\nreservas matemáticas; ausência de solidariedade automática com a\npatrocinadora falida) decorre da LC 109/2001, não de tese do STF."
+description: "Usar para pesquisar ou analisar: Falência de Patrocinadora e Previdência Complementar (Tema 1.296 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência da Patrocinadora + Previdência Complementar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

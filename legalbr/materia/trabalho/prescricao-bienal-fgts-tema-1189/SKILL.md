@@ -5,8 +5,8 @@ title: "Prescrição do FGTS em Contratação Temporária Nula (Tema 1.189 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/prescricao-bienal-fgts-tema-1189.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/prescricao-bienal-fgts-tema-1189/SKILL.md"
 triggers:
   - "Tema 1.189 STF"
   - "prescrição FGTS contrato nulo"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 363 TST"
   - "depósito FGTS nulidade contratação"
   - "prescrição quinquenal Decreto 20.910/1932"
-description: "Tema 1.189 STF (RE 1.336.848, Rel. Min. Gilmar Mendes, jul.\n01/09/2025): o prazo BIENAL do art. 7 XXIX CF NÃO se aplica aos\nservidores temporários que tiveram contratos declarados nulos\n(vínculo jurídico-administrativo); incide a prescrição QUINQUENAL\ndo art. 1 do Decreto 20.910/1932. Súm. 363 TST: contrato nulo gera\ndireito apenas a saldo de salário e depósitos do FGTS."
+description: "Usar para pesquisar ou analisar: Prescrição do FGTS em Contratação Temporária Nula (Tema 1.189 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição do FGTS em Contratação Temporária Nula
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

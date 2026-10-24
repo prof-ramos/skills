@@ -5,8 +5,8 @@ title: "Depoimento Pessoal e Confissão (CPC 385-395)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/provas/depoimento-pessoal-confissao-cpc-385.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/depoimento-pessoal-confissao-cpc-385/SKILL.md"
 triggers:
   - "depoimento pessoal"
   - "CPC 385"
@@ -18,10 +18,15 @@ triggers:
   - "CPC 393"
   - "pena de confissao"
   - "interrogatorio livre da parte"
-description: "Depoimento pessoal (CPC 385-388) e confissão (CPC 389-395):\ndepoimento pessoal requerido pela parte adversa OU determinado de\nofício (CPC 385); pena de confissão por não-comparecimento (CPC\n385 §1); confissão judicial × extrajudicial; espontânea × provocada;\nirretratável (CPC 393); aplicação em direitos disponíveis."
+description: "Usar para pesquisar ou analisar: Depoimento Pessoal e Confissão (CPC 385-395). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Depoimento Pessoal e Confissão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 385, DEPOIMENTO PESSOAL
 

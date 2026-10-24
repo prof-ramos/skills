@@ -5,8 +5,8 @@ title: "Estado de Coisas Inconstitucional (ADPF 347 STF)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/estado-coisas-inconstitucional-adpf-347.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/estado-coisas-inconstitucional-adpf-347/SKILL.md"
 triggers:
   - "ADPF 347"
   - "estado de coisas inconstitucional"
@@ -16,10 +16,15 @@ triggers:
   - "FUNPEN"
   - "bloco de constitucionalidade"
   - "violação massiva direitos"
-description: "ADPF 347 (Min. Marco Aurélio, cautelares 09/09/2015; mérito final\n04/10/2023, red. Min. Barroso): reconhecimento do \"estado de\ncoisas inconstitucional\" do sistema prisional brasileiro. Conjunto\nde medidas estruturais: descontingenciamento do FUNPEN, audiência\nde custódia, plano nacional de melhoria. Dialoga com SV 56,\nTema 169 (indenização) e Tema 220 (obras em presídios)."
+description: "Usar para pesquisar ou analisar: Estado de Coisas Inconstitucional (ADPF 347 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estado de Coisas Inconstitucional (ADPF 347)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

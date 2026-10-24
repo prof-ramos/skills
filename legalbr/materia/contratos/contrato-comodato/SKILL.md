@@ -5,8 +5,8 @@ title: "Contrato de Comodato"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-comodato.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-comodato/SKILL.md"
 triggers:
   - "comodato"
   - "empréstimo gratuito"
@@ -17,10 +17,15 @@ triggers:
   - "notificação para restituição"
   - "aluguel arbitrado CC 582"
   - "esbulho após notificação"
-description: "Comodato (CC 579-585): empréstimo gratuito de coisa\ninfungível; prazo determinado/indeterminado; notificação para\nrestituição (581); responsabilidade (582); caso fortuito (583)."
+description: "Usar para pesquisar ou analisar: Contrato de Comodato. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Comodato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

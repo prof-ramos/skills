@@ -5,8 +5,8 @@ title: "FUNRURAL: Empregador Rural PJ e PF (Temas 651 e 723 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/contribuicao-rural-funrural-temas-651-723.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-rural-funrural-temas-651-723/SKILL.md"
 triggers:
   - "Tema 651 STF"
   - "Tema 723 STF"
@@ -22,10 +22,15 @@ triggers:
   - "SENAR sub-rogação"
   - "opção folha receita"
   - "imunidade exportação CF 149 §2 I"
-description: "Tema 651 STF (RE 700.922, 15/03/2023): CONSTITUCIONAL a\ncontribuição do EMPREGADOR RURAL PJ sobre receita bruta\n(Lei 10.256/2001: FUNRURAL). Tema 723 STF (RE 761.263,\n15/04/2020): CONSTITUCIONAL a contribuição do PRODUTOR\nRURAL PF em economia familiar sem empregados permanentes.\nAmbas substituem a contribuição sobre folha."
+description: "Usar para pesquisar ou analisar: FUNRURAL: Empregador Rural PJ e PF (Temas 651 e 723 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FUNRURAL: Empregador Rural PJ e PF
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

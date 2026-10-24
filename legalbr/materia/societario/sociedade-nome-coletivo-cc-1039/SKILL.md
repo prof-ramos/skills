@@ -5,8 +5,8 @@ title: "Sociedade em Nome Coletivo (CC 1.039-1.044)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedade-nome-coletivo-cc-1039.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedade-nome-coletivo-cc-1039/SKILL.md"
 triggers:
   - "sociedade em nome coletivo"
   - "CC 1.039"
@@ -16,10 +16,15 @@ triggers:
   - "firma social"
   - "liquidação de quota"
   - "benefício de ordem CC 1.024"
-description: "Sociedade em Nome Coletivo (CC 1.039-1.044): tipo societário menor\ncomposto **apenas por pessoas físicas** com responsabilidade\n**ilimitada, solidária e subsidiária** pelas obrigações sociais\n(CC 1.024); firma social (CC 1.041); administração privativa de\nsócios; limitação interna entre sócios (CC 1.039 par.) inoponível\na terceiros; liquidação de quota de sócio executado (CC 1.043\npor remissão ao 1.026); aplicação subsidiária das regras da\nsociedade simples (CC 1.040); raríssima na prática, mas relevante\nem consultas patrimoniais e responsabilidade ilimitada residual."
+description: "Usar para pesquisar ou analisar: Sociedade em Nome Coletivo (CC 1.039-1.044). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedade em Nome Coletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

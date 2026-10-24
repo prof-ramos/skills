@@ -5,8 +5,8 @@ title: "Telemarketing Abusivo e Ligações Insistentes (Não Me Perturbe)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/telemarketing-abusivo-nao-perturbe.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/telemarketing-abusivo-nao-perturbe/SKILL.md"
 triggers:
   - "telemarketing abusivo"
   - "ligações insistentes"
@@ -19,10 +19,15 @@ triggers:
   - "oferta insistente de consignado"
   - "desvio produtivo do consumidor"
   - "RGC Res. 765/2023"
-description: "Telemarketing abusivo e ligações/mensagens insistentes: CDC 6 IV +\n39 caput e IV (métodos comerciais coercitivos, prevalecimento da\nfraqueza); cadastro Não Me Perturbe como plataforma setorial (RGC,\nRes. ANATEL 765/2023, art. 43); prefixo 0303 (obrigatoriedade\nrevogada em 2025); distinção mero aborrecimento x assédio de\nconsumo reiterado; dano moral e quantum; oferta de consignado a\nidoso (remete a superendividamento)."
+description: "Usar para pesquisar ou analisar: Telemarketing Abusivo e Ligações Insistentes (Não Me Perturbe). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Telemarketing Abusivo e Ligações Insistentes
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Seguros Massificados de Bens: Celular, Eletrônicos e Residência"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/seguro-celular-bens-massificados.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/seguro-celular-bens-massificados/SKILL.md"
 triggers:
   - "seguro de celular"
   - "seguro de smartphone"
@@ -20,10 +20,15 @@ triggers:
   - "Circular SUSEP 621"
   - "negativa de sinistro de celular"
   - "seguro vendido no varejo"
-description: "Seguros massificados de bens (celular, eletrônicos portáteis, residência)\nvendidos no varejo e por bilhete: cláusula que cobre só roubo/furto\nqualificado e exclui furto simples é abusiva sem informação clara e\ndestacada (REsps 1.293.006/SP, Info 500, e 1.837.434/SP; CDC 6º III, 46,\n47, 54 §4º); regras operacionais da Circular SUSEP 621/2021 (exclusões\nprecisas, liquidação em 30 dias); prescrição ânua e dano moral na recusa."
+description: "Usar para pesquisar ou analisar: Seguros Massificados de Bens: Celular, Eletrônicos e Residência. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguros Massificados de Bens: Celular, Eletrônicos e Residência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal e regulatório
 

@@ -5,8 +5,8 @@ title: "Tempo de Contribuição / CTC / Averbação (CF 201 §9 + Lei 8.213/91 a
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/tempo-contribuicao-ctc-averbacao.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/tempo-contribuicao-ctc-averbacao/SKILL.md"
 triggers:
   - "CTC"
   - "certidão de tempo de contribuição"
@@ -15,10 +15,15 @@ triggers:
   - "tempo fictício"
   - "aluno-aprendiz"
   - "COMPREV compensação entre regimes"
-description: "Tempo de contribuição, CTC e averbação sob a CF 201 §9 e a Lei\n8.213/91: princípios da unicidade, contagem recíproca RGPS-RPPS\ne vedação ao tempo fictício; emissão e desaverbação da CTC e\nconversão de tempo especial em comum até 13/11/2019; hipóteses\nespecíficas como aluno-aprendiz (Súm. 96 TCU) e serviço militar\ne compensação financeira pelo COMPREV (Lei 9.796/99)."
+description: "Usar para pesquisar ou analisar: Tempo de Contribuição / CTC / Averbação (CF 201 §9 + Lei 8.213/91 arts. 94-99). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tempo de Contribuição / CTC / Averbação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

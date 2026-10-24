@@ -5,8 +5,8 @@ title: "Adjudicação Compulsória"
 category: "forma"
 materia: null
 documentType: "adjudicacao-compulsoria"
-version: 1
-sourcePath: "lib/skills/official/forma/adjudicacao-compulsoria.md"
+version: 2
+sourcePath: "legalbr/forma/adjudicacao-compulsoria/SKILL.md"
 triggers:
   - "adjudicação compulsória"
   - "CC 1.417 e 1.418 direito real à aquisição"
@@ -16,10 +16,15 @@ triggers:
   - "recusa do promitente vendedor à outorga da escritura"
   - "DL 58/37 e Lei 6.766/79 loteamentos"
   - "título registrável no cartório de imóveis"
-description: "Adjudicação compulsória sob o CC 1.417-1.418, DL 58/37, Lei 6.766/79\ne art. 216-B LRP (Lei 14.382/22): pressupostos da promessa\nirretratável quitada e da recusa do vendedor; natureza constitutiva\ncom sentença que substitui a vontade (CPC 501) e serve de título\nregistrável; via extrajudicial perante o RI; foro do imóvel e\ncláusula de arrependimento nula em loteamentos."
+description: "Usar para redigir ou revisar: Adjudicação Compulsória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adjudicação Compulsória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito e natureza
 

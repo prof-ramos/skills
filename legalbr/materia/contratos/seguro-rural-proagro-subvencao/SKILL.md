@@ -6,7 +6,7 @@ category: "materia"
 materia: "contratos"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/contratos/seguro-rural-proagro-subvencao.md"
+sourcePath: "legalbr/materia/contratos/seguro-rural-proagro-subvencao/SKILL.md"
 triggers:
   - "seguro rural"
   - "seguro agrícola"
@@ -19,10 +19,15 @@ triggers:
   - "Comissão Especial de Recursos CER"
   - "negativa de cobertura Proagro"
   - "Lei 8.171 política agrícola"
-description: "Proagro (Lei 8.171/91, arts. 59 a 66-B: exoneração do crédito rural de custeio\npor evento climático, laudo de perdas, CER, administração pelo Bacen) e seguro\nrural privado subvencionado (Lei 10.823/03 + Decreto 5.121/04): negativa de\ncobertura, ZARC, legitimidade e competência."
+description: "Usar para pesquisar ou analisar: Seguro Rural e Proagro: Frustração de Safra, Cobertura e Subvenção. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro Rural e Proagro: Frustração de Safra, Cobertura e Subvenção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

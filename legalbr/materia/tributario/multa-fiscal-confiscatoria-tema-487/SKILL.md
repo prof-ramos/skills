@@ -5,8 +5,8 @@ title: "Multa Fiscal Confiscatória (CF 150 IV + Temas 487/863 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/multa-fiscal-confiscatoria-tema-487.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/multa-fiscal-confiscatoria-tema-487/SKILL.md"
 triggers:
   - "multa fiscal confiscatória"
   - "CF 150 IV"
@@ -17,10 +17,15 @@ triggers:
   - "multa isolada"
   - "150% multa"
   - "100% multa"
-description: "Vedação ao confisco CF 150 IV: multa MORATÓRIA não confiscatória\naté 20% (Tema 214 STF + tese 2 do Tema 816, RE 882.461, j. 02/2025:\nteto de 20% para multas moratórias de todos os entes); multa\nQUALIFICADA por sonegação/\nfraude/conluio limitada a 100% do débito, até 150% só na reincidência\n(Tema 863 STF, RE 736.090; Lei 14.689/2023); multa ISOLADA por\nobrigação acessória em percentual: teto de 60% do tributo/crédito\nvinculado (até 100% com agravantes); sem tributo vinculado, 20% do\nvalor da operação (até 30% com agravantes), com consunção e sem\nalcançar multas aduaneiras (Tema 487 STF, RE 640.452)."
+description: "Usar para pesquisar ou analisar: Multa Fiscal Confiscatória (CF 150 IV + Temas 487/863 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multa Fiscal Confiscatória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

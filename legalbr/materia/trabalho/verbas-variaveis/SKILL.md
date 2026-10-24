@@ -5,8 +5,8 @@ title: "Verbas Variáveis: Comissões, Prêmios, Gratificações, PLR, Stock Opt
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/verbas-variaveis.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/verbas-variaveis/SKILL.md"
 triggers:
   - "verbas variáveis"
   - "comissões"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 3.207/1957"
   - "Lei 10.101/2000"
   - "Súmula 340 TST"
-description: "Verbas variáveis sob a CLT e legislação especial: comissões (Lei\n3.207/57, natureza salarial, estorno só por insolvência, integração\nem aviso/13º/férias/FGTS); prêmios pós-Reforma (CLT 457 §§2 e 4);\ngratificações habituais e de função (224 §2, 62 II); PLR (Lei\n10.101/00); stock options e adicionais (insalubridade, periculosidade,\nnoturno, HE, transferência, sobreaviso)."
+description: "Usar para pesquisar ou analisar: Verbas Variáveis: Comissões, Prêmios, Gratificações, PLR, Stock Options. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Verbas Variáveis (Comissões, Prêmios, Gratificações, PLR, Stock Options)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais (visão geral)
 

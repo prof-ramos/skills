@@ -5,8 +5,8 @@ title: "Anterioridade do ICMS-DIFAL pós LC 190/2022 (Tema 1.266 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/icms-difal-anterioridade-tema-1266.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/icms-difal-anterioridade-tema-1266/SKILL.md"
 triggers:
   - "Tema 1.266 STF"
   - "DIFAL anterioridade LC 190"
@@ -15,10 +15,15 @@ triggers:
   - "anterioridade nonagesimal anual"
   - "vacatio legis LC 190/2022"
   - "DIFAL 2022 modulação"
-description: "Tema 1.266 STF (RE 1.426.271, j. 2025): declarou CONSTITUCIONAL\no art. 3º da LC 190/2022 (vacatio legis correspondente à\nanterioridade NONAGESIMAL, CF 150 III \"c\"). Cobrança do\nICMS-DIFAL a NÃO CONTRIBUINTE válida a partir da vigência da\nLC 190/22 (05/04/2022). Modulação: contribuintes que ajuizaram\nação até 29/11/2023 (j. ADI 7.066) e não recolheram ficam\ndesobrigados do DIFAL relativo a 2022. CF 150 III + Tema 1.093 STF."
+description: "Usar para pesquisar ou analisar: Anterioridade do ICMS-DIFAL pós LC 190/2022 (Tema 1.266 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anterioridade do DIFAL-ICMS pós LC 190/2022
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

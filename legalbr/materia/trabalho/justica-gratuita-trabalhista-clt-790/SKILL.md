@@ -5,8 +5,8 @@ title: "Justiça Gratuita Trabalhista (CLT 790 §3 e §4)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/processo-do-trabalho/justica-gratuita-trabalhista-clt-790.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/justica-gratuita-trabalhista-clt-790/SKILL.md"
 triggers:
   - "justiça gratuita"
   - "gratuidade da justiça"
@@ -15,10 +15,15 @@ triggers:
   - "declaração de pobreza"
   - "40% do teto RGPS"
   - "ADI 5.766"
-description: "Justiça gratuita trabalhista (CLT 790 §§ 3 e 4, Reforma): concedida\nde ofício ou a requerimento a quem perceber salário ≤ 40% do teto do\nRGPS ou comprovar insuficiência; declaração simples mantida (Súm. 463\nTST + ADI 5.766 STF); abrange custas, depósito, honorários (suspensão\ncom extinção em 2 anos); ADI 5.766: proteção do crédito alimentar;\nPJ exige prova robusta (Súm. 463 II; Tema 1.424 STJ)."
+description: "Usar para pesquisar ou analisar: Justiça Gratuita Trabalhista (CLT 790 §3 e §4). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Justiça Gratuita Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

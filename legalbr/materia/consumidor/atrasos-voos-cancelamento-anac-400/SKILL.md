@@ -5,8 +5,8 @@ title: "Transporte Aéreo, Atrasos, Cancelamentos e Overbooking (Reso ANAC 400)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/atrasos-voos-cancelamento-anac-400.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/atrasos-voos-cancelamento-anac-400/SKILL.md"
 triggers:
   - "Resolução ANAC 400"
   - "atraso voo"
@@ -22,10 +22,15 @@ triggers:
   - "arrependimento passagem aérea"
   - "milhas aéreas"
   - "programa de fidelidade"
-description: "Transporte aéreo + atrasos/cancelamentos (Reso ANAC 400/2016, CDC, Lei 7.565/86, Conv. Montreal 1999). Reembolso: 7 dias (regra geral pós-pandemia). Atraso > 4h: reembolso ou reacomodação + assistência material. Cancelamento: idem. Pandemia: Leis 14.034/2020 e 14.046/2020 (vigência expirada 31/10/2021). Atraso/cancelamento não gera dano moral in re ipsa: exige prova de lesão concreta (CDC art. 14; STJ AgInt AREsp 2.150.150/SP). STF Tema 210 (RE 636.331): Convenções de Varsóvia/Montreal prevalecem sobre o CDC quanto à limitação do dano material e à prescrição no internacional (tese alterada em 30/11/2023, ARE 766.618 ED). STF Tema 1.240 (RE 1.394.401): Convenções não se aplicam ao dano moral no transporte internacional. DPVAT aéreo: regime próprio (Lei 7.565 art. 256). Milhagem/fidelidade: expiração lícita se informada; bloqueio de conta exige motivação (REsp 2.011.456/SP e REsp 1.878.651/SP)."
+description: "Usar para pesquisar ou analisar: Transporte Aéreo, Atrasos, Cancelamentos e Overbooking (Reso ANAC 400). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transporte Aéreo: Atrasos + Cancelamentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

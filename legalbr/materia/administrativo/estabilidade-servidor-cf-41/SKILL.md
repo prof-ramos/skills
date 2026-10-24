@@ -5,8 +5,8 @@ title: "Estabilidade do Servidor Público (CF 41 + EC 19/1998)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/estabilidade-servidor-cf-41.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/estabilidade-servidor-cf-41/SKILL.md"
 triggers:
   - "estabilidade servidor"
   - "CF 41 estabilidade"
@@ -19,10 +19,15 @@ triggers:
   - "estabilidade extraordinária"
   - "Súmula 650 STJ"
   - "demissão ato vinculado"
-description: "Estabilidade do servidor (CF 41 redação EC 19/1998): 3 anos\nexercício efetivo + avaliação especial; hipóteses de perda (PAD\ntrânsito + sentença + insuficiência LC + excesso CF 169); CF 19\nADCT (estabilidade extraordinária para 5 anos pré-CF/88 sem\nconcurso); estabilidade no cargo × no serviço (CF 19 ADCT, STF/STJ);\nrecondução do estável (art. 29 I); Súm. 21 e 22 STF.\nDemissão por art. 132 Lei 8.112 é ato vinculado (Súm. 650 STJ)."
+description: "Usar para pesquisar ou analisar: Estabilidade do Servidor Público (CF 41 + EC 19/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade do Servidor (CF 41)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

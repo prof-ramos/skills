@@ -5,8 +5,8 @@ title: "Sociedades Cooperativas (Lei 5.764/71 + LC 130/09 + LC 214/25 + EC 132)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/sociedades-cooperativas-lei-5764.md"
+version: 2
+sourcePath: "legalbr/materia/societario/sociedades-cooperativas-lei-5764/SKILL.md"
 triggers:
   - "cooperativa"
   - "Lei 5.764"
@@ -19,10 +19,15 @@ triggers:
   - "FATES"
   - "sobras"
   - "dual capacity"
-description: "Sociedades cooperativas sob Lei 5.764/71 + CC 1.093-1.096 + LC 130/09\n(crédito) + EC 132 e LC 214/25 (regime específico IBS/CBS): natureza\nda cooperativa (não tributação do ato cooperativo típico, Tema 363\nSTJ, sobrestado pela pendência do Tema 536 STF), espécies\n(consumo, produção, crédito,\ntrabalho, saúde), governança (assembleia + conselhos + admissão),\ncapital + sobras + FATES indivisível, dissolução e jurisprudência\nSTJ 2024-2025 (limitação de admissão, FATES, ato típico × atípico)."
+description: "Usar para pesquisar ou analisar: Sociedades Cooperativas (Lei 5.764/71 + LC 130/09 + LC 214/25 + EC 132). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sociedades Cooperativas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

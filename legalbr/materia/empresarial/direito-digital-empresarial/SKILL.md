@@ -5,8 +5,8 @@ title: "Direito Digital Empresarial (LGPD + Marco Civil + Criptoativos)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/direito-digital-empresarial.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/direito-digital-empresarial/SKILL.md"
 triggers:
   - "direito digital"
   - "LGPD empresarial"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 12.965/2014"
   - "cripto"
   - "Lei 14.478/2022"
-description: "Direito digital empresarial sob LGPD (Lei 13.709/2018) + Marco Civil (Lei\n12.965/2014) + Lei 14.478/2022 (criptoativos): bases legais, direitos do\ntitular e governança (DPO, incidentes, transferência internacional);\nresponsabilidade de plataformas pós-Tema 987 STF; e-commerce e marketplaces\n(Dec. 7.962/13 + CDC); regime VASP/BCB e assinatura eletrônica."
+description: "Usar para pesquisar ou analisar: Direito Digital Empresarial (LGPD + Marco Civil + Criptoativos). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Digital Empresarial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

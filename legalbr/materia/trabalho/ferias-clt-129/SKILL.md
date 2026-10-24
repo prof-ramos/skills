@@ -5,8 +5,8 @@ title: "Férias (CLT 129 a 153)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/ferias-clt-129.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/ferias-clt-129/SKILL.md"
 triggers:
   - "férias anuais remuneradas"
   - "CLT 129"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 7 TST"
   - "Súm. 81 TST"
   - "férias em dobro CLT 137"
-description: "Férias (CLT 129-153 + Reforma 13.467): 30 dias após período aquisitivo;\nredução proporcional por faltas (art. 130); concessão dentro dos 12\nmeses seguintes sob pena de dobra (art. 137); fracionamento em até 3\nperíodos (art. 134 §1); abono pecuniário (143); férias coletivas (139)."
+description: "Usar para pesquisar ou analisar: Férias (CLT 129 a 153). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Férias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

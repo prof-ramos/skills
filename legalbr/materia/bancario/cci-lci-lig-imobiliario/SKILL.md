@@ -5,8 +5,8 @@ title: "CCI + LCI + LIG: Títulos Imobiliários (Lei 10.931/04 + Lei 13.097/15)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cci-lci-lig-imobiliario.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cci-lci-lig-imobiliario/SKILL.md"
 triggers:
   - "CCI cédula crédito imobiliário"
   - "LCI letra crédito imobiliário"
@@ -22,10 +22,15 @@ triggers:
   - "covered bond Brasil"
   - "securitização imobiliária"
   - "CRI certificado recebíveis imobiliários"
-description: "Títulos imobiliários: CCI (Cédula de Crédito Imobiliário, Lei 10.931\narts. 18-25, escritural ou cartular, com ou sem garantia); LCI (Letra\nde Crédito Imobiliário, Lei 10.931 arts. 12-17, emissão por IF, lastro\nem crédito imobiliário, isenção IR PF); LIG (Letra Imobiliária\nGarantida, Lei 13.097/15 arts. 60-95, covered bond brasileiro, dupla\ngarantia IF + carteira ativos); CRI Lei 9.514/97; SFI vs SFH."
+description: "Usar para pesquisar ou analisar: CCI + LCI + LIG: Títulos Imobiliários (Lei 10.931/04 + Lei 13.097/15). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CCI + LCI + LIG: Títulos Imobiliários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quadro normativo
 

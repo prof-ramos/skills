@@ -5,8 +5,8 @@ title: "Impenhorabilidade + Bem de Família (CPC 833 + Lei 8.009/90 + CC 1.711)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/impenhorabilidade-bem-familia.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/impenhorabilidade-bem-familia/SKILL.md"
 triggers:
   - "pequena propriedade rural impenhorável"
   - "CPC 833"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 295 STF"
   - "Tema 1.127 STF"
   - "EREsp 1.874.222"
-description: "Impenhorabilidades do CPC 833 + bem de família legal (Lei 8.009/\n90) e convencional (CC 1.711-1.722): bens absolutamente impenhoráveis\n+ relativização (alimentos + > 50 SM; EREsp 1.874.222); exceções\ndo art. 3 da Lei 8.009 (fiança locatícia penhorável: Súm. 549\nSTJ + Tema 1.091 STJ + Temas 295 e 1.127 STF); Súm. 364\n(solteiro) + 449 (vaga) + 486 (alugado)."
+description: "Usar para pesquisar ou analisar: Impenhorabilidade + Bem de Família (CPC 833 + Lei 8.009/90 + CC 1.711). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Impenhorabilidade + Bem de Família
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 833: bens impenhoráveis
 

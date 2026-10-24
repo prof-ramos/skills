@@ -5,8 +5,8 @@ title: "Ação de Improbidade Administrativa"
 category: "forma"
 materia: null
 documentType: "improbidade-administrativa"
-version: 1
-sourcePath: "lib/skills/official/forma/improbidade-administrativa.md"
+version: 2
+sourcePath: "legalbr/forma/improbidade-administrativa/SKILL.md"
 triggers:
   - "ação de improbidade administrativa"
   - "Lei 8.429/92 LIA"
@@ -16,10 +16,15 @@ triggers:
   - "violação a princípios da administração"
   - "legitimidade exclusiva do Ministério Público"
   - "perda da função pública e suspensão dos direitos políticos"
-description: "Ação de improbidade administrativa (CF 37 §4º; Lei 8.429/92 reformada\npela Lei 14.230/2021): natureza de direito administrativo\nsancionador; modalidades dos arts. 9º, 10 e 11 com exigência de dolo;\nlegitimidade concorrente do MP e da pessoa jurídica lesada; ANPC do\nart. 17-B; sanções facultativas do art. 12; prescrição e\nindisponibilidade de bens do art. 16."
+description: "Usar para redigir ou revisar: Ação de Improbidade Administrativa. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Improbidade Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

@@ -5,8 +5,8 @@ title: "Liberdade Religiosa + Reunião (CF 5 VI-VIII + XVI + ADPF 187 + ADI 4.43
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/liberdade-religiosa-reuniao-cf-5.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/liberdade-religiosa-reuniao-cf-5/SKILL.md"
 triggers:
   - "liberdade religiosa"
   - "CF 5 VI"
@@ -21,10 +21,15 @@ triggers:
   - "ensino religioso"
   - "ADPF 187"
   - "RE 494.601 sacrifício"
-description: "CF 5 VI inviolabilidade consciência/crença + culto + assistência;\nVII assistência religiosa entidades militares/civis; VIII vedada\nprivação por crença (salvo escusa CF 143 §1); CF 19 I Estado\nLAICO; ADI 4.439 (ensino religioso CONFESSIONAL, 6x5); RE\n494.601 (sacrifício animal afro constitucional); CF 5 XVI\nreunião pacífica + sem armas + prévia comunicação; ADPF 187."
+description: "Usar para pesquisar ou analisar: Liberdade Religiosa + Reunião (CF 5 VI-VIII + XVI + ADPF 187 + ADI 4.439). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Liberdade Religiosa + Reunião
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 5 VI: INVIOLABILIDADE
 

@@ -5,8 +5,8 @@ title: "Repetitivos STJ 2025 (79 temas julgados, visão geral e atalho de skills
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/precedentes-irdr-iac-reclamacao/lista-temas-repetitivos-stj-2025.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/lista-temas-repetitivos-stj-2025/SKILL.md"
 triggers:
   - "repetitivos STJ 2025"
   - "lista temas repetitivos 2025"
@@ -14,10 +14,15 @@ triggers:
   - "panorama recurso repetitivo"
   - "índice teses 2025"
   - "teses repetitivas recentes STJ"
-description: "Visão geral dos 79 temas repetitivos do STJ julgados em 2025 (37\nno 1º semestre + 42 no 2º semestre) com atalhos para as skills\nespecíficas. Use para identificar a skill correta a aplicar\nquando o caso envolver matéria repetitiva recente."
+description: "Usar para pesquisar ou analisar: Repetitivos STJ 2025 (79 temas julgados, visão geral e atalho de skills). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repetitivos STJ 2025 (Panorama)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Corte Especial (6 julgados)
 

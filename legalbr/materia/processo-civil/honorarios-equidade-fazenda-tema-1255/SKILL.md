@@ -5,8 +5,8 @@ title: "Honorários por Equidade em Causas com Fazenda Pública (Tema 1.255 STF)
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-equidade-fazenda-tema-1255.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-equidade-fazenda-tema-1255/SKILL.md"
 triggers:
   - "Tema 1.255 STF"
   - "honorários equidade Fazenda"
@@ -14,10 +14,15 @@ triggers:
   - "RE 1.412.069"
   - "equidade valor exorbitante Fazenda"
   - "sobrestamento Tema 1255"
-description: "Tema 1.255 STF (RE 1.412.069, rel. Min. André Mendonça, pendente\nde mérito): HONORÁRIOS por EQUIDADE em causas com FAZENDA PÚBLICA\n(CPC 85 §8 + §3). QO de 03/2025 restringiu o tema às causas com a\nFazenda; SEM suspensão nacional de processos. Distinção com Tema\n1.402 STF (causas privadas: inexiste RG; vale o Tema 1.076 STJ).\nEm causas com Fazenda: §3 + §8-A em hipóteses específicas."
+description: "Usar para pesquisar ou analisar: Honorários por Equidade em Causas com Fazenda Pública (Tema 1.255 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários por Equidade em Causas com Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

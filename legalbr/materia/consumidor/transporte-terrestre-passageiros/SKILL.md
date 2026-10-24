@@ -5,8 +5,8 @@ title: "Transporte Terrestre de Passageiros (CDC + CC 730-742 + ANTT)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/transporte-terrestre-passageiros.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/transporte-terrestre-passageiros/SKILL.md"
 triggers:
   - "transporte rodoviário"
   - "cláusula de incolumidade"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 161 STF"
   - "transporte coletivo urbano"
   - "passageiro morto"
-description: "Transporte terrestre de passageiros sob CDC + CC arts. 730-742 +\nLei 11.442/2007 (cargas) + Res. ANTT: cláusula de incolumidade\n(CC 734, responsabilidade objetiva); fortuito externo como\nexcludente (assalto isolado, STJ pacífico); extravio/avaria de\nbagagem (Súm. 161 STF); culpa de terceiro não elide a\nresponsabilidade do transportador, cabendo ação regressiva (Súm. 187\nSTF); acidente fatal, dano material e moral."
+description: "Usar para pesquisar ou analisar: Transporte Terrestre de Passageiros (CDC + CC 730-742 + ANTT). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transporte Terrestre de Passageiros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

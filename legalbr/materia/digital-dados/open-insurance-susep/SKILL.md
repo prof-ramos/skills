@@ -5,8 +5,8 @@ title: "Open Insurance Brasil (Reso CNSP 415/2021 + Circular SUSEP 635)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/open-insurance-susep.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/open-insurance-susep/SKILL.md"
 triggers:
   - "Open Insurance Brasil"
   - "SUSEP CNSP 415"
@@ -17,10 +17,15 @@ triggers:
   - "SISO sistema seguros aberto"
   - "previdência aberta compartilhamento"
   - "capitalização open"
-description: "Open Insurance Brasil, sistema de **compartilhamento padronizado**\nde dados + serviços nos mercados de **seguros + previdência aberta\n+ capitalização**, mediante **consentimento expresso** do cliente.\nMarco: **Reso CNSP 415/2021** + Circular SUSEP **635/2021** +\natualizações (Circ. 681/2022 + Reso CNSP 450/2022). Inspirado no\n**Open Finance BACEN** (Reso Conj. 1/2020). Início: **15/12/2021**.\n**3 fases**: (1) dados abertos das empresas, 2021; (2) dados\ncadastrais + apólices, 2022; (3) serviços de iniciação. Governança:\n**OPIN-BR** (privada) + SUSEP. Aplicação LGPD + CDC. Convergência\ncom Open Finance (BACEN) + Open Health (ANS, em discussão)."
+description: "Usar para pesquisar ou analisar: Open Insurance Brasil (Reso CNSP 415/2021 + Circular SUSEP 635). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Open Insurance Brasil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Ação Anulatória de Débito Fiscal (LEF 38 + CTN 169 + Súm. 247 TFR)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/acao-anulatoria-debito-fiscal-lef-38.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/acao-anulatoria-debito-fiscal-lef-38/SKILL.md"
 triggers:
   - "ação anulatória de débito fiscal"
   - "LEF 38"
@@ -16,10 +16,15 @@ triggers:
   - "depósito integral"
   - "Súm. 247 TFR"
   - "anulatória pré-execução"
-description: "Ação anulatória LEF 38 + CTN 169: cabível para desconstituir o\nlançamento OU a inscrição em dívida ativa; prazo de 5 anos em\nregra; 2 anos apenas para anular decisão administrativa que\ndenega restituição (CTN 169); cumulável com repetição de\nindébito quando há pagamento; depósito integral em dinheiro\nsuspende exigibilidade (CTN 151 II + Súm. 112 STJ); depósito\nnão é condição da ação (Súm. 247 TFR + ADI 1.074)."
+description: "Usar para pesquisar ou analisar: Ação Anulatória de Débito Fiscal (LEF 38 + CTN 169 + Súm. 247 TFR). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Anulatória de Débito Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

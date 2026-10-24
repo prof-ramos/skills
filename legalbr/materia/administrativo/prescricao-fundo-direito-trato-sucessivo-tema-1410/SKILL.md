@@ -5,8 +5,8 @@ title: "Prescrição contra a Fazenda em Trato Sucessivo (Tema 1.410 STJ + Súm.
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/prescricao-fundo-direito-trato-sucessivo-tema-1410.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/prescricao-fundo-direito-trato-sucessivo-tema-1410/SKILL.md"
 triggers:
   - "Tema 1.410 STJ"
   - "prescrição fundo de direito"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 383 STF"
   - "Tema 553 STJ"
   - "prescrição contra autarquia"
-description: "Tema 1.410 STJ: nas relações de trato sucessivo em que a Fazenda é\ndevedora, a prescrição do FUNDO DE DIREITO exige NEGATIVA EXPRESSA do\ndireito (ato normativo de efeito concreto ou ato administrativo\nformalizado COM CIÊNCIA do servidor); a mera inércia/omissão em\nimplantar a vantagem em folha NÃO inicia o prazo. Sem negativa,\naplica-se a Súm. 85 STJ: prescrevem só as parcelas anteriores ao\nquinquênio (Dec. 20.910/32). Tema 1.326 STJ: complementação do\nVMAA (FUNDEF/FUNDEB) prescreve mês a mês, sem prescrição do fundo.\nInclui o regime geral do Dec. 20.910 (arts. 1-10): autarquias\n(DL 4.597/42), Tema 553 STJ (quinquenal, não trienal) e Súm. 383\nSTF (interrupção única, recomeço pela metade)."
+description: "Usar para pesquisar ou analisar: Prescrição contra a Fazenda em Trato Sucessivo (Tema 1.410 STJ + Súm. 85). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição contra a Fazenda em Trato Sucessivo (Tema 1.410 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.410 STJ, 1ª Seção, j. 07/05/2026, REsp 2.228.834-MA e 2.228.837-MA)
 

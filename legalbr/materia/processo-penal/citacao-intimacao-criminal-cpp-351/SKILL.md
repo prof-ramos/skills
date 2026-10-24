@@ -5,8 +5,8 @@ title: "Citação e Intimação no Processo Penal (CPP 351-372)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/citacao-intimacao-criminal-cpp-351.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/citacao-intimacao-criminal-cpp-351/SKILL.md"
 triggers:
   - "citação processo penal"
   - "CPP 351"
@@ -18,10 +18,15 @@ triggers:
   - "revelia processo penal"
   - "intimação CPP 370"
   - "acusado preso"
-description: "Citação e intimação CPP 351-372: regra é citação pessoal por\nmandado (351); preso por mandado (360); por hora certa (362\nLei 11.719/2008); edital se réu não localizado (361), CPP 366\nsuspende processo + prescrição até comparecimento (Súm. 415\nSTJ limita tempo de suspensão à prescrição pela pena máxima);\nintimação pode ser pessoal/postal/edital; defensor por publicação."
+description: "Usar para pesquisar ou analisar: Citação e Intimação no Processo Penal (CPP 351-372). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Citação e Intimação no Processo Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Citação: formas
 

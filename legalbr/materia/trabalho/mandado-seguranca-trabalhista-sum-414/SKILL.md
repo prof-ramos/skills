@@ -5,8 +5,8 @@ title: "Mandado de Segurança Trabalhista (Lei 12.016/09 + Súm. 414 TST)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/mandado-seguranca-trabalhista-sum-414.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/mandado-seguranca-trabalhista-sum-414/SKILL.md"
 triggers:
   - "mandado de segurança trabalhista"
   - "Súm. 414 TST"
@@ -14,10 +14,15 @@ triggers:
   - "efeito suspensivo a recurso"
   - "tutela provisória antes da sentença"
   - "Lei 12.016 mandado de segurança"
-description: "Mandado de segurança trabalhista (Lei 12.016/09 + CF 5 LXIX +\nSúm. 414 e 415 TST): proteção de direito líquido e certo contra\nato judicial coator ou administrativo; cabível para conceder efeito\nsuspensivo a recursos sem esse efeito; competência originária do TRT\npara atacar decisão de Vara; 120 dias decadenciais."
+description: "Usar para pesquisar ou analisar: Mandado de Segurança Trabalhista (Lei 12.016/09 + Súm. 414 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Segurança Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

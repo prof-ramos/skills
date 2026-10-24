@@ -5,8 +5,8 @@ title: "Dano Moral, Configuração e Quantificação"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/dano-moral-quantificacao.md"
+version: 2
+sourcePath: "legalbr/materia/civil/dano-moral-quantificacao/SKILL.md"
 triggers:
   - "quantificacao do dano moral"
   - "arbitramento do dano moral"
@@ -21,10 +21,15 @@ triggers:
   - "Sum 362 STJ"
   - "Sum 54 STJ"
   - "punitive damages"
-description: "Dano moral: configuração (lesão a direitos da personalidade -\nCF 5 V/X + CC 186); espécies (individual, coletivo, social);\ncumulação (Súm. 37 STJ, moral + material; Súm. 387 STJ, moral +\nestético); PJ pode sofrer (Súm. 227 STJ); quantificação (método\nbifásico, REsp 1.152.541); dano moral in re ipsa."
+description: "Usar para pesquisar ou analisar: Dano Moral, Configuração e Quantificação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Moral, Configuração e Quantificação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento (CF 5 V/X + CC 186)
 

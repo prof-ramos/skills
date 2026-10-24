@@ -5,8 +5,8 @@ title: "Recurso Especial, REsp (CF 105 III + CPC 1.029 + EC 125/2022)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 4
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/recurso-especial-cf-105.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/recurso-especial-cf-105/SKILL.md"
 triggers:
   - "recurso especial"
   - "REsp"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 211 STJ"
   - "cotejo analítico"
   - "Tema 988 STJ"
-description: "REsp sob CF 105 III + CPC 1.029-1.041: cabível por violação a lei\nfederal + ato local em face de lei federal + divergência (alínea\nc, cotejo analítico); 15 dias úteis; vedado reexame de prova\n(Súm. 7) e cláusula contratual (Súm. 5); prequestionamento (Súm.\n211 + CPC 1.025); relevância da questão federal (EC 125/2022,\nregulamentada pela Lei 15.484/2026: CPC 1.035-A, tópico\nespecífico exigível contra acórdãos publicados a partir de\n03/09/2026); repetitivos (CPC 1.036)."
+description: "Usar para pesquisar ou analisar: Recurso Especial, REsp (CF 105 III + CPC 1.029 + EC 125/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Especial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional: CF 105 III
 

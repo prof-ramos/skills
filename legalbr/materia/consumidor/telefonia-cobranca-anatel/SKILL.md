@@ -5,8 +5,8 @@ title: "Telefonia: Cobrança e Serviços (Res. ANATEL 632/2014)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/telefonia-cobranca-anatel.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/telefonia-cobranca-anatel/SKILL.md"
 triggers:
   - "cobrança indevida telefonia"
   - "ANATEL"
@@ -18,10 +18,15 @@ triggers:
   - "portabilidade numérica"
   - "serviço fixo"
   - "franquia de dados"
-description: "Telefonia e serviços de comunicação sob Res. ANATEL 632/2014\n(Regulamento Geral de Direitos do Consumidor) + CDC: cobrança\nindevida (CDC 42 par. único, dobra); portabilidade obrigatória\ne gratuita (Res. 460/2007); interrupção indevida, dano moral;\ncontestação prévia (12 meses); contratos de adesão; franquia\nde dados e SVA não solicitados; livre escolha de plano."
+description: "Usar para pesquisar ou analisar: Telefonia: Cobrança e Serviços (Res. ANATEL 632/2014). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Telefonia: Cobrança e Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

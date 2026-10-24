@@ -5,8 +5,8 @@ title: "Capitalização de Juros em Contratos Bancários (Tema 247 STJ)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/capitalizacao-juros-contratos-bancarios-tema-247.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/capitalizacao-juros-contratos-bancarios-tema-247/SKILL.md"
 triggers:
   - "Tema 247 STJ"
   - "capitalização de juros mensal"
@@ -16,10 +16,15 @@ triggers:
   - "taxa anual superior duodécuplo"
   - "Súmula 539 STJ"
   - "Súmula 541 STJ"
-description: "Temas 246 e 247 STJ: a capitalização de juros em periodicidade\ninferior à anual em contratos bancários celebrados APÓS 31/03/2000\n(MP 1.963-17/2000, em vigor como MP 2.170-36/2001) é VÁLIDA, desde\nque EXPRESSAMENTE pactuada (Tema 246 + Súm. 539); a pactuação deve\nser expressa e clara, e a previsão de taxa anual SUPERIOR ao\nduodécuplo da mensal é suficiente para autorizar a cobrança\n(Tema 247 + Súm. 541). Juros > 12% a.a. não são, por si só,\nabusivos (Súm. 382)."
+description: "Usar para pesquisar ou analisar: Capitalização de Juros em Contratos Bancários (Tema 247 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Capitalização de Juros em Contratos Bancários (Tema 247 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Temas 246 e 247 STJ)
 

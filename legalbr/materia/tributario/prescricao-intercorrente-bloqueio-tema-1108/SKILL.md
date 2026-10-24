@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente da EF, Bloqueio + Interrupção (Tema 1.108 S
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/prescricao-intercorrente-bloqueio-tema-1108.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/prescricao-intercorrente-bloqueio-tema-1108/SKILL.md"
 triggers:
   - "Tema 1.108 STJ"
   - "prescrição intercorrente bloqueio"
@@ -19,10 +19,15 @@ triggers:
   - "REsp 1.340.553"
   - "interrupção prescrição intercorrente"
   - "localização bens"
-description: "Tema 1.108 STJ (REsp 2.034.564 + 2.036.397, Min. Mauro Campbell,\n10/03/2025): para INTERROMPER a prescrição intercorrente (LEF 40),\nbasta a Fazenda LOCALIZAR BENS PENHORÁVEIS, independentemente do\ntipo de constrição (bloqueio SISBAJUD, arresto, penhora, RENAJUD,\nINFOJUD). Não exige penhora válida + avaliação. Complementa Tema\n566 STJ (REsp 1.340.553) sobre marco inicial da suspensão da LEF 40."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente da EF, Bloqueio + Interrupção (Tema 1.108 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente, Bloqueio (Tema 1.108 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.108 STJ, 10/03/2025)
 

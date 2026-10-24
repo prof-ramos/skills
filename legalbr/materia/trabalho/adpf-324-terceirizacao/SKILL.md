@@ -5,8 +5,8 @@ title: "ADPF 324 + RE 958.252 (Tema 725) — Terceirização Lícita"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/adpf-324-terceirizacao.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/adpf-324-terceirizacao/SKILL.md"
 triggers:
   - "ADPF 324"
   - "RE 958252"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 13.467/2017"
   - "Súm. 331 TST"
   - "quarteirização"
-description: "ADPF 324 + RE 958.252 (Roberto Barroso, 30/08/2018): por\nmaioria fixaram que a TERCEIRIZAÇÃO é LÍCITA em qualquer\natividade (meio ou fim) — superada a Súm. 331 TST nesta\nparte. Tese 725: livre iniciativa + autonomia da vontade;\nresponsabilidade subsidiária por culpa (ADC 16)."
+description: "Usar para pesquisar ou analisar: ADPF 324 + RE 958.252 (Tema 725) — Terceirização Lícita. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADPF 324 + RE 958.252 — Terceirização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

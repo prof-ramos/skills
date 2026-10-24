@@ -5,8 +5,8 @@ title: "Ação Revisional de Aluguel (Lei 8.245/1991 arts. 19 e 68-70)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/revisional-aluguel-lei-8245.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/revisional-aluguel-lei-8245/SKILL.md"
 triggers:
   - "ação revisional de aluguel"
   - "revisional de aluguel"
@@ -18,10 +18,15 @@ triggers:
   - "aluguel a preço de mercado"
   - "perícia de valor locativo"
   - "contraproposta na contestação revisional"
-description: "Revisional de aluguel (Lei 8.245/1991 arts. 19 e 68-70): triênio do\ncontrato ou do último acordo; legitimidade de locador E locatário;\naluguel provisório desde a citação (teto 80% do pedido na ação do\nlocador; piso 80% do vigente na do locatário, Lei 12.112/2009);\ncontestação com contraproposta + perícia; sentença retroage à\ncitação; diferenças exigíveis do trânsito e executadas nos autos."
+description: "Usar para pesquisar ou analisar: Ação Revisional de Aluguel (Lei 8.245/1991 arts. 19 e 68-70). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Revisional de Aluguel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

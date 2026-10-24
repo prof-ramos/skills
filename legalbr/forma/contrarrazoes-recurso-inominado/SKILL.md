@@ -5,8 +5,8 @@ title: "Contrarrazões ao Recurso Inominado (Lei 9.099/95)"
 category: "forma"
 materia: null
 documentType: "contrarrazoes-recurso-inominado"
-version: 1
-sourcePath: "lib/skills/official/forma/contrarrazoes-recurso-inominado.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-recurso-inominado/SKILL.md"
 triggers:
   - "contrarrazões ao recurso inominado"
   - "contrarrazões recurso inominado"
@@ -18,10 +18,15 @@ triggers:
   - "confirmação pelos próprios fundamentos"
   - "Lei 9.099 art. 42 §2º"
   - "honorários recorrente vencido juizado"
-description: "Contrarrazões ao recurso inominado nos Juizados (Lei 9.099/95 arts. 41-43;\nprazo de 10 dias, art. 42 §2º): preliminares de deserção (preparo em 48h,\nFONAJE 80), intempestividade, dialeticidade e falta de advogado (41 §2º);\ndefesa da sentença com pedido de confirmação pelos próprios fundamentos\n(art. 46; Tema 451 STF, RE 635.729) e honorários contra o recorrente\nvencido (art. 55)."
+description: "Usar para redigir ou revisar: Contrarrazões ao Recurso Inominado (Lei 9.099/95). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões ao Recurso Inominado
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 O recorrido quer **manter a sentença** do Juizado. A peça cumpre três funções: barrar o conhecimento (admissibilidade rígida do microssistema), blindar a sentença no mérito e assegurar a sucumbência recursal (art. 55). Aplica-se ao JEC (Lei 9.099/95), ao JEF (Lei 10.259/01) e ao JEFP (Lei 12.153/09).
 

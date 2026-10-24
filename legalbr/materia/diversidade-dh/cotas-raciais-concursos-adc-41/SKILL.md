@@ -5,8 +5,8 @@ title: "Cotas Raciais em Concursos (ADC 41 STF + Lei 12.990/14)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/cotas-raciais-concursos-adc-41.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/cotas-raciais-concursos-adc-41/SKILL.md"
 triggers:
   - "ADC 41"
   - "Lei 12.990/2014"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1.119 STJ"
   - "ADPF 186"
   - "ADI 7.654"
-description: "ADC 41 (Min. Barroso, 08/06/2017, UNÂNIME): constitucional a\nreserva de 20% das vagas em concursos federais a candidatos\nnegros (Lei 12.990/14). Legítima a heteroidentificação após\nautodeclaração, respeitados contraditório e ampla defesa.\nAplicação a todas as fases. Lei 14.846/24 prorrogou até 2034.\nTema 1.119 STJ trata da heteroidentificação posterior à investidura."
+description: "Usar para pesquisar ou analisar: Cotas Raciais em Concursos (ADC 41 STF + Lei 12.990/14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cotas Raciais em Concursos (ADC 41 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

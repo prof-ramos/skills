@@ -6,17 +6,22 @@ category: "forma"
 materia: null
 documentType: "testamento-publico"
 version: 2
-sourcePath: "lib/skills/official/forma/testamento-publico.md"
+sourcePath: "legalbr/forma/testamento-publico/SKILL.md"
 triggers:
   - "testamento público"
   - "disposição de última vontade"
   - "art. 1.864 CC"
   - "legítima dos herdeiros necessários"
   - "testamenteiro"
-description: "Testamento público (CC 1.864-1.867): tabelião e 2 testemunhas; testador a\npartir de 16 anos (CC 1.860); preserva legítima de 50% aos herdeiros\nnecessários (CC 1.846); admite legados; rompimento (CC 1.973); caducidade."
+description: "Usar para redigir ou revisar: Testamento Público. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Testamento Público
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

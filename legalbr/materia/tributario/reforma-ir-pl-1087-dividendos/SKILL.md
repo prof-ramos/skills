@@ -5,8 +5,8 @@ title: "Reforma do IRPF + Tributação de Dividendos (Lei 15.270/2025, ex-PL 1.0
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/reforma-ir-pl-1087-dividendos.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/reforma-ir-pl-1087-dividendos/SKILL.md"
 triggers:
   - "PL 1.087"
   - "reforma IR pessoa física"
@@ -18,10 +18,15 @@ triggers:
   - "dividendos 2026"
   - "Lei 9.250 tabela IRPF"
   - "Lei 15.270 reforma do IR"
-description: "Reforma do IR, **Lei 15.270/2025** (originada do PL 1.087/2025,\nsancionada em 26/11/2025), com efeitos a partir de **01/01/2026**.\n**Duas medidas principais**: (1) **Isenção IRPF** para rendimentos\naté **R$ 5.000/mês** + redução decrescente até R$ 7.350; (2)\n**Tributação de dividendos**, **IRRF 10%** sobre distribuição\n> R$ 50.000/mês por PJ pagadora a PF. Cria o **IRPFM** (Imposto de\nRenda da Pessoa Física Mínimo) para rendas anuais > R$ 600.000.\n**Regra de transição**: lucros deliberados até 31/12/2025 + pagos\n2026-2028 ficam isentos. Altera Leis 9.249 + 9.250. Reverte a\nisenção de dividendos vigente desde 1996."
+description: "Usar para pesquisar ou analisar: Reforma do IRPF + Tributação de Dividendos (Lei 15.270/2025, ex-PL 1.087). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reforma IR, Lei 15.270/2025 (ex-PL 1.087/2025)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

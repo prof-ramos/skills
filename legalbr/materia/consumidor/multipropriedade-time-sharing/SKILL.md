@@ -5,8 +5,8 @@ title: "Multipropriedade (Time-Sharing): Lei 13.777/2018"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/contratos-clausulas-abusivas/multipropriedade-time-sharing.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/multipropriedade-time-sharing/SKILL.md"
 triggers:
   - "multipropriedade"
   - "time-sharing"
@@ -16,10 +16,15 @@ triggers:
   - "cota de tempo"
   - "hotel-cota"
   - "venda de cota em resort"
-description: "Multipropriedade sob Lei 13.777/2018 (alterou CC arts. 1.358-B\na 1.358-U) + CDC: regime de propriedade especial dividido em\nfrações de tempo (≥7 dias); direito real; registro obrigatório\nna matrícula; venda em fila / oferta turística; vinculação ao\nCDC nos elementos consumeristas; cláusulas abusivas em taxas;\nrecall pelo consumidor (CDC 49, 7 dias) em compra fora do\nestabelecimento (não no presencial)."
+description: "Usar para pesquisar ou analisar: Multipropriedade (Time-Sharing): Lei 13.777/2018. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multipropriedade (Time-Sharing)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

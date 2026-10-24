@@ -5,8 +5,8 @@ title: "Políticas Internas: Código de Conduta e Conflito de Interesses"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/politicas-internas-conduta-conflito.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/politicas-internas-conduta-conflito/SKILL.md"
 triggers:
   - "código de ética"
   - "código de conduta"
@@ -15,10 +15,15 @@ triggers:
   - "brindes hospitalidades"
   - "regimento interno"
   - "política compliance"
-description: "Políticas internas corporativas: código de ética e conduta,\nconflito de interesses (LSA 156 + Lei 12.813/2013, agente\npúblico + Lei 12.846), brindes/presentes/hospitalidades,\ndoações (Lei 9.504, vedada PJ, + 13.165/15), patrocínios,\ncontratações com partes relacionadas (LSA 245), atividades\nparalelas, voluntariado, redes sociais e arquitetura de\npolíticas (hierarquia + governança + atualização + reporting)."
+description: "Usar para pesquisar ou analisar: Políticas Internas: Código de Conduta e Conflito de Interesses. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Políticas Internas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura de hierarquia
 

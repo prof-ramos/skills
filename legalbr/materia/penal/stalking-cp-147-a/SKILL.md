@@ -5,8 +5,8 @@ title: "Stalking, Perseguição (CP 147-A, Lei 14.132/2021)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/stalking-cp-147-a.md"
+version: 2
+sourcePath: "legalbr/materia/penal/stalking-cp-147-a/SKILL.md"
 triggers:
   - "stalking"
   - "perseguição"
@@ -17,10 +17,15 @@ triggers:
   - "ação penal representação"
   - "LCP 65 revogada"
   - "doxxing"
-description: "Stalking sob CP 147-A (Lei 14.132/2021): perseguir REITERADAMENTE\nameaçando integridade física/psicológica + restringindo locomoção\n+ invadindo liberdade/privacidade, recl. 6m-2a; §1 aumento 1/2\n(criança/idoso + mulher por gênero + concurso/arma); AP pública\nCONDICIONADA à representação (CP 147-A §3, sem exceção legal para\nviolência doméstica; entendimento prevalente STJ); decadência de\n12 meses em VD contra mulher (Lei 15.438/2026); revogou LCP 65;\ncrime HABITUAL."
+description: "Usar para pesquisar ou analisar: Stalking, Perseguição (CP 147-A, Lei 14.132/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Stalking (CP 147-A)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal: Lei 14.132/2021
 

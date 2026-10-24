@@ -5,8 +5,8 @@ title: "Marco Legal das Startups (LC 182/2021 + Inova Simples + Sandbox)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/marco-startups-lc-182.md"
+version: 2
+sourcePath: "legalbr/materia/societario/marco-startups-lc-182/SKILL.md"
 triggers:
   - "Marco Legal de Startups"
   - "LC 182/2021"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 13.243/2016"
   - "CPSI"
   - "debêntures conversíveis"
-description: "LC 182/2021 Marco das Startups: PJ nascente + INOVAÇÃO em modelo\nde negócios + receita até R$ 16mi + 10 anos CNPJ + Inova Simples\nOU declaração; admite ME/EPP/EIRELI/SLU/empresária/coop/S.A.;\ninvestimentos art. 5 (mútuo conversível + opção + debêntures +\nSCP + INVESTIDOR-ANJO LC 155 NÃO responsabilidade + sem voto);\nSANDBOX REGULATÓRIO art. 11; Inova Simples LC 167/2019."
+description: "Usar para pesquisar ou analisar: Marco Legal das Startups (LC 182/2021 + Inova Simples + Sandbox). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Legal das Startups
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## LC 182/2021
 

@@ -5,8 +5,8 @@ title: "Contrato de Representação Comercial (Lei 4.886/65)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-representacao-comercial.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-representacao-comercial/SKILL.md"
 triggers:
   - "representação comercial"
   - "Lei 4.886"
@@ -16,10 +16,15 @@ triggers:
   - "aviso prévio representação"
   - "indenização 1/12"
   - "art. 27 j"
-description: "Representação comercial (Lei 4.886/65): registro CORE;\nvedação del credere (43); aviso prévio 30d ou 1/3 (34);\nindenização 1/12 (27 j); base = toda a relação (STJ); prescrição 5 anos."
+description: "Usar para pesquisar ou analisar: Contrato de Representação Comercial (Lei 4.886/65). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Representação Comercial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

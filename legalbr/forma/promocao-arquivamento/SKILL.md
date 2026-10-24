@@ -5,8 +5,8 @@ title: "Promoção de Arquivamento (art. 28 CPP)"
 category: "forma"
 materia: null
 documentType: "promocao-arquivamento"
-version: 1
-sourcePath: "lib/skills/official/forma/promocao-arquivamento.md"
+version: 2
+sourcePath: "legalbr/forma/promocao-arquivamento/SKILL.md"
 triggers:
   - "promoção de arquivamento"
   - "art. 28 CPP redação Lei 13.964/2019"
@@ -15,10 +15,15 @@ triggers:
   - "ADI 6.298 STF modulação"
   - "remessa à instância revisora do MP"
   - "insuficiência de justa causa ou de provas"
-description: "Promoção de arquivamento (art. 28 CPP pós Lei 13.964/2019, ADI 6.298\nSTF 2023): o MP ORDENA o arquivamento (não mais requer ao juiz),\ncomunica vítima, investigado e autoridade policial, e remete à\ninstância revisora (CCR no MPF; CSMP ou PGJ nos MPEs). Fundamentar\natipicidade, excludente, extinção da punibilidade ou ausência de\njusta causa, com individualização por fato e por investigado."
+description: "Usar para redigir ou revisar: Promoção de Arquivamento (art. 28 CPP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Promoção de Arquivamento (art. 28 CPP)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

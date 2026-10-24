@@ -5,8 +5,8 @@ title: "Fato do Produto e Serviço (CDC 12-14 e 17, bystander)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/fato-produto-servico-cdc-12.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/fato-produto-servico-cdc-12/SKILL.md"
 triggers:
   - "fato do produto"
   - "fato do serviço"
@@ -22,10 +22,15 @@ triggers:
   - "profissional liberal"
   - "risco do desenvolvimento"
   - "corpo estranho em alimento"
-description: "Fato do produto/serviço sob CDC 12-14 + 17: objetiva (12, cadeia\nsolidária); comerciante subsidiário (13); serviço (14, liberal\n§4 subjetiva); bystander (17); Súm. 130 STJ; fornecedor aparente;\ncorpo estranho em alimento (dano moral sem ingestão, REsp\n1.899.304/SP, 2ª Seção); prescrição 5 anos (CDC 27)."
+description: "Usar para pesquisar ou analisar: Fato do Produto e Serviço (CDC 12-14 e 17, bystander). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fato do Produto e Serviço
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CDC 12, Fato do PRODUTO
 

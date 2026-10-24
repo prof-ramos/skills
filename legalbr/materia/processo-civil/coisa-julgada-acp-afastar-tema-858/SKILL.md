@@ -5,8 +5,8 @@ title: "ACP para Afastar Coisa Julgada Após Biênio Rescisório (Tema 858 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/coisa-julgada-acp-afastar-tema-858.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/coisa-julgada-acp-afastar-tema-858/SKILL.md"
 triggers:
   - "Tema 858 STF"
   - "ACP afastar coisa julgada"
@@ -16,10 +16,15 @@ triggers:
   - "coisa julgada inconstitucional"
   - "LACP coisa julgada"
   - "desapropriação coisa julgada"
-description: "Tema 858 STF (RE 1.010.819): a coisa julgada formada em AÇÃO\nDE DESAPROPRIAÇÃO NÃO OBSTA a propositura de AÇÃO CIVIL\nPÚBLICA em defesa do PATRIMÔNIO PÚBLICO para discutir a\ndominialidade do bem expropriado, ainda que ultrapassado o\nprazo da ação rescisória. Honorários na desapropriação só\nsão devidos se a indenização for efetivamente paga ao\ndesapropriado."
+description: "Usar para pesquisar ou analisar: ACP para Afastar Coisa Julgada Após Biênio Rescisório (Tema 858 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ACP para Afastar Coisa Julgada Após Biênio Rescisório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

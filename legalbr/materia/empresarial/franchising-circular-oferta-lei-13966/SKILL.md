@@ -5,8 +5,8 @@ title: "Franchising e Circular de Oferta de Franquia (COF, Lei 13.966/19)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/franchising-circular-oferta-lei-13966.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/franchising-circular-oferta-lei-13966/SKILL.md"
 triggers:
   - "franchising"
   - "franquia"
@@ -19,10 +19,15 @@ triggers:
   - "taxa de filiação"
   - "arbitragem franquia"
   - "Lei 8.955 revogada"
-description: "Franquia (Lei 13.966/19 substituiu Lei 8.955/94): Circular de Oferta\nde Franquia (COF) obrigatória 10 dias antes, conteúdo mínimo (art.\n2º), penalidades por descumprimento (anulação + dano), royalty,\ntaxa de franquia, território, não-relação trabalhista (art. 1º),\nconexão com Lei 8.137 e CDC."
+description: "Usar para pesquisar ou analisar: Franchising e Circular de Oferta de Franquia (COF, Lei 13.966/19). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Franchising e Circular de Oferta de Franquia (Lei 13.966/19)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

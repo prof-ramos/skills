@@ -5,8 +5,8 @@ title: "Súmula Vinculante 58, Crédito Presumido de IPI em Insumos Isentos"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/sumula-vinculante-58-credito-presumido-ipi-isentos.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-58-credito-presumido-ipi-isentos/SKILL.md"
 triggers:
   - "SV 58"
   - "Súmula Vinculante 58"
@@ -19,10 +19,15 @@ triggers:
   - "RE 398365"
   - "RE 566819"
   - "Tema 844"
-description: "SV 58 STF (24/04/2020): \"Inexiste direito a crédito presumido\nde IPI relativamente à entrada de insumos isentos, sujeitos à\nalíquota zero ou não tributáveis, o que não contraria o\nprincípio da não cumulatividade.\" Origem: RE 398.365 (Tema 844)\n+ RE 566.819; supera jurisprudência anterior; CF 153 §3 II."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 58, Crédito Presumido de IPI em Insumos Isentos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 58, Crédito Presumido de IPI
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

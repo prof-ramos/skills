@@ -5,8 +5,8 @@ title: "Concurso de Crimes (CP 69 material + CP 70 formal + CP 71 continuado)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/concurso-crimes-cp-69-71.md"
+version: 2
+sourcePath: "legalbr/materia/penal/concurso-crimes-cp-69-71/SKILL.md"
 triggers:
   - "concurso de crimes"
   - "CP 69"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.192 STJ"
   - "Súm. 711 STF"
   - "Súm. 497 STF"
-description: "Concursos sob CP 69-71: material (pluralidade de condutas, soma);\nformal próprio (uma conduta + crimes, aumento 1/6 a 1/2); formal\nimpróprio (desígnios autônomos, soma); continuado (mesma espécie\n+ tempo/lugar/maneira, aumento 1/6 a 2/3, Súm. 659 STJ); continuado\nespecífico (até triplo); Tema 1.192 STJ (roubo único × vítimas =\nformal); Tema 1.353 STJ (168-A × 337-A sem continuidade); CP\n359-M-A (Lei 15.402/2026, concurso formal obrigatório); Súm. 711."
+description: "Usar para pesquisar ou analisar: Concurso de Crimes (CP 69 material + CP 70 formal + CP 71 continuado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concurso de Crimes (CP 69-71)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 69: concurso MATERIAL (real)
 

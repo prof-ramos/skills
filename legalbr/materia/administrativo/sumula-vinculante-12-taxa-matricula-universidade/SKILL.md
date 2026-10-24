@@ -5,8 +5,8 @@ title: "Súmula Vinculante 12, Taxa de Matrícula em Universidade Pública (STF)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/sumula-vinculante-12-taxa-matricula-universidade.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-12-taxa-matricula-universidade/SKILL.md"
 triggers:
   - "Súmula Vinculante 12"
   - "SV 12"
@@ -17,10 +17,15 @@ triggers:
   - "cobrança universidade pública"
   - "matrícula gratuita"
   - "UFG taxa"
-description: "SV 12 STF (13/08/2008): \"A cobrança de taxa de matrícula nas\nuniversidades públicas viola o disposto no art. 206, IV, da\nConstituição Federal\"; RE 500.171 (UFG); gratuidade do ensino\noficial é princípio sem limitação por nível; alcança matrícula,\nrematrícula e taxas correlatas; ressalva para cursos de\nespecialização lato sensu pagos (RE 597.854, Tema 535)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 12, Taxa de Matrícula em Universidade Pública (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 12, Taxa de Matrícula em Universidade Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

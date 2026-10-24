@@ -5,8 +5,8 @@ title: "Competência da Vara da Infância e Juventude. Matrícula, Creche e Dire
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-vara-infancia-matricula-creche-tema-1058.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-vara-infancia-matricula-creche-tema-1058/SKILL.md"
 triggers:
   - "Tema 1.058 STJ"
   - "competência Vara da Infância"
@@ -18,10 +18,15 @@ triggers:
   - "infância x fazenda pública"
   - "prioridade absoluta da criança"
   - "declinação de ofício vara da infância"
-description: "Tema 1.058 STJ (REsp 1.846.781/MS): competência ABSOLUTA da Justiça da Infância\ne da Juventude para causas de matrícula de menores em creches ou escolas (ECA\narts. 148, IV, e 209), independentemente de situação de risco (ECA 98). Conflito\ncom varas de Fazenda Pública, foro do local da ação/omissão, declinação de\nofício (CPC 64) e distinguishing (colégio militar, pretensão indenizatória)."
+description: "Usar para pesquisar ou analisar: Competência da Vara da Infância e Juventude. Matrícula, Creche e Direitos de Menores (Tema 1.058 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência da Vara da Infância e Juventude (Matrícula, Creche e Direitos de Menores)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tema 1.058 STJ
 

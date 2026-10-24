@@ -5,8 +5,8 @@ title: "Ação Previdenciária (concessão + revisão de benefício)"
 category: "forma"
 materia: null
 documentType: "acao-previdenciaria"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-previdenciaria.md"
+version: 2
+sourcePath: "legalbr/forma/acao-previdenciaria/SKILL.md"
 triggers:
   - "ação previdenciária"
   - "concessão de benefício INSS"
@@ -16,10 +16,15 @@ triggers:
   - "pensão por morte INSS"
   - "DIB judicial"
   - "reafirmação da DER"
-description: "Petição inicial para concessão/revisão de benefício no RGPS (JEF/JF):\nprévio requerimento administrativo (Tema 350 STF); DER + DIB + reafirmação\n(Tema 995 STJ); prova técnica pericial; tutela provisória\ncom base em indeferimento + verossimilhança; perícia técnica (Lei 10.259\nart. 12) + avaliação social (PcD/BPC); cálculo SB pós EC 103; honorários\nSúm. 111 STJ."
+description: "Usar para redigir ou revisar: Ação Previdenciária (concessão + revisão de benefício). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Previdenciária
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

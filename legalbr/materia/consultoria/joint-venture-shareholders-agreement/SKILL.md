@@ -5,8 +5,8 @@ title: "Joint Venture e Shareholders Agreement (JV)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/ma-operacoes-societarias/joint-venture-shareholders-agreement.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/joint-venture-shareholders-agreement/SKILL.md"
 triggers:
   - "joint venture"
   - "JV 50/50"
@@ -16,10 +16,15 @@ triggers:
   - "consórcio LSA 278"
   - "aliança estratégica"
   - "shareholders agreement JV"
-description: "Joint venture (JV) corporativa (NewCo/SPE) e contratual\n(consórcio Lei 6.404 art. 278-279): governance 50/50,\ncapital contributions (cash + in-kind + IP), restrições à\nconcorrência, sharing de tecnologia + IP background/foreground,\ndeadlock-buster (shotgun, Texas shootout, dissolution put),\nexit mechanics, notificação ao CADE (Lei 12.529 art. 90 IV +\nResolução CADE 17/2016 contratos associativos) e regimes\ntributários."
+description: "Usar para pesquisar ou analisar: Joint Venture e Shareholders Agreement (JV). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Joint Venture (JV)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipos
 

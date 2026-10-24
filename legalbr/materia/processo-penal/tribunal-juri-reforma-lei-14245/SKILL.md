@@ -5,8 +5,8 @@ title: "Tribunal do Júri e Lei Mariana Ferrer (Lei 14.245/2021)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juri/tribunal-juri-reforma-lei-14245.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/tribunal-juri-reforma-lei-14245/SKILL.md"
 triggers:
   - "Tribunal do Júri"
   - "Lei Mariana Ferrer"
@@ -18,10 +18,15 @@ triggers:
   - "legítima defesa da honra"
   - "feminicídio Júri"
   - "Tema 1.451 STF"
-description: "Tribunal do Júri pós-Lei 14.245/2021 (Lei Mariana Ferrer): vedação a\nmanifestações que ofendam a dignidade da vítima/testemunha (CPP 400-A);\naumento de pena coação (CP 344 §único) se crime contra dignidade\nsexual; ADPF 779 vedou tese da legítima defesa da honra (efeito\nvinculante atingindo o Conselho de Sentença); Protocolo CNJ Res.\n492/2023 (perspectiva de gênero) aplicável ao Júri; feminicídio\nqualificadora objetiva (STJ AgRg HC 808.882); Tema 1.451 STF\n(18/06/2026): nulidade das provas obtidas em crimes sexuais com\ndesrespeito aos direitos fundamentais da vítima."
+description: "Usar para pesquisar ou analisar: Tribunal do Júri e Lei Mariana Ferrer (Lei 14.245/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tribunal do Júri pós-Lei 14.245
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Processo Penal Militar (CPPM). IPM, Menagem, Conselhos de Justiça e Rec
 category: "materia"
 materia: "militar"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/militar/processo-penal-militar-cppm.md"
+version: 2
+sourcePath: "legalbr/materia/militar/processo-penal-militar-cppm/SKILL.md"
 triggers:
   - "CPPM DL 1.002"
   - "inquérito policial militar"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 13.774/2018 juiz militar"
   - "prisão preventiva CPPM 255"
   - "apelação CPPM"
-description: "Microssistema do CPPM (DL 1.002/1969): fontes supletivas (art. 3º), IPM\n(arts. 9-28, prazos 20/40 dias), prisão preventiva (254-255), menagem\n(263-269), instrução provisória de deserção (451-457) e de insubmissão\n(463 ss.), conselhos de justiça e juiz federal monocrático (Lei 8.457/92,\nLei 13.774/2018) e recursos (RESE 516, apelação 526-529, embargos 538,\nrevisão 550). Aplica-se também às JM estaduais (art. 6º)."
+description: "Usar para pesquisar ou analisar: Processo Penal Militar (CPPM). IPM, Menagem, Conselhos de Justiça e Recursos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Processo Penal Militar (CPPM)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Microssistema processual completo do **DL 1.002/1969**. Aplica-se aos processos da JM da União e, no que for aplicável (salvo organização judiciária, recursos e execução), aos processos da **Justiça Militar Estadual** (CPPM art. 6º).
 

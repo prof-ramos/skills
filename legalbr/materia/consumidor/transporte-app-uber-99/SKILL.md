@@ -5,8 +5,8 @@ title: "Transporte por Aplicativo (Uber, 99, etc.)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/transporte-e-turismo/transporte-app-uber-99.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/transporte-app-uber-99/SKILL.md"
 triggers:
   - "Uber"
   - "aplicativo 99"
@@ -18,10 +18,15 @@ triggers:
   - "cobrança indevida corrida"
   - "cancelamento de viagem"
   - "rota alterada"
-description: "Transporte por aplicativo (Uber, 99, etc.) sob Lei 13.640/2018\n+ Lei 12.587/2012 + CDC: relação de consumo plataforma →\nconsumidor; responsabilidade solidária na cadeia (CDC 7 par.\núnico); responsabilidade objetiva por defeito do serviço (CDC\n14) inclusive condutor; cláusula de incolumidade (CC 734);\nfortuito externo (assalto isolado); cobrança indevida, dobra;\nproteção em assédio sexual e abuso pelo motorista."
+description: "Usar para pesquisar ou analisar: Transporte por Aplicativo (Uber, 99, etc.). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transporte por Aplicativo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

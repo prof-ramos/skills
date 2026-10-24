@@ -5,8 +5,8 @@ title: "Mandado de Injunção (CF 5 LXXI + Lei 13.300/2016)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/mandado-injuncao-lei-13300.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/mandado-injuncao-lei-13300/SKILL.md"
 triggers:
   - "mandado de injunção"
   - "CF 5 LXXI"
@@ -17,10 +17,15 @@ triggers:
   - "MI 670"
   - "Tema 942 STF"
   - "falta de norma regulamentadora"
-description: "Mandado de injunção sob CF 5 LXXI + Lei 13.300/2016: omissão de\nnorma regulamentadora inviabilizando direito constitucional;\nlegitimidade individual (titular) e coletiva (MP, partido,\nsindicato/entidade, Defensoria); concretismo codificado (art. 8:\nfixa diretamente as condições); exige direito constitucional, não\ninfraconstitucional; SV 33 e Tema 942 STF (aposentadoria especial\ndo servidor)."
+description: "Usar para pesquisar ou analisar: Mandado de Injunção (CF 5 LXXI + Lei 13.300/2016). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Injunção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

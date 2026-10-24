@@ -5,8 +5,8 @@ title: "Crimes contra Ordem Tributária (Lei 8.137/1990 + SV 24 + Lei 10.684/200
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/crimes-ordem-tributaria-8137.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/crimes-ordem-tributaria-8137/SKILL.md"
 triggers:
   - "crimes contra ordem tributária"
   - "Lei 8.137/1990"
@@ -20,10 +20,15 @@ triggers:
   - "RHC 163.334"
   - "apropriação indébita previdenciária CP 168-A"
   - "ADI 1.571"
-description: "Lei 8.137/1990 crimes contra ordem trib./econ./consumo: art. 1\nMATERIAL supressão/redução (recl. 2-5a, exige resultado) + art.\n2 FORMAL sonegação (det. 6m-2a) + art. 3 funcionários; ADI 1.571\nconstitucional; SV 24 (HC 81.611: não tipifica art. 1 ANTES do\nLANÇAMENTO DEFINITIVO, condição obj. punibilidade); CTN 151 III\nsuspende exigibilidade no PAF; Lei 10.684/2003 art. 9 §2 PAGAMENTO\nINTEGRAL extingue + parcelamento SUSPENDE (Lei 12.382/2011);\nRHC 163.334 ICMS próprio."
+description: "Usar para pesquisar ou analisar: Crimes contra Ordem Tributária (Lei 8.137/1990 + SV 24 + Lei 10.684/2003). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra Ordem Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 8.137/1990
 

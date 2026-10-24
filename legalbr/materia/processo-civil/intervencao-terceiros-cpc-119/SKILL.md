@@ -5,8 +5,8 @@ title: "Intervenção de Terceiros (CPC 119-138)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/intervencao-terceiros-cpc-119.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/intervencao-terceiros-cpc-119/SKILL.md"
 triggers:
   - "intervencao de terceiros"
   - "assistencia simples"
@@ -21,10 +21,15 @@ triggers:
   - "admissao de amicus curiae"
   - "CPC 138"
   - "litisconsorcio facultativo eventual"
-description: "Intervenção de terceiros no CPC/2015 (119-138): assistência simples\n(CPC 121) e litisconsorcial (CPC 124); denunciação da lide (CPC\n125, agora facultativa); chamamento ao processo (CPC 130, fiança/\nresponsabilidade solidária); incidente de desconsideração (CPC\n133); amicus curiae (CPC 138). Nomeação à autoria EXTINTA."
+description: "Usar para pesquisar ou analisar: Intervenção de Terceiros (CPC 119-138). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intervenção de Terceiros
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Visão geral CPC/2015
 

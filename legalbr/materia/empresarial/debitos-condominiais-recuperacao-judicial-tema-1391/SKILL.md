@@ -5,8 +5,8 @@ title: "Débitos Condominiais na Recuperação Judicial (Tema 1.391 STJ)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/debitos-condominiais-recuperacao-judicial-tema-1391.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/debitos-condominiais-recuperacao-judicial-tema-1391/SKILL.md"
 triggers:
   - "Tema 1.391 STJ"
   - "débito condominial recuperação judicial"
@@ -15,10 +15,15 @@ triggers:
   - "obrigação propter rem recuperação"
   - "LRF art. 49 créditos sujeitos"
   - "execução condomínio juízo cível"
-description: "Tema 1.391 STJ: débitos condominiais, MESMO ANTERIORES ao pedido de\nrecuperação judicial, são créditos EXTRACONCURSAIS; não se submetem\nao juízo da recuperação e podem ser executados no juízo cível\ncompetente. Fundamento: natureza propter rem e de trato sucessivo da\ncota condominial, ligada à conservação da própria coisa; não se\naplica o art. 49 da Lei 11.101/2005."
+description: "Usar para pesquisar ou analisar: Débitos Condominiais na Recuperação Judicial (Tema 1.391 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Débitos Condominiais na Recuperação Judicial (Tema 1.391 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.391 STJ)
 

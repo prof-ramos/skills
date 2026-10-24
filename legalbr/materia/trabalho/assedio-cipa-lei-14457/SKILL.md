@@ -5,8 +5,8 @@ title: "Assédio e CIPA (Lei 14.457/22 + CIPA-A)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/assedio-cipa-lei-14457.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/assedio-cipa-lei-14457/SKILL.md"
 triggers:
   - "assédio moral"
   - "assédio sexual"
@@ -17,10 +17,15 @@ triggers:
   - "código de conduta"
   - "comissão interna de prevenção de acidentes e assédio"
   - "programa emprega mais mulheres"
-description: "Lei 14.457/22 (Programa Emprega + Mulheres): a CIPA passa a se chamar\nComissão Interna de Prevenção de Acidentes e de Assédio (mantida a\nsigla Cipa; \"CIPA-A\" é denominação corrente) e recebe atribuições de\nprevenção ao assédio. Medidas obrigatórias do art. 23: normas de\nconduta, canal de denúncia com anonimato, capacitação a cada 12 meses.\nConexão CLT 482 (justa causa), Lei 13.608/18 (proteção ao informante)\ne Lei 11.340/06 (Lei Maria da Penha, quando aplicável)."
+description: "Usar para pesquisar ou analisar: Assédio e CIPA (Lei 14.457/22 + CIPA-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assédio e CIPA (Lei 14.457/22)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

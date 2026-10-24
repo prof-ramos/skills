@@ -5,8 +5,8 @@ title: "Prescrição Intercorrente em PAD Estadual / Municipal (Tema 1.294 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/prescricao-intercorrente-pad-estados-municipios-tema-1294.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/prescricao-intercorrente-pad-estados-municipios-tema-1294/SKILL.md"
 triggers:
   - "Tema 1.294 STJ"
   - "prescrição intercorrente processo administrativo estadual municipal"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 9.873/99 PAD estados"
   - "PAD prescrição estadual"
   - "omissão legislativa prescrição"
-description: "Tema 1.294 STJ (1ª Seção, j. 10/12/2025): o Decreto 20.910/1932 NÃO\ndispõe sobre prescrição INTERCORRENTE e NÃO pode ser usado como\nreferência normativa para reconhecê-la em processos administrativos\nESTADUAIS e MUNICIPAIS, mesmo por analogia. Lacuna deve ser\npreenchida por norma local; sem ela, não há prescrição intercorrente."
+description: "Usar para pesquisar ou analisar: Prescrição Intercorrente em PAD Estadual / Municipal (Tema 1.294 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Intercorrente em PAD Estadual / Municipal (Tema 1.294 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.294 STJ, 1ª Seção, j. 10/12/2025)
 

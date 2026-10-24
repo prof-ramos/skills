@@ -5,8 +5,8 @@ title: "Ação Monitória (CPC 700-702)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/monitoria-cpc-700.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/monitoria-cpc-700/SKILL.md"
 triggers:
   - "ação monitória"
   - "CPC 700"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 504 STJ"
   - "embargos à monitória"
   - "cheque prescrito"
-description: "Monitória sob CPC 700-702: crédito de soma + entrega de coisa +\nfazer/não fazer com prova escrita SEM eficácia executiva; mandado\nem 15 dias; paga = 5% honorários + isenção custas; não paga =\ntítulo executivo automático; embargos em 15 dias (CPC 702); cabe\ncontra Fazenda (Súm. 339); prescrição 5 anos para cheque/nota\npromissória (Súms. 503-504)."
+description: "Usar para pesquisar ou analisar: Ação Monitória (CPC 700-702). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Monitória
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 700)
 

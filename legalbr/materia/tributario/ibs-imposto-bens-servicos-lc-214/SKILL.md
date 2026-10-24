@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/ibs-imposto-bens-servicos-lc-214.md"
+sourcePath: "legalbr/materia/tributario/ibs-imposto-bens-servicos-lc-214/SKILL.md"
 triggers:
   - "IBS"
   - "Imposto sobre Bens e Serviços"
@@ -16,10 +16,15 @@ triggers:
   - "substituição ICMS ISS"
   - "princípio do destino"
   - "imposto dual estadual municipal"
-description: "IBS sob CF 156-A, EC 132 e LC 214: competência compartilhada, destino,\nnão cumulatividade, alíquotas, crédito, regimes e transição do ICMS/ISS,\ncom cronograma dos documentos fiscais eletrônicos."
+description: "Usar para pesquisar ou analisar: IBS, Imposto sobre Bens e Serviços (CF 156-A + EC 132/2023 + LC 214/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IBS, Imposto sobre Bens e Serviços
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

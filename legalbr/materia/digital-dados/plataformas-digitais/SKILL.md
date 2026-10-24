@@ -6,7 +6,7 @@ category: "materia"
 materia: "digital-dados"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/digital-dados/plataformas-digitais.md"
+sourcePath: "legalbr/materia/digital-dados/plataformas-digitais/SKILL.md"
 triggers:
   - "marketplace"
   - "gig economy"
@@ -18,10 +18,15 @@ triggers:
   - "Marco da IA"
   - "motorista de aplicativo vínculo"
   - "subordinação algorítmica"
-description: "Responsabilidade civil de plataformas digitais sob o CDC, o Marco Civil\n(Lei 12.965/14) e a LGPD: marketplaces e solidariedade na cadeia de\nfornecimento; remoção de conteúdo, anúncios pagos e contas inautênticas\napós o STF; gig economy, terceirização e vínculo de emprego; deveres\nde influenciadores e regulação emergente da IA."
+description: "Usar para pesquisar ou analisar: Plataformas Digitais (marketplaces, gig economy, IA). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plataformas Digitais (matéria)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marketplaces (ML, Amazon, Shopee, Magalu)
 

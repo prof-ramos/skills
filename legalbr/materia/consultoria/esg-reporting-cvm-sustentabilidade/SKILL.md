@@ -5,8 +5,8 @@ title: "ESG e Relato de Sustentabilidade (RCVM 193/23 + ISSB)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/esg-reporting-cvm-sustentabilidade.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/esg-reporting-cvm-sustentabilidade/SKILL.md"
 triggers:
   - "relato de sustentabilidade"
   - "ESG reporting"
@@ -18,10 +18,15 @@ triggers:
   - "mercado de carbono SBCE"
   - "due diligence ESG"
   - "cláusulas ESG em contratos"
-description: "Relato de sustentabilidade corporativa, RCVM 193/23 (companhias\nabertas; regime voluntário desde a RCVM 244/26, \"pratique ou\nexplique\"), padrão ISSB (IFRS S1 + S2), Lei 15.042/24 (SBCE, mercado\nde carbono regulado), Lei 14.300/22 (geração distribuída) e Marco do\nSaneamento. Estrutura de governança ESG, divulgação climática\n(TCFD), métricas, due diligence ESG e cadeia de valor."
+description: "Usar para pesquisar ou analisar: ESG e Relato de Sustentabilidade (RCVM 193/23 + ISSB). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ESG e Relato de Sustentabilidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

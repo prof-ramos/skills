@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "acao-cobranca"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-cobranca.md"
+sourcePath: "legalbr/forma/acao-cobranca/SKILL.md"
 triggers:
   - "ação de cobrança"
   - "cobrança judicial"
@@ -15,10 +15,15 @@ triggers:
   - "ação de cobrança pelo rito comum CPC 318"
   - "cobrança de obrigação líquida certa e exigível sem título executivo"
   - "ação de cobrança em vez de monitória CPC 700"
-description: "Ação de cobrança pelo rito comum (CPC 318+) quando inexistente título\nexecutivo extrajudicial. Causa de pedir: obrigação líquida, certa e\nexigível. Demonstrativo discriminado do débito. Distinção com\nmonitoria (CPC 700)."
+description: "Usar para redigir ou revisar: Ação de Cobrança. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Cobrança
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento
 

@@ -5,8 +5,8 @@ title: "Bens Públicos (CC 99-103 + CF 20-26 + Súm. 340 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/bens-publicos-cc-99.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/bens-publicos-cc-99/SKILL.md"
 triggers:
   - "bens públicos"
   - "CC 99"
@@ -21,10 +21,15 @@ triggers:
   - "imprescritibilidade bem público"
   - "Lei 9.636/1998"
   - "terrenos de marinha"
-description: "Bens públicos CC 99 classificação tripartite (I uso comum povo +\nII uso especial + III DOMINICAIS); CC 100-101 INALIENABILIDADE\nrelativa (afetação); CC 103 IMPRESCRITIBILIDADE (Súm. 340 STF +\nCF 183 §3 + 191 par. único); CF 20 bens União + CF 26 Estados;\nLei 9.636/1998 terrenos de marinha; Lei 14.133/2021 alienação\ndominicais (autorização legislativa + avaliação + leilão)."
+description: "Usar para pesquisar ou analisar: Bens Públicos (CC 99-103 + CF 20-26 + Súm. 340 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bens Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 98: definição
 

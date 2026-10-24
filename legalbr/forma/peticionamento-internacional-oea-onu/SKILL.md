@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "peticionamento-internacional"
 version: 2
-sourcePath: "lib/skills/official/forma/peticionamento-internacional-OEA-ONU.md"
+sourcePath: "legalbr/forma/peticionamento-internacional-oea-onu/SKILL.md"
 triggers:
   - "CIDH"
   - "Comissão IDH"
@@ -18,10 +18,15 @@ triggers:
   - "art. 44 CADH"
   - "Comitê contra a Tortura art. 22"
   - "comunicação individual tortura ONU"
-description: "Orienta petições à CIDH e submissões à Corte IDH, além de comunicações a\nComitês da ONU. Distingue requisitos do SIDH dos regimes de cada tratado,\ninclusive Convenção contra a Tortura, art. 22 (Decreto 13.040/2026)."
+description: "Usar para redigir ou revisar: Peticionamento Internacional (CIDH, Corte IDH, Comitês ONU). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Peticionamento Internacional (CIDH, Corte IDH, Comitês ONU)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

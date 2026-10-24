@@ -5,8 +5,8 @@ title: "ProBioQAV e Combustível Sustentável de Aviação (SAF)"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/probioqav-combustivel-sustentavel-aviacao.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/probioqav-combustivel-sustentavel-aviacao/SKILL.md"
 triggers:
   - "ProBioQAV"
   - "combustível sustentável de aviação"
@@ -16,10 +16,15 @@ triggers:
   - "Decreto 13.094/2026"
   - "meta anual ProBioQAV companhias aéreas"
   - "certificação ANP SAF"
-description: "ProBioQAV do Decreto 13.094/2026: metas de redução, certificação de SAF, CS-SAF, Book and Claim, atribuições de ANP e ANAC e prevenção de dupla contagem de atributos ambientais."
+description: "Usar para pesquisar ou analisar: ProBioQAV e Combustível Sustentável de Aviação (SAF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ProBioQAV e combustível sustentável de aviação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura regulatória
 

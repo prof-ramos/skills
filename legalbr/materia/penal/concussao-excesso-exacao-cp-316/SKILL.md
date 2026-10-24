@@ -5,8 +5,8 @@ title: "Concussão + Excesso de Exação (CP 316 + Lei 13.964/2019)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/concussao-excesso-exacao-cp-316.md"
+version: 2
+sourcePath: "legalbr/materia/penal/concussao-excesso-exacao-cp-316/SKILL.md"
 triggers:
   - "concussão"
   - "CP 316"
@@ -17,10 +17,15 @@ triggers:
   - "metus publicae potestatis"
   - "exigência de propina"
   - "cobrança vexatória de tributo"
-description: "Concussão CP 316 caput: EXIGIR (com metus) vantagem indevida +\nfuncionário público + em razão da função, recl. 2-12a + multa\n(Lei 13.964/2019 majorou); §1 excesso de exação (tributo\nindevido OU meio vexatório, recl. 3-8a); §2 desvio de exação\n(recl. 2-12a); crime FORMAL e único (exigência consuma; recebimento\né exaurimento); distinção crítica com corrupção passiva (solicita)."
+description: "Usar para pesquisar ou analisar: Concussão + Excesso de Exação (CP 316 + Lei 13.964/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concussão + Excesso de Exação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 316 caput: CONCUSSÃO
 

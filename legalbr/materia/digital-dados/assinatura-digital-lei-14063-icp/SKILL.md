@@ -5,8 +5,8 @@ title: "Assinatura Eletrônica + Digital (Lei 14.063/2020 + ICP-Brasil)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/assinatura-digital-lei-14063-icp.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/assinatura-digital-lei-14063-icp/SKILL.md"
 triggers:
   - "Lei 14.063"
   - "assinatura eletrônica"
@@ -17,10 +17,15 @@ triggers:
   - "MP 2.200-2"
   - "gov.br assinatura"
   - "Comitê Gestor ICP-Brasil"
-description: "Assinatura eletrônica + digital, **Lei 14.063/2020** (23/09/2020) +\n**MP 2.200-2/2001** (ICP-Brasil). **Três níveis**: (i) **simples**\n , identificador/método pactuado; (ii) **avançada**, certificado\nfora da ICP-Brasil, com integridade comprovada; (iii) **qualificada**\n , **certificado digital ICP-Brasil** (presunção de autenticidade\n+ integridade, MP 2.200-2 art. 10 §1). Aplicação: interações\ncom Poder Público + PJ + saúde. Comitê Gestor ICP-Brasil, ITI/MCTI.\nPlataforma **gov.br** com assinatura integrada. Convergência com\nLei 6.015 (Registros Públicos) + Lei 14.382 (SERP). Atos jurídicos\ndiversos exigem qualificada (ex. prescrição médica controlada)."
+description: "Usar para pesquisar ou analisar: Assinatura Eletrônica + Digital (Lei 14.063/2020 + ICP-Brasil). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assinatura Eletrônica + Digital
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

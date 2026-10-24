@@ -5,8 +5,8 @@ title: "Unificação de Penas e Data-Base para Benefícios (Temas 1.006, 1.165 e
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/unificacao-penas-data-base-temas-1006-1165.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/unificacao-penas-data-base-temas-1006-1165/SKILL.md"
 triggers:
   - "Tema 1.006 STJ"
   - "Tema 1.165 STJ"
@@ -19,10 +19,15 @@ triggers:
   - "natureza declaratória da progressão"
   - "termo inicial da progressão de regime"
   - "alteração da data-base"
-description: "Cluster de decisões de VEC sobre condenação superveniente: LEP 111\n(soma/unificação define o regime); Tema 1.006 STJ (unificação NÃO\naltera a data-base); Tema 1.165 STJ (progressão tem natureza\nDECLARATÓRIA: termo inicial = data do preenchimento do último\nrequisito do art. 112, não a data da decisão); Tema 1.106 STJ\n(unificação PPL + restritiva com reconversão, ressalvas do regime\naberto e da restritiva superveniente)."
+description: "Usar para pesquisar ou analisar: Unificação de Penas e Data-Base para Benefícios (Temas 1.006, 1.165 e 1.106 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Unificação de Penas e Data-Base para Benefícios Executórios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

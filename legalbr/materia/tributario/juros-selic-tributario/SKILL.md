@@ -5,8 +5,8 @@ title: "Juros SELIC em Matéria Tributária"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/juros-selic-tributario.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/juros-selic-tributario/SKILL.md"
 triggers:
   - "juros SELIC tributário"
   - "Lei 9.430 art. 13"
@@ -18,10 +18,15 @@ triggers:
   - "correção monetária tributária"
   - "Súmula 162 STJ"
   - "EC 113/2021 Selic Fazenda"
-description: "SELIC em matéria tributária: índice único (juros + correção)\nsobre tributo federal em mora (Lei 9.430 art. 13) e sobre\nrepetição/restituição (Lei 9.250 art. 39 §4; Tema 145 STJ:\ndesde o pagamento indevido, sem cumulação); Tema 962 STF (NÃO\nincide IRPJ/CSLL sobre SELIC em repetição de indébito, modulação\n30/09/2021; STJ Tema 505 readequado); Tema 810 STF (débito\ntributário da Fazenda segue os mesmos juros da mora tributária;\nTR inconstitucional como correção); Súm. 162/188/523 STJ; EC\n113/2021 (Selic única para condenações da Fazenda Pública)."
+description: "Usar para pesquisar ou analisar: Juros SELIC em Matéria Tributária. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juros SELIC em Matéria Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 
@@ -166,3 +171,7 @@ description: "SELIC em matéria tributária: índice único (juros + correção)
 - Considerar **juros indenizatórios** (não tributários) como Tema 962 (escopo específico);
 - Aplicar Selic ao FGTS (as contas do FGTS seguem regime próprio de remuneração);
 - Negar a atualização pela Selic ao crédito objeto de restituição/compensação administrativa (Lei 9.250 art. 39 §4º).
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

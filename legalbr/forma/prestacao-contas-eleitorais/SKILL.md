@@ -5,8 +5,8 @@ title: "Prestação de Contas Eleitorais (campanha e partidárias)"
 category: "forma"
 materia: null
 documentType: "prestacao-contas-eleitorais"
-version: 1
-sourcePath: "lib/skills/official/forma/prestacao-contas-eleitorais.md"
+version: 2
+sourcePath: "legalbr/forma/prestacao-contas-eleitorais/SKILL.md"
 triggers:
   - "prestação de contas de campanha"
   - "prestação de contas partidárias"
@@ -20,10 +20,15 @@ triggers:
   - "SPCE prestação de contas"
   - "parecer conclusivo contas eleitorais"
   - "sentença de contas eleitorais"
-description: "Rito jurisdicional e peças do processo de prestação de contas na Justiça\nEleitoral: contas de campanha (Lei 9.504/97 arts. 28-32 + Res.-TSE\n23.607/2019) e anuais partidárias (Lei 9.096/95 arts. 32-37-A + Res.-TSE\n23.604/2019). Impugnação, pareceres, sentença (aprovação, ressalvas,\ndesaprovação, não prestação), efeitos, recursos em 3 dias e representação\ndo art. 30-A."
+description: "Usar para redigir ou revisar: Prestação de Contas Eleitorais (campanha e partidárias). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prestação de Contas Eleitorais
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Peças deste processo: a prestação de contas em si (candidato ou órgão partidário), a impugnação, os pareceres (técnico e do MP Eleitoral), a sentença ou acórdão de julgamento e o recurso. O exame tem **caráter jurisdicional** (Lei 9.096 art. 37 §6º; Res.-TSE 23.604/2019) e concentra-se no rito e nos efeitos.
 

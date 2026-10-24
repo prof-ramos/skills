@@ -5,8 +5,8 @@ title: "IR sobre Juros de Mora Recebidos por Pessoa Física (Tema 808 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/ir-juros-mora-pf-tema-808.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ir-juros-mora-pessoa-fisica-tema-808/SKILL.md"
 triggers:
   - "Tema 808 STF"
   - "IR juros mora PF"
@@ -14,10 +14,15 @@ triggers:
   - "juros mora pessoa física"
   - "natureza indenizatória juros"
   - "juros de mora verba trabalhista imposto de renda"
-description: "Tema 808 STF (RE 855.091, 15/03/2021): NÃO INCIDE IR sobre\nJUROS DE MORA recebidos por PESSOA FÍSICA em verbas de\nnatureza salarial/trabalhista, por ter natureza\nINDENIZATÓRIA. Reforma da jurisprudência anterior que\nincluía. CTN art. 43 + Lei 7.713/88. Aplica-se também a\nservidores públicos."
+description: "Usar para pesquisar ou analisar: IR sobre Juros de Mora Recebidos por Pessoa Física (Tema 808 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IR sobre Juros de Mora (PF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

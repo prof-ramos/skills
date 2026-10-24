@@ -5,8 +5,8 @@ title: "Violação de Domicílio + Validade do Consentimento (HC 598.051/SP STJ)
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/violacao-domicilio-busca-apreensao-tema-1138.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/violacao-domicilio-busca-apreensao-tema-1138/SKILL.md"
 triggers:
   - "consentimento morador ingresso domicílio"
   - "HC 598.051 STJ"
@@ -15,10 +15,15 @@ triggers:
   - "fruto da árvore envenenada"
   - "ônus prova consentimento ingresso policial"
   - "prova ilícita derivada"
-description: "STJ HC 598.051/SP (Sexta Turma): o consentimento do morador para\nINGRESSO POLICIAL em residência deve ser VOLUNTÁRIO, LIVRE de coação\ne DOCUMENTADO (declaração escrita + testemunhas + gravação audiovisual).\nÔnus da prova do consentimento é do ESTADO. Violação gera nulidade da\nprova e de TODAS as derivadas (fruits of the poisonous tree + CPP 157 §1)."
+description: "Usar para pesquisar ou analisar: Violação de Domicílio + Validade do Consentimento (HC 598.051/SP STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violação de Domicílio + Validade do Consentimento (HC 598.051/SP STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Diretriz consolidada (STJ HC 598.051/SP, Sexta Turma, rel. Min. Rogerio Schietti, j. 02/03/2021)
 

@@ -5,8 +5,8 @@ title: "NDA: Acordo de Confidencialidade (Non-Disclosure Agreement)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/nda-acordo-confidencialidade.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md"
 triggers:
   - "NDA"
   - "acordo de confidencialidade"
@@ -21,10 +21,15 @@ triggers:
   - "confidencialidade mútua"
   - "confidencialidade unilateral"
   - "legal hold"
-description: "NDA unilateral/mútuo: definição de Informação Confidencial,\nexceções, prazo (sobrevive 2-5 anos), devolução/destruição,\nmulta, Lei 9.279 art. 195 (concorrência desleal), LGPD."
+description: "Usar para pesquisar ou analisar: NDA: Acordo de Confidencialidade (Non-Disclosure Agreement). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acordo de Confidencialidade (NDA)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Triagem operacional brasileira (triage-nda)
 

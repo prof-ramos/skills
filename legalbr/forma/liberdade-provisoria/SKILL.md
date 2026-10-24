@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "liberdade-provisoria"
 version: 2
-sourcePath: "lib/skills/official/forma/liberdade-provisoria.md"
+sourcePath: "legalbr/forma/liberdade-provisoria/SKILL.md"
 triggers:
   - "liberdade provisória"
   - "audiência de custódia art. 310 CPP"
@@ -14,10 +14,15 @@ triggers:
   - "arbitramento de fiança"
   - "medidas cautelares diversas da prisão art. 319"
   - "liberdade provisória com ou sem fiança"
-description: "Liberdade provisória sob o CPP 282 a 350 e Lei 13.964/2019: direito\nsubjetivo do preso a aguardar processo em liberdade; decisões da\ncustódia (art. 310); fiança e dispensa por hipossuficiência (art.\n350); cautelares diversas do art. 319 com subsidiariedade (art. 282\n§6º); preventiva como ultima ratio, com fundamentação contemporânea\n(CPP 312 §2º) e revisão de 90 dias (ADIs 6.581 e 6.582 STF)."
+description: "Usar para redigir ou revisar: Liberdade Provisória. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Liberdade Provisória
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

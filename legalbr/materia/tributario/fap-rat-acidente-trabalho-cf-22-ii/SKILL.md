@@ -5,8 +5,8 @@ title: "RAT/SAT + FAP, Contribuição Acidente do Trabalho (Lei 8.212/91 art. 22
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/fap-rat-acidente-trabalho-cf-22-ii.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/fap-rat-acidente-trabalho-cf-22-ii/SKILL.md"
 triggers:
   - "RAT"
   - "SAT"
@@ -17,10 +17,15 @@ triggers:
   - "Decreto 6.957/2009"
   - "Tema 554 STF"
   - "alíquota 1% 2% 3%"
-description: "RAT/SAT + FAP (Lei 8.212/91 art. 22 II): contribuição patronal\ndestinada ao financiamento de aposentadoria especial + benefícios\npor incapacidade decorrentes de risco ambiental do trabalho;\nalíquota 1% (leve), 2% (médio), 3% (grave) sobre folha;\nmultiplicada pelo FAP (0,5 a 2,0); STF Tema 554 (constitucional\nfixação do enquadramento por decreto + FAP); GIIL-RAT."
+description: "Usar para pesquisar ou analisar: RAT/SAT + FAP, Contribuição Acidente do Trabalho (Lei 8.212/91 art. 22 II). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RAT/SAT + FAP: Contribuição Acidente do Trabalho
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

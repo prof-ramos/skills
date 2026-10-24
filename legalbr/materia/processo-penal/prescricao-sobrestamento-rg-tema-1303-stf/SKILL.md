@@ -5,8 +5,8 @@ title: "Prescrição Criminal por Sobrestamento de RG (Tema 1.303 STF + RE 1.448
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/prescricao-sobrestamento-rg-tema-1303-stf.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/prescricao-sobrestamento-rg-tema-1303-stf/SKILL.md"
 triggers:
   - "Tema 1.303 STF"
   - "prescrição criminal sobrestamento"
@@ -16,10 +16,15 @@ triggers:
   - "CP art. 117"
   - "sobrestamento repercussão geral"
   - "sobrestamento RG"
-description: "Tema 1.303 STF (RE 1.448.742, 04/06/2024): o SOBRESTAMENTO de\nRE/ARE na origem para aguardar julgamento de Tema de\nRepercussão Geral NÃO suspende AUTOMATICAMENTE o prazo\nprescricional da pretensão punitiva penal; o ministro relator\ndo processo paradigma no STF, se entender necessário, PODE\ndeterminar a suspensão das ações penais e do prazo\nprescricional. CP arts. 109 + 117 + CPC art. 1.035."
+description: "Usar para pesquisar ou analisar: Prescrição Criminal por Sobrestamento de RG (Tema 1.303 STF + RE 1.448.742). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição Criminal por Sobrestamento RG
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

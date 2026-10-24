@@ -5,8 +5,8 @@ title: "Seguro de Automóvel: Perda Total e Indenização (Súms. 465 + 616 STJ)
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/seguros-e-credito-bancario/seguro-automovel-perda-total.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/seguro-automovel-perda-total/SKILL.md"
 triggers:
   - "seguro auto"
   - "perda total"
@@ -19,10 +19,15 @@ triggers:
   - "sinistro de automóvel"
   - "direção sem habilitação"
   - "alcoolemia"
-description: "Seguro de automóvel sob CC arts. 757-802 + CDC + súmulas STJ:\nperda total presume-se quando reparo > 75% do valor de mercado;\npagamento pela FIPE ou pelo valor declarado/contratado conforme\nmodalidade; embriaguez comprovada do condutor gera presunção\nrelativa de agravamento do risco (CC 768), cabendo ao segurado\nprovar que o sinistro ocorreria independentemente do estado\netílico (REsp 1.485.717/SP); recusa abusiva, dano moral; prazo\nprescricional anual (Súm. 101 STJ)."
+description: "Usar para pesquisar ou analisar: Seguro de Automóvel: Perda Total e Indenização (Súms. 465 + 616 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro de Automóvel: Perda Total e Indenização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

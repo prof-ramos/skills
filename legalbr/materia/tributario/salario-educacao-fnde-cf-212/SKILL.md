@@ -5,8 +5,8 @@ title: "Salário-Educação (CF 212 §5 + Lei 9.766/1998 + Súm. 732 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/salario-educacao-fnde-cf-212.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/salario-educacao-fnde-cf-212/SKILL.md"
 triggers:
   - "salário-educação"
   - "CF 212 §5"
@@ -16,10 +16,15 @@ triggers:
   - "Súm. 732 STF"
   - "Tema 518 STF"
   - "2,5% folha"
-description: "Salário-educação CF 212 §5 + Lei 9.766/98: contribuição social\ndestinada ao FNDE para financiamento da educação básica;\nalíquota 2,5% sobre folha de salários; arrecadado pela RFB;\nSúm. 732 STF (constitucional pré e pós CF/88); distribuído QESE\n(Quota Estadual e Municipal); MEI dispensado; Simples Nacional\nincluso no DAS; Tema 518 STF / RE 660.933 (reafirma\nconstitucionalidade); Tema 1.390 STJ (base NÃO limitada a 20 SM)."
+description: "Usar para pesquisar ou analisar: Salário-Educação (CF 212 §5 + Lei 9.766/1998 + Súm. 732 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário-Educação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,18 +5,23 @@ title: "Contribuição Previdenciária Patronal + Terço de Férias Gozadas (Tem
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicao-previdenciaria-terco-ferias-tema-985-revisao.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicao-previdenciaria-terco-ferias-tema-985-revisao/SKILL.md"
 triggers:
   - "Tema 985 STJ revisado"
   - "STF Tema 985 RE 1.072.485"
   - "contribuição previdenciária terço férias"
   - "juízo de retratação 15/09/2020"
   - "incidência patronal terço férias gozadas"
-description: "Tema 985 STJ revisado pelo STF (RE 1.072.485 — Tema 985 RG):\nINCIDE contribuição previdenciária patronal sobre o TERÇO\nCONSTITUCIONAL de férias GOZADAS. Marco da cobrança: 15/09/2020\n(publicação do acórdão de mérito). Modulação: valores pagos e\nNÃO impugnados até essa data NÃO serão restituídos."
+description: "Usar para pesquisar ou analisar: Contribuição Previdenciária Patronal + Terço de Férias Gozadas (Tema 985 STJ — Revisão STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuição Previdenciária Patronal + Terço de Férias Gozadas (Tema 985 STJ — Revisão STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (STF Tema 985 — RE 1.072.485)
 

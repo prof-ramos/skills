@@ -5,8 +5,8 @@ title: "Fairness Opinion e Valuation Opinion (consultivo)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/opiniao-legal-fairness-opinion.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/opiniao-legal-fairness-opinion/SKILL.md"
 triggers:
   - "fairness opinion"
   - "valuation opinion"
@@ -15,10 +15,15 @@ triggers:
   - "LSA art. 256"
   - "CVM RCVM 215"
   - "operação com partes relacionadas"
-description: "Fairness opinion (justiça de preço) e valuation opinion em\noperações societárias: LSA art. 256 e 264 (avaliação em\nincorporação), RCVM 215/2024 (regime de OPA: revogou a RCVM 85/2022,\nvigente desde 01/10/2025), RCVM 78/2022 (relatórios de avaliação),\ncritérios (DCF, múltiplos, valor patrimonial), independência do\navaliador, dever fiduciário dos administradores (LSA 153-159)."
+description: "Usar para pesquisar ou analisar: Fairness Opinion e Valuation Opinion (consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fairness Opinion e Valuation Opinion
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito
 

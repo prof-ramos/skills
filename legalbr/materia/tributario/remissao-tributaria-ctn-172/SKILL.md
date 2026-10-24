@@ -5,8 +5,8 @@ title: "Remissão Tributária (CTN 172 + CF 150 §6 + LC 24/75)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/remissao-tributaria-ctn-172.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/remissao-tributaria-ctn-172/SKILL.md"
 triggers:
   - "remissão tributária"
   - "CTN 172"
@@ -16,10 +16,15 @@ triggers:
   - "LRF art. 14"
   - "remissão por valor"
   - "remissão por equidade"
-description: "Remissão CTN 172 + CF 150 §6: PERDÃO do crédito tributário (tributo\n+ multa + juros) por lei específica do ente; distinta da anistia\n(só multa) e da moratória (só dilata); exige lei + estimativa LRF\nart. 14; modalidades por valor diminuto, equidade, capacidade\neconômica, situação peculiar, condições da região; ICMS exige\nconvênio CONFAZ unânime; despacho individual não gera direito\nadquirido (CTN 172 §)."
+description: "Usar para pesquisar ou analisar: Remissão Tributária (CTN 172 + CF 150 §6 + LC 24/75). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Remissão Tributária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

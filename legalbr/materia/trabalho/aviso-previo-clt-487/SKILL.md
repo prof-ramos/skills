@@ -5,8 +5,8 @@ title: "Aviso Prévio (CLT 487 a 491 + Lei 12.506/2011)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/aviso-previo-clt-487.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/aviso-previo-clt-487/SKILL.md"
 triggers:
   - "aviso prévio proporcional"
   - "aviso prévio indenizado"
@@ -15,10 +15,15 @@ triggers:
   - "CLT 488"
   - "Súm. 276 TST"
   - "OJ 367 SDI-1"
-description: "Aviso prévio (CLT 487-491 + Lei 12.506/11): 30 dias + 3 por ano de\nserviço (máx. 90); trabalhado com redução de 2h/dia ou 7 dias\ncorridos; indenizado projeta o contrato (CLT 487 §1; FGTS sobre o\nperíodo, Súm. 305); irrenunciabilidade (Súm. 276 TST); verbas\nrescisórias em até 10 dias do término do contrato, qualquer que seja\na modalidade do aviso (CLT 477 §6; ex-OJ 14 SDI-1 cancelada)."
+description: "Usar para pesquisar ou analisar: Aviso Prévio (CLT 487 a 491 + Lei 12.506/2011). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Aviso Prévio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

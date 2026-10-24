@@ -5,8 +5,8 @@ title: "Assédio Moral e Sexual"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/assedio-moral.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/assedio-moral/SKILL.md"
 triggers:
   - "assédio moral"
   - "assédio sexual"
@@ -16,10 +16,15 @@ triggers:
   - "dano extrapatrimonial trabalhista"
   - "assédio organizacional"
   - "tarifação do dano moral"
-description: "Assédio moral e sexual no trabalho (CF 5º X; CLT 223-A a 223-G;\nLei 14.457/22 CIPA-A): caracterização (conduta abusiva reiterada\nou investida sexual indesejada); responsabilidade objetiva do\nempregador (CC 932 III); tarifação do art. 223-G como parâmetro,\nnão teto (ADIs 6050/6069/6082 STF)."
+description: "Usar para pesquisar ou analisar: Assédio Moral e Sexual. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assédio Moral e Sexual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "RSC ao Magistério Federal Aposentado Pré-Lei 12.772/2012 (Tema 1.292 S
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/rsc-magisterio-federal-tema-1292.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/rsc-magisterio-federal-tema-1292/SKILL.md"
 triggers:
   - "Tema 1.292 STJ"
   - "reconhecimento saberes competências RSC"
@@ -15,10 +15,15 @@ triggers:
   - "retribuição titulação RT"
   - "paridade remuneratória aposentado"
   - "aposentado magistério federal"
-description: "Tema 1.292 STJ (1ª Seção, 06/02/2025): o RSC (Reconhecimento de\nSaberes e Competências), modo especial de cálculo da Retribuição\npor Titulação (RT), é EXTENSÍVEL ao servidor do magistério federal\nbásico, técnico e tecnológico (EBTT) APOSENTADO antes da Lei\n12.772/2012, desde que titular de PARIDADE remuneratória\nconstitucional."
+description: "Usar para pesquisar ou analisar: RSC ao Magistério Federal Aposentado Pré-Lei 12.772/2012 (Tema 1.292 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RSC ao Magistério Federal Aposentado Pré-Lei 12.772/2012 (Tema 1.292 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.292 STJ, 1ª Seção, 06/02/2025)
 

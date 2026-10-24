@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "sentenca-trabalhista"
 version: 2
-sourcePath: "lib/skills/official/forma/sentenca-trabalhista.md"
+sourcePath: "legalbr/forma/sentenca-trabalhista/SKILL.md"
 triggers:
   - "sentença trabalhista"
   - "art. 832 CLT"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.046 STF negociado sobre legislado"
   - "relatório fundamentação e dispositivo"
   - "sentença em reclamação trabalhista"
-description: "Sentença trabalhista sob a CLT (art. 832) e o CPC/15 (art. 489 §1º) com\naplicação subsidiária: relatório, questões, fundamentação e dispositivo;\ndiscriminação da natureza jurídica das parcelas e efeitos previdenciários\n(§§ 1º e 3º); parâmetros de liquidação (art. 879 §1º-A); honorários\nsucumbenciais do art. 791-A pós-ADI 5766; juros e correção sob ADC 58\naté 29.08.2024 e Lei 14.905/2024 a partir de 30.08.2024; dano moral pós-\nADIs 6050/6069/6082; Tema 1.046 STF (negociado vs. legislado)."
+description: "Usar para redigir ou revisar: Sentença Trabalhista. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

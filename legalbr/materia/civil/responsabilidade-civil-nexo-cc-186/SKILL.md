@@ -5,8 +5,8 @@ title: "Responsabilidade Civil + Nexo Causal (CC 186 + 187 + 927)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-civil-nexo-cc-186.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-civil-nexo-cc-186/SKILL.md"
 triggers:
   - "responsabilidade civil extracontratual"
   - "CC 186"
@@ -19,10 +19,15 @@ triggers:
   - "prescrição contratual extracontratual"
   - "perda de uma chance"
   - "Tema 592 STF"
-description: "Responsabilidade civil sob CC 186 + 187 + 927 + 932-933 + 942-945:\ncláusula geral do ilícito; abuso de direito objetivo (Enun. 37 CJF);\nresponsabilidade objetiva por atividade de risco; nexo causal pela\ncausalidade adequada/dano direto; CC 932-933 (fato de outrem\nobjetiva); prescrição 3 anos (extracontratual, CC 206 §3 V) vs 10 anos\n(contratual, CC 205, EREsp 1.280.825); perda de uma chance; Estado\npor omissão específica (Tema 592 STF, RE 841.526)."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil + Nexo Causal (CC 186 + 187 + 927). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil + Nexo Causal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cláusulas gerais
 

@@ -5,8 +5,8 @@ title: "Parto Humanizado e Violência Obstétrica"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/parto-humanizado-violencia-obstetrica.md"
+version: 2
+sourcePath: "legalbr/materia/saude/parto-humanizado-violencia-obstetrica/SKILL.md"
 triggers:
   - "parto humanizado"
   - "violência obstétrica"
@@ -17,10 +17,15 @@ triggers:
   - "cesariana eletiva"
   - "Lei 11.634"
   - "PHPN"
-description: "Direito ao parto humanizado e prevenção da violência obstétrica:\nLei 11.108/2005 (acompanhante); Lei 11.634/2007 (gestante conhece a\nmaternidade); Lei 17.137/2019 SP + leis estaduais (violência obstétrica);\nPHPN (Política de Humanização); Lei 13.257/2016 (Marco Legal Primeira\nInfância); Lei 13.434/2017 (vedação algemas no parto); STF: direitos\nda gestante presa; reparação civil; informação + consentimento\nesclarecido; protocolos do MS."
+description: "Usar para pesquisar ou analisar: Parto Humanizado e Violência Obstétrica. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parto Humanizado e Violência Obstétrica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

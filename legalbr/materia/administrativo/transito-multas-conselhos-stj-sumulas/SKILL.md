@@ -5,8 +5,8 @@ title: "Trânsito, Multas e Conselhos Profissionais (Súmulas STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/transito-multas-conselhos-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/transito-multas-conselhos-stj-sumulas/SKILL.md"
 triggers:
   - "multa de trânsito"
   - "notificação multa CTB"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 510 STJ"
   - "Súm. 66 STJ"
   - "Súm. 673 STJ"
-description: "Trânsito (CTB) e anuidades de conselhos profissionais: renovação não pode\nexigir multa sem notificação (127); duas notificações exigidas (312);\npagamento da multa não impede discussão judicial (434); liberação de\nveículo retido apenas por transporte irregular de passageiros independe\ndo pagamento de multas e despesas (510); execução fiscal de conselho de\nclasse na Justiça Federal com notificação imprescindível (66, 673)."
+description: "Usar para pesquisar ou analisar: Trânsito, Multas e Conselhos Profissionais (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trânsito, Multas e Conselhos Profissionais (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

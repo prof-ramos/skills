@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "comutacao"
 version: 2
-sourcePath: "lib/skills/official/forma/comutacao-pena.md"
+sourcePath: "legalbr/forma/comutacao-pena/SKILL.md"
 triggers:
   - "comutação de pena"
   - "LEP 192"
@@ -14,10 +14,15 @@ triggers:
   - "Súm. 535 STJ"
   - "comutação no decreto de indulto natalino"
   - "decreto presidencial de indulto e comutação"
-description: "Comutação de pena (CF 84 XII; LEP 192-193): clemência presidencial\nque REDUZ a pena (não extingue); cabe SOMENTE por DECRETO ANUAL\n(natalino) com requisitos específicos; aplica-se de ofício pelo\njuiz ao verificar o preenchimento; falta grave NÃO interrompe o\nprazo (Súm. 535 STJ); recurso: agravo em execução; cumulável\ncom remição, mas calculada sobre pena residual."
+description: "Usar para redigir ou revisar: Pedido de Comutação de Pena. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comutação de Pena
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

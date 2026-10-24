@@ -5,8 +5,8 @@ title: "Induzimento, Instigação ou Auxílio ao Suicídio (CP 122)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/induzimento-suicidio-cp-122.md"
+version: 2
+sourcePath: "legalbr/materia/penal/induzimento-suicidio-cp-122/SKILL.md"
 triggers:
   - "CP 122"
   - "induzimento suicídio"
@@ -18,10 +18,15 @@ triggers:
   - "ortotanásia"
   - "desafio internet"
   - "desafio baleia azul"
-description: "CP 122 (Lei 13.968/2019): induzir/instigar suicídio ou\nautomutilação ou prestar auxílio material, recl. 6m-2a (caput);\n§1 lesão grave/gravíssima (recl. 1-3); §2 morte (recl. 2-6); §3\npena duplicada (motivo egoístico/vítima menor); §4 internet (até\no dobro); §5 líder de grupo virtual (dobro, Lei 14.811/2024);\n§6-§7 reclassificação (CP 129 §2 / CP 121) contra menor de 14;\nhediondez da modalidade virtual (Lei 8.072 art. 1 X)."
+description: "Usar para pesquisar ou analisar: Induzimento, Instigação ou Auxílio ao Suicídio (CP 122). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Induzimento, Instigação ou Auxílio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo base (CP 122 caput)
 

@@ -5,8 +5,8 @@ title: "Contrarrazões a Embargos de Declaração"
 category: "forma"
 materia: null
 documentType: "contrarrazoes-embargos-declaracao"
-version: 1
-sourcePath: "lib/skills/official/forma/contrarrazoes-embargos-declaracao.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-embargos-declaracao/SKILL.md"
 triggers:
   - "contrarrazões aos embargos de declaração"
   - "manifestação sobre embargos de declaração"
@@ -18,10 +18,15 @@ triggers:
   - "multa embargos protelatórios CPC 1.026"
   - "embargos com efeito infringente contraditório"
   - "Súmula 98 STJ prequestionamento"
-description: "Manifestação da parte embargada contra embargos de declaração (CPC 1.022\na 1.026; CLT 897-A; CPP 619-620): contraditório obrigatório em 5 dias\nquando possível efeito modificativo (CPC 1.023 §2º; CLT 897-A §2º).\nDefesa: ausência de omissão, contradição, obscuridade ou erro material;\nrediscussão travestida; multa por protelação (CPC 1.026 §§2º-4º) dosada\npela Súmula 98 STJ; interrupção de prazo (1.026 caput; CLT 897-A §3º)."
+description: "Usar para redigir ou revisar: Contrarrazões a Embargos de Declaração. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões a Embargos de Declaração
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Peça da **parte embargada**: responde aos embargos de declaração opostos pela parte contrária e defende a integridade da decisão embargada. Não se confunde com a oposição dos próprios embargos. Objetivos: demonstrar a inexistência dos vícios do art. 1.022 do CPC, barrar o efeito infringente e, quando manifesta a protelação, obter a aplicação de multa.
 

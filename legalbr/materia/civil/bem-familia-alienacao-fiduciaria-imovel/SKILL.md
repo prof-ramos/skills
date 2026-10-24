@@ -5,8 +5,8 @@ title: "Bem de Família + Alienação Fiduciária do Próprio Imóvel (STJ)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/bem-familia-alienacao-fiduciaria-imovel.md"
+version: 2
+sourcePath: "legalbr/materia/civil/bem-familia-alienacao-fiduciaria-imovel/SKILL.md"
 triggers:
   - "bem família alienação fiduciária imóvel"
   - "impenhorabilidade credor fiduciário"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 9.514 fiduciário consolidação"
   - "consolidação propriedade fiduciária imóvel residencial"
   - "oposição terceiros estranhos"
-description: "Jurisprudência das Turmas de Direito Privado do STJ (não é tese\nrepetitiva): a impenhorabilidade do bem de família NÃO se\nopõe ao CREDOR FIDUCIÁRIO em ação para reaver o imóvel objeto da\nalienação fiduciária. A proteção da Lei 8.009/90 não impede a\nalienação fiduciária pelo proprietário. OPONIBILIDADE A TERCEIROS\nestranhos à operação fiduciária permanece."
+description: "Usar para pesquisar ou analisar: Bem de Família + Alienação Fiduciária do Próprio Imóvel (STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bem de Família + Alienação Fiduciária do Próprio Imóvel (STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Entendimento do STJ
 

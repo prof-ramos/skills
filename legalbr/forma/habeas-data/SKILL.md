@@ -5,8 +5,8 @@ title: "Habeas Data"
 category: "forma"
 materia: null
 documentType: "habeas-data"
-version: 3
-sourcePath: "lib/skills/official/forma/habeas-data.md"
+version: 2
+sourcePath: "legalbr/forma/habeas-data/SKILL.md"
 triggers:
   - "habeas data"
   - "autodeterminação informativa"
@@ -16,10 +16,15 @@ triggers:
   - "retificação de dados do impetrante"
   - "recusa administrativa prévia Súm. 2 STJ"
   - "gratuidade da ação e do procedimento"
-description: "Habeas data (CF 5º LXXII; Lei 9.507/97): remédio constitucional\ngratuito de autodeterminação informativa; finalidades do art. 7º\n(conhecimento, retificação e anotação de dados); exigência de\nesgotamento administrativo prévio (Súm. 2 STJ; art. 8º p.ú.);\nlegitimidade personalíssima do titular e passiva de entidades\ngovernamentais ou de caráter público; diálogo com LAI e LGPD."
+description: "Usar para redigir ou revisar: Habeas Data. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Habeas Data
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Fundamento (CF 5º LXXII)
 

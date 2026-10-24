@@ -5,8 +5,8 @@ title: "Lenocínio + Prostituição (CP 227-230)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/lenocinio-prostituicao-cp-227-230.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lenocinio-prostituicao-cp-227-230/SKILL.md"
 triggers:
   - "lenocínio"
   - "mediação lascívia"
@@ -19,10 +19,15 @@ triggers:
   - "CP 230"
   - "Lei 13.344"
   - "tráfico pessoas"
-description: "Crimes de lenocínio (CP 227-230): mediação para servir lascívia\n(CP 227, 1-3 anos); favorecimento da prostituição/exploração\nsexual (CP 228, 2-5); casa de prostituição (CP 229, 2-5);\nrufianismo (CP 230, 1-4 + qualificado). CP 218-B específico\n(menor 14-18 + prostituição) é HEDIONDO. CP 231 + 231-A\nrevogados, Lei 13.344/2016 (tráfico pessoas, CP 149-A)."
+description: "Usar para pesquisar ou analisar: Lenocínio + Prostituição (CP 227-230). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lenocínio e Exploração Sexual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

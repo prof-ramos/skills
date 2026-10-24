@@ -5,8 +5,8 @@ title: "Divulgação de Segredo e Violação de Segredo Profissional (CP 153-154
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/divulgacao-segredo-cp-153.md"
+version: 2
+sourcePath: "legalbr/materia/penal/divulgacao-segredo-cp-153/SKILL.md"
 triggers:
   - "CP 153"
   - "divulgação segredo"
@@ -17,10 +17,15 @@ triggers:
   - "sistema informatizado"
   - "vazamento de dados sigilosos"
   - "médico advogado padre"
-description: "CP 153 (det. 1-6m + multa): divulgar segredo de doc. particular/\ncorrespondência confidencial em prejuízo a alguém; §1-A\ninformações de sistemas informatizados/banco de dados da\nAdministração (Lei 9.983/2000), det. 1-4; §2 prejuízo à\nAdministração torna a AP incondicionada; CP 154 violação de\nsegredo profissional, det. 3m-1a + multa; ação penal mediante\nrepresentação (salvo CP 153 §2); LGPD impacto."
+description: "Usar para pesquisar ou analisar: Divulgação de Segredo e Violação de Segredo Profissional (CP 153-154). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Divulgação e Violação de Segredo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 153 caput
 

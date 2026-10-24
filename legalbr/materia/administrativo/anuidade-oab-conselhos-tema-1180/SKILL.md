@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/anuidade-oab-conselhos-tema-1180.md"
+sourcePath: "legalbr/materia/administrativo/anuidade-oab-conselhos-tema-1180/SKILL.md"
 triggers:
   - "anuidade OAB"
   - "Tema 1.180 STF"
@@ -20,10 +20,15 @@ triggers:
   - "suspensão exercício profissional"
   - "piso nacional anuidade OAB"
   - "teto anuidade corrigido INPC"
-description: "Tema 1.180 STF (ARE 1.336.047, 2026): Lei 12.514/2011\n(teto anuidade conselhos) NÃO se aplica à OAB, dada sua\nnatureza sui generis (ADI 3.026); fixação e cobrança das\nanuidades regidas pelo EOAB (Lei 8.906/94). OAB pode fixar\nanuidade acima do teto legal e não se submete ao TCU como\nautarquia comum (Tema 1.054). Demais conselhos profissionais\n(CRM, CREA etc.) seguem teto da Lei 12.514. Tema 732 STF cuida\nda suspensão por inadimplência; Tema 877 STF afasta precatórios\npara condenações contra conselhos."
+description: "Usar para pesquisar ou analisar: Anuidades OAB e Conselhos Profissionais (Tema 1.180 STF + Lei 12.514). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anuidades OAB + Conselhos Profissionais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

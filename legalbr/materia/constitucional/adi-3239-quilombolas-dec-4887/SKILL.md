@@ -5,8 +5,8 @@ title: "ADI 3239: Titulação de Terras Quilombolas (Decreto 4.887/2003)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/adi-3239-quilombolas-dec-4887.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/adi-3239-quilombolas-dec-4887/SKILL.md"
 triggers:
   - "ADI 3239"
   - "terras quilombolas"
@@ -16,10 +16,15 @@ triggers:
   - "autoatribuição quilombola"
   - "INCRA quilombola"
   - "Convenção 169 OIT"
-description: "ADI 3239 (red. Rosa Weber, 08/02/2018): Dec. 4.887/2003\nconstitucional; autoatribuição (Conv. 169 OIT + ADCT 68);\nmarco temporal não se aplica; desapropriação cabível;\nINCRA competente; título coletivo + inalienável."
+description: "Usar para pesquisar ou analisar: ADI 3239: Titulação de Terras Quilombolas (Decreto 4.887/2003). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 3239: Quilombolas (Dec. 4.887/2003)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

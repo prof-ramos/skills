@@ -5,8 +5,8 @@ title: "Dúvida Registral + Retificação de Registro de Imóveis (LRP 198-214 +
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/duvida-registral-retificacao-registro-imoveis.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/duvida-registral-retificacao-registro-imoveis/SKILL.md"
 triggers:
   - "dúvida registral"
   - "suscitação de dúvida"
@@ -20,10 +20,15 @@ triggers:
   - "nota de exigência devolutiva"
   - "prenotação LRP 205"
   - "anuência de confrontantes"
-description: "Microssistema contencioso da LRP: nota de exigência e suscitação de\ndúvida (arts. 198-207, red. Lei 14.382/2022), dúvida inversa, apelação\ndo art. 202, natureza administrativa da decisão (art. 204, REsp\n1.570.655/GO: não cabe REsp), retificação administrativa e judicial de\nregistro (arts. 212-213, red. Lei 10.931/2004, com anuência de\nconfrontantes) e nulidade, cancelamento e bloqueio de matrícula (art.\n214). Prov. CNJ 149/2023 (CNN/CN/CNJ-Extra)."
+description: "Usar para pesquisar ou analisar: Dúvida Registral + Retificação de Registro de Imóveis (LRP 198-214 + Lei 10.931/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dúvida Registral + Retificação de Registro de Imóveis (LRP 198-214)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

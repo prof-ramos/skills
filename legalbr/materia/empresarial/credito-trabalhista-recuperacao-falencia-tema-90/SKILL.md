@@ -5,8 +5,8 @@ title: "Crédito Trabalhista na Recuperação Judicial e na Falência (Tema 90 S
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/credito-trabalhista-recuperacao-falencia-tema-90.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/credito-trabalhista-recuperacao-falencia-tema-90/SKILL.md"
 triggers:
   - "Tema 90 STF"
   - "crédito trabalhista recuperação judicial"
@@ -17,10 +17,15 @@ triggers:
   - "limite 150 salários mínimos falência"
   - "competência justiça do trabalho falência"
   - "pagamento crédito trabalhista plano de recuperação"
-description: "Cisão de competência do Tema 90 STF (RE 583.955): Justiça do Trabalho\nconhece e liquida, juízo universal executa. Habilitação via LREF art. 6º,\n§ 2º, classe I limitada a 150 salários mínimos (art. 83, I, ADI 3.934),\npagamento em 1 ano no plano (art. 54) e Temas 637 e 1.051 STJ."
+description: "Usar para pesquisar ou analisar: Crédito Trabalhista na Recuperação Judicial e na Falência (Tema 90 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crédito Trabalhista na Recuperação Judicial e na Falência (Tema 90 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tema 90 STF (RE 583.955)
 

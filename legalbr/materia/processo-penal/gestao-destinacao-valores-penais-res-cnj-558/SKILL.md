@@ -5,8 +5,8 @@ title: "Gestão e Destinação de Valores Penais (Res. CNJ 558/2024 e 685/2026)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/gestao-destinacao-valores-penais-res-cnj-558.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/gestao-destinacao-valores-penais-res-cnj-558/SKILL.md"
 triggers:
   - "Resolução CNJ 558/2024"
   - "Resolução CNJ 685/2026"
@@ -16,10 +16,15 @@ triggers:
   - "ANPP prestação pecuniária"
   - "alienação antecipada bens apreendidos"
   - "perdimento de bens crime"
-description: "Gestão e destinação de multa, prestação pecuniária, bens apreendidos e\nperdidos e valores de acordos sob Res. CNJ 558/2024, atualizada pela\nRes. 685/2026, com contas, beneficiários, vedações e prestação de contas."
+description: "Usar para pesquisar ou analisar: Gestão e Destinação de Valores Penais (Res. CNJ 558/2024 e 685/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Gestão e Destinação de Valores Penais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Âmbito normativo
 

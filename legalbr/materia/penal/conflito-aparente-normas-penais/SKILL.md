@@ -5,8 +5,8 @@ title: "Conflito Aparente de Normas Penais (Especialidade + Subsidiariedade + Co
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/conflito-aparente-normas-penais.md"
+version: 2
+sourcePath: "legalbr/materia/penal/conflito-aparente-normas-penais/SKILL.md"
 triggers:
   - "conflito aparente de normas"
   - "especialidade"
@@ -18,10 +18,15 @@ triggers:
   - "lex specialis"
   - "crime progressivo"
   - "antefato impunível"
-description: "Conflito aparente de normas penais resolvido por 4 princípios:\nESPECIALIDADE (lex specialis derogat generali, abstrato);\nSUBSIDIARIEDADE (lex primaria derogat subsidiariae, expressa\nou tácita); CONSUNÇÃO (lex consumens derogat consumptae, meio/\nfim; antefato/post factum, Súm. 17 STJ);\nALTERNATIVIDADE (núcleos múltiplos do mesmo tipo)."
+description: "Usar para pesquisar ou analisar: Conflito Aparente de Normas Penais (Especialidade + Subsidiariedade + Consunção). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conflito Aparente de Normas Penais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Aparente × Real
 

@@ -5,8 +5,8 @@ title: "Superpreferência de precatórios (Tema 1.156 STF + art. 100 §2 CF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/superpreferencia-rpv-tema-1156.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/superpreferencia-rpv-tema-1156/SKILL.md"
 triggers:
   - "Tema 1.156 STF"
   - "superpreferência precatório"
@@ -18,10 +18,15 @@ triggers:
   - "PCD precatório"
   - "parcela superpreferencial"
   - "precatório alimentar"
-description: "Tema 1.156 STF (RE 1.326.178, acórdão publicado 04/06/2025,\ntrânsito 12/06/2025): o crédito SUPERPREFERENCIAL (art. 100 §2\nCF) de idosos (60+), portadores de doença grave ou PCD deve ser\npago por PRECATÓRIO, salvo se o valor estiver dentro do limite\nlegal de pequeno valor (RPV). A superpreferência garante\nprioridade na fila (até o triplo do RPV), não dispensa o\nprecatório. Compatível com EC 62/2009 + EC 113/2021 + EC 136/2025."
+description: "Usar para pesquisar ou analisar: Superpreferência de precatórios (Tema 1.156 STF + art. 100 §2 CF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Superpreferência de precatórios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

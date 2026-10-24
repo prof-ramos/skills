@@ -5,8 +5,8 @@ title: "Minuta Contratual e Termos Extrajudiciais"
 category: "forma"
 materia: null
 documentType: "minuta-contratual"
-version: 1
-sourcePath: "lib/skills/official/forma/minuta-contratual.md"
+version: 2
+sourcePath: "legalbr/forma/minuta-contratual/SKILL.md"
 triggers:
   - "minuta de contrato"
   - "redação de contrato entre as partes"
@@ -20,10 +20,15 @@ triggers:
   - "cláusula penal CC 408"
   - "termo de quitação e acordo extrajudicial"
   - "contrato de compra e venda minuta"
-description: "Redação de contratos e termos extrajudiciais (prestação de serviços,\nlocação, compra e venda, mútuo, parceria, distrato, confidencialidade,\nquitação, autorização de uso de imagem e voz, consentimento LGPD):\nvalidade (CC 104, 107-108), função social e boa-fé (CC 421, 421-A, 422),\nadesão (CC 423-424), cláusula penal e arras (CC 408-420), resolução e\ndistrato (CC 472-480), foro e arbitragem (Lei 9.307/96), CPC 784 III e §4º."
+description: "Usar para redigir ou revisar: Minuta Contratual e Termos Extrajudiciais. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Minuta Contratual e Termos Extrajudiciais
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Peça **extrajudicial**: não há endereçamento a juízo, relatório processual nem pedidos. O documento cria, modifica ou extingue obrigações entre particulares ou empresas (prestação de serviços, locação, compra e venda, mútuo, parceria, distrato, confidencialidade, quitação, autorização de uso de imagem e voz, consentimento de dados). O objetivo técnico é duplo: clareza operacional para as partes e aptidão probatória e executiva do instrumento.
 

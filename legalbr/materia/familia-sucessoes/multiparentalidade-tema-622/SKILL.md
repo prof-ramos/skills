@@ -5,8 +5,8 @@ title: "Multiparentalidade (Tema 622 STF + RE 898.060 + Prov. CNJ 63/2017)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/multiparentalidade-tema-622.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/multiparentalidade-tema-622/SKILL.md"
 triggers:
   - "multiparentalidade"
   - "Tema 622 STF"
@@ -20,10 +20,15 @@ triggers:
   - "dupla paternidade registro civil"
   - "adoção plena ECA 41"
   - "reconhecimento extrajudicial"
-description: "Multiparentalidade: STF Tema 622 (RE 898.060, 21/09/2016, Min.\nFux): paternidade SOCIOAFETIVA não impede vínculo biológico\nCONCOMITANTE, com efeitos jurídicos PLENOS (sucessórios + alimentares\n+ nome + previdenciários); CF 227 + CC 1.593 + ECA; melhor\ninteresse da criança; Prov. CNJ 63/2017 (revisto 149/2023)\nreconhecimento EXTRAJUDICIAL desde 12a com consentimento; Súm. 301 STJ."
+description: "Usar para pesquisar ou analisar: Multiparentalidade (Tema 622 STF + RE 898.060 + Prov. CNJ 63/2017). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Multiparentalidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STF Tema 622: RE 898.060 (Min. Luiz Fux, 21/09/2016)
 

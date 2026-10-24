@@ -5,8 +5,8 @@ title: "Porte de Arma Branca (LCP 19 + Tema 857 STF)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/porte-arma-branca-lcp-19-tema-857.md"
+version: 2
+sourcePath: "legalbr/materia/penal/porte-arma-branca-lcp-19-tema-857/SKILL.md"
 triggers:
   - "porte de arma branca"
   - "Tema 857 STF"
@@ -16,10 +16,15 @@ triggers:
   - "contravenção porte de arma"
   - "potencialidade lesiva arma branca"
   - "canivete porte contravenção"
-description: "Tema 857 STF (ARE 901.623, Plenário, 2024): o art. 19 da LCP permanece\nVÁLIDO e aplicável ao porte de arma branca; a potencialidade lesiva é\naferida nas circunstâncias do caso concreto, inclusive o elemento\nsubjetivo. Quanto a armas de fogo, o LCP 19 foi derrogado (Lei 9.437/97\ne Lei 10.826/2003). Prisão simples 15 dias a 6 meses ou multa; rito da\nLei 9.099/95."
+description: "Usar para pesquisar ou analisar: Porte de Arma Branca (LCP 19 + Tema 857 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Porte de Arma Branca (LCP art. 19 + Tema 857 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 857 STF)
 

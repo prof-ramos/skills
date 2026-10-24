@@ -5,8 +5,8 @@ title: "Intervenção Anômala da União (Lei 9.469/1997 art. 5º)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/partes-litisconsorcio-intervencao/intervencao-anomala-lei-9469.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/intervencao-anomala-lei-9469/SKILL.md"
 triggers:
   - "intervenção anômala"
   - "art 5 Lei 9.469"
@@ -16,10 +16,15 @@ triggers:
   - "interesse econômico União"
   - "recursos União sem ser parte"
   - "deslocamento competência Justiça Federal União"
-description: "Intervenção anômala da União (Lei 9.469/1997 art. 5º): hipótese\nespecífica em que pessoa jurídica de direito público pode intervir em\ncausa cujo interesse econômico aprecie, mesmo sem qualidade processual\nordinária; difere da assistência simples e da intervenção como amicus\ncuriae; CPC 119 e 138; competência para julgamento permanece estadual\naté eventual recurso da União (jurisprudência consolidada do STJ);\nefeitos sobre recursos."
+description: "Usar para pesquisar ou analisar: Intervenção Anômala da União (Lei 9.469/1997 art. 5º). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Intervenção Anômala da União (Lei 9.469/1997 art. 5º)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -260,3 +265,7 @@ serão consideradas partes.
 - **Confundir intervenção anômala** com denunciação à lide ou chamamento ao processo;
 - **Aceitar intervenção** sem fundamentação de reflexo econômico (mínimo de demonstração exigido);
 - **Esquecer o deslocamento de competência** ao analisar recurso da União em causa originalmente estadual.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

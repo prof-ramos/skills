@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-custas-gratuidade.md"
+sourcePath: "legalbr/materia/processo-civil/honorarios-custas-gratuidade/SKILL.md"
 triggers:
   - "honorários advocatícios"
   - "honorários sucumbenciais"
@@ -23,10 +23,15 @@ triggers:
   - "litigância de má-fé"
   - "advogado dativo"
   - "curador especial"
-description: "Honorários sucumbenciais (CPC 85), custas e gratuidade (CPC 82-87\ne 98-102): §2 particulares (10-20%) × §3 Fazenda (escala) + §6-A\nLei 14.365/2022; §8 equidade só inestimável/irrisório (Tema\n1.076); §11 recursais; §14 vedação compensação; CPC 86 recíproca;\ngratuidade PF presunção × PJ Súm. 481; DP Tema 1.002 STF; dativo e\ncurador especial (Temas 305 STF, 984 e 182 STJ)."
+description: "Usar para pesquisar ou analisar: Honorários Sucumbenciais, Custas e Gratuidade da Justiça. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários + Custas + Gratuidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

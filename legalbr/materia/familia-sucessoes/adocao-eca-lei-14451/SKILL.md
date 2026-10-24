@@ -5,8 +5,8 @@ title: "Adoção (ECA 39-52-D + Lei 12.010/2009)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/adocao-eca-lei-14451.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/adocao-eca-lei-14451/SKILL.md"
 triggers:
   - "adoção de criança"
   - "adoção de adolescente"
@@ -21,10 +21,15 @@ triggers:
   - "entrega voluntária"
   - "adoção homoafetiva"
   - "adoção intuitu personae"
-description: "Adoção sob ECA 39-52-D + Lei 12.010/2009 + Lei 13.509/2017 + CC\n1.618-1.619 (arts. 1.620-1.629 revogados pela Lei 12.010/2009):\nrequisitos do adotante (18+, diferença 16 anos, vedado\navós/irmãos); SNA obrigatório (ECA 50, §13 exceções); estágio de\nconvivência 90+90; entrega voluntária (ECA 19-A + Res. CNJ\n485/2023); adoção homoafetiva consolidada; 18 meses máximos em\nacolhimento."
+description: "Usar para pesquisar ou analisar: Adoção (ECA 39-52-D + Lei 12.010/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adoção
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

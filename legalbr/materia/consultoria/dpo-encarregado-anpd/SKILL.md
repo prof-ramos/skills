@@ -5,8 +5,8 @@ title: "Encarregado de Dados (DPO) e Relacionamento com ANPD"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/dpo-encarregado-anpd.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/dpo-encarregado-anpd/SKILL.md"
 triggers:
   - "DPO"
   - "encarregado de dados"
@@ -15,10 +15,15 @@ triggers:
   - "autoridade nacional de proteção"
   - "Res. ANPD"
   - "encarregado LGPD"
-description: "Encarregado de Dados (DPO): Lei 13.709/18 art. 41 + Res. CD/ANPD\n18/24 (regulamento da atuação do encarregado; mantém a Res. 2/22\nsobre agentes de pequeno porte). Designação, independência,\nqualificação, atribuições, terceirização e responsabilidade.\nRelacionamento com ANPD: comunicação de incidentes (Res. CD/ANPD\n15/24), atendimento a fiscalização, programa de governança em\nprivacidade (Res. CD/ANPD 18/24)."
+description: "Usar para pesquisar ou analisar: Encarregado de Dados (DPO) e Relacionamento com ANPD. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Encarregado de Dados (DPO) e Relacionamento com ANPD
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

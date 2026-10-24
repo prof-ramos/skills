@@ -5,8 +5,8 @@ title: "Contribuições Previdenciárias (Lei 8.212/1991 + CF 195 + Lei 14.973/2
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/contribuicoes-previdenciarias-8212.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicoes-previdenciarias-8212/SKILL.md"
 triggers:
   - "contribuições previdenciárias"
   - "Lei 8.212/1991"
@@ -21,10 +21,15 @@ triggers:
   - "Tema 72 STF salário-maternidade"
   - "RE 576.967"
   - "ADI 7.633"
-description: "CF 195 financiamento SS: I \"a\" patronal 20% folha + \"b\" PIS/COFINS\n+ \"c\" CSLL + II SEGURADO 7,5-14% pós-EC 103/2019 + III prognósticos\n+ IV importador; nonagesimal CF 195 §6; CPRB Lei 12.546/2011\n(desoneração folha); Lei 14.784/2023 prorrogou ADI 7.633 inconst.\nmodulada; Lei 14.973/2024 REONERAÇÃO GRADUAL (2026 60% CPRB + 50%\nfolha; 2028 total); Tema 985 STF (terço férias gozadas INCIDE);\nTema 72 STF (salário-maternidade NÃO incide, RE 576.967)."
+description: "Usar para pesquisar ou analisar: Contribuições Previdenciárias (Lei 8.212/1991 + CF 195 + Lei 14.973/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuições Previdenciárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 195: financiamento da Seguridade Social
 

@@ -5,8 +5,8 @@ title: "Salário e Remuneração (CLT 457 a 467)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/salario-remuneracao-clt-457.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/salario-remuneracao-clt-457/SKILL.md"
 triggers:
   - "natureza salarial"
   - "composição da remuneração"
@@ -18,10 +18,15 @@ triggers:
   - "CLT 458"
   - "Súm. 354 TST"
   - "irredutibilidade salarial"
-description: "Salário e remuneração (CLT 457-467 + Reforma 13.467): distinção\nsalário × remuneração; natureza pós-Reforma de prêmios, abonos,\najudas de custo e diárias (não integram); gorjetas (Súm. 354 TST);\nprincípios da irredutibilidade e da intangibilidade salarial."
+description: "Usar para pesquisar ou analisar: Salário e Remuneração (CLT 457 a 467). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário e Remuneração
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

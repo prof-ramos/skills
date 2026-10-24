@@ -5,8 +5,8 @@ title: "Marco Legal de Garantias (Lei 14.711/2023 + ADIs 7.600/7.601/7.608 STF)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/marco-legal-garantias-14711.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/marco-legal-garantias-14711/SKILL.md"
 triggers:
   - "Marco Legal de Garantias"
   - "Lei 14.711/2023"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 9.514/97"
   - "Lei 13.476/2017"
   - "Lei 10.931/2004"
-description: "Lei 14.711/2023 (30/10/2023 + vetos derrubados 14/12/2023):\nMarco Legal das Garantias: altera Lei 9.514 (AF imóvel) + Lei\n13.476 (mobiliária + duplicata) + Lei 10.931 (cédulas); INOVAÇÕES:\nAF SUCESSIVA (mesmo bem em múltiplos contratos) + CROSS-DEFAULT\n+ execução extrajudicial HIPOTECA (art. 9) + AGENTE DE GARANTIAS\n+ vedada tarifa liberação; STF ADIs 7.600/7.601/7.608 constitucional."
+description: "Usar para pesquisar ou analisar: Marco Legal de Garantias (Lei 14.711/2023 + ADIs 7.600/7.601/7.608 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Marco Legal de Garantias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 14.711/2023
 

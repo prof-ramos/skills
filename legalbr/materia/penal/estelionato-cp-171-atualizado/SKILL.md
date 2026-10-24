@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/parte-especial/estelionato-cp-171-atualizado.md"
+sourcePath: "legalbr/materia/penal/estelionato-cp-171-atualizado/SKILL.md"
 triggers:
   - "estelionato"
   - "CP 171"
@@ -23,10 +23,15 @@ triggers:
   - "estelionato previdenciário"
   - "Súmula 24 STJ"
   - "fraude contra o INSS"
-description: "Estelionato sob CP 171: caput (recl. 1-5); equiparações §2 (incl.\nnovo VII, conta laranja pela Lei 15.397/2026); fraude eletrônica\n§2-A (recl. 4-8, Lei 14.155/2021); dobro para idoso/vulnerável\n(§4); Lei 15.397/2026 revogou §5, AP volta a incondicionada\n(irretroativa); competência no domicílio da vítima (CPP 70 §4).\nInclui as fraudes residuais do capítulo: CP 172-179 (duplicata\nsimulada, abuso de incapazes, fraude no comércio, fraude à execução)\ne o estelionato previdenciário (§3 + Súm. 24 STJ: permanente x\ninstantâneo, prescrição, insignificância e devolução)."
+description: "Usar para pesquisar ou analisar: Estelionato: CP 171 (atualizado pela Lei 15.397/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estelionato (CP 171), atualizado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 15.397/2026 (vigência 04/05/2026)
 

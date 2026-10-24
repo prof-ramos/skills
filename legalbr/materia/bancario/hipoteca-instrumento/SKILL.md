@@ -5,8 +5,8 @@ title: "Hipoteca - Instrumento e Registro (CC 1.473-1.505 + Lei 14.711/23)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/hipoteca-instrumento.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/hipoteca-instrumento/SKILL.md"
 triggers:
   - "instrumento de hipoteca"
   - "CC 1.473"
@@ -22,10 +22,15 @@ triggers:
   - "execução hipotecária"
   - "Lei 5.741/71"
   - "Marco Legal das Garantias hipoteca"
-description: "Hipoteca (CC 1.473-1.505): direito real de garantia sobre imóvel\nalheio; escritura pública (CC 108) + registro CRI (constitutivo);\nprincípios especialização + publicidade; vedada cláusula proibitiva\nde alienação (CC 1.475); duração 30 anos prorrogável (CC 1.494);\ngraus; Marco Legal das Garantias (execução extrajudicial Lei 14.711)."
+description: "Usar para pesquisar ou analisar: Hipoteca - Instrumento e Registro (CC 1.473-1.505 + Lei 14.711/23). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Hipoteca - Instrumento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

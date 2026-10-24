@@ -5,8 +5,8 @@ title: "Plano de Saúde de Aposentados de Estatal Privatizada (Tema 1.336 STF)"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/plano-saude-aposentado-estatal-privatizada-tema-1336.md"
+version: 2
+sourcePath: "legalbr/materia/saude/plano-saude-aposentado-estatal-privatizada-tema-1336/SKILL.md"
 triggers:
   - "Tema 1.336 STF"
   - "plano saúde aposentado privatização"
@@ -17,10 +17,15 @@ triggers:
   - "manutenção plano saúde aposentado"
   - "CF 5 XXXVI"
   - "autopatrocínio"
-description: "Tema 1.336 STF (ARE 1.517.985, 12/10/2024): o STF reconheceu a\nAUSÊNCIA de repercussão geral, por se tratar de matéria\ninfraconstitucional e fática (manutenção do plano de saúde de\nempregados aposentados de estatal privatizada). A controvérsia\nresolve-se nas instâncias ordinárias pelos arts. 30/31 da Lei\n9.656/98 (manutenção nas condições da ativa, autopatrocínio),\npelo contrato/edital de privatização e pelo estatuto da operadora\n(autogestão), com base no direito adquirido (CF 5 XXXVI)."
+description: "Usar para pesquisar ou analisar: Plano de Saúde de Aposentados de Estatal Privatizada (Tema 1.336 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Plano de Saúde de Aposentados em Estatais Privatizadas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Portabilidade de Crédito (Res. CMN 5.057/2022)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/portabilidade-credito-cmn.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/portabilidade-credito-cmn/SKILL.md"
 triggers:
   - "portabilidade de crédito"
   - "Res. CMN 5.057"
@@ -18,10 +18,15 @@ triggers:
   - "banco proponente"
   - "portabilidade consignado"
   - "quitação antecipada do financiamento"
-description: "Portabilidade de crédito sob Res. CMN 5.057/2022 (vigente desde\n01/03/2023, sucedeu a Res. CMN 4.292/2013; alterada pela Res. CMN\n5.112/2023, que incluiu cheque especial e saldo de fatura de\ncartão): direito do consumidor de transferir operações de crédito\nsem ônus; vedação à oferta retentiva sem real benefício;\nportabilidade de salário (Res. CMN 3.402/2006 + 4.639/2018,\natualizadas pela Res. CMN 5.058/2022); abrange consignado,\nimobiliário, veículo, crédito pessoal; recusa indevida pode gerar\ndano moral; tutela antecipada para liberação imediata."
+description: "Usar para pesquisar ou analisar: Portabilidade de Crédito (Res. CMN 5.057/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Portabilidade de Crédito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

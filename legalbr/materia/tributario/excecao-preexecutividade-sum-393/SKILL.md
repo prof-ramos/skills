@@ -5,8 +5,8 @@ title: "Exceção de Pré-Executividade Fiscal (Súm. 393 STJ + REsp 1.110.925)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/excecao-preexecutividade-sum-393.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/excecao-preexecutividade-sum-393/SKILL.md"
 triggers:
   - "exceção de pré-executividade"
   - "Súm. 393 STJ"
@@ -15,10 +15,15 @@ triggers:
   - "sem garantia da execução"
   - "nulidade CDA"
   - "prescrição executivo fiscal"
-description: "Exceção de pré-executividade Súm. 393 STJ + REsp 1.110.925: cabe\nno executivo fiscal SEM garantia para matérias conhecíveis de\nOFÍCIO (decadência, prescrição, ilegitimidade, nulidade da CDA,\npagamento, imunidade) que dispensem dilação probatória; não cabe\npara discussão de mérito amplo (use embargos); decisão recorrível\npor agravo de instrumento (CPC 1.015 par. único); sem honorários\nquando rejeitada; honorários cabíveis quando acolhida com\nextinção da EF (Tema 421 STJ, REsp 1.185.036)."
+description: "Usar para pesquisar ou analisar: Exceção de Pré-Executividade Fiscal (Súm. 393 STJ + REsp 1.110.925). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exceção de Pré-Executividade Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal + jurisprudencial
 

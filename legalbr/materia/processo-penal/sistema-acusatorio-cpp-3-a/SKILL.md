@@ -5,8 +5,8 @@ title: "Sistema Acusatório + Juiz das Garantias (CPP 3-A + ADIs 6.298)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/nulidades-garantias/sistema-acusatorio-cpp-3-a.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/sistema-acusatorio-cpp-3-a/SKILL.md"
 triggers:
   - "sistema acusatório"
   - "estrutura acusatória"
@@ -19,10 +19,15 @@ triggers:
   - "CNJ Resolução 562"
   - "revisão 90 dias preventiva"
   - "CPP 316"
-description: "Sistema acusatório CPP 3-A (Lei 13.964/2019, estrutura acusatória:\nvedada iniciativa probatória do juiz na investigação); CPP 3-B\njuiz das garantias (controle da legalidade da investigação); CPP\n3-C cessação da competência (com o oferecimento da denúncia,\nconforme modulação do STF nas ADIs 6.298-6.305, ago/2023); CPP\n3-D impedimento (invalidado pelo STF); revisão da preventiva a\ncada 90 dias (CPP 316 par. único); CNJ Res. 562/2024\nimplementação."
+description: "Usar para pesquisar ou analisar: Sistema Acusatório + Juiz das Garantias (CPP 3-A + ADIs 6.298). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema Acusatório + Juiz das Garantias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

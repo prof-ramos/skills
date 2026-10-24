@@ -5,8 +5,8 @@ title: "Apelação Obstada pelo Juízo de 1º Grau (Tema 1.267 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/apelacao-obstada-juizo-tema-1267.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/apelacao-obstada-juizo-tema-1267/SKILL.md"
 triggers:
   - "Tema 1.267 STJ"
   - "apelação obstada"
@@ -17,10 +17,15 @@ triggers:
   - "usurpação competência tribunal"
   - "fungibilidade recursal"
   - "juiz negar processamento apelação"
-description: "Tema 1.267 STJ (Corte Especial, ac. publ. 08/04/2025): juiz de 1º\ngrau NÃO PODE obstar processamento da apelação (CPC 1.010 §3,\ncabe ao tribunal o juízo de admissibilidade). Decisão que obsta\nUSURPA competência do tribunal: cabe RECLAMAÇÃO (CPC 988 I). Em\ncumprimento/execução, cabe também AGRAVO de instrumento (CPC\n1.015 § único). Modulação: decisões anteriores recebem fungibilidade."
+description: "Usar para pesquisar ou analisar: Apelação Obstada pelo Juízo de 1º Grau (Tema 1.267 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Apelação Obstada pelo Juízo de 1º Grau (Tema 1.267 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.267 STJ, Corte Especial, ac. publ. 08/04/2025)
 

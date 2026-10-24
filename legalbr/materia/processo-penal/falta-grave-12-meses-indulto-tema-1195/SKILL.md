@@ -5,8 +5,8 @@ title: "Falta Grave nos 12 Meses Anteriores ao Indulto / Comutação (Tema 1.195
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/falta-grave-12-meses-indulto-tema-1195.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/falta-grave-12-meses-indulto-tema-1195/SKILL.md"
 triggers:
   - "Tema 1.195 STJ"
   - "falta grave 12 meses indulto"
@@ -14,10 +14,15 @@ triggers:
   - "data ocorrência falta grave"
   - "PAD instaurado falta"
   - "comportamento apenado indulto"
-description: "Tema 1.195 STJ (3ª Seção, 2025): o período de 12 meses do Decreto\n9.246/2017 (e similares) refere-se à NÃO OCORRÊNCIA de falta grave\n , NÃO à data de APURAÇÃO. Se a falta foi cometida no período de\n12 meses anteriores ao decreto, IMPEDE comutação, ainda que a\napuração seja concluída depois, desde que não configurada\ninércia ou mora estatal para instaurar o procedimento."
+description: "Usar para pesquisar ou analisar: Falta Grave nos 12 Meses Anteriores ao Indulto / Comutação (Tema 1.195 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falta Grave nos 12 Meses Anteriores ao Indulto / Comutação (Tema 1.195 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.195 STJ, 3ª Seção, 2025)
 

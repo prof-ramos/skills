@@ -5,8 +5,8 @@ title: "ACP Defensorial (Tutela Coletiva pela DP)"
 category: "forma"
 materia: null
 documentType: "acp-defensoria"
-version: 1
-sourcePath: "lib/skills/official/forma/acp-defensoria.md"
+version: 2
+sourcePath: "legalbr/forma/acp-defensoria/SKILL.md"
 triggers:
   - "ACP Defensoria"
   - "tutela coletiva DP"
@@ -15,10 +15,15 @@ triggers:
   - "LC 80 art. 4 VII VIII X XI"
   - "direitos coletivos necessitados"
   - "hipervulneráveis"
-description: "Ação Civil Pública pela Defensoria Pública (LACP art. 5 II + LC 80\nart. 4 VII-XI + CF 134 EC 80/2014 + ADI 3943): legitimidade ampla\npara direitos DIFUSOS, COLETIVOS e INDIVIDUAIS HOMOGÊNEOS de\nNECESSITADOS em sentido amplo (econômicos, organizacionais,\nhipervulneráveis); DISPENSA pertinência temática estrita; sem\ncustas (LACP 18); honorários ao Fundo da DP quando autônoma da\nFazenda à qual pertence."
+description: "Usar para redigir ou revisar: ACP Defensorial (Tutela Coletiva pela DP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Civil Pública Defensorial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

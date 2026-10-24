@@ -5,8 +5,8 @@ title: "Súmula Vinculante (CF 103-A + Lei 11.417/2006)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-cf-103-a.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-cf-103-a/SKILL.md"
 triggers:
   - "súmula vinculante"
   - "CF 103-A"
@@ -19,10 +19,15 @@ triggers:
   - "SV 25"
   - "reclamação constitucional"
   - "CPC 927 II"
-description: "Súmula vinculante sob CF 103-A + Lei 11.417/2006: matéria\nconstitucional + reiteradas decisões + 2/3 do STF + grave\ninsegurança e multiplicação; efeito erga omnes vinculando\nJudiciário e Administração; descumprimento → Reclamação\nConstitucional (CF 102 I l); revisão/cancelamento apenas pelo STF;\nCPC 927 II + dever de distinguishing fundamentado."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante (CF 103-A + Lei 11.417/2006). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 103-A (EC 45/2004)
 

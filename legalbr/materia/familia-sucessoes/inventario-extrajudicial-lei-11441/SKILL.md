@@ -5,8 +5,8 @@ title: "Inventário Extrajudicial (Lei 11.441/2007 + Res. CNJ 571/2024)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/sucessoes/inventario-extrajudicial-lei-11441.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/inventario-extrajudicial-lei-11441/SKILL.md"
 triggers:
   - "inventário extrajudicial"
   - "Lei 11.441/2007"
@@ -19,10 +19,15 @@ triggers:
   - "sobrepartilha extrajudicial"
   - "testamento cumprido"
   - "inventário com incapazes"
-description: "Inventário extrajudicial Lei 11.441/2007 + Res. CNJ 35/2007:\nescritura pública em Tabelionato; requisitos consenso + advogado\n+ capacidade; testamento agora admite com CUMPRIMENTO judicial\nprévio (Lei 14.382/2022 + REsp 1.808.767); Res. CNJ 571/2024\nROMPEU vedação a INCAPAZES (com MP + parte ideal); sobrepartilha\nextrajudicial; Prov. CNJ 149/2023 (CNN); ITCMD pré-recolhido."
+description: "Usar para pesquisar ou analisar: Inventário Extrajudicial (Lei 11.441/2007 + Res. CNJ 571/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inventário Extrajudicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 11.441/2007
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "bancario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/bancario/alienacao-fiduciaria-imovel.md"
+sourcePath: "legalbr/materia/bancario/alienacao-fiduciaria-imovel/SKILL.md"
 triggers:
   - "alienação fiduciária imóvel"
   - "Lei 9.514/97"
@@ -21,10 +21,15 @@ triggers:
   - "matrícula imóvel"
   - "propriedade resolúvel"
   - "cross default imóvel"
-description: "Alienação fiduciária imobiliária sob Leis 9.514 e 14.711: constituição,\nregistro, mora, consolidação, leilões, preferência, garantias sucessivas,\nTemas 1.095 e 1.288 STJ e forma contratual do Provimento CNJ 246/2026."
+description: "Usar para pesquisar ou analisar: Alienação Fiduciária de Imóvel (Lei 9.514/97 + Lei 14.711/23). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alienação Fiduciária de Imóvel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

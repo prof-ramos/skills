@@ -5,8 +5,8 @@ title: "Revisão da RMI com Verbas de Ação Trabalhista: Decadência (Tema 1.11
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/revisao-rmi-verbas-trabalhistas-tema-1117-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/revisao-rmi-verbas-trabalhistas-tema-1117-stj/SKILL.md"
 triggers:
   - "Tema 1.117 STJ"
   - "revisão RMI verbas trabalhistas"
@@ -16,10 +16,15 @@ triggers:
   - "revisão benefício após ação trabalhista"
   - "PBC verbas remuneratórias"
   - "decadência revisão sentença trabalhista"
-description: "Tema 1.117 STJ: na revisão da RMI para incluir verbas remuneratórias\nreconhecidas em ação trabalhista nos salários de contribuição do PBC,\no prazo decadencial do art. 103 da Lei 8.213 conta do TRÂNSITO EM\nJULGADO da reclamatória. Distinções com Temas 975 e 1.188 STJ."
+description: "Usar para pesquisar ou analisar: Revisão da RMI com Verbas de Ação Trabalhista: Decadência (Tema 1.117 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Revisão da RMI com Verbas de Ação Trabalhista (Tema 1.117 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada
 

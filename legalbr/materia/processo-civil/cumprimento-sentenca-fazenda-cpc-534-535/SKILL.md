@@ -5,8 +5,8 @@ title: "Cumprimento de Sentença contra a Fazenda Pública (CPC 534-535)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/cumprimento-sentenca-fazenda-cpc-534-535.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumprimento-sentenca-fazenda-cpc-534-535/SKILL.md"
 triggers:
   - "cumprimento sentença Fazenda"
   - "CPC 534"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 905 STJ"
   - "Tema 810 STF"
   - "Tema 1.190 STJ"
-description: "Cumprimento de sentença contra a Fazenda Pública (CPC 534-535):\nfase iniciada por petição autônoma; sem penhora prévia; impugnação em\n30 dias (prazo próprio, sem dobra adicional); matérias do art. 535\n(rol taxativo); regime de precatórios (CF 100 + EC 113-114 + EC 136/2025);\nRPV (limites por ente); juros e correção (Temas 905 STJ e 810 STF até\n08/12/2021; SELIC de 09/12/2021 a 09/09/2025, Tema 1.419 STF; EC\n136/2025 a partir de 10/09/2025); Tema 1.190 STJ (sem honorários\nse não impugnado); fracionamento (CF 100 §8 + SV 47 + Temas 18 e\n1.142 STF)."
+description: "Usar para pesquisar ou analisar: Cumprimento de Sentença contra a Fazenda Pública (CPC 534-535). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Sentença contra a Fazenda Pública (CPC 534-535)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

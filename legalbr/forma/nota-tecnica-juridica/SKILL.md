@@ -5,8 +5,8 @@ title: "Nota Técnica Jurídica"
 category: "forma"
 materia: null
 documentType: "nota-tecnica-juridica"
-version: 1
-sourcePath: "lib/skills/official/forma/nota-tecnica-juridica.md"
+version: 2
+sourcePath: "legalbr/forma/nota-tecnica-juridica/SKILL.md"
 triggers:
   - "NT jurídica"
   - "nota técnica AGU"
@@ -14,10 +14,15 @@ triggers:
   - "manifestação interna procuradoria"
   - "opinião jurídica interna"
   - "LINDB 28"
-description: "Nota técnica jurídica (advocacia pública): manifestação consultiva\ninterna, mais célere e menos formal que parecer; estrutura\nconsulta-análise-conclusão; LINDB arts. 20-30 (Lei 13.655/2018);\nresponsabilidade do parecerista por dolo ou erro grosseiro\n(LINDB 28 + STF MS 24.631); diferenças com parecer, manifestação\ne cota; pertinência em licitações e contratos (Lei 14.133 art. 53)."
+description: "Usar para redigir ou revisar: Nota Técnica Jurídica. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nota Técnica Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

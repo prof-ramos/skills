@@ -5,8 +5,8 @@ title: "Teto Remuneratório no Cálculo de Pensão por Morte (Tema 1.167 STF + E
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/teto-pensao-morte-ec-41-tema-1167.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/teto-pensao-morte-ec-41-tema-1167/SKILL.md"
 triggers:
   - "Tema 1.167 STF"
   - "teto remuneratório pensão"
@@ -16,10 +16,15 @@ triggers:
   - "EC 41/2003"
   - "cálculo pensão servidor"
   - "integralidade pensão pré-EC"
-description: "Tema 1.167 STF (ARE 1.314.490, 09/02/2026): a base de cálculo\nda PENSÃO POR MORTE (art. 40 §7 CF, redação EC 41/03) considera\napenas as parcelas EFETIVAMENTE PERCEBIDAS pelo servidor ativo\nou aposentado, EXCLUÍDOS os valores que excedam o teto ou\nsubteto do art. 37 XI (sobre eles não incidiu contribuição).\nAbate-teto ANTES da regra da EC 41 (totalidade até o teto do\nRGPS + 70% do excedente). Aplicável a óbitos pré-EC 103/19."
+description: "Usar para pesquisar ou analisar: Teto Remuneratório no Cálculo de Pensão por Morte (Tema 1.167 STF + EC 41). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teto Remuneratório no Cálculo de Pensão por Morte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

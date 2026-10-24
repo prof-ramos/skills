@@ -5,8 +5,8 @@ title: "Dispensa Coletiva (CLT 477-A + Tema 638 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/dispensa-coletiva-tema-638.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/dispensa-coletiva-tema-638/SKILL.md"
 triggers:
   - "dispensa coletiva"
   - "demissão em massa"
@@ -15,10 +15,15 @@ triggers:
   - "RE 999.435"
   - "negociação coletiva"
   - "Embraer"
-description: "Dispensa coletiva (CLT 477-A + Tema 638 STF): Reforma equiparou às\nindividuais (sem prévia negociação obrigatória); STF (RE 999.435,\nMarco Aurélio, j. 08/06/2022) exige a intervenção sindical prévia como\nrequisito procedimental, que NÃO se confunde com autorização ou\nnegociação coletiva, aplicável às dispensas posteriores a 14/06/2022.\nCaso Embraer (TST RODC) e contexto da Convenção 158 OIT."
+description: "Usar para pesquisar ou analisar: Dispensa Coletiva (CLT 477-A + Tema 638 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dispensa Coletiva
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

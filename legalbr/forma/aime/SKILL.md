@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "aime"
 version: 2
-sourcePath: "lib/skills/official/forma/aime.md"
+sourcePath: "legalbr/forma/aime/SKILL.md"
 triggers:
   - "AIME"
   - "ação de impugnação de mandato eletivo"
@@ -19,10 +19,15 @@ triggers:
   - "tramitação em segredo de justiça"
   - "rito subsidiário do art. 22 LC 64/90"
   - "legitimidade do MPE partido coligação candidato"
-description: "Ação de impugnação de mandato eletivo sob a CF 14 §§10-11: ação\nconstitucional desconstitutiva para cassar mandato por abuso do poder\neconômico, corrupção ou fraude; prazo decadencial de 15 dias da\ndiplomação; tramitação em segredo de justiça e rito subsidiário do\nart. 22 da LC 64/90; legitimidade do partido, coligação, candidato e\nMPE; sanção restrita à cassação, sem inelegibilidade automática."
+description: "Usar para redigir ou revisar: Ação de Impugnação de Mandato Eletivo (AIME). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # AIME: Ação de Impugnação de Mandato Eletivo
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais
 

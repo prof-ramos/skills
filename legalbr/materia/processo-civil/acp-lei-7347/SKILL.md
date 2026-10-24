@@ -5,8 +5,8 @@ title: "Ação Civil Pública (Lei 7.347/1985 + CF 129 III + Tema 1.075 STF)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/acp-lei-7347.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/acp-lei-7347/SKILL.md"
 triggers:
   - "ação civil pública"
   - "ACP"
@@ -20,10 +20,15 @@ triggers:
   - "microssistema processual coletivo"
   - "Lei 11.448/2007"
   - "Tema 1.408 STJ"
-description: "ACP sob Lei 7.347/1985 + CF 129 III: tutela de direitos difusos\n+ coletivos + individuais homogêneos; legitimados ampliados (Lei\n11.448: Defensoria + ADI 3.943 sem hipossuficiência específica);\ninquérito civil + TAC (título executivo extrajudicial); custas\nisentas (art. 18); STF Tema 1.075 declarou inconstitucional a\nlimitação territorial: coisa julgada erga omnes nacional; Tema\n1.408 STJ: sindicato sem interesse para ACP de FUNDEF/FUNDEB."
+description: "Usar para pesquisar ou analisar: Ação Civil Pública (Lei 7.347/1985 + CF 129 III + Tema 1.075 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Civil Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

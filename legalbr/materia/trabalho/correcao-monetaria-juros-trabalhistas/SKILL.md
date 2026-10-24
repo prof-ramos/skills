@@ -5,8 +5,8 @@ title: "Correção Monetária e Juros Trabalhistas (ADC 58 + Lei 14.905/2024)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/correcao-monetaria-juros-trabalhistas.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/correcao-monetaria-juros-trabalhistas/SKILL.md"
 triggers:
   - "correção monetária trabalhista"
   - "juros de mora trabalhistas"
@@ -18,10 +18,15 @@ triggers:
   - "EC 113 Fazenda Pública SELIC"
   - "Súm. 439 TST cancelada"
   - "atualização de dano moral trabalhista"
-description: "Atualização dos débitos trabalhistas por fases: até 29/08/2024, regime da\nADC 58/Tema 1.191 STF (IPCA-E + juros da Lei 8.177 art. 39 na fase\npré-judicial; SELIC do ajuizamento); desde 30/08/2024, Lei 14.905/2024\n(IPCA + taxa legal SELIC-IPCA, CC 389 e 406, adotada pela SDI-1 do TST);\nFazenda Pública (EC 113 art. 3 e EC 136/2025); modulação, coisa julgada,\ndano moral (Súm. 439 cancelada) e Súms. 200/211/381 TST."
+description: "Usar para pesquisar ou analisar: Correção Monetária e Juros Trabalhistas (ADC 58 + Lei 14.905/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Correção Monetária e Juros Trabalhistas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

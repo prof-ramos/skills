@@ -5,8 +5,8 @@ title: "Salário-Utilidade (CLT 458)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/salario-utilidade-clt-458.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/salario-utilidade-clt-458/SKILL.md"
 triggers:
   - "salário-utilidade"
   - "salário in natura"
@@ -15,10 +15,15 @@ triggers:
   - "CLT 458"
   - "Súm. 367 TST"
   - "programa de alimentação do trabalhador"
-description: "Salário-utilidade (CLT 458): habitação, alimentação, vestuário e\noutras prestações em natura integram salário quando dadas pelo trabalho\n(não para o trabalho); limites art. 458 §3 (20% habitação, 25% alimentação);\nexclusões (§2: instrumento de trabalho, EPI, vestuário p/ serviço);\nPAT/auxílio-alimentação indenizatório pós-Reforma."
+description: "Usar para pesquisar ou analisar: Salário-Utilidade (CLT 458). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Salário-Utilidade (in natura)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

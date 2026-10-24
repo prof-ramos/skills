@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "embargos-devedor"
 version: 2
-sourcePath: "lib/skills/official/forma/embargos-devedor.md"
+sourcePath: "legalbr/forma/embargos-devedor/SKILL.md"
 triggers:
   - "embargos à execução"
   - "embargos do devedor"
@@ -16,10 +16,15 @@ triggers:
   - "excesso de execução"
   - "independem de garantia do juízo"
   - "embargos à execução de título extrajudicial"
-description: "Embargos à execução de título extrajudicial (CPC 914-920): ação\nautônoma de cognição exauriente em autos apartados; prazo de 15 dias\nda juntada do mandado, independente de garantia; matérias do art. 917\n(inexequibilidade, penhora, excesso, retenção, incompetência, defesas\nde contestação); efeito suspensivo do art. 919 cumulativo a\nrequerimento, fumus, periculum e garantia."
+description: "Usar para redigir ou revisar: Embargos do Devedor (Embargos à Execução). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos do Devedor (Embargos à Execução)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

@@ -5,8 +5,8 @@ title: "Irretroatividade de Majorações e Índices de Reajuste de Benefícios d
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/irretroatividade-majoracoes-reajustes-inss-temas-70-165-388.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/irretroatividade-majoracoes-reajustes-inss-temas-70-165-388/SKILL.md"
 triggers:
   - "Tema 70 STF"
   - "Tema 165 STF"
@@ -20,10 +20,15 @@ triggers:
   - "preservação do valor real do benefício"
   - "Lei 8.213 art. 41-A INPC"
   - "IGP-DI reajuste de benefício"
-description: "Bloco de irretroatividade em revisões do RGPS: Tema 70 STF (RE 575.089, vedado\nregime híbrido), Temas 165 (RE 597.389) e 388 (RE 613.033) STF (coeficientes da\nLei 9.032/95 não retroagem a pensões e auxílios-acidente anteriores) e Tema 728\nSTF (ARE 808.107, constitucionais os índices de reajuste do INSS de 1997-2003).\nLei 8.213 art. 41-A (INPC), tempus regit actum e Súm. 340 STJ."
+description: "Usar para pesquisar ou analisar: Irretroatividade de Majorações e Índices de Reajuste de Benefícios do INSS (Temas 70, 165, 388 e 728 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Irretroatividade de Majorações e Índices de Reajuste (RGPS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Bloco defensivo padrão do INSS em ações revisionais: (i) lei nova que majora coeficiente **não retroage** a benefícios concedidos antes dela; (ii) não há direito adquirido a **regime jurídico** nem a combinação de regras de sistemas distintos; (iii) os **índices legais de reajuste** dos benefícios são constitucionais, e o Judiciário não pode substituí-los por índice que assegure "ganho real".
 

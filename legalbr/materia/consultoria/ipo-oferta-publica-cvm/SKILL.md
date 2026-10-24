@@ -5,8 +5,8 @@ title: "IPO e Oferta Pública (RCVM 160 + 80 + 35)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/governanca-mercado-capitais/ipo-oferta-publica-cvm.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/ipo-oferta-publica-cvm/SKILL.md"
 triggers:
   - "IPO"
   - "oferta pública"
@@ -16,10 +16,15 @@ triggers:
   - "bookbuilding"
   - "underwriting"
   - "follow-on"
-description: "IPO e ofertas públicas: RCVM 160/22 (substituiu as Instruções CVM 400 e 476),\nRCVM 80/22 (registro de emissor) e Lei 6.385/76. Tipos (primária,\nsecundária, mista), regimes (oferta automática × ordinária),\nunderwriting (firme, melhores esforços), prospecto, listagem na B3\n(Novo Mercado, Nível 2, Nível 1)."
+description: "Usar para pesquisar ou analisar: IPO e Oferta Pública (RCVM 160 + 80 + 35). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPO e Oferta Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases normativas
 

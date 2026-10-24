@@ -5,8 +5,8 @@ title: "Anti-Suit Injunction e Litígio Transnacional"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/anti-suit-injunction-cross-border.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/anti-suit-injunction-cross-border/SKILL.md"
 triggers:
   - "anti-suit injunction"
   - "litígio transnacional"
@@ -18,10 +18,15 @@ triggers:
   - "Convenção Haia 1970"
   - "discovery transnacional"
   - "OFAC sanctions"
-description: "Litígio transnacional: anti-suit injunction (importação restrita no\nBrasil), forum non conveniens (sem previsão expressa; debatido),\nlitispendência internacional (CPC 24: ação no exterior não impede a\nbrasileira, salvo convenção). Cooperação: Convenção da Haia sobre\ncitação (1965, Dec. 9.734/19), sobre provas (1970, Dec. 9.039/17),\nsobre escolha de foro (2005, sem vigência para o Brasil), Carta\nRogatória ao STJ (RISTJ arts. 216-A ss.). Coordenação OFAC/sanctions;\ndiscovery transnacional via 28 USC 1782. Anti-suit injunction\nestrangeira: STJ resiste ao reconhecimento amplo."
+description: "Usar para pesquisar ou analisar: Anti-Suit Injunction e Litígio Transnacional. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anti-Suit Injunction e Litígio Transnacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

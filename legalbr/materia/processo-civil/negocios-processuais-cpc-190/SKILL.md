@@ -5,8 +5,8 @@ title: "Negócios Jurídicos Processuais (CPC 190-191)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/negocios-processuais-cpc-190.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/negocios-processuais-cpc-190/SKILL.md"
 triggers:
   - "negócios jurídicos processuais"
   - "CPC 190"
@@ -18,10 +18,15 @@ triggers:
   - "convenção sobre ônus"
   - "convenção processual"
   - "calendário processual"
-description: "NJP CPC 190 cláusula geral de negociação ATÍPICA (direitos\ndisponíveis + capazes + autocomposição + mudanças no\nprocedimento + ônus/poderes/faculdades/deveres); CPC 191\nCALENDÁRIO (vincula todos + dispensa intimações); rol de\nconvenções atípicas exemplificativo (impenhorabilidade, prazos,\nperito, instância única); STJ REsp 1.810.444 (limites: ordem\npública; transigir sobre contraditório/atos do juiz exige\naquiescência judicial); LIMITES: ordem pública + direito\nindisponível."
+description: "Usar para pesquisar ou analisar: Negócios Jurídicos Processuais (CPC 190-191). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Negócios Jurídicos Processuais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 190: CLÁUSULA GERAL de NEGOCIAÇÃO
 

@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/taxas-cf-145-ii-sum-545.md"
+sourcePath: "legalbr/materia/tributario/taxas-cf-145-ii-sum-545/SKILL.md"
 triggers:
   - "taxas"
   - "CF 145 II"
@@ -23,10 +23,15 @@ triggers:
   - "emolumentos notariais"
   - "emolumentos de cartório"
   - "ADI 1.378"
-description: "Taxas CF 145 II (U/E/M/DF), 2 FGs: (a) poder de POLÍCIA + (b)\nserviço PÚBLICO ESPECÍFICO + DIVISÍVEL (UTI SINGULI); CF 145\n§2 veda BC de imposto (SV 29: elementos OK); Súm. 545 STF\n(≠ preço público); Súm. 670 STF (iluminação NÃO é taxa, uti\nuniversi: COSIP 149-A); SV 19 (coleta DOMICILIAR de lixo OK);\nSúm. 667 STF (taxa judiciária ad valorem sem teto inconst.);\nTemas 16, 217, 919, 1.035 e 1.282 STF; ADIs 3.717, 7.400 e ADPF 512.\nInclui Taxa Siscomex (Tema 1.085 STF: majoração por portaria) e\nemolumentos notariais/registrais (ADI 1.378 + Lei 10.169/2000)."
+description: "Usar para pesquisar ou analisar: Taxas (CF 145 II + Súm. 545 STF + SV 19 + SV 29 + SV 41). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taxas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 145 II
 

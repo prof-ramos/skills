@@ -5,8 +5,8 @@ title: "Ordem Econômica e Financeira (CF 170-181) + CADE + CDC"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/ordem-economica-financeira.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/ordem-economica-financeira/SKILL.md"
 triggers:
   - "ordem econômica"
   - "CF 170"
@@ -17,10 +17,15 @@ triggers:
   - "CF 177 monopólios"
   - "reforma agrária"
   - "agenda ESG"
-description: "Ordem econômica e financeira sob a CF/88 (arts. 170-192): fundamentos da livre\niniciativa e da valorização do trabalho e princípios do art. 170; atuação do\nEstado como produtor e regulador (arts. 173-174) e regime das estatais; defesa\nda concorrência pelo CADE (Lei 12.529/2011); defesa do consumidor (CDC);\npolítica agrícola e fundiária e sistema financeiro nacional."
+description: "Usar para pesquisar ou analisar: Ordem Econômica e Financeira (CF 170-181) + CADE + CDC. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ordem Econômica e Financeira (CF 170-192)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

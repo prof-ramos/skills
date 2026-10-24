@@ -5,8 +5,8 @@ title: "Teoria Geral dos Bens (CC 79-103)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/bens-cc-79.md"
+version: 2
+sourcePath: "legalbr/materia/civil/bens-cc-79/SKILL.md"
 triggers:
   - "teoria geral dos bens"
   - "CC 79"
@@ -21,10 +21,15 @@ triggers:
   - "universalidade de fato e de direito"
   - "frutos e produtos"
   - "bem principal e acessório"
-description: "Teoria geral dos bens (CC 79-103): imóveis (CC 79) × móveis (CC 82);\nfungíveis × infungíveis (CC 85); consumíveis × inconsumíveis (CC 86);\ndivisíveis × indivisíveis (CC 87-88); singulares × coletivos (CC 89-91);\nprincipais × acessórios (CC 92); pertenças × frutos × benfeitorias\n(CC 93-97); bens públicos (CC 98-103); semoventes; bem de família."
+description: "Usar para pesquisar ou analisar: Teoria Geral dos Bens (CC 79-103). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teoria Geral dos Bens
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Imóveis × Móveis
 

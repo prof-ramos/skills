@@ -5,8 +5,8 @@ title: "PIS/COFINS na Base de Cálculo do ICMS (Tema 1.223 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-base-icms-tema-1223.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-base-icms-tema-1223/SKILL.md"
 triggers:
   - "Tema 1.223 STJ"
   - "PIS COFINS na base do ICMS"
@@ -14,10 +14,15 @@ triggers:
   - "cálculo por dentro PIS Cofins ICMS"
   - "inversão Tema 69 STF"
   - "exclusão PIS COFINS base ICMS"
-description: "Tema 1.223 STJ (1ª Seção, dez/2024): NÃO se exclui PIS e COFINS\nda base de cálculo do ICMS quando esta é o VALOR DA OPERAÇÃO\n(LC 87/96 art. 13 § 1). Tributos calculados por dentro integram\no preço final. Distinto do Tema 69 STF (que excluiu o ICMS da\nbase PIS/Cofins). Bases tributárias têm regimes distintos."
+description: "Usar para pesquisar ou analisar: PIS/COFINS na Base de Cálculo do ICMS (Tema 1.223 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS na Base de Cálculo do ICMS (Tema 1.223 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.223 STJ, 1ª Seção, dez/2024)
 

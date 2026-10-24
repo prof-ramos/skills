@@ -5,8 +5,8 @@ title: "Súmula Vinculante 16, Mínimo Refere-se ao Total da Remuneração (STF)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/sumula-vinculante-16-total-remuneracao-minimo.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-16-total-remuneracao-minimo/SKILL.md"
 triggers:
   - "Súmula Vinculante 16"
   - "SV 16"
@@ -17,10 +17,15 @@ triggers:
   - "art 7 IV CF"
   - "RE 439.360"
   - "jornada reduzida mínimo"
-description: "SV 16 STF (25/06/2009): \"Os artigos 7º, IV, e 39, §3º (redação\nda EC 19/98), da Constituição, referem-se ao total da remuneração\npercebida pelo servidor público\"; vencimento básico pode ser\ninferior ao SM desde que a remuneração total o atinja; admite-se\nabono complementar; STF RE 964.659 (Tema 900) reafirma vedação de\npagamento abaixo do mínimo mesmo em jornada reduzida; correlato à SV 4 e SV 15."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 16, Mínimo Refere-se ao Total da Remuneração (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 16, Total da Remuneração e o Salário Mínimo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

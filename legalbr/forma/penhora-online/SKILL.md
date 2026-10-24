@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "penhora-online"
 version: 2
-sourcePath: "lib/skills/official/forma/penhora-online.md"
+sourcePath: "legalbr/forma/penhora-online/SKILL.md"
 triggers:
   - "penhora online via SISBAJUD"
   - "bloqueio de ativos financeiros art. 854 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "indisponibilidade de valores em conta bancária"
   - "sucessor do BACENJUD"
   - "penhora online e impenhorabilidade do art. 833"
-description: "Penhora online sob o CPC 854 e SISBAJUD: indisponibilidade eletrônica\nsem ciência prévia; liberação do excesso em 24h (§1º); impugnação em\n5 dias restrita a impenhorabilidade e excesso remanescente (§3º);\nconversão automática em penhora (§5º); reiteração teimosinha (Tema\n1.325 STJ); bloqueio de criptoativos pelo CriptoJud (CNJ, 2025);\nimpenhorabilidades do art. 833 (40 SM em poupança, Tema 1.235;\nhonorários sucumbenciais não se equiparam a prestação alimentícia,\nTema 1.153 STJ)."
+description: "Usar para redigir ou revisar: Penhora Online (SISBAJUD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora Online (SISBAJUD)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Sistema
 

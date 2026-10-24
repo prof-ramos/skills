@@ -5,8 +5,8 @@ title: "Inquérito Civil e Recomendação (atuação extrajudicial do MP)"
 category: "forma"
 materia: null
 documentType: "inquerito-civil-recomendacao-mp"
-version: 1
-sourcePath: "lib/skills/official/forma/inquerito-civil-recomendacao-mp.md"
+version: 2
+sourcePath: "legalbr/forma/inquerito-civil-recomendacao-mp/SKILL.md"
 triggers:
   - "inquérito civil"
   - "portaria de instauração"
@@ -19,10 +19,15 @@ triggers:
   - "desarquivamento de inquérito civil"
   - "atuação extrajudicial do Ministério Público"
   - "indeferimento de instauração"
-description: "Peças da atuação extrajudicial do MP: portaria de instauração, promoção de\narquivamento com remessa ao CSMP/CCR e recomendação. CF 129 III e VI, Lei\n7.347/85 arts. 8-9, Res. CNMP 23/2007 (IC: 1 ano prorrogável, arquivamento em\n3 dias, desarquivamento em 6 meses) e Res. CNMP 164/2017 (recomendação sem\ncaráter coercitivo, prazo razoável e resposta)."
+description: "Usar para redigir ou revisar: Inquérito Civil e Recomendação (atuação extrajudicial do MP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inquérito Civil e Recomendação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "ESG Corporativo + Disclosure (CVM Reso 59/2021 + FRE)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/esg-corporativo-cvm-59.md"
+version: 2
+sourcePath: "legalbr/materia/societario/esg-corporativo-cvm-59/SKILL.md"
 triggers:
   - "ESG corporativo"
   - "Resolução CVM 59"
@@ -18,10 +18,15 @@ triggers:
   - "companhia aberta sustentabilidade"
   - "CSRD UE"
   - "IFRS S1 S2"
-description: "ESG Corporativo + Disclosure, **Resolução CVM 59/2021**:\nobrigatória para **companhias abertas** desde **02/01/2023**.\nAlterou o **FRE (Formulário de Referência)**: exige divulgação de\nriscos ESG + clima + diversidade + governança. Modelo **\"comply\nor explain\"**: adota práticas ou justifica. Inclui: emissão de\nGEE (inventário), riscos climáticos, diversidade no conselho +\ndiretoria, políticas sociais + ambientais. Convergência com **IFRS\nS1 + S2** (sustentabilidade + clima, padrão ISSB da Res. CVM\n193/2023: reporte **voluntário** desde a Res. CVM 244/2026, em\nregime pratique-ou-explique) + **CSRD UE** (Diretiva 2022/2464,\nextraterritorial). Aplicação a empresas brasileiras com operações\nUE. **B3** estimula via Novo Mercado + segmentos especiais."
+description: "Usar para pesquisar ou analisar: ESG Corporativo + Disclosure (CVM Reso 59/2021 + FRE). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ESG Corporativo + CVM 59
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

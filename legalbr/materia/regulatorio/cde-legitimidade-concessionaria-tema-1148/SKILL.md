@@ -5,8 +5,8 @@ title: "CDE + Legitimidade Passiva da Concessionária (Tema 1.148 STJ)"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/cde-legitimidade-concessionaria-tema-1148.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/cde-legitimidade-concessionaria-tema-1148/SKILL.md"
 triggers:
   - "Tema 1.148 STJ"
   - "CDE conta desenvolvimento energético"
@@ -14,10 +14,15 @@ triggers:
   - "ANEEL União ilegitimidade CDE"
   - "cobrança encargo setorial"
   - "tarifa energia consumidor final"
-description: "Tema 1.148 STJ (1ª Seção, 12/03/2025): nas demandas em que o\nconsumidor final discute objetivos e parâmetros de cálculo das\nquotas anuais da Conta de Desenvolvimento Energético (CDE), a\nlegitimidade passiva é da CONCESSIONÁRIA/PRESTADORA de energia.\nUnião e ANEEL são partes ILEGÍTIMAS, mesmo se a discussão envolver\nlegalidade dos regulamentos do Poder Público."
+description: "Usar para pesquisar ou analisar: CDE + Legitimidade Passiva da Concessionária (Tema 1.148 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CDE + Legitimidade Passiva da Concessionária (Tema 1.148 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.148 STJ, 1ª Seção, 12/03/2025)
 

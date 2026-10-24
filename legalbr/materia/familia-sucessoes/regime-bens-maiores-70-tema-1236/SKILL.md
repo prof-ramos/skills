@@ -5,8 +5,8 @@ title: "Regime de Bens de Maiores de 70 anos (Tema 1.236 STF + CC 1.641)"
 category: "materia"
 materia: "familia-sucessoes"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/familia-sucessoes/familia/regime-bens-maiores-70-tema-1236.md"
+version: 2
+sourcePath: "legalbr/materia/familia-sucessoes/regime-bens-maiores-70-tema-1236/SKILL.md"
 triggers:
   - "Tema 1.236 STF"
   - "regime bens maiores 70"
@@ -18,10 +18,15 @@ triggers:
   - "escritura pública regime"
   - "união estável idoso"
   - "autonomia idoso"
-description: "Tema 1.236 STF (ARE 1.309.642, 01/02/2024): nos casamentos\ne UE envolvendo pessoa maior de 70 anos, o regime de\nseparação obrigatória (CC 1.641 II) PODE SER AFASTADO por\nexpressa manifestação via escritura pública. Súmula 377 STF\nsegue válida quando não houver pacto. Aplicação a UE por\ncontrato de convivência. Efeitos prospectivos (não atinge a\npartilha do período anterior à decisão nem situações já\nconsolidadas)."
+description: "Usar para pesquisar ou analisar: Regime de Bens de Maiores de 70 anos (Tema 1.236 STF + CC 1.641). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regime de Bens em Maiores de 70 anos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

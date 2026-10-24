@@ -5,18 +5,23 @@ title: "ITCMD sobre Doações no Exterior (Tema 825 STF + LC nacional)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/itcmd-doacao-exterior-tema-825.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/itcmd-doacao-exterior-tema-825/SKILL.md"
 triggers:
   - "Tema 825 STF"
   - "ITCMD doação exterior"
   - "RE 851.108"
   - "CF 155 §1 III"
   - "LC nacional ITCMD"
-description: "Tema 825 STF (RE 851.108, 01/03/2021): É VEDADO a Estados\ninstituir ITCMD sobre DOAÇÕES + HERANÇAS recebidas do\nEXTERIOR sem prévia LEI COMPLEMENTAR FEDERAL específica\n(CF 155 §1 III). Modulação: efeitos a partir da publicação\nda ata + ressalva ações ajuizadas até a data."
+description: "Usar para pesquisar ou analisar: ITCMD sobre Doações no Exterior (Tema 825 STF + LC nacional). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ITCMD sobre Doações/Heranças do Exterior
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

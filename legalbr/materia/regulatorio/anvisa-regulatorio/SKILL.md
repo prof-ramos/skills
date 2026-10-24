@@ -5,8 +5,8 @@ title: "ANVISA: Regulação e Procedimento Sancionador"
 category: "materia"
 materia: "regulatorio"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/regulatorio/anvisa-regulatorio.md"
+version: 2
+sourcePath: "legalbr/materia/regulatorio/anvisa-regulatorio/SKILL.md"
 triggers:
   - "ANVISA"
   - "Lei 9.782"
@@ -18,10 +18,15 @@ triggers:
   - "boas práticas de fabricação"
   - "GMP farmacêutica"
   - "DICOL ANVISA"
-description: "Regulação e processo sancionador da Agência Nacional de Vigilância Sanitária\n(ANVISA). Base: Lei 9.782/99 (cria ANVISA), Lei 6.360/76 (medicamentos\ne correlatos), Lei 8.078/90 (CDC), Lei 9.677/98 (crimes sanitários),\nRDC 222/2018 (resíduos de serviços de saúde), Lei 6.437/77 (infrações\nsanitárias federais), RDC 67/2007 (regulamento sancionador). Procedimento:\nPAS após auto de infração; recurso à Diretoria Colegiada (DICOL). Setores:\nmedicamentos, cosméticos, alimentos, dispositivos médicos, saneantes,\ntoxicologia. Sanções: multa (R$ 2 mil a R$ 1,5 mi), interdição, recall."
+description: "Usar para pesquisar ou analisar: ANVISA: Regulação e Procedimento Sancionador. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANVISA: Regulação e Procedimento Sancionador
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

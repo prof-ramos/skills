@@ -5,8 +5,8 @@ title: "Incidente de Insanidade Mental (CPP 149-154)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/incidente-insanidade-mental-cpp-149.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/incidente-insanidade-mental-cpp-149/SKILL.md"
 triggers:
   - "CPP 149"
   - "incidente insanidade"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 527 STJ"
   - "Lei 10.216/2001"
   - "reforma psiquiátrica"
-description: "Incidente de insanidade mental CPP 149-154: instaurável de ofício\nou a requerimento; perícia psiquiátrica em prazo de 45 dias\nprorrogáveis; suspende o processo (CPP 149 §2), não a prescrição\n(STJ pacífico); curador nomeado pelo juízo; resultados: imputável /\nsemi-imputável (CP 26 par. único) / inimputável (CP 26 caput);\njuízo penal não vinculado ao laudo (CPP 182); Súm. 527 STJ\n(limite da medida de segurança); reflexos na sentença."
+description: "Usar para pesquisar ou analisar: Incidente de Insanidade Mental (CPP 149-154). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Insanidade Mental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base + finalidade
 

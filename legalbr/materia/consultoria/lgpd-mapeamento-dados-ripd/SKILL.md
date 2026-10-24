@@ -5,8 +5,8 @@ title: "LGPD: Mapeamento de Dados (ROPA) e RIPD/DPIA"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/lgpd-mapeamento-dados-ripd.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/lgpd-mapeamento-dados-ripd/SKILL.md"
 triggers:
   - "mapeamento de dados"
   - "inventário de dados"
@@ -16,10 +16,15 @@ triggers:
   - "DPIA"
   - "relatório de impacto"
   - "data mapping"
-description: "Mapeamento de dados (ROPA, Record of Processing Activities) e\nRelatório de Impacto à Proteção de Dados (RIPD/DPIA) sob LGPD\n(Lei 13.709/2018) + Resoluções ANPD (CD 02/2022, agentes de\npequeno porte, CD 18/2024, encarregado/DPO, CD 04/2023,\ndosimetria/sanções, CD 15/2024, incidentes):\ninventário (finalidade, base legal, dados, titulares,\ncompartilhamento, retenção, transferência internacional),\nmatriz de risco e medidas mitigantes."
+description: "Usar para pesquisar ou analisar: LGPD: Mapeamento de Dados (ROPA) e RIPD/DPIA. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD: Mapeamento (ROPA) e RIPD/DPIA
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,18 +5,23 @@ title: "Termo Inicial do Auxílio-Acidente após Auxílio-Doença (Tema 1.225 ST
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/termo-inicial-auxilio-acidente-tema-1225.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/termo-inicial-auxilio-acidente-tema-1225/SKILL.md"
 triggers:
   - "Tema 1.225 STF"
   - "termo inicial auxílio-acidente"
   - "RE 1.382.897"
   - "art. 86 §2 Lei 8.213"
   - "DIB auxílio-acidente"
-description: "Tema 1.225 STF (RE 1.382.897, 13/08/2022): TERMO INICIAL\ndo auxílio-acidente é o DIA SEGUINTE à cessação do\nauxílio-doença acidentário que precedeu (Lei 8.213/91\nart. 86 §2). NÃO se confunde com DII. Aplicável a\nauxílio-acidente decorrente de qualquer espécie de\nauxílio-doença que originou as sequelas."
+description: "Usar para pesquisar ou analisar: Termo Inicial do Auxílio-Acidente após Auxílio-Doença (Tema 1.225 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Termo Inicial do Auxílio-Acidente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Conceito de Insumo para Créditos de PIS/COFINS (Temas 779 e 780 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-conceito-insumo-temas-779-780.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-conceito-insumo-temas-779-780/SKILL.md"
 triggers:
   - "conceito de insumo PIS COFINS"
   - "Tema 779 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "art. 3º Lei 10.637 insumos"
   - "crédito de EPI PIS COFINS"
   - "Parecer Normativo COSIT 5/2018"
-description: "Conceito de insumo do art. 3º, II, das Leis 10.637/2002 e 10.833/2003\nsegundo os Temas 779 e 780 STJ (REsp 1.221.170): critérios de\nessencialidade ou relevância, teste de subtração, ilegalidade das INs SRF\n247/2002 e 404/2004 e casuística de creditamento (EPI, fretes, exames)."
+description: "Usar para pesquisar ou analisar: Conceito de Insumo para Créditos de PIS/COFINS (Temas 779 e 780 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conceito de Insumo para Créditos de PIS/COFINS (Temas 779 e 780 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

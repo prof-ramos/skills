@@ -5,8 +5,8 @@ title: "Responsabilidade Civil do Estado (CF 37 §6º)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-civil-estado.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-civil-estado/SKILL.md"
 triggers:
   - "responsabilidade civil do Estado"
   - "CF 37 §6"
@@ -17,10 +17,15 @@ triggers:
   - "morte de detento Tema 592"
   - "faute du service"
   - "erro judiciário indenização"
-description: "Responsabilidade civil do Estado sob a CF (37 §6º) e o CC (43): teoria do risco\nadministrativo como regra e risco integral em hipóteses excepcionais (nuclear,\nambiental, atos bélicos); pressupostos e excludentes; regime de atos comissivos\ne omissivos com objetiva por custódia; dupla garantia e regresso autônomo;\nalcance das prestadoras de serviço público e prescrição quinquenal."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil do Estado (CF 37 §6º). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil do Estado (CF 37 §6)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

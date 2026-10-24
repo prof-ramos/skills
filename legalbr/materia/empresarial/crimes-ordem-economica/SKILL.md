@@ -5,8 +5,8 @@ title: "Crimes contra Ordem Econômica e Relações de Consumo (Lei 8.137 + Lei 
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/crimes-ordem-economica.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/crimes-ordem-economica/SKILL.md"
 triggers:
   - "crimes contra ordem econômica"
   - "cartel"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 12.529/2011"
   - "leniência CADE"
   - "crimes contra relações de consumo"
-description: "Crimes contra a ordem econômica e relações de consumo (Lei\n8.137/1990 arts. 4-7 + Lei 12.529/2011 + CDC arts. 61-80):\ncartel (art. 4º, tipo único pós Lei 12.529); bid-rigging\n(CP 337-F); leniência do CADE (arts. 86-87); sanções\nadministrativas e atos de concentração."
+description: "Usar para pesquisar ou analisar: Crimes contra Ordem Econômica e Relações de Consumo (Lei 8.137 + Lei 12.529 + CDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra Ordem Econômica e Relações de Consumo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

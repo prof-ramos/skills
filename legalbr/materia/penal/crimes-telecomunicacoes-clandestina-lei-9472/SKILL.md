@@ -5,8 +5,8 @@ title: "Crimes de Telecomunicações: Atividade Clandestina (Lei 9.472/97 arts. 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-telecomunicacoes-clandestina-lei-9472.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-telecomunicacoes-clandestina-lei-9472/SKILL.md"
 triggers:
   - "rádio clandestina"
   - "art. 183 Lei 9.472"
@@ -18,10 +18,15 @@ triggers:
   - "radiodifusão sem autorização"
   - "rádio comunitária sem outorga"
   - "internet via radiofrequência"
-description: "Crime de desenvolver clandestinamente atividades de telecomunicação\n(Lei 9.472/97 art. 183: det. 2-4 + multa; conceito de clandestina no\nart. 184 par. único, red. Lei 15.181/2025) e distinção com o art. 70\nda Lei 4.117/62 (atividade autorizada em desacordo); Súm. 606 STJ\n(insignificância inaplicável); competência da Justiça Federal (CF\n109 IV + 21 XI); efeitos da condenação e perda de bens."
+description: "Usar para pesquisar ou analisar: Crimes de Telecomunicações: Atividade Clandestina (Lei 9.472/97 arts. 183-185). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes de Telecomunicações: Atividade Clandestina
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 9.472/97 (LGT), art. 183
 

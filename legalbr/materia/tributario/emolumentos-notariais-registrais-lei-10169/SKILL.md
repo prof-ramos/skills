@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/emolumentos-notariais-registrais-lei-10169.md"
+sourcePath: "legalbr/materia/tributario/emolumentos-notariais-registrais-lei-10169/SKILL.md"
 triggers:
   - "emolumentos notariais"
   - "emolumentos registrais"
@@ -18,10 +18,15 @@ triggers:
   - "ISS sobre serviços notariais"
   - "emolumentos crédito rural"
   - "cobrança excessiva de emolumentos"
-description: "Emolumentos dos serviços notariais e de registro: natureza de TAXA (ADI\n1.378 STF), normas gerais da Lei 10.169/2000 (CF 236, § 2º): fixação por lei\nestadual em tabelas, correspondência ao efetivo custo, vedações (percentual\nsem faixas, quantias não previstas), teto de 0,3% no crédito rural, reajuste\ncom anterioridade e gratuidades; ISS sobre a atividade é constitucional (ADI 3.089)."
+description: "Usar para pesquisar ou analisar: Emolumentos Notariais e Registrais, Natureza, Fixação e Vedações (Lei 10.169/2000). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Emolumentos Notariais e Registrais: Natureza, Fixação e Vedações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza jurídica
 

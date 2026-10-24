@@ -5,8 +5,8 @@ title: "CET: Custo Efetivo Total (Res. CMN 4.881/20)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cet-custo-efetivo-total.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cet-custo-efetivo-total/SKILL.md"
 triggers:
   - "CET custo efetivo total"
   - "Resolução CMN 4.881"
@@ -19,10 +19,15 @@ triggers:
   - "obrigação transparência IF"
   - "juros embutidos"
   - "Lei 10.962"
-description: "CET, Custo Efetivo Total (Res. CMN 4.881/20, substituiu 3.517/07):\nobrigatoriedade da IF informar previamente à contratação por PF o CET\nexpresso em percentual anual, considerando juros + tributos + tarifas\n+ seguros + demais despesas; instrumento de transparência e comparação;\ndever de informação reforça CDC 6 III + 31 e 52; aplica-se a empréstimos,\nfinanciamentos, arrendamento mercantil e cartão; descumprimento gera\nvício de informação + restituição."
+description: "Usar para pesquisar ou analisar: CET: Custo Efetivo Total (Res. CMN 4.881/20). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CET: Custo Efetivo Total
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

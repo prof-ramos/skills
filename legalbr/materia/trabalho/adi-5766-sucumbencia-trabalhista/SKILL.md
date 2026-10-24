@@ -5,8 +5,8 @@ title: "ADI 5766: Sucumbência ao Beneficiário da Justiça Gratuita (Trabalho)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/adi-5766-sucumbencia-trabalhista.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/adi-5766-sucumbencia-trabalhista/SKILL.md"
 triggers:
   - "ADI 5766"
   - "sucumbência beneficiário gratuidade"
@@ -16,10 +16,15 @@ triggers:
   - "honorários sucumbenciais trabalhista"
   - "acesso à justiça obreiro"
   - "reforma trabalhista"
-description: "ADI 5766 (rel. Roberto Barroso, red. acórdão Alexandre de Moraes,\nmérito julgado em 20/10/2021; ED rejeitados em 2022): declarou\nINCONSTITUCIONAIS a expressão \"ainda que beneficiária da justiça\ngratuita\" do caput e o §4 do CLT 790-B (honorários PERICIAIS) e a\nexpressão \"desde que não tenha obtido em juízo, ainda que em outro\nprocesso, créditos capazes de suportar a despesa\" do CLT 791-A §4\n(honorários SUCUMBENCIAIS). A condenação do beneficiário subsiste\ncom exigibilidade suspensa por 2 anos. CLT 844 §2 (custas por\nausência à audiência) declarado CONSTITUCIONAL. Efeitos ex tunc\n(modulação rejeitada nos ED). Base: CF 5 LXXIV (acesso à justiça)."
+description: "Usar para pesquisar ou analisar: ADI 5766: Sucumbência ao Beneficiário da Justiça Gratuita (Trabalho). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5766: Sucumbência Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

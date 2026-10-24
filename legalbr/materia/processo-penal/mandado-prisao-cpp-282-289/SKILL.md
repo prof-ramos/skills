@@ -5,8 +5,8 @@ title: "Mandado de Prisão e Cumprimento (CPP 282-300)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/mandado-prisao-cpp-282-289.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/mandado-prisao-cpp-282-289/SKILL.md"
 triggers:
   - "mandado prisão"
   - "CPP 285"
@@ -18,10 +18,15 @@ triggers:
   - "prisão domicílio"
   - "dia noite mandado"
   - "cumprimento extraterritorial mandado"
-description: "Mandado de prisão CPP 282-300: requisitos formais (data, nome,\nqualificação, crime, pena, juízo); cumprimento na comarca onde\nexpedido OU em qualquer lugar do Brasil mediante BNMP/CNJ;\ningresso em domicílio depende de mandado específico de busca\n(regra) + flagrante; horário diurno regra (CF 5 XI); algemas só\ncom motivo concreto (Súm. Vinc. 11); apresentação ao juiz em 24h\n(audiência de custódia por videoconferência, Lei 15.358/2026)."
+description: "Usar para pesquisar ou analisar: Mandado de Prisão e Cumprimento (CPP 282-300). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mandado de Prisão e Cumprimento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Mandado de prisão: requisitos (CPP 285)
 

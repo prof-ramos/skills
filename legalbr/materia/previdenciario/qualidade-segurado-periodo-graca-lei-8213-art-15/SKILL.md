@@ -5,8 +5,8 @@ title: "Qualidade de Segurado e Período de Graça (Lei 8.213 art. 15)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/qualidade-segurado-periodo-graca-lei-8213-art-15.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/qualidade-segurado-periodo-graca-lei-8213-art-15/SKILL.md"
 triggers:
   - "qualidade de segurado"
   - "período de graça"
@@ -19,10 +19,15 @@ triggers:
   - "recuperação de carência reingresso"
   - "Súm. 416 STJ pensão"
   - "art. 102 Lei 8.213 direito adquirido"
-description: "Manutenção e perda da qualidade de segurado (Lei 8.213/91 art. 15):\nperíodo de graça de 12 meses com empilhamento até 36 (12+12 pelas 120\ncontribuições do §1 e +12 pelo desemprego involuntário do §2, Tema\n1.360 STJ); termo final da perda (§4); direito adquirido e Súm. 416\nSTJ (art. 102); recuperação de carência no reingresso (art. 27-A,\nLei 13.846/2019)."
+description: "Usar para pesquisar ou analisar: Qualidade de Segurado e Período de Graça (Lei 8.213 art. 15). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Qualidade de Segurado e Período de Graça (Lei 8.213/91 art. 15)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 A manutenção da qualidade de segurado é a defesa mais recorrente do INSS em ações de benefício por incapacidade, pensão por morte, salário-maternidade e auxílio-reclusão. A sentença deve comparar o marco do fato gerador (DII, óbito, parto, prisão) com o termo final do período de graça calculado caso a caso.
 

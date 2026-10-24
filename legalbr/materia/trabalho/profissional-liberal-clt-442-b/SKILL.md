@@ -5,8 +5,8 @@ title: "Profissional Liberal + Autonomia (CLT 442-B + Tema 1.389 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/profissional-liberal-clt-442-b.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/profissional-liberal-clt-442-b/SKILL.md"
 triggers:
   - "profissional liberal"
   - "CLT 442-B"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.291 plataformas"
   - "ADPF 324"
   - "primazia da realidade"
-description: "CLT 442-B (Lei 13.467/2017): contratação de AUTÔNOMO, com ou\nsem exclusividade, afasta o vínculo do CLT 3 (cumpridas as\nformalidades); Tema 1.389 STF (tese pendente; suspensão nacional de\nabr/2025 retirada em jun/2026 para 1ª instância e TRTs): 3 questões\n(competência JT + licitude + ônus da prova); ADI 5.625 STF (parceria de salão\nconstitucional, mas fraude nula); ADC 48 (transportador autônomo);\nTema 1.291 plataformas (pendente)."
+description: "Usar para pesquisar ou analisar: Profissional Liberal + Autonomia (CLT 442-B + Tema 1.389 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Profissional Liberal + Autonomia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CLT 442-B (Lei 13.467/2017)
 

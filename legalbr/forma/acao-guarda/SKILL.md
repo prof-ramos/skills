@@ -5,8 +5,8 @@ title: "Ação de Guarda"
 category: "forma"
 materia: null
 documentType: "acao-guarda"
-version: 1
-sourcePath: "lib/skills/official/forma/acao-guarda.md"
+version: 2
+sourcePath: "legalbr/forma/acao-guarda/SKILL.md"
 triggers:
   - "ação de guarda"
   - "guarda compartilhada"
@@ -17,10 +17,15 @@ triggers:
   - "guarda compartilhada como regra Lei 13.058/2014"
   - "vedação em risco de violência doméstica Lei 14.713/2023"
   - "estudo psicossocial e intervenção do MP"
-description: "Ação de guarda sob o CC 1.583 a 1.590 e o CPC: modalidades unilateral\ne compartilhada (esta é a regra mesmo sem consenso pela Lei 13.058/2014,\ncom vedação havendo risco de violência doméstica pela Lei 14.713/2023);\nregime de convivência detalhado; intervenção obrigatória do MP e\nestudo psicossocial; melhor interesse da criança como vetor."
+description: "Usar para redigir ou revisar: Ação de Guarda. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação de Guarda
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

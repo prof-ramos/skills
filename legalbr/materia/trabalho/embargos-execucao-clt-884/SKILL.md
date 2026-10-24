@@ -5,8 +5,8 @@ title: "Embargos à Execução Trabalhista (CLT 884)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/execucao-trabalhista/embargos-execucao-clt-884.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/embargos-execucao-clt-884/SKILL.md"
 triggers:
   - "embargos à execução"
   - "CLT 884"
@@ -15,10 +15,15 @@ triggers:
   - "seguro garantia judicial trabalhista"
   - "CLT 879 §2"
   - "preclusão cálculos liquidação"
-description: "Embargos à execução trabalhista (CLT 884): defesa do executado em\n5 dias após garantia do juízo (penhora, depósito ou seguro garantia\njudicial, CLT 882); matéria limitada a cumprimento de decisão,\nquitação, prescrição, excesso de execução; sentença atacável por\nagravo de petição; garantido o juízo, não se exige depósito para\nrecorrer (Súm. 128 II TST); impugnação à liquidação na sequência."
+description: "Usar para pesquisar ou analisar: Embargos à Execução Trabalhista (CLT 884). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos à Execução Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

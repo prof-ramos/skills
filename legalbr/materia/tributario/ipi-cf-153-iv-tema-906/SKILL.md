@@ -5,8 +5,8 @@ title: "IPI (CF 153 IV + Lei 4.502/1964 + Dec. 7.212/2010 + Tema 906 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/ipi-cf-153-iv-tema-906.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipi-cf-153-iv-tema-906/SKILL.md"
 triggers:
   - "IPI"
   - "CF 153 IV"
@@ -22,10 +22,15 @@ triggers:
   - "EC 132 alíquota zero IPI"
   - "isenção IPI Lei 8.989 pessoa com deficiência"
   - "visão monocular"
-description: "IPI CF 153 IV (União, produtos industrializados); CF 153 §3\nSELETIVIDADE obrigatória + NÃO-CUMULATIVO + IMUNE exportação +\nreduzido bens capital; ANTERIORIDADE NONAGESIMAL (sem anual);\nLei 4.502/1964 + RIPI Dec. 7.212/2010; FG industrialização +\ndesembaraço; Tema 906 STF (incide desembaraço E saída do\nimportador, sem bis in idem); ZFM ADCT até 2073; EC 132/2023:\nalíquotas do IPI reduzidas a ZERO a partir de 2027, salvo\nprodutos com industrialização incentivada na ZFM."
+description: "Usar para pesquisar ou analisar: IPI (CF 153 IV + Lei 4.502/1964 + Dec. 7.212/2010 + Tema 906 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPI, Imposto sobre Produtos Industrializados
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153 IV
 

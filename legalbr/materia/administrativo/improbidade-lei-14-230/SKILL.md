@@ -5,8 +5,8 @@ title: "Improbidade Administrativa (Lei 14.230/2021 + Tema 1.199 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/improbidade-lei-14-230.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/improbidade-lei-14-230/SKILL.md"
 triggers:
   - "improbidade administrativa"
   - "Lei 8.429"
@@ -22,10 +22,15 @@ triggers:
   - "ADI 7.236"
   - "acordo de não persecução civil"
   - "Tema 897 STF"
-description: "Improbidade (Lei 8.429/92 + 14.230/21): dolo específico (Tema\n1.199); tipologia 9/10/11 (11 taxativo); prescrição 8 anos e\nintercorrente 8 anos (ADIs 7.156/7.236, j. 01/07/2026, anulada a\nredução à metade; teto de 20 anos de tramitação); legitimidade\nconcorrente (ADIs 7.042/43); ANPC; Tema 897."
+description: "Usar para pesquisar ou analisar: Improbidade Administrativa (Lei 14.230/2021 + Tema 1.199 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Improbidade Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

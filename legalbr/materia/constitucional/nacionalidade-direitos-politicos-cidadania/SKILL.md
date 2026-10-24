@@ -5,8 +5,8 @@ title: "Nacionalidade + Direitos Políticos + Cidadania (CF 12-17 + EC 131/2023)
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/nacionalidade-direitos-politicos-cidadania.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/nacionalidade-direitos-politicos-cidadania/SKILL.md"
 triggers:
   - "nacionalidade"
   - "brasileiro nato"
@@ -22,10 +22,15 @@ triggers:
   - "LC 64/1990"
   - "cláusula de desempenho"
   - "federação partidária"
-description: "Nacionalidade, direitos políticos e cidadania sob a CF/88 (arts. 12-17):\nhipóteses de brasileiro nato e naturalizado e cargos privativos (art. 12 §3º);\nperda da nacionalidade após a EC 131/2023; condições de elegibilidade e\ninelegibilidades (LC 64/90 e LC 135/2010); perda e suspensão (art. 15);\nregime constitucional dos partidos políticos e cláusula de desempenho."
+description: "Usar para pesquisar ou analisar: Nacionalidade + Direitos Políticos + Cidadania (CF 12-17 + EC 131/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nacionalidade + Direitos Políticos + Cidadania
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

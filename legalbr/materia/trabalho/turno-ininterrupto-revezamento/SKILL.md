@@ -5,8 +5,8 @@ title: "Turno Ininterrupto de Revezamento (CF 7 XIV + Tema 1.046 STF + OJs 275/3
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/turno-ininterrupto-revezamento.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/turno-ininterrupto-revezamento/SKILL.md"
 triggers:
   - "turno ininterrupto de revezamento"
   - "jornada de 6 horas revezamento"
@@ -18,10 +18,15 @@ triggers:
   - "divisor 180 turno de revezamento"
   - "Súm. 360 TST"
   - "escala de revezamento indústria"
-description: "Turno ininterrupto de revezamento (CF 7 XIV): jornada constitucional\nde 6h, salvo negociação coletiva; 7ª e 8ª horas como EXTRAS (hora +\nadicional) sem norma coletiva; caracterização por alternância de\nturnos alcançando dia e noite (OJ 360 SDI-1), intervalos não\ndescaracterizam (Súm. 360 TST); horista: OJ 275 SDI-1; elastecimento\na 8h por ACT/CCT hoje se sustenta no Tema 1.046 STF (ex-Súm. 423\ncancelada pela Res. TST 225/2025)."
+description: "Usar para pesquisar ou analisar: Turno Ininterrupto de Revezamento (CF 7 XIV + Tema 1.046 STF + OJs 275/360 SDI-1). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Turno Ininterrupto de Revezamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

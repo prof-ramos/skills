@@ -5,8 +5,8 @@ title: "Fraude Processual (CP 347)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/fraude-processual-cp-347.md"
+version: 2
+sourcePath: "legalbr/materia/penal/fraude-processual-cp-347/SKILL.md"
 triggers:
   - "CP 347"
   - "fraude processual"
@@ -18,10 +18,15 @@ triggers:
   - "induzir juiz"
   - "prova alterada"
   - "cadeia de custódia adulterada"
-description: "Fraude processual CP 347 (det. 3m-2a + multa): inovar\nartificiosamente estado de lugar/coisa/pessoa para induzir a erro\njuiz ou perito; par. único: pena dobrada se inovação é destinada\na produzir efeito em processo PENAL (mesmo ainda não iniciado);\ncrime formal, basta a inovação com finalidade enganosa; não\nexige sucesso do engano; sujeito ativo: qualquer pessoa."
+description: "Usar para pesquisar ou analisar: Fraude Processual (CP 347). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fraude Processual
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo (CP 347)
 

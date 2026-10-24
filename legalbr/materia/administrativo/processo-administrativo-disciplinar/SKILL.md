@@ -5,8 +5,8 @@ title: "PAD (Lei 8.112/90 arts. 143-182 + Lei 9.784/99)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/processo-administrativo-disciplinar.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/processo-administrativo-disciplinar/SKILL.md"
 triggers:
   - "PAD"
   - "processo administrativo disciplinar"
@@ -18,10 +18,15 @@ triggers:
   - "demissão art. 132"
   - "prescrição art. 142"
   - "indiciamento servidor"
-description: "PAD (Lei 8.112/90 arts. 143-182 + CF 5 LV): sindicância × PAD;\ncomissão de 3 estáveis; fases (instauração + inquérito +\njulgamento); sanções (127); demissão vinculada (132 + Súm. 650);\nprescrição (142); Súm. 635 STJ; SV 5 STF."
+description: "Usar para pesquisar ou analisar: PAD (Lei 8.112/90 arts. 143-182 + Lei 9.784/99). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PAD (Lei 8.112/90 arts. 143-182)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Julgamento Antecipado do Mérito (CPC 354-356)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/julgamento-antecipado-merito-cpc-355.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/julgamento-antecipado-merito-cpc-355/SKILL.md"
 triggers:
   - "julgamento antecipado"
   - "CPC 354"
@@ -16,10 +16,15 @@ triggers:
   - "extincao sem merito"
   - "cerceamento defesa"
   - "Sum 7 STJ"
-description: "Julgamento conforme estado do processo (CPC 354-357): extinção sem\nmérito (CPC 354), julgamento antecipado do mérito integral (CPC\n355, desnecessidade de produção de prova OU revelia), julgamento\nantecipado parcial (CPC 356, incontroverso ou parte madura);\ncerceamento de defesa (Súm. 7 STJ)."
+description: "Usar para pesquisar ou analisar: Julgamento Antecipado do Mérito (CPC 354-356). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Julgamento Antecipado do Mérito
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 354, EXTINÇÃO SEM MÉRITO
 

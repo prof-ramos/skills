@@ -5,8 +5,8 @@ title: "Desapropriação + Honorários na Desistência (Tema 1.298 STJ)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/desapropriacao-honorarios-desistencia-tema-1298.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/desapropriacao-honorarios-desistencia-tema-1298/SKILL.md"
 triggers:
   - "Tema 1.298 STJ"
   - "desistência desapropriação honorários"
@@ -14,10 +14,15 @@ triggers:
   - "honorários sucumbenciais desapropriação"
   - "servidão administrativa desistência"
   - "0,5% a 5% honorários expropriação"
-description: "Tema 1.298 STJ (1ª Seção, 12/05/2025): em desistência de ação de\ndesapropriação por utilidade pública ou servidão administrativa,\nos honorários sucumbenciais devidos pelo autor seguem os\npercentuais do DL 3.365/41 art. 27 §1 (0,5% a 5%), tendo como\nbase o VALOR ATUALIZADO DA CAUSA. Norma especial prevalece sobre\no CPC 85. Exceção: valor muito baixo → equidade CPC 85 §8."
+description: "Usar para pesquisar ou analisar: Desapropriação + Honorários na Desistência (Tema 1.298 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desapropriação + Honorários na Desistência (Tema 1.298 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.298 STJ, 1ª Seção, 12/05/2025)
 

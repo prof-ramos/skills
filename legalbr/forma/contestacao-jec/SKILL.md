@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contestacao-jec"
 version: 2
-sourcePath: "lib/skills/official/forma/contestacao-jec.md"
+sourcePath: "legalbr/forma/contestacao-jec/SKILL.md"
 triggers:
   - "contestação no juizado especial cível"
   - "contestação no JEC"
@@ -16,10 +16,15 @@ triggers:
   - "incompetência do juizado por complexidade"
   - "preposto com carta de preposição"
   - "risco de revelia na contestação do juizado"
-description: "Contestação no rito da Lei 9.099/95: apresentada oral ou por escrito até a\naudiência de instrução e julgamento (art. 30), concentrando toda a defesa,\nexceto suspeição e impedimento; pedido contraposto em lugar da reconvenção\nvedada (art. 31), nos limites do art. 3º e fundado nos mesmos fatos; vedação\nde intervenção de terceiros e assistência (art. 10); revelia pela ausência\npessoal do réu (art. 20); provas concentradas na audiência (arts. 32 a 35)."
+description: "Usar para redigir ou revisar: Contestação no Juizado Especial Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contestação no Juizado Especial Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e momento
 

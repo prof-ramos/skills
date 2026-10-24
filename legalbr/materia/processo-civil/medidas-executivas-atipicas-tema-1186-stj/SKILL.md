@@ -5,8 +5,8 @@ title: "Medidas Executivas Atípicas (Tema 1.137 STJ + ADI 5.941 STF + art. 139 
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/medidas-executivas-atipicas-tema-1186-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/medidas-executivas-atipicas-tema-1186-stj/SKILL.md"
 triggers:
   - "Tema 1.137 STJ"
   - "ADI 5.941 STF"
@@ -17,10 +17,15 @@ triggers:
   - "suspensão cartão crédito"
   - "bloqueio bens executado"
   - "princípio menor onerosidade"
-description: "Tema 1.137 STJ (2ª Seção, 04/12/2025) e ADI 5.941 STF (2023)\nsobre CPC art. 139 IV: o juiz PODE adotar medidas executivas\nATÍPICAS (apreensão de CNH, passaporte, suspensão de cartão de\ncrédito, bloqueio de Pix), observados cumulativamente: (i)\nsubsidiariedade aos meios típicos; (ii) razoabilidade +\nproporcionalidade; (iii) fundamentação concreta; (iv)\ncontraditório prévio; sem violação à dignidade."
+description: "Usar para pesquisar ou analisar: Medidas Executivas Atípicas (Tema 1.137 STJ + ADI 5.941 STF + art. 139 IV CPC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medidas Executivas Atípicas (CPC 139 IV)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

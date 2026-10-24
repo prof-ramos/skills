@@ -5,8 +5,8 @@ title: "Teletrabalho / Home Office (CLT 75-A a 75-F)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/teletrabalho.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/teletrabalho/SKILL.md"
 triggers:
   - "teletrabalho"
   - "home office"
@@ -14,10 +14,15 @@ triggers:
   - "CLT 75-A"
   - "Lei 14.442/2022"
   - "MP 1.108/2022"
-description: "Teletrabalho sob os arts. 75-A a 75-F da CLT (Lei 13.467/17 e\nLei 14.442/22): conceito, modalidades por jornada e por produção;\ncontrato escrito, alteração de regime e divisão de custos com\nequipamentos; SST, prioridades de inclusão e regime do\nauxílio-alimentação; direito à desconexão e controle de jornada."
+description: "Usar para pesquisar ou analisar: Teletrabalho / Home Office (CLT 75-A a 75-F). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Teletrabalho / Home Office (CLT 75-A a 75-F)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

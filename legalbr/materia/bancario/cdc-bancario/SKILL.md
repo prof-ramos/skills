@@ -5,18 +5,23 @@ title: "CDC Bancário"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cdc-bancario.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cdc-bancario/SKILL.md"
 triggers:
   - "CDC bancário"
   - "Súmula 297"
   - "Súmula 479"
   - "tarifa de cadastro"
   - "capitalização de juros"
-description: "Aplicação do CDC aos contratos bancários (Súm. 297 STJ; ADI 2.591\nSTF): responsabilidade objetiva por fortuito interno em fraudes\n(Súm. 479); vedação ao reconhecimento de ofício da abusividade\n(Súm. 381); regime de tarifas, capitalização (Súm. 539) e comissão\nde permanência (Súm. 472); ônus de comprovar a contratação (Tema\n1.061 STJ)."
+description: "Usar para pesquisar ou analisar: CDC Bancário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CDC Bancário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Aplicação do CDC
 

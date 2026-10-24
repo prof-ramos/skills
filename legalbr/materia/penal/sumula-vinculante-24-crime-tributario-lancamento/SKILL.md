@@ -5,8 +5,8 @@ title: "Súmula Vinculante 24 - Crime Tributário e Lançamento"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/sumula-vinculante-24-crime-tributario-lancamento.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sumula-vinculante-24-crime-tributario-lancamento/SKILL.md"
 triggers:
   - "SV 24"
   - "Súmula Vinculante 24"
@@ -17,10 +17,15 @@ triggers:
   - "condição objetiva punibilidade"
   - "prescrição crime tributário"
   - "sonegação fiscal material"
-description: "SV 24 STF (02/12/2009, HC 81.611): \"Não se tipifica crime material\ncontra a ordem tributária (art. 1, I-IV, Lei 8.137/90) antes do\nlançamento definitivo do tributo.\" Aplica-se a crime material\n(art. 1), não a crime formal (art. 2)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 24 - Crime Tributário e Lançamento. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 24 - Crime Tributário e Lançamento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

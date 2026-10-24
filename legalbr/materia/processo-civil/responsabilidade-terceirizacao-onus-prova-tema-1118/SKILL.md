@@ -5,8 +5,8 @@ title: "Ônus da Prova de Culpa na Fiscalização (Tema 1.118 STF + Súm. 331 TS
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/responsabilidade-terceirizacao-onus-prova-tema-1118.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/responsabilidade-terceirizacao-onus-prova-tema-1118/SKILL.md"
 triggers:
   - "Tema 1.118 STF"
   - "ônus prova fiscalização terceirização"
@@ -18,10 +18,15 @@ triggers:
   - "ADC 16"
   - "terceirização inadimplência"
   - "tomador de serviço"
-description: "Tema 1.118 STF (RE 1.298.647, j. 13/02/2025): sem responsabilidade\nsubsidiária da Administração amparada só em inversão do ônus;\no AUTOR comprova negligência ou nexo causal; negligência = inércia\napós NOTIFICAÇÃO FORMAL do descumprimento; Administração garante\nsegurança/higiene/salubridade (Lei 6.019 art. 5-A §3) e adota\ncautelas do art. 121 §3 da Lei 14.133 (Lei 8.666 revogada). ADC 16\n+ Tema 246 STF: responsabilidade não é automática; Súm. 331 TST."
+description: "Usar para pesquisar ou analisar: Ônus da Prova de Culpa na Fiscalização (Tema 1.118 STF + Súm. 331 TST). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ônus da Prova na Fiscalização da Terceirização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

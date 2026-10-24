@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/recurso-revista-clt-896.md"
+sourcePath: "legalbr/materia/trabalho/recurso-revista-clt-896/SKILL.md"
 triggers:
   - "recurso de revista"
   - "CLT 896"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 283 TST"
   - "depósito recursal"
   - "Res. TST 224/2024"
-description: "Recurso de revista sob CLT 896 + 896-A: hipóteses de cabimento\n(violação de lei federal + ofensa direta à CF + divergência\njurisprudencial); prazo 8 dias; prequestionamento (Súm. 297 TST);\ntranscendência econômica/política/social/jurídica (CLT 896-A);\ncotejo analítico (Súm. 337); juízo bipartido + AI da denegação;\nRes. TST 224/2024, agravo interno."
+description: "Usar para pesquisar ou analisar: Recurso de Revista (CLT 896 + 896-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso de Revista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CLT 896)
 

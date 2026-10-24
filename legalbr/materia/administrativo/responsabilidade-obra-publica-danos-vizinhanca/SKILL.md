@@ -5,8 +5,8 @@ title: "Responsabilidade por Danos de Obra Pública a Imóveis Vizinhos"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-obra-publica-danos-vizinhanca.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-obra-publica-danos-vizinhanca/SKILL.md"
 triggers:
   - "dano de obra pública"
   - "trincas e rachaduras por obra pública"
@@ -19,10 +19,15 @@ triggers:
   - "CC 1.311 obras acautelatórias"
   - "culpa in eligendo empreiteira"
   - "Lei 14.133 art. 120 danos a terceiros"
-description: "Danos de obra pública a imóveis vizinhos: regra dupla (ente responde\nobjetivamente pelo só fato da obra, CF 37 §6; empreiteira responde por\nculpa na má execução, Lei 14.133 art. 120), direito de vizinhança aplicado\nà Administração (CC 1.277-1.313), prova pericial do nexo, vistoria cautelar\nprévia, desvalorização e lucros cessantes por interdição de acesso."
+description: "Usar para pesquisar ou analisar: Responsabilidade por Danos de Obra Pública a Imóveis Vizinhos. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade por Danos de Obra Pública a Imóveis Vizinhos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Contencioso típico de obras de mobilidade, saneamento e drenagem: trincas, rachaduras, infiltrações, recalque de fundação, desvalorização e perda de acesso causados a imóveis lindeiros por rebaixamento de via, viaduto, túnel, escavação ou cravação de estacas.
 

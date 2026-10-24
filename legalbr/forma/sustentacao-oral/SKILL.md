@@ -5,8 +5,8 @@ title: "Sustentação Oral"
 category: "forma"
 materia: null
 documentType: "sustentacao-oral"
-version: 1
-sourcePath: "lib/skills/official/forma/sustentacao-oral.md"
+version: 2
+sourcePath: "legalbr/forma/sustentacao-oral/SKILL.md"
 triggers:
   - "sustentação oral"
   - "sustentação na tribuna"
@@ -18,10 +18,15 @@ triggers:
   - "sustentação videoconferência"
   - "sustentação agravo interno"
   - "sustentação criminal"
-description: "Roteiro de sustentação oral em tribunais (CPC 937; art. 7º §2º-B\nEOAB; RISTF; RISTJ; RITST). 15 minutos improrrogáveis (em dobro com\nlitisconsortes); inscrição pelo sistema do tribunal; sessão presencial,\npor videoconferência (art. 937 §4º) ou virtual assíncrona (pré-gravada\naté 48h antes); pedido de destaque para retirar de virtual; cabimento\nem agravo interno só nas hipóteses do EOAB; quem requer sustentação tem\npreferência de pauta."
+description: "Usar para redigir ou revisar: Sustentação Oral. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sustentação Oral
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando cabe: rol do art. 937 CPC
 

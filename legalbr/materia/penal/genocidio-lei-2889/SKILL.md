@@ -5,8 +5,8 @@ title: "Genocídio (Lei 2.889/1956 + Estatuto de Roma + Caso Haximu)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/genocidio-lei-2889.md"
+version: 2
+sourcePath: "legalbr/materia/penal/genocidio-lei-2889/SKILL.md"
 triggers:
   - "genocídio"
   - "Lei 2.889"
@@ -18,10 +18,15 @@ triggers:
   - "prescrição genocídio"
   - "CF 5 XLII"
   - "associação para o genocídio"
-description: "Lei 2.889/1956, Genocídio (Convenção 1948): destruir GRUPO\nNACIONAL/ÉTNICO/RACIAL/RELIGIOSO. Tipos: matar (a, pena CP 121\n§2), causar lesão grave (b), submeter a condições destrutivas\n(c), impedir nascimentos (d), transferir crianças (e). HEDIONDO\n(Lei 8.072 art. 1 par. único): insuscetível de anistia, graça e\nindulto (CF 5 XLIII + Lei 8.072 art. 2 I). STF, Caso Haximu\n(RE 351.487/RR 2006), competência Justiça FEDERAL. TPI\ncomplementar (Estatuto Roma, Decreto 4.388/2002)."
+description: "Usar para pesquisar ou analisar: Genocídio (Lei 2.889/1956 + Estatuto de Roma + Caso Haximu). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Genocídio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 2.889/1956: texto
 

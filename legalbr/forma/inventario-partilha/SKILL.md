@@ -5,8 +5,8 @@ title: "Inventário e Partilha"
 category: "forma"
 materia: null
 documentType: "inventario-partilha"
-version: 1
-sourcePath: "lib/skills/official/forma/inventario-partilha.md"
+version: 2
+sourcePath: "legalbr/forma/inventario-partilha/SKILL.md"
 triggers:
   - "inventário e partilha"
   - "partilha de bens do espólio"
@@ -16,10 +16,15 @@ triggers:
   - "inventariante e primeiras declarações"
   - "colação e sonegados"
   - "ITCMD imposto causa mortis"
-description: "Inventário e partilha (CC 1.784 a 2.027; CPC 610 a 673; Lei 11.441/2007;\nProvimento CNJ 149/2023; Resolução CNJ 571/2024, que admite o\nextrajudicial com incapazes em frações ideais somado ao MP favorável):\n60 dias da abertura para iniciar (CPC 611); rito conforme acervo e\nconsenso: arrolamento sumário (sem condicionar o ITCMD, Tema 1.074 STJ),\narrolamento comum (até 1.000 SM) e inventário tradicional."
+description: "Usar para redigir ou revisar: Inventário e Partilha. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Inventário e Partilha
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

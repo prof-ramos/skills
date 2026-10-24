@@ -5,8 +5,8 @@ title: "Competência Jurisdicional (Súmulas STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/competencia-justica-federal-estadual-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/competencia-justica-federal-estadual-stj-sumulas/SKILL.md"
 triggers:
   - "Justiça Federal x Estadual"
   - "competência jurisdicional"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 254 STJ"
   - "Súm. 383 STJ"
   - "Súm. 570 STJ"
-description: "Competência cível/criminal Justiça Federal × Estadual × Trabalhista × Militar\npelas súmulas do STJ. Conflito de competência (CPC 66, 951); ações de servidor\npúblico; FGTS/PIS; conselhos profissionais; crimes contra bens da União;\nacidente do trabalho; CEF e SFH; entes federais no polo passivo; FUNAI/indígena;\nprefeito municipal e verba federal; menores e foro do guardião."
+description: "Usar para pesquisar ou analisar: Competência Jurisdicional (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Competência Jurisdicional, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Justiça Federal × Estadual, competência cível
 

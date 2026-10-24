@@ -5,8 +5,8 @@ title: "TUSD/TUST na Base do ICMS sobre Energia Elétrica (Tema 986 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/icms/tust-tusd-icms-energia-tema-986.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/tust-tusd-icms-energia-tema-986/SKILL.md"
 triggers:
   - "Tema 986 STJ"
   - "TUSD ICMS"
@@ -22,10 +22,15 @@ triggers:
   - "LC 194/2022"
   - "demanda contratada energia"
   - "Súm. 391 STJ"
-description: "Tema 986 STJ (REsp 1.163.020 + 1.692.023 + 1.699.851 + 1.734.902,\nMin. Herman Benjamin, 13/03/2024): TUSD e TUST, quando destacadas\nna fatura como encargo do CONSUMIDOR (livre ou cativo), INTEGRAM\na base do ICMS sobre energia (LC 87/1996 art. 13 §1 II \"a\").\nModulação: liminares concedidas até 27/03/2017 (REsp 1.163.020)\npreservadas até a publicação do Tema 986. Súm. 391 (demanda\nefetivamente utilizada). LC 194/2022 vedou após."
+description: "Usar para pesquisar ou analisar: TUSD/TUST na Base do ICMS sobre Energia Elétrica (Tema 986 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # TUSD/TUST na Base do ICMS Energia (Tema 986 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 986 STJ, 13/03/2024)
 

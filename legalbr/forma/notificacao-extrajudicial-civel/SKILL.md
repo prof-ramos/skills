@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "notificacao-extrajudicial"
 version: 2
-sourcePath: "lib/skills/official/forma/notificacao-extrajudicial-civel.md"
+sourcePath: "legalbr/forma/notificacao-extrajudicial-civel/SKILL.md"
 triggers:
   - "notificação extrajudicial"
   - "interpelação"
@@ -18,10 +18,15 @@ triggers:
   - "cartório títulos documentos"
   - "rescisão contratual notificação"
   - "notificação extrajudicial e interrupção da prescrição"
-description: "Notificação extrajudicial (CC 397 § ún; CPC 726-729; Lei 6.015\narts. 160-161; interrupção de prescrição exige protesto ou ato\njudicial, CC 202 III e V). Quatro vias: (i) RTD:\nfé pública + arquivamento; (ii) postal AR: barata, com risco; (iii)\ncartorária ou notarial; (iv) judicial pelo procedimento de jurisdição\nvoluntária (CPC 726). Função: constituir em mora, interromper prescrição,\npreparar litígio, criar prova documental, abrir negociação. STJ:\nnotificação enviada ao endereço contratual basta; AR positivo essencial\nem busca e apreensão."
+description: "Usar para redigir ou revisar: Notificação Extrajudicial Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Notificação Extrajudicial Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

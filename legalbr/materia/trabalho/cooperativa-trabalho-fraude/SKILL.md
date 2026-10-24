@@ -5,8 +5,8 @@ title: "Cooperativa de Trabalho e Fraude (Lei 12.690/2012 + CLT 442)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/cooperativa-trabalho-fraude.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/cooperativa-trabalho-fraude/SKILL.md"
 triggers:
   - "cooperativa de trabalho"
   - "Lei 12.690"
@@ -18,10 +18,15 @@ triggers:
   - "sócio cooperado vínculo"
   - "retiradas do cooperado"
   - "fraude cooperativista"
-description: "Cooperativa de trabalho: presunção relativa de ausência de vínculo (CLT 442 §1,\nex-parágrafo único), regime da Lei 12.690/2012 (direitos mínimos, vedação de\nintermediação de mão de obra), reconhecimento de vínculo por fraude (CLT 9,\nprimazia da realidade) e responsabilidade do tomador (Súm. 331 TST)."
+description: "Usar para pesquisar ou analisar: Cooperativa de Trabalho e Fraude (Lei 12.690/2012 + CLT 442). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cooperativa de Trabalho e Fraude Cooperativista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

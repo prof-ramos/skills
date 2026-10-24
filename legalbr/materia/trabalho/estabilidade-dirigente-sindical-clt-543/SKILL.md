@@ -5,8 +5,8 @@ title: "Estabilidade do Dirigente Sindical (CF 8 VIII + CLT 543)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/estabilidade-dirigente-sindical-clt-543.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/estabilidade-dirigente-sindical-clt-543/SKILL.md"
 triggers:
   - "dirigente sindical"
   - "estabilidade sindical"
@@ -15,10 +15,15 @@ triggers:
   - "Súm. 369 TST"
   - "Súm. 379 TST"
   - "registro da candidatura sindical"
-description: "Estabilidade do dirigente sindical (CF 8 VIII + CLT 543 §3):\nregistro da candidatura até 1 ano após o término do mandato; máximo\n7 efetivos + 7 suplentes (Súm. 369 II); dispensa só por falta grave\napurada em inquérito (CLT 853-855); comunicação ao sindicato (Súm. 369 V)."
+description: "Usar para pesquisar ou analisar: Estabilidade do Dirigente Sindical (CF 8 VIII + CLT 543). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estabilidade do Dirigente Sindical
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

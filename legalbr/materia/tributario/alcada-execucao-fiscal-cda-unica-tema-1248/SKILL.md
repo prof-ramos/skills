@@ -5,8 +5,8 @@ title: "Alçada de Apelação em Execução Fiscal + CDA Única (Tema 1.248 STJ)
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/alcada-execucao-fiscal-cda-unica-tema-1248.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/alcada-execucao-fiscal-cda-unica-tema-1248/SKILL.md"
 triggers:
   - "Tema 1.248 STJ"
   - "alçada execução fiscal"
@@ -14,10 +14,15 @@ triggers:
   - "CDA débitos exercícios diferentes"
   - "valor total CDA apelação"
   - "LEF 6.830 art 34 § 1"
-description: "Tema 1.248 STJ (1ª Seção): nas execuções fiscais fundadas em UMA\nÚNICA CDA, composta por débitos de exercícios DIFERENTES do\nMESMO tributo, a alçada (LEF art. 34 caput e §1) considera o\nTOTAL da dívida do título, não os débitos individuais. Critério\nunificado preserva ampla defesa, unirrecorribilidade e\neficiência."
+description: "Usar para pesquisar ou analisar: Alçada de Apelação em Execução Fiscal + CDA Única (Tema 1.248 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alçada de Apelação em Execução Fiscal + CDA Única (Tema 1.248 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.248 STJ, 1ª Seção)
 

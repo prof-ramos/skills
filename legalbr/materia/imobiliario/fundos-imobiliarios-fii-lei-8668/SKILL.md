@@ -6,7 +6,7 @@ category: "materia"
 materia: "imobiliario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/imobiliario/fundos-imobiliarios-fii-lei-8668.md"
+sourcePath: "legalbr/materia/imobiliario/fundos-imobiliarios-fii-lei-8668/SKILL.md"
 triggers:
   - "FII fundos imobiliários"
   - "Lei 8.668"
@@ -19,10 +19,15 @@ triggers:
   - "FIAGRO Lei 14.130"
   - "fundo papel tijolo"
   - "administrador FII"
-description: "Fundos de Investimento Imobiliário (FIIs): **Lei 8.668/1993** +\n**CVM Instrução 472/2008** (revogada e substituída pela **Resolução\nCVM 175/2022**). Estrutura: **condomínio fechado** sem resgate de\ncotas; administrado por instituição financeira autorizada CVM.\n**Tributação favorecida**: **isenção** de IR para PF cotista quando\n(i) FII com no mínimo 100 cotistas desde 01/01/2024 (Lei\n14.754/2023 art. 41; antes eram 50) + (ii) cotas negociadas\nexclusivamente em bolsa ou balcão organizado + (iii) sem isenção\npara PF com 10% ou mais das cotas ou direito a mais de 10% dos\nrendimentos. Sobre ganhos de capital (alienação de cotas): 20%\nIR. **Tipos**: tijolo (imóveis físicos) + papel (CRIs + LCIs).\nFIAGRO (agro): Lei 14.130/2021, com a mesma isenção."
+description: "Usar para pesquisar ou analisar: FIIs: Fundos de Investimento Imobiliário (Lei 8.668/1993 + CVM 472 + 175). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FIIs: Fundos de Investimento Imobiliário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

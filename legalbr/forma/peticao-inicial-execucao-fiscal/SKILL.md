@@ -5,8 +5,8 @@ title: "Petição Inicial de Execução Fiscal"
 category: "forma"
 materia: null
 documentType: "peticao-inicial-execucao-fiscal"
-version: 1
-sourcePath: "lib/skills/official/forma/peticao-inicial-execucao-fiscal.md"
+version: 2
+sourcePath: "legalbr/forma/peticao-inicial-execucao-fiscal/SKILL.md"
 triggers:
   - "petição inicial execução fiscal"
   - "LEF 6830"
@@ -17,10 +17,17 @@ triggers:
   - "ajuizamento execução fiscal"
   - "cobrança dívida ativa"
   - "PGFN PGE PGM execução"
-description: "Petição inicial de execução fiscal (Lei 6.830/1980 + CTN 201-204):\npressupostos da CDA (art. 2 §5 LEF); requisitos do art. 6 LEF;\ndesnecessidade de comprovação prévia + valor já líquido + certo + exigível;\nresponsabilidade tributária CTN 134-135 + Súm. 435 STJ (dissolução irregular);\nIDPJ (Tema 1.209 STJ); protesto CDA (ADI 5.135 STF; Tema 777 STJ); prescrição CTN 174 +\nintercorrente (Tema 566)."
+description: "Usar para redigir ou revisar: Petição Inicial de Execução Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm"]
+reviewedAt: "2026-10-21"
+reviewScope: "Separação entre crédito tributário cobrado e condenação/requisitório contra a Fazenda; cálculo concreto pendente"
 ---
 
 # Petição Inicial de Execução Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -143,7 +150,7 @@ Ordem de preferência:
 
 ## Atualização e juros
 
-- Crédito federal: SELIC (Lei 9.430/96; EC 113), que engloba juros e correção e não se cumula com outro índice; estadual e municipal conforme lei local, com os tetos da jurisprudência; encargo legal de 20% do DL 1.025/69 (União).
+- Crédito tributário federal: verificar SELIC na legislação específica, inclusive Lei 9.430/96, conforme o tributo e o período; não usar o regime de requisitórios da EC 113/2021 como fundamento universal da cobrança. A SELIC, quando cabível, engloba juros e correção e não se cumula com outro índice; estadual e municipal conforme lei local, com os tetos da jurisprudência; encargo legal de 20% do DL 1.025/69 (União).
 
 ## Pedidos finais (sequência típica)
 
@@ -185,3 +192,7 @@ Ordem de preferência:
 - **Esquecer protesto** como ferramenta extrajudicial complementar (ADI 5.135 STF + Tema 777 STJ);
 - **Tratar processo eletrônico de execução fiscal** como execução comum: regras LEF prevalecem;
 - **Esquecer** que os honorários de sucumbência em execução fiscal pertencem aos procuradores (Lei 13.327/2016 + leis locais).
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.

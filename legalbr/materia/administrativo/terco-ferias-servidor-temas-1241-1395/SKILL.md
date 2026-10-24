@@ -5,8 +5,8 @@ title: "Terço de Férias de Servidor (Temas 1.241 e 1.395 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/remuneracao-vantagens-teto/terco-ferias-servidor-temas-1241-1395.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/terco-ferias-servidor-temas-1241-1395/SKILL.md"
 triggers:
   - "Tema 1.241 STF"
   - "Tema 1.395 STF"
@@ -17,10 +17,15 @@ triggers:
   - "férias 30 dias servidor"
   - "terço férias afastamento"
   - "servidor público férias"
-description: "Tema 1.241 STF (RE 1.400.787): o adicional de 1/3 do art. 7º\nXVII da CF incide sobre a remuneração relativa à TOTALIDADE do\nperíodo de férias (mesmo se superior a 30 dias). Tema 1.395 STF\n(RE 1.535.083): repercussão geral NEGADA (questão\ninfraconstitucional); o cômputo de afastamentos no cálculo do\nterço resolve-se pela legislação específica de cada ente.\nTema 1.239 STF: vínculo nulo (LC 100/2007-MG) não gera\nindenização de férias-prêmio. CF 7 XVII + 39 §3."
+description: "Usar para pesquisar ou analisar: Terço de Férias de Servidor (Temas 1.241 e 1.395 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terço de Férias de Servidor Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

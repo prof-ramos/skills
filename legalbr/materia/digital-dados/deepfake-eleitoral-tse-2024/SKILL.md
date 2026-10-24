@@ -5,8 +5,8 @@ title: "Deepfake Eleitoral + IA na Propaganda (TSE Reso 23.732/2024)"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/deepfake-eleitoral-tse-2024.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/deepfake-eleitoral-tse-2024/SKILL.md"
 triggers:
   - "deepfake eleitoral"
   - "TSE 23.732"
@@ -18,229 +18,52 @@ triggers:
   - "representação eleitoral"
   - "cassação registro deepfake"
   - "plataformas eleição"
-description: "Deepfake Eleitoral + IA, **Resolução TSE 23.732/2024** (27/02/2024):\nproíbe **deepfake** em propaganda eleitoral, obriga **aviso prévio\ne ostensivo** sobre uso de IA em conteúdos eleitorais. Sanções:\ncassação de registro ou mandato. Plataformas digitais com dever de\ncuidado + responsabilidade solidária civil + administrativa por\nconteúdos não removidos imediatamente. Aplica-se a TODA modalidade\nde propaganda, TV, rádio, internet, redes sociais. Limites e\nexceções: sátira evidente + manifestações artísticas devidamente\ncontextualizadas. Aplicação combinada com Código Eleitoral + Lei\n9.504/97 + Marco Civil + LGPD. Eleições 2026: Res. TSE 23.755/2026\natualizou o regime de IA (rotulagem, janela de vedação de 72h antes\ne 24h após o pleito, vedações a provedores de IA e a deepfake sexual)."
+description: "Usar para pesquisar ou analisar: Deepfake Eleitoral + IA na Propaganda (TSE Reso 23.732/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-dezembro-de-2019", "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-779-de-15-de-outubro-de-2026"]
+reviewedAt: "2026-10-21"
+reviewScope: "Correção dos arts. 9º-B/9º-C/9º-H/9º-I e âmbito da Res. 23.779/2026; aplicação processual concreta pendente"
 ---
 
-# Deepfake Eleitoral + IA
+# Deepfake eleitoral e IA na propaganda
 
-## Marco legal
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md) e o [mapa eleitoral](../../../references/eleitoral.md). Revisão pontual dos dispositivos centrais em 21/10/2026; não substituir a análise do caso.
 
-- **Resolução TSE 23.732/2024** (deepfake + IA);
-- **Resolução TSE 23.610/2019** (propaganda eleitoral em geral);
-- **Lei 9.504/1997** (Lei das Eleições);
-- **Código Eleitoral: Lei 4.737/1965**;
-- **Marco Civil da Internet** (Lei 12.965);
-- **STF Tema 987** (art. 19 do MCI parcialmente inconstitucional; tese ressalva expressamente a legislação eleitoral e os atos do TSE);
-- **LGPD** (dado pessoal sensível em propaganda);
-- **PL 2338/2023** (IA: em tramitação);
-- **Resolução TSE 23.755/2026** (propaganda das Eleições 2026: atualiza o regime de IA do art. 9º-B da Res. 23.610/2019);
-- **Resolução TSE 23.757/2026** (ilícitos eleitorais, inclui conteúdo sintético/IA).
+## Diploma e dispositivos corretos
 
-## Conceitos centrais
+Os artigos abaixo pertencem à Resolução TSE 23.610/2019, alterada pelas Resoluções 23.732/2024 e 23.755/2026. O art. 9º-A foi revogado pela Resolução 23.714/2022 e não é a base da vedação de deepfake.
 
-### Deepfake (TSE 23.732 art. 9-A §3)
+| Dispositivo | Regra a conferir no caso |
+| --- | --- |
+| 9º-B, caput e § 1º | Informar fabricação/manipulação por IA ou tecnologia equivalente, de forma explícita, destacada e acessível; a forma varia conforme a mídia. |
+| 9º-B, § 2º | Há exceções específicas para ajustes de qualidade, identidade visual e determinados recursos usuais de marketing; não equivalem a permissão geral de deepfake. |
+| 9º-B, § 3º | Chatbots, avatares e conteúdo sintético para comunicação devem cumprir a informação exigida e não podem simular interlocução com pessoa real. |
+| 9º-B, § 3º-A | Restrição temporal para novos conteúdos sintéticos com imagem, voz ou manifestação de candidato ou pessoa pública, inclusive rotulados: 72 horas antes e 24 horas após o término do pleito. Conferir ato, turno e enquadramento. |
+| 9º-C, caput | Veda conteúdo fabricado/manipulado com desinformação potencialmente danosa ao equilíbrio do pleito ou à integridade eleitoral. |
+| 9º-C, § 1º | Proíbe, para favorecer ou prejudicar candidatura, áudio, vídeo ou sua combinação criados ou alterados digitalmente para substituir ou modificar imagem ou voz, inclusive de pessoa fictícia; autorização da pessoa não afasta essa vedação. |
+| 9º-C, § 2º | Disciplina abuso do poder político, uso indevido dos meios, cassação e apuração nos termos do art. 323, § 1º, do Código Eleitoral. Não tratar como sanção automática sem rito, prova e contraditório. |
+| 9º-H | Relaciona remoção e possibilidade de multa do art. 57-D da Lei 9.504/1997, por decisão em representação. |
+| 9º-I | Admite inversão motivada do ônus da prova diante de dificuldade técnica; não é presunção automática de adulteração. |
 
-> "Conteúdo sintético em formato de áudio, vídeo ou combinação de ambos, **gerado ou manipulado digitalmente**, ainda que mediante autorização para criar, substituir ou alterar imagem ou voz de pessoa, viva ou morta, de forma a torná-lo realista a ponto de **representar fato ou ato impossível ou inverídico**."
+## Examinar conteúdo e procedimento
 
-### IA aplicada à propaganda
+Preservar URL, data, mídia original e contexto por meios lícitos. Detecção automatizada de IA é indício sujeito a erro, não perícia conclusiva. Identificar o conteúdo efetivamente divulgado e o elemento fabricado, sem inventar autor, intenção ou alcance.
 
-| | Conteúdo |
-|---|---|
-| **Permitida** | Com aviso prévio e ostensivo |
-| **Vedada** | Quando se torna deepfake ou desinforma |
-| **Bots / chatbots** | Restritos para contato com eleitores |
+Distinguir irregularidade de propaganda, AIJE, pretensão de direito de resposta e apuração penal. Conferir legitimidade, competência, rito e prazo próprios em cada caso: não presumir que qualquer eleitor possa propor toda ação ou que o prazo de defesa seja sempre 48 horas. AIME exige seus pressupostos constitucionais e não decorre automaticamente de uso de IA.
 
-## Vedações (TSE 23.732)
+Não usar o art. 30-A da Lei 9.504/1997 como fundamento genérico de cassação por deepfake: ele trata de arrecadação e gastos ilícitos. Não criar exceção geral para sátira ou arte sem confronto com o dispositivo e a jurisprudência pertinentes.
 
-| | Conteúdo |
-|---|---|
-| **Deepfake** | Vedado em **qualquer modalidade** de propaganda |
-| **Conteúdo manipulado** que cause dano ao equilíbrio eleitoral | Vedado |
-| **Discurso de ódio** | Plataforma deve remover |
-| **Desinformação eleitoral** | Plataforma deve remover |
-| **Robôs interagindo com eleitor** | Restritos |
+Para provedores, examinar os deveres específicos dos arts. 9º-D a 9º-G e sua relação com o caso. Para honra, imagem e dados pessoais, combinar as matérias adequadas e verificar seu âmbito, sem presumir responsabilidade objetiva universal da plataforma, caráter sensível de toda imagem ou indenização automática.
 
-## Obrigações de aviso (TSE 23.732 art. 9-B)
+## Atualização de 2026
 
-| | Conteúdo |
-|---|---|
-| **Conteúdo sintético com IA** | Deve informar **expressa + ostensiva + acessivelmente** |
-| **Forma** | Texto + áudio descritivo + sinalização visual |
-| **Aplicação** | TV + rádio + internet + impressos |
-| **Linguagem clara** | Inteligível ao eleitor médio |
-| **Permanência** | Durante toda exibição |
+A Resolução 23.779/2026 acrescenta regra ao art. 28, § 1º-D, sobre comunicação de endereços eletrônicos entre turnos. Ela não substitui os arts. 9º-B e 9º-C nem reescreve o regime de deepfake. Conferir a compilada e atos posteriores ao recorte da consulta.
 
-## Eleições 2026: Res. TSE 23.755/2026 (propaganda + IA)
+## Fontes oficiais e alcance
 
-Aprovada em 02/03/2026 (DJE 04/03/2026), no pacote normativo das Eleições 2026 (Res. 23.747 a 23.760):
+- [Resolução 23.610/2019 compilada](https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-dezembro-de-2019), arts. 9º-A a 9º-J.
+- [Resolução 23.755/2026](https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-755-de-2-de-marco-de-2026).
+- [Resolução 23.779/2026](https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-779-de-15-de-outubro-de-2026).
 
-| | Conteúdo |
-|---|---|
-| **Rotulagem** | Obrigatória para conteúdo criado ou alterado por IA |
-| **Janela de vedação** | Proibido divulgar conteúdo de IA com imagem/voz de candidatos e figuras públicas nas **72h anteriores** e **24h após** o pleito |
-| **Provedores de IA** | Vedado ranquear, recomendar ou favorecer candidatos |
-| **Deepfake sexual + perfis falsos/automatizados** | Vedados |
-| **Sanções** | Remoção imediata + multa do art. 57-D da Lei 9.504/97 (R$ 5 mil a R$ 30 mil) |
-
-## Sanções para candidatos
-
-| | Conteúdo |
-|---|---|
-| **Cassação de registro** | Possível (Lei 9.504 art. 30-A) |
-| **Cassação de mandato** | Após investigação |
-| **Inelegibilidade** | LC 64/90 (Ficha Limpa) |
-| **Multa** | Eleitoral + civil |
-| **Crime eleitoral** | CE 323 + 326 (propaganda criminosa) |
-
-## Plataformas digitais: responsabilidade
-
-| | Conteúdo |
-|---|---|
-| **Dever de cuidado** | Mitigar disseminação |
-| **Remoção** | Imediata após ciência |
-| **Solidariedade** | Civil + administrativa quando não remove |
-| **Repostagem** | Pode haver suspensão de contas |
-| **Marco Civil** | Aplicação concomitante |
-| **STF Tema 987** | Art. 19 MCI parcialmente inconstitucional; dever de cuidado para conteúdos graves; ressalvados a legislação eleitoral e os atos do TSE |
-
-## Procedimento de representação (TSE)
-
-| Etapa | Conteúdo |
-|---|---|
-| 1. **Representação** | Eleitor, partido, MP eleitoral |
-| 2. **Direito de defesa** | 48 horas |
-| 3. **Decisão liminar** | Possível |
-| 4. **Remoção** | Plataforma + criador |
-| 5. **Sanção administrativa** | Multa |
-| 6. **Cassação** | Em AIJE (LC 64/90) |
-| 7. **Recurso** | TRE → TSE |
-
-## AIJE: Ação de Investigação Judicial Eleitoral (LC 64/90 art. 22)
-
-| | Conteúdo |
-|---|---|
-| **Cabimento** | Abuso de poder + uso indevido + propaganda criminosa |
-| **Deepfake** | Pode ser objeto de AIJE |
-| **Resultado** | Cassação + inelegibilidade |
-| **Prazo** | Até diplomação |
-
-## AIME: Ação de Impugnação de Mandato Eletivo (CF 14 §10)
-
-| | Conteúdo |
-|---|---|
-| **Cabimento** | Após diplomação |
-| **Prazo** | 15 dias |
-| **Causa** | Abuso de poder econômico, corrupção ou fraude |
-| **Aplicação a deepfake** | Possível |
-
-## Exceções e limites
-
-| | Conteúdo |
-|---|---|
-| **Sátira evidente** | Permitida se descontextualização clara |
-| **Manifestação artística** | Com indicação |
-| **Discurso jornalístico** | Liberdade de imprensa (CF 5 IV + 220) |
-| **Crítica política** | Protegida, mas não autoriza desinformação |
-
-## Direito comparado
-
-| Jurisdição | Regime |
-|---|---|
-| **UE** | AI Act + DSA: rotulagem obrigatória |
-| **EUA** | FCC + setoriais; **Cláusula Take It Down** estadual |
-| **Coreia do Sul** | Vedação eleições (POLITICAL Public Officials Act) |
-| **Reino Unido** | Online Safety Act |
-
-## Crimes correlatos
-
-| Crime | Fundamento |
-|---|---|
-| **Calúnia + difamação + injúria** | CP 138-145 + CE 324-326 |
-| **Falsidade ideológica** | CP 299 |
-| **Fraude no processo eleitoral** | CE 350-355 |
-| **Crimes informáticos** | Lei 12.737 + 14.155 |
-| **Pornografia de vingança** | Lei 13.718 |
-| **Discurso de ódio** | Lei 14.532/2023 |
-
-## CDC + responsabilidade civil
-
-| | Conteúdo |
-|---|---|
-| **Pessoa atingida** | Pode pleitear dano moral (CC 186 + 927) |
-| **Plataforma** | Responsabilidade objetiva por falha de serviço (CDC 14) |
-| **Indenização** | Caso a caso |
-| **Direito de resposta** | Aplicável (CF 5 V) |
-
-## LGPD + deepfake
-
-| | Conteúdo |
-|---|---|
-| **Dado biométrico** | Sensível (LGPD 5 II + 11) |
-| **Uso não-consentido** | Violação |
-| **Voz + imagem** | Categoria sensível em alguns contextos |
-| **ANPD** | Pode atuar paralelamente ao TSE |
-| **Crime** | Lei 13.709 não cria tipo penal próprio, mas viola direitos |
-
-## Direito à imagem e voz (CC 20)
-
-| | Conteúdo |
-|---|---|
-| **CC 20** | Direito ao retrato: uso indevido gera indenização |
-| **STJ Súm. 403** | Dano moral pelo uso sem autorização |
-| **Pessoa pública** | Mitigado, mas não eliminado |
-| **Pessoa morta** | Família pode pleitear |
-| **Deepfake** | Forma agravada de violação |
-
-## Tendências 2024-2026
-
-| | Conteúdo |
-|---|---|
-| **Eleições 2024** | Primeira aplicação massiva |
-| **Eleições 2026** | **Res. TSE 23.755/2026** publicada (rotulagem, janela de vedação 72h/24h, vedações a provedores de IA) |
-| **PL 2338** | IA com regulação geral |
-| **Cooperação internacional** | Crescente |
-| **Watermarking obrigatório** | Tendência |
-| **Detecção automatizada** | Plataformas implementam |
-
-## Casos paradigmáticos
-
-| | Conteúdo |
-|---|---|
-| **Eleições 2024: casos pontuais** | Cassações por deepfake |
-| **Internacional** | Casos em UE, EUA, Coreia |
-| **Brasil** | Jurisprudência ainda em formação |
-| **TSE** | Acompanha com tecnologia |
-
-## Identificação técnica de deepfake
-
-| | Conteúdo |
-|---|---|
-| **Perícia** | Pode determinar manipulação |
-| **Metadata** | Análise |
-| **C2PA** (Content Provenance) | Padrão emergente |
-| **Watermark** | Em foundation models |
-| **Análise forense** | Especializada |
-
-## Aspectos partidários
-
-| | Conteúdo |
-|---|---|
-| **Partidos políticos** | Responsabilizáveis solidariamente |
-| **Comitês de campanha** | Devem ter compliance |
-| **Lei dos partidos** (9.096) | Aplicação |
-| **Prestação de contas** | Inclui despesas com IA |
-
-## Erros a evitar
-
-- Achar que **sátira clara** é vedada: diferença com deepfake (engano);
-- Esquecer **aviso prévio** + ostensivo em conteúdo com IA (TSE 23.732 art. 9-B);
-- Tratar **deepfake** apenas como crime de imagem, é também violação eleitoral;
-- Aplicar Resolução **antes de 2024** (vigência específica);
-- Esquecer **plataformas** + responsabilidade (Tema 987 STF + TSE 23.732);
-- Aplicar **direito à imagem** sem considerar agravamento por deepfake;
-- Esquecer **CC 20** + STJ Súm. 403 (uso de imagem);
-- Aplicar deepfake **não-eleitoral** com regras eleitorais (regime distinto);
-- Esquecer **AIJE** + **AIME** como veículos de impugnação;
-- Tratar **bots** de contato com eleitor como permitidos (restritos);
-- Esquecer **dever de remoção imediata** das plataformas;
-- Confundir **TSE** com **STF Tema 987** (Marco Civil), aplicação concomitante.
+Consulta em 21/10/2026. Base normativa central conferida; tipificação penal concreta, precedentes de cassação e prazos de eventual ação exigem verificação específica.

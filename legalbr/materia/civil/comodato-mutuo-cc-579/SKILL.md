@@ -5,8 +5,8 @@ title: "Comodato e Mútuo (CC 579-592)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/comodato-mutuo-cc-579.md"
+version: 2
+sourcePath: "legalbr/materia/civil/comodato-mutuo-cc-579/SKILL.md"
 triggers:
   - "comodato"
   - "contrato de mutuo"
@@ -21,10 +21,15 @@ triggers:
   - "emprestimo gratuito"
   - "emprestimo de uso"
   - "emprestimo de consumo"
-description: "Empréstimo civil (CC 579-592): comodato (uso de coisa infungível,\ngratuito, real, CC 579) × mútuo (consumo, transfere domínio, CC\n586); prazo determinado e indeterminado; restituição; risco do\ncomodatário (CC 583); juros no mútuo feneratício (CC 591); mútuo a\nmenor (CC 588-589)."
+description: "Usar para pesquisar ou analisar: Comodato e Mútuo (CC 579-592). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Comodato e Mútuo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Distinção essencial
 

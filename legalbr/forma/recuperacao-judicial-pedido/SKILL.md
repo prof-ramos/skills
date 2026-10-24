@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recuperacao-judicial-pedido"
 version: 2
-sourcePath: "lib/skills/official/forma/recuperacao-judicial-pedido.md"
+sourcePath: "legalbr/forma/recuperacao-judicial-pedido/SKILL.md"
 triggers:
   - "pedido de recuperação judicial"
   - "petição inicial de RJ Lei 11.101/2005"
@@ -15,10 +15,15 @@ triggers:
   - "stay period suspensão de execuções"
   - "legitimidade do produtor rural"
   - "pedido de deferimento do processamento art. 52"
-description: "Pedido de recuperação judicial sob a Lei 11.101/2005 (com Lei\n14.112/2020): requisitos subjetivos do art. 48; documentos\ninstrutórios do art. 51 (memorial, demonstrações contábeis, relação\nde credores e empregados); stay period (art. 6º §4º) e prorrogação\nexcepcional; juízo de processamento e plano; CND fiscal exigida para\nconcessão (STJ REsp 2.053.240)."
+description: "Usar para redigir ou revisar: Pedido de Recuperação Judicial. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Recuperação Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

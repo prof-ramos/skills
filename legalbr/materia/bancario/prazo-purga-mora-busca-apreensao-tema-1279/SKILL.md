@@ -5,8 +5,8 @@ title: "Prazo de 5 Dias para Quitação em Busca e Apreensão Fiduciária (Tema 
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/prazo-purga-mora-busca-apreensao-tema-1279.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/prazo-purga-mora-busca-apreensao-tema-1279/SKILL.md"
 triggers:
   - "Tema 1.279 STJ"
   - "Tema 722 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 10.931 purga da mora"
   - "consolidação da propriedade fiduciária"
   - "pagamento integral parcelas vincendas"
-description: "Tema 1.279 STJ (2ª Seção, REsp 2.126.264-MS, 07/08/2025): nas\nações de busca e apreensão de bem alienado fiduciariamente, o\nprazo de 5 DIAS (DL 911/69 art. 3 §1, com redação da Lei\n10.931/2004) para o pagamento INTEGRAL da dívida começa a fluir\nda DATA DA EXECUÇÃO da medida LIMINAR (apreensão do bem), não da\ncitação/notificação."
+description: "Usar para pesquisar ou analisar: Prazo de 5 Dias para Quitação em Busca e Apreensão Fiduciária (Tema 1.279 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prazo de 5 Dias para Quitação em Busca e Apreensão Fiduciária (Tema 1.279 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.279 STJ, 2ª Seção, REsp 2.126.264-MS, 07/08/2025)
 

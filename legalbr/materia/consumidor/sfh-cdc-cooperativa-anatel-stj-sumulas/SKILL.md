@@ -5,8 +5,8 @@ title: "SFH, Cooperativas Habitacionais, Anatel e Telefonia, Súmulas STJ"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/sfh-cdc-cooperativa-anatel-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/sfh-cdc-cooperativa-anatel-stj-sumulas/SKILL.md"
 triggers:
   - "sistema financeiro de habitação"
   - "SFH"
@@ -22,10 +22,15 @@ triggers:
   - "Súm. 602 STJ"
   - "Súm. 506 STJ"
   - "Súm. 551 STJ"
-description: "SFH (CEF como sucessora do BNH; ajustamento saldo devedor; agente fiduciário;\nextrato); aplicação do CDC a entidades de previdência aberta e a cooperativas\nhabitacionais; Anatel ilegitimidade; tarifa básica telefônica; dividendos em\nações de telefonia. Cobre contratos de adesão ao SFH e responsabilidade dos\nagentes financeiros."
+description: "Usar para pesquisar ou analisar: SFH, Cooperativas Habitacionais, Anatel e Telefonia, Súmulas STJ. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # SFH, Cooperativas Habitacionais, Anatel, Súmulas STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

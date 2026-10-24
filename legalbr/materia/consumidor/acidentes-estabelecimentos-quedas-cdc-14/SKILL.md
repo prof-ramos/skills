@@ -5,8 +5,8 @@ title: "Acidentes de Consumo em Estabelecimentos (Quedas, Agressões de Preposto
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/acidentes-estabelecimentos-quedas-cdc-14.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/acidentes-estabelecimentos-quedas-cdc-14/SKILL.md"
 triggers:
   - "queda em supermercado"
   - "piso molhado"
@@ -19,10 +19,15 @@ triggers:
   - "REsp 1.732.398"
   - "AREsp 1.076.833"
   - "excesso de preposto"
-description: "Acidentes pessoais em estabelecimentos sob CDC 14 §1º (dever de\nsegurança): queda em piso molhado/desnível (AREsp 1.076.833),\nagressão ou abordagem vexatória por segurança/preposto (CC 932 III\n+ 933; fortuito interno), tiroteio de seguranças (REsp 1.732.398),\nfurto no interior da loja; fortuito interno x externo; ônus do\nfornecedor (14 §3º); juros do evento (Súm. 54 STJ)."
+description: "Usar para pesquisar ou analisar: Acidentes de Consumo em Estabelecimentos (Quedas, Agressões de Prepostos, Falha de Segurança). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Acidentes de Consumo em Estabelecimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Enquadramento (CDC 14)
 

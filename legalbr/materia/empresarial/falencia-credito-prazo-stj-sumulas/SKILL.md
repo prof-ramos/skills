@@ -5,8 +5,8 @@ title: "Falência, Recuperação Judicial e Crédito (Súmulas STJ)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/falencia-credito-prazo-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/falencia-credito-prazo-stj-sumulas/SKILL.md"
 triggers:
   - "falência prazo recurso"
   - "adiantamento contrato de câmbio"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 307 STJ"
   - "Súm. 480 STJ"
   - "Súm. 581 STJ"
-description: "Falência e recuperação judicial pelas súmulas do STJ: prazo recursal (25);\nadiantamento de contrato de câmbio com preferência antes de qualquer crédito\n(133, 307); legitimidade da Justiça da Falência para constrições (480); a\nrecuperação judicial NÃO impede prosseguimento de execuções contra\ncoobrigados (581); inafastabilidade do juízo universal."
+description: "Usar para pesquisar ou analisar: Falência, Recuperação Judicial e Crédito (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falência, Recuperação Judicial e Crédito (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

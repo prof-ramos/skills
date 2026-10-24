@@ -5,8 +5,8 @@ title: "Efeitos Patrimoniais do MS e Cobrança de Parcelas Pretéritas (Súm. 26
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/processo-coletivo-tutela-coletiva/ms-efeitos-patrimoniais-sumulas-269-271.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/ms-efeitos-patrimoniais-sumulas-269-271/SKILL.md"
 triggers:
   - "efeitos patrimoniais do mandado de segurança"
   - "parcelas pretéritas mandado de segurança"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 12.016 art. 14 § 4"
   - "RE 889.173"
   - "valores entre impetração e implementação"
-description: "Efeitos financeiros do MS: Súm. 269/271 STF + Lei 12.016 art. 14 § 4\n(parcelas só a partir do ajuizamento); Tema 831 STF (impetração até\nimplementação paga-se por precatório, RE 889.173); ação de cobrança das\nparcelas anteriores: Tema 1.133 STJ (juros de mora desde a notificação\nda autoridade coatora, REsp 1.925.235/SP), prescrição quinquenal e\nSúm. 85 STJ. Sequência obrigatória de todo MS de servidor concedido."
+description: "Usar para pesquisar ou analisar: Efeitos Patrimoniais do MS e Cobrança de Parcelas Pretéritas (Súm. 269/271 STF + Temas 1.133 STJ e 831 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Efeitos Patrimoniais do Mandado de Segurança e Ação de Cobrança das Parcelas Pretéritas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## O regime em três blocos temporais
 

@@ -5,8 +5,8 @@ title: "Lei de Abuso de Autoridade (Lei 13.869/2019)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lei-abuso-autoridade-13869.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-abuso-autoridade-13869/SKILL.md"
 triggers:
   - "Lei 13.869"
   - "abuso autoridade"
@@ -18,10 +18,15 @@ triggers:
   - "decisão judicial coação"
   - "revogada Lei 4.898"
   - "mero capricho satisfação pessoal"
-description: "Lei 13.869/2019 (Abuso de Autoridade): revoga Lei 4.898/65;\nsujeito ativo apenas **agente público** (art. 2); exige **especial\nfim de agir** (art. 1 §1, prejudicar/beneficiar/mero capricho ou\nsatisfação pessoal); tipos: decretar prisão ilegal (art. 9-12),\nexcesso interrogação (15), divulgação indevida (28), constranger\n(33), violar domicílio (22); efeitos secundários (4); ANPP cabível."
+description: "Usar para pesquisar ou analisar: Lei de Abuso de Autoridade (Lei 13.869/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 13.869/2019: Abuso de Autoridade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Visão geral
 

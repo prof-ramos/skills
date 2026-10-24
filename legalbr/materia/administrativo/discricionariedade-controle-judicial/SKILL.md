@@ -5,8 +5,8 @@ title: "Discricionariedade Administrativa e Controle Judicial (Tema 698 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/discricionariedade-controle-judicial.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/discricionariedade-controle-judicial/SKILL.md"
 triggers:
   - "discricionariedade administrativa"
   - "controle judicial do mérito"
@@ -18,10 +18,15 @@ triggers:
   - "conceito jurídico indeterminado"
   - "desvio de finalidade"
   - "ADPF 45"
-description: "Discricionariedade x controle judicial (Tema 698 STF +\nLINDB 20-22 + ADPF 45): controle de legalidade (CF 5 XXXV) +\nproporcionalidade + motivação + consequências; conceitos\njurídicos indeterminados; mérito administrativo (zona de\ndecisão não substituível pelo Judiciário, salvo ilegalidade/desvio);\ncontrole de políticas públicas (reserva do possível\n+ mínimo existencial); CF 37 §3 (participação)."
+description: "Usar para pesquisar ou analisar: Discricionariedade Administrativa e Controle Judicial (Tema 698 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Discricionariedade Administrativa e Controle Judicial
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

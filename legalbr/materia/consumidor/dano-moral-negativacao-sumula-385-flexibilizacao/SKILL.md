@@ -5,8 +5,8 @@ title: "Dano Moral em Negativação com Inscrição Preexistente (Súm. 385 STJ 
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/dano-moral-negativacao-sumula-385-flexibilizacao.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dano-moral-negativacao-sumula-385-flexibilizacao/SKILL.md"
 triggers:
   - "dano moral negativação preexistente"
   - "Súmula 385 STJ"
@@ -20,10 +20,15 @@ triggers:
   - "direito ao cancelamento inscrição"
   - "dano material inscrição indevida"
   - "Tema 922 STJ"
-description: "Súm. 385 STJ: havendo inscrição legítima preexistente, nova\nanotação irregular NÃO gera dano moral, mas dá direito ao\nCANCELAMENTO. Flexibilização: cabe dano moral se a\npreexistente é questionada com verossimilhança ou se TODAS\nas inscrições foram irregulares. Tema 922 STJ estende a\nsúmula às ações contra o credor. Súm. 548 STJ (devedor pode\npagar para ter o cancelamento)."
+description: "Usar para pesquisar ou analisar: Dano Moral em Negativação com Inscrição Preexistente (Súm. 385 STJ + Flexibilização). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Moral em Negativação com Inscrição Preexistente
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula 385 STJ
 

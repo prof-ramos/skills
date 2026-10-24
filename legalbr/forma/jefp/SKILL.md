@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "jefp"
 version: 2
-sourcePath: "lib/skills/official/forma/jefp.md"
+sourcePath: "legalbr/forma/jefp/SKILL.md"
 triggers:
   - "juizado especial da fazenda pública"
   - "JEFP"
@@ -19,10 +19,15 @@ triggers:
   - "PUIL pedido de uniformização ao STJ"
   - "pagamento por RPV requisição de pequeno valor"
   - "tutela antecipada no juizado da fazenda pública"
-description: "JEFP sob a Lei 12.153/09: competência absoluta até 60 SM contra\nEstados, DF, Municípios e respectivas autarquias/fundações; vedações\ndo art. 2º §1º; tutela antecipada ampla; perícia admitida; recurso\ninominado e PUIL direto ao STJ; pagamento por RPV (40/30 SM)."
+description: "Usar para redigir ou revisar: Juizado Especial da Fazenda Pública (Lei 12.153/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Juizado Especial da Fazenda Pública (JEFP)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases
 

@@ -5,8 +5,8 @@ title: "Contrato Built to Suit: BTS (Lei 8.245/91 art. 54-A: Lei 12.744/12)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-built-to-suit.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-built-to-suit/SKILL.md"
 triggers:
   - "built to suit"
   - "BTS"
@@ -20,10 +20,15 @@ triggers:
   - "long-term lease"
   - "CRI lastro BTS"
   - "securitização aluguel"
-description: "Locação Built to Suit (art. 54-A Lei 8.245: Lei 12.744/12):\nconstrução sob encomenda + locação atípica longa; renúncia à\nrevisional (54-A §1); multa integral até soma dos aluguéis\nvincendos (54-A §2); registro CRI; securitização via CRI."
+description: "Usar para pesquisar ou analisar: Contrato Built to Suit: BTS (Lei 8.245/91 art. 54-A: Lei 12.744/12). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato Built to Suit (BTS)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

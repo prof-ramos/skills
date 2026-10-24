@@ -5,8 +5,8 @@ title: "Auxílio por Incapacidade Temporária (antigo Auxílio-Doença, Lei 8.21
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-incapacidade-temporaria.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-incapacidade-temporaria/SKILL.md"
 triggers:
   - "auxílio-doença"
   - "auxílio por incapacidade temporária"
@@ -14,10 +14,15 @@ triggers:
   - "benefício B91"
   - "Atestmed"
   - "alta programada"
-description: "Auxílio por incapacidade temporária, antigo auxílio-doença (Lei\n8.213/91 arts. 59-63; EC 103/2019; Lei 13.457/2017 alta programada;\nLei 14.441/2022 Atestmed): requisitos e carência (dispensada nos\nacidentes e doenças do art. 151); 15 dias do empregador; cálculo\ne RMI; BESP/DCB e Atestmed; espécies B31 e B91 com estabilidade\nacidentária do art. 118; conversão em incapacidade permanente."
+description: "Usar para pesquisar ou analisar: Auxílio por Incapacidade Temporária (antigo Auxílio-Doença, Lei 8.213/91). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio por Incapacidade Temporária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

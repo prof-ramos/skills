@@ -5,8 +5,8 @@ title: "Extinção da Punibilidade pelo Pagamento (Lei 10.684/2003 art. 9 + Lei 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/extincao-punibilidade-pagamento-lei-10684.md"
+version: 2
+sourcePath: "legalbr/materia/penal/extincao-punibilidade-pagamento-lei-10684/SKILL.md"
 triggers:
   - "extinção da punibilidade pelo pagamento"
   - "Lei 10.684/2003"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 12.382/2011"
   - "apropriação previdenciária"
   - "pagamento integral do tributo"
-description: "Extinção da punibilidade nos crimes tributários sob Lei 10.684/2003\nart. 9 §2 + Lei 8.137/1990 + Lei 12.382/2011: pagamento integral\nextingue a QUALQUER TEMPO (inclusive após trânsito); parcelamento\nsuspende pretensão punitiva + prescrição (Lei 12.382 art. 6); SV\n24 STF (lançamento definitivo); Tema 157 STJ (insignificância\nR$ 20.000); compensação = pagamento; garantia ≠ pagamento."
+description: "Usar para pesquisar ou analisar: Extinção da Punibilidade pelo Pagamento (Lei 10.684/2003 art. 9 + Lei 8.137/1990). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Extinção da Punibilidade pelo Pagamento: Crimes Tributários
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

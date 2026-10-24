@@ -5,8 +5,8 @@ title: "Alienação Fiduciária de Veículo (DL 911/69 + Lei 13.043/14)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/alienacao-fiduciaria-veiculo.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/alienacao-fiduciaria-veiculo/SKILL.md"
 triggers:
   - "alienação fiduciária veículo"
   - "AF móvel"
@@ -21,10 +21,15 @@ triggers:
   - "Súm. 245 STJ"
   - "purgação 5 dias"
   - "consolidação propriedade"
-description: "AF de móvel infungível (DL 911/69 + Lei 13.043/14): propriedade\nresolúvel ao credor, posse direta ao devedor; mora ex re comprovada\npor notificação no endereço do contrato ou protesto (Súm. 72 STJ +\nTema 1.132 STJ); busca e apreensão liminar; pagamento integral da\ndívida em 5 dias da execução da liminar (Temas 722 e 1.279 STJ);\nleilão extrajudicial; sobra ao devedor."
+description: "Usar para pesquisar ou analisar: Alienação Fiduciária de Veículo (DL 911/69 + Lei 13.043/14). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Alienação Fiduciária de Veículo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

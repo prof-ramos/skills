@@ -5,8 +5,8 @@ title: "Poder de Investigação do MP (Tema 184 STF + RE 593.727)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/poder-investigacao-mp-tema-184.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/poder-investigacao-mp-tema-184/SKILL.md"
 triggers:
   - "Tema 184 STF"
   - "poder investigatório MP"
@@ -14,10 +14,15 @@ triggers:
   - "PIC MP"
   - "investigação criminal MP"
   - "CF 129"
-description: "Tema 184 STF (RE 593.727, 18/05/2015): o MP TEM PODER DE\nINVESTIGAR diretamente fatos criminais, sem necessidade de\ninquérito policial. PIC (Procedimento Investigatório Criminal)\nlegítimo. Limites: respeito a garantias constitucionais +\ncontraditório posterior. CF 129 + LC 75/93 + Lei 8.625/93."
+description: "Usar para pesquisar ou analisar: Poder de Investigação do MP (Tema 184 STF + RE 593.727). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Poder de Investigação do MP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

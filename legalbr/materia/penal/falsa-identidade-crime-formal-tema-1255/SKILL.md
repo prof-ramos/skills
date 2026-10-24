@@ -5,8 +5,8 @@ title: "Falsa Identidade (CP 307) como Crime Formal (Tema 1.255 STJ)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/falsa-identidade-crime-formal-tema-1255.md"
+version: 2
+sourcePath: "legalbr/materia/penal/falsa-identidade-crime-formal-tema-1255/SKILL.md"
 triggers:
   - "Tema 1.255 STJ"
   - "falsa identidade crime formal CP 307"
@@ -15,10 +15,15 @@ triggers:
   - "Súmula 522 STJ"
   - "CP 307"
   - "nome falso em abordagem policial"
-description: "Tema 1.255 STJ (3ª Seção, 14/05/2025): o crime de falsa identidade\n(CP 307) é FORMAL, consuma-se no ato de fornecer dados inexatos\nsobre a real identidade, CONSCIENTE e VOLUNTARIAMENTE. Não exige\nobtenção de vantagem nem causação de dano. Irrelevante a posterior\nverificação ou retratação."
+description: "Usar para pesquisar ou analisar: Falsa Identidade (CP 307) como Crime Formal (Tema 1.255 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Falsa Identidade (CP 307) como Crime Formal (Tema 1.255 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.255 STJ, 3ª Seção, 14/05/2025)
 

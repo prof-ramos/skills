@@ -5,8 +5,8 @@ title: "ADI 5938: Afastamento de Gestante e Lactante de Atividade Insalubre"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/adi-5938-gestante-insalubre.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/adi-5938-gestante-insalubre/SKILL.md"
 triggers:
   - "ADI 5938"
   - "gestante insalubre"
@@ -16,10 +16,15 @@ triggers:
   - "proteção maternidade"
   - "CF 7 XVIII"
   - "atestado médico afastamento"
-description: "ADI 5938 (Alexandre de Moraes, 29/05/2019): declarou\ninconstitucionais expressões dos incisos II e III do CLT 394-A\n(Reforma Trabalhista) que exigiam ATESTADO MÉDICO para afastar\nGESTANTE/LACTANTE de atividade insalubre. Afastamento é\nAUTOMÁTICO em qualquer grau (CF 6 + 7 XVIII + 196 + 201 II)."
+description: "Usar para pesquisar ou analisar: ADI 5938: Afastamento de Gestante e Lactante de Atividade Insalubre. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ADI 5938: Gestante Insalubre
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Identificação
 

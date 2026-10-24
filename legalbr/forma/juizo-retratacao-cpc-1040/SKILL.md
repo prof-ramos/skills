@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "juizo-retratacao"
 version: 2
-sourcePath: "lib/skills/official/forma/juizo-retratacao-cpc-1040.md"
+sourcePath: "legalbr/forma/juizo-retratacao-cpc-1040/SKILL.md"
 triggers:
   - "juízo de retratação"
   - "art. 1.040 CPC"
@@ -16,10 +16,15 @@ triggers:
   - "manutenção do acórdão em juízo de retratação"
   - "retratação para adequação a tema repetitivo"
   - "distinguishing em juízo de retratação"
-description: "Manifestação em juízo de retratação (CPC 1.030 II + 1.040 + 1.041)\napós decisão paradigmática (RE com repercussão geral, REsp/RE\nrepetitivo, IRDR/IAC). Três caminhos: (i) requerer retratação alinhando\no acórdão ao precedente; (ii) requerer manutenção por distinguishing\n(caso não se subsume à ratio); (iii) requerer superação (overruling).\nNão exige novo recurso após a retratação: autos sobem por força de lei."
+description: "Usar para redigir ou revisar: Manifestação em Juízo de Retratação (CPC 1.040). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Manifestação em Juízo de Retratação (CPC 1.040)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Hipóteses
 

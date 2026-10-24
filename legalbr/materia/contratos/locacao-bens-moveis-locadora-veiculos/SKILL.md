@@ -5,8 +5,8 @@ title: "Locação de Bens Móveis e Locadoras de Veículos (CC 565-578 + Súm. 4
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/locacao-bens-moveis-locadora-veiculos.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/locacao-bens-moveis-locadora-veiculos/SKILL.md"
 triggers:
   - "locação de bens móveis"
   - "locação de coisas CC 565"
@@ -20,10 +20,15 @@ triggers:
   - "aluguel arbitrado CC 575"
   - "locação de máquinas"
   - "carro reserva locadora"
-description: "Locação de coisas móveis (CC 565-578, fora da Lei 8.245): obrigações\ndas partes, restituição e aluguel-pena (575); Súm. 492 STF\n(locadora responde solidariamente por danos do locatário a\nterceiros); cluster consumerista de locadoras de veículos: avarias\nsem vistoria contraditória, débito unilateral da pré-autorização,\nrepasse de multas com taxa administrativa."
+description: "Usar para pesquisar ou analisar: Locação de Bens Móveis e Locadoras de Veículos (CC 565-578 + Súm. 492 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Locação de Bens Móveis e Locadoras de Veículos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

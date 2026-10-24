@@ -5,8 +5,8 @@ title: "Trabalho Escravo Contemporâneo (CP 149 + Tema 1.158 STF + Lei 14.811)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/trabalho-escravo-cp-149.md"
+version: 2
+sourcePath: "legalbr/materia/penal/trabalho-escravo-cp-149/SKILL.md"
 triggers:
   - "trabalho escravo"
   - "CP 149"
@@ -19,10 +19,15 @@ triggers:
   - "Henry Borel"
   - "trabalho forçado"
   - "jornada exaustiva"
-description: "Trabalho escravo CP 149 (Lei 10.803/2003): 4 hipóteses (trabalho\nforçado + jornada exaustiva + condições degradantes + restrição\npor dívida): recl. 2-8a; §1 aumento 1/2 (funcionário + criança +\npreconceito); competência JF consolidada (RE 459.510, CF 109 VI);\nTemas 1.158 e 1.425 STF pendentes (tipificação/standard probatório e\nimprescritibilidade); ADPF 489 conceito AMPLO (dispensa cerceamento\nfísico); Lei 14.811/2024 hediondo se menor; CF 243 expropriação."
+description: "Usar para pesquisar ou analisar: Trabalho Escravo Contemporâneo (CP 149 + Tema 1.158 STF + Lei 14.811). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Redução a Condição Análoga à de Escravo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 149: tipo penal (Lei 10.803/2003)
 

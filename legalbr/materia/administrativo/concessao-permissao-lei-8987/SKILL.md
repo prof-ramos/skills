@@ -5,8 +5,8 @@ title: "Concessão + Permissão de Serviços Públicos (CF 175 + Lei 8.987/1995 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/concessao-permissao-lei-8987.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/concessao-permissao-lei-8987/SKILL.md"
 triggers:
   - "concessão de serviço público"
   - "permissão de serviço público"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.026/2020"
   - "encampação"
   - "caducidade da concessão"
-description: "Concessão e Permissão CF 175 + Lei 8.987/1995: CONCESSÃO\n(contrato + PJ/consórcio + licitação por concorrência ou diálogo\ncompetitivo + prazo certo + tarifa); PERMISSÃO (contrato de\nadesão precário, Lei 8.987 art. 40); AUTORIZAÇÃO (ato + sem\nlicitação, atípica); Lei 11.079 PPP (patrocinada × administrativa,\nmín 5/máx 35a, R$ 10mi); Lei 14.026 saneamento; extinção\n(encampação + caducidade)."
+description: "Usar para pesquisar ou analisar: Concessão + Permissão de Serviços Públicos (CF 175 + Lei 8.987/1995 + Lei 11.079). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Concessão + Permissão de Serviços Públicos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 175: fundamento
 

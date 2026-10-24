@@ -5,8 +5,8 @@ title: "Pedido de Visita Íntima (Pessoa Presa)"
 category: "forma"
 materia: null
 documentType: "visita-intima"
-version: 1
-sourcePath: "lib/skills/official/forma/visita-intima-pessoa-presa.md"
+version: 2
+sourcePath: "legalbr/forma/visita-intima-pessoa-presa/SKILL.md"
 triggers:
   - "visita íntima"
   - "LEP 41 X"
@@ -15,10 +15,15 @@ triggers:
   - "união estável presa"
   - "visita íntima no RDD"
   - "Res. CNJ 348 pessoa trans presa"
-description: "Visita íntima da pessoa presa (Res. CNPCP 4/2011; Res. CNJ 348/2020;\nLEP 41 X trata da visita comum): fundamentos, requisitos e vias de\npedido; igualdade para casais homoafetivos (ADI 4.277 / ADPF 132 STF);\nvedações vigentes (presídios federais: Lei 11.671/2008 com a Lei\n13.964/2019; RDD: LEP 52 III; feminicídio: LEP 41 §2º); suspensão ou\nrestrição por ato motivado (LEP 41 §1º, Lei 14.994/2024); teses\ndefensivas de proporcionalidade contra a supressão absoluta."
+description: "Usar para redigir ou revisar: Pedido de Visita Íntima (Pessoa Presa). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Visita Íntima
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

@@ -5,8 +5,8 @@ title: "Água e Esgoto: Tarifa e Cobrança (Súm. 412 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/agua-esgoto-tarifa-cobranca.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/agua-esgoto-tarifa-cobranca/SKILL.md"
 triggers:
   - "tarifa de água"
   - "cobrança de esgoto"
@@ -18,10 +18,15 @@ triggers:
   - "hidrômetro"
   - "vazamento oculto"
   - "Lei 11.445"
-description: "Água e esgoto sob Lei 11.445/2007 (saneamento) + Súm. 412 STJ +\nCDC: relação de consumo (CDC arts. 3 §2 + 22); restituição decenal\nde valores indevidos (Súm. 412); tarifa progressiva por categoria/\nfaixa legítima (Súm. 407); vedação ao corte de essenciais por\ndébito antigo; tarifa de esgoto lícita havendo coleta ainda que\nsem tratamento (Tema 565 STJ); responsabilidade por vazamento\noculto (interpretação favorável)."
+description: "Usar para pesquisar ou analisar: Água e Esgoto: Tarifa e Cobrança (Súm. 412 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Água e Esgoto: Tarifa e Cobrança
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

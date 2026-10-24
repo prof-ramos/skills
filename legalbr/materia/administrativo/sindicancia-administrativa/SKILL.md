@@ -5,8 +5,8 @@ title: "Sindicância Administrativa (Lei 8.112/90 arts. 143-145 + Súm. 635 STJ)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/sindicancia-administrativa.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sindicancia-administrativa/SKILL.md"
 triggers:
   - "sindicância"
   - "apuração preliminar de falta funcional"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 8.112/90 art. 143"
   - "Lei 8.112/90 art. 145"
   - "Súm. 635 STJ"
-description: "Sindicância (Lei 8.112 arts. 143-145): rito apuratório prévio ao\nPAD; espécies investigativa (sem acusado) × acusatória (com\nacusado); prazo 30 dias prorrogáveis; sanções limitadas a\nadvertência/suspensão até 30 dias; Súm. 635 STJ (interrupção da\nprescrição pela instauração + retomada integral após 140 dias);\nSV 5; nulidade só com prejuízo."
+description: "Usar para pesquisar ou analisar: Sindicância Administrativa (Lei 8.112/90 arts. 143-145 + Súm. 635 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sindicância Administrativa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

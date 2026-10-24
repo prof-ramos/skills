@@ -5,8 +5,8 @@ title: "Busca Pessoal e Fundada Suspeita (CPP 244 + STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/busca-pessoal-fundada-suspeita-cpp-244-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/busca-pessoal-fundada-suspeita-cpp-244-stj/SKILL.md"
 triggers:
   - "busca pessoal CPP 244"
   - "fundada suspeita"
@@ -21,10 +21,15 @@ triggers:
   - "jurisprudência teses 236 STJ"
   - "área de tráfico revista"
   - "busca veicular"
-description: "Busca pessoal sem mandado exige FUNDADA SUSPEITA objetiva (CPP 244):\njuízo de probabilidade descrito com precisão e justificado por\nindícios concretos. Atitude suspeita genérica, denúncia anônima\nisolada ou intuição policial NÃO autorizam. Prova obtida em busca\nilegal é ILÍCITA (CF 5 LVI) e contamina derivadas."
+description: "Usar para pesquisar ou analisar: Busca Pessoal e Fundada Suspeita (CPP 244 + STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Busca Pessoal + Fundada Suspeita
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Diretriz STJ (jurisprudência consolidada)
 

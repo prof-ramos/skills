@@ -6,7 +6,7 @@ category: "materia"
 materia: "tributario"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/imunidades-cf-150-vi.md"
+sourcePath: "legalbr/materia/tributario/imunidades-cf-150-vi/SKILL.md"
 triggers:
   - "imunidades tributárias"
   - "CF 150 VI"
@@ -22,10 +22,15 @@ triggers:
   - "LC 187/2021 CEBAS"
   - "Tema 336 STF"
   - "Lei 15.486 crédito tributário CEBAS"
-description: "Imunidades da CF 150 VI e CF 195 §7: recíproca, templos, entidades,\nlivros e fonogramas, com teses do STF, CEBAS da LC 187/2021 e regra\ntemporal da Lei 15.486/2026 para créditos não definitivos."
+description: "Usar para pesquisar ou analisar: Imunidades Tributárias (CF 150 VI + SV 52 + Tema 437/235/593 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Imunidades Tributárias
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 150 VI: limitações constitucionais ao poder de tributar
 

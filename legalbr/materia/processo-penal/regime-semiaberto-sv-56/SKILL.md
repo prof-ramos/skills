@@ -5,8 +5,8 @@ title: "Regime Semiaberto e SV 56 (Súmula Vinculante 56 + RE 641.320)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/regime-semiaberto-sv-56.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/regime-semiaberto-sv-56/SKILL.md"
 triggers:
   - "SV 56"
   - "Súmula Vinculante 56"
@@ -17,10 +17,15 @@ triggers:
   - "monitoramento eletrônico"
   - "LEP 117"
   - "estabelecimento adequado"
-description: "SV 56 STF (29/06/2016, RE 641.320): \"A falta de estabelecimento\npenal adequado não autoriza a manutenção do condenado em regime\nprisional MAIS GRAVOSO.\" Alternativas: cumprimento em ala\nadequada, prisão domiciliar com monitoração eletrônica, regime\naberto. Tema 423 STF + ADPF 347 (estado de coisas inconstitucional)."
+description: "Usar para pesquisar ou analisar: Regime Semiaberto e SV 56 (Súmula Vinculante 56 + RE 641.320). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regime Semiaberto e SV 56
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Súmula Vinculante 56
 

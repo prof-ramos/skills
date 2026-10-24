@@ -5,8 +5,8 @@ title: "Responsabilidade Civil do Incapaz e Gestão de Negócios (CC 861-883 + 9
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/responsabilidade-incapaz-cc-928.md"
+version: 2
+sourcePath: "legalbr/materia/civil/responsabilidade-incapaz-cc-928/SKILL.md"
 triggers:
   - "responsabilidade incapaz"
   - "CC 928"
@@ -18,10 +18,15 @@ triggers:
   - "patrimonio reservado"
   - "desconto humanitario"
   - "promessa de recompensa"
-description: "Responsabilidade civil do incapaz (CC 928, subsidiária e\nequitativa); responsabilidade dos pais/tutores/curadores (CC 932\n+ 933 objetiva); gestão de negócios (CC 861-875) como fonte\nautônoma; relação com CC 884; reserva patrimonial humanitária."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil do Incapaz e Gestão de Negócios (CC 861-883 + 928). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade do Incapaz e Gestão de Negócios
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 928, RESPONSABILIDADE DO INCAPAZ
 

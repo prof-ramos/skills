@@ -5,8 +5,8 @@ title: "IPVA em Leasing/Locação (CF 155 III + Súm. 585 STJ + Tema 708 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/ipva-leasing-locacao-sum-585.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/ipva-leasing-locacao-sum-585/SKILL.md"
 triggers:
   - "IPVA leasing"
   - "IPVA locação"
@@ -17,10 +17,15 @@ triggers:
   - "solidariedade arrendatário"
   - "domicílio do contribuinte"
   - "guerra fiscal IPVA"
-description: "IPVA em leasing/locação CF 155 III + Tema 708 STF (RE 1.016.605,\n2020): no LEASING financeiro a arrendadora é proprietária e sujeito\npassivo, podendo a lei estadual prever solidariedade do arrendatário\n(CTN 124); Tema 708 fixou que o IPVA é devido ao Estado do DOMICÍLIO\ndo contribuinte (combate guerra fiscal). Súm. 585 STJ trata de tema\ndiverso (responsabilidade do EX-PROPRIETÁRIO após a alienação, CTB\nart. 134, não alcança IPVA). Locação sem opção de compra: locador\nproprietário responde."
+description: "Usar para pesquisar ou analisar: IPVA em Leasing/Locação (CF 155 III + Súm. 585 STJ + Tema 708 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IPVA em Leasing / Locação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

@@ -5,8 +5,8 @@ title: "Regime Disciplinar Diferenciado (RDD)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/rdd-lep-art-52.md"
+version: 2
+sourcePath: "legalbr/materia/penal/rdd-lep-art-52/SKILL.md"
 triggers:
   - "RDD"
   - "regime disciplinar diferenciado"
@@ -17,10 +17,15 @@ triggers:
   - "cela individual"
   - "presídio federal de segurança máxima"
   - "subversão da ordem interna"
-description: "Regime Disciplinar Diferenciado (LEP art. 52 + Lei 13.964/2019):\nduração máxima de até 2 anos (sem prejuízo de repetição por nova\nfalta grave da mesma espécie), prorrogável sucessivamente por\nperíodos de 1 ano (§4) enquanto persistir o alto risco ou o\nvínculo com facção (a lei NÃO fixa número máximo de prorrogações)\nem hipóteses TAXATIVAS (subversão da ordem; alto risco à segurança;\nfundadas suspeitas de envolvimento com organização criminosa/milícia);\ndecisão JUDICIAL fundamentada + manifestação MP/defesa (LEP 54 §2,\nred. Lei 15.407/2026: decisão liminar + final em 15 dias); STF ADI\n4.162 (OAB, sem julgamento definitivo); §3 RDD obrigatório em\nestabelecimento federal se há indícios de liderança ou atuação em\n2+ Estados; Súm. 533 STJ aplicável (PAD prévio)."
+description: "Usar para pesquisar ou analisar: Regime Disciplinar Diferenciado (RDD). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regime Disciplinar Diferenciado (RDD)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

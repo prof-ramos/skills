@@ -5,8 +5,8 @@ title: "Direitos do Nascituro (CC 2 + Lei 11.804/2008 + ADPF 442)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/nascituro-cc-2.md"
+version: 2
+sourcePath: "legalbr/materia/civil/nascituro-cc-2/SKILL.md"
 triggers:
   - "nascituro"
   - "personalidade civil CC 2"
@@ -18,10 +18,15 @@ triggers:
   - "ADPF 442"
   - "REsp 1.415.727"
   - "curatela CC 1.779"
-description: "Direitos do nascituro sob CC 2 + Lei 11.804/2008 (alimentos\ngravídicos): personalidade civil começa com nascimento + lei\npõe a salvo direitos desde concepção; STJ inclina-se à\nCONCEPCIONISTA (REsp 1.415.727, seguro obrigatório por óbito\nfetal + dano moral por morte do pai); alimentos gravídicos com\nindícios; CC 1.798 (sucessão); Lei 6.194/74 (DPVAT) REVOGADA e\nSPVAT (LC 207/2024) revogado pela LC 211/2024: sem seguro\nobrigatório vigente; ADPF 442 STF pendente em 2026."
+description: "Usar para pesquisar ou analisar: Direitos do Nascituro (CC 2 + Lei 11.804/2008 + ADPF 442). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos do Nascituro
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 2 + teorias
 

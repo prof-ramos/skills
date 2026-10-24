@@ -5,8 +5,8 @@ title: "Cumprimento de Sentença de Alimentos (CPC 528-533)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/cumprimento-alimentos-cpc-528.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/cumprimento-alimentos-cpc-528/SKILL.md"
 triggers:
   - "cumprimento alimentos"
   - "CPC 528"
@@ -18,10 +18,15 @@ triggers:
   - "protesto alimentos"
   - "Sum 309 STJ"
   - "alimentos atrasados"
-description: "Cumprimento de sentença de alimentos (CPC 528-533): rito da prisão\n(CPC 528) para últimas 3 prestações + as vincendas (Súm. 309 STJ);\nrito da expropriação (CPC 528 §8 + CPC 523) para débitos\npretéritos; desconto em folha (CPC 529); protesto (CPC 528 §1);\nprisão civil (CF 5 LXVII)."
+description: "Usar para pesquisar ou analisar: Cumprimento de Sentença de Alimentos (CPC 528-533). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cumprimento de Sentença de Alimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## DOIS RITOS PARALELOS
 

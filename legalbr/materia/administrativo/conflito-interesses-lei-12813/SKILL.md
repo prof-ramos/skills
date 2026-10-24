@@ -5,8 +5,8 @@ title: "Conflito de Interesses (Lei 12.813/2013 + Dec. 11.529/2023)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/conflito-interesses-lei-12813.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/conflito-interesses-lei-12813/SKILL.md"
 triggers:
   - "conflito de interesses"
   - "Lei 12.813/2013"
@@ -17,10 +17,15 @@ triggers:
   - "Decreto 11.529"
   - "informação privilegiada"
   - "improbidade conflito"
-description: "Conflito de interesses (Lei 12.813/2013 + Dec. 11.529/2023):\ndefine hipóteses durante e após o exercício de cargo no\nExecutivo Federal; alto escalão (DAS 5-6 + assemelhados +\nMinistros); quarentena de 6 meses pós-cargo com remuneração\ncompensatória; consultas via SeCI à CGU; sanções administrativas\n+ improbidade + crime."
+description: "Usar para pesquisar ou analisar: Conflito de Interesses (Lei 12.813/2013 + Dec. 11.529/2023). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conflito de Interesses (Lei 12.813/2013)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

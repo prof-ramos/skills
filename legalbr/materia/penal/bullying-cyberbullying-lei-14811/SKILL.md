@@ -5,8 +5,8 @@ title: "Bullying + Cyberbullying (Lei 14.811/2024 + CP 146-A caput e parágrafo 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/bullying-cyberbullying-lei-14811.md"
+version: 2
+sourcePath: "legalbr/materia/penal/bullying-cyberbullying-lei-14811/SKILL.md"
 triggers:
   - "bullying"
   - "cyberbullying"
@@ -22,10 +22,15 @@ triggers:
   - "protocolo escolar"
   - "proteção criança ECA"
   - "crime hediondo escolar"
-description: "Bullying + cyberbullying sob Lei 14.811/2024 (Lei Mãe) + CP 146-A\n(caput = bullying, multa) + CP 146-A parágrafo único (cyberbullying,\nrecl. 2-4 + multa); hediondez do\ninduzimento ao suicídio virtual de criança (CP 122) + sequestro\nde menor; escola responde objetivamente (CDC 14 + CC 932 IV);\ncaracterização exige repetitividade + intencionalidade."
+description: "Usar para pesquisar ou analisar: Bullying + Cyberbullying (Lei 14.811/2024 + CP 146-A caput e parágrafo único). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bullying e Cyberbullying
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco: Lei 14.811/2024 (12/01/2024), "Lei Mãe"
 

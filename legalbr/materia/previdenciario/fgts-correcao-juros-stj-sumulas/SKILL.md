@@ -5,8 +5,8 @@ title: "FGTS, Correção, Juros, Expurgos (Súmulas STJ)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/fgts-correcao-juros-stj-sumulas.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/fgts-correcao-juros-stj-sumulas/SKILL.md"
 triggers:
   - "FGTS expurgos"
   - "FGTS correção monetária"
@@ -20,10 +20,15 @@ triggers:
   - "Súm. 571 STJ"
   - "Súm. 578 STJ"
   - "Súm. 646 STJ"
-description: "FGTS no STJ: taxa progressiva (154); expurgos inflacionários, termo inicial\n(445); correção monetária, TR (459); juros progressivos, prazo (398);\ntrabalhadores avulsos sem TPJ (571); rurícolas sucroalcooleiros, isenção\naté CF/88 (578); FGTS sobre verbas trabalhistas, rol taxativo de\nexclusões (646); responsabilidade da CEF pela exibição dos extratos (514)."
+description: "Usar para pesquisar ou analisar: FGTS, Correção, Juros, Expurgos (Súmulas STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # FGTS, Correção, Juros, Expurgos (Súmulas STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

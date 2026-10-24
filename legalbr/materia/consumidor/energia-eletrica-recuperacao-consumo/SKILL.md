@@ -5,8 +5,8 @@ title: "Energia Elétrica: Recuperação de Consumo (Tema 699 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/energia-eletrica-recuperacao-consumo.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/energia-eletrica-recuperacao-consumo/SKILL.md"
 triggers:
   - "recuperação de consumo"
   - "TOI"
@@ -19,10 +19,15 @@ triggers:
   - "fraude no medidor"
   - "consumo retroativo"
   - "perícia inmetro"
-description: "Recuperação de consumo em energia elétrica sob Tema 699 STJ\n(REsp 1.412.433/RS) + Res. ANEEL 1000/2021 (sucessora da 414/2010):\nTOI deve ser apurado em procedimento administrativo com\ncontraditório; perícia técnica do medidor; vedado corte por\ninadimplência de débito retroativo de recuperação; corte por\ninadimplemento atual exige aviso prévio e débito contemporâneo;\nusuário de baixa renda, proteção reforçada; dano moral em\ninterrupção indevida."
+description: "Usar para pesquisar ou analisar: Energia Elétrica: Recuperação de Consumo (Tema 699 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Energia Elétrica: Recuperação de Consumo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

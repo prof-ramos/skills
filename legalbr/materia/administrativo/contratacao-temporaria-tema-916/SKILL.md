@@ -5,8 +5,8 @@ title: "Contratação Temporária em Desconformidade com CF 37 IX (Tema 916 STF)
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/contratacao-temporaria-tema-916.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/contratacao-temporaria-tema-916/SKILL.md"
 triggers:
   - "Tema 916 STF"
   - "contratação temporária irregular"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 8.745/93"
   - "servidor temporário"
   - "direitos contratos nulos"
-description: "Tema 916 STF (RE 765.320, 16/09/2016): contratação por\nTEMPO DETERMINADO em DESCONFORMIDADE com CF 37 IX\n(excepcionalidade + previsão legal) é NULA. Apenas o\nsaldo de salário + FGTS são devidos (Súm. 363 TST por\nanalogia). Lei 8.745/93 + leis locais."
+description: "Usar para pesquisar ou analisar: Contratação Temporária em Desconformidade com CF 37 IX (Tema 916 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratação Temporária em Desconformidade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

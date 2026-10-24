@@ -6,7 +6,7 @@ category: "materia"
 materia: "constitucional"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/constitucional/poder-judiciario-cnj-stj-stf.md"
+sourcePath: "legalbr/materia/constitucional/poder-judiciario-cnj-stj-stf/SKILL.md"
 triggers:
   - "poder judiciário"
   - "competência originária do STF"
@@ -17,10 +17,15 @@ triggers:
   - "EC 45/2004 reforma do Judiciário"
   - "Tema 725 STF"
   - "LOMAN LC 35/1979"
-description: "Organização do Poder Judiciário sob a CF 92-126: estrutura (STF, STJ,\nCNJ, TRFs, TRTs, TREs, STM e Justiças estaduais); garantias e vedações\nda magistratura (art. 95); ingresso por concurso e quinto constitucional,\npromoção e regime disciplinar; competências originária e recursal de\nSTF/STJ e Reforma do Judiciário (EC 45/2004)."
+description: "Usar para pesquisar ou analisar: Poder Judiciário + STF + STJ + CNJ + Justiças (CF 92-126). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Poder Judiciário + STF + STJ + CNJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

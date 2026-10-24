@@ -5,8 +5,8 @@ title: "Exclusão do REFIS e Notificação Prévia (Tema 668 STF + RE 669.196)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/refis-notificacao-tema-668.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/refis-notificacao-tema-668/SKILL.md"
 triggers:
   - "Tema 668 STF"
   - "RE 669.196"
@@ -17,10 +17,15 @@ triggers:
   - "Lei 9.964/2000"
   - "Lei 9.784/99"
   - "PERT PRT parcelamentos"
-description: "Tema 668 STF (RE 669.196, Min. Toffoli, mérito 26/10/2020, Pleno,\nunânime): inconstitucional o art. 1 da Resolução CG/REFIS 20/2001\nque suprimia a notificação prévia da PJ optante do REFIS. Publicação\nno DOU ou internet NÃO substitui notificação pessoal. CF 5 LIV/LV\n+ Lei 9.784/99. Modulação em ED (2021): eficácia ex nunc desde a\npublicação da ata do mérito, preservados atos anteriores,\nressalvadas ações em curso."
+description: "Usar para pesquisar ou analisar: Exclusão do REFIS e Notificação Prévia (Tema 668 STF + RE 669.196). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Exclusão do REFIS e Notificação Prévia (Tema 668 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

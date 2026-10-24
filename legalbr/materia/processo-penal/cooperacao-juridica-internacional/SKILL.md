@@ -5,8 +5,8 @@ title: "Cooperação Jurídica Internacional em Matéria Penal"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/investigacao-inquerito/cooperacao-juridica-internacional.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/cooperacao-juridica-internacional/SKILL.md"
 triggers:
   - "cooperação internacional"
   - "carta rogatória"
@@ -17,10 +17,15 @@ triggers:
   - "STJ homologação"
   - "auxílio direto"
   - "transferência presos"
-description: "Cooperação jurídica internacional em matéria penal: extradição\n(CF 5 LI e LII + Lei 13.445/2017 + STF competência); carta\nrogatória (CPC 36 + STJ exequatur); homologação de sentença\nestrangeira (CPC 961 + STJ); auxílio direto (Lei 13.445 art. 100);\nMLAT (Mutual Legal Assistance Treaty); transferência de presos;\nbloqueio de ativos no exterior (UNCAC + Mérida)."
+description: "Usar para pesquisar ou analisar: Cooperação Jurídica Internacional em Matéria Penal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cooperação Jurídica Internacional em Matéria Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Espécies
 

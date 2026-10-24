@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/embargos-tst-clt-894.md"
+sourcePath: "legalbr/materia/trabalho/embargos-tst-clt-894/SKILL.md"
 triggers:
   - "embargos TST"
   - "E-RR"
@@ -15,10 +15,15 @@ triggers:
   - "SDI-1"
   - "divergência jurisprudencial"
   - "Súm. 353 TST"
-description: "Embargos no TST (CLT 894): por divergência (894 II, E-RR) de\ndecisões de Turmas do TST para a SDI-1 quando há divergência entre\nTurmas, com a SDI ou com Súmulas/OJs/súmula vinculante do STF;\ninfringentes (894 I) de decisão não unânime da SDC em dissídio\ncoletivo; prazo 8 dias; Súm. 353 (transcrição); Súm. 23 (parcial);\nfunção uniformizadora."
+description: "Usar para pesquisar ou analisar: Embargos no TST (E-RR, E-AIRR, EEDRR, CLT 894). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos no TST (CLT 894)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

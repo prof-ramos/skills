@@ -8,6 +8,8 @@ import subprocess
 
 ROOT = Path(__file__).resolve().parents[3]
 CONTEXT_PATHS = (
+    'legalbr/SKILL.md',
+    'legalbr/references/verificacao.md',
     'skills/legalbr/SKILL.md',
     'skills/legalbr/references/fluxos-operacionais.md',
     'legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md',

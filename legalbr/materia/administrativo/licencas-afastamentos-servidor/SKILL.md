@@ -5,8 +5,8 @@ title: "Licenças e Afastamentos do Servidor (Lei 8.112/90 arts. 81-99 + Súm. 1
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/servidor-publico-regime/licencas-afastamentos-servidor.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/licencas-afastamentos-servidor/SKILL.md"
 triggers:
   - "licença servidor"
   - "afastamento servidor"
@@ -24,10 +24,15 @@ triggers:
   - "pai solo licença-maternidade"
   - "Súmula 136 STJ"
   - "conversão licença-prêmio em pecúnia"
-description: "Licenças e afastamentos (Lei 8.112 arts. 81-99): por motivo de\nsaúde; gestante 180 dias (Lei 11.770 + Dec. 6.690); paternidade\n5+15 dias (Lei 13.257); adotante 180 (Tema 782 STF); capacitação\n(art. 87); interesse particular (até 3 anos); mandato classista;\ncônjuge no exterior; serviço militar; estudo no exterior;\nconversão de licença-prêmio em pecúnia (Tema 1.086 STJ; Súm. 136\nSTJ: sem IR; Tema 975 STF: natureza indenizatória, teto na base)."
+description: "Usar para pesquisar ou analisar: Licenças e Afastamentos do Servidor (Lei 8.112/90 arts. 81-99 + Súm. 136 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Licenças e Afastamentos do Servidor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

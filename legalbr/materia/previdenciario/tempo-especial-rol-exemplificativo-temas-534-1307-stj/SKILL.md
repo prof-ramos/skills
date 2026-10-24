@@ -5,8 +5,8 @@ title: "Tempo Especial fora do Rol: Eletricidade e Penosidade do Motorista (Tema
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/tempo-especial-rol-exemplificativo-temas-534-1307-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/tempo-especial-rol-exemplificativo-temas-534-1307-stj/SKILL.md"
 triggers:
   - "Tema 534 STJ"
   - "Tema 1.307 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "cobrador de ônibus tempo especial"
   - "eletricitário 250 volts"
   - "Decreto 2.172 agente nocivo"
-description: "Reconhecimento de tempo especial por agente fora do rol regulamentar:\nTema 534 STJ (rol exemplificativo; eletricidade pós-Decreto 2.172/97)\ne Tema 1.307 STJ (penosidade de motorista/cobrador pós-Lei 9.032/95\nmediante perícia técnica individualizada), com a Súmula 198 TFR."
+description: "Usar para pesquisar ou analisar: Tempo Especial fora do Rol: Eletricidade e Penosidade do Motorista (Temas 534 e 1.307 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tempo Especial fora do Rol Regulamentar (Temas 534 e 1.307 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Recorte desta skill: enquadramento de agente/atividade **não listada** nos decretos (eletricidade pós-1997 e penosidade de motorista/cobrador pós-1995). Regras gerais da aposentadoria especial, PPP/LTCAT, ruído, EPI e conversão: vide [[aposentadoria-especial]] e [[epi-tempo-especial-tema-1090]].
 

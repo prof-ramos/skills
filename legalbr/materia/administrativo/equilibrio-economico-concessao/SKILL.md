@@ -5,8 +5,8 @@ title: "Equilíbrio Econômico-Financeiro em Concessões e PPPs"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/equilibrio-economico-concessao.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/equilibrio-economico-concessao/SKILL.md"
 triggers:
   - "equilíbrio econômico-financeiro"
   - "art. 9 Lei 8.987"
@@ -18,10 +18,15 @@ triggers:
   - "art. 65 Lei 8.666"
   - "art. 124 Lei 14.133"
   - "revisão contratual administrativa"
-description: "Equilíbrio econômico-financeiro em concessões e PPPs (Lei 8.987 art. 9;\nLei 8.666 art. 65 II d; Lei 14.133/21 arts. 124-126; Lei 11.079/04 art. 5\nIII). Hipóteses de reequilíbrio: fato superveniente, fato do príncipe,\nfato da Administração, caso fortuito, força maior, álea econômica\nextraordinária. Cláusulas de reajuste, revisão tarifária extraordinária,\nrevisão por evento. Procedimento: pleito + análise técnica + decisão da\nagência ou poder concedente. Disputa em arbitragem ou Justiça Federal.\nCoordenação com revisão tarifária periódica (ANEEL, ANATEL, ANAC, etc.)."
+description: "Usar para pesquisar ou analisar: Equilíbrio Econômico-Financeiro em Concessões e PPPs. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Equilíbrio Econômico-Financeiro em Concessões e PPPs
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

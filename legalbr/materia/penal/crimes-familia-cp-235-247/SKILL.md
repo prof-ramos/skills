@@ -5,8 +5,8 @@ title: "Crimes contra a Família (CP 235-249 + Lei 14.811/2024)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/crimes-familia-cp-235-247.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-familia-cp-235-247/SKILL.md"
 triggers:
   - "crimes contra família"
   - "bigamia"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 14.811/2024"
   - "Lei 14.344 Henry Borel"
   - "prisão alimentante"
-description: "Crimes contra família (CP 235-249): bigamia CP 235 (exige\ncasamento anterior válido); CP 240 (adultério) REVOGADO Lei\n11.106/2005; CP 242 adoção à brasileira (perdão judicial); CP 244\nABANDONO MATERIAL (exige dolo + capacidade, STJ); CP 246/249;\nLei 14.344/2022 (Henry Borel) + Lei 14.811/2024 (hediondos contra\nmenor); prisão civil do alimentante (CF 5 LXVII)."
+description: "Usar para pesquisar ou analisar: Crimes contra a Família (CP 235-249 + Lei 14.811/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra a Família
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura (CP 235-249)
 

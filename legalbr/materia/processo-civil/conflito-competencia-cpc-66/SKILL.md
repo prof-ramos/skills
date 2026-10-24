@@ -5,8 +5,8 @@ title: "Conflito de Competência (CPC 66 + 951-959)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/conflito-competencia-cpc-66.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/conflito-competencia-cpc-66/SKILL.md"
 triggers:
   - "conflito de competência"
   - "CPC 66"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 235 STJ"
   - "CF 105 I d"
   - "competência absoluta"
-description: "Conflito de competência sob CPC 66 + 951-959: positivo (ambos\ncompetentes), negativo (ambos incompetentes), controvérsia sobre\nreunião/separação; suscita juiz + MP + parte (CPC 951); vedada\na suscitação por quem arguiu incompetência relativa (CPC 952);\nsobrestamento + juiz para medidas urgentes (CPC 955);\njulgamento de plano com base em súmula/tese (CPC 955 par.\núnico); competência STF (CF 102) + STJ (CF 105 I d) +\ntribunais; perpetuatio CPC 43."
+description: "Usar para pesquisar ou analisar: Conflito de Competência (CPC 66 + 951-959). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Conflito de Competência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa: CPC 66 (modalidades)
 

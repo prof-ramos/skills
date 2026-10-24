@@ -5,8 +5,8 @@ title: "Lei Orgânica do MP (Lei 8.625/1993 + LC 75/1993 + CF 127-130)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/lei-organica-mp-lei-8625.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-organica-mp-lei-8625/SKILL.md"
 triggers:
   - "lei orgânica do MP"
   - "Lei 8.625/1993"
@@ -21,10 +21,15 @@ triggers:
   - "CF 130-A"
   - "Conselho Nacional do Ministério Público"
   - "ANPP CPP 28-A"
-description: "Lei Orgânica MP CF 127-130: Lei 8.625/1993 (MPs Estaduais) + LC\n75/1993 (MPU: MPF + MPT + MPM + MPDFT); princípios CF 127 §1\nunidade + indivisibilidade + INDEPENDÊNCIA FUNCIONAL; autonomia\n(§§ 2-3); CF 129 funções (AP pública + ACP + controle externo\npolícia); CF 128 §5 vitaliciedade + inamovibilidade + QUARENTENA\n3 anos; CNMP CF 130-A; ANPP CPP 28-A retroativo (Tema 1.098 STJ)."
+description: "Usar para pesquisar ou analisar: Lei Orgânica do MP (Lei 8.625/1993 + LC 75/1993 + CF 127-130). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Orgânica do MP
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 127: natureza institucional
 

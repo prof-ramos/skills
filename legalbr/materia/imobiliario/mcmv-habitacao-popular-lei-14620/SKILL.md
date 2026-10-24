@@ -5,8 +5,8 @@ title: "Minha Casa Minha Vida + Habitação Popular (Lei 14.620/2023 + Lei 11.97
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/mcmv-habitacao-popular-lei-14620.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/mcmv-habitacao-popular-lei-14620/SKILL.md"
 triggers:
   - "Minha Casa Minha Vida"
   - "MCMV"
@@ -20,10 +20,15 @@ triggers:
   - "RET 1%"
   - "programa habitacional faixa 1"
   - "titularidade preferencial da mulher"
-description: "Programa MCMV (Lei 14.620/2023 - restabeleceu o nome MCMV, que\nhavia sido substituído por Casa Verde e Amarela pela Lei 14.118/\n2021): financiamento de\nmoradia para faixas de renda 1 a 4 (Faixa 4 \"classe média\"\ncriada em 2025) + zona urbana e rural; uso\ndo FGTS + recursos OGU + FAR + FAR-2 + SBPE; alienação\nfiduciária Lei 9.514 + LACE; RET 1% para imoveis ate o teto;\nvedação venda antes de 10 anos sem anuência; legitimação para\nREURB + casa em pequeno municipio."
+description: "Usar para pesquisar ou analisar: Minha Casa Minha Vida + Habitação Popular (Lei 14.620/2023 + Lei 11.977/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Minha Casa Minha Vida + Habitação Popular
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

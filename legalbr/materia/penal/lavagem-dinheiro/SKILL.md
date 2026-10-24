@@ -5,8 +5,8 @@ title: "Lavagem de Dinheiro (Lei 9.613/1998)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/lavagem-dinheiro.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lavagem-dinheiro/SKILL.md"
 triggers:
   - "lavagem de dinheiro"
   - "Lei 9.613/1998"
@@ -17,10 +17,15 @@ triggers:
   - "cegueira deliberada"
   - "confisco alargado CP 91-A"
   - "Tema 990 STF"
-description: "Crime de lavagem de capitais sob a Lei 9.613/1998 (com redação da\nLei 12.683/2012): tipo do art. 1º (ocultar/dissimular bens provenientes\nde infração penal); autonomia em relação ao antecedente; autolavagem\ne cegueira deliberada; fases GAFI (colocação, ocultação, integração);\nobrigados, COAF, medidas assecuratórias e confisco alargado."
+description: "Usar para pesquisar ou analisar: Lavagem de Dinheiro (Lei 9.613/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lavagem de Dinheiro (Lei 9.613/1998)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

@@ -5,8 +5,8 @@ title: "Súmula Vinculante 25 - Prisão Civil de Depositário Infiel é Ilícita
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/sumula-vinculante-25-prisao-depositario-infiel.md"
+version: 2
+sourcePath: "legalbr/materia/civil/sumula-vinculante-25-prisao-depositario-infiel/SKILL.md"
 triggers:
   - "SV 25"
   - "Súmula Vinculante 25"
@@ -18,10 +18,15 @@ triggers:
   - "RE 466343"
   - "HC 87585"
   - "Súmula 619 revogada"
-description: "SV 25 STF (16/12/2009): \"É ilícita a prisão civil de depositário infiel,\nqualquer que seja a modalidade do depósito.\" Fundada na supralegalidade\ndo Pacto San José (art. 7.7) firmada em RE 466.343 e HC 87.585.\nRevoga a Súm. 619 STF e afasta o DL 911/69. Subsiste apenas a prisão civil\ndo devedor de alimentos (CF 5 LXVII parte final)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 25 - Prisão Civil de Depositário Infiel é Ilícita. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 25 - Prisão Civil de Depositário Infiel
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

@@ -5,8 +5,8 @@ title: "Contravenções Penais (DL 3.688/1941, LCP)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/contravencoes-penais-dl-3688.md"
+version: 2
+sourcePath: "legalbr/materia/penal/contravencoes-penais-dl-3688/SKILL.md"
 triggers:
   - "contravenção penal"
   - "LCP"
@@ -19,10 +19,15 @@ triggers:
   - "importunação ofensiva pudor"
   - "Súm. 588 STJ"
   - "JECRIM contravenções"
-description: "DL 3.688/1941 (LCP), contravenções: LCP 21 vias de fato (prisão\nsimples 15-3m + multa, ação pública incondicionada); LCP 42\nperturbação trabalho/sossego (15d-3m); LCP 47 exercício atividade\nnão habilitada; LCP 50 jogo de azar; LCP 65 (REVOGADO Lei\n14.132/2021, stalking CP 147-A). NÃO admite tentativa (LCP 4).\nPena: prisão simples (regimes aberto/semiaberto) + multa.\nJECRIM. Maria da Penha em vias de fato, vide STJ."
+description: "Usar para pesquisar ou analisar: Contravenções Penais (DL 3.688/1941, LCP). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contravenções Penais (LCP)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Decreto-Lei 3.688/1941: natureza
 

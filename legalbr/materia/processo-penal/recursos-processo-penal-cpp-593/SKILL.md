@@ -5,8 +5,8 @@ title: "Recursos no Processo Penal (CPP 574-619 + Tema 1.087 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/sentenca-recursos-penais/recursos-processo-penal-cpp-593.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/recursos-processo-penal-cpp-593/SKILL.md"
 triggers:
   - "recursos criminais"
   - "apelação criminal"
@@ -20,10 +20,15 @@ triggers:
   - "taxatividade"
   - "protesto novo júri"
   - "CPP 619"
-description: "Recursos penal: TAXATIVIDADE CPP 574; APELAÇÃO CPP 593 (5d + 8d\nrazões; III \"d\" júri prova contrária, uma única vez; Tema 1.087\nSTF: cabe contra absolvição por quesito genérico, ressalvada\nclemência compatível); RESE CPP 581 (25 incisos taxativos, XXV =\nANPP; 5d + 2d); agravo execução LEP 197 (Súm. 700 STF: 5d); ED\nCPP 619 (2d); embargos infringentes CPP 609; protesto novo júri\nEXTINTO (Lei 11.689); Súm. 713 STF; ANPP retroativo (Tema 1.098\nSTJ + HC 185.913 STF)."
+description: "Usar para pesquisar ou analisar: Recursos no Processo Penal (CPP 574-619 + Tema 1.087 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos no Processo Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 574: TAXATIVIDADE
 

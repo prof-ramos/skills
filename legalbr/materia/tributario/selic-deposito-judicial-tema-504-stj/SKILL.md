@@ -5,8 +5,8 @@ title: "Selic em Depósito Judicial (Tema 504 STJ + REsp 1.138.695)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/principios-imunidades-competencia/selic-deposito-judicial-tema-504-stj.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/selic-deposito-judicial-tema-504-stj/SKILL.md"
 triggers:
   - "Tema 504 STJ"
   - "REsp 1.138.695"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 962 STF"
   - "levantamento depósito"
   - "conversão em renda"
-description: "Tema 504 STJ (REsp 1.138.695, Min. Mauro Campbell, 22/05/2013;\nreafirmado em juízo de retratação): a Selic sobre depósito\njudicial tributário tem natureza REMUNERATÓRIA e permanece na\nbase de IRPJ/CSLL. STF não admitiu RG no RE 1.327.491. Distinção\nessencial com Tema 962 STF (Selic em indébito: não tributada).\nRegime dos depósitos federais: Lei 9.703/1998 (revogada),\nhoje Lei 14.973/2024."
+description: "Usar para pesquisar ou analisar: Selic em Depósito Judicial (Tema 504 STJ + REsp 1.138.695). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Selic em Depósito Judicial (Tema 504 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

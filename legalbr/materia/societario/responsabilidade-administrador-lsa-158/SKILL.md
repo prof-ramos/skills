@@ -5,8 +5,8 @@ title: "Responsabilidade Civil de Administrador (S/A e Ltda)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/responsabilidade-administrador-lsa-158.md"
+version: 2
+sourcePath: "legalbr/materia/societario/responsabilidade-administrador-lsa-158/SKILL.md"
 triggers:
   - "responsabilidade administrador"
   - "LSA 158"
@@ -20,10 +20,15 @@ triggers:
   - "dever de cuidado"
   - "dever de lealdade"
   - "dever de informar"
-description: "Responsabilidade civil de administrador de S/A (LSA 153-159) e Ltda\n(CC 1.011, 1.016, 1.080; LSA aplicação subsidiária). Deveres\nfiduciários (cuidado, lealdade, sigilo, informação, diligência).\nBusiness judgment rule (LSA 159 §6 + jurisprudência STJ/CVM). Ação\nsocial ut universi (assembleia: LSA 159 caput) e ut singuli (acionistas\n≥5%: LSA 159 §4); ação individual (LSA 159 §7; CC 1.016). Quitação\nassemblear (LSA 134 §3); exclusão por erro, dolo, fraude, simulação.\nSolidariedade entre administradores (LSA 158 §2-4). CVM no PAS administra\nvertente sancionatória."
+description: "Usar para pesquisar ou analisar: Responsabilidade Civil de Administrador (S/A e Ltda). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade Civil de Administrador (S/A e Ltda)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

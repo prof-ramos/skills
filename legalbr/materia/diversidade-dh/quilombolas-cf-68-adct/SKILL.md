@@ -5,8 +5,8 @@ title: "Quilombolas (CF 68 ADCT + Dec. 4.887/2003 + ADI 3.239)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/quilombolas-cf-68-adct.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/quilombolas-cf-68-adct/SKILL.md"
 triggers:
   - "quilombolas"
   - "CF 68 ADCT"
@@ -19,10 +19,15 @@ triggers:
   - "Lei 14.723/2023"
   - "Lei 13.123/2015"
   - "relatório técnico de identificação e delimitação"
-description: "Quilombolas CF 68 ADCT (direito FUNDAMENTAL aplicação IMEDIATA\n+ propriedade definitiva); Dec. 4.887/2003 (INCRA + AUTOATRIBUIÇÃO\n+ RTID); Convenção 169 OIT (Dec. 5.051/2004 + 10.088/2019); STF\nADI 3.239 (Rosa Weber 2018, INTEGRALMENTE constitucional o\nDec. 4.887); propriedade COLETIVA + INALIENÁVEL + IMPRESCRITÍVEL;\nFundação Palmares (certidão DECLARATÓRIA); cotas: educação Lei\n14.723/2023 + concursos federais Lei 15.142/2025 (2% quilombolas)."
+description: "Usar para pesquisar ou analisar: Quilombolas (CF 68 ADCT + Dec. 4.887/2003 + ADI 3.239). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Quilombolas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 68 ADCT: direito fundamental
 

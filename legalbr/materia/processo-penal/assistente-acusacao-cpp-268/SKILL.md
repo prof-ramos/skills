@@ -5,8 +5,8 @@ title: "Assistente de Acusação (CPP 268-273)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/assistente-acusacao-cpp-268.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/assistente-acusacao-cpp-268/SKILL.md"
 triggers:
   - "assistente acusação"
   - "CPP 268"
@@ -18,10 +18,15 @@ triggers:
   - "apelação assistente"
   - "direitos vítima"
   - "CPP 271"
-description: "Assistente de acusação CPP 268-273: ofendido + representante legal\n+ sucessores (CPP 31) podem habilitar-se em ação penal pública\ncomo assistentes do MP; atribuições (CPP 271: requerer perguntas\nàs testemunhas, juntar documentos, arrazoar recursos, requerer\ndiligências, participar de debate); Súm. 210 STF (recurso do\nassistente); Súm. 448 STF (prazo recursal supletivo após o do\nMP); habilitação em qualquer fase da ação penal (CPP 269)."
+description: "Usar para pesquisar ou analisar: Assistente de Acusação (CPP 268-273). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Assistente de Acusação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quem pode ser assistente (CPP 268)
 

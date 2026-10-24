@@ -5,8 +5,8 @@ title: "Parceria Público-Privada (Lei 11.079/2004 + Lei 14.133/2021)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/ppp-lei-11079.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ppp-lei-11079/SKILL.md"
 triggers:
   - "PPP"
   - "Parceria Público-Privada"
@@ -22,10 +22,15 @@ triggers:
   - "manifestação de interesse privado"
   - "value for money"
   - "project finance"
-description: "PPP (Lei 11.079/2004): concessão patrocinada (com tarifa + contraprestação)\ne administrativa (sem tarifa); valor mínimo R$ 10 mi; prazo 5-35 anos;\nSPE obrigatória; garantias do parceiro público + FGP; matriz de risco;\nstep-in rights; patrocinada com mais de 70% de remuneração pública exige\nautorização legislativa (art. 10 §3); limites fiscais arts. 22 e 28;\nLei 14.133/21 subsidiária."
+description: "Usar para pesquisar ou analisar: Parceria Público-Privada (Lei 11.079/2004 + Lei 14.133/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parceria Público-Privada (PPP), Lei 11.079/2004
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

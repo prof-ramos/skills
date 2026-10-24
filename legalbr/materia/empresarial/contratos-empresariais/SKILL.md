@@ -5,8 +5,8 @@ title: "Contratos Empresariais (CC 421-A + Lei 13.874/2019 + tipos)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/contratos-empresariais.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/contratos-empresariais/SKILL.md"
 triggers:
   - "contratos empresariais"
   - "franquia"
@@ -16,10 +16,15 @@ triggers:
   - "CC 421-A"
   - "Lei 13.966/2019"
   - "Lei Ferrari"
-description: "Contratos empresariais sob CC 421-A + Lei 13.874/2019: paridade\ne intervenção mínima B2B; franquia (Lei 13.966/2019);\nrepresentação comercial (Lei 4.886/65); agência, distribuição\ne corretagem (CC 710-729); alienação fiduciária, acordo de\nacionistas (LSA 118) e contratos internacionais (CISG)."
+description: "Usar para pesquisar ou analisar: Contratos Empresariais (CC 421-A + Lei 13.874/2019 + tipos). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contratos Empresariais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

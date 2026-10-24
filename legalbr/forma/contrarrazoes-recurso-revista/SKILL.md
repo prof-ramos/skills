@@ -5,8 +5,8 @@ title: "Contrarrazões ao Recurso de Revista e Contraminuta de AIRR"
 category: "forma"
 materia: null
 documentType: "contrarrazoes-recurso-revista"
-version: 1
-sourcePath: "lib/skills/official/forma/contrarrazoes-recurso-revista.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-recurso-revista/SKILL.md"
 triggers:
   - "contrarrazões recurso de revista"
   - "contrarrazões de revista"
@@ -18,10 +18,15 @@ triggers:
   - "impugnação da divergência Súm. 337 TST"
   - "defesa do acórdão regional no TST"
   - "deserção do recurso de revista"
-description: "Defesa do recorrido perante o TST: contrarrazões ao recurso de\nrevista e contraminuta de AIRR, em 8 dias (Lei 5.584/70 art. 6º; CLT\n900). Óbices como escudo: pressupostos do CLT 896 §1º-A, ausência de\ntranscendência (896-A), Súm. 126 (fatos e provas), 296/337 (divergência),\n297/184 (prequestionamento), 333 (jurisprudência iterativa), 221, 23,\n422, 266 (execução) e deserção (899 §§4-11; Súm. 128/245); no AIRR,\nresposta simultânea ao agravo e ao RR (CLT 897 §6)."
+description: "Usar para redigir ou revisar: Contrarrazões ao Recurso de Revista e Contraminuta de AIRR. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões ao Recurso de Revista e Contraminuta de AIRR
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e prazo
 

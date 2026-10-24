@@ -5,8 +5,8 @@ title: "Direito Orçamentário: PPA, LDO, LOA, Execução da Despesa e Emendas P
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/direito-orcamentario-emendas-cf-165.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/direito-orcamentario-emendas-cf-165/SKILL.md"
 triggers:
   - "direito orçamentário"
   - "Lei 4.320"
@@ -22,10 +22,15 @@ triggers:
   - "créditos adicionais suplementar especial"
   - "ADI 4.048"
   - "vedações orçamentárias CF 167"
-description: "Núcleo do direito financeiro-orçamentário: tripé PPA/LDO/LOA (CF\n165), vedações do CF 167, duodécimos (CF 168), despesa com pessoal\n(CF 169), execução da despesa e créditos adicionais da Lei 4.320/64\n(empenho, liquidação, restos a pagar), emendas parlamentares\nimpositivas (CF 166 §§9-20, 166-A, LC 210/2024) e controle abstrato\nde leis orçamentárias (ADI 4.048; ADPF 854)."
+description: "Usar para pesquisar ou analisar: Direito Orçamentário: PPA, LDO, LOA, Execução da Despesa e Emendas Parlamentares (CF 165-169 + Lei 4.320/64 + LC 210/2024). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Orçamentário: PPA, LDO, LOA, Execução e Emendas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tripé orçamentário (CF 165)
 

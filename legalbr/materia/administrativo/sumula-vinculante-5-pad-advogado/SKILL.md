@@ -5,8 +5,8 @@ title: "Súmula Vinculante 5, Defesa Técnica em PAD (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/sumula-vinculante-5-pad-advogado.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-5-pad-advogado/SKILL.md"
 triggers:
   - "Súmula Vinculante 5"
   - "SV 5"
@@ -18,10 +18,15 @@ triggers:
   - "falta de defesa técnica"
   - "defensor dativo"
   - "defesa técnica facultativa"
-description: "SV 5 STF (07/05/2008): \"A falta de defesa técnica por advogado\nno processo administrativo disciplinar não ofende a Constituição\";\nrevogação tácita da Súm. 343 STJ; ampla defesa permite autodefesa;\nporém SV 14 (acesso a autos) e contraditório efetivo permanecem\nexigíveis; jurisprudência STJ atual reforça SV 5 mas exige\nqualidade real da defesa apresentada."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 5, Defesa Técnica em PAD (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 5, Defesa Técnica em PAD
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

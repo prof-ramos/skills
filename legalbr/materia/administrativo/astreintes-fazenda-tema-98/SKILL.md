@@ -5,8 +5,8 @@ title: "Astreintes contra Fazenda (CPC 537 + STJ Tema 98)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/astreintes-fazenda-tema-98.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/astreintes-fazenda-tema-98/SKILL.md"
 triggers:
   - "astreintes contra a Fazenda Pública"
   - "multa diária ente público"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 410 STJ"
   - "Tema 793 STF"
   - "Tema 1.234 STF"
-description: "Astreintes contra Fazenda Pública sob CPC 497 + 536-537 + STJ\nTema 98 (REsp 1.474.665, 2017): cabimento pacífico de multa diária\ncontra ente público, inclusive para fornecimento de medicamentos;\nprévia intimação pessoal do devedor como pressuposto de incidência\nda multa (Súm. 410 STJ, mantida sob o CPC/2015 pelo Tema 1.296 STJ);\nrevisão de ofício (CPC 537 §1); sem preclusão nem coisa julgada\n(Tema 706 STJ); bloqueio de verbas (Tema 84 STJ); Temas 793 e\n1.234 STF (medicamentos); cumulação com medidas atípicas (CPC 139\nIV)."
+description: "Usar para pesquisar ou analisar: Astreintes contra Fazenda (CPC 537 + STJ Tema 98). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Astreintes contra Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

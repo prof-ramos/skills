@@ -5,8 +5,8 @@ title: "Citação e Interrupção da Prescrição (CPC 240 + Súm. 106 STJ + Tem
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/citacao-interrupcao-prescricao-cpc-240.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/citacao-interrupcao-prescricao-cpc-240/SKILL.md"
 triggers:
   - "CPC 240"
   - "interrupção da prescrição pela citação"
@@ -19,10 +19,15 @@ triggers:
   - "citação em processo extinto sem mérito"
   - "CC 202 interrupção"
   - "CPC 802 execução prescrição"
-description: "Efeitos da citação e interrupção da prescrição: CPC 240 (litispendência,\nlitigiosidade, mora; interrupção pelo despacho que ordena a citação com\nretroação à propositura, §§1-4), Súm. 106 STJ (demora do serviço\njudiciário), CC 202 I (interrupção única), CPC 802 (execução) e Temas\n869/870 STJ: citação válida em processo extinto sem mérito interrompe a\nprescrição, que volta a correr do trânsito em julgado, salvo extinção\npor negligência ou abandono (485 II-III)."
+description: "Usar para pesquisar ou analisar: Citação e Interrupção da Prescrição (CPC 240 + Súm. 106 STJ + Temas 869/870 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Citação e Interrupção da Prescrição
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Efeitos da citação válida (CPC 240 caput)
 

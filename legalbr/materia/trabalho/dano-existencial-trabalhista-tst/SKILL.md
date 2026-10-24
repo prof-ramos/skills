@@ -6,7 +6,7 @@ category: "materia"
 materia: "trabalho"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/trabalho/saude-seguranca-acidente-assedio/dano-existencial-trabalhista-tst.md"
+sourcePath: "legalbr/materia/trabalho/dano-existencial-trabalhista-tst/SKILL.md"
 triggers:
   - "dano existencial"
   - "CLT 223-B"
@@ -17,10 +17,15 @@ triggers:
   - "TST dano moral existencial"
   - "reforma trabalhista Lei 13.467"
   - "direitos personalidade trabalhador"
-description: "Dano existencial trabalhista: CLT **art. 223-B** (Lei 13.467/2017,\nReforma Trabalhista) tipifica como dano de natureza extrapatrimonial\nprejuízos aos **projetos de vida + relações pessoais + integridade\nfísica ou psíquica** do empregado. Configura-se por **jornadas\nexaustivas** que impedem o convívio familiar + descanso + lazer +\ndesenvolvimento pessoal. **Tema controvertido no TST**:\na corrente predominante exige prova do efetivo comprometimento\ndo projeto de vida e do convívio familiar/social, afastando a\npresunção a partir da mera habitualidade de horas extras; não há\nuniformização que reconheça in re ipsa como regra.\nQuantum: caso a caso, com o 223-G como parâmetro orientador.\nCumulável com horas extras + dano moral comum + dano à saúde.\nPrincípios da dignidade da pessoa humana + direitos da personalidade."
+description: "Usar para pesquisar ou analisar: Dano Existencial Trabalhista (CLT 223-B + TST + Jornada Exaustiva). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Existencial Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

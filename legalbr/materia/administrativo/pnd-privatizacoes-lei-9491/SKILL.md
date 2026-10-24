@@ -5,8 +5,8 @@ title: "Programa Nacional de Desestatização, PND (Lei 9.491/1997)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/pnd-privatizacoes-lei-9491.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pnd-privatizacoes-lei-9491/SKILL.md"
 triggers:
   - "PND"
   - "Lei 9.491/1997"
@@ -17,10 +17,15 @@ triggers:
   - "BNDES depositário"
   - "venda de estatal"
   - "dispensa de licitação alienação"
-description: "PND (Lei 9.491/1997): regula desestatização (transferência do\ncontrole de EP/SEM + concessões + autorizações); modalidades\n(alienação participações + abertura capital + transferência\noutorga + arrendamento + leilão + permuta); CND (Conselho Nacional\nde Desestatização); BNDES como gestor; aplicação subsidiária da\nLei 14.133; golden share da União (Lei 6.404 art. 17 §7);\nconstitucionalidade reconhecida pelo STF."
+description: "Usar para pesquisar ou analisar: Programa Nacional de Desestatização, PND (Lei 9.491/1997). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Programa Nacional de Desestatização (PND), Lei 9.491/1997
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

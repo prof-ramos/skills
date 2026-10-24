@@ -5,8 +5,8 @@ title: "Habilitação de Crédito"
 category: "forma"
 materia: null
 documentType: "habilitacao-credito"
-version: 1
-sourcePath: "lib/skills/official/forma/habilitacao-credito.md"
+version: 2
+sourcePath: "legalbr/forma/habilitacao-credito/SKILL.md"
 triggers:
   - "habilitação de crédito"
   - "arts. 7º a 19 Lei 11.101/05"
@@ -15,10 +15,15 @@ triggers:
   - "divergência e impugnação de crédito"
   - "administrador judicial verificação de créditos"
   - "habilitação retardatária art. 10"
-description: "Habilitação de crédito na RJ/falência (arts. 7º-19 Lei 11.101): em 15 dias\ndo edital, AO ADMINISTRADOR JUDICIAL (fase administrativa). Impugnação em\n10 dias da relação consolidada do AJ. Retardatária após o prazo (art. 10)\naté o encerramento da RJ (STJ, REsp 1.840.166). Atualizar até o pedido de\nRJ/decretação. Classe certa (art. 41 RJ; art. 83 falência). Honorários\nsucumbenciais são alimentares (até 150 SM, equiparados a trabalhistas)."
+description: "Usar para redigir ou revisar: Habilitação de Crédito. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Habilitação de Crédito
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

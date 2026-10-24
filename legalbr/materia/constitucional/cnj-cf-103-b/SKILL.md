@@ -5,8 +5,8 @@ title: "CNJ, Conselho Nacional de Justiça (CF 103-B + EC 45/2004)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/cnj-cf-103-b.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/cnj-cf-103-b/SKILL.md"
 triggers:
   - "CNJ"
   - "CF 103-B"
@@ -20,10 +20,15 @@ triggers:
   - "ADI 12 STF"
   - "ADI 4.638"
   - "ENFAM"
-description: "CNJ CF 103-B (EC 45/2004): 15 membros + mandato 2 anos com 1\nrecondução; PRESIDENTE STF + ministros STJ/TST + des./juízes TJ/\nTRF/TRT + MP + 2 advogados OAB + 2 cidadãos; CF 103-B §4\ncompetências (controle adm + LOMAN + disciplinar); resoluções\n213/audiência custódia + 332/IA + 487/antimanicomial + 562/juiz\ngarantias; ADI 12 STF (controle só STF); ADIs 4.638/4.418;\nLei 15.434/2026 cria no CNJ o DDH (monitoramento das decisões\ndos sistemas internacionais de direitos humanos)."
+description: "Usar para pesquisar ou analisar: CNJ, Conselho Nacional de Justiça (CF 103-B + EC 45/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # CNJ, Conselho Nacional de Justiça
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

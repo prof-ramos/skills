@@ -5,8 +5,8 @@ title: "Súmula Vinculante 60, Judicialização do SUS e Tema 1.234"
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/sumula-vinculante-60-judicializacao-sus-tema-1234.md"
+version: 2
+sourcePath: "legalbr/materia/saude/sumula-vinculante-60-judicializacao-sus-tema-1234/SKILL.md"
 triggers:
   - "SV 60"
   - "Súmula Vinculante 60"
@@ -22,10 +22,15 @@ triggers:
   - "PMVG CMED"
   - "componente especializado CEAF"
   - "parecer NATJUS"
-description: "SV 60 STF (setembro/2024, Tema 1.234): pedidos e judicialização\nde fármacos no SUS observam os três acordos interfederativos\nhomologados (RE 1.366.243). Define competência por valor anual\n(parâmetro PMVG-CMED; ≥ 210 SM/ano → JF + União; grupo do CEAF\npara incorporados), custeio entre entes (Fundo a Fundo FNS-FES),\nfluxo administrativo prévio + NATJUS obrigatórios e plataforma\nnacional. Modulação preserva processos anteriores a 19/09/2024.\nComplementar à SV 61."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 60, Judicialização do SUS e Tema 1.234. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 60, Judicialização do SUS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

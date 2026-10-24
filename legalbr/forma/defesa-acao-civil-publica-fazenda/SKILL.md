@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-acao-civil-publica-fazenda"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-acao-civil-publica-fazenda.md"
+sourcePath: "legalbr/forma/defesa-acao-civil-publica-fazenda/SKILL.md"
 triggers:
   - "defesa ACP Fazenda"
   - "contestação ação civil pública fazenda"
@@ -16,10 +16,15 @@ triggers:
   - "Tema 1.075 STF"
   - "separação de poderes ACP"
   - "contestação da Fazenda Lei 7.347/85"
-description: "Defesa da Fazenda Pública em Ação Civil Pública (Lei 7.347/1985):\nprazo dobrado e intimação pessoal (CPC 183); preliminares específicas\n(legitimidade do MP, ente lesado, Defensoria; pertinência temática;\ninadequação da via; solidariedade dos entes no SUS e direcionamento do\ncumprimento, Tema 793 STF);\nprescrição quinquenal (Dec 20.910/32; Súm. 85 STJ); sucumbência em ACP\n(Lei 7.347 art. 18; Tema 1.382 STF); reexame necessário; coisa julgada\ncoletiva sem limite territorial (Tema 1.075 STF: art. 16 LACP\ninconstitucional)."
+description: "Usar para redigir ou revisar: Defesa da Fazenda Pública em Ação Civil Pública. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa da Fazenda Pública em Ação Civil Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

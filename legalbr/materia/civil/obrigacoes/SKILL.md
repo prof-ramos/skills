@@ -5,8 +5,8 @@ title: "Direito das Obrigações"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/obrigacoes.md"
+version: 2
+sourcePath: "legalbr/materia/civil/obrigacoes/SKILL.md"
 triggers:
   - "direito das obrigações"
   - "inadimplemento obrigacional"
@@ -20,10 +20,15 @@ triggers:
   - "cessão de crédito CC 286"
   - "perdas e danos CC 402"
   - "obrigação solidária CC 264"
-description: "Direito das obrigações sob o CC/02 (arts. 233-420): classificação\n(dar, fazer, não fazer; meio versus resultado; alternativas e\nsolidárias); modos de extinção (pagamento, sub-rogação, imputação,\ndação, compensação, novação, transação, confusão, remissão); mora\n(art. 394) e perdas e danos (arts. 402-405); cláusula penal moratória\ne compensatória (arts. 408-416); juros legais após a Lei 14.905/2024\n(CC 389 par. único e 406) e Tema 1.368 STJ (Selic para a mora civil\nanterior à lei)."
+description: "Usar para pesquisar ou analisar: Direito das Obrigações. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito das Obrigações
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Classificação
 

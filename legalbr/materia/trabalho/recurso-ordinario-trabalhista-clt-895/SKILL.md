@@ -5,8 +5,8 @@ title: "Recurso Ordinário Trabalhista (CLT 895)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/recurso-ordinario-trabalhista-clt-895.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/recurso-ordinario-trabalhista-clt-895/SKILL.md"
 triggers:
   - "recurso ordinário trabalhista"
   - "CLT 895"
@@ -15,10 +15,15 @@ triggers:
   - "recurso adesivo"
   - "causa madura"
   - "Súm. 422 TST"
-description: "Recurso ordinário trabalhista (CLT 895): único recurso ordinário do\nsistema; cabível de sentença definitiva ou terminativa; prazo 8 dias\núteis; preparo (custas + depósito recursal); efeito apenas devolutivo\n(CLT 899); transferência de toda a matéria impugnada (CPC 1.013);\nrecurso adesivo (CPC 997 §1) e julgamento pelo TRT."
+description: "Usar para pesquisar ou analisar: Recurso Ordinário Trabalhista (CLT 895). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso Ordinário Trabalhista
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

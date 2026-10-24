@@ -5,8 +5,8 @@ title: "Regulação de IA: PL 2338/2023 (BR) + AI Act (UE) Comparativo"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/ai-act-eu-pl-2338-comparativo.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/ai-act-eu-pl-2338-comparativo/SKILL.md"
 triggers:
   - "PL 2338"
   - "regulação inteligência artificial"
@@ -20,10 +20,15 @@ triggers:
   - "Marco Legal da IA"
   - "IA generativa"
   - "direito autoral IA"
-description: "Regulação de Inteligência Artificial, comparativo PL 2338/2023\n(Brasil, em tramitação, aprovado Senado dez/2024 / Câmara em curso)\n+ AI Act UE (Regulamento UE 2024/1689, em vigor desde 1/8/2024).\n**Modelo brasileiro**: inspirado no AI Act, mas com **3 categorias**\nde risco (excessivo + alto + sistêmico/geral) vs. UE com 4 níveis\n(mínimo + limitado + alto + inaceitável). Princípios: dignidade\nhumana + transparência + não discriminação + responsabilidade +\nsegurança. **ANPD coordena** Sistema Nacional de Regulação e\nGovernança da IA (SIA). Direitos: explicação, contestação, revisão\nhumana. **Alto risco**: recrutamento, educação, crédito, serviço\npúblico, biometria. **Excessivo (vedado)**: scoring social,\nidentificação biométrica em tempo real (com exceções). LGPD aplica\nintegralmente."
+description: "Usar para pesquisar ou analisar: Regulação de IA: PL 2338/2023 (BR) + AI Act (UE) Comparativo. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Regulação de IA: PL 2338 + AI Act
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

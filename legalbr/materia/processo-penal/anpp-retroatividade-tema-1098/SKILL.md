@@ -5,8 +5,8 @@ title: "ANPP + Retroatividade a Processos em Curso (Tema 1.098 STJ)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/juizados-9099-acordos/anpp-retroatividade-tema-1098.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/anpp-retroatividade-tema-1098/SKILL.md"
 triggers:
   - "Tema 1.098 STJ"
   - "ANPP retroativo"
@@ -14,10 +14,15 @@ triggers:
   - "natureza híbrida norma penal processual"
   - "Pacote Anticrime acordo retroativo"
   - "18/09/2024 marco MP"
-description: "Tema 1.098 STJ (3ª Seção, 23/10/2024): o ANPP (CPP 28-A) tem\nnatureza HÍBRIDA (processual e material). É CABÍVEL em\nprocessos em CURSO em 23/01/2020 (vigência da Lei 13.964/2019),\ndesde que pedido antes do trânsito em julgado. Sem confissão\nprévia obrigatória. Marco para análise do MP: 18/09/2024."
+description: "Usar para pesquisar ou analisar: ANPP + Retroatividade a Processos em Curso (Tema 1.098 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ANPP + Retroatividade a Processos em Curso (Tema 1.098 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas (Tema 1.098 STJ, 3ª Seção, 23/10/2024)
 

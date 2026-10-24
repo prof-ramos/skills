@@ -5,8 +5,8 @@ title: "Direito de Recesso/Retirada (CC 1.029 + 1.077 + LSA 137)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/direito-recesso-cc-1077-lei-6404.md"
+version: 2
+sourcePath: "legalbr/materia/societario/direito-recesso-cc-1077-lei-6404/SKILL.md"
 triggers:
   - "direito de recesso"
   - "retirada sócio"
@@ -18,10 +18,15 @@ triggers:
   - "30 dias retirada"
   - "dissolução parcial"
   - "CPC 599"
-description: "Direito de recesso/retirada (CC 1.029, sociedade simples; CC 1.077,\nLTDA; LSA 137, S.A.): saída do sócio dissidente com **apuração\nde haveres**. LTDA: recesso por **modificação contratual + fusão +\nincorporação** em 30 dias (CC 1.077); LTDA por prazo **indeterminado**:\ntambém denúncia imotivada em 60 dias (CC 1.029 + 1.053, STJ). S.A.:\nrol taxativo LSA 137 (mudanças estruturais + descritas), 30 dias.\nApuração de haveres por **balanço de determinação** (CPC 606):\nativos + passivos a **preços de saída** + fundo de comércio;\ndata-base conforme causa (CPC 605). Aplicação CPC 599-609 (ação\nde dissolução parcial). Pagamento em até 90 dias (CC 1.031 §2)\nsalvo cláusula. Tributação: ganho de capital + reflexos."
+description: "Usar para pesquisar ou analisar: Direito de Recesso/Retirada (CC 1.029 + 1.077 + LSA 137). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Recesso + Retirada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

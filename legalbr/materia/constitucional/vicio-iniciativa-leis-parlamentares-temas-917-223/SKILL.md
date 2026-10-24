@@ -5,8 +5,8 @@ title: "Vício de Iniciativa em Leis de Iniciativa Parlamentar (Temas 917 e 223 
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/vicio-iniciativa-leis-parlamentares-temas-917-223.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/vicio-iniciativa-leis-parlamentares-temas-917-223/SKILL.md"
 triggers:
   - "lei de iniciativa parlamentar"
   - "Tema 917 STF"
@@ -19,10 +19,15 @@ triggers:
   - "sanção não convalida vício de iniciativa"
   - "ADI 2.867"
   - "promulgação de parte incontroversa"
-description: "Vício de iniciativa em leis parlamentares (CF 61 § 1º e 63):\nTema 917 STF valida lei parlamentar que cria despesa sem tratar\nde estrutura administrativa, atribuições de órgãos ou regime de\nservidores; Tema 223 veda direitos de servidores em lei\norgânica; sanção não convalida (ADI 2.867); Temas 595, 1.040 e\n1.427."
+description: "Usar para pesquisar ou analisar: Vício de Iniciativa em Leis de Iniciativa Parlamentar (Temas 917 e 223 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vício de Iniciativa em Leis de Iniciativa Parlamentar
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

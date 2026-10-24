@@ -5,8 +5,8 @@ title: "Práticas Abusivas no CDC (arts. 39-41)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/praticas-abusivas-cdc-39.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/praticas-abusivas-cdc-39/SKILL.md"
 triggers:
   - "práticas abusivas"
   - "CDC 39"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 1.365 STJ"
   - "assédio de consumo"
   - "Lei 14.181/2021"
-description: "Práticas + cláusulas abusivas (CDC 39-41 e 51): venda casada\n(Tema 972); recusa de atendimento (CDC 39 II); cláusulas nulas (51);\ndevolução em dobro (EAREsp 676.608); Lei 14.181; dano moral bifásico;\nrecusa de cobertura médica sem dano moral presumido (Tema 1.365)."
+description: "Usar para pesquisar ou analisar: Práticas Abusivas no CDC (arts. 39-41). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Práticas Abusivas no CDC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CDC art. 39, práticas vedadas (rol EXEMPLIFICATIVO)
 

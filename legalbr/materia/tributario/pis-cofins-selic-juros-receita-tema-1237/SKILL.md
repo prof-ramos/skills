@@ -5,8 +5,8 @@ title: "PIS/COFINS sobre SELIC e Juros, Receita Operacional (Tema 1.237 STJ + Te
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/pis-cofins/pis-cofins-selic-juros-receita-tema-1237.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/pis-cofins-selic-juros-receita-tema-1237/SKILL.md"
 triggers:
   - "Tema 1.237 STJ"
   - "PIS COFINS Selic repetição"
@@ -19,10 +19,15 @@ triggers:
   - "juros depósito judicial PIS COFINS"
   - "Tema 962 STF"
   - "PIS COFINS receita financeira"
-description: "Tema 1.237 STJ (REsp 2.065.817 + 2.075.276, Min. Mauro Campbell,\n11/07/2024): valores de SELIC + juros (remuneratórios e moratórios)\nrecebidos em REPETIÇÃO de indébito, devolução de DEPÓSITO JUDICIAL\ne atraso de obrigações contratuais COMPÕEM a base de PIS/COFINS\ncumulativo + não-cumulativo (receita bruta operacional, DL 1.598/77\nart. 12). Distingue do Tema 962 STF (IRPJ/CSLL, não compõem).\nSTF NÃO reconheceu RG (tema firma-se)."
+description: "Usar para pesquisar ou analisar: PIS/COFINS sobre SELIC e Juros, Receita Operacional (Tema 1.237 STJ + Tema 962 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PIS/COFINS sobre SELIC e Juros (Tema 1.237 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.237 STJ, 11/07/2024)
 

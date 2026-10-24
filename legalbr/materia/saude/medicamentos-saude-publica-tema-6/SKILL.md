@@ -5,8 +5,8 @@ title: "Fornecimento de Medicamentos pelo Estado (Tema 6/793 STF + Tema 106 STJ)
 category: "materia"
 materia: "saude"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/saude/medicamentos-saude-publica-tema-6.md"
+version: 2
+sourcePath: "legalbr/materia/saude/medicamentos-saude-publica-tema-6/SKILL.md"
 triggers:
   - "fornecimento de medicamentos"
   - "Tema 6 STF"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 14.454/2022"
   - "rol ANS exemplificativo"
   - "registro ANVISA"
-description: "Fornecimento de medicamentos CF 196 + Lei 8.080/1990: Tema 793\nSTF (RESPONSABILIDADE SOLIDÁRIA União/Estados/Municípios; juiz\ndireciona); Tema 6 STF (não obriga experimentais) + Tema 500\n(sem registro ANVISA só excepcional + mora); Tema 106 STJ 3\nrequisitos (laudo + incapacidade + ANVISA); Lei 14.454/2022\nrol ANS EXEMPLIFICATIVO; NAT-JUS Res. CNJ 388/2021."
+description: "Usar para pesquisar ou analisar: Fornecimento de Medicamentos pelo Estado (Tema 6/793 STF + Tema 106 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Fornecimento de Medicamentos pelo Estado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional
 

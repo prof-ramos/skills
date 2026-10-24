@@ -5,8 +5,8 @@ title: "Cooperação Internacional + Extradição (CF 5 LI/LII + Lei 13.445/2017
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/cooperacao-internacional-extradicao.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/cooperacao-internacional-extradicao/SKILL.md"
 triggers:
   - "extradição"
   - "cooperação internacional"
@@ -19,10 +19,15 @@ triggers:
   - "homologação de sentença estrangeira"
   - "Convenção de Haia 1980"
   - "Súm. 421 STF"
-description: "Cooperação internacional sob CF 5 LI/LII + 102 I g + 105 I i +\nLei 13.445/2017 + CPC 26-41: extradição passiva (STF); brasileiro\nnato inextraditável; naturalizado só crime pré-naturalização ou\ntráfico; vedada por crime político; auxílio direto sem exequatur\n(atos não decisórios); carta rogatória com exequatur do STJ;\nhomologação de sentença pelo STJ; especialidade + dupla incriminação."
+description: "Usar para pesquisar ou analisar: Cooperação Internacional + Extradição (CF 5 LI/LII + Lei 13.445/2017 + CPC 26). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cooperação Internacional
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases constitucionais: extradição
 

@@ -5,8 +5,8 @@ title: "Contribuições Extraordinárias à Previdência Complementar + IRPF (Te
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/contribuicoes-extraordinarias-previdencia-irpf-tema-1224.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/contribuicoes-extraordinarias-previdencia-irpf-tema-1224/SKILL.md"
 triggers:
   - "Tema 1.224 STJ"
   - "contribuição extraordinária previdência complementar"
@@ -15,10 +15,15 @@ triggers:
   - "Lei 9.250 art 8 II e"
   - "limite 12% rendimentos IRPF"
   - "entidade fechada previdência"
-description: "Tema 1.224 STJ (1ª Seção, dez/2025): é POSSÍVEL deduzir, da base\nde cálculo do IRPF, as contribuições EXTRAORDINÁRIAS pagas a\nentidade FECHADA de previdência complementar, observado o limite\nde 12% do total dos rendimentos computados no cálculo do imposto\n(Lei 9.250/95 + Lei 9.532/97 + LC 109/2001)."
+description: "Usar para pesquisar ou analisar: Contribuições Extraordinárias à Previdência Complementar + IRPF (Tema 1.224 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contribuições Extraordinárias à Previdência Complementar + IRPF (Tema 1.224 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.224 STJ, 1ª Seção)
 

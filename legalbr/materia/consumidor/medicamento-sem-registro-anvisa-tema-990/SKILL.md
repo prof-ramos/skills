@@ -5,8 +5,8 @@ title: "Medicamento sem Registro na ANVISA, Plano de Saúde (Tema 990 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/planos-de-saude/medicamento-sem-registro-anvisa-tema-990.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/medicamento-sem-registro-anvisa-tema-990/SKILL.md"
 triggers:
   - "medicamento sem registro ANVISA"
   - "medicamento importado plano saúde"
@@ -20,10 +20,15 @@ triggers:
   - "medicamento experimental"
   - "bula off-label"
   - "importação Thiotepa Spinraza Zolgensma"
-description: "Tema 990 STJ (08/11/2018): operadoras de plano de saúde NÃO são\nobrigadas a fornecer medicamento sem registro na ANVISA (nacional\nou importado). Lei 6.360/76 exige registro. Distinção: importação\nexcepcional autorizada pela ANVISA equipara-se a registro;\nmedicamento REGISTRADO em uso off-label tem cobertura. Lei 14.454/2022\nmanteve a exigência de registro."
+description: "Usar para pesquisar ou analisar: Medicamento sem Registro na ANVISA, Plano de Saúde (Tema 990 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medicamento sem Registro na ANVISA (Tema 990 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 990 STJ)
 

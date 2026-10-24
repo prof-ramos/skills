@@ -5,8 +5,8 @@ title: "Terceirização (Lei 13.429/2017 + Lei 13.467/2017 + Tema 725 STF)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/contrato-vinculo-modalidades/terceirizacao-lei-13429.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/terceirizacao-lei-13429/SKILL.md"
 triggers:
   - "terceirização de serviços"
   - "Lei 13.429/2017"
@@ -22,10 +22,15 @@ triggers:
   - "OJ 191 SDI-1"
   - "empreitada construção civil"
   - "ADPF 324"
-description: "Terceirização sob Lei 13.429/2017 + Tema 725 STF: lícita em\nqualquer atividade (inclusive atividade-fim); responsabilidade\nsubsidiária; Tema 246 STF (Administração: culpa comprovada);\ntrabalho temporário (Lei 6.019: 180+90 dias); Súm. 331 TST;\ndono da obra e empreitada (CLT 455 + OJ 191 SDI-1 + IRR Tema 6:\nsubsidiária só se construtora/incorporadora ou empreiteiro\ninidôneo pós-11/05/2017, exceto ente público)."
+description: "Usar para pesquisar ou analisar: Terceirização (Lei 13.429/2017 + Lei 13.467/2017 + Tema 725 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Terceirização
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal pós-2017
 

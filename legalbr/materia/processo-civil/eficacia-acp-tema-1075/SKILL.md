@@ -5,8 +5,8 @@ title: "Eficácia Territorial da ACP (Tema 1.075 STF + RE 1.101.937)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/eficacia-acp-tema-1075.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/eficacia-acp-tema-1075/SKILL.md"
 triggers:
   - "Tema 1.075"
   - "RE 1.101.937"
@@ -17,10 +17,15 @@ triggers:
   - "CDC 93 II"
   - "microssistema tutela coletiva"
   - "Lei 9.494/97"
-description: "Tema 1.075 STF (RE 1.101.937, Min. Alexandre, 07/04/2021):\ninconstitucional a redação do art. 16 da LACP dada pela Lei 9.494/97\n— repristinada a redação original. Em ACP de efeitos nacionais ou\nregionais, competência segue o art. 93 II do CDC (capital DF ou\nEstado). Aplica-se ao microssistema da tutela coletiva. Modulação\npreserva coisa julgada."
+description: "Usar para pesquisar ou analisar: Eficácia Territorial da ACP (Tema 1.075 STF + RE 1.101.937). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Eficácia Territorial da ACP (Tema 1.075 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdão paradigma
 

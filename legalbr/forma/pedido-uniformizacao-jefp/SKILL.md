@@ -5,8 +5,8 @@ title: "Pedido de Uniformização no Juizado da Fazenda Pública (Lei 12.153/200
 category: "forma"
 materia: null
 documentType: "pedido-uniformizacao-jefp"
-version: 3
-sourcePath: "lib/skills/official/forma/pedido-uniformizacao-jefp.md"
+version: 2
+sourcePath: "legalbr/forma/pedido-uniformizacao-jefp/SKILL.md"
 triggers:
   - "pedido de uniformização fazenda pública"
   - "PUIL juizado da fazenda pública"
@@ -16,10 +16,15 @@ triggers:
   - "reunião conjunta de turmas presidida por desembargador"
   - "turma de uniformização estadual"
   - "PUIL direto ao STJ"
-description: "Pedido de uniformização no JEFP (Lei 12.153/09 arts. 18 a 21): somente\ndireito material; divergência entre Turmas do mesmo Estado vai à reunião\nconjunta presidida por desembargador indicado pelo TJ (art. 18 §1º);\ndivergência entre Estados ou contrariedade a súmula do STJ vai ao próprio\nSTJ (art. 18 §3º e art. 19), sem TNU e sem juízo de admissibilidade na\nTurma Recursal; exige cotejo analítico; liminar de suspensão (art. 19 §2º)."
+description: "Usar para redigir ou revisar: Pedido de Uniformização no Juizado da Fazenda Pública (Lei 12.153/2009). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Uniformização no Juizado da Fazenda Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (art. 18 da Lei 12.153/2009)
 

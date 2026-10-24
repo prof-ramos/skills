@@ -5,8 +5,8 @@ title: "MNPCT e Combate à Tortura (Lei 12.847/2013)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/mnpct-tortura-lei-12847.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/mnpct-tortura-lei-12847/SKILL.md"
 triggers:
   - "MNPCT"
   - "mecanismo prevenção tortura"
@@ -16,10 +16,15 @@ triggers:
   - "Protocolo Facultativo OPCAT"
   - "tortura institucional"
   - "Lei 9.455"
-description: "Mecanismo Nacional de Prevenção e Combate à Tortura (MNPCT) e\nSistema Nacional (SNPCT) - Lei 12.847/2013 + Decreto 8.154/2013;\ncumpre o OPCAT (Dec. 6.085/2007); peritos vinculados à União;\ninspeção sem aviso prévio a estabelecimentos de privação de liberdade;\nacesso a documentos e pessoas; relatórios públicos; cooperação com DP,\nMP, CNJ; jurisprudência STF (ADPF 347 + Tema 365) sobre condições\ndegradantes; Lei 9.455/1997 (tipo penal de tortura)."
+description: "Usar para pesquisar ou analisar: MNPCT e Combate à Tortura (Lei 12.847/2013). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # MNPCT e Combate à Tortura
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Lei do Distrato (Lei 13.786/2018 + Tema 1.002 STJ + Súm. 543)"
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/lei-distrato-13786.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/lei-distrato-13786/SKILL.md"
 triggers:
   - "Lei do Distrato"
   - "Lei 13.786/2018"
@@ -20,10 +20,15 @@ triggers:
   - "Lei 6.766/1979"
   - "180 dias carência"
   - "art. 67-A Lei 4.591"
-description: "Lei 13.786/2018 distrato em compra/venda de imóveis NA PLANTA;\nretenção MÁX 25% do pago (regra) ou 50% se PATRIMÔNIO DE AFETAÇÃO\n(Quadro-Resumo); 10% + cláusula penal em loteamento; 180d carência\n+ multa 1%/mês mora do incorporador; STJ Tema 1.002\n(IRRETROATIVIDADE: só pós-28/12/2018; juros de mora do trânsito\nem julgado nos contratos anteriores); Súm. 543 (restituição\nimediata pré-lei: integral se culpa do vendedor, parcial se do\ncomprador); Tema 996 STJ (atraso imóvel na planta MCMV:\ntolerância 180d + dano presumido + juros de obra ilícitos)."
+description: "Usar para pesquisar ou analisar: Lei do Distrato (Lei 13.786/2018 + Tema 1.002 STJ + Súm. 543). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei do Distrato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 13.786/2018
 

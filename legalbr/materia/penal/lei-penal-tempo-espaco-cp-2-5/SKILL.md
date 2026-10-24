@@ -5,8 +5,8 @@ title: "Lei Penal no Tempo + Espaço (CP 2-9 + CF 5 XL + Súm. 711 STF + Lei 8.6
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/lei-penal-tempo-espaco-cp-2-5.md"
+version: 2
+sourcePath: "legalbr/materia/penal/lei-penal-tempo-espaco-cp-2-5/SKILL.md"
 triggers:
   - "lei penal no tempo"
   - "lei penal no espaço"
@@ -22,10 +22,15 @@ triggers:
   - "extraterritorialidade"
   - "teoria da ubiquidade"
   - "Lei 8.617 mar territorial"
-description: "Lei penal no TEMPO + ESPAÇO. Tempo: CF 5 XL + CP 2 (irretroatividade\ngravosa / retroatividade BENÉFICA); CP 3 leis TEMPORÁRIAS, ULTRA-ATIVIDADE;\nCP 4 ATIVIDADE; Súm. 711 STF; Súm. 611 STF + LEP 66. Espaço: CP 5\nterritorialidade TEMPERADA (12 milhas, Lei 8.617); CP 6 UBIQUIDADE;\nCP 7 extraterritorialidade INCONDICIONADA (I) / CONDICIONADA (II); CP 8\ndetração; CP 9 homologação STJ."
+description: "Usar para pesquisar ou analisar: Lei Penal no Tempo + Espaço (CP 2-9 + CF 5 XL + Súm. 711 STF + Lei 8.617). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei Penal no Tempo e no Espaço
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ---
 

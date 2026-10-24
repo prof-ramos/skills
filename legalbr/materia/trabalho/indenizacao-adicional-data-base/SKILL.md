@@ -5,8 +5,8 @@ title: "Indenização Adicional da Data-Base (Lei 7.238/84)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/rescisao-estabilidades/indenizacao-adicional-data-base.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/indenizacao-adicional-data-base/SKILL.md"
 triggers:
   - "indenização adicional"
   - "Lei 7.238"
@@ -17,10 +17,15 @@ triggers:
   - "Súm. 182 TST"
   - "Súm. 242 TST"
   - "Súm. 314 TST"
-description: "Indenização adicional de um salário mensal na dispensa sem justa causa nos 30 dias\nanteriores à data-base (Lei 6.708/79 art. 9 e Lei 7.238/84 art. 9), com a projeção\ndo aviso prévio (Súm. 182 TST), base de cálculo da Súm. 242 e a regra da Súm. 314\n(pagamento corrigido não afasta a verba)."
+description: "Usar para pesquisar ou analisar: Indenização Adicional da Data-Base (Lei 7.238/84). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Indenização Adicional da Data-Base
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

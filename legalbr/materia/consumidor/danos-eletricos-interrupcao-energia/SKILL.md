@@ -5,8 +5,8 @@ title: "Danos Elétricos e Interrupção de Energia (REN ANEEL 1.000/2021)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/danos-eletricos-interrupcao-energia.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/danos-eletricos-interrupcao-energia/SKILL.md"
 triggers:
   - "danos elétricos"
   - "queima de aparelhos"
@@ -19,10 +19,15 @@ triggers:
   - "perda de alimentos geladeira"
   - "REN 1.000 ressarcimento"
   - "compensação de continuidade"
-description: "Danos elétricos (queima de aparelhos) e interrupção de energia:\nprocedimento da REN ANEEL 1.000/2021 (arts. 599-621: pedido em até\n5 anos, rito simplificado em 90 dias, resposta 15/30 dias,\nressarcimento em 20 dias, responsabilidade objetiva art. 620);\ncompensações automáticas DIC/FIC/DMIC/DICRI (PRODIST Módulo 8);\nCDC 14 + 22: fortuito interno em eventos climáticos, dano moral\npor interrupção prolongada, danos emergentes e lucros cessantes."
+description: "Usar para pesquisar ou analisar: Danos Elétricos e Interrupção de Energia (REN ANEEL 1.000/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Danos Elétricos e Interrupção de Energia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

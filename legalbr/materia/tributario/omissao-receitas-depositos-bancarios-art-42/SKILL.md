@@ -5,8 +5,8 @@ title: "Omissão de Receitas por Depósitos Bancários (Lei 9.430/96 art. 42 + T
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/omissao-receitas-depositos-bancarios-art-42.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/omissao-receitas-depositos-bancarios-art-42/SKILL.md"
 triggers:
   - "omissão de receitas depósitos bancários"
   - "Lei 9.430 art. 42"
@@ -18,10 +18,15 @@ triggers:
   - "auditoria de movimentação bancária"
   - "comprovação da origem dos depósitos"
   - "lançamento por depósitos bancários"
-description: "Presunção legal de omissão de receita/rendimento por depósitos\nbancários de origem não comprovada (Lei 9.430/96 art. 42),\nconstitucional pelo Tema 842 STF (RE 855.649); presunção relativa,\nônus do intimado de comprovar a origem com documentação hábil e\nanálise individualizada dos créditos; exclusões do § 3º e limites\nde PF (R$ 12.000/R$ 80.000); Súm. 182 TFR superada."
+description: "Usar para pesquisar ou analisar: Omissão de Receitas por Depósitos Bancários (Lei 9.430/96 art. 42 + Tema 842 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Omissão de Receitas por Depósitos Bancários (art. 42 da Lei 9.430/1996)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Para o ACESSO do Fisco aos dados bancários (LC 105/2001, Temas 225 e 990 STF, e-Financeira), ver skill `sigilo-bancario-fiscal-lc-105`. Para as multas de ofício e qualificada, ver skill `multa-mora-multa-oficio-lei-9430`. Esta skill trata da presunção MATERIAL de omissão e de sua desconstituição probatória.
 

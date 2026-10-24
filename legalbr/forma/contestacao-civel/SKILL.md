@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "contestacao-civel"
 version: 2
-sourcePath: "lib/skills/official/forma/contestacao-civel.md"
+sourcePath: "legalbr/forma/contestacao-civel/SKILL.md"
 triggers:
   - "contestação cível"
   - "defesa do réu no processo civil"
@@ -15,10 +15,15 @@ triggers:
   - "reconvenção art. 343"
   - "ônus da impugnação especificada art. 341"
   - "princípio da eventualidade"
-description: "Contestação cível sob o CPC/15: princípio da concentração (art. 336);\ntodas as preliminares do art. 337 sob pena de preclusão; impugnação\nespecificada (art. 341); reconvenção na própria peça (art. 343);\nespecificação de provas; impugnação ao valor da causa em preliminar\n(art. 293, sem peça apartada); marco do prazo conforme o art. 335\n(audiência, protocolo do desinteresse ou regra do art. 231) e STJ\nREsp 2.180.502 (desistência em face do corréu)."
+description: "Usar para redigir ou revisar: Contestação Cível. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contestação Cível
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura (ordem obrigatória)
 

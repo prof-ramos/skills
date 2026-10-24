@@ -5,8 +5,8 @@ title: "Sucessão Processual do Cessionário na Execução (CPC 778 e 109 + Tema
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/sucessao-cessionario-execucao-cpc-778-109.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/sucessao-cessionario-execucao-cpc-778-109/SKILL.md"
 triggers:
   - "sucessão processual do cessionário"
   - "habilitação do cessionário na execução"
@@ -20,10 +20,15 @@ triggers:
   - "cessão de honorários sucumbenciais"
   - "assistente litisconsorcial do cedente"
   - "consentimento do executado cessão"
-description: "Sucessão processual do cessionário: na EXECUÇÃO, dispensa consentimento\ndo executado (CPC 778 §1º III e §2º + Tema 1 STJ); na fase de\nCONHECIMENTO, exige anuência da parte contrária (CPC 109 §1º), sem a\nqual o cessionário fica como assistente litisconsorcial (§2º) e sofre\nos efeitos da sentença (§3º). Tema 2 STJ: cessionário de honorários\nsucumbenciais habilita-se no precatório se cessão por escritura pública\ne verba discriminada."
+description: "Usar para pesquisar ou analisar: Sucessão Processual do Cessionário na Execução (CPC 778 e 109 + Temas 1 e 2 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sucessão Processual do Cessionário na Execução e no Precatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Valor da Causa (CPC 291-293)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/valor-causa-cpc-291.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/valor-causa-cpc-291/SKILL.md"
 triggers:
   - "valor da causa"
   - "CPC 291"
@@ -17,10 +17,15 @@ triggers:
   - "custas processuais"
   - "alcada do juizado especial"
   - "proveito econômico da demanda"
-description: "Valor da causa (CPC 291-293): obrigatório em toda causa, ainda\nsem conteúdo econômico; critérios legais (CPC 292, 8 incisos);\nimpugnação ofício ou pelas partes (CPC 293); reflexos\n(competência JEC/JEF; alçada recursal; custas; honorários CPC 85)."
+description: "Usar para pesquisar ou analisar: Valor da Causa (CPC 291-293). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Valor da Causa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 291, OBRIGATORIEDADE
 

@@ -5,8 +5,8 @@ title: "Seguro DPVAT, Prescrição (Súm. 405, 278, 426, 257, 246 STJ + Temas 66
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/seguro-dpvat-prescricao-sum-405.md"
+version: 2
+sourcePath: "legalbr/materia/civil/seguro-dpvat-prescricao-sum-405/SKILL.md"
 triggers:
   - "seguro DPVAT"
   - "DPVAT prescrição"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 883 STJ"
   - "Lei 6.194/74"
   - "CC 206 §3 IX"
-description: "Seguro DPVAT (Lei 6.194/74, hoje revogada, aplicável aos sinistros\npretéritos; valores da Lei 11.482/2007): prescrição TRIENAL\n(CC 206 §3 IX + Súm. 405 STJ); termo inicial varia por evento:\nmorte (data do óbito), invalidez permanente (Súm. 278 STJ, ciência\ninequívoca; Temas 668 e 875, laudo médico), DAMS (data do\ndispêndio), complementação de pagamento a menor (Tema 883 STJ).\nSúm. 426, 257, 246, 474, 544 e 580 STJ; foros alternativos (Tema\n606); acidente de trabalho e veículos agrícolas (Tema 1.111)."
+description: "Usar para pesquisar ou analisar: Seguro DPVAT, Prescrição (Súm. 405, 278, 426, 257, 246 STJ + Temas 668, 875, 883). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Seguro DPVAT, Prescrição (Súm. 405 + 278 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses centrais
 

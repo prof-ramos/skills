@@ -5,8 +5,8 @@ title: "Isenção IRPF, Doença Grave (Lei 7.713/88 art. 6 XIV + Tema 1.037 STJ)
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/isencao-irpf-doenca-grave-lei-7713.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/isencao-irpf-doenca-grave-lei-7713/SKILL.md"
 triggers:
   - "isenção IRPF doença grave"
   - "Lei 7.713/88"
@@ -18,10 +18,15 @@ triggers:
   - "rol taxativo doença grave"
   - "Tema 250 STJ"
   - "isenção IRPF doença grave servidor ativa"
-description: "Isenção de IRPF para portadores de doença grave (Lei 7.713/88 art. 6 XIV\n+ Lei 8.541/92 art. 47): aposentados/pensionistas/reformados com doença\ntaxativa (Tema 250 STJ); proventos de inatividade + 13º; Tema 1.037 STJ\nveda extensão a trabalhadores ativos; laudo médico oficial NÃO é\nobrigatório (Súm. 598 STJ: admite outros meios de prova); termo\ninicial DIB ou diagnóstico; restituição 5 anos."
+description: "Usar para pesquisar ou analisar: Isenção IRPF, Doença Grave (Lei 7.713/88 art. 6 XIV + Tema 1.037 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Isenção IRPF, Doença Grave
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

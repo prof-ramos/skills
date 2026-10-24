@@ -5,8 +5,8 @@ title: "Embargos de Declaração Trabalhistas (CLT 897-A)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/recursos-trabalhistas/embargos-declaracao-trabalhistas-clt-897-a.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/embargos-declaracao-trabalhistas-clt-897-a/SKILL.md"
 triggers:
   - "embargos de declaração"
   - "CLT 897-A"
@@ -16,10 +16,15 @@ triggers:
   - "prequestionamento por embargos"
   - "Súm. 297 TST"
   - "Súm. 421 TST"
-description: "Embargos de declaração trabalhistas (CLT 897-A): prazo 5 dias úteis;\nhipóteses (omissão, contradição, manifesto equívoco no exame de\npressupostos extrínsecos); efeito interruptivo com exceções (CLT\n897-A §3); prequestionamento (Súm. 297, inclusive ficto); ED de\ndecisão monocrática e fungibilidade com agravo (Súm. 421); efeito\nmodificativo excepcional após contraditório; multa por protelatórios\n(CPC 1.026)."
+description: "Usar para pesquisar ou analisar: Embargos de Declaração Trabalhistas (CLT 897-A). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Embargos de Declaração Trabalhistas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

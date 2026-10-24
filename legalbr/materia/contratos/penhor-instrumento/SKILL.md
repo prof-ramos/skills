@@ -5,8 +5,8 @@ title: "Penhor - Instrumento (CC 1.431-1.472)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/penhor-instrumento.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/penhor-instrumento/SKILL.md"
 triggers:
   - "CC 1.431"
   - "CC 1.438"
@@ -22,10 +22,15 @@ triggers:
   - "cédula pignoratícia"
   - "tradição ficta"
   - "registro CRTD"
-description: "Penhor (CC 1.431-1.472): direito real sobre móvel;\nconvencional exige tradição; rural/industrial dispensa (ficta)\n+ registro CRTD; excussão judicial; vedada cláusula comissória."
+description: "Usar para pesquisar ou analisar: Penhor - Instrumento (CC 1.431-1.472). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhor - Instrumento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

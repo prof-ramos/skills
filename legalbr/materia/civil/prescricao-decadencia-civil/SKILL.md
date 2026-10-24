@@ -5,8 +5,8 @@ title: "Prescrição + Decadência no Direito Civil (CC 189-211)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/prescricao-decadencia-civil.md"
+version: 2
+sourcePath: "legalbr/materia/civil/prescricao-decadencia-civil/SKILL.md"
 triggers:
   - "prescrição civil CC 205"
   - "decadência CC 207"
@@ -18,10 +18,15 @@ triggers:
   - "interrupção da prescrição CC 202"
   - "prazos prescricionais especiais"
   - "reconhecimento de ofício da prescrição"
-description: "Prescrição e decadência sob o CC 189-211 e o CPC 332 §1 e 487 II:\ndistinção entre pretensão e direito potestativo; prazos geral (10 anos)\ne especiais do art. 206 (1, 2, 3, 4 e 5 anos); causas de impedimento,\nsuspensão e interrupção; reconhecimento de ofício, renúncia e regimes\nespeciais (Fazenda Pública, CDC e tributário)."
+description: "Usar para pesquisar ou analisar: Prescrição + Decadência no Direito Civil (CC 189-211). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição + Decadência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

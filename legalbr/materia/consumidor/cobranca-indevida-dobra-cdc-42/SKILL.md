@@ -5,8 +5,8 @@ title: "Cobrança Indevida e Dobra (CDC 42 + 42-A + EAREsp 676.608 STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/cobranca-indevida-dobra-cdc-42.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/cobranca-indevida-dobra-cdc-42/SKILL.md"
 triggers:
   - "cobrança indevida"
   - "repetição do indébito"
@@ -18,10 +18,15 @@ triggers:
   - "cobrança vexatória"
   - "constrangimento na cobrança"
   - "dobra automática"
-description: "Cobrança indevida sob CDC 42 + 42-A: vedação ao constrangimento\nou ameaça na cobrança (caput); devolução em dobro do valor pago\nindevidamente (par. único); EAREsp 676.608/RS (Corte Especial,\nj. 21/10/2020), com modulação: fatos anteriores a 30/03/2021\nexigem má-fé; após, basta contrariedade à boa-fé objetiva\n(independe de culpa/dolo); identificação do cobrador (42-A);\nprazo de pretensão decenal (CC 205; STJ, Corte Especial,\nEAREsp 738.991/RS)."
+description: "Usar para pesquisar ou analisar: Cobrança Indevida e Dobra (CDC 42 + 42-A + EAREsp 676.608 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cobrança Indevida e Dobra
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

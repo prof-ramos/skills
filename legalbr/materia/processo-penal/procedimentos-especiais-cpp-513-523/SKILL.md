@@ -5,8 +5,8 @@ title: "Procedimentos Especiais: Crimes Funcionais e Honra (CPP 513-523)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/procedimentos-ritos/procedimentos-especiais-cpp-513-523.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/procedimentos-especiais-cpp-513-523/SKILL.md"
 triggers:
   - "procedimento crimes funcionais"
   - "CPP 513"
@@ -19,10 +19,15 @@ triggers:
   - "pedido de explicações"
   - "CP 144"
   - "Súm. 330 STJ"
-description: "Crimes FUNCIONAIS (CPP 513-518), afiançáveis cometidos por\nfuncionário público: notificação prévia (CPP 514) p/ DEFESA\nPRELIMINAR 15 dias; aplicável apenas a tipos do CP 312-326;\nSúm. 330 STJ dispensa quando há IP. Crimes contra HONRA\n(CPP 519-523), ação privada (regra): audiência de RECONCILIAÇÃO\nobrigatória antes do recebimento; pedido de explicações (CP\n144); Súm. 714 STF (servidor: legitimidade concorrente). Injúria\nracial = pública incondicionada (Lei 7.716 art. 2-A)."
+description: "Usar para pesquisar ou analisar: Procedimentos Especiais: Crimes Funcionais e Honra (CPP 513-523). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procedimentos Especiais: CPP 513-523
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Procedimento dos CRIMES FUNCIONAIS (CPP 513-518)
 

@@ -5,8 +5,8 @@ title: "Oferta e Vinculação (CDC 30 + 35 + 48)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/praticas-publicidade-cobranca-cadastros/oferta-vinculacao-cdc-30.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/oferta-vinculacao-cdc-30/SKILL.md"
 triggers:
   - "descumprimento da oferta"
   - "vinculação da oferta"
@@ -18,10 +18,15 @@ triggers:
   - "princípio da vinculação"
   - "propaganda enganosa"
   - "veiculação publicitária"
-description: "Oferta e princípio da vinculação sob CDC 30 + 35 + 48: toda\ninformação ou publicidade veiculada vincula o fornecedor e integra\no contrato; recusa de cumprimento: opções do consumidor (35):\ncumprimento forçado + outro equivalente + rescisão com restituição\ne perdas e danos; documentos preliminares vinculam (48); papel das\nredes sociais e influenciadores (CONAR + STJ)."
+description: "Usar para pesquisar ou analisar: Oferta e Vinculação (CDC 30 + 35 + 48). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Oferta e Vinculação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

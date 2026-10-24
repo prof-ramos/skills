@@ -5,8 +5,8 @@ title: "Tutela Provisória de Evidência (CPC 311)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/tutela-provisoria/tutela-evidencia-cpc-311.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/tutela-evidencia-cpc-311/SKILL.md"
 triggers:
   - "tutela de evidência"
   - "CPC 311"
@@ -17,10 +17,15 @@ triggers:
   - "Tema 988 STJ"
   - "estabilização tutela"
   - "taxatividade mitigada"
-description: "Tutela de evidência sob CPC 311 (rol taxativo): I abuso de defesa\n+ propósito protelatório; II tese em repetitivo/SV + documental;\nIII contrato de depósito (reipersecutório); IV documental sem\ncontraprova; DISPENSA periculum; par. único: liminar só em II\ne III; NÃO comporta estabilização (CPC 304 é só urgência); agravo\nCPC 1.015 I + Tema 988 (taxatividade mitigada)."
+description: "Usar para pesquisar ou analisar: Tutela Provisória de Evidência (CPC 311). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Provisória de Evidência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Sistema da tutela provisória (CPC 294)
 

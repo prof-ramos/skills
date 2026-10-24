@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "ata-reuniao-conselho"
 version: 2
-sourcePath: "lib/skills/official/forma/ata-reuniao-conselho.md"
+sourcePath: "legalbr/forma/ata-reuniao-conselho/SKILL.md"
 triggers:
   - "ata do conselho de administração"
   - "ata CA"
@@ -16,10 +16,15 @@ triggers:
   - "ata de reunião de conselho"
   - "ata de reunião do conselho de administração"
   - "ata de reunião de diretoria"
-description: "Ata de reunião de conselho de administração (LSA 138-142), conselho\nfiscal (LSA 161-165), diretoria (LSA 143) ou consultivo (CC 1.061\ne LC 182/21). Convocação, quórum, voto de minerva, dever de\ndiligência (LSA 153) e lealdade (LSA 155)."
+description: "Usar para redigir ou revisar: Ata de Reunião de Conselho (CA, fiscal, consultivo). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ata de Reunião de Conselho
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Espécies
 

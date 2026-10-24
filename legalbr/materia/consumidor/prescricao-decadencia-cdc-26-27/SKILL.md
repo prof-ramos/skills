@@ -5,8 +5,8 @@ title: "Prescrição e Decadência (CDC 26 + 27)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/prescricao-decadencia-cdc-26-27.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/prescricao-decadencia-cdc-26-27/SKILL.md"
 triggers:
   - "prescrição do acidente de consumo"
   - "decadência do vício do produto"
@@ -18,10 +18,15 @@ triggers:
   - "vício oculto"
   - "causa obstativa"
   - "reclamação direta"
-description: "Prazos sob CDC 26 (decadência, vício: 30 dias bem não durável,\n90 dias bem durável; oculto contado da descoberta dentro da vida\nútil) e CDC 27 (prescrição quinquenal, fato/acidente de consumo);\ncausas obstativas (reclamação direta + inquérito civil, §2);\ndiferenciação vício × fato; aplicação subsidiária do CC 205 quando\nnão há regra específica."
+description: "Usar para pesquisar ou analisar: Prescrição e Decadência (CDC 26 + 27). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prescrição e Decadência no CDC
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

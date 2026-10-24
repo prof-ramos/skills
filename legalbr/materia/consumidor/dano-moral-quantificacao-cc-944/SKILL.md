@@ -5,8 +5,8 @@ title: "Dano Moral: Quantificação e Critérios (CC 944 + STJ)"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/dano-moral-e-tutela-coletiva/dano-moral-quantificacao-cc-944.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/dano-moral-quantificacao-cc-944/SKILL.md"
 triggers:
   - "quantificação do dano moral"
   - "arbitramento de dano moral"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 326 STJ"
   - "dano moral in re ipsa"
   - "punitive damages"
-description: "Dano moral sob CC 186, 927, 944 e 953: tríplice função\n(compensatória, punitiva, pedagógica); método bifásico do STJ\n(valor base por interesse jurídico + ajuste pelas circunstâncias);\ncritérios: gravidade, extensão, culpa, capacidade econômica,\nproporcionalidade; cumulação com estético (Súm. 387 STJ); juros\n(Súm. 54) + correção (Súm. 362); equidade redutora do art. 944\npar. único."
+description: "Usar para pesquisar ou analisar: Dano Moral: Quantificação e Critérios (CC 944 + STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dano Moral: Quantificação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

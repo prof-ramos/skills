@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/organizacao-criminosa-lei-12850.md"
+sourcePath: "legalbr/materia/penal/organizacao-criminosa-lei-12850/SKILL.md"
 triggers:
   - "organização criminosa"
   - "Lei 12.850/2013"
@@ -20,10 +20,15 @@ triggers:
   - "CP 91-A"
   - "progressão comando de organização criminosa"
   - "orcrim crimes ECA Lei 15.487"
-description: "Lei 12.850/2013: conceito, tipo, majorantes, colaboração e técnicas\ninvestigativas, com Antifacção e aumento de 1/6 a 2/3 quando houver\ncriança ou adolescente ou finalidade de cometer crimes do ECA."
+description: "Usar para pesquisar ou analisar: Organização Criminosa (Lei 12.850/2013 + Lei 13.964/2019 + Lei 15.358/2026). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Organização Criminosa (Lei 12.850/2013)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

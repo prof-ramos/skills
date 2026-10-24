@@ -5,8 +5,8 @@ title: "Responsabilidade do Estado por Danos a Aluno em Escola Pública"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/responsabilidade-civil-propriedade/responsabilidade-aluno-escola-publica.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/responsabilidade-aluno-escola-publica/SKILL.md"
 triggers:
   - "aluno em escola pública indenização"
   - "agressão entre alunos"
@@ -17,10 +17,15 @@ triggers:
   - "acidente em transporte escolar"
   - "dever de vigilância escolar"
   - "queda de aluno em passeio escolar"
-description: "Responsabilidade civil do ente público por danos a aluno sob guarda da\nescola: RE 109.615 STF (objetiva, dever de preservar a integridade do\nestudante no recinto escolar), agressões entre alunos e bullying, acidentes\nem atividades externas e transporte escolar, evasão de menor, pensionamento\n(CC 948-950, Súmula 491 STF). Analogia com o dever de custódia do Tema 592."
+description: "Usar para pesquisar ou analisar: Responsabilidade do Estado por Danos a Aluno em Escola Pública. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Responsabilidade do Estado por Danos a Aluno em Escola Pública
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

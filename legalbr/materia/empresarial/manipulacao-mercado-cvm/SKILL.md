@@ -5,8 +5,8 @@ title: "Manipulação de Mercado (CVM e Criminal)"
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/manipulacao-mercado-cvm.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/manipulacao-mercado-cvm/SKILL.md"
 triggers:
   - "manipulação de mercado"
   - "art. 27-C Lei 6.385"
@@ -19,10 +19,15 @@ triggers:
   - "operação fraudulenta"
   - "condições artificiais"
   - "prática não equitativa"
-description: "Manipulação de mercado de valores mobiliários: tipo penal (Lei 6.385\nart. 27-C: reclusão 1 a 8 anos + multa de até 3x vantagem) + ilícito\nadministrativo (Lei 6.385 art. 4; Res. CVM 62/22, substituiu Inst. CVM\n8/79). Quatro tipos clássicos: (i) condições artificiais de demanda,\noferta ou preço; (ii) manipulação de preços; (iii) operação fraudulenta;\n(iv) prática não equitativa. Modalidades: spoofing, layering, wash trade,\nmarking the close, pump and dump, churning, front-running, short squeeze.\nDetecção pela BSM (B3 Supervisão). Coordenação BSM, CVM, MPF, SEC, ESMA."
+description: "Usar para pesquisar ou analisar: Manipulação de Mercado (CVM e Criminal). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Manipulação de Mercado (CVM e Criminal)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

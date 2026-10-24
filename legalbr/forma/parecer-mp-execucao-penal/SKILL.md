@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "parecer-mp-execucao-penal"
 version: 2
-sourcePath: "lib/skills/official/forma/parecer-mp-execucao-penal.md"
+sourcePath: "legalbr/forma/parecer-mp-execucao-penal/SKILL.md"
 triggers:
   - "parecer do MP na execução penal"
   - "manifestação do Ministério Público na execução penal"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 917 STJ"
   - "Tema 1.120 STJ"
   - "parecer do MP em audiência de justificação de falta grave"
-description: "Parecer do MP como fiscal da execução penal (LEP 67-68): manifestação prévia\nobrigatória em progressão, livramento, indulto e comutação (LEP 112 §2º),\nsaída temporária (LEP 123) e remição. Estrutura por incidente com requisitos\nobjetivos atuais (LEP 112, Leis 15.358/2026 e 15.402/2026), exame\ncriminológico (Lei 14.843/2024), Temas 917 e 1.120 STJ e súmulas de falta\ngrave. Conclusão sempre fundamentada, nunca neutra."
+description: "Usar para redigir ou revisar: Parecer do MP na Execução Penal (LEP 67-68). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parecer do MP na Execução Penal (LEP 67-68)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Atribuição e cabimento
 

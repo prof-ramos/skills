@@ -5,8 +5,8 @@ title: "Agravante do CP 61 II \"f\" e Bis in Idem (Tema 1.197 Maria da Penha + T
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/agravante-violencia-domestica-bis-in-idem-temas-1197-1215.md"
+version: 2
+sourcePath: "legalbr/materia/penal/agravante-violencia-domestica-bis-in-idem-temas-1197-1215/SKILL.md"
 triggers:
   - "Tema 1.197 STJ"
   - "Tema 1.215 STJ"
@@ -16,10 +16,15 @@ triggers:
   - "agravante genérica violência doméstica"
   - "lesão corporal 129 § 9 agravante"
   - "relação de autoridade sobre a vítima"
-description: "Tema 1.197 STJ (3ª Seção, 12/06/2024): aplicar a agravante do CP 61 II\n\"f\" junto com a Lei Maria da Penha NÃO é bis in idem. Tema 1.215 STJ\n(13/11/2024): nos crimes sexuais, cumulam-se CP 61 II \"f\" + majorante\ndo CP 226 II, SALVO quando presente apenas a relação de autoridade\n(aplica-se só a causa de aumento). Limite: tipos com razão de gênero\nelementar (CP 129 §13)."
+description: "Usar para pesquisar ou analisar: Agravante do CP 61 II \"f\" e Bis in Idem (Tema 1.197 Maria da Penha + Tema 1.215 crimes sexuais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravante do CP 61 II "f" e Bis in Idem em Violência Doméstica (Temas 1.197 e 1.215 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Teses fixadas
 

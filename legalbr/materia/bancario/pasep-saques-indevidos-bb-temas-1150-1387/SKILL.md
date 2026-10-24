@@ -5,8 +5,8 @@ title: "PASEP: Saques Indevidos e Desfalques (Temas 1.150, 1.300 e 1.387 STJ)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/pasep-saques-indevidos-bb-temas-1150-1387.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/pasep-saques-indevidos-bb-temas-1150-1387/SKILL.md"
 triggers:
   - "Tema 1.150 STJ"
   - "Tema 1.387 STJ"
@@ -17,10 +17,15 @@ triggers:
   - "saque integral do principal"
   - "ônus da prova PASEP FOPAG"
   - "conta individualizada PASEP"
-description: "Ações de servidores contra o Banco do Brasil por falha na gestão de\nconta individualizada do PASEP: legitimidade passiva do BB e\nprescrição DECENAL (CC 205) contada da ciência dos desfalques (Tema\n1.150 STJ); o SAQUE INTEGRAL do principal inicia o prazo (Tema 1.387\nSTJ); ônus da prova repartido conforme a forma do saque, vedadas\ninversão e redistribuição para crédito em conta e FOPAG (Tema 1.300\nSTJ). Correção de saldos contra a UNIÃO: 5 anos (Tema 545)."
+description: "Usar para pesquisar ou analisar: PASEP: Saques Indevidos e Desfalques (Temas 1.150, 1.300 e 1.387 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # PASEP: Saques Indevidos e Desfalques (Temas 1.150, 1.300 e 1.387 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

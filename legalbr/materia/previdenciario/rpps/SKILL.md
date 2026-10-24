@@ -5,8 +5,8 @@ title: "RPPS: Aposentadoria e Benefícios do Servidor (CF 40 + EC 103/2019)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/rpps.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/rpps/SKILL.md"
 triggers:
   - "RPPS"
   - "aposentadoria servidor público"
@@ -18,10 +18,15 @@ triggers:
   - "pensão por morte do servidor"
   - "contribuição de inativos"
   - "aposentadoria compulsória 75 anos"
-description: "Regime Próprio de Previdência Social sob a CF (art. 40, redação da EC\n103/2019), a Lei 9.717/98 e a Lei 10.887/2004: regra permanente da\nvoluntária e regras de transição (pontos e pedágio 100%);\nintegralidade e paridade dos pré-2004; aposentadoria por\nincapacidade permanente, abono de permanência e compulsória aos 75;\ncontribuição extraordinária e pensão do art. 23 EC 103."
+description: "Usar para pesquisar ou analisar: RPPS: Aposentadoria e Benefícios do Servidor (CF 40 + EC 103/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # RPPS, Regime Próprio
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

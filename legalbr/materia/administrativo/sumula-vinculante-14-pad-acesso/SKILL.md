@@ -5,8 +5,8 @@ title: "Súmula Vinculante 14, Acesso a Elementos Documentados (STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-disciplinar-pad/sumula-vinculante-14-pad-acesso.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/sumula-vinculante-14-pad-acesso/SKILL.md"
 triggers:
   - "Súmula Vinculante 14"
   - "SV 14"
@@ -18,10 +18,15 @@ triggers:
   - "negativa de acesso aos autos"
   - "art. 7 XIV OAB"
   - "Lei 13.245 acesso investigação"
-description: "SV 14 STF: assegura ao defensor o acesso amplo aos elementos\nde prova **já documentados** em procedimento investigatório\n(inquérito policial + PAD + procedimento do MP + sindicância\nacusatória); ressalva diligências em andamento que demandam\nsigilo; aplicável aos procedimentos administrativos sancionadores;\nLei 8.906 art. 7 XIV (prerrogativa); não há prazo decadencial\npara o exercício do direito de acesso."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 14, Acesso a Elementos Documentados (STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 14, Acesso ao Defensor
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

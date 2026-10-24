@@ -5,8 +5,8 @@ title: "Desconsideração da Personalidade Jurídica (CC 50 + Lei 13.874/2019)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/desconsideracao-pj-cc-50.md"
+version: 2
+sourcePath: "legalbr/materia/civil/desconsideracao-pj-cc-50/SKILL.md"
 triggers:
   - "desconsideracao da personalidade juridica"
   - "CC 50"
@@ -21,10 +21,15 @@ triggers:
   - "Sum 430 STJ"
   - "teoria menor CDC 28"
   - "Tema 1.210 STJ"
-description: "Desconsideração da personalidade jurídica (CC 50, com redação da Lei\n13.874/2019): exige abuso (desvio de finalidade OU confusão\npatrimonial); critérios objetivos taxativos; aplicação ex officio\nvedada (CPC 133); espécies (direta, inversa, expansiva); regimes\nespeciais (CDC 28; CLT; CTN 135; Lei 11.101); IDPJ (CPC 133-137)."
+description: "Usar para pesquisar ou analisar: Desconsideração da Personalidade Jurídica (CC 50 + Lei 13.874/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Desconsideração da Personalidade Jurídica
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 50 (redação Lei 13.874/2019)
 

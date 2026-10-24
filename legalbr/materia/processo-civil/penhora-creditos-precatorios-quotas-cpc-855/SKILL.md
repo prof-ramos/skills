@@ -5,8 +5,8 @@ title: "Penhora de Créditos, Precatórios e Quotas Sociais (CPC 855-861 + Súm.
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/penhora-creditos-precatorios-quotas-cpc-855.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/penhora-creditos-precatorios-quotas-cpc-855/SKILL.md"
 triggers:
   - "penhora de créditos"
   - "penhora de precatório"
@@ -19,10 +19,15 @@ triggers:
   - "penhora de cotas de fundo de investimento"
   - "sub-rogação do exequente CPC 857"
   - "liquidação de quotas penhoradas"
-description: "Penhora de direitos e créditos (CPC 855-860): dupla intimação, sub-rogação\nou alienação judicial (857), penhora no rosto dos autos (860); precatório\npenhorável como direito de crédito, com recusa legítima da Fazenda (Súm.\n406 + Tema 120 STJ, REsp 1.090.898/SP); cotas de fundo de investimento não\nequivalem a dinheiro (Tema 913); quotas e ações de sociedade: rito de\nliquidação do CPC 861. Rota padrão quando o SISBAJUD falha."
+description: "Usar para pesquisar ou analisar: Penhora de Créditos, Precatórios e Quotas Sociais (CPC 855-861 + Súm. 406 STJ + Tema 913 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Penhora de Créditos, Precatórios e Quotas Sociais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Posição na ordem legal (CPC 835)
 

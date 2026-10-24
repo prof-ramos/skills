@@ -5,8 +5,8 @@ title: "Tipicidade Penal (CP 13 + 18-19 + nexo causal + dolo/culpa)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-geral/tipicidade-cp-13.md"
+version: 2
+sourcePath: "legalbr/materia/penal/tipicidade-cp-13/SKILL.md"
 triggers:
   - "tipicidade penal"
   - "CP 13"
@@ -20,10 +20,15 @@ triggers:
   - "dolo eventual"
   - "culpa consciente"
   - "tipicidade material"
-description: "Tipicidade penal CP 13: caput CONDITIO SINE QUA NON (equivalência\nantecedentes, eliminação hipotética); §1 superveniência IMPREVISÍVEL rompe\nnexo; §2 OMISSIVO IMPRÓPRIO (3 hipóteses de garante: dever\nlegal + assunção + INGERÊNCIA); CP 18 dolo (regra) × culpa\n(exige previsão); imputação OBJETIVA (3 filtros);\ntipicidade FORMAL × MATERIAL (insignificância, STF HC 84.412)."
+description: "Usar para pesquisar ou analisar: Tipicidade Penal (CP 13 + 18-19 + nexo causal + dolo/culpa). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tipicidade Penal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 13 caput: NEXO CAUSAL
 

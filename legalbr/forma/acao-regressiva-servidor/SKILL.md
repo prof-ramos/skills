@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "acao-regressiva-servidor"
 version: 2
-sourcePath: "lib/skills/official/forma/acao-regressiva-servidor.md"
+sourcePath: "legalbr/forma/acao-regressiva-servidor/SKILL.md"
 triggers:
   - "ação regressiva"
   - "CF 37 §6"
@@ -16,10 +16,15 @@ triggers:
   - "art 122 §2 Lei 8112"
   - "regresso fazenda servidor"
   - "regressiva autônoma em vez de denunciação à lide"
-description: "Ação regressiva da Fazenda contra servidor (CF 37 §6 + Lei 8.112\narts. 121-122): cabe após condenação do ente público + pagamento\nefetivo; exige dolo ou culpa do agente; prescrição quinquenal\n(Súm. 85 STJ); imprescritibilidade só em ato doloso de improbidade\n(Tema 897 STF); a denunciação à lide do servidor (CPC 125) na ação\nprimária por responsabilidade objetiva é afastada pela jurisprudência\npacífica do STJ: admitida apenas a regressiva autônoma após sentença +\npagamento."
+description: "Usar para redigir ou revisar: Ação Regressiva contra Servidor Público. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Regressiva contra Servidor Público
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

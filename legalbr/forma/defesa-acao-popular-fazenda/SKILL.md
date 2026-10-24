@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "defesa-acao-popular-fazenda"
 version: 2
-sourcePath: "lib/skills/official/forma/defesa-acao-popular-fazenda.md"
+sourcePath: "legalbr/forma/defesa-acao-popular-fazenda/SKILL.md"
 triggers:
   - "defesa ação popular fazenda"
   - "art 6 §3 Lei 4717"
@@ -16,10 +16,15 @@ triggers:
   - "reexame necessário ação popular"
   - "autor de boa-fé"
   - "contestação da Fazenda Lei 4.717/65"
-description: "Defesa da Fazenda Pública em ação popular (Lei 4.717/1965):\nprazo dobrado (CPC 183); papel híbrido da Administração (art. 6 §3 -\nAdm pode atuar ao lado do autor se conveniente ao interesse público);\npreliminares (legitimidade do cidadão, lesividade, vícios do ato);\nreexame necessário em improcedência ou carência (art. 19);\nisenção do autor de boa-fé (CF 5 LXXIII); efeito erga omnes;\nprescrição quinquenal (art. 21); sem foro privilegiado (STF)."
+description: "Usar para redigir ou revisar: Defesa da Fazenda Pública em Ação Popular. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Defesa da Fazenda Pública em Ação Popular
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

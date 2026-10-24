@@ -5,8 +5,8 @@ title: "Recurso de Apelação"
 category: "forma"
 materia: null
 documentType: "recurso-apelacao"
-version: 1
-sourcePath: "lib/skills/official/forma/recurso-apelacao.md"
+version: 2
+sourcePath: "legalbr/forma/recurso-apelacao/SKILL.md"
 triggers:
   - "recurso de apelação"
   - "apelação cível arts. 1.009 a 1.014 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "prazo de 15 dias e preparo art. 1.007"
   - "questões não decididas art. 1.013 §1º"
   - "teoria da causa madura art. 1.013 §3º"
-description: "Apelação sob o CPC/15 (arts. 1.009 a 1.014): cabe contra sentença (art.\n203 §1º); prazo de 15 dias úteis; preparo no ato (art. 1.007); efeito\nsuspensivo é regra (art. 1.012) com exceções no §1º; dialeticidade\nobrigatória (art. 1.010 III); admissibilidade única pelo tribunal (art.\n1.010 §3º); causa madura (art. 1.013 §3º); honorários recursais com\nTema 1.059 STJ; preliminares do art. 1.009 §1º (interlocutórias não\nagraváveis)."
+description: "Usar para redigir ou revisar: Recurso de Apelação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recurso de Apelação
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento e prazo
 

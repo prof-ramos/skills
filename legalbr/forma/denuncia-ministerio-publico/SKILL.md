@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "denuncia"
 version: 2
-sourcePath: "lib/skills/official/forma/denuncia-ministerio-publico.md"
+sourcePath: "legalbr/forma/denuncia-ministerio-publico/SKILL.md"
 triggers:
   - "denúncia criminal"
   - "peça acusatória do MP"
@@ -16,10 +16,15 @@ triggers:
   - "rol de testemunhas e justa causa"
   - "denúncia apta ao recebimento CPP 395"
   - "oferecimento de denúncia pelo Ministério Público"
-description: "Denúncia do MP (CF 129 I e art. 41 CPP): fato e circunstâncias,\nqualificação, capitulação, rol de testemunhas e pedido; exige justa\ncausa (lastro mínimo: materialidade e indícios de autoria); avalia ANPP\nantes (art. 28-A; STJ Tema 1.098 com retroatividade até HC 185.913 STF);\nindividualiza conduta em crimes societários, organização criminosa e\nlavagem; observa cadeia de custódia (art. 158-A); prazos do art. 46:\n5 dias (preso) ou 15 dias (solto)."
+description: "Usar para redigir ou revisar: Denúncia (Ministério Público). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Denúncia (Ministério Público)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e titularidade
 

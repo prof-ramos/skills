@@ -5,8 +5,8 @@ title: "Procuradoria-Geral do Estado (CF 132)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/pge-procuradoria-estado-cf-132.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/pge-procuradoria-estado-cf-132/SKILL.md"
 triggers:
   - "PGE"
   - "Procuradoria-Geral do Estado"
@@ -16,10 +16,15 @@ triggers:
   - "ADI 4.843"
   - "carreira de Estado"
   - "representação judicial Estado"
-description: "Procuradoria-Geral do Estado (CF 132): carreira de Estado dos\nprocuradores estaduais; ingresso por concurso público; estabilidade\napós 3 anos; representação judicial e consultoria do Estado e\nautarquias estaduais; unicidade da representação (ADI 5.215) e\nvedação de comissionados em funções de procurador (ADIs 4.843 e\n4.261); STF veda autonomia funcional/administrativa/financeira à\nPGE (ADI 5.029); honorários sucumbenciais conforme ADI 6.053 STF\ne ADIs estaduais 6.159/6.166; estatutos estaduais."
+description: "Usar para pesquisar ou analisar: Procuradoria-Geral do Estado (CF 132). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procuradoria-Geral do Estado (CF 132)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

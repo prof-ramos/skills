@@ -5,8 +5,8 @@ title: "Sentença no Juizado Especial Federal (Lei 10.259/2001)"
 category: "forma"
 materia: null
 documentType: "sentenca-jef"
-version: 1
-sourcePath: "lib/skills/official/forma/sentenca-jef.md"
+version: 2
+sourcePath: "legalbr/forma/sentenca-jef/SKILL.md"
 triggers:
   - "sentença no juizado especial federal"
   - "sentença JEF Lei 10.259/2001"
@@ -16,10 +16,15 @@ triggers:
   - "sem reexame necessário no juizado federal"
   - "implantação de benefício por ofício"
   - "condenação do INSS no juizado"
-description: "Sentença do Juizado Especial Federal sob a Lei 10.259/2001, com aplicação\nsubsidiária da Lei 9.099/95 (art. 1º): relatório dispensado; sem reexame\nnecessário (art. 13) e sem prazos diferenciados para os entes (art. 9º);\nobrigação de fazer cumprida por ofício (art. 16) e de pagar por RPV até\n60 SM (art. 17); parâmetros de liquidação (DIB, DIP, RMI) e consectários\npor período (Temas 810 STF e 905 STJ; EC 113/2021; EC 136/2025)."
+description: "Usar para redigir ou revisar: Sentença no Juizado Especial Federal (Lei 10.259/2001). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentença no Juizado Especial Federal (Lei 10.259/2001)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Quando usar
 

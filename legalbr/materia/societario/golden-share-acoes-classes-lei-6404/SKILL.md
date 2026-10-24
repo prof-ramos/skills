@@ -5,8 +5,8 @@ title: "Golden Share + Classes de Ações (LSA 15-19)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/golden-share-acoes-classes-lei-6404.md"
+version: 2
+sourcePath: "legalbr/materia/societario/golden-share-acoes-classes-lei-6404/SKILL.md"
 triggers:
   - "golden share"
   - "ação de classe especial"
@@ -15,10 +15,15 @@ triggers:
   - "veto União privatização"
   - "LSA 15"
   - "voto plural LSA 110-A"
-description: "Classes de ações (LSA 15-19) + golden share (LSA 17 §7): ordinárias\n(ON, voto pleno) e preferenciais (PN, vantagens patrimoniais ou\npolíticas, limitadas a **50% das ações emitidas**, LSA 15 §2);\nclasses dentro de cada espécie (LSA 16). Golden share: **ação\npreferencial de classe especial** exclusiva do **ente desestatizante**\n(União/Estado/Município) com poder de **veto** em matérias\nestatutárias específicas (LSA 17 §7). Casos brasileiros: Embraer\n(estratégia militar), Vale (objeto + alienação + razão social),\nCelma. Lei das Estatais 13.303/2016 + Lei 9.491/97 (privatização).\nLimites de constitucionalidade e voto plural (LSA 110-A)."
+description: "Usar para pesquisar ou analisar: Golden Share + Classes de Ações (LSA 15-19). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Classes de Ações + Golden Share
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

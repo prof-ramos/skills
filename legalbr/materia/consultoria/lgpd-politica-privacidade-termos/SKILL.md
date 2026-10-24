@@ -5,8 +5,8 @@ title: "LGPD: Política de Privacidade e Termos de Uso"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/dados-privacidade-ia/lgpd-politica-privacidade-termos.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/lgpd-politica-privacidade-termos/SKILL.md"
 triggers:
   - "política de privacidade"
   - "termos de uso"
@@ -14,10 +14,15 @@ triggers:
   - "banner de cookies"
   - "opt-in opt-out"
   - "consentimento LGPD"
-description: "Política de Privacidade e Termos de Uso conforme LGPD (Lei\n13.709 art. 9, transparência) + CDC + Marco Civil da Internet\n(Lei 12.965 art. 7-9): camadas (privacy notice, política\ndetalhada, termos de uso, política de cookies), informações\nobrigatórias, consentimento (livre, informado, inequívoco,\ngranular), banner de cookies (Guia ANPD), opt-in × opt-out\ne atualização versionada."
+description: "Usar para pesquisar ou analisar: LGPD: Política de Privacidade e Termos de Uso. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LGPD: Política de Privacidade e Termos de Uso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura em camadas
 

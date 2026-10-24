@@ -5,8 +5,8 @@ title: "Autodeterminação Testemunhas de Jeová e Transfusão (Tema 1.069 STF)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/testemunhas-jeova-transfusao-tema-1069.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/testemunhas-jeova-transfusao-tema-1069/SKILL.md"
 triggers:
   - "Tema 1.069 STF"
   - "testemunhas de Jeová"
@@ -18,10 +18,15 @@ triggers:
   - "liberdade religiosa saúde"
   - "diretiva antecipada vontade"
   - "dignidade pessoa humana"
-description: "Tema 1.069 STF (RE 1.212.272, 25/09/2024): paciente no gozo\npleno de sua capacidade civil pode recusar tratamento de saúde\npor motivos religiosos; a recusa é condicionada apenas a decisão\ninequívoca, livre, informada e esclarecida, inclusive por\ndiretiva antecipada de vontade. Procedimento alternativo pelo\nSUS exige viabilidade técnico-científica e anuência da equipe\nmédica. Aplicável apenas a adultos capazes. Menores e incapazes:\nproteção integral prevalece. CF 5 VI + 196 + 198."
+description: "Usar para pesquisar ou analisar: Autodeterminação Testemunhas de Jeová e Transfusão (Tema 1.069 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Autodeterminação Testemunhas de Jeová e Transfusão
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

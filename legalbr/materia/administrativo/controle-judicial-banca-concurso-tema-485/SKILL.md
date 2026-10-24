@@ -5,8 +5,8 @@ title: "Controle Judicial de Questões e Critérios da Banca (Tema 485 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/controle-judicial-banca-concurso-tema-485.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/controle-judicial-banca-concurso-tema-485/SKILL.md"
 triggers:
   - "Tema 485 STF"
   - "RE 632.853"
@@ -18,10 +18,15 @@ triggers:
   - "correção de prova discursiva"
   - "recurso administrativo do certame"
   - "controle judicial de concurso público"
-description: "Tema 485 STF (RE 632.853, 23/04/2015): o Judiciário não substitui a banca\nno conteúdo das questões e critérios de correção, salvo ilegalidade ou\ninconstitucionalidade. Operação da exceção (erro grosseiro, questão fora do\nedital), anulação de questão e limites subjetivos da coisa julgada (CPC 506)."
+description: "Usar para pesquisar ou analisar: Controle Judicial de Questões e Critérios da Banca (Tema 485 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Controle Judicial de Questões e Critérios da Banca de Concurso
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

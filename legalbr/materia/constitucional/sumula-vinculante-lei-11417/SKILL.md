@@ -5,8 +5,8 @@ title: "Súmula Vinculante (CF 103-A + Lei 11.417/2006 + EC 45/2004)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/sumula-vinculante-lei-11417.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/sumula-vinculante-lei-11417/SKILL.md"
 triggers:
   - "súmula vinculante"
   - "CF 103-A"
@@ -21,10 +21,15 @@ triggers:
   - "descumprimento de SV"
   - "efeito vinculante administração pública"
   - "CPC 927 II"
-description: "Súmula Vinculante CF 103-A (EC 45/2004) + Lei 11.417/2006:\naprovação 2/3 STF (8 ministros) sobre matéria CONSTITUCIONAL +\nreiteradas decisões; vincula Judiciário + Adm; legitimados do\nart. 3 Lei 11.417 (11 incisos: PR, Mesas do Senado e da Câmara,\nPGR, CF-OAB, DPGU, partido político com representação no CN,\nconfederação sindical/entidade de classe nacional, Mesa de\nAL/CLDF, Governadores, Tribunais) + Município incidental (art.\n3 §1); revisão/cancelamento; RECLAMAÇÃO CF 102 I \"l\" +\nesgotamento administrativo; numeração até a SV 63."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante (CF 103-A + Lei 11.417/2006 + EC 45/2004). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

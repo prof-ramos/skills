@@ -5,8 +5,8 @@ title: "Violência Política contra Mulher (Lei 14.192/2021 + CP 359-P + Código
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/violencia-politica-mulher-lei-14192.md"
+version: 2
+sourcePath: "legalbr/materia/penal/violencia-politica-mulher-lei-14192/SKILL.md"
 triggers:
   - "violência política"
   - "Lei 14.192/2021"
@@ -19,10 +19,15 @@ triggers:
   - "candidatura-laranja"
   - "Res. CNJ 492/2023"
   - "protocolo gênero"
-description: "Lei 14.192/2021 normas contra violência política contra mulher;\nconceito: ações + omissões com estereótipos de gênero impedindo\ndireitos políticos; CE art. 326-B (assédio/constrangimento na\ncampanha, recl. 1-4a); CP 359-P (Lei 14.197/2021, restringir\ndireitos políticos por sexo/raça/etnia, recl. 3-6a); ADI 5.617\nSTF (30% Fundo Partidário a mulheres); Res. CNJ 492/2023."
+description: "Usar para pesquisar ou analisar: Violência Política contra Mulher (Lei 14.192/2021 + CP 359-P + Código Eleitoral 326-B). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violência Política contra Mulher
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 14.192/2021
 

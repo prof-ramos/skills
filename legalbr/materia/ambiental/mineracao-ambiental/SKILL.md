@@ -6,7 +6,7 @@ category: "materia"
 materia: "ambiental"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/ambiental/mineracao-ambiental.md"
+sourcePath: "legalbr/materia/ambiental/mineracao-ambiental/SKILL.md"
 triggers:
   - "mineração"
   - "lavra"
@@ -22,10 +22,15 @@ triggers:
   - "garimpo"
   - "Brumadinho"
   - "CFEM decadência prescrição"
-description: "Mineração e regime ambiental correlato sob a CF/88 (arts. 20 IX, 176\ne 231 §3º) e DL 227/67 (Código de Mineração): regimes de aproveitamento\n(autorização de pesquisa, concessão de lavra, PLG, licenciamento\nmunicipal); papel da ANM e licenciamento ambiental específico\n(EIA-RIMA, PRAD); CFEM, sua repartição e contencioso (decadência e\nprescrição do art. 47 da Lei 9.636/98 + Súmula ANM 1/2025 + execução\nfiscal da ANM); segurança de barragens (Lei 14.066/2020) e\nresponsabilidade ambiental tríplice."
+description: "Usar para pesquisar ou analisar: Mineração + Direito Ambiental (CF 176 + DL 227/67 + Lei 13.575/17 ANM). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Mineração + Direito Ambiental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

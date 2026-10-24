@@ -5,8 +5,8 @@ title: "Dispensa e Inexigibilidade de Licitação (Lei 14.133 arts. 74-75)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/licitacoes-contratos/dispensa-inexigibilidade-licitacao-14133-75.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/dispensa-inexigibilidade-licitacao-14133-75/SKILL.md"
 triggers:
   - "dispensa licitação"
   - "inexigibilidade licitação"
@@ -16,10 +16,15 @@ triggers:
   - "calamidade pública contratação"
   - "notório saber técnico"
   - "emergência contratação"
-description: "Dispensa e inexigibilidade de licitação (Lei 14.133 arts. 74-75):\nhipóteses de contratação direta; valores (art. 75 I-II); emergência\ne calamidade (art. 75 VIII); fornecedor exclusivo (art. 74 I);\nprofissional do setor artístico (art. 74 II); notória especialização\nem serviços técnicos (art. 74 III); requisitos formais (justificativa,\nmotivação, parecer jurídico Lei 14.133 art. 53); responsabilidade do\nparecerista (LINDB 28); ATA + acordo + transação (Lei 13.140); contratos\npúblicos sem licitação (riscos e controles)."
+description: "Usar para pesquisar ou analisar: Dispensa e Inexigibilidade de Licitação (Lei 14.133 arts. 74-75). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dispensa e Inexigibilidade de Licitação (Lei 14.133 arts. 74-75)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

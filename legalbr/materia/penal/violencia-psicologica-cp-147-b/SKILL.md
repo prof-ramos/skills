@@ -5,8 +5,8 @@ title: "Violência Psicológica contra a Mulher (CP 147-B, Lei 14.188/2021)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/violencia-psicologica-cp-147-b.md"
+version: 2
+sourcePath: "legalbr/materia/penal/violencia-psicologica-cp-147-b/SKILL.md"
 triggers:
   - "violência psicológica"
   - "CP 147-B"
@@ -18,10 +18,15 @@ triggers:
   - "mulher trans"
   - "Lei 14.245/2021"
   - "Súm. 600 STJ"
-description: "Violência psicológica contra mulher sob CP 147-B (Lei 14.188/2021):\ncausar dano emocional por ameaça + constrangimento + humilhação +\nmanipulação + isolamento + chantagem + ridicularização + limitação;\nrecl. 6m-2a + multa; aumento se idosa/gestante/PCD; subsidiariedade\nexpressa; cumula com Maria da Penha (Lei 11.340, protetivas);\nHC 541.237 STJ (mulher trans); Lei 14.245 (Mariana Ferrer)."
+description: "Usar para pesquisar ou analisar: Violência Psicológica contra a Mulher (CP 147-B, Lei 14.188/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Violência Psicológica contra a Mulher
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tipo penal autônomo (CP 147-B, Lei 14.188/2021)
 

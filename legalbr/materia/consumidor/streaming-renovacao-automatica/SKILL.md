@@ -5,8 +5,8 @@ title: "Streaming e Assinaturas: Renovação Automática"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/streaming-renovacao-automatica.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/streaming-renovacao-automatica/SKILL.md"
 triggers:
   - "streaming"
   - "Netflix"
@@ -18,10 +18,15 @@ triggers:
   - "clube de vantagens"
   - "opt-out"
   - "débito em cartão"
-description: "Streaming, assinaturas digitais e clubes de vantagens sob CDC +\nDec. 7.962/2013: contratação deve ser expressa; renovação\nautomática exige aviso prévio + opt-out facilitado; cancelamento\npelo mesmo canal de contratação (CDC 51 II); cobrança após\ncancelamento, dobra (CDC 42); assinaturas via aplicativos da\nloja (Apple, Google), gestão na plataforma; LGPD em coleta de\ndados; vedação à venda casada."
+description: "Usar para pesquisar ou analisar: Streaming e Assinaturas: Renovação Automática. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Streaming e Assinaturas: Renovação Automática
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

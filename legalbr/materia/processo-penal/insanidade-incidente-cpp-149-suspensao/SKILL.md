@@ -5,18 +5,23 @@ title: "Incidente de Insanidade Mental e Internação (CPP 149 + jurisprudência
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/insanidade-incidente-cpp-149.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/insanidade-incidente-cpp-149-suspensao/SKILL.md"
 triggers:
   - "CPP art. 149"
   - "incidente insanidade mental"
   - "inimputabilidade"
   - "medida de segurança"
   - "art. 26 CP"
-description: "CPP art. 149 + arts. 96-99 CP: incidente de insanidade\nmental quando há dúvida sobre integridade mental do\nacusado. Cabe a qualquer tempo do processo. Inimputabilidade\n(CP 26): MEDIDA DE SEGURANÇA, não pena (CP 96+). Internação\nou tratamento ambulatorial. Limite: até cessação da\npericulosidade."
+description: "Usar para pesquisar ou analisar: Incidente de Insanidade Mental e Internação (CPP 149 + jurisprudência STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Insanidade Mental
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

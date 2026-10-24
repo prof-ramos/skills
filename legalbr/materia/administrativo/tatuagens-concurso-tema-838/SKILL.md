@@ -5,8 +5,8 @@ title: "Tatuagens em Concurso Público (Tema 838 STF)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/concursos-publicos/tatuagens-concurso-tema-838.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/tatuagens-concurso-tema-838/SKILL.md"
 triggers:
   - "Tema 838 STF"
   - "tatuagem concurso"
@@ -16,10 +16,15 @@ triggers:
   - "tatuagem cargo público"
   - "eliminação de candidato por tatuagem"
   - "apologia ao crime tatuagem"
-description: "Tema 838 STF (RE 898.450, 17/08/2016): a VEDAÇÃO GENÉRICA\na tatuagens em editais de concurso público é INCONSTITUCIONAL.\nCabe vedação APENAS quando a tatuagem violar valores\nconstitucionais (apologia ao crime, discriminação, expressão\nobscena). CF 5 IV (liberdade expressão), VIII e IX +\nprincípio da razoabilidade."
+description: "Usar para pesquisar ou analisar: Tatuagens em Concurso Público (Tema 838 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tatuagens em Concurso Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

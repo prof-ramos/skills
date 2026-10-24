@@ -5,8 +5,8 @@ title: "SFN: CMN e BACEN (CF 192 + Lei 4.595/1964 + LC 179/2021)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/sfn-cmn-bacen-cf-192.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/sfn-cmn-bacen-cf-192/SKILL.md"
 triggers:
   - "SFN"
   - "Sistema Financeiro Nacional"
@@ -21,10 +21,15 @@ triggers:
   - "autonomia do Banco Central"
   - "ADI 6.696"
   - "Drex real digital"
-description: "SFN CF 192 (EC 40/2003 afastou teto 12% + remete a LC; SV 7: a\nlimitação de juros do antigo §3 dependia de lei complementar) + Lei\n4.595/1964 (LRBSF, status de LC); 2 subsistemas: NORMATIVO (CMN +\nBACEN + CVM + SUSEP + PREVIC) × OPERATIVO (IFs); CMN órgão\ndeliberativo (Fazenda + Planejamento + Pres. BACEN); LC 179/2021\nAUTONOMIA do BACEN (autarquia especial + mandato 4a; ADI 6.696\nconfirma a constitucionalidade); Lei 13.506/2017 PAS BACEN; Súm.\n596 STF (Lei de Usura inaplicável às IFs do SFN)."
+description: "Usar para pesquisar ou analisar: SFN: CMN e BACEN (CF 192 + Lei 4.595/1964 + LC 179/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema Financeiro Nacional (SFN)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 192
 

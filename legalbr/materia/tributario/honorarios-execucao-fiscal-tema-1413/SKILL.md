@@ -5,8 +5,8 @@ title: "Honorários na Execução Fiscal Extinta por Quitação (Tema 1.413 STJ 
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/processo-tributario/honorarios-execucao-fiscal-tema-1413.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/honorarios-execucao-fiscal-tema-1413/SKILL.md"
 triggers:
   - "Tema 1.413 STJ"
   - "honorários execução fiscal"
@@ -17,10 +17,15 @@ triggers:
   - "extinção execução fiscal honorários"
   - "Súm. 153 STJ"
   - "LEF art. 26 cancelamento CDA"
-description: "Tema 1.413 STJ: pelo princípio da causalidade e pelo CPC 85 §10, o\nEXECUTADO paga honorários quando a execução fiscal é extinta por\nperda superveniente do objeto em razão de QUITAÇÃO EXTRAJUDICIAL do\ndébito APÓS o ajuizamento, ainda que ANTES da citação. Distinção:\nLEF art. 26 (cancelamento da inscrição antes da decisão de 1º grau:\nextinção sem ônus) e Súm. 153 STJ (desistência após embargos não\nexime o exequente da sucumbência)."
+description: "Usar para pesquisar ou analisar: Honorários na Execução Fiscal Extinta por Quitação (Tema 1.413 STJ + CPC 85 §10). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários na Execução Fiscal Extinta por Quitação (Tema 1.413 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.413 STJ)
 

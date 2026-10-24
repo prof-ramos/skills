@@ -5,8 +5,8 @@ title: "Direito de Preferência Imobiliária (CC 504 + CC 513-520 + Lei 8.245 ar
 category: "materia"
 materia: "imobiliario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/imobiliario/direito-preferencia-imobiliaria-cc-504.md"
+version: 2
+sourcePath: "legalbr/materia/imobiliario/direito-preferencia-imobiliaria-cc-504/SKILL.md"
 triggers:
   - "direito de preferência"
   - "direito de prelação"
@@ -21,10 +21,15 @@ triggers:
   - "locatário preferência"
   - "prelação convencional"
   - "Lei 6.766 art. 27"
-description: "Direito de preferência imobiliária - hipóteses: (i) CC 504\nCONDOMÍNIO (coproprietário em condomínio voluntário tem preferência\nem igualdade, coisa indivisível); (ii) CC 1.338 condômino edilício\nna locação de vaga de garagem; (iii) Lei 8.245 art. 27-33 LOCATÁRIO\nem locação urbana; (iv) CC 513-520 prelação convencional (exercício\nCC 516: 3d móveis, 60d imóveis; pacto máximo CC 513: 180d móveis,\n2 anos imóveis); prazo CC 504 - 180 dias; sanção - adjudicação ao\npreterido com depósito; coerdeiro CC 1.794-1.795 (180 dias)."
+description: "Usar para pesquisar ou analisar: Direito de Preferência Imobiliária (CC 504 + CC 513-520 + Lei 8.245 art. 27-33). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito de Preferência Imobiliária
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

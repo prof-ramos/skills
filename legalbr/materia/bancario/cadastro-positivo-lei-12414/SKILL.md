@@ -5,8 +5,8 @@ title: "Cadastro Positivo (Lei 12.414/2011 + LC 166/2019 + Tema 922 STJ)"
 category: "materia"
 materia: "bancario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/bancario/cadastro-positivo-lei-12414.md"
+version: 2
+sourcePath: "legalbr/materia/bancario/cadastro-positivo-lei-12414/SKILL.md"
 triggers:
   - "cadastro positivo"
   - "Lei 12.414/2011"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 385 STJ"
   - "Tema 710 STJ"
   - "credit scoring"
-description: "Lei 12.414/2011 cadastro POSITIVO (adimplemento, distinto dos\nrestritivos CDC 43); LC 166/2019 INVERTEU para OPT-OUT (cadastro\nautomático com exclusão em 2 dias úteis); ANPD + LGPD; STJ Súm. 550 +\nTema 710 (credit scoring lícito); notificação prévia pelo órgão\nmantenedor (Súm. 359; AR dispensável: Súm. 404 + Tema 59; legitimidade\npassiva do mantenedor: Temas 37/38); Súm. 385 + Tema 922 (preexistência\nde inscrição legítima afasta dano moral); Lei 14.181/2021\nsuperendividamento."
+description: "Usar para pesquisar ou analisar: Cadastro Positivo (Lei 12.414/2011 + LC 166/2019 + Tema 922 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cadastro Positivo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 12.414/2011
 

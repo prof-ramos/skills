@@ -5,8 +5,8 @@ title: "Canal de Denúncias e Investigação Interna"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/compliance-integridade/canal-denuncias-investigacao-interna.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/canal-denuncias-investigacao-interna/SKILL.md"
 triggers:
   - "canal de denúncias"
   - "whistleblowing"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 14.457"
   - "sigilo do denunciante"
   - "Diretiva UE Whistleblower"
-description: "Canal de denúncias e investigação interna sob Lei 12.846 +\nDecreto 11.129/22 + Lei 14.457/22 (Programa Emprega + Mulher\ne canal de assédio): governança (terceirização, anonimato,\nsigilo, não-retaliação), procedimento de triagem e investigação\n(preservação de evidências, privilege EAOAB 7 II, direito do\ninvestigado), reporting ao board, integração com auditoria,\nANPD (LGPD) e Diretiva UE Whistleblower 2019/1937."
+description: "Usar para pesquisar ou analisar: Canal de Denúncias e Investigação Interna. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Canal de Denúncias e Investigação Interna
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

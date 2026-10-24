@@ -5,8 +5,8 @@ title: "Procedimentos Especiais (CPC 539-770) + Locação (Lei 8.245/91)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/procedimentos-especiais/procedimentos-especiais-cpc.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/procedimentos-especiais-cpc/SKILL.md"
 triggers:
   - "consignação em pagamento"
   - "ações possessórias"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 84 STJ"
   - "jurisdição voluntária"
   - "notificação e interpelação"
-description: "Procedimentos especiais sob o CPC 539-770 e leis correlatas: consignação\nem pagamento, ações possessórias, exigir contas e dissolução parcial\nde sociedade; inventário, embargos de terceiro, oposição e habilitação;\nações de família e monitória; jurisdição voluntária (CPC 719-730:\nequidade, notificação/interpelação e alienação judicial); despejo,\nrenovatória e revisional na Lei 8.245/91."
+description: "Usar para pesquisar ou analisar: Procedimentos Especiais (CPC 539-770) + Locação (Lei 8.245/91). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Procedimentos Especiais + Locação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

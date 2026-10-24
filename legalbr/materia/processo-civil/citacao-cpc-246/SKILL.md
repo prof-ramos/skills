@@ -5,8 +5,8 @@ title: "Citação (CPC 246-259 + Lei 14.195/2021)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/citacao-cpc-246.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/citacao-cpc-246/SKILL.md"
 triggers:
   - "modalidades de citação"
   - "CPC 246"
@@ -19,10 +19,15 @@ triggers:
   - "CPC 344"
   - "querela nullitatis"
   - "Tema 1.338 STJ"
-description: "Citação sob CPC 246-259 + Lei 14.195/2021: citação preferencialmente\neletrônica (caput; incisos I-V revogados); confirmação em 3 dias\núteis (§1-A) sob pena de citação subsidiária + multa de até 5%\n(§1-C); Domicílio Judicial Eletrônico do CNJ; citação por hora\ncerta (252-254) e edital (256-257 + Tema 1.338 STJ: esgotamento\nrazoável, ofícios não obrigatórios); contagem de prazos (CPC 231);\nnulidade da citação sanada pelo comparecimento espontâneo."
+description: "Usar para pesquisar ou analisar: Citação (CPC 246-259 + Lei 14.195/2021). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Citação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Conceito (CPC 238)
 

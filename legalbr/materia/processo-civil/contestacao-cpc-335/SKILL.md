@@ -5,8 +5,8 @@ title: "Contestação e Preliminares (CPC 335-342)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/contestacao-cpc-335.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/contestacao-cpc-335/SKILL.md"
 triggers:
   - "prazo para contestar"
   - "CPC 335"
@@ -19,10 +19,15 @@ triggers:
   - "principio da eventualidade"
   - "impugnacao especificada"
   - "CPC 343"
-description: "Contestação (CPC 335-342): prazo 15 dias (CPC 335); concentração\nda defesa (CPC 336); preliminares taxativas (CPC 337); impugnação\nespecífica dos fatos (CPC 341, presume verdadeiro o não impugnado);\ndefesa direta e indireta; alegação de prescrição/decadência;\nreconvenção (CPC 343)."
+description: "Usar para pesquisar ou analisar: Contestação e Preliminares (CPC 335-342). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contestação e Preliminares
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 335, PRAZO
 

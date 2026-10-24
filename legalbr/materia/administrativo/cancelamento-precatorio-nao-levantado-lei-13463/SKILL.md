@@ -6,7 +6,7 @@ category: "materia"
 materia: "administrativo"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/administrativo/execucao-fazenda-precatorios/cancelamento-precatorio-nao-levantado-lei-13463.md"
+sourcePath: "legalbr/materia/administrativo/cancelamento-precatorio-nao-levantado-lei-13463/SKILL.md"
 triggers:
   - "Lei 13.463"
   - "cancelamento de precatório"
@@ -18,10 +18,15 @@ triggers:
   - "Tema 1.217 STJ"
   - "ADI 5.755"
   - "prescrição da reexpedição"
-description: "Cancelamento de precatórios e RPVs federais não levantados em 2 anos (Lei\n13.463/2017 art. 2º, declarado inconstitucional na ADI 5.755, efeitos a partir\nde 06/07/2022), validade dos cancelamentos anteriores (Tema 1.217 STJ),\nreexpedição a requerimento do credor (art. 3º) e prescrição quinquenal com\ntermo inicial na notificação (Tema 1.141 STJ)."
+description: "Usar para pesquisar ou analisar: Cancelamento de Precatório e RPV Não Levantados e Reexpedição (Lei 13.463/2017 + ADI 5.755 + Temas 1.141 e 1.217 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cancelamento de Precatório e RPV Não Levantados e Reexpedição (Lei 13.463/2017)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Regime legal (Lei 13.463/2017)
 

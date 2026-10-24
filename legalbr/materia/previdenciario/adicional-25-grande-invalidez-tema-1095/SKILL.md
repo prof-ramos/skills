@@ -5,8 +5,8 @@ title: "Adicional de 25% Grande Invalidez (Tema 1.095 STF + art. 45 Lei 8.213)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/adicional-25-grande-invalidez-tema-1095.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/adicional-25-grande-invalidez-tema-1095/SKILL.md"
 triggers:
   - "Tema 1.095 STF"
   - "adicional 25% aposentadoria"
@@ -17,10 +17,15 @@ triggers:
   - "Súmula 51 TNU superada"
   - "extensão adicional outras aposentadorias"
   - "assistência permanente terceiro"
-description: "Tema 1.095 STF (RE 1.221.446, 21/06/2021): no RGPS, somente\nLEI pode criar benefícios. Adicional de 25% (art. 45 Lei\n8.213/91) NÃO se estende a outras aposentadorias além da\npor INVALIDEZ (incapacidade permanente). Súm. 51 TNU\nSUPERADA. Modulação: efeitos prospectivos, ressalvados\npagamentos já realizados de boa-fé e coisa julgada. CF 195\n§5 (regra da contrapartida)."
+description: "Usar para pesquisar ou analisar: Adicional de 25% Grande Invalidez (Tema 1.095 STF + art. 45 Lei 8.213). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Adicional de 25% para Grande Invalidez
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

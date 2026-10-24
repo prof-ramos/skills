@@ -5,8 +5,8 @@ title: "Contratos de Licenciamento de Software e SaaS"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/contrato-licenciamento-software-saas.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/contrato-licenciamento-software-saas/SKILL.md"
 triggers:
   - "licenciamento de software"
   - "SaaS"
@@ -16,10 +16,15 @@ triggers:
   - "PaaS IaaS"
   - "acordo de nível de serviço"
   - "software escrow"
-description: "Contratos de licenciamento de software (Lei 9.609/98 + 9.610/98)\ne SaaS/PaaS/IaaS: licença × cessão, escopo (named users +\nconcurrent users + processador), updates + upgrades + suporte,\nSLA + penalidades, dados em nuvem (LGPD + transferência\ninternacional), IP indemnity, source code escrow, audit rights,\nopen source compliance, termination + transition + suspension\ne tributação (ISS LC 116 + reforma EC 132)."
+description: "Usar para pesquisar ou analisar: Contratos de Licenciamento de Software e SaaS. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Licenciamento de Software e SaaS
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

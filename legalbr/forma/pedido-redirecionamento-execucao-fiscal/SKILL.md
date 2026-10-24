@@ -5,8 +5,8 @@ title: "Pedido de Redirecionamento da Execução Fiscal"
 category: "forma"
 materia: null
 documentType: "pedido-redirecionamento-execucao-fiscal"
-version: 1
-sourcePath: "lib/skills/official/forma/pedido-redirecionamento-execucao-fiscal.md"
+version: 2
+sourcePath: "legalbr/forma/pedido-redirecionamento-execucao-fiscal/SKILL.md"
 triggers:
   - "redirecionamento execução fiscal"
   - "CTN 135"
@@ -17,10 +17,15 @@ triggers:
   - "IDPJ execução fiscal"
   - "Tema 981 STJ"
   - "Tema 1.209 STJ"
-description: "Pedido de redirecionamento de execução fiscal contra sócio-administrador\n(CTN 135 + Súm. 435 STJ): hipóteses (dissolução irregular,\nresponsabilidade pessoal por excesso de poder ou infração de lei/contrato);\nTema 981 STJ (sócio da época da dissolução); Tema 962 STJ (sócio que se\nretirou regularmente não responde); Tema 1.209 STJ (IDPJ em execução\nfiscal: afetado, julgamento pendente); prazo de redirecionamento (Tema\n444 STJ: 5 anos da citação da PJ ou do ato de dissolução)."
+description: "Usar para redigir ou revisar: Pedido de Redirecionamento da Execução Fiscal. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Pedido de Redirecionamento da Execução Fiscal
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

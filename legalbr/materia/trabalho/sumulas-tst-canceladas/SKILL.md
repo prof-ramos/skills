@@ -5,8 +5,8 @@ title: "Súmulas TST Canceladas/Revisadas pós-Reforma"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/sumulas-tst-canceladas.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/sumulas-tst-canceladas/SKILL.md"
 triggers:
   - "súmulas TST canceladas"
   - "Reforma Trabalhista"
@@ -16,10 +16,15 @@ triggers:
   - "cancelamento de súmulas TST"
   - "ADPF 323 ultratividade"
   - "negociado sobre o legislado"
-description: "Súmulas e OJs do TST canceladas ou revisadas após a Reforma\nTrabalhista (Lei 13.467/17) e a jurisprudência do STF: impacto\nda Resolução TST 225/2025; fim da ultratividade das normas\ncoletivas e prevalência do negociado sobre o legislado; revisões\nem horas in itinere, prescrição, honorários, terceirização e\nequiparação salarial."
+description: "Usar para pesquisar ou analisar: Súmulas TST Canceladas/Revisadas pós-Reforma. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmulas TST Canceladas/Revisadas pós-Reforma
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco regulatório
 

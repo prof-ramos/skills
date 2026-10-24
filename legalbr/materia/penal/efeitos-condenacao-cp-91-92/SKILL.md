@@ -6,7 +6,7 @@ category: "materia"
 materia: "penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/penal/parte-geral/efeitos-condenacao-cp-91-92.md"
+sourcePath: "legalbr/materia/penal/efeitos-condenacao-cp-91-92/SKILL.md"
 triggers:
   - "efeitos da condenação"
   - "CP 91"
@@ -20,10 +20,15 @@ triggers:
   - "patrimônio incompatível"
   - "perda do cargo motivação"
   - "CP 92 §2 crimes ECA"
-description: "Efeitos da condenação dos arts. 91, 91-A e 92 do CP: reparação,\nperdimento, confisco alargado e efeitos específicos, inclusive os\nautomáticos do §2º para os crimes do ECA enumerados pela Lei 15.487/2026."
+description: "Usar para pesquisar ou analisar: Efeitos da Condenação (CP 91-92 + 91-A confisco alargado). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Efeitos da Condenação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

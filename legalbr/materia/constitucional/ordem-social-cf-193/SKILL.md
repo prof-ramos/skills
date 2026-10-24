@@ -5,8 +5,8 @@ title: "Ordem Social (CF 193-232): Seguridade + Saúde + Educação + Família"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/ordem-social-cf-193.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/ordem-social-cf-193/SKILL.md"
 triggers:
   - "ordem social"
   - "CF 193"
@@ -17,10 +17,15 @@ triggers:
   - "FUNDEB"
   - "marco temporal indígena"
   - "Estatuto da Pessoa Idosa"
-description: "Ordem social sob a CF/88 (arts. 193-232): seguridade social tripartite: saúde\n(SUS), previdência (RGPS/RPPS pós EC 103/2019) e assistência social (LOAS, BPC);\neducação e suas vinculações orçamentárias (art. 212 e FUNDEB); cultura, esporte,\nCT&I e comunicação social; meio ambiente (art. 225); família, criança/\nadolescente, idoso, indígenas e quilombolas."
+description: "Usar para pesquisar ou analisar: Ordem Social (CF 193-232): Seguridade + Saúde + Educação + Família. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ordem Social (CF 193-232)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

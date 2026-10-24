@@ -5,8 +5,8 @@ title: "Coisa Julgada Tributária e Decisões do STF (Temas 881 e 885)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/sentenca-coisa-julgada/coisa-julgada-tributaria-processo-civil-temas-881-885.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/coisa-julgada-tributaria-processo-civil-temas-881-885/SKILL.md"
 triggers:
   - "Tema 881 STF"
   - "Tema 885 STF"
@@ -18,10 +18,15 @@ triggers:
   - "rescisória tributária"
   - "Lei 6.830 art. 38"
   - "tributo continuado"
-description: "Tema 881 STF (RE 949.297) + Tema 885 STF (RE 955.227, ambos\n08/02/2023): a coisa julgada em RELAÇÕES JURÍDICAS DE TRATO\nCONTINUADO (ex.: tributos periódicos) CESSA AUTOMATICAMENTE\ncom a superveniência de decisão do STF em sentido contrário\n(controle concentrado OU difuso com RG), respeitada a\nanterioridade nonagesimal/anual. Sem necessidade de\nrescisória. Modulação preserva fatos passados."
+description: "Usar para pesquisar ou analisar: Coisa Julgada Tributária e Decisões do STF (Temas 881 e 885). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Coisa Julgada Tributária em Trato Continuado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

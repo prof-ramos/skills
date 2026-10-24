@@ -5,8 +5,8 @@ title: "Tutela Cautelar Antecedente"
 category: "forma"
 materia: null
 documentType: "tutela-cautelar-antecedente"
-version: 1
-sourcePath: "lib/skills/official/forma/tutela-cautelar-antecedente.md"
+version: 2
+sourcePath: "legalbr/forma/tutela-cautelar-antecedente/SKILL.md"
 triggers:
   - "tutela cautelar requerida em caráter antecedente"
   - "arts. 305 a 310 CPC"
@@ -15,10 +15,15 @@ triggers:
   - "protesto contra alienação de bens"
   - "aditamento e formulação do pedido principal em 30 dias art. 308"
   - "fumus boni iuris e periculum in mora"
-description: "Tutela cautelar antecedente sob o CPC/15 (arts. 305-310): natureza\nassecuratória e não satisfativa; requisitos do fumus boni iuris e\npericulum in mora; inicial sumária; contestação em 5 dias;\naditamento do pedido principal em 30 dias da efetivação; hipóteses\nde cessação e fungibilidade com a antecipada."
+description: "Usar para redigir ou revisar: Tutela Cautelar Antecedente. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tutela Cautelar Antecedente
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e localização
 

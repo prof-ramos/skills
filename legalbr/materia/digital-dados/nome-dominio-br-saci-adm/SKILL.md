@@ -6,7 +6,7 @@ category: "materia"
 materia: "digital-dados"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/digital-dados/nome-dominio-br-saci-adm.md"
+sourcePath: "legalbr/materia/digital-dados/nome-dominio-br-saci-adm/SKILL.md"
 triggers:
   - "nome de domínio"
   - "registro de domínio .br"
@@ -18,10 +18,15 @@ triggers:
   - "conflito marca e domínio"
   - "pirataria de domínio"
   - "transferência de domínio"
-description: "Conflitos de nomes de domínio .br: princípio first come, first served (Res.\nCGI.br 008/2008), atenuação por má-fé comprovada (REsp 658.789 e 1.571.241),\ncritérios de violação de marca (LPI 129 e 195; REsp 1.466.212) e procedimento\nSACI-Adm (cancelamento/transferência, prazo de 15 dias úteis)."
+description: "Usar para pesquisar ou analisar: Nomes de Domínio .br: SACI-Adm, Marca x Domínio e Cybersquatting. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Nomes de Domínio .br: SACI-Adm, Marca x Domínio e Cybersquatting
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

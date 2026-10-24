@@ -5,8 +5,8 @@ title: "Direito Internacional Privado (LINDB + CPC 21-25 + Homologação STJ)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/direito-internacional-privado.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/direito-internacional-privado/SKILL.md"
 triggers:
   - "direito internacional privado"
   - "LINDB"
@@ -18,10 +18,15 @@ triggers:
   - "apostilamento"
   - "sequestro internacional"
   - "Convenção da Haia 1980"
-description: "Direito internacional privado sob LINDB arts. 7-19 + CPC 21-25 e 960-965:\nelementos de conexão (lei do domicílio, lex rei sitae, lex loci celebrationis,\nlei do último domicílio do falecido); jurisdição concorrente e exclusiva (CPC 23);\nhomologação de sentença estrangeira pelo STJ e apostilamento; cooperação,\nsequestro internacional (Haia 1980), transporte aéreo internacional (Temas\n210, 1.240 e 1.366 STF) e arbitragem internacional."
+description: "Usar para pesquisar ou analisar: Direito Internacional Privado (LINDB + CPC 21-25 + Homologação STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direito Internacional Privado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

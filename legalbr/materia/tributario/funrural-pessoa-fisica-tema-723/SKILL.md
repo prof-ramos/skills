@@ -5,8 +5,8 @@ title: "Funrural Empregador Rural Pessoa Física (RE 718.874 + Tema 723 STF)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/funrural-pessoa-fisica-tema-723.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/funrural-pessoa-fisica-tema-723/SKILL.md"
 triggers:
   - "RE 718.874"
   - "Tema 723"
@@ -19,10 +19,15 @@ triggers:
   - "sub-rogação"
   - "segurado especial"
   - "Tema 669"
-description: "RE 718.874 (Min. Alexandre, 29/03/2017, ED 23/02/2018):\nconstitucional a contribuição do empregador rural pessoa física\n(Lei 10.256/2001 + EC 20/98). Tema 723 (RE 761.263, 22/05/2020):\nconstitucional a contribuição do segurado especial (art. 25 Lei\n8.212). Sem modulação. Tema 669: imunidade preservada na exportação."
+description: "Usar para pesquisar ou analisar: Funrural Empregador Rural Pessoa Física (RE 718.874 + Tema 723 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Funrural Empregador Rural PF (RE 718.874 + Tema 723 STF)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Acórdãos paradigmas
 

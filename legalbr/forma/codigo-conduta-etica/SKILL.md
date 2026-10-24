@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "codigo-conduta-etica"
 version: 2
-sourcePath: "lib/skills/official/forma/codigo-conduta-etica.md"
+sourcePath: "legalbr/forma/codigo-conduta-etica/SKILL.md"
 triggers:
   - "código de conduta"
   - "código de ética"
@@ -16,10 +16,15 @@ triggers:
   - "Decreto 11.129/22 art. 56 III"
   - "canal de denúncias e medidas disciplinares"
   - "código de conduta anticorrupção Lei 12.846/13"
-description: "Código de conduta e ética: documento norteador de comportamento de\nempregados, administradores e terceiros. Pilar de programa de\nintegridade (Lei 12.846/13 + Dec. 11.129/22 art. 56 III) e exigido\nem cia. aberta listada (RCVM 80 + segmentos B3). Diferencia-se de\npolíticas operacionais por seu caráter principiológico."
+description: "Usar para redigir ou revisar: Código de Conduta e Ética. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Código de Conduta e Ética
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Natureza
 

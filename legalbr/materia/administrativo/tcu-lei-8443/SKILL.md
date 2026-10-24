@@ -5,8 +5,8 @@ title: "Tribunal de Contas da União (TCU) (Lei 8.443/1992 + CF 70-75)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/controle-orgaos-prerrogativas/tcu-lei-8443.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/tcu-lei-8443/SKILL.md"
 triggers:
   - "TCU"
   - "Lei 8.443/1992"
@@ -20,10 +20,17 @@ triggers:
   - "tomada de contas"
   - "julgamento de contas"
   - "Súm. 347 STF"
-description: "TCU (CF 70-75 + Lei 8.443/92): controle externo da União; auxilia\nCongresso; competências (CF 71): aprecia contas Presidente,\njulga contas administradores, registra atos de pessoal,\nfiscaliza contratos; natureza administrativa + autonomia;\nsanções (multa + débito + inidoneidade até 5 anos + inabilitação\naté 8 anos); contraditório obrigatório."
+description: "Usar para pesquisar ou analisar: Tribunal de Contas da União (TCU) (Lei 8.443/1992 + CF 70-75). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: ["https://www.planalto.gov.br/ccivil_03/leis/l8443.htm", "https://portal.tcu.gov.br/carta-de-servicos/servicos-de-apoio-ao-cidadao/denuncia-e-representacao"]
+reviewedAt: "2026-10-21"
+reviewScope: "Complemento pontual de procedimento de controle social; demais tópicos não validados"
 ---
 
 # Tribunal de Contas da União (TCU)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 
@@ -192,3 +199,13 @@ description: "TCU (CF 70-75 + Lei 8.443/92): controle externo da União; auxilia
 - Não admitir cautelar do TCU (admissível);
 - Confundir TCE com PAD;
 - Não aplicar LINDB (arts. 20-26) nas decisões do TCU.
+
+## Alerta de atualização — EC 136/2025
+
+Este arquivo contém referências à EC 113/2021 e não foi revisto integralmente quanto à EC 136/2025. Antes de calcular ou afirmar regra atual, consultar [o controle de consistência](../../../references/consistencia.md), distinguindo ente, natureza do crédito, período e fase. A ausência de atualização não autoriza substituição automática de índices.
+
+## Denúncia: Lei 8.443/1992, arts. 53–55
+
+Qualquer cidadão, partido político, associação ou sindicato pode denunciar irregularidade sob competência do TCU. Examinar identificação, qualificação, endereço e indícios, bem como os arts. 234–236 do Regimento vigente. Denúncia formal não equivale a comunicação anônima à ouvidoria. Distinguir proteção da identidade, sigilo da apuração e publicidade dos atos; o art. 55, § 1º, contém expressão suspensa pela Resolução do Senado 16/2006. Não copiar esse trecho suspenso como autorização vigente.
+
+Usar o modelo [denúncia ao TCU](../../../forma/denuncia-tcu/SKILL.md). A EC 136/2025 não altera automaticamente os requisitos dos arts. 53–55: sua relevância depende do objeto fiscalizado.

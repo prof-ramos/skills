@@ -5,8 +5,8 @@ title: "Repercussão Geral + Súmula Vinculante + Reclamação + Modulação + M
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/repercussao-geral-sumula-vinculante.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/repercussao-geral-sumula-vinculante/SKILL.md"
 triggers:
   - "reclamação constitucional"
   - "CPC 988"
@@ -19,10 +19,15 @@ triggers:
   - "sobrestamento nacional"
   - "reclamação por descumprimento de súmula vinculante"
   - "revisão ou cancelamento de súmula vinculante"
-description: "Repercussão geral, súmula vinculante, reclamação, modulação e mutação\nconstitucional sob a CF (102 §3; 103-A) e CPC (988-993; 1.035-1.041): requisito\ne procedimento da RG com sobrestamento nacional; aprovação, alcance e revisão\nda SV; hipóteses e limites da reclamação; modulação do art. 27 da Lei 9.868/99;\nmutação constitucional como alteração de sentido sem mudança de texto."
+description: "Usar para pesquisar ou analisar: Repercussão Geral + Súmula Vinculante + Reclamação + Modulação + Mutação. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Repercussão Geral + Súmula Vinculante + Reclamação + Modulação + Mutação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

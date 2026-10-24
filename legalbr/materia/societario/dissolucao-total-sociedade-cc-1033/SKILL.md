@@ -5,8 +5,8 @@ title: "Dissolução Total + Liquidação de Sociedades (CC 1.033-1.038)"
 category: "materia"
 materia: "societario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/societario/dissolucao-total-sociedade-cc-1033.md"
+version: 2
+sourcePath: "legalbr/materia/societario/dissolucao-total-sociedade-cc-1033/SKILL.md"
 triggers:
   - "dissolução total"
   - "CC 1.033"
@@ -18,10 +18,15 @@ triggers:
   - "extinção sociedade"
   - "cancelamento CNPJ"
   - "partilha do remanescente"
-description: "Dissolução total + liquidação (CC 1.033-1.038): causas extintivas\n(prazo + consenso + maioria absoluta + extinção de autorização; o\ninciso IV, falta de pluralidade em 180 dias, foi REVOGADO pela Lei\n14.195/2021, dada a unipessoalidade permanente do CC 1.052 §1);\nfase liquidatória (CC 1.036-1.038) com nomeação de liquidante,\nrealização de ativo, pagamento de passivo, partilha do remanescente;\nato dissolutório × extinção formal: STJ exige liquidação + baixa\npara extinção plena; sociedade dissolvida tem **personalidade\nreduzida** (para liquidar). Aplicação a LTDA + S.A. (LSA 206-218),\ncooperativas (5.764 art. 63), sociedade simples e empresário\nindividual (CC 1.044 + 1.046 → 1.033)."
+description: "Usar para pesquisar ou analisar: Dissolução Total + Liquidação de Sociedades (CC 1.033-1.038). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Dissolução Total + Liquidação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

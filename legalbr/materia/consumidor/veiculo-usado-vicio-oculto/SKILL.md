@@ -5,8 +5,8 @@ title: "Veículo Usado com Vício Oculto e Obrigações Pós-Venda (CDC 18 + 26 
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/relacao-de-consumo-fundamentos/veiculo-usado-vicio-oculto.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/veiculo-usado-vicio-oculto/SKILL.md"
 triggers:
   - "veículo usado"
   - "carro usado com defeito"
@@ -20,10 +20,15 @@ triggers:
   - "comunicação de venda"
   - "multas após a venda"
   - "Súm. 132 STJ"
-description: "Vício oculto em veículo usado e obrigações pós-venda: revenda x venda entre\nparticulares (CDC 18 + 26 §3 critério da vida útil x CC 441-446); hodômetro\nadulterado, omissão de sinistro/leilão e cláusula \"no estado em que se\nencontra\"; obrigação de transferência (CTB 123 §1), comunicação de venda\n(CTB 134), multas e IPVA pós-venda (Súm. 585 STJ) e responsabilidade por\nacidente (Súm. 132 STJ)."
+description: "Usar para pesquisar ou analisar: Veículo Usado com Vício Oculto e Obrigações Pós-Venda (CDC 18 + 26 §3 + CC 441 + Súm. 132 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Veículo Usado com Vício Oculto e Obrigações Pós-Venda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Dois eixos: (1) o vício do veículo usado, com regime distinto conforme o vendedor seja fornecedor (revenda, garagem, concessionária de seminovos) ou particular; (2) as obrigações pós-venda de transferência e os débitos posteriores à alienação. Não confundir com o regime do zero km (cadeia montadora, skill própria).
 

@@ -5,8 +5,8 @@ title: "Incidente de Deslocamento de Competência (IDC)"
 category: "forma"
 materia: null
 documentType: "idc"
-version: 1
-sourcePath: "lib/skills/official/forma/federalizacao-graves-violacoes-dh.md"
+version: 2
+sourcePath: "legalbr/forma/federalizacao-graves-violacoes-dh/SKILL.md"
 triggers:
   - "federalização"
   - "IDC"
@@ -18,10 +18,15 @@ triggers:
   - "incidente de deslocamento de competência"
   - "tratados internacionais DH"
   - "caso Manoel Mattos"
-description: "Incidente de Deslocamento de Competência (CF 109 V-A + §5; introduzido\npela EC 45/2004; declarado constitucional pelo STF nas ADIs 3.486 e\n3.493 em 12/09/2023). Legitimidade exclusiva do PGR. Competência STJ\n(3ª Seção). Requisitos cumulativos: (i) grave violação de direitos\nhumanos previsto em tratado internacional; (ii) risco de\nresponsabilização internacional; (iii) incapacidade ou inércia das\ninstâncias locais. Casos paradigmáticos: Dorothy Stang (IDC 1,\nindeferido), Manoel Mattos (IDC 2, deferido), Marielle Franco (IDC 24,\nindeferido). Procedimento sem regulamentação infraconstitucional\nespecífica."
+description: "Usar para redigir ou revisar: Incidente de Deslocamento de Competência (IDC). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Incidente de Deslocamento de Competência (IDC)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

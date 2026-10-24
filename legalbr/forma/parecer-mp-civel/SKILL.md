@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "parecer-mp-civel"
 version: 2
-sourcePath: "lib/skills/official/forma/parecer-mp-civel.md"
+sourcePath: "legalbr/forma/parecer-mp-civel/SKILL.md"
 triggers:
   - "parecer do MP cível"
   - "MP como custos legis fiscal da ordem jurídica"
@@ -15,10 +15,15 @@ triggers:
   - "parecer do MP em causa de interesse de incapaz"
   - "intervenção do MP por interesse público ou social"
   - "parecer do MP em litígio coletivo pela posse de terra"
-description: "Parecer do MP como fiscal da ordem jurídica (CF 127 §1º; CPC 176 a\n181): hipóteses do art. 178 (interesse público ou social, incapazes,\nlitígios coletivos por terras) e leis específicas (ACP, MS, ação\npopular, improbidade, fundações, registros, família com incapaz).\nConteúdo: relatório, cabimento, análise técnica e POSICIONAMENTO\nCONCLUSIVO. Parecer neutro não é admitido."
+description: "Usar para redigir ou revisar: Parecer MP Cível (Custos Legis). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parecer MP Cível (Custos Legis)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e atribuição
 

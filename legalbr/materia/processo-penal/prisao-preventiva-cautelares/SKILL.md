@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-penal"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-penal/prisoes-medidas-cautelares/prisao-preventiva-cautelares.md"
+sourcePath: "legalbr/materia/processo-penal/prisao-preventiva-cautelares/SKILL.md"
 triggers:
   - "prisão preventiva"
   - "CPP 312"
@@ -19,10 +19,15 @@ triggers:
   - "decretação ex officio vedada"
   - "monitoramento eletrônico"
   - "CPP 313 VI violência sexual infantil"
-description: "Prisão preventiva e cautelares dos arts. 282 e 311-320 do CPP:\nrequisitos, cabimento, fundamentação, revisão em 90 dias, medidas\nalternativas e hipóteses especiais dos incisos V e VI do art. 313."
+description: "Usar para pesquisar ou analisar: Prisão Preventiva + Medidas Cautelares (CPP 282, 311-316, 319). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prisão Preventiva + Cautelares
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Princípios
 

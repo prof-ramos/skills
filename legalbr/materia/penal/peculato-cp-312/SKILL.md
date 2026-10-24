@@ -5,8 +5,8 @@ title: "Peculato (CP 312 + CP 313 + CP 313-A/B + CP 327)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/peculato-cp-312.md"
+version: 2
+sourcePath: "legalbr/materia/penal/peculato-cp-312/SKILL.md"
 triggers:
   - "peculato"
   - "CP 312"
@@ -19,10 +19,15 @@ triggers:
   - "peculato culposo"
   - "Súm. 599 STJ"
   - "funcionário público por equiparação"
-description: "Peculato sob CP 312 + CP 313 + CP 327: apropriação + desvio (recl.\n2-12); peculato-furto (§1); peculato culposo (§2, det. 3m-1a)\ncom extinção pela reparação antes do trânsito (§3); CP 313\nestelionato; CP 313-A/B (Lei 9.983/2000, inserção de dados);\nCP 327 §1 equiparados + §2 aumento 1/3 chefia; Súm. 599 (sem\ninsignificância em peculato)."
+description: "Usar para pesquisar ou analisar: Peculato (CP 312 + CP 313 + CP 313-A/B + CP 327). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Peculato
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CP 312: núcleos típicos
 

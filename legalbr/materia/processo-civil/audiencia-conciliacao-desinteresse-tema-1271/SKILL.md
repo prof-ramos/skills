@@ -5,8 +5,8 @@ title: "Audiência de Conciliação + Desinteresse Unilateral (Tema 1.271 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/audiencia-conciliacao-desinteresse-tema-1271.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/audiencia-conciliacao-desinteresse-tema-1271/SKILL.md"
 triggers:
   - "Tema 1.271 STJ"
   - "CPC 334 audiência conciliação obrigatória"
@@ -16,10 +16,15 @@ triggers:
   - "desinteresse unilateral na conciliação"
   - "dispensa fundamentada da audiência"
   - "REsp 2.071.340-MG"
-description: "Tema 1.271 STJ (REsp 2.071.340-MG, Corte Especial, Rel. Min.\nMaria Isabel Gallotti) AINDA EM JULGAMENTO, SEM tese fixada até\n07/2026: definirá os efeitos da ausência da audiência do CPC 334\nquando apenas UMA das partes manifesta desinteresse. Regra legal\nvigente: dispensa exige desinteresse de AMBAS (§4 I). Quanto à\nnulidade, a jurisprudência exige PREJUÍZO concreto (pas de\nnullité sans grief, CPC 282 §1)."
+description: "Usar para pesquisar ou analisar: Audiência de Conciliação + Desinteresse Unilateral (Tema 1.271 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Audiência de Conciliação + Desinteresse Unilateral (Tema 1.271 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## STATUS: Tema 1.271 STJ EM JULGAMENTO (sem tese fixada)
 

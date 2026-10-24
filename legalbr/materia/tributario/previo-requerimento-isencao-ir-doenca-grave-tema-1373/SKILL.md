@@ -5,8 +5,8 @@ title: "Prévio Requerimento Administrativo para Isenção IRPF Doença Grave (T
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/previo-requerimento-isencao-ir-doenca-grave-tema-1373.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/previo-requerimento-isencao-ir-doenca-grave-tema-1373/SKILL.md"
 triggers:
   - "Tema 1.373 STF"
   - "prévio requerimento isenção IR"
@@ -18,10 +18,15 @@ triggers:
   - "aposentado isento doença grave"
   - "repetição indébito IR"
   - "isenção IR neoplasia maligna"
-description: "Tema 1.373 STF (RE 1.525.407, 2025, RG reconhecida e mérito\njulgado): o ajuizamento de ação para o reconhecimento de\nisenção de IRPF por doença grave (Lei 7.713/88 art. 6 XIV) e\npara a repetição do indébito tributário NÃO exige prévio\nrequerimento administrativo. O Tema 350 STF (RE 631.240)\nrefere-se a benefício previdenciário (INSS), hipótese distinta."
+description: "Usar para pesquisar ou analisar: Prévio Requerimento Administrativo para Isenção IRPF Doença Grave (Tema 1.373 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Prévio Requerimento Administrativo para Isenção IRPF (Doença Grave)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

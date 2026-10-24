@@ -5,8 +5,8 @@ title: "Honorários por Equidade em Causas Privadas"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/honorarios-custas-gratuidade/honorarios-equidade-particulares-tema-1402.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/honorarios-equidade-particulares-tema-1402/SKILL.md"
 triggers:
   - "honorários equidade"
   - "Tema 1.402 STF"
@@ -19,10 +19,15 @@ triggers:
   - "honorários proveito econômico"
   - "ARE 1.503.603"
   - "honorários CPC"
-description: "Tema 1.402 STF (ARE 1.503.603, 31/05/2025): INEXISTE RG sobre\nequidade em causas SEM Fazenda. Prevalece Tema 1.076 STJ: em\ncausas entre particulares, vedada equidade quando há valor da\ncausa/condenação/proveito econômico definidos; obrigatórios os\npercentuais escalonados do art. 85 §2 CPC (10-20%). Equidade\n(§8) só em causa inestimável/irrisória. Causas com Fazenda\npermanecem regidas pelo §3 + Tema 1.255 STF (pendente)."
+description: "Usar para pesquisar ou analisar: Honorários por Equidade em Causas Privadas. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Honorários por Equidade em Causas Privadas: Tema 1.402 STF + Tema 1.076 STJ
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

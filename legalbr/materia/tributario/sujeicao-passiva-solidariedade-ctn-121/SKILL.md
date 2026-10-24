@@ -5,8 +5,8 @@ title: "Sujeição Passiva + Solidariedade (CTN 121-127 + Súm. 614 STJ + intere
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/obrigacao-credito-ctn/sujeicao-passiva-solidariedade-ctn-121.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sujeicao-passiva-solidariedade-ctn-121/SKILL.md"
 triggers:
   - "sujeição passiva tributária"
   - "CTN 121"
@@ -20,10 +20,15 @@ triggers:
   - "solidariedade por interesse comum"
   - "capacidade tributária passiva"
   - "domicílio tributário"
-description: "CTN 121 sujeito passivo: (a) CONTRIBUINTE (relação pessoal e\ndireta com FG) + (b) RESPONSÁVEL (lei vincula); 122 acessória;\n123 convenções particulares INOPONÍVEIS ao Fisco; 124 solidariedade\n(I interesse comum + II legal); §único veda BENEFÍCIO DE ORDEM;\n125 efeitos; Súm. 614 STJ (locatário/cessionário SEM legitimidade\nIPTU); 126 capacidade independe + 127 domicílio; interesse\ncomum (CTN 124 I) exige atuação conjunta no FG (jurisprudência STJ)."
+description: "Usar para pesquisar ou analisar: Sujeição Passiva + Solidariedade (CTN 121-127 + Súm. 614 STJ + interesse comum CTN 124 I). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sujeição Passiva + Solidariedade
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CTN 121: 2 espécies
 

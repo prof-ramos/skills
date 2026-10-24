@@ -5,8 +5,8 @@ title: "Vale-Transporte (Lei 7.418/1985 + Dec. 95.247/1987)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/jornada-remuneracao-verbas/vale-transporte-lei-7418.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/vale-transporte-lei-7418/SKILL.md"
 triggers:
   - "vale-transporte"
   - "Lei 7.418"
@@ -14,10 +14,15 @@ triggers:
   - "Dec. 10.854"
   - "desconto de 6%"
   - "Súm. 460 TST"
-description: "Vale-transporte (Lei 7.418/85 + Dec. 10.854/2021): direito indenizatório\n(não salarial); empregador custeia o transporte coletivo na parte que\nexceder 6% do salário-base do empregado; concessão antecipada;\ninversão do ônus probatório (Súm. 460 TST); pagamento em dinheiro\nexcepcional (Lei 7.418 art. 5 + jurisprudência)."
+description: "Usar para pesquisar ou analisar: Vale-Transporte (Lei 7.418/1985 + Dec. 95.247/1987). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Vale-Transporte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

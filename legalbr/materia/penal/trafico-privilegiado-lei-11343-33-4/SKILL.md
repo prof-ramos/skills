@@ -5,8 +5,8 @@ title: "Tráfico Privilegiado (Lei 11.343/2006 art. 33 §4 + SV 63 + Tema 1.400 
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/trafico-privilegiado-lei-11343-33-4.md"
+version: 2
+sourcePath: "legalbr/materia/penal/trafico-privilegiado-lei-11343-33-4/SKILL.md"
 triggers:
   - "tráfico privilegiado"
   - "Lei 11.343/2006 art. 33 §4"
@@ -19,10 +19,15 @@ triggers:
   - "Súm. 444 STJ"
   - "Tema 506 STF"
   - "40g maconha"
-description: "Tráfico privilegiado sob Lei 11.343/2006 art. 33 §4 (redução 1/6\na 2/3, primário + bons antecedentes + sem dedicação + sem ORCRIM):\nNÃO é hediondo (HC 118.533 STF + SV 63 + Tema 1.400); SV 59 STF\n(regime aberto + PRD impositivos); Tema 1.139 STJ (inquéritos não\nimpedem); Tema 712 STF (quantidade em uma só fase); Tema 1.336 STJ\n(indulto: vedação do Decreto 11.846/2023 não alcança o §4); Tema\n506 STF (maconha 40g uso pessoal descriminalizada)."
+description: "Usar para pesquisar ou analisar: Tráfico Privilegiado (Lei 11.343/2006 art. 33 §4 + SV 63 + Tema 1.400 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tráfico Privilegiado
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco: Lei 11.343/2006
 

@@ -5,8 +5,8 @@ title: "Auxílio-Doença com Alta Programada (Tema 1.196 STF + Lei 13.457)"
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/auxilio-doenca-alta-programada-tema-1196.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/auxilio-doenca-alta-programada-tema-1196/SKILL.md"
 triggers:
   - "Tema 1.196 STF"
   - "alta programada auxílio doença"
@@ -18,10 +18,15 @@ triggers:
   - "pedido prorrogação 15 dias"
   - "120 dias auxílio doença"
   - "art. 60 §§8-11 Lei 8.213"
-description: "Tema 1.196 STF (RE 1.347.526, j. 12/09/2025): CONSTITUCIONAL\na fixação pelo INSS de prazo estimado de duração do\nbenefício por incapacidade temporária (auxílio-doença) com\ncessação automática (alta programada). Lei 13.457/17 (MP\n739/16 + 767/17). Sem prazo: cessação automática em 120\ndias. Pedido de prorrogação (PP) nos 15 dias anteriores\nsuspende cessação. CF 201 + art. 60 §§8-11 Lei 8.213."
+description: "Usar para pesquisar ou analisar: Auxílio-Doença com Alta Programada (Tema 1.196 STF + Lei 13.457). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Auxílio-Doença com Alta Programada (DCB)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

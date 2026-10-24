@@ -5,8 +5,8 @@ title: "Cashback Tributário (CF 156-A §5 VIII + LC 214/2025 arts. 112-124)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/reforma-tributaria/cashback-reforma-cadunico-lc-214.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/cashback-reforma-cadunico-lc-214/SKILL.md"
 triggers:
   - "cashback tributário"
   - "devolução CBS IBS"
@@ -16,10 +16,15 @@ triggers:
   - "baixa renda"
   - "tarifa social"
   - "energia elétrica residencial"
-description: "Cashback CF 156-A §5 VIII + LC 214/2025 arts. 112-124: devolução de\nIBS+CBS a famílias CadÚnico com renda per capita ≤ 1/2 SM; demais\nbens/serviços 20% CBS + 20% IBS; itens essenciais (energia, água,\nesgoto, gás canalizado, GLP até 13kg, telecom) 100% CBS + 20% IBS;\nCBS gerida pela RFB e IBS pelo CG-IBS; natureza jurídica de\nDEVOLUÇÃO TRIBUTÁRIA (não-renda)."
+description: "Usar para pesquisar ou analisar: Cashback Tributário (CF 156-A §5 VIII + LC 214/2025 arts. 112-124). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cashback Tributário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base constitucional + legal
 

@@ -5,8 +5,8 @@ title: "Anistiado Político Militar, Promoções e Efeitos (Lei 10.559 + Tema 60
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/temas-setoriais-diversos/anistiado-politico-militar-promocoes.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/anistiado-politico-militar-promocoes/SKILL.md"
 triggers:
   - "anistiado político militar"
   - "promoção de anistiado"
@@ -19,10 +19,15 @@ triggers:
   - "Portaria 1.104"
   - "Tema 839 STF"
   - "reparação econômica prestação única"
-description: "Promoções e reparação econômica do anistiado político militar (Lei\n10.559/2002 art. 6º): promoções por paradigma, restritas ao quadro de\norigem (Tema 603 STJ + Tema 724 STF); prestação única x mensal\npermanente; revisão de anistias dos cabos da FAB (Tema 839 STF) e\ncumulação com dano moral (Súm. 624 STJ)."
+description: "Usar para pesquisar ou analisar: Anistiado Político Militar, Promoções e Efeitos (Lei 10.559 + Tema 603 STJ + Tema 724 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Anistiado Político Militar: Promoções e Efeitos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Leasing Aeronáutico, Convenção da Cidade do Cabo e IDERA (CBAer + Dec
 category: "materia"
 materia: "empresarial"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/empresarial/leasing-aeronautico-cape-town-cbaer.md"
+version: 2
+sourcePath: "legalbr/materia/empresarial/leasing-aeronautico-cape-town-cbaer/SKILL.md"
 triggers:
   - "leasing aeronáutico"
   - "Convenção da Cidade do Cabo"
@@ -19,10 +19,15 @@ triggers:
   - "retomada de aeronave recuperação judicial"
   - "hipoteca de aeronave"
   - "Registro Aeronáutico Brasileiro"
-description: "Leasing e garantias sobre aeronaves: CBAer (Lei 7.565/1986: RAB,\nmatrícula, hipoteca, arrendamento arts. 127-132), Convenção da Cidade\ndo Cabo + Protocolo Aeronáutico (Decreto 8.008/2013: garantia\ninternacional, IDERA, Alternativa A com espera de 30 dias) e LRF art.\n199 (retomada não suspensa na RJ de aéreas). Tema 274 STJ e RE 461.968\n(ICMS)."
+description: "Usar para pesquisar ou analisar: Leasing Aeronáutico, Convenção da Cidade do Cabo e IDERA (CBAer + Decreto 8.008/2013). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Leasing Aeronáutico e Convenção da Cidade do Cabo
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Criptoativos — Marco Legal Lei 14.478/2022 + BACEN + CVM + RFB"
 category: "materia"
 materia: "digital-dados"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/digital-dados/criptoativos-lei-14478-cvm.md"
+version: 2
+sourcePath: "legalbr/materia/digital-dados/criptoativos-lei-14478-cvm/SKILL.md"
 triggers:
   - "Lei 14.478"
   - "criptoativos"
@@ -19,10 +19,15 @@ triggers:
   - "CVM Parecer 40"
   - "Drex"
   - "DeFi"
-description: "Marco legal dos criptoativos no Brasil: **Lei 14.478/2022** (vigência\n20/06/2023) + **Decreto 11.563/2023** (BACEN regulador) + **Parecer\nCVM 40/2022** (tokens valores mobiliários) + **IN RFB 1.888/2019**\n(tributação). Conceito legal: representação digital de valor\nnegociável + transferível por meios eletrônicos + utilizada para\npagamento ou investimento. **Não cobre**: valores mobiliários (CVM),\ntokens de acesso, moeda fiduciária + e-money. **Sociedades SPSVA**\n(intermediária, custodiante, corretora). **Exigências**: governança,\nPLD-FT, ciber, transparência. Tributação: ganho de capital (IRPF/IRPJ)\n+ Receita Federal exige reporte. Stablecoins: BACEN regula como\nativo virtual. **Drex**: moeda digital do BC em desenvolvimento."
+description: "Usar para pesquisar ou analisar: Criptoativos — Marco Legal Lei 14.478/2022 + BACEN + CVM + RFB. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Criptoativos — Marco Regulatório
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "Contrarrazões de Recurso Especial e Extraordinário"
 category: "forma"
 materia: null
 documentType: "contrarrazoes-resp-re"
-version: 4
-sourcePath: "lib/skills/official/forma/contrarrazoes-resp-re.md"
+version: 2
+sourcePath: "legalbr/forma/contrarrazoes-resp-re/SKILL.md"
 triggers:
   - "contrarrazões recurso especial"
   - "contrarrazões recurso extraordinário"
@@ -22,10 +22,15 @@ triggers:
   - "óbices de admissibilidade nas contrarrazões"
   - "tópico de relevância no REsp"
   - "filtro de relevância art. 1.035-A CPC"
-description: "Contrarrazões a REsp e RE (CPC 1.030 §2º; prazo 15 dias úteis na\norigem). Prioridade defensiva: óbices de admissibilidade (Súm. 5, 7,\n83, 211, 282, 283, 284, 356 STF/STJ) antes do mérito. Pedido escalonado:\n(i) não-conhecimento; (ii) negativa de seguimento por adesão a\nrepercussão geral/repetitivo (CPC 1.030 I-a); (iii) sobrestamento (1.036);\n(iv) desprovimento. Distinção do leading case. Honorários recursais.\nNovo óbice do REsp a partir de 03/09/2026: falta do tópico de\nrelevância ou irrelevância da questão federal (CPC 1.035-A, Lei\n15.484/2026)."
+description: "Usar para redigir ou revisar: Contrarrazões de Recurso Especial e Extraordinário. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrarrazões de Recurso Especial e Extraordinário
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e prazo
 

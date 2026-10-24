@@ -5,8 +5,8 @@ title: "Ação Penal Privada (CPP 30-62 + CP 100)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/acao-penal-competencia/acao-penal-privada-cpp-30.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/acao-penal-privada-cpp-30/SKILL.md"
 triggers:
   - "ação penal privada"
   - "queixa-crime"
@@ -20,10 +20,15 @@ triggers:
   - "representante legal CPP 33"
   - "decadência 12 meses violência doméstica"
   - "Lei 15.438 decadência"
-description: "Ação penal privada CPP 30-62 + CP 100: titularidade do ofendido\n(queixa-crime); decadência 6 meses (CP 103), ampliada para 12\nmeses em violência doméstica contra a mulher (Lei 15.438/2026);\nmodalidades: exclusiva, personalíssima (CP 236), subsidiária da\npública (CF 5 LIX + CPP 29); princípios da oportunidade,\ndisponibilidade, indivisibilidade (CPP 48), intranscendência;\nperempção (CPP 60); renúncia e perdão (CPP 49, 51, 53)."
+description: "Usar para pesquisar ou analisar: Ação Penal Privada (CPP 30-62 + CP 100). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Ação Penal Privada
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Espécies
 

@@ -5,8 +5,8 @@ title: "Razões Finais Trabalhistas (Memoriais)"
 category: "forma"
 materia: null
 documentType: "razoes-finais-trabalhistas"
-version: 1
-sourcePath: "lib/skills/official/forma/razoes-finais-trabalhistas.md"
+version: 2
+sourcePath: "legalbr/forma/razoes-finais-trabalhistas/SKILL.md"
 triggers:
   - "razões finais trabalhistas"
   - "memoriais trabalhistas"
@@ -18,10 +18,15 @@ triggers:
   - "síntese probatória por pedido"
   - "prequestionamento em razões finais"
   - "confissão ficta em razões finais"
-description: "Razões finais trabalhistas (CLT 850): síntese probatória por pedido após a\ninstrução, orais em 10 minutos ou convertidas em memoriais escritos, antes da\n2ª proposta obrigatória de conciliação. Estrutura: confissão ficta (Súm. 74\nTST), ônus da prova (CLT 818), protestos e nulidades (CLT 794-795), fixação\nde teses para a sentença, gratuidade (CLT 790 §§3º-4º), honorários periciais\n(CLT 790-B) e sucumbenciais (CLT 791-A) pós ADI 5766."
+description: "Usar para redigir ou revisar: Razões Finais Trabalhistas (Memoriais). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Razões Finais Trabalhistas (Memoriais)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base e momento (CLT 850)
 

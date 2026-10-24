@@ -5,8 +5,8 @@ title: "Lei 14.230/2021 + Indisponibilidade de Bens em Processos em Curso (Tema 
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/improbidade/lei-14230-indisponibilidade-bens-tema-1257.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/lei-14230-indisponibilidade-bens-tema-1257/SKILL.md"
 triggers:
   - "Tema 1.257 STJ"
   - "Lei 14.230 indisponibilidade bens"
@@ -16,10 +16,15 @@ triggers:
   - "multa civil indisponibilidade"
   - "aplicação imediata Lei 14.230"
   - "reforma indisponibilidade improbidade"
-description: "Tema 1.257 STJ (1ª Seção, j. 06/02/2025): a Lei 14.230/2021 APLICA-SE\naos processos em curso para regular procedimento da tutela\nprovisória de indisponibilidade de bens. As medidas já deferidas\nPODEM ser reapreciadas para adequação à nova redação (Lei 8.429/92\nart. 16). Direito administrativo sancionador (Lei 8.429 art. 1 §4)\natrai aplicação imediata."
+description: "Usar para pesquisar ou analisar: Lei 14.230/2021 + Indisponibilidade de Bens em Processos em Curso (Tema 1.257 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Lei 14.230/2021 + Indisponibilidade de Bens em Processos em Curso (Tema 1.257 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.257 STJ, 1ª Seção, j. 06/02/2025)
 

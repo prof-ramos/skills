@@ -5,8 +5,8 @@ title: "Cláusula de Arbitragem e Mediação (Step Clauses)"
 category: "materia"
 materia: "consultoria"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consultoria/contratos-b2b-disputas/clausula-arbitragem-mediacao-step.md"
+version: 2
+sourcePath: "legalbr/materia/consultoria/clausula-arbitragem-mediacao-step/SKILL.md"
 triggers:
   - "cláusula arbitral"
   - "arbitragem comercial"
@@ -15,10 +15,15 @@ triggers:
   - "step clause"
   - "CCBC CAMARB ICC"
   - "escolha de árbitros"
-description: "Cláusula arbitral e mediação em contratos B2B (Lei 9.307/96 +\n13.129/2015 + 13.140/2015): cláusula compromissória cheia ×\nvazia (CPC 851), step clauses (negociação → mediação →\narbitragem), escolha de câmara (CCBC, CAMARB, AMCHAM, CBMA,\nICC, LCIA), sede, lei aplicável, idioma, número de árbitros,\nconfidencialidade, expedited procedure, emergency arbitrator,\ncarve-outs e tutelas de urgência (art. 22-A)."
+description: "Usar para pesquisar ou analisar: Cláusula de Arbitragem e Mediação (Step Clauses). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Cláusula de Arbitragem e Mediação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

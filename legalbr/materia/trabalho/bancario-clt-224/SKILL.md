@@ -5,8 +5,8 @@ title: "Bancário (CLT 224 a 226)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/bancario-clt-224.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/bancario-clt-224/SKILL.md"
 triggers:
   - "empregado bancário"
   - "jornada do bancário 6 horas"
@@ -18,10 +18,15 @@ triggers:
   - "Súm. 102 TST"
   - "Súm. 109 TST"
   - "Súm. 287 TST"
-description: "Bancário (CLT 224-226): jornada de 6h (30h/semana); 8h para cargo de\nconfiança bancário (224 §2) sem direito a HE pelas 7ª e 8ª; Súm. 102\nTST (caracterização do cargo de confiança); Súm. 109 (gratificação 1/3\nintegra); Súm. 199 (pré-contratação de HE é nula)."
+description: "Usar para pesquisar ou analisar: Bancário (CLT 224 a 226). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Bancário
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

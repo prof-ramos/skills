@@ -5,18 +5,23 @@ title: "Taxatividade Mitigada do Rol do CPC 1.015 (Tema 988 STJ)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/agravo-instrumento-taxatividade-tema-988-stj.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/agravo-instrumento-taxatividade-tema-988-stj/SKILL.md"
 triggers:
   - "Tema 988 STJ"
   - "taxatividade mitigada"
   - "CPC art. 1.015"
   - "rol agravo instrumento"
   - "REsp 1.696.396"
-description: "Tema 988 STJ (REsp 1.696.396, 05/12/2018): o rol do art.\n1.015 CPC é de TAXATIVIDADE MITIGADA. Cabe agravo de\ninstrumento contra decisão interlocutória NÃO listada\nquando houver URGÊNCIA decorrente da inutilidade do\njulgamento da questão no recurso de apelação."
+description: "Usar para pesquisar ou analisar: Taxatividade Mitigada do Rol do CPC 1.015 (Tema 988 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Taxatividade Mitigada do Rol do CPC 1.015
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

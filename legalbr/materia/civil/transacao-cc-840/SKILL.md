@@ -5,8 +5,8 @@ title: "Transação (CC 840-850)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/civil/transacao-cc-840.md"
+version: 2
+sourcePath: "legalbr/materia/civil/transacao-cc-840/SKILL.md"
 triggers:
   - "transação de direitos disponíveis"
   - "termo de transação"
@@ -19,10 +19,15 @@ triggers:
   - "acordo judicial"
   - "acordo extrajudicial"
   - "anulação de transação homologada"
-description: "Transação (CC 840-850): negócio bilateral de concessões recíprocas\npara prevenir/extinguir litígio sobre direitos patrimoniais\ndisponíveis; forma (escritura pública se imóveis); interpretação\nrestritiva (CC 843); efeitos (CC 844, só vincula partes); nulidade\npor dolo/erro/coação; transação judicial × extrajudicial."
+description: "Usar para pesquisar ou analisar: Transação (CC 840-850). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Transação
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CC 840, conceito
 

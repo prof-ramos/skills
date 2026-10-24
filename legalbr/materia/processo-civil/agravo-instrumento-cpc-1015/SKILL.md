@@ -6,7 +6,7 @@ category: "materia"
 materia: "processo-civil"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/processo-civil/recursos/agravo-instrumento-cpc-1015.md"
+sourcePath: "legalbr/materia/processo-civil/agravo-instrumento-cpc-1015/SKILL.md"
 triggers:
   - "agravo de instrumento"
   - "CPC 1.015"
@@ -16,10 +16,15 @@ triggers:
   - "CPC 1.019"
   - "interlocutória agravável"
   - "preclusão diferida"
-description: "Agravo de instrumento sob CPC 1.015-1.020: rol taxativo mitigado\n(STJ Tema 988); cabimento amplo em liquidação, cumprimento,\nexecução e inventário (par. único); prazo 15 dias; efeito suspensivo\ne tutela recursal (CPC 1.019 I); preclusão diferida em apelação\n(CPC 1.009 §1)."
+description: "Usar para pesquisar ou analisar: Agravo de Instrumento (CPC 1.015-1.020). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Agravo de Instrumento
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Cabimento (CPC 1.015)
 

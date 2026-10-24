@@ -5,8 +5,8 @@ title: "Crimes do Mercado de Capitais (Lei 6.385/76 arts. 27-C a 27-E)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-mercado-capitais-lei-6385.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-mercado-capitais-lei-6385/SKILL.md"
 triggers:
   - "insider trading"
   - "Lei 6.385"
@@ -18,10 +18,15 @@ triggers:
   - "CVM valores mobiliários"
   - "informação privilegiada"
   - "oferta pública irregular"
-description: "Crimes do mercado de capitais Lei 6.385/76: art. 27-C manipulação\ndo mercado (recl. 1-8 + multa até 3x vantagem); art. 27-D uso\nindevido informação privilegiada (insider trading, recl. 1-5);\nart. 27-E exercício irregular cargo/profissão (det. 6m-2a);\nart. 27-F multas em razão do dano/vantagem, até o triplo na\nreincidência; competência justiça federal; CVM como sancionadora;\nacordo administrativo em processo de supervisão (Lei 13.506/2017\narts. 30 e 34, efeitos administrativos)."
+description: "Usar para pesquisar ou analisar: Crimes do Mercado de Capitais (Lei 6.385/76 arts. 27-C a 27-E). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes do Mercado de Capitais
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

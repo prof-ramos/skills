@@ -5,8 +5,8 @@ title: "Parcelamento do Executado / Moratória Legal (CPC 916)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/cumprimento-execucao/parcelamento-executado-cpc-916.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/parcelamento-executado-cpc-916/SKILL.md"
 triggers:
   - "CPC 916"
   - "parcelamento do executado"
@@ -17,10 +17,15 @@ triggers:
   - "renúncia aos embargos parcelamento"
   - "parcelamento no cumprimento de sentença"
   - "CPC 921 V"
-description: "Moratória legal do CPC 916: no prazo dos embargos, executado que\nreconhece o crédito e deposita 30% (mais custas e honorários) pode\npagar o saldo em até 6 parcelas mensais com correção e juros de 1%\na.m.; procedimento dos §§1-4, descumprimento (§5: vencimento\nantecipado + multa de 10%), renúncia aos embargos (§6), vedação no\ncumprimento de sentença (§7, REsp 1.891.577) e inaplicabilidade à\nexecução fiscal (CTN 155-A)."
+description: "Usar para pesquisar ou analisar: Parcelamento do Executado / Moratória Legal (CPC 916). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Parcelamento do Executado / Moratória Legal (CPC 916)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Requisitos cumulativos (caput)
 

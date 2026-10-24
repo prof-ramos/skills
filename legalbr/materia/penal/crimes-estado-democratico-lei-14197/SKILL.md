@@ -5,8 +5,8 @@ title: "Crimes contra o Estado Democrático (Lei 14.197/2021, CP 359-I a 359-T)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/leis-especiais/crimes-estado-democratico-lei-14197.md"
+version: 2
+sourcePath: "legalbr/materia/penal/crimes-estado-democratico-lei-14197/SKILL.md"
 triggers:
   - "Lei 14.197"
   - "Estado Democrático de Direito"
@@ -20,10 +20,15 @@ triggers:
   - "violência política"
   - "tentativa golpe"
   - "Lei 15.402 multidão"
-description: "Lei 14.197/2021 (vigência 01/09/2021), revoga LSN (Lei 7.170/83)\ne cria Título XII CP (arts. 359-I a 359-T): atentado à soberania\n(359-I recl. 3-8); atentado à integridade nacional (359-J 2-6);\nespionagem (359-K 3-12); abolição violenta EDD (359-L recl. 4-8);\ngolpe (359-M recl. 4-12); interrupção processo eleitoral (359-N 3-6);\nviolência política (359-P 3-6); sabotagem (359-R 2-8); 359-T é causa\nde exclusão (manifestação política/jornalismo não é crime); 359-O e\n359-S vetados. Lei 15.402/2026: 359-M-A concurso formal próprio e\n359-M-B redução em contexto de multidão (vigente; aplicação suspensa\npelo STF só nas execuções penais do 8/1, ADIs 7.966/7.967 pendentes)."
+description: "Usar para pesquisar ou analisar: Crimes contra o Estado Democrático (Lei 14.197/2021, CP 359-I a 359-T). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Crimes contra o Estado Democrático
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Lei 14.197/2021: visão geral
 

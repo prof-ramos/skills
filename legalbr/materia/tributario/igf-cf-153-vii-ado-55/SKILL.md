@@ -5,8 +5,8 @@ title: "IGF (CF 153 VII + PLP 277/2008 + ADO 55 STF 06/11/2025)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-federais/igf-cf-153-vii-ado-55.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/igf-cf-153-vii-ado-55/SKILL.md"
 triggers:
   - "IGF"
   - "imposto sobre grandes fortunas"
@@ -18,10 +18,15 @@ triggers:
   - "omissão inconstitucional"
   - "capacidade contributiva"
   - "CF 145 §1"
-description: "IGF CF 153 VII (União): ÚNICO imposto federal JAMAIS instituído\ndesde 1988; exige LC (CF 153 VII), vedada MP (CF 62 §1 III);\nprincípio capacidade contributiva CF 145 §1;\nPLP 277/2008 (0,4-1,5%) + PLP 183/2019 + PLP 5/2026; EC 132/2023\nNÃO TRATOU; STF ADO 55 (06/11/2025) 8x1 reconheceu OMISSÃO\nINCONSTITUCIONAL, sem prazo + sem sanção (só ciência ao Legislativo)."
+description: "Usar para pesquisar ou analisar: IGF (CF 153 VII + PLP 277/2008 + ADO 55 STF 06/11/2025). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # IGF, Imposto sobre Grandes Fortunas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CF 153 VII
 

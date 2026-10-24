@@ -5,8 +5,8 @@ title: "Supremacia e Indisponibilidade do Interesse Público"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/processo-administrativo-atos/supremacia-interesse-publico.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/supremacia-interesse-publico/SKILL.md"
 triggers:
   - "supremacia interesse público"
   - "indisponibilidade interesse público"
@@ -16,10 +16,15 @@ triggers:
   - "autoexecutoriedade atos administrativos"
   - "presunção legitimidade"
   - "prerrogativas da administração"
-description: "Supremacia e indisponibilidade do interesse público: princípios\nestruturantes do regime jurídico-administrativo brasileiro;\nfundamento implícito (CF 37 + estrutura constitucional); distinção\nentre interesse público primário (coletividade) e secundário (Adm);\ndecorrências (presunção de legitimidade, autoexecutoriedade,\nautotutela, prerrogativas processuais); limites (proporcionalidade,\ndireitos fundamentais, LINDB 20-30, controle judicial)."
+description: "Usar para pesquisar ou analisar: Supremacia e Indisponibilidade do Interesse Público. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Supremacia e Indisponibilidade do Interesse Público
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

@@ -5,8 +5,8 @@ title: "Devolução de Parcelas ao Consorciado Desistente (Tema 312 STJ)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/consorcio-devolucao-desistente-tema-312.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/consorcio-devolucao-desistente-tema-312/SKILL.md"
 triggers:
   - "Tema 312 STJ"
   - "REsp 1.119.300"
@@ -19,10 +19,15 @@ triggers:
   - "retenção taxa administração"
   - "restituição parcelas consórcio"
   - "consórcio não contemplado"
-description: "Tema 312 STJ: devolução de parcelas ao consorciado desistente ou\nexcluído NÃO é imediata; ocorre em até 30 dias do encerramento do\ngrupo (Lei 11.795/08, art. 22 §1 + art. 30). Aplicável a desistente\ne excluído. Contemplado em sorteio antecipa devolução."
+description: "Usar para pesquisar ou analisar: Devolução de Parcelas ao Consorciado Desistente (Tema 312 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Devolução ao Consorciado Desistente (Tema 312 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 312 STJ)
 

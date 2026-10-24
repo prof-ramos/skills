@@ -5,8 +5,8 @@ title: "Direitos Políticos (CF 14-17 + Lei 9.709/1998)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/constitucional/direitos-politicos-cf-14.md"
+version: 2
+sourcePath: "legalbr/materia/constitucional/direitos-politicos-cf-14/SKILL.md"
 triggers:
   - "direitos políticos"
   - "CF 14"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 370 STF"
   - "SV 18"
   - "LC 64/1990"
-description: "Direitos políticos sob CF 14-17 + Lei 9.709/1998: soberania\npopular pelo sufrágio universal (cláusula pétrea); plebiscito\n(antes) × referendo (depois) + iniciativa popular; alistamento\nobrigatório 18-70; CF 15 (perda/suspensão — III exige trânsito —\nTema 370); CF 16 anterioridade eleitoral 1 ano; Ficha Limpa (ADCs\n29/30) — colegiada basta; SV 18 (reflexa persiste)."
+description: "Usar para pesquisar ou analisar: Direitos Políticos (CF 14-17 + Lei 9.709/1998). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Direitos Políticos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Soberania popular (CF 14)
 

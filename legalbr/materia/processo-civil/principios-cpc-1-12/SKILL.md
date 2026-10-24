@@ -5,8 +5,8 @@ title: "Princípios Fundamentais do Processo Civil"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/teoria-geral-principios-competencia/principios-cpc-1-12.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/principios-cpc-1-12/SKILL.md"
 triggers:
   - "princípios processo civil"
   - "CPC 1-12"
@@ -22,10 +22,15 @@ triggers:
   - "CPC 332"
   - "GRC gestão e resolução consensual"
   - "sistema de precedentes"
-description: "Princípios CPC 1-12: filtragem constitucional (1); inércia (2);\ninafastabilidade + autocomposição (3); duração razoável + primazia\ndo mérito (4, 317, 488); boa-fé (5); cooperação (6); paridade (7);\nCPC 8; oitiva prévia (9); VEDADA DECISÃO-SURPRESA (10, nulidade;\nmitigada na mera qualificação jurídica de fato já debatido); publicidade (11);\nordem cronológica mitigada (12); GRC (165 + CEJUSC); IA CNJ 615/25."
+description: "Usar para pesquisar ou analisar: Princípios Fundamentais do Processo Civil. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Princípios Fundamentais do Processo Civil
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Filtragem constitucional + base axiológica
 

@@ -5,8 +5,8 @@ title: "ECT/Correios + Monopólio Postal (ADPF 46 + Lei 6.538/1978 + Tema 235)"
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/administrativo/entidades-terceiro-setor/ect-correios-adpf-46.md"
+version: 2
+sourcePath: "legalbr/materia/administrativo/ect-correios-adpf-46/SKILL.md"
 triggers:
   - "ECT"
   - "Correios"
@@ -20,10 +20,15 @@ triggers:
   - "RE 220.906"
   - "precatório CF 100"
   - "privatização dos Correios"
-description: "ADPF 46 (Marco Aurélio/Eros Grau, 05/08/2009): CONSTITUCIONAL\no MONOPÓLIO postal da ECT (Lei 6.538/1978); serviço público\nCF 21 X; ECT empresa pública federal (DL 509/1969); IMUNIDADE\nRECÍPROCA CF 150 VI \"a\" (RE 220.906 + Tema 235 + Tema 402);\nprecatório CF 100 + impenhorabilidade (RE 220.906); debate\nlegislativo de desestatização (PL 591/2021, sem conversão em\nlei); reservadas × concorrenciais."
+description: "Usar para pesquisar ou analisar: ECT/Correios + Monopólio Postal (ADPF 46 + Lei 6.538/1978 + Tema 235). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # ECT/Correios + Monopólio Postal
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## ADPF 46 (Min. Marco Aurélio / Min. Eros Grau redator, 05/08/2009)
 

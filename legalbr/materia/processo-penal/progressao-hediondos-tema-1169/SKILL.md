@@ -5,8 +5,8 @@ title: "Progressão de Regime em Hediondos sem Morte (Tema 1.169 STF)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/execucao-penal-lep/progressao-hediondos-tema-1169.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/progressao-hediondos-tema-1169/SKILL.md"
 triggers:
   - "Tema 1.169 STF"
   - "progressão hediondos reincidente"
@@ -16,10 +16,15 @@ triggers:
   - "reincidente específico hediondo"
   - "frações progressão"
   - "reincidência não específica"
-description: "Tema 1.169 STF (ARE 1.327.963, 17/09/2021): em hediondos\nSEM RESULTADO MORTE, a progressão de regime do REINCIDENTE\nNÃO-ESPECÍFICO (reincidente em crime comum, não hediondo)\nsegue a fração de 40% (LEP 112 V), NÃO os 60% do\nreincidente específico (LEP 112 VII). Lei 13.964/19\n(Pacote Anticrime). Lex mitior aplicável."
+description: "Usar para pesquisar ou analisar: Progressão de Regime em Hediondos sem Morte (Tema 1.169 STF). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Progressão de Regime em Hediondos sem Morte
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

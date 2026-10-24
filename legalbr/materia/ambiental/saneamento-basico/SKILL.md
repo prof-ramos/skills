@@ -6,7 +6,7 @@ category: "materia"
 materia: "ambiental"
 documentType: null
 version: 2
-sourcePath: "lib/skills/official/materia/ambiental/saneamento-basico.md"
+sourcePath: "legalbr/materia/ambiental/saneamento-basico/SKILL.md"
 triggers:
   - "saneamento básico"
   - "Lei 11.445/2007"
@@ -19,10 +19,15 @@ triggers:
   - "tarifa de esgoto"
   - "Resolução ANA 301/2026"
   - "NR 8 ANA universalização"
-description: "Serviços de água, esgoto, resíduos e drenagem sob as Leis 11.445/2007 e 14.026/2020. Inclui metas de universalização e a suspensão restrita do art. 31, IV, da NR ANA 8 apenas em 2026."
+description: "Usar para pesquisar ou analisar: Saneamento Básico (Lei 11.445/2007 + Lei 14.026/2020 Novo Marco). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Saneamento Básico
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Bases legais
 

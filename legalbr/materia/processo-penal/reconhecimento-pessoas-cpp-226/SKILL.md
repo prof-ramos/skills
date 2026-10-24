@@ -5,8 +5,8 @@ title: "Reconhecimento de Pessoas e Coisas (CPP 226-228)"
 category: "materia"
 materia: "processo-penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-penal/provas/reconhecimento-pessoas-cpp-226.md"
+version: 2
+sourcePath: "legalbr/materia/processo-penal/reconhecimento-pessoas-cpp-226/SKILL.md"
 triggers:
   - "CPP 226"
   - "reconhecimento pessoa"
@@ -18,10 +18,15 @@ triggers:
   - "alinhamento pessoas semelhantes"
   - "reconhecimento por foto"
   - "condenação reconhecimento"
-description: "Reconhecimento de pessoas CPP 226 + reconhecimento fotográfico:\nSTJ HC 598.886 (2020): descumprimento das formalidades do art.\n226 invalida o reconhecimento (alinhamento, semelhança, ausência\nde sugestão); reconhecimento por foto isolado não basta para\ncondenação (HC 712.781 + reiterados); Tema 1.258 STJ consolidou:\no art. 226 é de observância obrigatória no inquérito e em juízo,\ne o reconhecimento é prova irrepetível."
+description: "Usar para pesquisar ou analisar: Reconhecimento de Pessoas e Coisas (CPP 226-228). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Reconhecimento de Pessoas e Coisas
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPP 226: Reconhecimento de pessoas
 

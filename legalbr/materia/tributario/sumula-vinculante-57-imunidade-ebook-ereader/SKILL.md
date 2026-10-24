@@ -5,8 +5,8 @@ title: "Súmula Vinculante 57, Imunidade de E-book e E-reader"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/impostos-estaduais-municipais/sumula-vinculante-57-imunidade-ebook-ereader.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sumula-vinculante-57-imunidade-ebook-ereader/SKILL.md"
 triggers:
   - "SV 57"
   - "Súmula Vinculante 57"
@@ -19,10 +19,15 @@ triggers:
   - "Tema 593"
   - "Tema 259"
   - "imunidade cultural"
-description: "SV 57 STF (11/04/2020, publicada 24/04/2020): imunidade do\nCF 150 VI d alcança e-books e e-readers (importação +\ncomercialização interna), inclusive com funcionalidades\nacessórias. Origem: RE 330.817 (Tema 593) + RE 595.676 (Tema\n259). Interpretação evolutiva da imunidade cultural; aplicativo\nde leitura em smartphone NÃO (suporte não exclusivo)."
+description: "Usar para pesquisar ou analisar: Súmula Vinculante 57, Imunidade de E-book e E-reader. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Súmula Vinculante 57, Imunidade de E-book e E-reader
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Texto integral
 

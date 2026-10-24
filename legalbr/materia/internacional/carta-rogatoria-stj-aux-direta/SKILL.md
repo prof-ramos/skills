@@ -5,8 +5,8 @@ title: "Carta Rogatória + Auxílio Direto (CPC 26-41 + RISTJ 216)"
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/carta-rogatoria-stj-aux-direta.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/carta-rogatoria-stj-aux-direta/SKILL.md"
 triggers:
   - "carta rogatória"
   - "auxílio direto"
@@ -18,10 +18,15 @@ triggers:
   - "Protocolo de Las Leñas"
   - "MLAT assistência jurídica mútua"
   - "rogatória passiva"
-description: "Cooperação jurídica internacional (CPC 26-41 + RISTJ 216 e ss.):\ncarta rogatória: pedido de **autoridade jurisdicional estrangeira**\ncom **exequatur do STJ** (CF 105 I i); auxílio direto: pedido\n**não-jurisdicional** (informações, providências administrativas)\nque **não passa** por delibação. Autoridade Central no Brasil:\nMinistério da Justiça (DRCI/SNJ) por padrão; em casos específicos,\nItamaraty + AGU. Limites: contraditório + ordem pública + soberania\n+ reciprocidade. Acordos bilaterais reduzem formalidade (CPC 26 §1).\nCitação + intimação + oitiva + produção de prova + obtenção de\ndocumentos. Tratados aplicáveis: Mercosul Las Leñas + Cooperação\nCivil Haia + acordos bilaterais."
+description: "Usar para pesquisar ou analisar: Carta Rogatória + Auxílio Direto (CPC 26-41 + RISTJ 216). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Carta Rogatória + Auxílio Direto
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

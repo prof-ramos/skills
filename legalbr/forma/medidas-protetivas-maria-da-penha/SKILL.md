@@ -5,8 +5,8 @@ title: "Medidas Protetivas de Urgência (Maria da Penha)"
 category: "forma"
 materia: null
 documentType: "medidas-protetivas"
-version: 1
-sourcePath: "lib/skills/official/forma/medidas-protetivas-maria-da-penha.md"
+version: 2
+sourcePath: "legalbr/forma/medidas-protetivas-maria-da-penha/SKILL.md"
 triggers:
   - "medidas protetivas de urgência"
   - "Lei Maria da Penha"
@@ -18,10 +18,15 @@ triggers:
   - "proibição de contato"
   - "ADC 19"
   - "ADI 4424"
-description: "Medidas protetivas de urgência (Lei 11.340/2006 arts. 18-24-A + Lei\n14.550/2023): concessão em 48h sem oitiva do agressor; subsistem\nAUTÔNOMAS ainda que vítima não represente ou retire representação;\nnatureza CÍVEL com autonomia, INDEPENDENTES de inquérito ou ação penal;\ndescumprimento configura crime (Lei 11.340 art. 24-A); incluem afastamento, contato,\nalimentos, guarda; aplicáveis a mulher TRANS (STJ REsp 1.977.124; STF MI 7.452)."
+description: "Usar para redigir ou revisar: Medidas Protetivas de Urgência (Maria da Penha). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Medidas Protetivas de Urgência: Lei Maria da Penha
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

@@ -5,8 +5,8 @@ title: "Trabalho da Mulher (CLT 372 a 401 + Lei 9.029/95 + Lei 14.457/22)"
 category: "materia"
 materia: "trabalho"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/trabalho/categorias-especiais/trabalho-mulher-clt-372.md"
+version: 2
+sourcePath: "legalbr/materia/trabalho/trabalho-mulher-clt-372/SKILL.md"
 triggers:
   - "trabalho da mulher"
   - "CLT 372"
@@ -16,10 +16,15 @@ triggers:
   - "pausa para amamentação"
   - "Tema 528 STF"
   - "Lei 9.029"
-description: "Trabalho da mulher (CLT 372-401): isonomia + proteção à maternidade\n(CF 7 XVIII + ADCT 10 II \"b\"); intervalo do art. 384 (15min antes HE)\nrecepcionado pela CF/88 para o período pré-Reforma (Tema 528 STF); pausas\npara amamentação (CLT 396); vedação à discriminação (Lei 9.029);\nCIPA-A (Lei 14.457)."
+description: "Usar para pesquisar ou analisar: Trabalho da Mulher (CLT 372 a 401 + Lei 9.029/95 + Lei 14.457/22). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Trabalho da Mulher
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base
 

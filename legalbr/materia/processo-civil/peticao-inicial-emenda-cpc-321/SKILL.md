@@ -5,8 +5,8 @@ title: "Petição Inicial e Emenda (CPC 319-321 + 330)"
 category: "materia"
 materia: "processo-civil"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/processo-civil/peticao-inicial-resposta-saneamento/peticao-inicial-emenda-cpc-321.md"
+version: 2
+sourcePath: "legalbr/materia/processo-civil/peticao-inicial-emenda-cpc-321/SKILL.md"
 triggers:
   - "documentos indispensaveis a propositura"
   - "emenda inicial"
@@ -18,10 +18,15 @@ triggers:
   - "inepcia"
   - "vicio da inicial"
   - "improcedencia liminar"
-description: "Petição inicial (CPC 319) e emenda (CPC 321, prazo 15 dias);\nrequisitos formais (endereço eletrônico, qualificação completa);\ncausas de inépcia (CPC 330 §1); improcedência liminar (CPC 332);\ndocumentos indispensáveis (CPC 320); valor da causa (CPC 291);\ncumulação de pedidos (CPC 327)."
+description: "Usar para pesquisar ou analisar: Petição Inicial e Emenda (CPC 319-321 + 330). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Petição Inicial e Emenda
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## CPC 319, REQUISITOS
 

@@ -5,8 +5,8 @@ title: "Sentimento Religioso + Respeito aos Mortos (CP 208-212)"
 category: "materia"
 materia: "penal"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/penal/parte-especial/sentimento-religioso-respeito-mortos-cp-208-212.md"
+version: 2
+sourcePath: "legalbr/materia/penal/sentimento-religioso-respeito-mortos-cp-208-212/SKILL.md"
 triggers:
   - "CP 208"
   - "ultraje a culto"
@@ -20,10 +20,15 @@ triggers:
   - "CP 212"
   - "vilipêndio cadáver"
   - "intolerância religiosa"
-description: "CP 208, ultraje a culto (escárnio público, perturbação, vilipêndio\nobjeto/ato, det. 1m-1ano, aumento 1/3 se violência); CP 209,\nimpedimento/perturbação cerimônia funerária (det. 1m-1ano +\naumento 1/3 violência); CP 210, violação sepultura (recl. 1-3);\nCP 211, destruir/subtrair/ocultar cadáver (recl. 1-3); CP 212,\nvilipêndio cadáver/cinzas (det. 1-3). Intolerância religiosa ⇒\nLei 7.716 (racismo), lex specialis."
+description: "Usar para pesquisar ou analisar: Sentimento Religioso + Respeito aos Mortos (CP 208-212). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sentimento Religioso + Respeito aos Mortos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Estrutura
 

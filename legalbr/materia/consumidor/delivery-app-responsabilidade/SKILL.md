@@ -5,8 +5,8 @@ title: "Delivery por Aplicativo: Responsabilidade da Plataforma"
 category: "materia"
 materia: "consumidor"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/consumidor/servicos-publicos-e-telecom/delivery-app-responsabilidade.md"
+version: 2
+sourcePath: "legalbr/materia/consumidor/delivery-app-responsabilidade/SKILL.md"
 triggers:
   - "iFood"
   - "Rappi"
@@ -18,10 +18,15 @@ triggers:
   - "atraso na entrega"
   - "cancelamento pedido"
   - "cupom não honrado"
-description: "Delivery por aplicativo (iFood, Rappi, etc.) sob CDC + STF Temas\n987/533: responsabilidade solidária da plataforma\nna cadeia de fornecimento (CDC 7 par. único + 25 §1); ofertas e\ncupons vinculam (CDC 30); responsabilidade objetiva por defeito\ndo serviço (CDC 14), intoxicação alimentar, atraso, troca de\npedido; STF impôs dever proativo de monitoramento para\nplataformas; restituição em dobro (CDC 42 par. único; EAREsp\n676.608 STJ)."
+description: "Usar para pesquisar ou analisar: Delivery por Aplicativo: Responsabilidade da Plataforma. Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Delivery por Aplicativo: Responsabilidade da Plataforma
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

@@ -5,8 +5,8 @@ title: "LBI: Estatuto da PCD (Lei 13.146/2015 + Convenção CF 5 §3)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/lbi-pcd-lei-13146.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/lbi-pcd-lei-13146/SKILL.md"
 triggers:
   - "LBI"
   - "Estatuto PCD"
@@ -21,10 +21,15 @@ triggers:
   - "Lei 12.764 TEA"
   - "carteira CIPTEA"
   - "Lei 13.977 Romeo Mion"
-description: "LBI Lei 13.146/2015 + Convenção PCD (Dec. 6.949/2009, único\ntratado com status constitucional CF 5 §3); modelo SOCIAL +\navaliação biopsicossocial; PCD PRESUMIDA CAPAZ (CC 3 só < 16);\nCURATELA EXCEPCIONAL + PARCIAL (patrimoniais); CC 1.783-A TDA\nTomada de Decisão Apoiada; ADI 5.357 (escolas privadas não\nrepassam custos); ADPF 752 + Lei 12.764 TEA equiparado a PCD;\nCIPTEA (Lei 13.977/2020) + Dec. 8.368/2014 + inclusão escolar."
+description: "Usar para pesquisar ou analisar: LBI: Estatuto da PCD (Lei 13.146/2015 + Convenção CF 5 §3). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # LBI: Estatuto da Pessoa com Deficiência
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base internacional + constitucional
 

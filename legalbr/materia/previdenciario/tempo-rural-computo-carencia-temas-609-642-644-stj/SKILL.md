@@ -5,8 +5,8 @@ title: "Tempo Rural, Cômputo, Carência e Contagem Recíproca (Temas 609, 642 e
 category: "materia"
 materia: "previdenciario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/previdenciario/tempo-rural-computo-carencia-temas-609-642-644-stj.md"
+version: 2
+sourcePath: "legalbr/materia/previdenciario/tempo-rural-computo-carencia-temas-609-642-644-stj/SKILL.md"
 triggers:
   - "Tema 642 STJ"
   - "Tema 644 STJ"
@@ -19,10 +19,15 @@ triggers:
   - "labor rural implemento da idade"
   - "rurícola direito adquirido idade"
   - "averbação tempo rural RPPS"
-description: "Cômputo do tempo rural sob os três repetitivos estruturais do STJ:\nTema 642 (segurado especial deve estar no campo ao implementar a\nidade, ressalvado direito adquirido), Tema 644 (empregado rural com\nCTPS conta tempo pré-1991 inclusive para carência) e Tema 609\n(contagem recíproca em RPPS exige indenização do art. 96 IV);\narts. 48, 55 §2, 96, 142 e 143 da Lei 8.213/91."
+description: "Usar para pesquisar ou analisar: Tempo Rural, Cômputo, Carência e Contagem Recíproca (Temas 609, 642 e 644 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Tempo Rural: Cômputo, Carência e Contagem Recíproca (Temas 609, 642 e 644 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 Três repetitivos do STJ estruturam o contencioso de tempo rural: a exigência de labor no campo no implemento etário (Tema 642), a exceção do empregado rural registrado na regra que veda carência ao tempo pré-1991 (Tema 644) e a indenização como condição da contagem recíproca em RPPS (Tema 609). Requisitos gerais da aposentadoria rural e híbrida em [[aposentadoria-idade]]; regime geral de CTC e averbação em [[tempo-contribuicao-ctc-averbacao]]; trabalho rural do menor de 12 anos em [[tempo-rural-menor-12-anos-tema-1414]].
 

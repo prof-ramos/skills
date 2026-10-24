@@ -5,8 +5,8 @@ title: "Estatuto da Pessoa Idosa (Lei 10.741/2003 + Lei 14.423/2022)"
 category: "materia"
 materia: "diversidade-dh"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/diversidade-dh/estatuto-idoso-lei-10741.md"
+version: 2
+sourcePath: "legalbr/materia/diversidade-dh/estatuto-idoso-lei-10741/SKILL.md"
 triggers:
   - "estatuto do idoso"
   - "estatuto da pessoa idosa"
@@ -22,10 +22,15 @@ triggers:
   - "Tema 952 STJ"
   - "ADI 3.768"
   - "prisão domiciliar idoso"
-description: "Estatuto Pessoa Idosa Lei 10.741/2003 (renomeada Lei 14.423/2022):\n60+ anos + proteção integral CF 230; ALIMENTOS solidários +\nDIREITO DE OPÇÃO entre alimentantes (art. 11-12); transporte\ngratuito >65a (art. 39); reserva 5% vagas (art. 38); crimes 95-\n108 (AP PÚBLICA INCONDICIONADA, art. 95); CP aumentos >60a\n(121 §4 + 129 §4 + 141 IV + 155 §4-A + 157 §2 IV + 171 §4)."
+description: "Usar para pesquisar ou analisar: Estatuto da Pessoa Idosa (Lei 10.741/2003 + Lei 14.423/2022). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Estatuto da Pessoa Idosa
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

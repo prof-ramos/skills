@@ -6,7 +6,7 @@ category: "forma"
 materia: null
 documentType: "recurso-tcu"
 version: 2
-sourcePath: "lib/skills/official/forma/recurso-tcu.md"
+sourcePath: "legalbr/forma/recurso-tcu/SKILL.md"
 triggers:
   - "recurso TCU"
   - "pedido reexame TCU"
@@ -16,10 +16,15 @@ triggers:
   - "Lei 8.443/92"
   - "RITCU"
   - "recurso contra julgamento de contas TCU"
-description: "Recursos junto ao TCU (Lei 8.443/1992 + Regimento Interno do TCU):\npedido de reexame, agravo, embargos de declaração, recurso de\nreconsideração, recurso de revisão; prazos próprios (15 ou 30 dias);\nvinculação aos pressupostos específicos (matéria de competência,\nlegitimidade); efeitos suspensivo ou devolutivo conforme caso;\ncabe em decisões definitivas ou interlocutórias; sumarização dos\nargumentos com base nos atos do TCU."
+description: "Usar para redigir ou revisar: Recursos junto ao Tribunal de Contas da União (TCU). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Recursos junto ao Tribunal de Contas da União (TCU)
+
+Antes de usar, ler o [protocolo LegalBR](../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco normativo
 

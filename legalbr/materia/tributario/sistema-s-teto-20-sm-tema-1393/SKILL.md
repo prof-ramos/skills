@@ -5,8 +5,8 @@ title: "Limite 20 Salários Mínimos Sistema S (Tema 1.393 STF + 1.079 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/contribuicoes-parafiscais/sistema-s-teto-20-sm-tema-1393.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/sistema-s-teto-20-sm-tema-1393/SKILL.md"
 triggers:
   - "Tema 1.393 STF"
   - "Tema 1.079 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "REsp 1.898.532"
   - "contribuições terceiros"
   - "SESI SENAI SESC SENAC"
-description: "Tema 1.393 STF (ARE 1.535.441, 07/05/2025): controvérsia\nINFRACONSTITUCIONAL. Tema 1.079 STJ (REsp 1.898.532,\n13/03/2024): teto de 20 SM da Lei 6.950/81 foi REVOGADO\npelo DL 2.318/86 art. 1 I para SESI/SENAI/SESC/SENAC.\nModulação: tese vincula a partir de 02/05/2024, salvo ações\najuizadas até 25/10/2023 com decisão favorável. Tema 1.390 STJ:\nbase das contribuições ao INCRA, salário-educação, SENAR, SEST,\nSENAT, SESCOOP, SEBRAE, APEX e ABDI também sem teto de 20 SM.\nCF 149 + 240."
+description: "Usar para pesquisar ou analisar: Limite 20 Salários Mínimos Sistema S (Tema 1.393 STF + 1.079 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Sistema S e Limite de 20 Salários Mínimos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

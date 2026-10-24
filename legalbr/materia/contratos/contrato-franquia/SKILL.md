@@ -5,8 +5,8 @@ title: "Contrato de Franquia (Lei 13.966/2019)"
 category: "materia"
 materia: "contratos"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/contratos/contrato-franquia.md"
+version: 2
+sourcePath: "legalbr/materia/contratos/contrato-franquia/SKILL.md"
 triggers:
   - "contrato de franquia"
   - "franchising"
@@ -20,10 +20,15 @@ triggers:
   - "sublocação franquia"
   - "territorialidade franquia"
   - "franquia internacional"
-description: "Franquia (Lei 13.966/2019): COF obrigatória (10 dias, art. 2\n§1; §2: anulabilidade + devolução corrigida); ausência de\nvínculo trabalhista/consumerista (1 §ú); royalties; território."
+description: "Usar para pesquisar ou analisar: Contrato de Franquia (Lei 13.966/2019). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Contrato de Franquia
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base legal
 

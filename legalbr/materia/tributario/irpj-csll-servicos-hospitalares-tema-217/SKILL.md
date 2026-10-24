@@ -5,8 +5,8 @@ title: "Serviços Hospitalares e Alíquota Reduzida de IRPJ/CSLL no Lucro Presum
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/irpj-csll-servicos-hospitalares-tema-217.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/irpj-csll-servicos-hospitalares-tema-217/SKILL.md"
 triggers:
   - "serviços hospitalares lucro presumido"
   - "Tema 217 STJ"
@@ -18,10 +18,15 @@ triggers:
   - "interpretação objetiva serviços hospitalares"
   - "CSLL 12% serviços hospitalares"
   - "sociedade empresária Anvisa"
-description: "Base presumida reduzida de 8% (IRPJ) e 12% (CSLL) para serviços\nhospitalares e de auxílio diagnóstico e terapia (Lei 9.249/95, art. 15,\n§ 1º, III, \"a\", e art. 20): interpretação objetiva do Tema 217 STJ (REsp\n1.116.399), requisitos de sociedade empresária e normas da Anvisa,\nexclusão de simples consultas e segregação de receitas."
+description: "Usar para pesquisar ou analisar: Serviços Hospitalares e Alíquota Reduzida de IRPJ/CSLL no Lucro Presumido (Tema 217 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # Serviços Hospitalares e Alíquota Reduzida de IRPJ/CSLL no Lucro Presumido (Tema 217 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Base normativa
 

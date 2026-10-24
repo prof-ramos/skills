@@ -5,8 +5,8 @@ title: "BIT, ACFI e Proteção Internacional de Investimentos (Modelo Brasileiro
 category: "materia"
 materia: "internacional"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/internacional/bit-tratado-bilateral-investimento.md"
+version: 2
+sourcePath: "legalbr/materia/internacional/bit-tratado-bilateral-investimento/SKILL.md"
 triggers:
   - "BIT"
   - "tratado bilateral de investimento"
@@ -19,10 +19,15 @@ triggers:
   - "investimento estrangeiro"
   - "Convenção de Washington 1965"
   - "expropriação indireta"
-description: "Proteção internacional de investimentos, modelo brasileiro\nespecífico: **ACFI** (Acordo de Cooperação e Facilitação de\nInvestimentos) substituindo BITs tradicionais. Brasil assinou 14\nBITs nos anos 1990, mas **NÃO ratificou nenhum**; **não é parte\ndo ICSID** (Conv. Washington 1965). Desde 2015 adota ACFIs com\nMoçambique, Angola, México, Colômbia, Chile, Etiópia, Malawi,\nSuriname, Peru, Marrocos, Guiana, EAU, Equador, Índia e São Tomé\ne Príncipe, além do Protocolo intra-Mercosul (PCFI).\nDiferenças com BITs: **State-State dispute settlement**, ombudsmen\n+ Joint Committee + prevenção de litígios; **rejeita ISDS direta**\n(investidor-Estado). Cláusulas: definição de investimento, MFN,\ntratamento nacional, transparência, RBC. Aplicação prática:\ninvestidores devem mapear ACFIs aplicáveis antes da estruturação."
+description: "Usar para pesquisar ou analisar: BIT, ACFI e Proteção Internacional de Investimentos (Modelo Brasileiro). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # BIT, ACFI e Proteção Internacional de Investimentos
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Marco legal
 

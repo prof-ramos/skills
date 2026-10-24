@@ -5,8 +5,8 @@ title: "JCP Extemporâneo + Dedução IRPJ/CSLL (Tema 1.319 STJ)"
 category: "materia"
 materia: "tributario"
 documentType: null
-version: 1
-sourcePath: "lib/skills/official/materia/tributario/imposto-renda-lucro/jcp-extemporaneo-irpj-csll-tema-1319.md"
+version: 2
+sourcePath: "legalbr/materia/tributario/jcp-extemporaneo-irpj-csll-tema-1319/SKILL.md"
 triggers:
   - "Tema 1.319 STJ"
   - "juros sobre capital próprio JCP extemporâneo"
@@ -14,10 +14,15 @@ triggers:
   - "Lei 9.249 art 9"
   - "exercício anterior deliberação assemblear"
   - "planejamento tributário JCP"
-description: "Tema 1.319 STJ (1ª Seção, 12/11/2025): é POSSÍVEL deduzir os\njuros sobre capital próprio (JCP) da base de IRPJ e CSLL quando\napurados em EXERCÍCIO ANTERIOR ao da decisão assemblear que\nautoriza o pagamento (JCP extemporâneo), desde que cumpridos os\nrequisitos da Lei 9.249/95 e suas alterações. Não há manobra\npara burlar o limite legal."
+description: "Usar para pesquisar ou analisar: JCP Extemporâneo + Dedução IRPJ/CSLL (Tema 1.319 STJ). Combinar com o protocolo LegalBR e conferir fontes oficiais antes de aplicar."
+verifiedAt: null
+status: "a conferir"
+sources: []
 ---
 
 # JCP Extemporâneo + Dedução IRPJ/CSLL (Tema 1.319 STJ)
+
+Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não foi integralmente verificado; confirmar fundamentos em fontes oficiais.
 
 ## Tese fixada (Tema 1.319 STJ, 1ª Seção, 12/11/2025)
 
