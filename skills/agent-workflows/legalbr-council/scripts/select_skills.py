@@ -177,12 +177,13 @@ def select(root, query, *, area=None, form=None, limit=6, include_content=False)
         chosen.append(next((item for item in ranked if item[1] == form_path), (0, form_path, 'explicit form', [])))
     results = []
     for score, rel, basis, matched in chosen:
-        content = (root / rel).read_text(encoding='utf-8')
+        data = (root / rel).read_bytes()
+        content = data.decode('utf-8')
         meta = metadata(root / rel)
         if meta != records[rel]:
             raise ValueError('catalogue changed during retrieval; retry')
         item = {'path': 'legalbr/' + rel, 'name': meta['name'], 'id': meta.get('id') or None,
-                'version': meta.get('version') or None, 'sha256': hashlib.sha256(content.encode()).hexdigest(),
+                'version': meta.get('version') or None, 'sha256': hashlib.sha256(data).hexdigest(),
                 'score': score, 'matched_terms': matched, 'basis': basis,
                 'legal_verification': 'not performed'}
         if include_content:

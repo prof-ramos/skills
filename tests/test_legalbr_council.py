@@ -89,6 +89,20 @@ class RetrievalTest(unittest.TestCase):
         self.assertEqual(row['id'], 'id-materia/administrativo/remocao')
         self.assertEqual(row['legal_verification'], 'not performed')
 
+    def test_crlf_provenance_matches_file_bytes(self):
+        target = self.root / 'materia/administrativo/remocao/SKILL.md'
+        data = target.read_bytes().replace(b'\n', b'\r\n')
+        target.write_bytes(data)
+        for include_content in (False, True):
+            with self.subTest(include_content=include_content):
+                row = selector.select(self.root, 'saúde', limit=1,
+                                      include_content=include_content)['selected'][0]
+                self.assertEqual(row['sha256'], hashlib.sha256(data).hexdigest())
+                if include_content:
+                    self.assertEqual(row['content'].encode('utf-8'), data)
+                else:
+                    self.assertNotIn('content', row)
+
     def test_body_fallback_and_no_result_do_not_invent_skill(self):
         row = selector.select(self.root, 'quasarxyz')['selected'][0]
         self.assertEqual(row['basis'], 'body fallback')
