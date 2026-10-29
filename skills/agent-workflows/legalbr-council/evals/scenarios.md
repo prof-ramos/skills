@@ -15,3 +15,5 @@ As situações abaixo são fictícias e destinadas a testar limites. Resultado f
 | C6 Formatos | “Com o mesmo caso de C3, gere separadamente parecer, nota técnica e esqueleto de recurso administrativo, sem inventar fatos ou cabimento.” | Escolhe três Formas existentes; adapta estrutura; parecer não vira petição; recurso fica condicionado a cabimento/documentos; não transforma conclusão inconclusiva em vitória. |
 
 Aprovação exige evidências por critério. Registrar também falhas, não só a nota. Uma rodada é amostra limitada, não certificação estatística nem verificação de normas reais. C4 com fonte fornecida testa tratamento da informação, não a capacidade de buscar ou autenticar a fonte; para #16, acrescentar execução real em fontes oficiais acessíveis e mudanças temporais efetivamente checadas.
+
+Execução registrada: [amostra offline de29/10/2026 e avaliação separada](2026-10-29-offline.md). Limites e falhas de cobertura constam no próprio registro.
