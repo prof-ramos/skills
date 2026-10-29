@@ -17,6 +17,8 @@ O protocolo canônico está em [legalbr/SKILL.md](../../legalbr/SKILL.md); leia-
 
 ## Fluxos
 
+- Questões complexas com contraditório: [LegalBR Council](../agent-workflows/legalbr-council/SKILL.md), sem presumir agentes isolados.
+- Doutrina aplicada: [padrão e exemplos](../../legalbr/references/doutrina.md).
 - Pesquisa, redação, LAI, TCU e Fala.BR: [protocolo e roteamento](../../legalbr/SKILL.md).
 - Revisão contratual, NDA e compliance: [fluxos operacionais](references/fluxos-operacionais.md).
 - NDA: [triagem com evidências](../../legalbr/materia/contratos/nda-acordo-confidencialidade/SKILL.md).

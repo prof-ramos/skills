@@ -5,7 +5,7 @@ title: "Recurso Administrativo Geral"
 category: "forma"
 materia: null
 documentType: "recurso-administrativo-geral"
-version: 2
+version: 3
 sourcePath: "legalbr/forma/recurso-administrativo-geral/SKILL.md"
 triggers:
   - "recurso administrativo"
@@ -220,3 +220,7 @@ VIII: Decidir pela inadmissão ou desistência.
 - **Aceitar decisão sem motivação** quando art. 50 a exige (anulação);
 - **Esquecer Súm. 473 STF** + autotutela: base do controle interno;
 - **Não atacar vício de competência** (incompetência absoluta: nulidade).
+
+## Fundamentação doutrinária aplicada
+
+Aplicar o [padrão de doutrina](../../references/doutrina.md). Ao impugnar a decisão, usar doutrina para explicar o vício ou instituto controvertido, conectar cada pressuposto aos documentos e enfrentar a justificativa administrativa mais forte. Não apresentar posição controversa como consenso nem converter doutrina em prova do fato ou da tempestividade. Não inventar edição, página ou citação; manter separadas lei, jurisprudência, doutrina e inferência. Esta orientação metodológica não representa revisão integral dos fundamentos existentes.

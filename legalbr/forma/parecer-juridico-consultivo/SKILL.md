@@ -5,7 +5,7 @@ title: "Parecer Jurídico Consultivo"
 category: "forma"
 materia: null
 documentType: "parecer-juridico-consultivo"
-version: 2
+version: 3
 sourcePath: "legalbr/forma/parecer-juridico-consultivo/SKILL.md"
 triggers:
   - "parecer jurídico consultivo"
@@ -158,3 +158,7 @@ Para pareceres em ambiente corporativo, usa-se com frequência:
 - Confundir parecer com **petição**, não cabe pedido, cabe recomendação.
 - Em licitações (Lei 14.133), não atender ao art. 53.
 - Conclusão **dúbia** que não permite ao gestor decidir, parecer inútil.
+
+## Fundamentação doutrinária aplicada
+
+Aplicar o [padrão de doutrina](../../references/doutrina.md). Na fundamentação, explicar o conceito e os pressupostos doutrinários relevantes, aplicá-los às premissas do parecer e enfrentar a corrente contrária antes da conclusão. Distinguir interpretação própria e posição de autor efetivamente consultado. A bibliografia final não substitui esse raciocínio. Não inventar edição, página ou citação; manter separadas lei, jurisprudência, doutrina e inferência. Esta orientação metodológica não representa revisão integral dos fundamentos existentes.

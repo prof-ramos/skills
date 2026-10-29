@@ -269,3 +269,7 @@ Distribuído sob a licença **MIT**. Consulte [`LICENSE`](LICENSE) para mais det
 <div align="center">
   <sub>Mantido por <a href="https://github.com/prof-ramos">Prof. Ramos</a> • Listado no <a href="https://skills.sh/prof-ramos/skills">skills.sh</a></sub>
 </div>
+
+### LegalBR Council
+
+A [skill de conselho jurídico](skills/agent-workflows/legalbr-council/README.md) combina recuperação local seletiva, contraditório e registro de fontes, com fallback sequencial explícito. O seletor não verifica direito; consultas simples usam modo direto. Veja também o [padrão de doutrina aplicada](legalbr/references/doutrina.md).
