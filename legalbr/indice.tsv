@@ -192,7 +192,7 @@ forma/notificacao-extrajudicial-civel/SKILL.md	notificacao-extrajudicial-civel	f
 forma/notificacao-extrajudicial-consumerista/SKILL.md	notificacao-extrajudicial-consumerista	forma	-	Notificação Extrajudicial Consumerista	2	a conferir	-	-	-
 forma/nunciacao-obra-nova-tutela-inibitoria/SKILL.md	nunciacao-obra-nova-tutela-inibitoria	forma	-	Nunciação de Obra Nova / Tutela Inibitória	2	a conferir	-	-	-
 forma/oficio/SKILL.md	oficio	forma	-	Ofício	2	a conferir	-	-	-
-forma/parecer-juridico-consultivo/SKILL.md	parecer-juridico-consultivo	forma	-	Parecer Jurídico Consultivo	2	a conferir	-	-	-
+forma/parecer-juridico-consultivo/SKILL.md	parecer-juridico-consultivo	forma	-	Parecer Jurídico Consultivo	3	a conferir	-	-	-
 forma/parecer-mp-civel/SKILL.md	parecer-mp-civel	forma	-	Parecer MP Cível (Custos Legis)	2	a conferir	-	-	-
 forma/parecer-mp-execucao-penal/SKILL.md	parecer-mp-execucao-penal	forma	-	Parecer do MP na Execução Penal (LEP 67-68)	2	a conferir	-	-	-
 forma/parecer-mp-recursal/SKILL.md	parecer-mp-recursal	forma	-	Parecer MP Recursal (2º Grau)	2	a conferir	-	-	-
@@ -236,7 +236,7 @@ forma/reclamacao-trabalhista/SKILL.md	reclamacao-trabalhista	forma	-	Reclamaçã
 forma/recuperacao-judicial-pedido/SKILL.md	recuperacao-judicial-pedido	forma	-	Pedido de Recuperação Judicial	2	a conferir	-	-	-
 forma/recurso-adesivo/SKILL.md	recurso-adesivo	forma	-	Recurso Adesivo	2	a conferir	-	-	-
 forma/recurso-administrativo-carf/SKILL.md	recurso-administrativo-carf	forma	-	Recurso Administrativo no CARF	2	a conferir	-	-	-
-forma/recurso-administrativo-geral/SKILL.md	recurso-administrativo-geral	forma	-	Recurso Administrativo Geral	2	a conferir	-	-	-
+forma/recurso-administrativo-geral/SKILL.md	recurso-administrativo-geral	forma	-	Recurso Administrativo Geral	3	a conferir	-	-	-
 forma/recurso-administrativo-previdenciario-crps/SKILL.md	recurso-administrativo-previdenciario-crps	forma	-	Recurso Administrativo Previdenciário (CRPS)	2	a conferir	-	-	-
 forma/recurso-apelacao/SKILL.md	recurso-apelacao	forma	-	Recurso de Apelação	2	a conferir	-	-	-
 forma/recurso-eleitoral/SKILL.md	recurso-eleitoral	forma	-	Recursos Eleitorais (sistema recursal)	2	a conferir	-	-	-
@@ -457,7 +457,7 @@ materia/administrativo/pss-retencao-rpv-precatorio-tema-431-stj/SKILL.md	pss-ret
 materia/administrativo/reducao-jornada-servidor-dependente-pcd/SKILL.md	reducao-jornada-servidor-dependente-pcd	materia	administrativo	Horário Especial e Redução de Jornada para Servidor com Dependente PcD (Lei 8.112 art. 98 + Tema 1.097 STF)	2	a conferir	-	-	-
 materia/administrativo/reforma-agraria-cf-184/SKILL.md	reforma-agraria-cf-184	materia	administrativo	Reforma Agrária (CF 184-191 + Lei 8.629/1993 + LC 76/1993)	2	a conferir	-	-	-
 materia/administrativo/reintegracao-reconducao-servidor/SKILL.md	reintegracao-reconducao-servidor	materia	administrativo	Reintegração e Recondução do Servidor (Lei 8.112/90 arts. 28-30)	2	a conferir	-	-	-
-materia/administrativo/remocao-redistribuicao-servidor/SKILL.md	remocao-redistribuicao-servidor	materia	administrativo	Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37 + Tema 57 STF)	2	a conferir	-	-	-
+materia/administrativo/remocao-redistribuicao-servidor/SKILL.md	remocao-redistribuicao-servidor	materia	administrativo	Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37 + Tema 57 STF)	3	a conferir	-	-	-
 materia/administrativo/reposicao-erario-servidor-tema-1009-stj/SKILL.md	reposicao-erario-servidor-tema-1009-stj	materia	administrativo	Reposição ao Erário por Erro Operacional (Tema 1.009 STJ + Súm. 249 TCU)	2	a conferir	-	-	-
 materia/administrativo/requisicao-administrativa-cf-5-xxv/SKILL.md	requisicao-administrativa-cf-5-xxv	materia	administrativo	Requisição Administrativa (CF 5 XXV + Lei 7.347 + Lei 8.080)	2	a conferir	-	-	-
 materia/administrativo/requisitos-posse-concurso-tema-1015/SKILL.md	requisitos-posse-concurso-tema-1015	materia	administrativo	Requisitos de Posse em Concurso (Tema 1.015 STF + Súm. 266 STJ + Tema 509 STF)	2	a conferir	-	-	-
@@ -633,7 +633,7 @@ materia/civil/enriquecimento-sem-causa-cc-884/SKILL.md	enriquecimento-sem-causa-
 materia/civil/fato-animal-ruina-coisas-cc-936/SKILL.md	fato-animal-ruina-coisas-cc-936	materia	civil	Fato do Animal, Ruína e Coisas Caídas + Responsabilidade do Condomínio (CC 936-938)	2	a conferir	-	-	-
 materia/civil/fianca-cc-818-839/SKILL.md	fianca-cc-818-839	materia	civil	Fiança (CC 818-839 + Lei 8.245/91 + Súm. 332/549 + Tema 1.127 STF)	2	a conferir	-	-	-
 materia/civil/indenizacao-morte-incapacidade-cc-948/SKILL.md	indenizacao-morte-incapacidade-cc-948	materia	civil	Indenização por Morte e Incapacidade + Pensionamento Civil (CC 948-950)	2	a conferir	-	-	-
-materia/civil/interpretacao-negocio-juridico-cc-112/SKILL.md	interpretacao-negocio-juridico-cc-112	materia	civil	Interpretação dos Negócios Jurídicos (CC 112-114 + Lei 13.874/2019)	2	a conferir	-	-	-
+materia/civil/interpretacao-negocio-juridico-cc-112/SKILL.md	interpretacao-negocio-juridico-cc-112	materia	civil	Interpretação dos Negócios Jurídicos (CC 112-114 + Lei 13.874/2019)	3	a conferir	-	-	-
 materia/civil/mandato-cc-653/SKILL.md	mandato-cc-653	materia	civil	Mandato (CC 653-692 + Lei 14.382/2022 + SERP)	2	a conferir	-	-	-
 materia/civil/mediacao-lei-13140/SKILL.md	mediacao-lei-13140	materia	civil	Mediação (Lei 13.140/2015)	2	a conferir	-	-	-
 materia/civil/mora-perdas-danos-cc-394/SKILL.md	mora-perdas-danos-cc-394	materia	civil	Mora e Perdas e Danos (CC 389-405)	2	a conferir	-	-	-
@@ -688,7 +688,7 @@ materia/constitucional/controle-constitucionalidade-reproducao-obrigatoria-tema-
 materia/constitucional/controle-convencionalidade-cadh/SKILL.md	controle-convencionalidade-cadh	materia	constitucional	Controle de Convencionalidade (CADH + STF Tema 60 + Corte IDH)	2	a conferir	-	-	-
 materia/constitucional/cpi-cf-58/SKILL.md	cpi-cf-58	materia	constitucional	Comissão Parlamentar de Inquérito (CPI): CF 58 §3 + Lei 1.579/1952	2	a conferir	-	-	-
 materia/constitucional/direito-adquirido-ato-juridico-perfeito/SKILL.md	direito-adquirido-ato-juridico-perfeito	materia	constitucional	Direito Adquirido + Ato Jurídico Perfeito + Coisa Julgada (CF 5 XXXVI)	2	a conferir	-	-	-
-materia/constitucional/direitos-fundamentais-teoria/SKILL.md	direitos-fundamentais-teoria	materia	constitucional	Direitos Fundamentais: Teoria + Aplicação (CF 5 + 6 + tratados de DH)	2	a conferir	-	-	-
+materia/constitucional/direitos-fundamentais-teoria/SKILL.md	direitos-fundamentais-teoria	materia	constitucional	Direitos Fundamentais: Teoria + Aplicação (CF 5 + 6 + tratados de DH)	3	a conferir	-	-	-
 materia/constitucional/direitos-politicos-cf-14/SKILL.md	direitos-politicos-cf-14	materia	constitucional	Direitos Políticos (CF 14-17 + Lei 9.709/1998)	2	a conferir	-	-	-
 materia/constitucional/estado-coisas-inconstitucional-adpf-347/SKILL.md	estado-coisas-inconstitucional-adpf-347	materia	constitucional	Estado de Coisas Inconstitucional (ADPF 347 STF)	2	a conferir	-	-	-
 materia/constitucional/federalismo-covid-adis-6341-6342/SKILL.md	federalismo-covid-adis-6341-6342	materia	constitucional	Federalismo Cooperativo COVID (ADIs 6.341 e 6.342 + ADPF 672 STF)	2	a conferir	-	-	-

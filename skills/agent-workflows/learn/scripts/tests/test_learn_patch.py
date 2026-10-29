@@ -66,6 +66,7 @@ class ApplyPatchToTargetTests(unittest.TestCase):
         self.assertEqual(nested_target.read_text(encoding="utf-8"), "# Novo arquivo\n")
 
     def test_conflicting_diff_returns_failure_without_raising(self) -> None:
+        original = self.target.read_bytes()
         # Context ("linha que nao existe") never matches the real file content.
         bad_diff = (
             "--- AGENTS.md\n"
@@ -80,6 +81,7 @@ class ApplyPatchToTargetTests(unittest.TestCase):
 
         self.assertFalse(result.success)
         self.assertNotIn("Nunca deveria ser aplicado.", self.target.read_text(encoding="utf-8"))
+        self.assertEqual(self.target.read_bytes(), original)
 
     def test_no_leftover_orig_backup_file(self) -> None:
         apply_patch_to_target(self.target, DIFF_ADD_LINE)

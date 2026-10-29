@@ -5,7 +5,7 @@ title: "Interpretação dos Negócios Jurídicos (CC 112-114 + Lei 13.874/2019)"
 category: "materia"
 materia: "civil"
 documentType: null
-version: 2
+version: 3
 sourcePath: "legalbr/materia/civil/interpretacao-negocio-juridico-cc-112/SKILL.md"
 triggers:
   - "interpretação do negócio jurídico"
@@ -159,3 +159,7 @@ Antes de usar, ler o [protocolo LegalBR](../../../SKILL.md). Este arquivo não f
 - Confundir **boa-fé subjetiva** (estado anímico) com **objetiva** (CC 422, conduta);
 - Interpretar contratos **atípicos** sem observar ordem pública (CC 425);
 - Não aplicar **conservação** do contrato (preferência pela eficácia).
+
+## Fundamentação doutrinária aplicada
+
+Aplicar o [padrão de doutrina](../../../references/doutrina.md). Distinguir intenção subjetiva, declaração e confiança objetivamente justificável; explicar como a construção adotada organiza a leitura do comportamento das partes. Enfrentar interpretação alternativa e fatos que a favorecem. Não equiparar toda mudança de comportamento a violação da boa-fé nem atribuir fórmula a autor não lido. Não inventar edição, página ou citação; manter separadas lei, jurisprudência, doutrina e inferência. Esta orientação metodológica não representa revisão integral dos fundamentos existentes.

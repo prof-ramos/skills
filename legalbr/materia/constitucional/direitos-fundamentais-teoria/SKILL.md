@@ -5,7 +5,7 @@ title: "Direitos Fundamentais: Teoria + Aplicação (CF 5 + 6 + tratados de DH)"
 category: "materia"
 materia: "constitucional"
 documentType: null
-version: 2
+version: 3
 sourcePath: "legalbr/materia/constitucional/direitos-fundamentais-teoria/SKILL.md"
 triggers:
   - "direitos fundamentais"
@@ -144,3 +144,7 @@ Em conflito entre princípios constitucionais, exige-se ponderação caso a caso
 - A legítima defesa da honra é inconstitucional (ADPF 779).
 - A proteção às terras de ocupação tradicional indígena independe de marco temporal em 05/10/1988 (Tema 1.031 STF).
 - O ECI é instrumento operativo, não mera construção teórica (ADPF 347 + ADPF 708).
+
+## Fundamentação doutrinária aplicada
+
+Aplicar o [padrão de doutrina](../../../references/doutrina.md). Explicitar a escolha entre aplicação de regra e ponderação de princípios, seus pressupostos e críticas pertinentes. Aplicar a metodologia aos direitos, restrição e alternativas concretas, sem tratar uma corrente como consenso. A menção a autor ou ao resumo de artigo não comprova leitura de sua obra nem solução para o caso. Não inventar edição, página ou citação; manter separadas lei, jurisprudência, doutrina e inferência. Esta orientação metodológica não representa revisão integral dos fundamentos existentes.

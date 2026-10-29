@@ -7,6 +7,7 @@ and frontmatter integrity across the skills repository.
 import os
 import re
 import subprocess
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -73,14 +74,13 @@ def parse_frontmatter(file_path: Path):
 
 def run_cli_add_list(args):
     cmd = ["npx", "skills", "add"] + args
-    res = subprocess.run(
-        cmd,
-        cwd=str(REPO_ROOT),
-        capture_output=True,
-        text=True,
-        timeout=120,
-    )
-    return res
+    # Node CLIs may exit before flushing a large piped stdout. Regular files
+    # preserve the entire list; otherwise a correct count can mask lost names.
+    with tempfile.TemporaryFile(mode="w+", encoding="utf-8") as stdout, tempfile.TemporaryFile(mode="w+", encoding="utf-8") as stderr:
+        res = subprocess.run(cmd, cwd=str(REPO_ROOT), stdout=stdout, stderr=stderr, text=True, timeout=120)
+        stdout.seek(0)
+        stderr.seek(0)
+        return subprocess.CompletedProcess(cmd, res.returncode, stdout.read(), stderr.read())
 
 
 def extract_skills_from_cli_output(output: str):
@@ -112,11 +112,12 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
             self.assertTrue(fm["description"], f"Missing description in {rel_path}")
 
     def test_02_cli_root_default_discovery(self):
-        """Verify npx skills add . --list runs without error and discovers 25 skills."""
+        """Verify npx skills add . --list runs without error and discovers 26 skills."""
         res = run_cli_add_list([".", "--list"])
         self.assertEqual(res.returncode, 0, f"CLI exited with {res.returncode}: {res.stderr}")
         found_count, discovered = extract_skills_from_cli_output(res.stdout)
-        self.assertEqual(found_count, 25, f"Expected 25 skills, found {found_count}")
+        self.assertEqual(found_count, 26, f"Expected 26 skills, found {found_count}")
+        self.assertIn("legalbr-council", discovered)
         self.assertIn("social-carousel", discovered)
         self.assertIn("gerador-de-simulados", discovered)
 
@@ -131,16 +132,19 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
         self.assertEqual(res.returncode, 0, res.stderr)
         found_count, discovered = extract_skills_from_cli_output(res.stdout)
         self.assertEqual(found_count, 2156)
+        self.assertEqual(len(discovered), found_count, "CLI must list every discovered skill")
         # Verify the 9 legalbr renamed skills are in discovered set
         for expected_name, rel_path in RENAMED_SKILLS[2:]:
             self.assertIn(expected_name, discovered, f"Skill {expected_name} missing from ./legalbr discovery")
 
     def test_04_cli_root_full_depth_discovery(self):
-        """Verify npx skills add . --list --full-depth discovers all 2185 skills."""
+        """Verify npx skills add . --list --full-depth discovers all 2186 skills."""
         res = run_cli_add_list([".", "--list", "--full-depth"])
         self.assertEqual(res.returncode, 0, f"CLI exited with {res.returncode}: {res.stderr}")
         found_count, discovered = extract_skills_from_cli_output(res.stdout)
-        self.assertEqual(found_count, 2185, f"Expected 2185 skills, found {found_count}")
+        self.assertEqual(found_count, 2186, f"Expected 2186 skills, found {found_count}")
+        self.assertEqual(len(discovered), found_count, "CLI must list every discovered skill")
+        self.assertIn("legalbr-council", discovered)
 
     def test_05_collision_freedom_across_all_physical_skills(self):
         """Verify that skill names have zero unintended collisions."""
@@ -176,7 +180,7 @@ class TestCliDiscoveryAndDirectoryHierarchy(unittest.TestCase):
         res2 = run_cli_add_list([str(REPO_ROOT), "--list"])
         self.assertEqual(res2.returncode, 0)
         found2, _ = extract_skills_from_cli_output(res2.stdout)
-        self.assertEqual(found2, 25)
+        self.assertEqual(found2, 26)
 
         # 3. Subcategory deep discovery without full-depth
         res3 = run_cli_add_list(["./legalbr/materia/tributario", "--list"])

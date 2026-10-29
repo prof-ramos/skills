@@ -5,7 +5,7 @@ title: "Remoção e Redistribuição do Servidor (Lei 8.112 arts. 36-37 + Tema 5
 category: "materia"
 materia: "administrativo"
 documentType: null
-version: 2
+version: 3
 sourcePath: "legalbr/materia/administrativo/remocao-redistribuicao-servidor/SKILL.md"
 triggers:
   - "remoção de servidor"
@@ -107,3 +107,7 @@ Preceitos cumulativos: interesse da administração; **equivalência de vencimen
 - Autorizar transferência ex officio de instituição **privada para pública** havendo congênere privada no destino (ADI 3324); a exceção do Tema 57 pressupõe **inexistência de congênere**;
 - Aplicar a Lei 9.536/97 a deslocamento voluntário ou decorrente de **aprovação em concurso**;
 - Esquecer que redistribuição exige **equivalência de vencimentos e essência das atribuições**: não é instrumento de reenquadramento.
+
+## Fundamentação doutrinária aplicada
+
+Aplicar o [padrão de doutrina](../../../references/doutrina.md). Explicar a distinção entre atuação vinculada e discricionária e entre deslocamento do servidor e do cargo; testar seus pressupostos contra o regime e os fatos. Confrontar a tese favorável com a insuficiência de prova ou com a hipótese normativa diversa, sem presumir direito automático. Obra apenas localizada em catálogo não sustenta atribuição específica ao autor. Não inventar edição, página ou citação; manter separadas lei, jurisprudência, doutrina e inferência. Esta orientação metodológica não representa revisão integral dos fundamentos existentes.

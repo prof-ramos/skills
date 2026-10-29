@@ -37,3 +37,4 @@ check-learn-patch:
 check-legalbr:
 	$(PYTHON) legalbr/scripts/catalogo.py --check
 	$(PYTHON) tests/test_legalbr_workflows.py
+	$(PYTHON) tests/test_legalbr_council.py

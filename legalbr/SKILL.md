@@ -24,6 +24,10 @@ Separar três avaliações: estado da norma, força da fonte e aderência ao cas
 
 Não confiar automaticamente em `verifiedAt`: data ausente ou superior a 12 meses exige revisão; uma mudança normativa relevante exige revisão imediata, mesmo com data recente. `reviewedAt` com `reviewScope` é revisão parcial e não valida o arquivo inteiro. Consultar também fontes posteriores à última revisão.
 
+## Integrar doutrina quando pertinente
+
+Aplicar o [padrão de doutrina](references/doutrina.md): explicar conceitos e pressupostos, confrontar correntes relevantes e aplicar a construção aos fatos, articulando lei, doutrina e jurisprudência. Referências só confirmam o alcance efetivamente consultado; catálogo bibliográfico não prova leitura. Não inventar autores, edições, páginas ou consenso.
+
 ## Redigir com integridade
 
 Separar fato documentado, relato, inferência e hipótese. Em denúncias, narrar fatos e indicar documentos, pedindo apuração; não atribuir crime ou dolo como comprovados sem suporte. Não sugerir que linguagem cautelosa imuniza contra responsabilidade: avaliar concretamente honra e os elementos do art. 339 do CP.

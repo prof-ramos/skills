@@ -42,8 +42,10 @@ def apply_patch_to_target(target_path: Path, diff_text: str) -> PatchResult:
     target_path.parent.mkdir(parents=True, exist_ok=True)
     original_text = target_path.read_text(encoding="utf-8") if target_path.exists() else ""
 
+    # Require every context line to match: patch's default fuzz can discard
+    # all context in a short hunk and apply it to an unrelated file state.
     result = subprocess.run(
-        ["patch", "--batch", "-p0"],
+        ["patch", "--batch", "-F", "0", "-p0"],
         input=diff_text,
         cwd=str(target_path.parent),
         capture_output=True,
